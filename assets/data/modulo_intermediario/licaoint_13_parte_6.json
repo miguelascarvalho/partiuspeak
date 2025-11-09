@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112132",
+    "text_pt": "Fogão / Cozinha / Assar / Fritar",
+    "text_en": "Stove / Kitchen / Baking / Frying",
+    "audio_en_storage_path": "2132_stove_kitchen_baking_frying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112133",
+    "text_pt": "O fogão fica na cozinha.",
+    "text_en": "The stove is in the kitchen.",
+    "audio_en_storage_path": "2133_the_stove_is_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112134",
+    "text_pt": "É onde eu cozinho e frito comida.",
+    "text_en": "It's where I cook and fry food.",
+    "audio_en_storage_path": "2134_its_where_i_cook_and_fry_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112135",
+    "text_pt": "Eu o uso para fazer ovos, ferver água ou esquentar sopa.",
+    "text_en": "I use it to make eggs. boil water. or heat soup.",
+    "audio_en_storage_path": "2135_i_use_it_to_make_eggs_boil_water_or_heat_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112136",
+    "text_pt": "Às vezes eu frito batatas ou refogo vegetais.",
+    "text_en": "Sometimes I fry potatoes or sauté vegetables.",
+    "audio_en_storage_path": "2136_sometimes_i_fry_potatoes_or_saute_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112137",
+    "text_pt": "É preto, com quatro bocas e botões de metal.",
+    "text_en": "It is black with four burners and metal knobs.",
+    "audio_en_storage_path": "2137_it_is_black_with_four_burners_and_metal_knobs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112138",
+    "text_pt": "Há panelas e frigideiras em cima.",
+    "text_en": "There are pots and pans on top.",
+    "audio_en_storage_path": "2138_there_are_pots_and_pans_on_top.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112139",
+    "text_pt": "Ao lado, há óleo, sal e alho.",
+    "text_en": "There is oil. salt. and garlic next to it.",
+    "audio_en_storage_path": "2139_there_is_oil_salt_and_garlic_next_to_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112140",
+    "text_pt": "E uma colher de pau para mexer.",
+    "text_en": "And a wooden spoon for stirring.",
+    "audio_en_storage_path": "2140_and_a_wooden_spoon_for_stirring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112141",
+    "text_pt": "O que você cozinha no fogão?",
+    "text_en": "What do you cook on the stove?",
+    "audio_en_storage_path": "2141_what_do_you_cook_on_the_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112142",
+    "text_pt": "Pasta. arroz. ovos mexidos — refeições simples.",
+    "text_en": "Folder. rice. scrambled eggs — simple meals.",
+    "audio_en_storage_path": "2142_folder_rice_scrambled_eggs_simple_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112143",
+    "text_pt": "Onde você guarda suas panelas?",
+    "text_en": "Where do you keep your pans?",
+    "audio_en_storage_path": "2143_where_do_you_keep_your_pans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112144",
+    "text_pt": "Debaixo do fogão — no armário.",
+    "text_en": "Under the stove — in the cabinet.",
+    "audio_en_storage_path": "2144_under_the_stove_in_the_cabinet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112145",
+    "text_pt": "Às vezes cozinho rápido. Às vezes, devagar.",
+    "text_en": "Sometimes I cook fast. sometimes slow.",
+    "audio_en_storage_path": "2145_sometimes_i_cook_fast_sometimes_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112146",
+    "text_pt": "Depende de quanto tempo eu tenho.",
+    "text_en": "It depends on how much time I have.",
+    "audio_en_storage_path": "2146_it_depends_on_how_much_time_i_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112147",
+    "text_pt": "Onde está a frigideira agora?",
+    "text_en": "Where is the frying pan now?",
+    "audio_en_storage_path": "2147_where_is_the_frying_pan_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112148",
+    "text_pt": "No fogão — ainda quente do cozimento.",
+    "text_en": "On the stove — still warm from cooking.",
+    "audio_en_storage_path": "2148_on_the_stove_still_warm_from_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112149",
+    "text_pt": "Quando você usará o fogão novamente?",
+    "text_en": "When will you use the stove again?",
+    "audio_en_storage_path": "2149_when_will_you_use_the_stove_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112150",
+    "text_pt": "Em cerca de uma hora — quando o jantar começar.",
+    "text_en": "In about an hour — when dinner starts.",
+    "audio_en_storage_path": "2150_in_about_an_hour_when_dinner_starts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112151",
+    "text_pt": "Por que você desligou o fogão mais cedo?",
+    "text_en": "Why did you turn off the stove early?",
+    "audio_en_storage_path": "2151_why_did_you_turn_off_the_stove_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112152",
+    "text_pt": "Porque minha comida já estava pronta.",
+    "text_en": "Because my food was already done.",
+    "audio_en_storage_path": "2152_because_my_food_was_already_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112153",
+    "text_pt": "Eu cozinho alguma coisa no fogão todos os dias.",
+    "text_en": "I cook something on the stove every day.",
+    "audio_en_storage_path": "2153_i_cook_something_on_the_stove_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112154",
+    "text_pt": "Faz parte da minha rotina diária.",
+    "text_en": "It's part of my daily routine.",
+    "audio_en_storage_path": "2154_its_part_of_my_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112155",
+    "text_pt": "Amanhã. Não vou esquecer de desligar o fogão.",
+    "text_en": "Tomorrow. I will not forget to turn off the stove.",
+    "audio_en_storage_path": "2155_tomorrow_i_will_not_forget_to_turn_off_the_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112156",
+    "text_pt": "Vou verificar novamente antes de sair da cozinha.",
+    "text_en": "I’ll double-check before leaving the kitchen.",
+    "audio_en_storage_path": "2156_ill_doublecheck_before_leaving_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112157",
+    "text_pt": "Tome cuidado!",
+    "text_en": "Be careful!",
+    "audio_en_storage_path": "2157_be_careful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112158",
+    "text_pt": "O fogão fica muito quente.",
+    "text_en": "The stove gets very hot.",
+    "audio_en_storage_path": "2158_the_stove_gets_very_hot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

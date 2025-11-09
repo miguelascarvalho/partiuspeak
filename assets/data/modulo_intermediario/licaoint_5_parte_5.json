@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110626",
+    "text_pt": "Sexta-feira – Nós (No fim de semana)",
+    "text_en": "Friday – Us (On the weekend)",
+    "audio_en_storage_path": "626_friday_us_on_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110627",
+    "text_pt": "Foco: Planos e atividades de fim de semana em família",
+    "text_en": "Focus: Family weekend plans and activities",
+    "audio_en_storage_path": "627_focus_family_weekend_plans_and_activities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110628",
+    "text_pt": "Acordamos tarde nas sextas-feiras.",
+    "text_en": "We wake up late on Fridays.",
+    "audio_en_storage_path": "628_we_wake_up_late_on_fridays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110629",
+    "text_pt": "Sem pressa, o fim de semana está chegando.",
+    "text_en": "No rush — the weekend is coming soon.",
+    "audio_en_storage_path": "629_no_rush_the_weekend_is_coming_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110630",
+    "text_pt": "Comemos panquecas e bebemos suco no café da manhã.",
+    "text_en": "We eat pancakes and drink juice for breakfast.",
+    "audio_en_storage_path": "630_we_eat_pancakes_and_drink_juice_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110631",
+    "text_pt": "A família inteira se diverte.",
+    "text_en": "The whole family enjoys it.",
+    "audio_en_storage_path": "631_the_whole_family_enjoys_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110632",
+    "text_pt": "Saímos juntos à tarde.",
+    "text_en": "We go out together in the afternoon.",
+    "audio_en_storage_path": "632_we_go_out_together_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110633",
+    "text_pt": "Às vezes, ao cinema ou ao shopping.",
+    "text_en": "Sometimes to the movies or the mall.",
+    "audio_en_storage_path": "633_sometimes_to_the_movies_or_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110634",
+    "text_pt": "Nós cozinhamos o jantar juntos.",
+    "text_en": "We cook dinner together.",
+    "audio_en_storage_path": "634_we_cook_dinner_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110635",
+    "text_pt": "Um lava os vegetais. outro os corta.",
+    "text_en": "One washes vegetables. another cuts them.",
+    "audio_en_storage_path": "635_one_washes_vegetables_another_cuts_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110636",
+    "text_pt": "Mais tarde, assistimos ao nosso programa favorito.",
+    "text_en": "Later. we watch our favorite show.",
+    "audio_en_storage_path": "636_later_we_watch_our_favorite_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110637",
+    "text_pt": "Ou jogamos jogos de tabuleiro e rimos.",
+    "text_en": "Or we play board games and laugh.",
+    "audio_en_storage_path": "637_or_we_play_board_games_and_laugh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110638",
+    "text_pt": "Falamos sobre nossos sonhos e planos futuros.",
+    "text_en": "We talk about our dreams and future plans.",
+    "audio_en_storage_path": "638_we_talk_about_our_dreams_and_future_plans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110639",
+    "text_pt": "É um momento especial.",
+    "text_en": "It’s a special moment.",
+    "audio_en_storage_path": "639_its_a_special_moment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110640",
+    "text_pt": "O que gostamos de fazer nas sextas-feiras?",
+    "text_en": "What do we like to do on Fridays?",
+    "audio_en_storage_path": "640_what_do_we_like_to_do_on_fridays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110641",
+    "text_pt": "Gostamos de relaxar e ficar juntos.",
+    "text_en": "We like to relax and be together.",
+    "audio_en_storage_path": "641_we_like_to_relax_and_be_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110642",
+    "text_pt": "Para onde vamos hoje?",
+    "text_en": "Where are we going today?",
+    "audio_en_storage_path": "642_where_are_we_going_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110643",
+    "text_pt": "Ao cinema com amigos e familiares.",
+    "text_en": "To the cinema with friends and family.",
+    "audio_en_storage_path": "643_to_the_cinema_with_friends_and_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110644",
+    "text_pt": "Por que sorrimos mais às sextas-feiras?",
+    "text_en": "Why do we smile more on Fridays?",
+    "audio_en_storage_path": "644_why_do_we_smile_more_on_fridays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110645",
+    "text_pt": "Porque sabemos que amanhã é sábado.",
+    "text_en": "Because we know tomorrow is Saturday.",
+    "audio_en_storage_path": "645_because_we_know_tomorrow_is_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110646",
+    "text_pt": "Gostamos de passar tempo juntos.",
+    "text_en": "We enjoy spending time together.",
+    "audio_en_storage_path": "646_we_enjoy_spending_time_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110647",
+    "text_pt": "Isso nos aproxima.",
+    "text_en": "It brings us closer.",
+    "audio_en_storage_path": "647_it_brings_us_closer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110648",
+    "text_pt": "Amanhã não acordaremos cedo.",
+    "text_en": "Tomorrow. we will not wake up early.",
+    "audio_en_storage_path": "648_tomorrow_we_will_not_wake_up_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110649",
+    "text_pt": "Descansaremos e recarregaremos as energias.",
+    "text_en": "We will rest and recharge.",
+    "audio_en_storage_path": "649_we_will_rest_and_recharge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110650",
+    "text_pt": "Tenham um ótimo final de semana a todos!",
+    "text_en": "Have a great weekend. everyone!",
+    "audio_en_storage_path": "650_have_a_great_weekend_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110651",
+    "text_pt": "Aproveite seu tempo livre!",
+    "text_en": "Enjoy your time off!",
+    "audio_en_storage_path": "651_enjoy_your_time_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

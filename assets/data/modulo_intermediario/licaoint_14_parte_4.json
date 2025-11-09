@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112267",
+    "text_pt": "Cafeteira",
+    "text_en": "Coffee Maker",
+    "audio_en_storage_path": "2267_coffee_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112268",
+    "text_pt": "A máquina de café está no balcão.",
+    "text_en": "The coffee machine is on the counter.",
+    "audio_en_storage_path": "2268_the_coffee_machine_is_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112269",
+    "text_pt": "Faz café pela manhã.",
+    "text_en": "It makes coffee in the morning.",
+    "audio_en_storage_path": "2269_it_makes_coffee_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112270",
+    "text_pt": "Eu o uso para preparar café para mim ou para convidados.",
+    "text_en": "I use it to brew coffee for myself or guests.",
+    "audio_en_storage_path": "2270_i_use_it_to_brew_coffee_for_myself_or_guests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112271",
+    "text_pt": "Alguns gostam dele forte. Outros, leve.",
+    "text_en": "Some like it strong. others light.",
+    "audio_en_storage_path": "2271_some_like_it_strong_others_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112272",
+    "text_pt": "É preto, tem um pote de vidro e um relógio digital.",
+    "text_en": "It is black with a glass pot and digital clock.",
+    "audio_en_storage_path": "2272_it_is_black_with_a_glass_pot_and_digital_clock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112273",
+    "text_pt": "Faz barulho ao preparar o café.",
+    "text_en": "It makes noise when brewing.",
+    "audio_en_storage_path": "2273_it_makes_noise_when_brewing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112274",
+    "text_pt": "Há pó de café no filtro.",
+    "text_en": "There is coffee powder in the filter.",
+    "audio_en_storage_path": "2274_there_is_coffee_powder_in_the_filter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112275",
+    "text_pt": "E água atrás.",
+    "text_en": "And water in the back.",
+    "audio_en_storage_path": "2275_and_water_in_the_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112276",
+    "text_pt": "Quanto café você faz de uma vez?",
+    "text_en": "How much coffee do you make at once?",
+    "audio_en_storage_path": "2276_how_much_coffee_do_you_make_at_once.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112277",
+    "text_pt": "Geralmente é suficiente para duas canecas.",
+    "text_en": "Usually enough for two mugs.",
+    "audio_en_storage_path": "2277_usually_enough_for_two_mugs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112278",
+    "text_pt": "Onde você guarda os filtros?",
+    "text_en": "Where do you keep the filters?",
+    "audio_en_storage_path": "2278_where_do_you_keep_the_filters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112279",
+    "text_pt": "Na gaveta — embaixo da cafeteira.",
+    "text_en": "In the drawer — under the coffee maker.",
+    "audio_en_storage_path": "2279_in_the_drawer_under_the_coffee_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112280",
+    "text_pt": "Às vezes eu uso manualmente.",
+    "text_en": "Sometimes I use it manually.",
+    "audio_en_storage_path": "2280_sometimes_i_use_it_manually.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112281",
+    "text_pt": "Outras vezes, coloco um cronômetro.",
+    "text_en": "Other times I set a timer.",
+    "audio_en_storage_path": "2281_other_times_i_set_a_timer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112282",
+    "text_pt": "Onde está a cafeteira agora?",
+    "text_en": "Where is the coffee pot now?",
+    "audio_en_storage_path": "2282_where_is_the_coffee_pot_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112283",
+    "text_pt": "Na máquina — ainda quente.",
+    "text_en": "On the machine — still warm.",
+    "audio_en_storage_path": "2283_on_the_machine_still_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112284",
+    "text_pt": "Quando você fará café novamente?",
+    "text_en": "When will you make coffee again?",
+    "audio_en_storage_path": "2284_when_will_you_make_coffee_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112285",
+    "text_pt": "Amanhã cedo — como sempre.",
+    "text_en": "Early tomorrow — as usual.",
+    "audio_en_storage_path": "2285_early_tomorrow_as_usual.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112286",
+    "text_pt": "Por que você limpou a cafeteira hoje?",
+    "text_en": "Why did you clean the coffee maker today?",
+    "audio_en_storage_path": "2286_why_did_you_clean_the_coffee_maker_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112287",
+    "text_pt": "Porque parecia sujo e cheirava a velho.",
+    "text_en": "Because it looked dirty and smelled old.",
+    "audio_en_storage_path": "2287_because_it_looked_dirty_and_smelled_old.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112288",
+    "text_pt": "Eu faço café todas as manhãs.",
+    "text_en": "I make coffee every morning.",
+    "audio_en_storage_path": "2288_i_make_coffee_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112289",
+    "text_pt": "Ela me acorda e começa o meu dia.",
+    "text_en": "It wakes me up and starts my day.",
+    "audio_en_storage_path": "2289_it_wakes_me_up_and_starts_my_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112290",
+    "text_pt": "Amanhã. Não vou esquecer de adicionar água novamente.",
+    "text_en": "Tomorrow. I will not forget to add water again.",
+    "audio_en_storage_path": "2290_tomorrow_i_will_not_forget_to_add_water_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112291",
+    "text_pt": "Ontem tentei ligá-lo sem água.",
+    "text_en": "I tried turning it on without water yesterday.",
+    "audio_en_storage_path": "2291_i_tried_turning_it_on_without_water_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112292",
+    "text_pt": "Hora do preparo!",
+    "text_en": "Brew time!",
+    "audio_en_storage_path": "2292_brew_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112293",
+    "text_pt": "O café está pronto — aproveite enquanto está quente.",
+    "text_en": "Coffee is ready — enjoy it while it’s hot.",
+    "audio_en_storage_path": "2293_coffee_is_ready_enjoy_it_while_its_hot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111106",
+    "text_pt": "Ônibus",
+    "text_en": "Bus",
+    "audio_en_storage_path": "1106_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111107",
+    "text_pt": "O ônibus para na esquina perto da farmácia.",
+    "text_en": "The bus stops at the corner near the pharmacy.",
+    "audio_en_storage_path": "1107_the_bus_stops_at_the_corner_near_the_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111108",
+    "text_pt": "Ela acontece a cada 15 minutos durante o dia.",
+    "text_en": "It comes every 15 minutes during the day.",
+    "audio_en_storage_path": "1108_it_comes_every_15_minutes_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111109",
+    "text_pt": "Estudantes, professores e trabalhadores o utilizam diariamente.",
+    "text_en": "Students. teachers. and workers use it daily.",
+    "audio_en_storage_path": "1109_students_teachers_and_workers_use_it_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111110",
+    "text_pt": "Alguns sentam-se juntos. Outros ficam em pé, em silêncio.",
+    "text_en": "Some sit together. others stand quietly.",
+    "audio_en_storage_path": "1110_some_sit_together_others_stand_quietly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111111",
+    "text_pt": "É amarelo com linhas verdes e rodas grandes.",
+    "text_en": "It is yellow with green lines and large wheels.",
+    "audio_en_storage_path": "1111_it_is_yellow_with_green_lines_and_large_wheels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111112",
+    "text_pt": "O motor faz um barulho alto ao dar a partida.",
+    "text_en": "The engine makes a loud sound when starting.",
+    "audio_en_storage_path": "1112_the_engine_makes_a_loud_sound_when_starting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111113",
+    "text_pt": "Há mochilas, cadernos e lanches dentro.",
+    "text_en": "There are backpacks. notebooks. and snacks inside.",
+    "audio_en_storage_path": "1113_there_are_backpacks_notebooks_and_snacks_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111114",
+    "text_pt": "E às vezes jornais velhos debaixo dos assentos.",
+    "text_en": "And sometimes old newspapers under the seats.",
+    "audio_en_storage_path": "1114_and_sometimes_old_newspapers_under_the_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111115",
+    "text_pt": "Quem verifica os bilhetes?",
+    "text_en": "Who checks the tickets?",
+    "audio_en_storage_path": "1115_who_checks_the_tickets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111116",
+    "text_pt": "O motorista faz isso antes de deixar as pessoas entrarem.",
+    "text_en": "The driver does before letting people in.",
+    "audio_en_storage_path": "1116_the_driver_does_before_letting_people_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111117",
+    "text_pt": "Este ônibus vai para a biblioteca e o museu.",
+    "text_en": "This bus goes to the library and museum.",
+    "audio_en_storage_path": "1117_this_bus_goes_to_the_library_and_museum.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111118",
+    "text_pt": "Outro leva você para o hospital.",
+    "text_en": "Another one takes you to the hospital.",
+    "audio_en_storage_path": "1118_another_one_takes_you_to_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111119",
+    "text_pt": "Às vezes o ônibus está cheio e você tem que esperar.",
+    "text_en": "Sometimes the bus is full and you must wait.",
+    "audio_en_storage_path": "1119_sometimes_the_bus_is_full_and_you_must_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111120",
+    "text_pt": "Mas no final sempre vale a pena.",
+    "text_en": "But it's always worth it in the end.",
+    "audio_en_storage_path": "1120_but_its_always_worth_it_in_the_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111121",
+    "text_pt": "Onde a maioria dos estudantes pega o ônibus?",
+    "text_en": "Where do most students catch the bus?",
+    "audio_en_storage_path": "1121_where_do_most_students_catch_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111122",
+    "text_pt": "Na rua atrás da escola.",
+    "text_en": "At the street behind the school.",
+    "audio_en_storage_path": "1122_at_the_street_behind_the_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111123",
+    "text_pt": "Quando o último ônibus sairá hoje à noite?",
+    "text_en": "When will the last bus leave tonight?",
+    "audio_en_storage_path": "1123_when_will_the_last_bus_leave_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111124",
+    "text_pt": "Às 21h — não perca.",
+    "text_en": "At 9:00 PM — don’t miss it.",
+    "audio_en_storage_path": "1124_at_900_pm_dont_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111125",
+    "text_pt": "Por que ele correu para o ponto de ônibus?",
+    "text_en": "Why did he run to the bus stop?",
+    "audio_en_storage_path": "1125_why_did_he_run_to_the_bus_stop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111126",
+    "text_pt": "Porque ele esqueceu a lição de casa e precisava retornar.",
+    "text_en": "Because he forgot his homework and needed to return.",
+    "audio_en_storage_path": "1126_because_he_forgot_his_homework_and_needed_to_return.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111127",
+    "text_pt": "Ele pega o mesmo ônibus todos os dias da semana.",
+    "text_en": "He takes the same bus every weekday.",
+    "audio_en_storage_path": "1127_he_takes_the_same_bus_every_weekday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111128",
+    "text_pt": "Ele senta-se perto da janela e observa a cidade passar.",
+    "text_en": "He sits by the window and watches the city pass.",
+    "audio_en_storage_path": "1128_he_sits_by_the_window_and_watches_the_city_pass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111129",
+    "text_pt": "Amanhã eles não esquecerão mais a identidade estudantil.",
+    "text_en": "Tomorrow. they will not forget their student ID again.",
+    "audio_en_storage_path": "1129_tomorrow_they_will_not_forget_their_student_id_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111130",
+    "text_pt": "Eles vão mostrar isso antes de entrar.",
+    "text_en": "They’ll show it before getting on.",
+    "audio_en_storage_path": "1130_theyll_show_it_before_getting_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111131",
+    "text_pt": "Aproveite o seu passeio!",
+    "text_en": "Enjoy your ride!",
+    "audio_en_storage_path": "1131_enjoy_your_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111132",
+    "text_pt": "Permaneça sentado até o ônibus parar.",
+    "text_en": "Stay seated until the bus stops.",
+    "audio_en_storage_path": "1132_stay_seated_until_the_bus_stops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113914",
+    "text_pt": "Carro",
+    "text_en": "Car",
+    "audio_en_storage_path": "3914_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113915",
+    "text_pt": "O carro está na garagem.",
+    "text_en": "The car is in the garage.",
+    "audio_en_storage_path": "3915_the_car_is_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113916",
+    "text_pt": "Ele está esperando o próximo passeio.",
+    "text_en": "It's waiting for its next ride.",
+    "audio_en_storage_path": "3916_its_waiting_for_its_next_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113917",
+    "text_pt": "Eu o uso para ir ao trabalho e à escola.",
+    "text_en": "I use it to go to work and school.",
+    "audio_en_storage_path": "3917_i_use_it_to_go_to_work_and_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113918",
+    "text_pt": "Às vezes eu dirijo até o mercado.",
+    "text_en": "Sometimes I drive to the market.",
+    "audio_en_storage_path": "3918_sometimes_i_drive_to_the_market.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113919",
+    "text_pt": "É branco com rodas pretas e janelas escuras.",
+    "text_en": "It is white with black wheels and tinted windows.",
+    "audio_en_storage_path": "3919_it_is_white_with_black_wheels_and_tinted_windows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113920",
+    "text_pt": "Há papéis no painel.",
+    "text_en": "There are papers on the dashboard.",
+    "audio_en_storage_path": "3920_there_are_papers_on_the_dashboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113921",
+    "text_pt": "Há óculos de sol, garrafas de água e mapas dentro.",
+    "text_en": "There are sunglasses. water bottles. and maps inside.",
+    "audio_en_storage_path": "3921_there_are_sunglasses_water_bottles_and_maps_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113922",
+    "text_pt": "E um pequeno saco de lixo perto do assento.",
+    "text_en": "And a small trash bag near the seat.",
+    "audio_en_storage_path": "3922_and_a_small_trash_bag_near_the_seat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113923",
+    "text_pt": "Qual é a cor do seu carro?",
+    "text_en": "What color is your car?",
+    "audio_en_storage_path": "3923_what_color_is_your_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113924",
+    "text_pt": "Cinza claro — visual limpo e clássico.",
+    "text_en": "Light gray — clean and classic looks.",
+    "audio_en_storage_path": "3924_light_gray_clean_and_classic_looks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113925",
+    "text_pt": "Onde você guarda o carro à noite?",
+    "text_en": "Where do you keep the car at night?",
+    "audio_en_storage_path": "3925_where_do_you_keep_the_car_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113926",
+    "text_pt": "Na garagem — segura e coberta.",
+    "text_en": "In the garage — safe and covered.",
+    "audio_en_storage_path": "3926_in_the_garage_safe_and_covered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113927",
+    "text_pt": "Às vezes eu mesma lavo.",
+    "text_en": "Sometimes I wash it myself.",
+    "audio_en_storage_path": "3927_sometimes_i_wash_it_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113928",
+    "text_pt": "Outras vezes levo-o ao lava-rápido.",
+    "text_en": "Other times I take it to the carwash.",
+    "audio_en_storage_path": "3928_other_times_i_take_it_to_the_carwash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113929",
+    "text_pt": "Onde você deixou as chaves?",
+    "text_en": "Where did you leave the keys?",
+    "audio_en_storage_path": "3929_where_did_you_leave_the_keys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113930",
+    "text_pt": "Sobre a mesa — provavelmente embaixo de algumas ferramentas.",
+    "text_en": "On the table — probably under some tools.",
+    "audio_en_storage_path": "3930_on_the_table_probably_under_some_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113931",
+    "text_pt": "Quando você vai dirigir novamente?",
+    "text_en": "When will you drive again?",
+    "audio_en_storage_path": "3931_when_will_you_drive_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113932",
+    "text_pt": "Amanhã de manhã — cedo por causa do trânsito.",
+    "text_en": "Tomorrow morning — early for traffic.",
+    "audio_en_storage_path": "3932_tomorrow_morning_early_for_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113933",
+    "text_pt": "Por que você consertou as luzes ontem?",
+    "text_en": "Why did you fix the lights yesterday?",
+    "audio_en_storage_path": "3933_why_did_you_fix_the_lights_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113934",
+    "text_pt": "Porque eles pararam de trabalhar à noite.",
+    "text_en": "Because they stopped working at night.",
+    "audio_en_storage_path": "3934_because_they_stopped_working_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113935",
+    "text_pt": "Eu sempre verifico meu carro antes de dirigir.",
+    "text_en": "I always check my car before driving.",
+    "audio_en_storage_path": "3935_i_always_check_my_car_before_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113936",
+    "text_pt": "A segurança vem em primeiro lugar.",
+    "text_en": "Safety comes first.",
+    "audio_en_storage_path": "3936_safety_comes_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113937",
+    "text_pt": "Amanhã. Não vou esquecer de encher o tanque novamente.",
+    "text_en": "Tomorrow. I will not forget to fill the tank again.",
+    "audio_en_storage_path": "3937_tomorrow_i_will_not_forget_to_fill_the_tank_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113938",
+    "text_pt": "Vou passar no posto de gasolina hoje à noite.",
+    "text_en": "I’ll stop by the gas station tonight.",
+    "audio_en_storage_path": "3938_ill_stop_by_the_gas_station_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113939",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "3939_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113940",
+    "text_pt": "Mantenha as duas mãos no volante.",
+    "text_en": "Keep both hands on the wheel.",
+    "audio_en_storage_path": "3940_keep_both_hands_on_the_wheel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114724",
+    "text_pt": "Teto",
+    "text_en": "Roof",
+    "audio_en_storage_path": "4724_roof.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114725",
+    "text_pt": "O telhado fica em cima da casa.",
+    "text_en": "The roof is on top of the house.",
+    "audio_en_storage_path": "4725_the_roof_is_on_top_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114726",
+    "text_pt": "Ela nos protege da chuva e do sol.",
+    "text_en": "It protects us from rain and sun.",
+    "audio_en_storage_path": "4726_it_protects_us_from_rain_and_sun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114727",
+    "text_pt": "Nós o usamos para verificar vazamentos ou danos.",
+    "text_en": "We use it to check for leaks or damage.",
+    "audio_en_storage_path": "4727_we_use_it_to_check_for_leaks_or_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114728",
+    "text_pt": "Às vezes limpamos folhas e galhos.",
+    "text_en": "Sometimes we clean leaves and branches.",
+    "audio_en_storage_path": "4728_sometimes_we_clean_leaves_and_branches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114729",
+    "text_pt": "É inclinado e feito de telhas vermelhas.",
+    "text_en": "It is sloped and made of red tiles.",
+    "audio_en_storage_path": "4729_it_is_sloped_and_made_of_red_tiles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114730",
+    "text_pt": "Há pequenas rachaduras perto da borda.",
+    "text_en": "There are small cracks near the edge.",
+    "audio_en_storage_path": "4730_there_are_small_cracks_near_the_edge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114731",
+    "text_pt": "Há calhas, antenas e painéis solares por perto.",
+    "text_en": "There are gutters. antennas. and solar panels nearby.",
+    "audio_en_storage_path": "4731_there_are_gutters_antennas_and_solar_panels_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114732",
+    "text_pt": "E às vezes os pássaros pousam lá.",
+    "text_en": "And birds sometimes land there.",
+    "audio_en_storage_path": "4732_and_birds_sometimes_land_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114733",
+    "text_pt": "Qual é a cor do seu telhado?",
+    "text_en": "What color is your roof?",
+    "audio_en_storage_path": "4733_what_color_is_your_roof.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114734",
+    "text_pt": "Marrom escuro — parece forte e clássico.",
+    "text_en": "Dark brown — looks strong and classic.",
+    "audio_en_storage_path": "4734_dark_brown_looks_strong_and_classic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114735",
+    "text_pt": "Onde você vai para consertar um vazamento?",
+    "text_en": "Where do you go to fix a leak?",
+    "audio_en_storage_path": "4735_where_do_you_go_to_fix_a_leak.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114736",
+    "text_pt": "No telhado — com uma escada e ferramentas.",
+    "text_en": "On the roof — with a ladder and tools.",
+    "audio_en_storage_path": "4736_on_the_roof_with_a_ladder_and_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114737",
+    "text_pt": "Às vezes andamos sobre ele com cuidado.",
+    "text_en": "Sometimes we walk on it carefully.",
+    "audio_en_storage_path": "4737_sometimes_we_walk_on_it_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114738",
+    "text_pt": "Outras vezes, apenas olhamos de baixo.",
+    "text_en": "Other times we just look from below.",
+    "audio_en_storage_path": "4738_other_times_we_just_look_from_below.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114739",
+    "text_pt": "Onde você deixou o martelo?",
+    "text_en": "Where did you leave the hammer?",
+    "audio_en_storage_path": "4739_where_did_you_leave_the_hammer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114740",
+    "text_pt": "Na bolsa de ferramentas — pronto para o trabalho.",
+    "text_en": "In the tool bag — ready for work.",
+    "audio_en_storage_path": "4740_in_the_tool_bag_ready_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114741",
+    "text_pt": "Quando vocês vão consertar o telhado novamente?",
+    "text_en": "When will you repair the roof again?",
+    "audio_en_storage_path": "4741_when_will_you_repair_the_roof_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114742",
+    "text_pt": "Depois da temporada de tempestades — quando está seco.",
+    "text_en": "After the storm season — when it’s dry.",
+    "audio_en_storage_path": "4742_after_the_storm_season_when_its_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114743",
+    "text_pt": "Por que você escalou hoje?",
+    "text_en": "Why did you climb today?",
+    "audio_en_storage_path": "4743_why_did_you_climb_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114744",
+    "text_pt": "Porque entrou água durante a chuva da noite passada.",
+    "text_en": "Because water came in during last night’s rain.",
+    "audio_en_storage_path": "4744_because_water_came_in_during_last_nights_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114745",
+    "text_pt": "Ele verifica o telhado todo ano.",
+    "text_en": "He checks the roof every year.",
+    "audio_en_storage_path": "4745_he_checks_the_roof_every_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114746",
+    "text_pt": "Só para ficar seguro e seco.",
+    "text_en": "Just to be safe and dry.",
+    "audio_en_storage_path": "4746_just_to_be_safe_and_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114747",
+    "text_pt": "Amanhã. Não esquecerei de fechar a escotilha novamente.",
+    "text_en": "Tomorrow. I will not forget to close the hatch again.",
+    "audio_en_storage_path": "4747_tomorrow_i_will_not_forget_to_close_the_hatch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114748",
+    "text_pt": "Deixei aberto da última vez — quase caí.",
+    "text_en": "Left it open last time — almost fell through.",
+    "audio_en_storage_path": "4748_left_it_open_last_time_almost_fell_through.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114749",
+    "text_pt": "Fique seguro aí em cima!",
+    "text_en": "Stay safe up there!",
+    "audio_en_storage_path": "4749_stay_safe_up_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114750",
+    "text_pt": "Não corra riscos sozinho.",
+    "text_en": "Don’t take risks alone.",
+    "audio_en_storage_path": "4750_dont_take_risks_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

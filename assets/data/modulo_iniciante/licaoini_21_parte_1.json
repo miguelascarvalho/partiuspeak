@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100749",
+    "text_pt": "Conversando com fornecedores",
+    "text_en": "Talking to Vendors",
+    "audio_en_storage_path": "750_talking_to_vendors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100750",
+    "text_pt": "Este é o mercado de fim de semana.",
+    "text_en": "This is the weekend market.",
+    "audio_en_storage_path": "751_this_is_the_weekend_market.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100751",
+    "text_pt": "Os vendedores vêm aqui para vender seus produtos.",
+    "text_en": "Sellers come here to sell their goods.",
+    "audio_en_storage_path": "752_sellers_come_here_to_sell_their_goods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100752",
+    "text_pt": "Há frutas frescas e itens artesanais.",
+    "text_en": "There are fresh fruits and handmade items.",
+    "audio_en_storage_path": "753_there_are_fresh_fruits_and_handmade_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100753",
+    "text_pt": "Há também artistas e músicos.",
+    "text_en": "There are also artists and musicians.",
+    "audio_en_storage_path": "754_there_are_also_artists_and_musicians.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100754",
+    "text_pt": "Posso experimentar antes de comprar?",
+    "text_en": "Can I try this before buying?",
+    "audio_en_storage_path": "755_can_i_try_this_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100755",
+    "text_pt": "Sim, vá em frente, sem problemas.",
+    "text_en": "Yes, go ahead, no problem.",
+    "audio_en_storage_path": "756_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100756",
+    "text_pt": "Não, já está selado.",
+    "text_en": "No, it’s already sealed.",
+    "audio_en_storage_path": "757_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100757",
+    "text_pt": "Onde fica a barraca de frutas?",
+    "text_en": "Where is the fruit stand?",
+    "audio_en_storage_path": "758_where_is_the_fruit_stand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100758",
+    "text_pt": "Fica atrás da barraca de flores.",
+    "text_en": "It’s behind the flower stall.",
+    "audio_en_storage_path": "759_its_behind_the_flower_stall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100759",
+    "text_pt": "Quando o mercado abrirá?",
+    "text_en": "When will the market open?",
+    "audio_en_storage_path": "760_when_will_the_market_open.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100760",
+    "text_pt": "Abre às nove todos os sábados.",
+    "text_en": "It opens at nine every Saturday.",
+    "audio_en_storage_path": "761_it_opens_at_nine_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100761",
+    "text_pt": "Por que você comprou esses morangos?",
+    "text_en": "Why did you buy those strawberries?",
+    "audio_en_storage_path": "762_why_did_you_buy_those_strawberries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100762",
+    "text_pt": "Eles pareciam frescos e cheiravam bem.",
+    "text_en": "They looked fresh and smelled sweet.",
+    "audio_en_storage_path": "763_they_looked_fresh_and_smelled_sweet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100763",
+    "text_pt": "Ela experimenta amostras antes de comprar.",
+    "text_en": "She tries samples before buying.",
+    "audio_en_storage_path": "764_she_tries_samples_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100764",
+    "text_pt": "Ele não vai comprar nada hoje.",
+    "text_en": "He won’t buy anything today.",
+    "audio_en_storage_path": "765_he_wont_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100766",
+    "text_pt": "Abre às nove todos os sábados.",
+    "text_en": "It opens at nine every Saturday.",
+    "audio_en_storage_path": "767_it_opens_at_nine_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100767",
+    "text_pt": "Abre às nove todos os sábados.",
+    "text_en": "Opens at nine every Sat.",
+    "audio_en_storage_path": "768_opens_at_nine_every_sat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100768",
+    "text_pt": "Ele não vai comprar nada hoje.",
+    "text_en": "He won’t buy anything today.",
+    "audio_en_storage_path": "769_he_wont_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100769",
+    "text_pt": "Ele não vai comprar nada hoje.",
+    "text_en": "He ain't buyin’ nothin’ today.",
+    "audio_en_storage_path": "770_he_aint_buyin_nothin_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100770",
+    "text_pt": "Ela experimenta amostras antes de comprar.",
+    "text_en": "She tries samples before buying.",
+    "audio_en_storage_path": "771_she_tries_samples_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100771",
+    "text_pt": "Ela prova as coisas antes de comprar.",
+    "text_en": "She tastes stuff b’fore she buys.",
+    "audio_en_storage_path": "772_she_tastes_stuff_bfore_she_buys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

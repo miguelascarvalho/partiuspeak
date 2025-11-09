@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114589",
+    "text_pt": "Ferramentas de jardinagem",
+    "text_en": "Gardening Tools",
+    "audio_en_storage_path": "4589_gardening_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114590",
+    "text_pt": "Ferramentas de jardinagem estão enfileiradas na garagem.",
+    "text_en": "Gardening tools are lined up in the garage.",
+    "audio_en_storage_path": "4590_gardening_tools_are_lined_up_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114591",
+    "text_pt": "Pás, ancinhos e luvas aguardam para serem usados.",
+    "text_en": "Shovels. rakes. and gloves wait for use.",
+    "audio_en_storage_path": "4591_shovels_rakes_and_gloves_wait_for_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114592",
+    "text_pt": "Nós as usamos para plantar flores e vegetais.",
+    "text_en": "We use them to plant flowers and vegetables.",
+    "audio_en_storage_path": "4592_we_use_them_to_plant_flowers_and_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114593",
+    "text_pt": "Ou limpe as folhas e corte os arbustos.",
+    "text_en": "Or clean leaves and cut bushes.",
+    "audio_en_storage_path": "4593_or_clean_leaves_and_cut_bushes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114594",
+    "text_pt": "Eles são de metal, de madeira e um pouco enferrujados.",
+    "text_en": "They are metal. wooden. and a bit rusty.",
+    "audio_en_storage_path": "4594_they_are_metal_wooden_and_a_bit_rusty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114595",
+    "text_pt": "Ainda funciona bem com um pouco de óleo.",
+    "text_en": "Still work well with a little oil.",
+    "audio_en_storage_path": "4595_still_work_well_with_a_little_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114596",
+    "text_pt": "Há sacos de sementes, vasos e fertilizantes por perto.",
+    "text_en": "There are seed bags. pots. and fertilizer nearby.",
+    "audio_en_storage_path": "4596_there_are_seed_bags_pots_and_fertilizer_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114597",
+    "text_pt": "E um regador cheio até a metade.",
+    "text_en": "And a watering can filled halfway.",
+    "audio_en_storage_path": "4597_and_a_watering_can_filled_halfway.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114598",
+    "text_pt": "O que você cultiva no seu jardim?",
+    "text_en": "What do you grow in your garden?",
+    "audio_en_storage_path": "4598_what_do_you_grow_in_your_garden.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114599",
+    "text_pt": "Manjericão, tomate e hortelã — fácil e saboroso.",
+    "text_en": "Basil. tomatoes. and mint — easy and tasty.",
+    "audio_en_storage_path": "4599_basil_tomatoes_and_mint_easy_and_tasty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114600",
+    "text_pt": "Onde você guarda o ancinho?",
+    "text_en": "Where do you keep the rake?",
+    "audio_en_storage_path": "4600_where_do_you_keep_the_rake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114601",
+    "text_pt": "Atrás da porta — encostado na parede.",
+    "text_en": "Behind the door — leaning on the wall.",
+    "audio_en_storage_path": "4601_behind_the_door_leaning_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114602",
+    "text_pt": "Às vezes regamos as plantas.",
+    "text_en": "Sometimes we water plants.",
+    "audio_en_storage_path": "4602_sometimes_we_water_plants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114603",
+    "text_pt": "Outras vezes, apenas podamos e capinamos.",
+    "text_en": "Other times we just prune and weed.",
+    "audio_en_storage_path": "4603_other_times_we_just_prune_and_weed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114604",
+    "text_pt": "Onde você deixou as luvas?",
+    "text_en": "Where did you leave the gloves?",
+    "audio_en_storage_path": "4604_where_did_you_leave_the_gloves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114605",
+    "text_pt": "Perto da mangueira — misturada com outras ferramentas.",
+    "text_en": "Near the hose — mixed with other tools.",
+    "audio_en_storage_path": "4605_near_the_hose_mixed_with_other_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114606",
+    "text_pt": "Quando você vai cuidar do jardim novamente?",
+    "text_en": "When will you garden again?",
+    "audio_en_storage_path": "4606_when_will_you_garden_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114607",
+    "text_pt": "Neste fim de semana — depois da limpeza.",
+    "text_en": "This weekend — after cleaning up.",
+    "audio_en_storage_path": "4607_this_weekend_after_cleaning_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114608",
+    "text_pt": "Por que você regou as plantas hoje?",
+    "text_en": "Why did you water the plants today?",
+    "audio_en_storage_path": "4608_why_did_you_water_the_plants_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114609",
+    "text_pt": "Porque o solo estava seco e rachado.",
+    "text_en": "Because the soil was dry and cracked.",
+    "audio_en_storage_path": "4609_because_the_soil_was_dry_and_cracked.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114610",
+    "text_pt": "Ele verifica o jardim todas as manhãs.",
+    "text_en": "He checks the garden every morning.",
+    "audio_en_storage_path": "4610_he_checks_the_garden_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114611",
+    "text_pt": "Água, alimente e colha o que estiver pronto.",
+    "text_en": "Water. feed. and pick what’s ready.",
+    "audio_en_storage_path": "4611_water_feed_and_pick_whats_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114612",
+    "text_pt": "Amanhã. Não vou esquecer de guardar as ferramentas novamente.",
+    "text_en": "Tomorrow. I will not forget to put the tools away again.",
+    "audio_en_storage_path": "4612_tomorrow_i_will_not_forget_to_put_the_tools_away_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114613",
+    "text_pt": "Deixei-os lá fora da última vez — molharam-se.",
+    "text_en": "Left them outside last time — got wet.",
+    "audio_en_storage_path": "4613_left_them_outside_last_time_got_wet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114614",
+    "text_pt": "Cuide do seu jardim!",
+    "text_en": "Take care of your garden!",
+    "audio_en_storage_path": "4614_take_care_of_your_garden.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114615",
+    "text_pt": "A natureza recompensa seu esforço.",
+    "text_en": "Nature rewards your effort.",
+    "audio_en_storage_path": "4615_nature_rewards_your_effort.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

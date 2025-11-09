@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102623",
+    "text_pt": "Dor",
+    "text_en": "Pain",
+    "audio_en_storage_path": "1723_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102624",
+    "text_pt": "A dor está na minha cabeça hoje.",
+    "text_en": "The pain is in my head today.",
+    "audio_en_storage_path": "1724_the_pain_is_in_my_head_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102625",
+    "text_pt": "Estou com dor de cabeça e tontura.",
+    "text_en": "I have a headache and feel dizzy.",
+    "audio_en_storage_path": "1725_i_have_a_headache_and_feel_dizzy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102626",
+    "text_pt": "Eu uso água fria e descanso para melhorar.",
+    "text_en": "I use cold water and rest to get better.",
+    "audio_en_storage_path": "1726_i_use_cold_water_and_rest_to_get_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102627",
+    "text_pt": "Às vezes tomo remédio para isso.",
+    "text_en": "Sometimes I take medicine for it.",
+    "audio_en_storage_path": "1727_sometimes_i_take_medicine_for_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102628",
+    "text_pt": "Meu pescoço está rígido e dolorido.",
+    "text_en": "My neck feels stiff and sore.",
+    "audio_en_storage_path": "1728_my_neck_feels_stiff_and_sore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102629",
+    "text_pt": "Dormi mal ontem à noite.",
+    "text_en": "I slept wrong last night.",
+    "audio_en_storage_path": "1729_i_slept_wrong_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102630",
+    "text_pt": "Há bolsas de gelo. chá e aspirina por perto.",
+    "text_en": "There are ice packs. tea. and aspirin nearby.",
+    "audio_en_storage_path": "1730_there_are_ice_packs_tea_and_aspirin_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102631",
+    "text_pt": "Pronto para alívio rápido.",
+    "text_en": "Ready for fast relief.",
+    "audio_en_storage_path": "1731_ready_for_fast_relief.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102632",
+    "text_pt": "Que tipo de dor você sente?",
+    "text_en": "What kind of pain do you have?",
+    "audio_en_storage_path": "1732_what_kind_of_pain_do_you_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102633",
+    "text_pt": "Dor de estômago — talvez por causa de comida ruim.",
+    "text_en": "Stomach pain — maybe from bad food.",
+    "audio_en_storage_path": "1733_stomach_pain_maybe_from_bad_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102634",
+    "text_pt": "Onde dói mais?",
+    "text_en": "Where does it hurt the most?",
+    "audio_en_storage_path": "1734_where_does_it_hurt_the_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102635",
+    "text_pt": "De costas — depois de levantar malas pesadas.",
+    "text_en": "On my back — after lifting heavy bags.",
+    "audio_en_storage_path": "1735_on_my_back_after_lifting_heavy_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102636",
+    "text_pt": "Às vezes sinto dores nas pernas.",
+    "text_en": "Sometimes I feel pain in my legs.",
+    "audio_en_storage_path": "1736_sometimes_i_feel_pain_in_my_legs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102637",
+    "text_pt": "Outras vezes em meus braços ou peito.",
+    "text_en": "Other times in my arms or chest.",
+    "audio_en_storage_path": "1737_other_times_in_my_arms_or_chest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102638",
+    "text_pt": "Onde você deixou seus comprimidos?",
+    "text_en": "Where did you leave your pills?",
+    "audio_en_storage_path": "1738_where_did_you_leave_your_pills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102639",
+    "text_pt": "Na minha bolsa — perto da caixa de lenços.",
+    "text_en": "In my bag — near the tissue box.",
+    "audio_en_storage_path": "1739_in_my_bag_near_the_tissue_box.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102640",
+    "text_pt": "Quando você se sentirá melhor novamente?",
+    "text_en": "When will you feel better again?",
+    "audio_en_storage_path": "1740_when_will_you_feel_better_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102641",
+    "text_pt": "Talvez amanhã — se eu descansar bem.",
+    "text_en": "Maybe tomorrow — if I rest well.",
+    "audio_en_storage_path": "1741_maybe_tomorrow_if_i_rest_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102642",
+    "text_pt": "Por que você ligou para o médico hoje?",
+    "text_en": "Why did you call the doctor today?",
+    "audio_en_storage_path": "1742_why_did_you_call_the_doctor_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102643",
+    "text_pt": "Porque a dor não passou com o tratamento em casa.",
+    "text_en": "Because the pain didn’t go away with home care.",
+    "audio_en_storage_path": "1743_because_the_pain_didnt_go_away_with_home_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102644",
+    "text_pt": "Ela sempre descansa quando tem dor de cabeça.",
+    "text_en": "She always rests when she has a headache.",
+    "audio_en_storage_path": "1744_she_always_rests_when_she_has_a_headache.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102645",
+    "text_pt": "Nunca dirija ou cozinhe quando estiver doente.",
+    "text_en": "Never drives or cooks when unwell.",
+    "audio_en_storage_path": "1745_never_drives_or_cooks_when_unwell.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102646",
+    "text_pt": "Amanhã não vou esquecer de beber mais água novamente.",
+    "text_en": "Tomorrow. I will not forget to drink more water again.",
+    "audio_en_storage_path": "1746_tomorrow_i_will_not_forget_to_drink_more_water_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102647",
+    "text_pt": "A desidratação me fez sentir pior hoje.",
+    "text_en": "Dehydration made me feel worse today.",
+    "audio_en_storage_path": "1747_dehydration_made_me_feel_worse_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102648",
+    "text_pt": "Tomar cuidado!",
+    "text_en": "Take care!",
+    "audio_en_storage_path": "1748_take_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102649",
+    "text_pt": "O descanso faz parte da recuperação.",
+    "text_en": "Rest is part of recovery.",
+    "audio_en_storage_path": "1749_rest_is_part_of_recovery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

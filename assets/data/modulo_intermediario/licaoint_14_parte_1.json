@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112187",
+    "text_pt": "A pia fica na cozinha.",
+    "text_en": "The sink is in the kitchen.",
+    "audio_en_storage_path": "2187_the_sink_is_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112188",
+    "text_pt": "É onde lavo a louça e as mãos.",
+    "text_en": "It’s where I wash dishes and hands.",
+    "audio_en_storage_path": "2188_its_where_i_wash_dishes_and_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112189",
+    "text_pt": "Eu o uso para enxaguar vegetais e frutas.",
+    "text_en": "I use it to rinse vegetables and fruits.",
+    "audio_en_storage_path": "2189_i_use_it_to_rinse_vegetables_and_fruits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112190",
+    "text_pt": "Ou encher potes com água.",
+    "text_en": "Or to fill pots with water.",
+    "audio_en_storage_path": "2190_or_to_fill_pots_with_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112191",
+    "text_pt": "É feito de aço inoxidável e tem uma torneira.",
+    "text_en": "It is made of stainless steel and has a faucet.",
+    "audio_en_storage_path": "2191_it_is_made_of_stainless_steel_and_has_a_faucet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112192",
+    "text_pt": "Há uma esponja e sabão por perto.",
+    "text_en": "There’s a sponge and soap nearby.",
+    "audio_en_storage_path": "2192_theres_a_sponge_and_soap_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112193",
+    "text_pt": "Há pratos e xícaras sujos lá dentro.",
+    "text_en": "There are dirty plates and cups inside.",
+    "audio_en_storage_path": "2193_there_are_dirty_plates_and_cups_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112194",
+    "text_pt": "E uma tábua de corte com pedaços de cebola.",
+    "text_en": "And a cutting board with onion pieces.",
+    "audio_en_storage_path": "2194_and_a_cutting_board_with_onion_pieces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112195",
+    "text_pt": "Para que você usa a pia?",
+    "text_en": "What do you use the sink for?",
+    "audio_en_storage_path": "2195_what_do_you_use_the_sink_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112196",
+    "text_pt": "Para limpar, lavar e preparar alimentos.",
+    "text_en": "For cleaning. washing. and preparing food.",
+    "audio_en_storage_path": "2196_for_cleaning_washing_and_preparing_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112197",
+    "text_pt": "Onde você guarda seu pano de prato?",
+    "text_en": "Where do you keep your dish towel?",
+    "audio_en_storage_path": "2197_where_do_you_keep_your_dish_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112198",
+    "text_pt": "Na alça — pendurado para secar.",
+    "text_en": "On the handle — hanging to dry.",
+    "audio_en_storage_path": "2198_on_the_handle_hanging_to_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112199",
+    "text_pt": "Às vezes lavo tudo imediatamente.",
+    "text_en": "Sometimes I wash everything right away.",
+    "audio_en_storage_path": "2199_sometimes_i_wash_everything_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112200",
+    "text_pt": "Outras vezes espero até mais tarde.",
+    "text_en": "Other times I wait until later.",
+    "audio_en_storage_path": "2200_other_times_i_wait_until_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112201",
+    "text_pt": "Onde você deixou a esponja?",
+    "text_en": "Where did you leave the sponge?",
+    "audio_en_storage_path": "2201_where_did_you_leave_the_sponge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112202",
+    "text_pt": "Perto do sabonete — na borda da pia.",
+    "text_en": "Near the soap — by the edge of the sink.",
+    "audio_en_storage_path": "2202_near_the_soap_by_the_edge_of_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112203",
+    "text_pt": "Quando você vai limpar a pia?",
+    "text_en": "When will you clean the sink?",
+    "audio_en_storage_path": "2203_when_will_you_clean_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112204",
+    "text_pt": "Depois do jantar — quando todos os pratos estiverem lavados.",
+    "text_en": "After dinner — when all dishes are done.",
+    "audio_en_storage_path": "2204_after_dinner_when_all_dishes_are_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112205",
+    "text_pt": "Por que você deixou a louça na pia?",
+    "text_en": "Why did you leave dishes in the sink?",
+    "audio_en_storage_path": "2205_why_did_you_leave_dishes_in_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112206",
+    "text_pt": "Porque eu estava cansado e esqueci.",
+    "text_en": "Because I was tired and forgot.",
+    "audio_en_storage_path": "2206_because_i_was_tired_and_forgot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112207",
+    "text_pt": "Eu uso a pia muitas vezes ao dia.",
+    "text_en": "I use the sink many times a day.",
+    "audio_en_storage_path": "2207_i_use_the_sink_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112208",
+    "text_pt": "É um dos lugares mais utilizados na cozinha.",
+    "text_en": "It’s one of the most used places in the kitchen.",
+    "audio_en_storage_path": "2208_its_one_of_the_most_used_places_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112209",
+    "text_pt": "Amanhã. Não vou esquecer de limpar a pia de novo.",
+    "text_en": "Tomorrow. I will not forget to clean the sink again.",
+    "audio_en_storage_path": "2209_tomorrow_i_will_not_forget_to_clean_the_sink_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112210",
+    "text_pt": "Vou secá-lo depois de terminar.",
+    "text_en": "I’ll wipe it dry after finishing.",
+    "audio_en_storage_path": "2210_ill_wipe_it_dry_after_finishing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112211",
+    "text_pt": "Limpar!",
+    "text_en": "Clean up!",
+    "audio_en_storage_path": "2211_clean_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112212",
+    "text_pt": "Uma pia organizada deixa a cozinha mais agradável.",
+    "text_en": "A tidy sink makes the kitchen feel better.",
+    "audio_en_storage_path": "2212_a_tidy_sink_makes_the_kitchen_feel_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

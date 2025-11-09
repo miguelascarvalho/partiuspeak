@@ -1,0 +1,263 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100065",
+    "text_pt": "Ele abre a água lentamente.",
+    "text_en": "He turns on the water slowly.",
+    "audio_en_storage_path": "066_he_turns_on_the_water_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100066",
+    "text_pt": "Ele abre a água devagar.",
+    "text_en": "He turns the water on slow.",
+    "audio_en_storage_path": "067_he_turns_the_water_on_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100067",
+    "text_pt": "Não vou esquecer de secar as mãos.",
+    "text_en": "I won’t forget to dry my hands.",
+    "audio_en_storage_path": "068_i_wont_forget_to_dry_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100068",
+    "text_pt": "Não vou esquecer de secar as mãos.",
+    "text_en": "I ain’t forgettin’ to dry my hands.",
+    "audio_en_storage_path": "069_i_aint_forgettin_to_dry_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100069",
+    "text_pt": "Lave as mãos antes de comer.",
+    "text_en": "Wash your hands before eating.",
+    "audio_en_storage_path": "070_wash_your_hands_before_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100070",
+    "text_pt": "Lave as mãos antes de comer.",
+    "text_en": "Wash ya hands b’fore ya eat.",
+    "audio_en_storage_path": "071_wash_ya_hands_bfore_ya_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100071",
+    "text_pt": "A faca está no balcão.",
+    "text_en": "The knife is on the counter.",
+    "audio_en_storage_path": "072_the_knife_is_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100072",
+    "text_pt": "Nós o usamos para cortar vegetais e carne.",
+    "text_en": "We use it to cut vegetables and meat.",
+    "audio_en_storage_path": "073_we_use_it_to_cut_vegetables_and_meat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100073",
+    "text_pt": "É afiado e prateado.",
+    "text_en": "It is sharp and silver-colored.",
+    "audio_en_storage_path": "074_it_is_sharp_and_silvercolored.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100074",
+    "text_pt": "Há um tomate e uma cebola ao lado.",
+    "text_en": "There is a tomato and onion next to it.",
+    "audio_en_storage_path": "075_there_is_a_tomato_and_onion_next_to_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100075",
+    "text_pt": "Posso usar a faca?",
+    "text_en": "Can I use the knife?",
+    "audio_en_storage_path": "076_can_i_use_the_knife.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100076",
+    "text_pt": "Sim, mas tenha cuidado.",
+    "text_en": "Yes, but be careful.",
+    "audio_en_storage_path": "077_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100077",
+    "text_pt": "Não, espere até que um adulto ajude.",
+    "text_en": "No, wait until an adult helps.",
+    "audio_en_storage_path": "078_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100078",
+    "text_pt": "Onde está a tábua de corte?",
+    "text_en": "Where is the cutting board?",
+    "audio_en_storage_path": "079_where_is_the_cutting_board.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100079",
+    "text_pt": "A tábua de corte está embaixo da pia.",
+    "text_en": "The cutting board is under the sink.",
+    "audio_en_storage_path": "080_the_cutting_board_is_under_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100080",
+    "text_pt": "Quando você vai preparar o jantar?",
+    "text_en": "When will you cook dinner?",
+    "audio_en_storage_path": "081_when_will_you_cook_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100081",
+    "text_pt": "Vou começar a cozinhar às seis.",
+    "text_en": "I’ll start cooking at six.",
+    "audio_en_storage_path": "082_ill_start_cooking_at_six.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100082",
+    "text_pt": "Por que você deixou a faca cair?",
+    "text_en": "Why did you drop the knife?",
+    "audio_en_storage_path": "083_why_did_you_drop_the_knife.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100083",
+    "text_pt": "Minha mão escorregou e fiquei com medo.",
+    "text_en": "My hand slipped and I got scared.",
+    "audio_en_storage_path": "084_my_hand_slipped_and_i_got_scared.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100084",
+    "text_pt": "Ela corta a maçã com cuidado.",
+    "text_en": "She cuts the apple carefully.",
+    "audio_en_storage_path": "085_she_cuts_the_apple_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100085",
+    "text_pt": "Você não deve deixá-lo no chão.",
+    "text_en": "You shouldn’t leave it on the floor.",
+    "audio_en_storage_path": "086_you_shouldnt_leave_it_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100086",
+    "text_pt": "Obrigado por ajudar na cozinha.",
+    "text_en": "Thank you for helping in the kitchen.",
+    "audio_en_storage_path": "087_thank_you_for_helping_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100087",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "088_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100088",
+    "text_pt": "Ela corta a maçã com cuidado.",
+    "text_en": "She cuts the apple carefully.",
+    "audio_en_storage_path": "089_she_cuts_the_apple_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100089",
+    "text_pt": "Ela corta a maçã com muito cuidado.",
+    "text_en": "She cuts the apple real careful.",
+    "audio_en_storage_path": "090_she_cuts_the_apple_real_careful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100090",
+    "text_pt": "Você não deve deixá-lo no chão.",
+    "text_en": "You shouldn’t leave it on the floor.",
+    "audio_en_storage_path": "091_you_shouldnt_leave_it_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100091",
+    "text_pt": "Não deixe no chão.",
+    "text_en": "Don’t leave it on the floor.",
+    "audio_en_storage_path": "092_dont_leave_it_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100092",
+    "text_pt": "Obrigado por ajudar na cozinha.",
+    "text_en": "Thank you for helping in the kitchen.",
+    "audio_en_storage_path": "093_thank_you_for_helping_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100093",
+    "text_pt": "Obrigado por ajudar aqui.",
+    "text_en": "Thanks for helpin’ out in here.",
+    "audio_en_storage_path": "094_thanks_for_helpin_out_in_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,1928 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111187",
+    "text_pt": "Café da manhã",
+    "text_en": "Breakfast",
+    "audio_en_storage_path": "1187_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111188",
+    "text_pt": "Eu acordo e sinto cheiro de café.",
+    "text_en": "I wake up and smell coffee.",
+    "audio_en_storage_path": "1188_i_wake_up_and_smell_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111189",
+    "text_pt": "A cozinha está quentinha e cheira a torrada.",
+    "text_en": "The kitchen is warm and smells like toast.",
+    "audio_en_storage_path": "1189_the_kitchen_is_warm_and_smells_like_toast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111190",
+    "text_pt": "Eu como cereal ou ovos pela manhã.",
+    "text_en": "I eat cereal or eggs in the morning.",
+    "audio_en_storage_path": "1190_i_eat_cereal_or_eggs_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111191",
+    "text_pt": "Às vezes como panquecas com calda.",
+    "text_en": "Sometimes I have pancakes with syrup.",
+    "audio_en_storage_path": "1191_sometimes_i_have_pancakes_with_syrup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111192",
+    "text_pt": "É cedo e a mesa está cheia de comida.",
+    "text_en": "It's early. and the table is full of food.",
+    "audio_en_storage_path": "1192_its_early_and_the_table_is_full_of_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111193",
+    "text_pt": "Há frutas, pão e leite.",
+    "text_en": "There are fruits. bread. and milk.",
+    "audio_en_storage_path": "1193_there_are_fruits_bread_and_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111194",
+    "text_pt": "Eu bebo suco de laranja ou chá.",
+    "text_en": "I drink orange juice or tea.",
+    "audio_en_storage_path": "1194_i_drink_orange_juice_or_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111195",
+    "text_pt": "Meu irmão prefere chocolate quente.",
+    "text_en": "My brother prefers hot chocolate.",
+    "audio_en_storage_path": "1195_my_brother_prefers_hot_chocolate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111196",
+    "text_pt": "O que você costuma comer no café da manhã?",
+    "text_en": "What do you usually eat for breakfast?",
+    "audio_en_storage_path": "1196_what_do_you_usually_eat_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111197",
+    "text_pt": "Gosto de iogurte com granola e banana.",
+    "text_en": "I like yogurt with granola and banana.",
+    "audio_en_storage_path": "1197_i_like_yogurt_with_granola_and_banana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111198",
+    "text_pt": "Onde você come de manhã?",
+    "text_en": "Where do you eat in the morning?",
+    "audio_en_storage_path": "1198_where_do_you_eat_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111199",
+    "text_pt": "Na mesa da cozinha, perto da janela.",
+    "text_en": "At the kitchen table. near the window.",
+    "audio_en_storage_path": "1199_at_the_kitchen_table_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111200",
+    "text_pt": "Às vezes como rápido. Às vezes como devagar.",
+    "text_en": "Sometimes I eat fast. sometimes slow.",
+    "audio_en_storage_path": "1200_sometimes_i_eat_fast_sometimes_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111201",
+    "text_pt": "Depende de quão tarde eu acordei.",
+    "text_en": "It depends on how late I woke up.",
+    "audio_en_storage_path": "1201_it_depends_on_how_late_i_woke_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111202",
+    "text_pt": "Onde está seu prato agora?",
+    "text_en": "Where is your plate now?",
+    "audio_en_storage_path": "1202_where_is_your_plate_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111203",
+    "text_pt": "Na pia — acabei de comer.",
+    "text_en": "In the sink — I just finished eating.",
+    "audio_en_storage_path": "1203_in_the_sink_i_just_finished_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111204",
+    "text_pt": "Quando você vai comer amanhã de manhã?",
+    "text_en": "When will you eat tomorrow morning?",
+    "audio_en_storage_path": "1204_when_will_you_eat_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111205",
+    "text_pt": "Por volta das 7h30 — depois de escovar os dentes.",
+    "text_en": "Around 7:30 — after brushing my teeth.",
+    "audio_en_storage_path": "1205_around_730_after_brushing_my_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111206",
+    "text_pt": "Por que você pulou o café da manhã hoje?",
+    "text_en": "Why did you skip breakfast today?",
+    "audio_en_storage_path": "1206_why_did_you_skip_breakfast_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111207",
+    "text_pt": "Porque eu estava com pressa.",
+    "text_en": "Because I was in a hurry.",
+    "audio_en_storage_path": "1207_because_i_was_in_a_hurry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111208",
+    "text_pt": "Eu sempre como alguma coisa pela manhã.",
+    "text_en": "I always eat something in the morning.",
+    "audio_en_storage_path": "1208_i_always_eat_something_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111209",
+    "text_pt": "Isso me ajuda a começar bem o dia.",
+    "text_en": "It helps me start the day well.",
+    "audio_en_storage_path": "1209_it_helps_me_start_the_day_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111210",
+    "text_pt": "Amanhã. Não vou esquecer meu café da manhã novamente.",
+    "text_en": "Tomorrow. I will not forget my breakfast again.",
+    "audio_en_storage_path": "1210_tomorrow_i_will_not_forget_my_breakfast_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111211",
+    "text_pt": "Vou prepará-lo na noite anterior.",
+    "text_en": "I’ll prepare it the night before.",
+    "audio_en_storage_path": "1211_ill_prepare_it_the_night_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111212",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "1212_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111213",
+    "text_pt": "Aproveite seu café da manhã!",
+    "text_en": "Enjoy your breakfast!",
+    "audio_en_storage_path": "1213_enjoy_your_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111214",
+    "text_pt": "Lanche / Lanche rápido antes do almoço",
+    "text_en": "Snack / Quick bite before lunch",
+    "audio_en_storage_path": "1214_snack_quick_bite_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111215",
+    "text_pt": "Sinto fome antes do almoço.",
+    "text_en": "I feel hungry before lunch.",
+    "audio_en_storage_path": "1215_i_feel_hungry_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111216",
+    "text_pt": "Pego uma maçã ou alguns biscoitos.",
+    "text_en": "I grab an apple or some crackers.",
+    "audio_en_storage_path": "1216_i_grab_an_apple_or_some_crackers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111217",
+    "text_pt": "Abro a geladeira e olho dentro.",
+    "text_en": "I open the fridge and look inside.",
+    "audio_en_storage_path": "1217_i_open_the_fridge_and_look_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111218",
+    "text_pt": "Tem queijo, iogurte e frutas.",
+    "text_en": "There's cheese. yogurt. and fruit.",
+    "audio_en_storage_path": "1218_theres_cheese_yogurt_and_fruit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111219",
+    "text_pt": "O lanche é pequeno, mas saboroso.",
+    "text_en": "The snack is small but tasty.",
+    "audio_en_storage_path": "1219_the_snack_is_small_but_tasty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111220",
+    "text_pt": "Apenas o suficiente para esperar o almoço.",
+    "text_en": "Just enough to wait for lunch.",
+    "audio_en_storage_path": "1220_just_enough_to_wait_for_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111221",
+    "text_pt": "Sento-me no sofá e como em silêncio.",
+    "text_en": "I sit on the couch and eat quietly.",
+    "audio_en_storage_path": "1221_i_sit_on_the_couch_and_eat_quietly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111222",
+    "text_pt": "Ou eu ando por aí com uma banana.",
+    "text_en": "Or I walk around with a banana.",
+    "audio_en_storage_path": "1222_or_i_walk_around_with_a_banana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111223",
+    "text_pt": "O que você come entre as refeições?",
+    "text_en": "What do you eat between meals?",
+    "audio_en_storage_path": "1223_what_do_you_eat_between_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111224",
+    "text_pt": "Geralmente nozes ou um sanduíche pequeno.",
+    "text_en": "Usually nuts or a small sandwich.",
+    "audio_en_storage_path": "1224_usually_nuts_or_a_small_sandwich.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111225",
+    "text_pt": "Onde você guarda lanches em casa?",
+    "text_en": "Where do you keep snacks at home?",
+    "audio_en_storage_path": "1225_where_do_you_keep_snacks_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111226",
+    "text_pt": "Na despensa, ao lado do cereal.",
+    "text_en": "In the pantry. next to the cereal.",
+    "audio_en_storage_path": "1226_in_the_pantry_next_to_the_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111227",
+    "text_pt": "Às vezes como um biscoito. Às vezes como uma banana.",
+    "text_en": "Sometimes I eat a cookie. sometimes banana.",
+    "audio_en_storage_path": "1227_sometimes_i_eat_a_cookie_sometimes_banana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111228",
+    "text_pt": "Depende do que eu encontrar primeiro.",
+    "text_en": "It depends on what I find first.",
+    "audio_en_storage_path": "1228_it_depends_on_what_i_find_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111229",
+    "text_pt": "Onde você deixou seu lanche?",
+    "text_en": "Where did you leave your snack?",
+    "audio_en_storage_path": "1229_where_did_you_leave_your_snack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111230",
+    "text_pt": "No balcão — perto das bananas.",
+    "text_en": "On the counter — near the bananas.",
+    "audio_en_storage_path": "1230_on_the_counter_near_the_bananas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111231",
+    "text_pt": "Quando você vai comer de novo?",
+    "text_en": "When will you eat again?",
+    "audio_en_storage_path": "1231_when_will_you_eat_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111232",
+    "text_pt": "Em cerca de uma hora — quando o almoço estiver pronto.",
+    "text_en": "In about one hour — when lunch is ready.",
+    "audio_en_storage_path": "1232_in_about_one_hour_when_lunch_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111233",
+    "text_pt": "Por que você comeu tão cedo hoje?",
+    "text_en": "Why did you eat so early today?",
+    "audio_en_storage_path": "1233_why_did_you_eat_so_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111234",
+    "text_pt": "Porque eu estava com muita fome.",
+    "text_en": "Because I was really hungry.",
+    "audio_en_storage_path": "1234_because_i_was_really_hungry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111235",
+    "text_pt": "Eu como um pouco antes do almoço todos os dias.",
+    "text_en": "I eat a little before lunch every day.",
+    "audio_en_storage_path": "1235_i_eat_a_little_before_lunch_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111236",
+    "text_pt": "Isso mantém minha energia alta.",
+    "text_en": "It keeps my energy up.",
+    "audio_en_storage_path": "1236_it_keeps_my_energy_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111237",
+    "text_pt": "Amanhã. Não comerei muito antes do almoço.",
+    "text_en": "Tomorrow. I will not eat too much before lunch.",
+    "audio_en_storage_path": "1237_tomorrow_i_will_not_eat_too_much_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111238",
+    "text_pt": "Não quero estragar meu apetite.",
+    "text_en": "I don't want to spoil my appetite.",
+    "audio_en_storage_path": "1238_i_dont_want_to_spoil_my_appetite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111239",
+    "text_pt": "Tomar cuidado!",
+    "text_en": "Take care!",
+    "audio_en_storage_path": "1239_take_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111240",
+    "text_pt": "Coma lanches saudáveis.",
+    "text_en": "Eat healthy snacks.",
+    "audio_en_storage_path": "1240_eat_healthy_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111241",
+    "text_pt": "Almoço",
+    "text_en": "Lunch",
+    "audio_en_storage_path": "1241_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111242",
+    "text_pt": "É meio-dia e o almoço está pronto.",
+    "text_en": "It is noon and lunch is ready.",
+    "audio_en_storage_path": "1242_it_is_noon_and_lunch_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111243",
+    "text_pt": "A sopa está quente e o arroz está macio.",
+    "text_en": "The soup is hot and the rice is soft.",
+    "audio_en_storage_path": "1243_the_soup_is_hot_and_the_rice_is_soft.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111244",
+    "text_pt": "Nós sentamos juntos à mesa.",
+    "text_en": "We sit at the table together.",
+    "audio_en_storage_path": "1244_we_sit_at_the_table_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111245",
+    "text_pt": "Ou comemos sozinhos enquanto trabalhamos.",
+    "text_en": "Or we eat alone while working.",
+    "audio_en_storage_path": "1245_or_we_eat_alone_while_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111246",
+    "text_pt": "A comida é colorida e cheira bem.",
+    "text_en": "The food is colorful and smells good.",
+    "audio_en_storage_path": "1246_the_food_is_colorful_and_smells_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111247",
+    "text_pt": "Tem carne, vegetais e salada.",
+    "text_en": "There's meat. vegetables. and salad.",
+    "audio_en_storage_path": "1247_theres_meat_vegetables_and_salad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111248",
+    "text_pt": "Eu uso garfo e colher para comer.",
+    "text_en": "I use a fork and spoon to eat.",
+    "audio_en_storage_path": "1248_i_use_a_fork_and_spoon_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111249",
+    "text_pt": "E um guardanapo para limpar minha boca.",
+    "text_en": "And a napkin to clean my mouth.",
+    "audio_en_storage_path": "1249_and_a_napkin_to_clean_my_mouth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111250",
+    "text_pt": "O que você almoçou hoje?",
+    "text_en": "What did you have for lunch today?",
+    "audio_en_storage_path": "1250_what_did_you_have_for_lunch_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111251",
+    "text_pt": "Sanduíche e batatas fritas — rápido e fácil.",
+    "text_en": "Sandwich and chips — quick and easy.",
+    "audio_en_storage_path": "1251_sandwich_and_chips_quick_and_easy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111252",
+    "text_pt": "Onde você costuma almoçar?",
+    "text_en": "Where do you usually eat lunch?",
+    "audio_en_storage_path": "1252_where_do_you_usually_eat_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111253",
+    "text_pt": "Na escola, no trabalho ou em casa.",
+    "text_en": "At school. work. or at home.",
+    "audio_en_storage_path": "1253_at_school_work_or_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111254",
+    "text_pt": "Às vezes trago comida de casa.",
+    "text_en": "Sometimes I bring food from home.",
+    "audio_en_storage_path": "1254_sometimes_i_bring_food_from_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111255",
+    "text_pt": "Outras vezes compro algo perto.",
+    "text_en": "Other times I buy something nearby.",
+    "audio_en_storage_path": "1255_other_times_i_buy_something_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111256",
+    "text_pt": "Onde está sua lancheira agora?",
+    "text_en": "Where is your lunch box now?",
+    "audio_en_storage_path": "1256_where_is_your_lunch_box_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111257",
+    "text_pt": "Na sua bolsa — vazia e pronta para amanhã.",
+    "text_en": "In your bag — empty and ready for tomorrow.",
+    "audio_en_storage_path": "1257_in_your_bag_empty_and_ready_for_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111258",
+    "text_pt": "Quando você faz sua pausa para o almoço?",
+    "text_en": "When do you take your lunch break?",
+    "audio_en_storage_path": "1258_when_do_you_take_your_lunch_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111259",
+    "text_pt": "Por volta das 12h30 — depois de terminar algumas tarefas.",
+    "text_en": "Around 12:30 — after finishing some tasks.",
+    "audio_en_storage_path": "1259_around_1230_after_finishing_some_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111260",
+    "text_pt": "Por que você terminou o almoço tão rápido?",
+    "text_en": "Why did you finish lunch so quickly?",
+    "audio_en_storage_path": "1260_why_did_you_finish_lunch_so_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111261",
+    "text_pt": "Porque eu só tinha 20 minutos para comer.",
+    "text_en": "Because I only had 20 minutes to eat.",
+    "audio_en_storage_path": "1261_because_i_only_had_20_minutes_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111262",
+    "text_pt": "Eu almoço todos os dias no mesmo horário.",
+    "text_en": "I eat lunch every day at the same time.",
+    "audio_en_storage_path": "1262_i_eat_lunch_every_day_at_the_same_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111263",
+    "text_pt": "A rotina me ajuda a manter o foco.",
+    "text_en": "Routine helps me stay focused.",
+    "audio_en_storage_path": "1263_routine_helps_me_stay_focused.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111264",
+    "text_pt": "Amanhã. Não vou esquecer meu almoço novamente.",
+    "text_en": "Tomorrow. I will not forget my lunch again.",
+    "audio_en_storage_path": "1264_tomorrow_i_will_not_forget_my_lunch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111265",
+    "text_pt": "Vou fazer as malas antes de sair de casa.",
+    "text_en": "I’ll pack it before leaving home.",
+    "audio_en_storage_path": "1265_ill_pack_it_before_leaving_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111266",
+    "text_pt": "Espero que você goste da sua refeição!",
+    "text_en": "Hope you enjoy your meal!",
+    "audio_en_storage_path": "1266_hope_you_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111267",
+    "text_pt": "Tenha um ótimo almoço!",
+    "text_en": "Have a great lunch!",
+    "audio_en_storage_path": "1267_have_a_great_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111268",
+    "text_pt": "Lanche da tarde / Hora do chá",
+    "text_en": "Afternoon Snack / Tea Time",
+    "audio_en_storage_path": "1268_afternoon_snack_tea_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111269",
+    "text_pt": "Sinto sono depois do almoço.",
+    "text_en": "I feel sleepy after lunch.",
+    "audio_en_storage_path": "1269_i_feel_sleepy_after_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111270",
+    "text_pt": "Um pequeno lanche me acorda.",
+    "text_en": "A small snack wakes me up.",
+    "audio_en_storage_path": "1270_a_small_snack_wakes_me_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111271",
+    "text_pt": "Eu faço chá ou chocolate quente.",
+    "text_en": "I make tea or hot chocolate.",
+    "audio_en_storage_path": "1271_i_make_tea_or_hot_chocolate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111272",
+    "text_pt": "E comer biscoitos ou bolo.",
+    "text_en": "And eat cookies or cake.",
+    "audio_en_storage_path": "1272_and_eat_cookies_or_cake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111273",
+    "text_pt": "A mesa tem xícaras, biscoitos e creme.",
+    "text_en": "The table has cups. cookies. and cream.",
+    "audio_en_storage_path": "1273_the_table_has_cups_cookies_and_cream.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111274",
+    "text_pt": "Parece uma pequena festa.",
+    "text_en": "It looks like a small party.",
+    "audio_en_storage_path": "1274_it_looks_like_a_small_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111275",
+    "text_pt": "Sento-me perto da janela e relaxo.",
+    "text_en": "I sit by the window and relax.",
+    "audio_en_storage_path": "1275_i_sit_by_the_window_and_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111276",
+    "text_pt": "Ou leio enquanto tomo chá.",
+    "text_en": "Or I read while sipping tea.",
+    "audio_en_storage_path": "1276_or_i_read_while_sipping_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111277",
+    "text_pt": "O que você gosta de comer à tarde?",
+    "text_en": "What do you like to eat in the afternoon?",
+    "audio_en_storage_path": "1277_what_do_you_like_to_eat_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111278",
+    "text_pt": "Adoro muffins e fatias de frutas.",
+    "text_en": "I love muffins and fruit slices.",
+    "audio_en_storage_path": "1278_i_love_muffins_and_fruit_slices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111279",
+    "text_pt": "Onde você guarda seus sachês de chá?",
+    "text_en": "Where do you keep your teabags?",
+    "audio_en_storage_path": "1279_where_do_you_keep_your_teabags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111280",
+    "text_pt": "Em um pequeno pote na prateleira.",
+    "text_en": "In a small jar on the shelf.",
+    "audio_en_storage_path": "1280_in_a_small_jar_on_the_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111281",
+    "text_pt": "Às vezes como frutas. Às vezes como doces.",
+    "text_en": "Sometimes I eat fruit. sometimes I eat sweets.",
+    "audio_en_storage_path": "1281_sometimes_i_eat_fruit_sometimes_i_eat_sweets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111282",
+    "text_pt": "Depende do que estiver disponível.",
+    "text_en": "It depends on what’s available.",
+    "audio_en_storage_path": "1282_it_depends_on_whats_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111283",
+    "text_pt": "Onde você deixou sua xícara?",
+    "text_en": "Where did you leave your cup?",
+    "audio_en_storage_path": "1283_where_did_you_leave_your_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111284",
+    "text_pt": "Na mesa — ao lado do meu telefone.",
+    "text_en": "On the desk — next to my phone.",
+    "audio_en_storage_path": "1284_on_the_desk_next_to_my_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111285",
+    "text_pt": "Quando é a hora do chá?",
+    "text_en": "When do you have tea time?",
+    "audio_en_storage_path": "1285_when_do_you_have_tea_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111286",
+    "text_pt": "Por volta das 15h — depois do trabalho ou da escola.",
+    "text_en": "Around 3:00 PM — after work or school.",
+    "audio_en_storage_path": "1286_around_300_pm_after_work_or_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111287",
+    "text_pt": "Por que você escolheu o chá hoje?",
+    "text_en": "Why did you choose tea today?",
+    "audio_en_storage_path": "1287_why_did_you_choose_tea_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111288",
+    "text_pt": "Porque eu queria algo quente e relaxante.",
+    "text_en": "Because I wanted something warm and calming.",
+    "audio_en_storage_path": "1288_because_i_wanted_something_warm_and_calming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111289",
+    "text_pt": "Gosto de fazer um pequeno lanche à tarde.",
+    "text_en": "I enjoy a small snack in the afternoon.",
+    "audio_en_storage_path": "1289_i_enjoy_a_small_snack_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111290",
+    "text_pt": "Isso me ajuda a concentrar até o jantar.",
+    "text_en": "It helps me focus until dinner.",
+    "audio_en_storage_path": "1290_it_helps_me_focus_until_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111291",
+    "text_pt": "Amanhã. Não comerei muitos biscoitos.",
+    "text_en": "Tomorrow. I will not eat too many cookies.",
+    "audio_en_storage_path": "1291_tomorrow_i_will_not_eat_too_many_cookies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111292",
+    "text_pt": "Tentarei ser mais equilibrado.",
+    "text_en": "I'll try to be more balanced.",
+    "audio_en_storage_path": "1292_ill_try_to_be_more_balanced.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111293",
+    "text_pt": "Aproveite seu chá!",
+    "text_en": "Enjoy your tea!",
+    "audio_en_storage_path": "1293_enjoy_your_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111294",
+    "text_pt": "Tire um momento para relaxar.",
+    "text_en": "Take a moment to relax.",
+    "audio_en_storage_path": "1294_take_a_moment_to_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111295",
+    "text_pt": "Jantar",
+    "text_en": "Dinner",
+    "audio_en_storage_path": "1295_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111296",
+    "text_pt": "O jantar está pronto e com um cheiro delicioso.",
+    "text_en": "Dinner is ready and smells delicious.",
+    "audio_en_storage_path": "1296_dinner_is_ready_and_smells_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111297",
+    "text_pt": "Mamãe fez macarrão, frango e salada.",
+    "text_en": "Mom made pasta. chicken. and salad.",
+    "audio_en_storage_path": "1297_mom_made_pasta_chicken_and_salad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111298",
+    "text_pt": "Nós sentamos juntos à mesa de jantar.",
+    "text_en": "We sit together at the dining table.",
+    "audio_en_storage_path": "1298_we_sit_together_at_the_dining_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111299",
+    "text_pt": "Ou comemos em frente à TV.",
+    "text_en": "Or we eat in front of the TV.",
+    "audio_en_storage_path": "1299_or_we_eat_in_front_of_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111300",
+    "text_pt": "Os pratos estão cheios e coloridos.",
+    "text_en": "The plates are full and colorful.",
+    "audio_en_storage_path": "1300_the_plates_are_full_and_colorful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111301",
+    "text_pt": "Tem arroz, feijão e peixe grelhado.",
+    "text_en": "There's rice. beans. and grilled fish.",
+    "audio_en_storage_path": "1301_theres_rice_beans_and_grilled_fish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111302",
+    "text_pt": "Eu uso garfo e faca para cortar a carne.",
+    "text_en": "I use a fork and knife to cut the meat.",
+    "audio_en_storage_path": "1302_i_use_a_fork_and_knife_to_cut_the_meat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111303",
+    "text_pt": "E uma colher para a sopa.",
+    "text_en": "And a spoon for the soup.",
+    "audio_en_storage_path": "1303_and_a_spoon_for_the_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111304",
+    "text_pt": "O que você comeu no jantar hoje à noite?",
+    "text_en": "What did you have for dinner tonight?",
+    "audio_en_storage_path": "1304_what_did_you_have_for_dinner_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111305",
+    "text_pt": "Legumes salteados e tofu — estilo vegano.",
+    "text_en": "Stir-fried vegetables and tofu — vegan style.",
+    "audio_en_storage_path": "1305_stirfried_vegetables_and_tofu_vegan_style.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111306",
+    "text_pt": "Onde você janta na maioria das noites?",
+    "text_en": "Where do you eat dinner most nights?",
+    "audio_en_storage_path": "1306_where_do_you_eat_dinner_most_nights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111307",
+    "text_pt": "Em casa, com a família ou com colegas de quarto.",
+    "text_en": "At home. with family or roommates.",
+    "audio_en_storage_path": "1307_at_home_with_family_or_roommates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111308",
+    "text_pt": "Às vezes eu cozinho. Às vezes outra pessoa cozinha.",
+    "text_en": "Sometimes I cook. sometimes someone else does.",
+    "audio_en_storage_path": "1308_sometimes_i_cook_sometimes_someone_else_does.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111309",
+    "text_pt": "Mas eu sempre ajudo a pôr a mesa.",
+    "text_en": "But I always help set the table.",
+    "audio_en_storage_path": "1309_but_i_always_help_set_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111310",
+    "text_pt": "Onde está o cardápio do jantar hoje à noite?",
+    "text_en": "Where is the dinner menu tonight?",
+    "audio_en_storage_path": "1310_where_is_the_dinner_menu_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111311",
+    "text_pt": "Na geladeira — escrito com ímãs.",
+    "text_en": "On the fridge — written with magnets.",
+    "audio_en_storage_path": "1311_on_the_fridge_written_with_magnets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111312",
+    "text_pt": "Quando você costuma jantar?",
+    "text_en": "When do you usually eat dinner?",
+    "audio_en_storage_path": "1312_when_do_you_usually_eat_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111313",
+    "text_pt": "Por volta das 18h30 — depois do dever de casa ou do trabalho.",
+    "text_en": "Around 6:30 PM — after homework or work.",
+    "audio_en_storage_path": "1313_around_630_pm_after_homework_or_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111314",
+    "text_pt": "Por que você pediu mais?",
+    "text_en": "Why did you ask for seconds?",
+    "audio_en_storage_path": "1314_why_did_you_ask_for_seconds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111315",
+    "text_pt": "Porque tudo tinha um sabor incrível.",
+    "text_en": "Because everything tasted amazing.",
+    "audio_en_storage_path": "1315_because_everything_tasted_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111316",
+    "text_pt": "Jantamos juntos quase todas as noites.",
+    "text_en": "We eat dinner together almost every night.",
+    "audio_en_storage_path": "1316_we_eat_dinner_together_almost_every_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111317",
+    "text_pt": "É um bom momento para conversar e compartilhar histórias.",
+    "text_en": "It's a good time to talk and share stories.",
+    "audio_en_storage_path": "1317_its_a_good_time_to_talk_and_share_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111318",
+    "text_pt": "Amanhã. Não comerei tão rápido novamente.",
+    "text_en": "Tomorrow. I will not eat too fast again.",
+    "audio_en_storage_path": "1318_tomorrow_i_will_not_eat_too_fast_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111319",
+    "text_pt": "Vou mastigar devagar e aproveitar cada mordida.",
+    "text_en": "I’ll chew slowly and enjoy every bite.",
+    "audio_en_storage_path": "1319_ill_chew_slowly_and_enjoy_every_bite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111320",
+    "text_pt": "Boa noite!",
+    "text_en": "Goodnight!",
+    "audio_en_storage_path": "1320_goodnight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111321",
+    "text_pt": "Espero que você tenha gostado do seu jantar.",
+    "text_en": "Hope you enjoyed your dinner.",
+    "audio_en_storage_path": "1321_hope_you_enjoyed_your_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111322",
+    "text_pt": "Jantar em um restaurante",
+    "text_en": "Dinner at a Restaurant",
+    "audio_en_storage_path": "1322_dinner_at_a_restaurant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111323",
+    "text_pt": "Vamos jantar fora hoje à noite.",
+    "text_en": "We're going out for dinner tonight.",
+    "audio_en_storage_path": "1323_were_going_out_for_dinner_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111324",
+    "text_pt": "O restaurante é bom e não fica muito longe.",
+    "text_en": "The restaurant is nice and not too far.",
+    "audio_en_storage_path": "1324_the_restaurant_is_nice_and_not_too_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111325",
+    "text_pt": "Lemos o menu e decidimos o que pedir.",
+    "text_en": "We read the menu and decide what to order.",
+    "audio_en_storage_path": "1325_we_read_the_menu_and_decide_what_to_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111326",
+    "text_pt": "Eu escolho pasta. Minha irmã escolhe pizza.",
+    "text_en": "I pick folder. my sister picks pizza.",
+    "audio_en_storage_path": "1326_i_pick_folder_my_sister_picks_pizza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111327",
+    "text_pt": "O lugar é aconchegante e suavemente iluminado.",
+    "text_en": "The place is cozy and softly lit.",
+    "audio_en_storage_path": "1327_the_place_is_cozy_and_softly_lit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111328",
+    "text_pt": "Há velas nas mesas.",
+    "text_en": "There are candles on the tables.",
+    "audio_en_storage_path": "1328_there_are_candles_on_the_tables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111329",
+    "text_pt": "Nós conversamos, rimos e aproveitamos nossa comida.",
+    "text_en": "We talk. laugh. and enjoy our food.",
+    "audio_en_storage_path": "1329_we_talk_laugh_and_enjoy_our_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111330",
+    "text_pt": "O garçom traz água e verifica como estamos.",
+    "text_en": "The waiter brings water and checks on us.",
+    "audio_en_storage_path": "1330_the_waiter_brings_water_and_checks_on_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111331",
+    "text_pt": "A que tipo de restaurante você foi?",
+    "text_en": "What kind of restaurant did you go to?",
+    "audio_en_storage_path": "1331_what_kind_of_restaurant_did_you_go_to.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111332",
+    "text_pt": "Uma italiana — com pão de alho e vinho.",
+    "text_en": "An Italian one — with garlic bread and wine.",
+    "audio_en_storage_path": "1332_an_italian_one_with_garlic_bread_and_wine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111333",
+    "text_pt": "Qual é seu lugar favorito para comer fora?",
+    "text_en": "Where is your favorite place to eat out?",
+    "audio_en_storage_path": "1333_where_is_your_favorite_place_to_eat_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111334",
+    "text_pt": "Perto do parque — eles têm ótimas sobremesas.",
+    "text_en": "Near the park — they have great desserts.",
+    "audio_en_storage_path": "1334_near_the_park_they_have_great_desserts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111335",
+    "text_pt": "Às vezes comemos de forma requintada. Às vezes, de forma casual.",
+    "text_en": "Sometimes we eat fancy. sometimes casual.",
+    "audio_en_storage_path": "1335_sometimes_we_eat_fancy_sometimes_casual.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111336",
+    "text_pt": "Depende da ocasião.",
+    "text_en": "It depends on the occasion.",
+    "audio_en_storage_path": "1336_it_depends_on_the_occasion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111337",
+    "text_pt": "Onde você deixou seu casaco?",
+    "text_en": "Where did you leave your coat?",
+    "audio_en_storage_path": "1337_where_did_you_leave_your_coat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111338",
+    "text_pt": "Na entrada — perto do posto dos garçons.",
+    "text_en": "At the entrance — near the waiter's station.",
+    "audio_en_storage_path": "1338_at_the_entrance_near_the_waiters_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111339",
+    "text_pt": "Quando você costuma sair para jantar?",
+    "text_en": "When do you usually go out for dinner?",
+    "audio_en_storage_path": "1339_when_do_you_usually_go_out_for_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111340",
+    "text_pt": "Nos fins de semana ou em dias especiais, como aniversários.",
+    "text_en": "On weekends or special days like birthdays.",
+    "audio_en_storage_path": "1340_on_weekends_or_special_days_like_birthdays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111341",
+    "text_pt": "Por que você escolheu esse lugar?",
+    "text_en": "Why did you choose this place?",
+    "audio_en_storage_path": "1341_why_did_you_choose_this_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111342",
+    "text_pt": "Porque tem boas críticas e uma bela vista.",
+    "text_en": "Because it has good reviews and a nice view.",
+    "audio_en_storage_path": "1342_because_it_has_good_reviews_and_a_nice_view.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111343",
+    "text_pt": "Gostamos de sair para jantar de vez em quando.",
+    "text_en": "We enjoy going out for dinner once in a while.",
+    "audio_en_storage_path": "1343_we_enjoy_going_out_for_dinner_once_in_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111344",
+    "text_pt": "Isso nos faz sentir especiais.",
+    "text_en": "It makes us feel special.",
+    "audio_en_storage_path": "1344_it_makes_us_feel_special.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111345",
+    "text_pt": "Na próxima vez, não esqueceremos de fazer uma reserva.",
+    "text_en": "Next time. we will not forget to make a reservation.",
+    "audio_en_storage_path": "1345_next_time_we_will_not_forget_to_make_a_reservation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111346",
+    "text_pt": "Esperamos 30 minutos da última vez.",
+    "text_en": "We waited 30 minutes last time.",
+    "audio_en_storage_path": "1346_we_waited_30_minutes_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111347",
+    "text_pt": "Obrigado pela noite adorável!",
+    "text_en": "Thank you for the lovely evening!",
+    "audio_en_storage_path": "1347_thank_you_for_the_lovely_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111348",
+    "text_pt": "Vamos fazer isso de novo em breve.",
+    "text_en": "Let’s do it again soon.",
+    "audio_en_storage_path": "1348_lets_do_it_again_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111349",
+    "text_pt": "Pedindo o jantar",
+    "text_en": "Ordering Dinner",
+    "audio_en_storage_path": "1349_ordering_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111350",
+    "text_pt": "Ligo para o restaurante ou uso um aplicativo.",
+    "text_en": "I call the restaurant or use an app.",
+    "audio_en_storage_path": "1350_i_call_the_restaurant_or_use_an_app.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111351",
+    "text_pt": "É fácil e rápido fazer pedidos on-line.",
+    "text_en": "It's easy and fast to order online.",
+    "audio_en_storage_path": "1351_its_easy_and_fast_to_order_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111352",
+    "text_pt": "Eu escolho o que quero e confirmo o pedido.",
+    "text_en": "I choose what I want and confirm the order.",
+    "audio_en_storage_path": "1352_i_choose_what_i_want_and_confirm_the_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111353",
+    "text_pt": "Então espero a entrega.",
+    "text_en": "Then I wait for the delivery.",
+    "audio_en_storage_path": "1353_then_i_wait_for_the_delivery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111354",
+    "text_pt": "A comida vem em um saco de papel ou caixa.",
+    "text_en": "The food comes in a paper bag or box.",
+    "audio_en_storage_path": "1354_the_food_comes_in_a_paper_bag_or_box.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111355",
+    "text_pt": "Ainda tem um cheiro quente e fresco.",
+    "text_en": "It still smells warm and fresh.",
+    "audio_en_storage_path": "1355_it_still_smells_warm_and_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111356",
+    "text_pt": "Verifico se está tudo correto.",
+    "text_en": "I check if everything is correct.",
+    "audio_en_storage_path": "1356_i_check_if_everything_is_correct.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111357",
+    "text_pt": "Sem erros — tudo lá e delicioso.",
+    "text_en": "No mistakes — all there and delicious.",
+    "audio_en_storage_path": "1357_no_mistakes_all_there_and_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111358",
+    "text_pt": "O que você pediu para o jantar?",
+    "text_en": "What did you order for dinner?",
+    "audio_en_storage_path": "1358_what_did_you_order_for_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111359",
+    "text_pt": "Arroz frito e frango — meus favoritos.",
+    "text_en": "Fried rice and chicken — my favorite.",
+    "audio_en_storage_path": "1359_fried_rice_and_chicken_my_favorite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111360",
+    "text_pt": "De onde você tirou isso?",
+    "text_en": "Where did you get it from?",
+    "audio_en_storage_path": "1360_where_did_you_get_it_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111361",
+    "text_pt": "Do restaurante asiático no fim da rua.",
+    "text_en": "From the Asian place down the street.",
+    "audio_en_storage_path": "1361_from_the_asian_place_down_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111362",
+    "text_pt": "Às vezes eu cozinho. Às vezes eu peço.",
+    "text_en": "Sometimes I cook. sometimes I order.",
+    "audio_en_storage_path": "1362_sometimes_i_cook_sometimes_i_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111363",
+    "text_pt": "Depende de quão cansado eu esteja.",
+    "text_en": "It depends on how tired I am.",
+    "audio_en_storage_path": "1363_it_depends_on_how_tired_i_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111364",
+    "text_pt": "Onde está o recibo?",
+    "text_en": "Where is the receipt?",
+    "audio_en_storage_path": "1364_where_is_the_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111365",
+    "text_pt": "Dentro do saco — em cima da comida.",
+    "text_en": "Inside the bag — on top of the food.",
+    "audio_en_storage_path": "1365_inside_the_bag_on_top_of_the_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111366",
+    "text_pt": "Quando a comida vai chegar?",
+    "text_en": "When will the food arrive?",
+    "audio_en_storage_path": "1366_when_will_the_food_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111367",
+    "text_pt": "Em cerca de 25 minutos — rastreando agora.",
+    "text_en": "In about 25 minutes — tracking it now.",
+    "audio_en_storage_path": "1367_in_about_25_minutes_tracking_it_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111368",
+    "text_pt": "Por que você pediu em vez de cozinhar?",
+    "text_en": "Why did you order instead of cooking?",
+    "audio_en_storage_path": "1368_why_did_you_order_instead_of_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111369",
+    "text_pt": "Porque eu não tinha vontade de fazer nada.",
+    "text_en": "Because I didn't feel like doing anything.",
+    "audio_en_storage_path": "1369_because_i_didnt_feel_like_doing_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111370",
+    "text_pt": "Costumo pedir jantar durante a semana.",
+    "text_en": "I often order dinner during the week.",
+    "audio_en_storage_path": "1370_i_often_order_dinner_during_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111371",
+    "text_pt": "Economiza tempo e esforço.",
+    "text_en": "It saves time and effort.",
+    "audio_en_storage_path": "1371_it_saves_time_and_effort.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111372",
+    "text_pt": "Amanhã. Não vou esquecer de dar gorjeta ao motorista.",
+    "text_en": "Tomorrow. I will not forget to tip the driver.",
+    "audio_en_storage_path": "1372_tomorrow_i_will_not_forget_to_tip_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111373",
+    "text_pt": "Vou adicioná-lo ao aplicativo antes de confirmar.",
+    "text_en": "I’ll add it in the app before confirming.",
+    "audio_en_storage_path": "1373_ill_add_it_in_the_app_before_confirming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111374",
+    "text_pt": "Desfrute de sua refeição!",
+    "text_en": "Enjoy your meal!",
+    "audio_en_storage_path": "1374_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111375",
+    "text_pt": "Espero que fique ótimo!",
+    "text_en": "Hope it tastes great!",
+    "audio_en_storage_path": "1375_hope_it_tastes_great.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111376",
+    "text_pt": "Café da manhã",
+    "text_en": "Breakfast",
+    "audio_en_storage_path": "1376_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111377",
+    "text_pt": "A cozinha cheira a torrada e café.",
+    "text_en": "The kitchen smells like toast and coffee.",
+    "audio_en_storage_path": "1377_the_kitchen_smells_like_toast_and_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111378",
+    "text_pt": "É de manhã e o café da manhã está pronto.",
+    "text_en": "It's morning. and breakfast is ready.",
+    "audio_en_storage_path": "1378_its_morning_and_breakfast_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111379",
+    "text_pt": "Eu como cereal com leite ou ovos mexidos.",
+    "text_en": "I eat cereal with milk or scrambled eggs.",
+    "audio_en_storage_path": "1379_i_eat_cereal_with_milk_or_scrambled_eggs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111380",
+    "text_pt": "Às vezes como fruta ou iogurte.",
+    "text_en": "Sometimes I have fruit or yogurt.",
+    "audio_en_storage_path": "1380_sometimes_i_have_fruit_or_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111381",
+    "text_pt": "A mesa tem um prato, uma xícara e uma colher.",
+    "text_en": "The table has a plate. cup. and spoon.",
+    "audio_en_storage_path": "1381_the_table_has_a_plate_cup_and_spoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111382",
+    "text_pt": "Também tem pão e geleia.",
+    "text_en": "There’s also bread and jam.",
+    "audio_en_storage_path": "1382_theres_also_bread_and_jam.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111383",
+    "text_pt": "Sento-me à mesa e leio meu telefone.",
+    "text_en": "I sit at the table and read my phone.",
+    "audio_en_storage_path": "1383_i_sit_at_the_table_and_read_my_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111384",
+    "text_pt": "Ou eu falo com meu irmão enquanto como.",
+    "text_en": "Or I talk to my brother while eating.",
+    "audio_en_storage_path": "1384_or_i_talk_to_my_brother_while_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111385",
+    "text_pt": "A que horas você costuma tomar café da manhã?",
+    "text_en": "What time do you usually eat breakfast?",
+    "audio_en_storage_path": "1385_what_time_do_you_usually_eat_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111386",
+    "text_pt": "Por volta das 7:00 — depois de escovar os dentes.",
+    "text_en": "Around 7:00 — after brushing my teeth.",
+    "audio_en_storage_path": "1386_around_700_after_brushing_my_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111387",
+    "text_pt": "Onde você guarda seu cereal?",
+    "text_en": "Where do you keep your cereal?",
+    "audio_en_storage_path": "1387_where_do_you_keep_your_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111388",
+    "text_pt": "Na despensa — ao lado dos lanches.",
+    "text_en": "In the pantry — next to the snacks.",
+    "audio_en_storage_path": "1388_in_the_pantry_next_to_the_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111389",
+    "text_pt": "Algumas manhãs eu como rápido. desaparecem lentamente.",
+    "text_en": "Some mornings I eat fast. disappear slowly.",
+    "audio_en_storage_path": "1389_some_mornings_i_eat_fast_disappear_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111390",
+    "text_pt": "Depende de quão cedo eu preciso sair.",
+    "text_en": "It depends on how early I need to leave.",
+    "audio_en_storage_path": "1390_it_depends_on_how_early_i_need_to_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111391",
+    "text_pt": "Onde você deixou sua colher?",
+    "text_en": "Where did you leave your spoon?",
+    "audio_en_storage_path": "1391_where_did_you_leave_your_spoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111392",
+    "text_pt": "Na tigela — ainda cheia de iogurte.",
+    "text_en": "In the bowl — still full of yogurt.",
+    "audio_en_storage_path": "1392_in_the_bowl_still_full_of_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111393",
+    "text_pt": "Quando você vai comer amanhã?",
+    "text_en": "When will you eat tomorrow?",
+    "audio_en_storage_path": "1393_when_will_you_eat_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111394",
+    "text_pt": "Depois de acordar — talvez por volta das 7h15.",
+    "text_en": "After waking up — maybe around 7:15.",
+    "audio_en_storage_path": "1394_after_waking_up_maybe_around_715.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111395",
+    "text_pt": "Por que você fez panquecas hoje?",
+    "text_en": "Why did you make pancakes today?",
+    "audio_en_storage_path": "1395_why_did_you_make_pancakes_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111396",
+    "text_pt": "Porque estava chovendo e eu tinha tempo.",
+    "text_en": "Because it was raining and I had time.",
+    "audio_en_storage_path": "1396_because_it_was_raining_and_i_had_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111397",
+    "text_pt": "Eu sempre começo meu dia comendo alguma coisa.",
+    "text_en": "I always start my day with something to eat.",
+    "audio_en_storage_path": "1397_i_always_start_my_day_with_something_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111398",
+    "text_pt": "Isso me dá energia para o dia todo.",
+    "text_en": "It gives me energy for the day.",
+    "audio_en_storage_path": "1398_it_gives_me_energy_for_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111399",
+    "text_pt": "Amanhã. Não vou esquecer minhas chaves novamente.",
+    "text_en": "Tomorrow. I will not forget my keys again.",
+    "audio_en_storage_path": "1399_tomorrow_i_will_not_forget_my_keys_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111400",
+    "text_pt": "Vou colocá-los ao lado do meu prato de café da manhã.",
+    "text_en": "I’ll put them next to my breakfast plate.",
+    "audio_en_storage_path": "1400_ill_put_them_next_to_my_breakfast_plate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

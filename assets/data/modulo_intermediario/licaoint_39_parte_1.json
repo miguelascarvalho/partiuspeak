@@ -1,0 +1,263 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121231",
+    "text_pt": "As pessoas estão dançando e se divertindo na festa",
+    "text_en": "People are dancing and having fun at the party",
+    "audio_en_storage_path": "1231_people_are_dancing_and_having_fun_at_the_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121232",
+    "text_pt": "As pessoas estão dançando e se divertindo muito por lá",
+    "text_en": "Folks are dancin’ and havin’ a blast over there",
+    "audio_en_storage_path": "1232_folks_are_dancin_and_havin_a_blast_over_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121233",
+    "text_pt": "A música é alta, mas todo mundo parece gostar",
+    "text_en": "The music is loud but everyone seems to enjoy it",
+    "audio_en_storage_path": "1233_the_music_is_loud_but_everyone_seems_to_enjoy_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121234",
+    "text_pt": "As batidas estão bombando, mas todo mundo está adorando",
+    "text_en": "Beats are bumpin’ but everyone’s lovin’ it",
+    "audio_en_storage_path": "1234_beats_are_bumpin_but_everyones_lovin_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121235",
+    "text_pt": "Há lanches e bebidas na mesa perto da janela",
+    "text_en": "There are snacks and drinks on the table near the window",
+    "audio_en_storage_path": "1235_there_are_snacks_and_drinks_on_the_table_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121236",
+    "text_pt": "Tenho batatas fritas, molhos e bebidas, todos alinhados perto da janela",
+    "text_en": "Got chips. dips. and drinks all lined up by the window",
+    "audio_en_storage_path": "1236_got_chips_dips_and_drinks_all_lined_up_by_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121237",
+    "text_pt": "Algumas pessoas estão sentadas lá fora conversando enquanto outras estão dançando",
+    "text_en": "Some people are sitting outside talking while others are dancing",
+    "audio_en_storage_path": "1237_some_people_are_sitting_outside_talking_while_others_are_dancing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121238",
+    "text_pt": "Poucas pessoas relaxando e conversando. Outras dançando intensamente",
+    "text_en": "Few folks chillin’ out back chat’n. others dancin’ hard",
+    "audio_en_storage_path": "1238_few_folks_chillin_out_back_chatn_others_dancin_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121239",
+    "text_pt": "Conheci alguém novo e conversamos por um tempo",
+    "text_en": "I met someone new and we talked for a while",
+    "audio_en_storage_path": "1239_i_met_someone_new_and_we_talked_for_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121240",
+    "text_pt": "Encontrei essa pessoa legal e conversamos um pouco",
+    "text_en": "Ran into this cool person and chatted for a bit",
+    "audio_en_storage_path": "1240_ran_into_this_cool_person_and_chatted_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121241",
+    "text_pt": "Você poderia me dizer onde fica o banheiro?",
+    "text_en": "Could you tell me where the bathroom is?",
+    "audio_en_storage_path": "1241_could_you_tell_me_where_the_bathroom_is.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121242",
+    "text_pt": "Você poderia me mostrar o banheiro rapidinho?",
+    "text_en": "Couldja point me to the restroom real quick?",
+    "audio_en_storage_path": "1242_couldja_point_me_to_the_restroom_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121243",
+    "text_pt": "Essa é a primeira vez que venho a uma festa como essa",
+    "text_en": "This is my first time coming to a party like this",
+    "audio_en_storage_path": "1243_this_is_my_first_time_coming_to_a_party_like_this.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121244",
+    "text_pt": "Primeira vez em uma festa como essa — bem selvagem",
+    "text_en": "First time at a shindig like this — pretty wild",
+    "audio_en_storage_path": "1244_first_time_at_a_shindig_like_this_pretty_wild.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121245",
+    "text_pt": "Ela trouxe seu violão e tocou algumas músicas",
+    "text_en": "She brought her guitar and played a few songs",
+    "audio_en_storage_path": "1245_she_brought_her_guitar_and_played_a_few_songs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121246",
+    "text_pt": "Ela apareceu com seu violão e lançou algumas músicas",
+    "text_en": "She showed up with her guitar and dropped a few tunes",
+    "audio_en_storage_path": "1246_she_showed_up_with_her_guitar_and_dropped_a_few_tunes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121247",
+    "text_pt": "Deixe-me pegar algo para comer antes que eu esqueça",
+    "text_en": "Let me grab something to eat before I forget",
+    "audio_en_storage_path": "1247_let_me_grab_something_to_eat_before_i_forget.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121248",
+    "text_pt": "Deixe-me dar uma mordida antes que eu esqueça que estou com fome",
+    "text_en": "Lemme snag a bite ‘fore I forget I’m hungry",
+    "audio_en_storage_path": "1248_lemme_snag_a_bite_fore_i_forget_im_hungry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121249",
+    "text_pt": "Ele me ofereceu uma bebida e perguntou se eu estava me divertindo",
+    "text_en": "He offered me a drink and asked if I was having fun",
+    "audio_en_storage_path": "1249_he_offered_me_a_drink_and_asked_if_i_was_having_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121250",
+    "text_pt": "O cara me deu uma bebida e verificou se eu estava me divertindo",
+    "text_en": "Dude handed me a drink and checked if I was enjoyin’ myself",
+    "audio_en_storage_path": "1250_dude_handed_me_a_drink_and_checked_if_i_was_enjoyin_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121251",
+    "text_pt": "Há luzes penduradas em todos os lugares, o que faz com que pareça mágico",
+    "text_en": "There are lights hanging everywhere making it look magical",
+    "audio_en_storage_path": "1251_there_are_lights_hanging_everywhere_making_it_look_magical.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121252",
+    "text_pt": "Luzes espalhadas por todo lugar — faz parecer um mundo de sonho",
+    "text_en": "Lights strung all over — makes it feel like a dream world",
+    "audio_en_storage_path": "1252_lights_strung_all_over_makes_it_feel_like_a_dream_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121253",
+    "text_pt": "Se você quiser mais comida, é só me avisar.",
+    "text_en": "If you want more food. just let me know",
+    "audio_en_storage_path": "1253_if_you_want_more_food_just_let_me_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121254",
+    "text_pt": "Se precisar de mais petiscos, é só gritar",
+    "text_en": "If ya need more munchies. just shout",
+    "audio_en_storage_path": "1254_if_ya_need_more_munchies_just_shout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121255",
+    "text_pt": "Deveríamos dançar juntos mais tarde",
+    "text_en": "We should dance together later",
+    "audio_en_storage_path": "1255_we_should_dance_together_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121256",
+    "text_pt": "Temos que ir para a pista juntos mais tarde",
+    "text_en": "We gotta hit the floor together later",
+    "audio_en_storage_path": "1256_we_gotta_hit_the_floor_together_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121257",
+    "text_pt": "Obrigado por me convidar. Estou gostando muito.",
+    "text_en": "Thanks for inviting me. I’m really enjoying it",
+    "audio_en_storage_path": "1257_thanks_for_inviting_me_im_really_enjoying_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121258",
+    "text_pt": "Agradeço o convite — estou me divertindo muito",
+    "text_en": "Appreciate the invite — havin’ a great time",
+    "audio_en_storage_path": "1258_appreciate_the_invite_havin_a_great_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121259",
+    "text_pt": "Tenha uma boa noite e mantenha a energia alta",
+    "text_en": "Have a good night and keep the energy high",
+    "audio_en_storage_path": "1259_have_a_good_night_and_keep_the_energy_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

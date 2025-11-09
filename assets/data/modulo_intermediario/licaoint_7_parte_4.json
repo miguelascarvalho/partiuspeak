@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110863",
+    "text_pt": "Metrô / Trem",
+    "text_en": "Subway / Train",
+    "audio_en_storage_path": "863_subway_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110864",
+    "text_pt": "Ele pega o metrô para o centro da cidade.",
+    "text_en": "He takes the subway to the city center.",
+    "audio_en_storage_path": "864_he_takes_the_subway_to_the_city_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110865",
+    "text_pt": "Ela passa por baixo das ruas e prédios.",
+    "text_en": "It runs under the streets and buildings.",
+    "audio_en_storage_path": "865_it_runs_under_the_streets_and_buildings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110866",
+    "text_pt": "O trem para em estações diferentes.",
+    "text_en": "The train stops at different stations.",
+    "audio_en_storage_path": "866_the_train_stops_at_different_stations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110867",
+    "text_pt": "Cada um tem um nome e um mapa.",
+    "text_en": "Each one has a name and a map.",
+    "audio_en_storage_path": "867_each_one_has_a_name_and_a_map.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110868",
+    "text_pt": "Ela mostra seu ingresso ao portão.",
+    "text_en": "She shows her ticket to the gate.",
+    "audio_en_storage_path": "868_she_shows_her_ticket_to_the_gate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110869",
+    "text_pt": "Então ela caminha até a plataforma.",
+    "text_en": "Then she walks to the platform.",
+    "audio_en_storage_path": "869_then_she_walks_to_the_platform.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110870",
+    "text_pt": "Esperamos o trem juntos.",
+    "text_en": "We wait for the train together.",
+    "audio_en_storage_path": "870_we_wait_for_the_train_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110871",
+    "text_pt": "Conversamos ou ouvimos música enquanto esperamos.",
+    "text_en": "We talk or listen to music while waiting.",
+    "audio_en_storage_path": "871_we_talk_or_listen_to_music_while_waiting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110872",
+    "text_pt": "Eles sentam ou seguram as barras quando ele se move.",
+    "text_en": "They sit or hold the bars when it moves.",
+    "audio_en_storage_path": "872_they_sit_or_hold_the_bars_when_it_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110873",
+    "text_pt": "Fica lotado na hora do rush.",
+    "text_en": "It gets crowded during rush hour.",
+    "audio_en_storage_path": "873_it_gets_crowded_during_rush_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110874",
+    "text_pt": "O metrô é rápido e conecta muitos lugares.",
+    "text_en": "The subway is fast and connects many places.",
+    "audio_en_storage_path": "874_the_subway_is_fast_and_connects_many_places.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110875",
+    "text_pt": "Ajuda as pessoas a se movimentarem com facilidade.",
+    "text_en": "It helps people move easily.",
+    "audio_en_storage_path": "875_it_helps_people_move_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110876",
+    "text_pt": "A que horas o trem chega?",
+    "text_en": "What time does the train come?",
+    "audio_en_storage_path": "876_what_time_does_the_train_come.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110877",
+    "text_pt": "Em cerca de dois minutos — verifique a tela.",
+    "text_en": "In about two minutes — check the screen.",
+    "audio_en_storage_path": "877_in_about_two_minutes_check_the_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110878",
+    "text_pt": "Para onde vai o trem?",
+    "text_en": "Where does the train go?",
+    "audio_en_storage_path": "878_where_does_the_train_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110879",
+    "text_pt": "Para escolas, escritórios e centros comerciais.",
+    "text_en": "To schools. offices. and shopping centers.",
+    "audio_en_storage_path": "879_to_schools_offices_and_shopping_centers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110880",
+    "text_pt": "Quando você usa o metrô?",
+    "text_en": "When do you use the subway?",
+    "audio_en_storage_path": "880_when_do_you_use_the_subway.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110881",
+    "text_pt": "Todos os dias da semana — faz parte da minha rotina.",
+    "text_en": "Every weekday — it's part of my routine.",
+    "audio_en_storage_path": "881_every_weekday_its_part_of_my_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110882",
+    "text_pt": "Por que você prefere o trem?",
+    "text_en": "Why do you prefer the train?",
+    "audio_en_storage_path": "882_why_do_you_prefer_the_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110883",
+    "text_pt": "Porque é mais barato e menos estressante.",
+    "text_en": "Because it's cheaper and less stressful.",
+    "audio_en_storage_path": "883_because_its_cheaper_and_less_stressful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110884",
+    "text_pt": "Ele usa o metrô para explorar novas partes da cidade.",
+    "text_en": "He uses the metro to explore new parts of town.",
+    "audio_en_storage_path": "884_he_uses_the_metro_to_explore_new_parts_of_town.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110885",
+    "text_pt": "Isso o faz sentir como um viajante.",
+    "text_en": "It makes him feel like a traveler.",
+    "audio_en_storage_path": "885_it_makes_him_feel_like_a_traveler.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110886",
+    "text_pt": "Amanhã não perderemos o último trem.",
+    "text_en": "Tomorrow. we will not miss the last train.",
+    "audio_en_storage_path": "886_tomorrow_we_will_not_miss_the_last_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110887",
+    "text_pt": "Desta vez sairemos mais cedo.",
+    "text_en": "We’ll leave earlier this time.",
+    "audio_en_storage_path": "887_well_leave_earlier_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110888",
+    "text_pt": "Cuidado com onde pisa!",
+    "text_en": "Watch your step!",
+    "audio_en_storage_path": "888_watch_your_step.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110889",
+    "text_pt": "Fique atrás da linha amarela.",
+    "text_en": "Stay behind the yellow line.",
+    "audio_en_storage_path": "889_stay_behind_the_yellow_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110401",
+    "text_pt": "Quinta-feira – Preparando-se para o fim de semana",
+    "text_en": "Thursday – Preparing for the Weekend",
+    "audio_en_storage_path": "401_thursday_preparing_for_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110402",
+    "text_pt": "Foco: Organização. Energia para o fim de semana",
+    "text_en": "Focus: Organization. Energy for the weekend",
+    "audio_en_storage_path": "402_focus_organization_energy_for_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110403",
+    "text_pt": "Acordo cedo novamente.",
+    "text_en": "I wake up early again.",
+    "audio_en_storage_path": "403_i_wake_up_early_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110404",
+    "text_pt": "Quero terminar minhas tarefas antes do fim de semana.",
+    "text_en": "I want to finish my tasks before the weekend.",
+    "audio_en_storage_path": "404_i_want_to_finish_my_tasks_before_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110405",
+    "text_pt": "Tomo café e torrada.",
+    "text_en": "I have coffee and toast.",
+    "audio_en_storage_path": "405_i_have_coffee_and_toast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110406",
+    "text_pt": "Café da manhã rápido. Grande dia pela frente.",
+    "text_en": "Quick breakfast. big day ahead.",
+    "audio_en_storage_path": "406_quick_breakfast_big_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110407",
+    "text_pt": "No trabalho. Terminei um projeto que comecei na segunda-feira.",
+    "text_en": "At work. I finished a project I started on Monday.",
+    "audio_en_storage_path": "407_at_work_i_finished_a_project_i_started_on_monday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110408",
+    "text_pt": "Sinto orgulho quando concluo as coisas.",
+    "text_en": "I feel proud when I complete things.",
+    "audio_en_storage_path": "408_i_feel_proud_when_i_complete_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110409",
+    "text_pt": "Ajudar a treinar um novo funcionário.",
+    "text_en": "I help train a new employee.",
+    "audio_en_storage_path": "409_i_help_train_a_new_employee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110410",
+    "text_pt": "Compartilhar conhecimento é importante.",
+    "text_en": "Sharing knowledge is important.",
+    "audio_en_storage_path": "410_sharing_knowledge_is_important.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110411",
+    "text_pt": "Durante o almoço. Ligo para minha mãe.",
+    "text_en": "During lunch. I call my mom.",
+    "audio_en_storage_path": "411_during_lunch_i_call_my_mom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110412",
+    "text_pt": "Conversamos sobre os planos para o fim de semana.",
+    "text_en": "We talk about the weekend plans.",
+    "audio_en_storage_path": "412_we_talk_about_the_weekend_plans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110413",
+    "text_pt": "À tarde, envio os e-mails finais.",
+    "text_en": "In the afternoon. I send final emails.",
+    "audio_en_storage_path": "413_in_the_afternoon_i_send_final_emails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110414",
+    "text_pt": "Eu também me preparo para amanhã.",
+    "text_en": "I prepare for tomorrow too.",
+    "audio_en_storage_path": "414_i_prepare_for_tomorrow_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110415",
+    "text_pt": "Quem trabalha ao seu lado?",
+    "text_en": "Who works next to you?",
+    "audio_en_storage_path": "415_who_works_next_to_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110416",
+    "text_pt": "Mark — ele se senta na mesa ao lado da minha.",
+    "text_en": "Mark — he sits at the desk beside mine.",
+    "audio_en_storage_path": "416_mark_he_sits_at_the_desk_beside_mine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110417",
+    "text_pt": "Quando você terminará esta tarefa?",
+    "text_en": "When will you finish this task?",
+    "audio_en_storage_path": "417_when_will_you_finish_this_task.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110418",
+    "text_pt": "Provavelmente hoje antes do almoço.",
+    "text_en": "Probably today before lunch.",
+    "audio_en_storage_path": "418_probably_today_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110419",
+    "text_pt": "Por que você trabalha tanto?",
+    "text_en": "Why do you work so hard?",
+    "audio_en_storage_path": "419_why_do_you_work_so_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110420",
+    "text_pt": "Porque gosto do que faço.",
+    "text_en": "Because I enjoy what I do.",
+    "audio_en_storage_path": "420_because_i_enjoy_what_i_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110421",
+    "text_pt": "Tento terminar meu trabalho antes de sexta-feira.",
+    "text_en": "I try to finish my work before Friday.",
+    "audio_en_storage_path": "421_i_try_to_finish_my_work_before_friday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110422",
+    "text_pt": "Para que eu possa relaxar no fim de semana.",
+    "text_en": "So I can relax on the weekend.",
+    "audio_en_storage_path": "422_so_i_can_relax_on_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110423",
+    "text_pt": "Amanhã. Não esquecerei de agradecer.",
+    "text_en": "Tomorrow. I will not forget to say thank you.",
+    "audio_en_storage_path": "423_tomorrow_i_will_not_forget_to_say_thank_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110424",
+    "text_pt": "Eu valorizo ​​minha equipe.",
+    "text_en": "I appreciate my team.",
+    "audio_en_storage_path": "424_i_appreciate_my_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110425",
+    "text_pt": "Quase lá!",
+    "text_en": "Almost there!",
+    "audio_en_storage_path": "425_almost_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110426",
+    "text_pt": "Mais um dia e depois o fim de semana!",
+    "text_en": "One more day and then the weekend!",
+    "audio_en_storage_path": "426_one_more_day_and_then_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110427",
+    "text_pt": "Quinta-feira – Ele (em geral)",
+    "text_en": "Thursday – Him (in general)",
+    "audio_en_storage_path": "427_thursday_him_in_general.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

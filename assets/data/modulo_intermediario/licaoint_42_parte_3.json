@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121850",
+    "text_pt": "Jogando o jogo – Ações e movimentos",
+    "text_en": "Playing the Game – Actions and Moves",
+    "audio_en_storage_path": "1850_playing_the_game_actions_and_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121851",
+    "text_pt": "Os jogadores correm, saltam e atacam os inimigos no jogo",
+    "text_en": "Players run. jump. and attack enemies in the game",
+    "audio_en_storage_path": "1851_players_run_jump_and_attack_enemies_in_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121852",
+    "text_pt": "As pessoas correm, saltam e socam bandidos o dia todo",
+    "text_en": "Folks dash. leap. and punch bad guys all day",
+    "audio_en_storage_path": "1852_folks_dash_leap_and_punch_bad_guys_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121853",
+    "text_pt": "Você pode coletar moedas e power-ups ao longo do caminho",
+    "text_en": "You can collect coins and power-ups along the way",
+    "audio_en_storage_path": "1853_you_can_collect_coins_and_powerups_along_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121854",
+    "text_pt": "Pegue moedas e reforços extras enquanto você se move",
+    "text_en": "Grab coins and extra boosts while you move",
+    "audio_en_storage_path": "1854_grab_coins_and_extra_boosts_while_you_move.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121855",
+    "text_pt": "O chefe final é grande e difícil de derrotar",
+    "text_en": "The final boss is big and hard to defeat",
+    "audio_en_storage_path": "1855_the_final_boss_is_big_and_hard_to_defeat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121856",
+    "text_pt": "O inimigo final é enorme e difícil de derrubar",
+    "text_en": "Final enemy’s massive and tough to take down",
+    "audio_en_storage_path": "1856_final_enemys_massive_and_tough_to_take_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121857",
+    "text_pt": "Existem armadilhas e obstáculos que você deve evitar",
+    "text_en": "There are traps and obstacles you must avoid",
+    "audio_en_storage_path": "1857_there_are_traps_and_obstacles_you_must_avoid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121858",
+    "text_pt": "Tem perigos escondidos e paredes que você tem que desviar",
+    "text_en": "Got hidden dangers and walls you gotta dodge",
+    "audio_en_storage_path": "1858_got_hidden_dangers_and_walls_you_gotta_dodge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121859",
+    "text_pt": "Posso usar esta arma ou devo trocar?",
+    "text_en": "Can I use this weapon or should I switch?",
+    "audio_en_storage_path": "1859_can_i_use_this_weapon_or_should_i_switch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121860",
+    "text_pt": "Posso usar este machado ou é melhor usar outro?",
+    "text_en": "Can I swing this axe or better off with another?",
+    "audio_en_storage_path": "1860_can_i_swing_this_axe_or_better_off_with_another.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121861",
+    "text_pt": "Use o vermelho — ele bate mais forte",
+    "text_en": "Use the red one — it hits harder",
+    "audio_en_storage_path": "1861_use_the_red_one_it_hits_harder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121862",
+    "text_pt": "Vá com o vermelho — causa mais danos",
+    "text_en": "Go with the red one — does more damage",
+    "audio_en_storage_path": "1862_go_with_the_red_one_does_more_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121863",
+    "text_pt": "Ou espere até encontrar algo melhor",
+    "text_en": "Or wait until you find something better",
+    "audio_en_storage_path": "1863_or_wait_until_you_find_something_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121864",
+    "text_pt": "Ou espere até conseguir algo mais legal",
+    "text_en": "Or hold out ‘til ya score somethin’ cooler",
+    "audio_en_storage_path": "1864_or_hold_out_til_ya_score_somethin_cooler.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121865",
+    "text_pt": "Onde posso encontrar o nível secreto?",
+    "text_en": "Where can I find the secret level?",
+    "audio_en_storage_path": "1865_where_can_i_find_the_secret_level.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121866",
+    "text_pt": "O que você disse — onde está escondido aquele palco?",
+    "text_en": "Whaddya say — where’s that hidden stage hiding?",
+    "audio_en_storage_path": "1866_whaddya_say_wheres_that_hidden_stage_hiding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121867",
+    "text_pt": "Quando o chefe voltará depois que eu derrotá-lo?",
+    "text_en": "When will the boss come back after I beat him?",
+    "audio_en_storage_path": "1867_when_will_the_boss_come_back_after_i_beat_him.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121868",
+    "text_pt": "Quando esse grandalhão vai aparecer de novo?",
+    "text_en": "When’ll that big guy show up again?",
+    "audio_en_storage_path": "1868_whenll_that_big_guy_show_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121869",
+    "text_pt": "Por que você caiu da plataforma mais cedo?",
+    "text_en": "Why did you fall off the platform earlier?",
+    "audio_en_storage_path": "1869_why_did_you_fall_off_the_platform_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121870",
+    "text_pt": "O que fez você escorregar da borda — sem prestar atenção?",
+    "text_en": "What made ya slip off the ledge — not paying attention?",
+    "audio_en_storage_path": "1870_what_made_ya_slip_off_the_ledge_not_paying_attention.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121871",
+    "text_pt": "Ela desvia de todos os ataques e pula super alto",
+    "text_en": "She dodges every attack and jumps super high",
+    "audio_en_storage_path": "1871_she_dodges_every_attack_and_jumps_super_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121872",
+    "text_pt": "Ela desliza para longe de cada golpe e voa bem alto",
+    "text_en": "She slides away from every hit and flies up real high",
+    "audio_en_storage_path": "1872_she_slides_away_from_every_hit_and_flies_up_real_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121873",
+    "text_pt": "Não usarei nenhum código de trapaça durante a partida",
+    "text_en": "I won’t use any cheat codes during the match",
+    "audio_en_storage_path": "1873_i_wont_use_any_cheat_codes_during_the_match.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121874",
+    "text_pt": "Sem truques baratos — vamos vencer de forma justa e honesta",
+    "text_en": "No cheap tricks — gonna win fair and square",
+    "audio_en_storage_path": "1874_no_cheap_tricks_gonna_win_fair_and_square.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121875",
+    "text_pt": "Boas jogadas — continue assim",
+    "text_en": "Nice moves — keep going like that",
+    "audio_en_storage_path": "1875_nice_moves_keep_going_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121876",
+    "text_pt": "Jogo sólido — mantenha-se atento e continue avançando",
+    "text_en": "Solid play — stay sharp and keep pushin’",
+    "audio_en_storage_path": "1876_solid_play_stay_sharp_and_keep_pushin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121877",
+    "text_pt": "Não perca a próxima combinação — é poderosa",
+    "text_en": "Don’t miss the next combo — it’s powerful",
+    "audio_en_storage_path": "1877_dont_miss_the_next_combo_its_powerful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121878",
+    "text_pt": "Não estrague o próximo conjunto - ele tem um impacto incrível",
+    "text_en": "Don’t mess up the next set — it packs a punch",
+    "audio_en_storage_path": "1878_dont_mess_up_the_next_set_it_packs_a_punch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121879",
+    "text_pt": "Divirta-se e aproveite o desafio",
+    "text_en": "Have fun and enjoy the challenge",
+    "audio_en_storage_path": "1879_have_fun_and_enjoy_the_challenge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121880",
+    "text_pt": "Jogue duro e aproveite a luta",
+    "text_en": "Play hard and enjoy the fight",
+    "audio_en_storage_path": "1880_play_hard_and_enjoy_the_fight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103567",
+    "text_pt": "Sintomas físicos",
+    "text_en": "Physical Symptoms",
+    "audio_en_storage_path": "2667_physical_symptoms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103568",
+    "text_pt": "Meu estômago está inchado e pesado.",
+    "text_en": "My stomach feels bloated and heavy.",
+    "audio_en_storage_path": "2668_my_stomach_feels_bloated_and_heavy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103569",
+    "text_pt": "Comi demais ontem à noite.",
+    "text_en": "I ate too much last night.",
+    "audio_en_storage_path": "2669_i_ate_too_much_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103570",
+    "text_pt": "Estou com dor de garganta e tosse seca.",
+    "text_en": "I have a sore throat and dry cough.",
+    "audio_en_storage_path": "2670_i_have_a_sore_throat_and_dry_cough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103571",
+    "text_pt": "Provavelmente está ficando doente.",
+    "text_en": "Probably coming down with something.",
+    "audio_en_storage_path": "2671_probably_coming_down_with_something.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103572",
+    "text_pt": "Meu nariz não para de escorrer.",
+    "text_en": "My nose won’t stop running.",
+    "audio_en_storage_path": "2672_my_nose_wont_stop_running.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103573",
+    "text_pt": "Os olhos estão lacrimejantes e o rosto está cansado.",
+    "text_en": "Eyes are watery and face is tired.",
+    "audio_en_storage_path": "2673_eyes_are_watery_and_face_is_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103574",
+    "text_pt": "Há lenços de papel. pastilhas para tosse e água por perto.",
+    "text_en": "There are tissues. cough drops. and water nearby.",
+    "audio_en_storage_path": "2674_there_are_tissues_cough_drops_and_water_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103575",
+    "text_pt": "E um termômetro no balcão.",
+    "text_en": "And a thermometer on the counter.",
+    "audio_en_storage_path": "2675_and_a_thermometer_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103576",
+    "text_pt": "Qual sintoma apareceu primeiro?",
+    "text_en": "What symptom came first?",
+    "audio_en_storage_path": "2676_what_symptom_came_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103577",
+    "text_pt": "Tosse — e depois veio a febre.",
+    "text_en": "Cough — then the fever followed.",
+    "audio_en_storage_path": "2677_cough_then_the_fever_followed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103578",
+    "text_pt": "Onde você sentiu a dor primeiro?",
+    "text_en": "Where did you feel the pain first?",
+    "audio_en_storage_path": "2678_where_did_you_feel_the_pain_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103579",
+    "text_pt": "No meu peito — então se espalhou.",
+    "text_en": "In my chest — then it spread.",
+    "audio_en_storage_path": "2679_in_my_chest_then_it_spread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103580",
+    "text_pt": "Às vezes me sinto tonto.",
+    "text_en": "Sometimes I feel dizzy.",
+    "audio_en_storage_path": "2680_sometimes_i_feel_dizzy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103581",
+    "text_pt": "Outras vezes. apenas cansado e fraco.",
+    "text_en": "Other times just tired and weak.",
+    "audio_en_storage_path": "2681_other_times_just_tired_and_weak.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103582",
+    "text_pt": "Onde você deixou o termômetro?",
+    "text_en": "Where did you leave the thermometer?",
+    "audio_en_storage_path": "2682_where_did_you_leave_the_thermometer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103583",
+    "text_pt": "Em cima da mesa — provavelmente embaixo de papéis.",
+    "text_en": "On the table — probably under papers.",
+    "audio_en_storage_path": "2683_on_the_table_probably_under_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103584",
+    "text_pt": "Quando você começará a se sentir melhor?",
+    "text_en": "When will you start feeling better?",
+    "audio_en_storage_path": "2684_when_will_you_start_feeling_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103585",
+    "text_pt": "Talvez amanhã — depois do descanso.",
+    "text_en": "Maybe tomorrow — after rest.",
+    "audio_en_storage_path": "2685_maybe_tomorrow_after_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103586",
+    "text_pt": "Por que você acordou cedo hoje?",
+    "text_en": "Why did you wake up early today?",
+    "audio_en_storage_path": "2686_why_did_you_wake_up_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103587",
+    "text_pt": "Porque eu não conseguia dormir com a dor.",
+    "text_en": "Because I couldn’t sleep with the pain.",
+    "audio_en_storage_path": "2687_because_i_couldnt_sleep_with_the_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103588",
+    "text_pt": "Ele presta atenção aos sintomas.",
+    "text_en": "He pays attention to symptoms.",
+    "audio_en_storage_path": "2688_he_pays_attention_to_symptoms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103589",
+    "text_pt": "Nunca ignora o que seu corpo lhe diz.",
+    "text_en": "Never ignores what his body tells him.",
+    "audio_en_storage_path": "2689_never_ignores_what_his_body_tells_him.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103590",
+    "text_pt": "Amanhã não vou esquecer de beber mais água novamente.",
+    "text_en": "Tomorrow. I will not forget to drink more water again.",
+    "audio_en_storage_path": "2690_tomorrow_i_will_not_forget_to_drink_more_water_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103591",
+    "text_pt": "Fiquei desidratado e me senti pior ontem.",
+    "text_en": "Got dehydrated and felt worse yesterday.",
+    "audio_en_storage_path": "2691_got_dehydrated_and_felt_worse_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103592",
+    "text_pt": "Prestar atenção!",
+    "text_en": "Pay attention!",
+    "audio_en_storage_path": "2692_pay_attention.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103593",
+    "text_pt": "Pequenos sintomas podem se transformar em grandes problemas.",
+    "text_en": "Small symptoms can grow into big problems.",
+    "audio_en_storage_path": "2693_small_symptoms_can_grow_into_big_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

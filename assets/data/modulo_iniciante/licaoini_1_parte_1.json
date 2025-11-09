@@ -1,0 +1,272 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103594",
+    "text_pt": "Apresentação",
+    "text_en": "Presentation",
+    "audio_en_storage_path": "2694_presentation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103595",
+    "text_pt": "Bom dia! Como você está hoje?",
+    "text_en": "Good morning! How are you today?",
+    "audio_en_storage_path": "2695_good_morning_how_are_you_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103596",
+    "text_pt": "Estou bem. obrigada! Meu nome é Ana.",
+    "text_en": "I'm fine. thank you! My name is Ana.",
+    "audio_en_storage_path": "2696_im_fine_thank_you_my_name_is_ana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103597",
+    "text_pt": "Prazer em conhecê-la. Ana. Sou o Mark. do Canadá.",
+    "text_en": "Nice to meet you. Ana. I’m Mark — from Canada.",
+    "audio_en_storage_path": "2697_nice_to_meet_you_ana_im_mark_from_canada.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103598",
+    "text_pt": "Prazer em te conhecer também!",
+    "text_en": "Nice to meet you too!",
+    "audio_en_storage_path": "2698_nice_to_meet_you_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103599",
+    "text_pt": "Você está visitando a cidade a trabalho ou por diversão?",
+    "text_en": "Are you visiting the city for work or fun?",
+    "audio_en_storage_path": "2699_are_you_visiting_the_city_for_work_or_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103600",
+    "text_pt": "Só por diversão — minha primeira vez aqui.",
+    "text_en": "Just for fun — my first time here.",
+    "audio_en_storage_path": "2700_just_for_fun_my_first_time_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103601",
+    "text_pt": "Ótimo! Avise-me se precisar de ajuda com instruções.",
+    "text_en": "Great! Let me know if you need help with directions.",
+    "audio_en_storage_path": "2701_great_let_me_know_if_you_need_help_with_directions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103602",
+    "text_pt": "Isso seria legal — obrigado!",
+    "text_en": "That would be nice — thank you!",
+    "audio_en_storage_path": "2702_that_would_be_nice_thank_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103603",
+    "text_pt": "Convite para jantar",
+    "text_en": "Dinner invitation",
+    "audio_en_storage_path": "2703_dinner_invitation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103604",
+    "text_pt": "Olá! Está gostando do passeio pelo shopping?",
+    "text_en": "Hi there! Enjoying your walk around the mall?",
+    "audio_en_storage_path": "2704_hi_there_enjoying_your_walk_around_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103605",
+    "text_pt": "Sim! É a minha primeira vez aqui.",
+    "text_en": "Yes! It's my first time here.",
+    "audio_en_storage_path": "2705_yes_its_my_first_time_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103606",
+    "text_pt": "Legal. Quer comer alguma coisa mais tarde?",
+    "text_en": "Cool. Want to grab something to eat later?",
+    "audio_en_storage_path": "2706_cool_want_to_grab_something_to_eat_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103607",
+    "text_pt": "Claro. eu adoraria isso.",
+    "text_en": "Sure. I'd love that.",
+    "audio_en_storage_path": "2707_sure_id_love_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103608",
+    "text_pt": "Tem um bom restaurante aqui perto — comida brasileira.",
+    "text_en": "There’s a good restaurant nearby — Brazilian food.",
+    "audio_en_storage_path": "2708_theres_a_good_restaurant_nearby_brazilian_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103609",
+    "text_pt": "Ah. perfeito! Já ouvi falar muito.",
+    "text_en": "Oh. perfect! I've heard a lot about it.",
+    "audio_en_storage_path": "2709_oh_perfect_ive_heard_a_lot_about_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103610",
+    "text_pt": "Podemos ir hoje à noite — 19h. tudo bem?",
+    "text_en": "We can go tonight — 7 PM cool?",
+    "audio_en_storage_path": "2710_we_can_go_tonight_7_pm_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103611",
+    "text_pt": "Parece ótimo — me pegue às 7.",
+    "text_en": "Sounds great — pick me up at 7.",
+    "audio_en_storage_path": "2711_sounds_great_pick_me_up_at_7.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103612",
+    "text_pt": "Sem problemas. Até breve!",
+    "text_en": "No problem. See you soon!",
+    "audio_en_storage_path": "2712_no_problem_see_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103613",
+    "text_pt": "Encontros sem compras",
+    "text_en": "Meetings at the mall",
+    "audio_en_storage_path": "2713_meetings_at_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103614",
+    "text_pt": "Olá de novo! De volta ao shopping?",
+    "text_en": "Hello again! Back to the mall?",
+    "audio_en_storage_path": "2714_hello_again_back_to_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103615",
+    "text_pt": "É isso aí! Estou procurando presentes dessa vez.",
+    "text_en": "Yep! Looking for gifts this time.",
+    "audio_en_storage_path": "2715_yep_looking_for_gifts_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103616",
+    "text_pt": "O mesmo de ontem?",
+    "text_en": "Same as yesterday?",
+    "audio_en_storage_path": "2716_same_as_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103617",
+    "text_pt": "Não. loja diferente hoje — mais acessórios.",
+    "text_en": "No. different store today — more accessories.",
+    "audio_en_storage_path": "2717_no_different_store_today_more_accessories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103618",
+    "text_pt": "Que tipo de coisas você gosta?",
+    "text_en": "What kind of things do you like?",
+    "audio_en_storage_path": "2718_what_kind_of_things_do_you_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103619",
+    "text_pt": "Chapéus. pulseiras e talvez óculos de sol.",
+    "text_en": "Hats. bracelets. and maybe sunglasses.",
+    "audio_en_storage_path": "2719_hats_bracelets_and_maybe_sunglasses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103620",
+    "text_pt": "Ontem eu vi você comprando sapatos.",
+    "text_en": "I saw you buying shoes yesterday.",
+    "audio_en_storage_path": "2720_i_saw_you_buying_shoes_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103621",
+    "text_pt": "Sim. não consegui resistir a eles.",
+    "text_en": "Yeah — couldn’t resist them.",
+    "audio_en_storage_path": "2721_yeah_couldnt_resist_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103622",
+    "text_pt": "Avise-me se você quiser companhia hoje.",
+    "text_en": "Let me know if you want company today.",
+    "audio_en_storage_path": "2722_let_me_know_if_you_want_company_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103623",
+    "text_pt": "Isso seria incrível — obrigado!",
+    "text_en": "That would be awesome — thanks!",
+    "audio_en_storage_path": "2723_that_would_be_awesome_thanks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

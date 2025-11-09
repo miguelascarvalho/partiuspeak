@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102730",
+    "text_pt": "Farmácia",
+    "text_en": "Pharmacy",
+    "audio_en_storage_path": "1830_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102731",
+    "text_pt": "A farmácia fica do outro lado da rua.",
+    "text_en": "The pharmacy is across the street.",
+    "audio_en_storage_path": "1831_the_pharmacy_is_across_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102732",
+    "text_pt": "Aberto até às 22h — ótimo para emergências.",
+    "text_en": "Open until 10 PM — great for emergencies.",
+    "audio_en_storage_path": "1832_open_until_10_pm_great_for_emergencies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102733",
+    "text_pt": "Vou lá para comprar remédios e pasta de dente.",
+    "text_en": "I go there to buy medicine and toothpaste.",
+    "audio_en_storage_path": "1833_i_go_there_to_buy_medicine_and_toothpaste.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102734",
+    "text_pt": "Ou apenas para fazer perguntas sobre saúde.",
+    "text_en": "Or just to ask health questions.",
+    "audio_en_storage_path": "1834_or_just_to_ask_health_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102735",
+    "text_pt": "É pequeno. limpo e tem muitas prateleiras.",
+    "text_en": "It is small. clean. and has many shelves.",
+    "audio_en_storage_path": "1835_it_is_small_clean_and_has_many_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102736",
+    "text_pt": "Com cremes. xaropes e band-aids.",
+    "text_en": "With creams. syrups. and band-aids.",
+    "audio_en_storage_path": "1836_with_creams_syrups_and_bandaids.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102737",
+    "text_pt": "Há termômetros. máscaras e higienizadores lá dentro.",
+    "text_en": "There are thermometers. masks. and sanitizers inside.",
+    "audio_en_storage_path": "1837_there_are_thermometers_masks_and_sanitizers_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102738",
+    "text_pt": "E uma pequena seção com lanches.",
+    "text_en": "And a small section with snacks.",
+    "audio_en_storage_path": "1838_and_a_small_section_with_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102739",
+    "text_pt": "O que você comprou na farmácia?",
+    "text_en": "What did you buy at the pharmacy?",
+    "audio_en_storage_path": "1839_what_did_you_buy_at_the_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102740",
+    "text_pt": "Remédio para gripe — tosse e dor de garganta.",
+    "text_en": "Medicine for flu — cough and sore throat.",
+    "audio_en_storage_path": "1840_medicine_for_flu_cough_and_sore_throat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102741",
+    "text_pt": "Onde você pode encontrar analgésicos?",
+    "text_en": "Where can you find painkillers?",
+    "audio_en_storage_path": "1841_where_can_you_find_painkillers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102742",
+    "text_pt": "Na segunda prateleira — ao lado dos comprimidos para alergia.",
+    "text_en": "On the second shelf — next to allergy pills.",
+    "audio_en_storage_path": "1842_on_the_second_shelf_next_to_allergy_pills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102743",
+    "text_pt": "Às vezes peço ajuda ao farmacêutico.",
+    "text_en": "Sometimes I ask the pharmacist for help.",
+    "audio_en_storage_path": "1843_sometimes_i_ask_the_pharmacist_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102744",
+    "text_pt": "Outras vezes eu simplesmente pego e vou embora.",
+    "text_en": "Other times I just grab and go.",
+    "audio_en_storage_path": "1844_other_times_i_just_grab_and_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102745",
+    "text_pt": "Onde você deixou seu recibo?",
+    "text_en": "Where did you leave your receipt?",
+    "audio_en_storage_path": "1845_where_did_you_leave_your_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102746",
+    "text_pt": "Na minha carteira — misturado com outros papéis.",
+    "text_en": "In my wallet — mixed with other papers.",
+    "audio_en_storage_path": "1846_in_my_wallet_mixed_with_other_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102747",
+    "text_pt": "Quando a loja fechará hoje à noite?",
+    "text_en": "When will the store close tonight?",
+    "audio_en_storage_path": "1847_when_will_the_store_close_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102748",
+    "text_pt": "Às 22h — não se atrase.",
+    "text_en": "At 10 PM — don’t be late.",
+    "audio_en_storage_path": "1848_at_10_pm_dont_be_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102749",
+    "text_pt": "Por que você foi à farmácia hoje?",
+    "text_en": "Why did you go to the pharmacy today?",
+    "audio_en_storage_path": "1849_why_did_you_go_to_the_pharmacy_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102750",
+    "text_pt": "Porque fiquei sem remédio.",
+    "text_en": "Because I ran out of medicine.",
+    "audio_en_storage_path": "1850_because_i_ran_out_of_medicine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102751",
+    "text_pt": "Ele compra tudo o que precisa aqui.",
+    "text_en": "He buys everything he needs here.",
+    "audio_en_storage_path": "1851_he_buys_everything_he_needs_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102752",
+    "text_pt": "Confia na equipe e nos preços.",
+    "text_en": "Trusts the staff and prices.",
+    "audio_en_storage_path": "1852_trusts_the_staff_and_prices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102753",
+    "text_pt": "Amanhã não esquecerei de conferir o preço novamente.",
+    "text_en": "Tomorrow. I will not forget to check the price again.",
+    "audio_en_storage_path": "1853_tomorrow_i_will_not_forget_to_check_the_price_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102754",
+    "text_pt": "Paguei mais do que o esperado hoje.",
+    "text_en": "Paid more than expected today.",
+    "audio_en_storage_path": "1854_paid_more_than_expected_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102755",
+    "text_pt": "Peça ajuda se não tiver certeza!",
+    "text_en": "Ask for help if unsure!",
+    "audio_en_storage_path": "1855_ask_for_help_if_unsure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102756",
+    "text_pt": "Os farmacêuticos sabem o que funciona melhor.",
+    "text_en": "Pharmacists know what works best.",
+    "audio_en_storage_path": "1856_pharmacists_know_what_works_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

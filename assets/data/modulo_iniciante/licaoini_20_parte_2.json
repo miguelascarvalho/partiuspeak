@@ -1,0 +1,209 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100725",
+    "text_pt": "Conjunto de frases – Pedindo ajuda",
+    "text_en": "Sentence Set – Asking for Help",
+    "audio_en_storage_path": "726_sentence_set_asking_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100726",
+    "text_pt": "Com licença, onde fica a saída?",
+    "text_en": "Excuse me, where is the exit?",
+    "audio_en_storage_path": "727_excuse_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100727",
+    "text_pt": "A saída fica logo em frente, perto da escada.",
+    "text_en": "The exit is straight ahead, near the stairs.",
+    "audio_en_storage_path": "728_the_exit_is_straight_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100728",
+    "text_pt": "Há também um elevador, se necessário.",
+    "text_en": "There’s also an elevator if needed.",
+    "audio_en_storage_path": "729_theres_also_an_elevator_if_needed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100729",
+    "text_pt": "Os funcionários usam uniformes azuis.",
+    "text_en": "The staff wears blue uniforms.",
+    "audio_en_storage_path": "730_the_staff_wears_blue_uniforms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100730",
+    "text_pt": "Você sabe onde fica o achados e perdidos?",
+    "text_en": "Do you know where the lost and found is?",
+    "audio_en_storage_path": "731_do_you_know_where_the_lost_and_found_is.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100731",
+    "text_pt": "Sim, fica perto da bilheteria.",
+    "text_en": "Yes, it’s near the ticket booth.",
+    "audio_en_storage_path": "732_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100732",
+    "text_pt": "Não, pergunte ao segurança.",
+    "text_en": "No, ask the security guard.",
+    "audio_en_storage_path": "733_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100733",
+    "text_pt": "Onde fica a estação mais próxima?",
+    "text_en": "Where is the nearest station?",
+    "audio_en_storage_path": "734_where_is_the_nearest_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100734",
+    "text_pt": "Fica a dois quarteirões de distância, na Maple Street.",
+    "text_en": "It’s two blocks away, on Maple Street.",
+    "audio_en_storage_path": "735_its_two_blocks_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100735",
+    "text_pt": "Quando o trem chegará?",
+    "text_en": "When will the train arrive?",
+    "audio_en_storage_path": "736_when_will_the_train_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100736",
+    "text_pt": "Está tarde — talvez cinco minutos.",
+    "text_en": "It’s late — maybe five minutes.",
+    "audio_en_storage_path": "737_its_late_maybe_five_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100737",
+    "text_pt": "Por que você sempre anda de trem?",
+    "text_en": "Why do you always ride the train?",
+    "audio_en_storage_path": "738_why_do_you_always_ride_the_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100738",
+    "text_pt": "Economiza dinheiro e evita trânsito.",
+    "text_en": "It saves money and avoids traffic.",
+    "audio_en_storage_path": "739_it_saves_money_and_avoids_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100739",
+    "text_pt": "Ele pede instruções claramente.",
+    "text_en": "He asks for directions clearly.",
+    "audio_en_storage_path": "740_he_asks_for_directions_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100740",
+    "text_pt": "Ela não vai esperar para sempre pelos trens atrasados.",
+    "text_en": "She won’t wait forever for late trains.",
+    "audio_en_storage_path": "741_she_wont_wait_forever_for_late_trains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100742",
+    "text_pt": "Está tarde — talvez cinco minutos.",
+    "text_en": "It’s late — maybe five minutes.",
+    "audio_en_storage_path": "743_its_late_maybe_five_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100743",
+    "text_pt": "Já está tarde — uns cinco minutos.",
+    "text_en": "It’s runnin’ late — five mins or so.",
+    "audio_en_storage_path": "744_its_runnin_late_five_mins_or_so.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100744",
+    "text_pt": "Ela não vai esperar para sempre pelos trens atrasados.",
+    "text_en": "She won’t wait forever for late trains.",
+    "audio_en_storage_path": "745_she_wont_wait_forever_for_late_trains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100745",
+    "text_pt": "Ela não vai esperar para sempre pelos trens atrasados.",
+    "text_en": "She ain't waitin’ forever for late trains.",
+    "audio_en_storage_path": "746_she_aint_waitin_forever_for_late_trains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100746",
+    "text_pt": "Ele pede instruções claramente.",
+    "text_en": "He asks for directions clearly.",
+    "audio_en_storage_path": "747_he_asks_for_directions_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100747",
+    "text_pt": "Ele pede instruções bem claras.",
+    "text_en": "He asks for directions real clear.",
+    "audio_en_storage_path": "748_he_asks_for_directions_real_clear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100748",
+    "text_pt": "Parques / Mercados de pulgas / Mercados de rua",
+    "text_en": "Parks / Flea Markets / Street Markets",
+    "audio_en_storage_path": "749_parks_flea_markets_street_markets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

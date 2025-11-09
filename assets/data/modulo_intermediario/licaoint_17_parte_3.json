@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112753",
+    "text_pt": "Novelas – Assistir novelas",
+    "text_en": "Soap Operas – Watch soap operas",
+    "audio_en_storage_path": "2753_soap_operas_watch_soap_operas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112754",
+    "text_pt": "Ela senta no sofá e liga a TV.",
+    "text_en": "She sits on the couch and turns on the TV.",
+    "audio_en_storage_path": "2754_she_sits_on_the_couch_and_turns_on_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112755",
+    "text_pt": "Sua novela favorita está prestes a começar.",
+    "text_en": "Her favorite telenovela is about to start.",
+    "audio_en_storage_path": "2755_her_favorite_telenovela_is_about_to_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112756",
+    "text_pt": "Ela assiste todo dia às 19:00.",
+    "text_en": "She watches it every day at 7:00 PM.",
+    "audio_en_storage_path": "2756_she_watches_it_every_day_at_700_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112757",
+    "text_pt": "Ela adora drama e romance.",
+    "text_en": "She loves drama and romance.",
+    "audio_en_storage_path": "2757_she_loves_drama_and_romance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112758",
+    "text_pt": "A tela mostra cenas coloridas e música dramática.",
+    "text_en": "The screen shows colorful scenes and dramatic music.",
+    "audio_en_storage_path": "2758_the_screen_shows_colorful_scenes_and_dramatic_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112759",
+    "text_pt": "Ela ri e cria com os personagens.",
+    "text_en": "She laughs and creates with the characters.",
+    "audio_en_storage_path": "2759_she_laughs_and_creates_with_the_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112760",
+    "text_pt": "Há um cobertor, o travesseiro e o telefone dela por perto.",
+    "text_en": "There is a blanket. the pillow. and her phone nearby.",
+    "audio_en_storage_path": "2760_there_is_a_blanket_the_pillow_and_her_phone_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112761",
+    "text_pt": "Ela manda mensagens para os amigos durante os comerciais.",
+    "text_en": "She texts friends during commercials.",
+    "audio_en_storage_path": "2761_she_texts_friends_during_commercials.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112762",
+    "text_pt": "Qual novela você mais gosta?",
+    "text_en": "What soap opera do you like most?",
+    "audio_en_storage_path": "2762_what_soap_opera_do_you_like_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112763",
+    "text_pt": "Avenida Brasil — foi incrível.",
+    "text_en": "Avenida Brasil — it was amazing.",
+    "audio_en_storage_path": "2763_avenida_brasil_it_was_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112764",
+    "text_pt": "De onde você assiste?",
+    "text_en": "Where do you watch it from?",
+    "audio_en_storage_path": "2764_where_do_you_watch_it_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112765",
+    "text_pt": "Na TV ou no aplicativo de streaming — mesma hora, mesmo lugar.",
+    "text_en": "On TV or streaming app — same time. same place.",
+    "audio_en_storage_path": "2765_on_tv_or_streaming_app_same_time_same_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112766",
+    "text_pt": "Às vezes ela assiste episódios antigos.",
+    "text_en": "Sometimes she watches old episodes.",
+    "audio_en_storage_path": "2766_sometimes_she_watches_old_episodes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112767",
+    "text_pt": "Outras vezes ela espera por novos.",
+    "text_en": "Other times she waits for new ones.",
+    "audio_en_storage_path": "2767_other_times_she_waits_for_new_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112768",
+    "text_pt": "Onde ela deixou o controle remoto?",
+    "text_en": "Where did she leave the remote?",
+    "audio_en_storage_path": "2768_where_did_she_leave_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112769",
+    "text_pt": "No apoio de braço — embaixo de uma revista.",
+    "text_en": "On the armrest — under a magazine.",
+    "audio_en_storage_path": "2769_on_the_armrest_under_a_magazine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112770",
+    "text_pt": "Quando o próximo episódio vai ao ar?",
+    "text_en": "When does the next episode air?",
+    "audio_en_storage_path": "2770_when_does_the_next_episode_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112771",
+    "text_pt": "Amanhã — ela vai acordar cedo para assistir.",
+    "text_en": "Tomorrow — she’ll wake up early to watch.",
+    "audio_en_storage_path": "2771_tomorrow_shell_wake_up_early_to_watch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112772",
+    "text_pt": "Por que ela gravou o show hoje?",
+    "text_en": "Why did she record the show today?",
+    "audio_en_storage_path": "2772_why_did_she_record_the_show_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112773",
+    "text_pt": "Porque ela não queria perder.",
+    "text_en": "Because she didn't want to miss it.",
+    "audio_en_storage_path": "2773_because_she_didnt_want_to_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112774",
+    "text_pt": "Ela nunca perde um episódio diário.",
+    "text_en": "She never misses a daily episode.",
+    "audio_en_storage_path": "2774_she_never_misses_a_daily_episode.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112775",
+    "text_pt": "Faz parte da rotina dela.",
+    "text_en": "It’s part of her routine.",
+    "audio_en_storage_path": "2775_its_part_of_her_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112776",
+    "text_pt": "Amanhã, ela não vai esquecer de definir um lembrete novamente.",
+    "text_en": "Tomorrow. she will not forget to set a reminder again.",
+    "audio_en_storage_path": "2776_tomorrow_she_will_not_forget_to_set_a_reminder_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112777",
+    "text_pt": "Ela quase perdeu o episódio de ontem.",
+    "text_en": "She almost missed yesterday’s episode.",
+    "audio_en_storage_path": "2777_she_almost_missed_yesterdays_episode.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112778",
+    "text_pt": "Não estrague!",
+    "text_en": "Don’t spoil it!",
+    "audio_en_storage_path": "2778_dont_spoil_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112779",
+    "text_pt": "Ainda não vi o último episódio.",
+    "text_en": "I haven’t seen the last episode yet.",
+    "audio_en_storage_path": "2779_i_havent_seen_the_last_episode_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

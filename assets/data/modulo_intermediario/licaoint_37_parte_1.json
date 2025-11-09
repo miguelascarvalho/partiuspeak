@@ -1,0 +1,551 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120983",
+    "text_pt": "Itens pessoais – Objetos do dia a dia",
+    "text_en": "Personal Items – Everyday Objects",
+    "audio_en_storage_path": "983_personal_items_everyday_objects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120984",
+    "text_pt": "Eu sempre uso meu relógio para saber as horas",
+    "text_en": "I always wear my watch to know the time",
+    "audio_en_storage_path": "984_i_always_wear_my_watch_to_know_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120985",
+    "text_pt": "Eu sempre coloco meu relógio para saber que horas são",
+    "text_en": "I always got my watch on so I know what time it is",
+    "audio_en_storage_path": "985_i_always_got_my_watch_on_so_i_know_what_time_it_is.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120986",
+    "text_pt": "Este anel está na minha família há anos",
+    "text_en": "This ring has been in my family for years",
+    "audio_en_storage_path": "986_this_ring_has_been_in_my_family_for_years.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120987",
+    "text_pt": "Este anel foi passado pelos meus pais",
+    "text_en": "This ring’s been passed down from my folks",
+    "audio_en_storage_path": "987_this_rings_been_passed_down_from_my_folks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120988",
+    "text_pt": "Minha mochila está cheia de livros e meu laptop",
+    "text_en": "My backpack is full of books and my laptop",
+    "audio_en_storage_path": "988_my_backpack_is_full_of_books_and_my_laptop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120989",
+    "text_pt": "Minha bolsa está cheia de livros e meu computador também",
+    "text_en": "My bag’s packed with books and my computer too",
+    "audio_en_storage_path": "989_my_bags_packed_with_books_and_my_computer_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120990",
+    "text_pt": "Eu guardo meu telefone e fones de ouvido neste bolso",
+    "text_en": "I keep my phone and headphones in this pocket",
+    "audio_en_storage_path": "990_i_keep_my_phone_and_headphones_in_this_pocket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120991",
+    "text_pt": "Eu guardo meu telefone e fones de ouvido aqui no meu bolso",
+    "text_en": "I stash my phone and earbuds right here in my pocket",
+    "audio_en_storage_path": "991_i_stash_my_phone_and_earbuds_right_here_in_my_pocket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120992",
+    "text_pt": "Minha carteira tem meu documento de identidade, algum dinheiro e alguns cartões.",
+    "text_en": "My wallet has my ID. some cash. and a few cards",
+    "audio_en_storage_path": "992_my_wallet_has_my_id_some_cash_and_a_few_cards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120993",
+    "text_pt": "Tenho minha carteira de motorista. Adicione as contas e alguns cartões lá.",
+    "text_en": "Got my license. some bills. and a couple cards in there",
+    "audio_en_storage_path": "993_got_my_license_some_bills_and_a_couple_cards_in_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120994",
+    "text_pt": "Este colar foi um presente da minha melhor amiga",
+    "text_en": "This necklace was a gift from my best friend",
+    "audio_en_storage_path": "994_this_necklace_was_a_gift_from_my_best_friend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120995",
+    "text_pt": "Esta corrente veio do meu melhor amigo — significado real",
+    "text_en": "This chain came from my closest friend — real meaningful",
+    "audio_en_storage_path": "995_this_chain_came_from_my_closest_friend_real_meaningful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120996",
+    "text_pt": "Coloquei meus brincos e anéis nesta pequena caixa",
+    "text_en": "I put my earrings and rings in this small box",
+    "audio_en_storage_path": "996_i_put_my_earrings_and_rings_in_this_small_box.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120997",
+    "text_pt": "Guardo todas as minhas joias nesta caixinha para que não se percam",
+    "text_en": "Keep all my bling in this little case so they don’t get lost",
+    "audio_en_storage_path": "997_keep_all_my_bling_in_this_little_case_so_they_dont_get_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120998",
+    "text_pt": "Eu nunca saio de casa sem minhas chaves e telefone",
+    "text_en": "I never leave home without my keys and phone",
+    "audio_en_storage_path": "998_i_never_leave_home_without_my_keys_and_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120999",
+    "text_pt": "Nunca saia sem minhas chaves e telefone — nunca",
+    "text_en": "Don’t ever walk out without my keys and phone — never",
+    "audio_en_storage_path": "999_dont_ever_walk_out_without_my_keys_and_phone_never.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121000",
+    "text_pt": "Esta pulseira me lembra de uma viagem especial",
+    "text_en": "This bracelet reminds me of a special trip",
+    "audio_en_storage_path": "1000_this_bracelet_reminds_me_of_a_special_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121001",
+    "text_pt": "Essa coisa de pulso traz lembranças daquela viagem legal",
+    "text_en": "This wrist thing brings back memories from that cool trip",
+    "audio_en_storage_path": "1001_this_wrist_thing_brings_back_memories_from_that_cool_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121002",
+    "text_pt": "Comprei esta bolsa no ano passado e ainda a uso todos os dias",
+    "text_en": "I bought this bag last year and still use it every day",
+    "audio_en_storage_path": "1002_i_bought_this_bag_last_year_and_still_use_it_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121003",
+    "text_pt": "Ganhei essa bolsa ano passado e ainda a carrego comigo todos os dias",
+    "text_en": "Got this purse last year and still carry it around daily",
+    "audio_en_storage_path": "1003_got_this_purse_last_year_and_still_carry_it_around_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121004",
+    "text_pt": "Meus óculos de sol ficam no topo da minha cabeça a maior parte do tempo",
+    "text_en": "My sunglasses are on top of my head most of the time",
+    "audio_en_storage_path": "1004_my_sunglasses_are_on_top_of_my_head_most_of_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121005",
+    "text_pt": "Na maioria dos dias você encontrará meus óculos escuros relaxando na minha cabeça",
+    "text_en": "Most days you’ll find my shades chillin’ on my head",
+    "audio_en_storage_path": "1005_most_days_youll_find_my_shades_chillin_on_my_head.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121006",
+    "text_pt": "Guardo meu passaporte dentro desta pasta para qualquer eventualidade",
+    "text_en": "I keep my passport inside this folder just in case",
+    "audio_en_storage_path": "1006_i_keep_my_passport_inside_this_folder_just_in_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121007",
+    "text_pt": "O passaporte está guardado neste arquivo — para o caso de eu precisar dele",
+    "text_en": "Passport’s tucked away in this file — just in case I need it",
+    "audio_en_storage_path": "1007_passports_tucked_away_in_this_file_just_in_case_i_need_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121008",
+    "text_pt": "Este pin é de um show que fui há muito tempo",
+    "text_en": "This pin is from a concert I went to long ago",
+    "audio_en_storage_path": "1008_this_pin_is_from_a_concert_i_went_to_long_ago.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121009",
+    "text_pt": "Este broche veio de um show que eu fui anos atrás",
+    "text_en": "This brooch came from a show I hit up years back",
+    "audio_en_storage_path": "1009_this_brooch_came_from_a_show_i_hit_up_years_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121010",
+    "text_pt": "Eu sempre verifico meus bolsos antes de lavar minhas roupas",
+    "text_en": "I always check my pockets before I wash my clothes",
+    "audio_en_storage_path": "1010_i_always_check_my_pockets_before_i_wash_my_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121011",
+    "text_pt": "Sempre esvazio minhas calças antes de jogá-las na máquina de lavar",
+    "text_en": "Always empty my pants before tossin’ ‘em in the washer",
+    "audio_en_storage_path": "1011_always_empty_my_pants_before_tossin_em_in_the_washer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121012",
+    "text_pt": "Tome cuidado e mantenha suas coisas seguras",
+    "text_en": "Take care and keep your things safe",
+    "audio_en_storage_path": "1012_take_care_and_keep_your_things_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121013",
+    "text_pt": "Cuidado com o que você faz e fique atento lá fora",
+    "text_en": "Watch your stuff and stay sharp out there",
+    "audio_en_storage_path": "1013_watch_your_stuff_and_stay_sharp_out_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121014",
+    "text_pt": "Acessórios pessoais e seus usos",
+    "text_en": "Personal Accessories and Their Uses",
+    "audio_en_storage_path": "1014_personal_accessories_and_their_uses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121015",
+    "text_pt": "Eu uso meu relógio para controlar o tempo e as reuniões",
+    "text_en": "I wear my watch to track time and meetings",
+    "audio_en_storage_path": "1015_i_wear_my_watch_to_track_time_and_meetings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121016",
+    "text_pt": "Use meu relógio para marcar o tempo e não perder nenhum encontro",
+    "text_en": "Use my watch to catch time and not miss any meet-ups",
+    "audio_en_storage_path": "1016_use_my_watch_to_catch_time_and_not_miss_any_meetups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121017",
+    "text_pt": "Este anel me ajuda a lembrar de onde eu vim",
+    "text_en": "This ring helps me remember where I come from",
+    "audio_en_storage_path": "1017_this_ring_helps_me_remember_where_i_come_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121018",
+    "text_pt": "O anel é como um lembrete de onde comecei",
+    "text_en": "Ring’s like a reminder of where I started",
+    "audio_en_storage_path": "1018_rings_like_a_reminder_of_where_i_started.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121019",
+    "text_pt": "A pulseira mantém meu pulso aquecido no inverno",
+    "text_en": "The bracelet keeps my wrist warm in winter",
+    "audio_en_storage_path": "1019_the_bracelet_keeps_my_wrist_warm_in_winter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121020",
+    "text_pt": "Mantém meu pulso aquecido quando está frio lá fora",
+    "text_en": "Keeps my wrist cozy when it gets cold outside",
+    "audio_en_storage_path": "1020_keeps_my_wrist_cozy_when_it_gets_cold_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121021",
+    "text_pt": "Meus brincos brilham um pouco quando a luz os atinge",
+    "text_en": "My earrings sparkle a little when the light hits them",
+    "audio_en_storage_path": "1021_my_earrings_sparkle_a_little_when_the_light_hits_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121022",
+    "text_pt": "Esses brincos brilham quando o sol os atinge no momento certo",
+    "text_en": "Those earrings shine when the sun catches ‘em just right",
+    "audio_en_storage_path": "1022_those_earrings_shine_when_the_sun_catches_em_just_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121023",
+    "text_pt": "Eu uso esse alfinete para segurar meu crachá no trabalho",
+    "text_en": "I use this pin to hold my name tag at work",
+    "audio_en_storage_path": "1023_i_use_this_pin_to_hold_my_name_tag_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121024",
+    "text_pt": "Use este broche para prender meu distintivo no trabalho",
+    "text_en": "Use this brooch to clip my badge at the job",
+    "audio_en_storage_path": "1024_use_this_brooch_to_clip_my_badge_at_the_job.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121025",
+    "text_pt": "Meus óculos de sol protegem meus olhos do sol",
+    "text_en": "My sunglasses protect my eyes from the sun",
+    "audio_en_storage_path": "1025_my_sunglasses_protect_my_eyes_from_the_sun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121026",
+    "text_pt": "As sombras protegem meus olhos daquela luz brilhante",
+    "text_en": "Shades guard my eyes from that bright light",
+    "audio_en_storage_path": "1026_shades_guard_my_eyes_from_that_bright_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121027",
+    "text_pt": "Eu uso esse colar porque ele combina com tudo",
+    "text_en": "I wear this necklace because it looks good with everything",
+    "audio_en_storage_path": "1027_i_wear_this_necklace_because_it_looks_good_with_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121028",
+    "text_pt": "A corrente combina com tudo o que eu visto — sempre combina",
+    "text_en": "Chain goes with whatever I wear — always matches",
+    "audio_en_storage_path": "1028_chain_goes_with_whatever_i_wear_always_matches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121029",
+    "text_pt": "Minha carteira guarda todas as minhas coisas importantes em um só lugar",
+    "text_en": "My wallet holds all my important stuff in one place",
+    "audio_en_storage_path": "1029_my_wallet_holds_all_my_important_stuff_in_one_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121030",
+    "text_pt": "Tudo o que é importante está na minha carteira — fácil de transportar",
+    "text_en": "Everything important’s in my wallet — easy to carry",
+    "audio_en_storage_path": "1030_everything_importants_in_my_wallet_easy_to_carry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121031",
+    "text_pt": "Eu uso minha mochila para carregar materiais escolares ou roupas de ginástica",
+    "text_en": "I use my backpack to carry school supplies or gym clothes",
+    "audio_en_storage_path": "1031_i_use_my_backpack_to_carry_school_supplies_or_gym_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121032",
+    "text_pt": "A bolsa é perfeita para livros, equipamentos de ginástica ou qualquer outra coisa que eu precise",
+    "text_en": "Bag’s perfect for books. gym gear. or anything else I need",
+    "audio_en_storage_path": "1032_bags_perfect_for_books_gym_gear_or_anything_else_i_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121033",
+    "text_pt": "Este cinto evita que minhas calças caiam",
+    "text_en": "This belt keeps my pants from falling down",
+    "audio_en_storage_path": "1033_this_belt_keeps_my_pants_from_falling_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121034",
+    "text_pt": "O cinto garante que minhas calças não caiam quando estou caminhando",
+    "text_en": "Belt makes sure my pants don’t drop when I’m walking",
+    "audio_en_storage_path": "1034_belt_makes_sure_my_pants_dont_drop_when_im_walking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121035",
+    "text_pt": "Eu mantenho meus fones de ouvido por perto para poder ouvir a qualquer hora",
+    "text_en": "I keep my earbuds close so I can listen anytime",
+    "audio_en_storage_path": "1035_i_keep_my_earbuds_close_so_i_can_listen_anytime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121036",
+    "text_pt": "Os fones de ouvido estão sempre por perto — prontos para ouvir música a qualquer hora",
+    "text_en": "Earbuds are always nearby — ready for music whenever",
+    "audio_en_storage_path": "1036_earbuds_are_always_nearby_ready_for_music_whenever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121037",
+    "text_pt": "Eu uso luvas para manter minhas mãos aquecidas no frio",
+    "text_en": "I wear gloves to keep my hands warm in the cold",
+    "audio_en_storage_path": "1037_i_wear_gloves_to_keep_my_hands_warm_in_the_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121038",
+    "text_pt": "As luvas retêm o calor quando está congelando lá fora",
+    "text_en": "Gloves lock in the heat when it’s freezing out",
+    "audio_en_storage_path": "1038_gloves_lock_in_the_heat_when_its_freezing_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121039",
+    "text_pt": "Eu sempre tenho meu telefone caso alguém precise de mim",
+    "text_en": "I always have my phone in case someone needs me",
+    "audio_en_storage_path": "1039_i_always_have_my_phone_in_case_someone_needs_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121040",
+    "text_pt": "Tenho meu telefone comigo caso alguém precise entrar em contato",
+    "text_en": "Got my phone on me if anyone needs to reach out",
+    "audio_en_storage_path": "1040_got_my_phone_on_me_if_anyone_needs_to_reach_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121041",
+    "text_pt": "Eu uso meu cachecol para me manter aquecido e com estilo",
+    "text_en": "I use my scarf to stay warm and look stylish",
+    "audio_en_storage_path": "1041_i_use_my_scarf_to_stay_warm_and_look_stylish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121042",
+    "text_pt": "O cachecol é útil e me faz ficar bem",
+    "text_en": "Scarf’s both useful and makes me look good",
+    "audio_en_storage_path": "1042_scarfs_both_useful_and_makes_me_look_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121043",
+    "text_pt": "Bom trabalho hoje. Mantenha suas coisas organizadas.",
+    "text_en": "Good work today. Keep your things organized",
+    "audio_en_storage_path": "1043_good_work_today_keep_your_things_organized.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

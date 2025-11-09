@@ -1,0 +1,938 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130445",
+    "text_pt": "Autodescoberta: Personagens Buscando se Compreender",
+    "text_en": "Self-Discovery: Characters Seeking to Understand Themselves",
+    "audio_en_storage_path": "445_selfdiscovery_characters_seeking_to_understand_themselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130446",
+    "text_pt": "Autodescoberta é uma jornada de introspecção e crescimento.",
+    "text_en": "Self-discovery is a journey of introspection and growth.",
+    "audio_en_storage_path": "446_selfdiscovery_is_a_journey_of_introspection_and_growth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130447",
+    "text_pt": "Os personagens geralmente embarcam nesse caminho depois de enfrentar crises ou perdas pessoais.",
+    "text_en": "Characters often embark on this path after facing personal crises or losses.",
+    "audio_en_storage_path": "447_characters_often_embark_on_this_path_after_facing_personal_crises_or_losses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130448",
+    "text_pt": "Eles questionam quem são e o que realmente importa em suas vidas.",
+    "text_en": "They question who they are and what truly matters in their lives.",
+    "audio_en_storage_path": "448_they_question_who_they_are_and_what_truly_matters_in_their_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130449",
+    "text_pt": "Histórias de autodescoberta exploram a busca por identidade e propósito.",
+    "text_en": "Self-discovery stories explore the search for identity and purpose.",
+    "audio_en_storage_path": "449_selfdiscovery_stories_explore_the_search_for_identity_and_purpose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130450",
+    "text_pt": "Personagens confrontam seus medos, inseguranças e traumas passados.",
+    "text_en": "Characters confront their fears. insecurities. and past traumas.",
+    "audio_en_storage_path": "450_characters_confront_their_fears_insecurities_and_past_traumas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130451",
+    "text_pt": "Esse processo os ajuda a entender seus pontos fortes e fracos.",
+    "text_en": "This process helps them understand their strengths and weaknesses.",
+    "audio_en_storage_path": "451_this_process_helps_them_understand_their_strengths_and_weaknesses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130452",
+    "text_pt": "Viajar é um tema comum em narrativas de autodescoberta.",
+    "text_en": "Travel is a common motif in self-discovery narratives.",
+    "audio_en_storage_path": "452_travel_is_a_common_motif_in_selfdiscovery_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130453",
+    "text_pt": "Explorar novos lugares reflete a jornada interior dos personagens.",
+    "text_en": "Exploring new places mirrors the inner journey of the characters.",
+    "audio_en_storage_path": "453_exploring_new_places_mirrors_the_inner_journey_of_the_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130454",
+    "text_pt": "A solidão desempenha um papel fundamental nas histórias de autodescoberta.",
+    "text_en": "Solitude plays a key role in self-discovery stories.",
+    "audio_en_storage_path": "454_solitude_plays_a_key_role_in_selfdiscovery_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130455",
+    "text_pt": "Estar sozinho permite que os personagens reflitam profundamente sobre suas vidas.",
+    "text_en": "Being alone allows characters to reflect deeply on their lives.",
+    "audio_en_storage_path": "455_being_alone_allows_characters_to_reflect_deeply_on_their_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130456",
+    "text_pt": "Mentores ou guias muitas vezes ajudam os personagens a navegar em suas lutas internas.",
+    "text_en": "Mentors or guides often help characters navigate their inner struggles.",
+    "audio_en_storage_path": "456_mentors_or_guides_often_help_characters_navigate_their_inner_struggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130457",
+    "text_pt": "Eles oferecem sabedoria e apoio em momentos de dúvida.",
+    "text_en": "They offer wisdom and support during moments of doubt.",
+    "audio_en_storage_path": "457_they_offer_wisdom_and_support_during_moments_of_doubt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130458",
+    "text_pt": "Histórias de autodescoberta enfatizam a importância de aceitar a mudança.",
+    "text_en": "Self-discovery stories emphasize the importance of embracing change.",
+    "audio_en_storage_path": "458_selfdiscovery_stories_emphasize_the_importance_of_embracing_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130459",
+    "text_pt": "Os personagens aprendem a abandonar velhos hábitos e crenças limitantes.",
+    "text_en": "Characters learn to let go of old habits and limiting beliefs.",
+    "audio_en_storage_path": "459_characters_learn_to_let_go_of_old_habits_and_limiting_beliefs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130460",
+    "text_pt": "Enfrentar o fracasso é um passo crucial na jornada de autodescoberta.",
+    "text_en": "Facing failure is a crucial step in the journey of self-discovery.",
+    "audio_en_storage_path": "460_facing_failure_is_a_crucial_step_in_the_journey_of_selfdiscovery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130461",
+    "text_pt": "Ela ensina aos personagens humildade e resiliência.",
+    "text_en": "It teaches characters humility and resilience.",
+    "audio_en_storage_path": "461_it_teaches_characters_humility_and_resilience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130462",
+    "text_pt": "Arte, música ou escrita muitas vezes servem como ferramentas de autoexpressão.",
+    "text_en": "Art. music. or writing often serve as tools for self-expression.",
+    "audio_en_storage_path": "462_art_music_or_writing_often_serve_as_tools_for_selfexpression.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130463",
+    "text_pt": "Essas saídas criativas ajudam os personagens a processar suas emoções.",
+    "text_en": "These creative outlets help characters process their emotions.",
+    "audio_en_storage_path": "463_these_creative_outlets_help_characters_process_their_emotions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130464",
+    "text_pt": "A natureza é frequentemente retratada como uma força curativa em contos de autodescoberta.",
+    "text_en": "Nature is frequently depicted as a healing force in self-discovery tales.",
+    "audio_en_storage_path": "464_nature_is_frequently_depicted_as_a_healing_force_in_selfdiscovery_tales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130465",
+    "text_pt": "Sua beleza e tranquilidade proporcionam clareza e paz.",
+    "text_en": "Its beauty and tranquility provide clarity and peace.",
+    "audio_en_storage_path": "465_its_beauty_and_tranquility_provide_clarity_and_peace.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130466",
+    "text_pt": "Sonhos e visões simbolizam a mente subconsciente em ação.",
+    "text_en": "Dreams and visions symbolize the subconscious mind at work.",
+    "audio_en_storage_path": "466_dreams_and_visions_symbolize_the_subconscious_mind_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130467",
+    "text_pt": "Eles revelam verdades e desejos ocultos aos personagens.",
+    "text_en": "They reveal hidden truths and desires to the characters.",
+    "audio_en_storage_path": "467_they_reveal_hidden_truths_and_desires_to_the_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130468",
+    "text_pt": "Histórias de autodescoberta geralmente retratam momentos de epifania ou revelação.",
+    "text_en": "Self-discovery stories often depict moments of epiphany or revelation.",
+    "audio_en_storage_path": "468_selfdiscovery_stories_often_depict_moments_of_epiphany_or_revelation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130469",
+    "text_pt": "Esses momentos transformam a maneira como os personagens veem a si mesmos e o mundo.",
+    "text_en": "These moments transform the way characters see themselves and the world.",
+    "audio_en_storage_path": "469_these_moments_transform_the_way_characters_see_themselves_and_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130470",
+    "text_pt": "Os personagens aprendem a aceitar a si mesmos, com falhas e tudo.",
+    "text_en": "Characters learn to accept themselves. flaws and all.",
+    "audio_en_storage_path": "470_characters_learn_to_accept_themselves_flaws_and_all.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130471",
+    "text_pt": "A autoaceitação é a base do crescimento pessoal.",
+    "text_en": "Self-acceptance is a cornerstone of personal growth.",
+    "audio_en_storage_path": "471_selfacceptance_is_a_cornerstone_of_personal_growth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130472",
+    "text_pt": "Jornadas de autodescoberta geralmente envolvem o confronto de memórias dolorosas.",
+    "text_en": "Self-discovery journeys often involve confronting painful memories.",
+    "audio_en_storage_path": "472_selfdiscovery_journeys_often_involve_confronting_painful_memories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130473",
+    "text_pt": "A cura de feridas do passado é essencial para seguir em frente.",
+    "text_en": "Healing from past wounds is essential for moving forward.",
+    "audio_en_storage_path": "473_healing_from_past_wounds_is_essential_for_moving_forward.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130474",
+    "text_pt": "Os personagens muitas vezes redefinem seus relacionamentos com os outros.",
+    "text_en": "Characters often redefine their relationships with others.",
+    "audio_en_storage_path": "474_characters_often_redefine_their_relationships_with_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130475",
+    "text_pt": "Eles estabelecem limites e priorizam conexões significativas.",
+    "text_en": "They set boundaries and prioritize meaningful connections.",
+    "audio_en_storage_path": "475_they_set_boundaries_and_prioritize_meaningful_connections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130476",
+    "text_pt": "Histórias de autodescoberta celebram a coragem de ser autêntico.",
+    "text_en": "Self-discovery stories celebrate the courage to be authentic.",
+    "audio_en_storage_path": "476_selfdiscovery_stories_celebrate_the_courage_to_be_authentic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130477",
+    "text_pt": "Os personagens aceitam quem realmente são em vez de se conformarem com as expectativas.",
+    "text_en": "Characters embrace their true selves instead of conforming to expectations.",
+    "audio_en_storage_path": "477_characters_embrace_their_true_selves_instead_of_conforming_to_expectations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130478",
+    "text_pt": "A jornada de autodescoberta raramente é linear ou fácil.",
+    "text_en": "The journey of self-discovery is rarely linear or easy.",
+    "audio_en_storage_path": "478_the_journey_of_selfdiscovery_is_rarely_linear_or_easy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130479",
+    "text_pt": "Contratempos e desafios fazem parte do processo de aprendizagem.",
+    "text_en": "Setbacks and challenges are part of the learning process.",
+    "audio_en_storage_path": "479_setbacks_and_challenges_are_part_of_the_learning_process.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130480",
+    "text_pt": "Histórias de autodescoberta geralmente terminam com uma sensação de empoderamento.",
+    "text_en": "Self-discovery stories often end with a sense of empowerment.",
+    "audio_en_storage_path": "480_selfdiscovery_stories_often_end_with_a_sense_of_empowerment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130481",
+    "text_pt": "Os personagens emergem mais fortes, mais sábios e mais confiantes em suas identidades.",
+    "text_en": "Characters emerge stronger. wiser. and more confident in their identities.",
+    "audio_en_storage_path": "481_characters_emerge_stronger_wiser_and_more_confident_in_their_identities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130482",
+    "text_pt": "3.2 Redenção: Histórias de Personagens que Buscam Reparar",
+    "text_en": "3.2 Redemption: Stories of Characters Who Seek to Make Amends",
+    "audio_en_storage_path": "482_32_redemption_stories_of_characters_who_seek_to_make_amends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130483",
+    "text_pt": "Redenção é um tema poderoso que explora a possibilidade de perdão.",
+    "text_en": "Redemption is a powerful theme that explores the possibility of forgiveness.",
+    "audio_en_storage_path": "483_redemption_is_a_powerful_theme_that_explores_the_possibility_of_forgiveness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130484",
+    "text_pt": "Personagens que cometeram erros buscam expiar suas ações.",
+    "text_en": "Characters who have made mistakes seek to atone for their actions.",
+    "audio_en_storage_path": "484_characters_who_have_made_mistakes_seek_to_atone_for_their_actions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130485",
+    "text_pt": "A jornada deles começa com o reconhecimento do mal que causaram.",
+    "text_en": "Their journey begins with acknowledging the harm they’ve caused.",
+    "audio_en_storage_path": "485_their_journey_begins_with_acknowledging_the_harm_theyve_caused.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130486",
+    "text_pt": "Culpa e arrependimento muitas vezes levam os personagens à redenção.",
+    "text_en": "Guilt and regret often drive characters toward redemption.",
+    "audio_en_storage_path": "486_guilt_and_regret_often_drive_characters_toward_redemption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130487",
+    "text_pt": "Eles desejam reparar relacionamentos rompidos e recuperar a confiança.",
+    "text_en": "They desire to repair broken relationships and regain trust.",
+    "audio_en_storage_path": "487_they_desire_to_repair_broken_relationships_and_regain_trust.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130488",
+    "text_pt": "Histórias de redenção destacam a dificuldade de obter perdão.",
+    "text_en": "Redemption stories highlight the difficulty of earning forgiveness.",
+    "audio_en_storage_path": "488_redemption_stories_highlight_the_difficulty_of_earning_forgiveness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130489",
+    "text_pt": "As ações devem estar alinhadas com as intenções para provar uma mudança genuína.",
+    "text_en": "Actions must align with intentions to prove genuine change.",
+    "audio_en_storage_path": "489_actions_must_align_with_intentions_to_prove_genuine_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130490",
+    "text_pt": "O sacrifício é um tema recorrente nas narrativas de redenção.",
+    "text_en": "Sacrifice is a recurring theme in redemption narratives.",
+    "audio_en_storage_path": "490_sacrifice_is_a_recurring_theme_in_redemption_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130491",
+    "text_pt": "Personagens desistem de algo valioso para demonstrar seu remorso.",
+    "text_en": "Characters give up something valuable to demonstrate their remorse.",
+    "audio_en_storage_path": "491_characters_give_up_something_valuable_to_demonstrate_their_remorse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130492",
+    "text_pt": "A redenção muitas vezes envolve fazer as pazes com aqueles a quem prejudicaram.",
+    "text_en": "Redemption often involves making amends with those they’ve wronged.",
+    "audio_en_storage_path": "492_redemption_often_involves_making_amends_with_those_theyve_wronged.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130493",
+    "text_pt": "Pedidos de desculpas e atos de gentileza ajudam a reconstruir laços rompidos.",
+    "text_en": "Apologies and acts of kindness help rebuild fractured bonds.",
+    "audio_en_storage_path": "493_apologies_and_acts_of_kindness_help_rebuild_fractured_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130494",
+    "text_pt": "Histórias de redenção exploram a luta interna pelo autoperdão.",
+    "text_en": "Redemption stories explore the internal struggle for self-forgiveness.",
+    "audio_en_storage_path": "494_redemption_stories_explore_the_internal_struggle_for_selfforgiveness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130495",
+    "text_pt": "Os personagens devem perdoar a si mesmos antes que os outros possam perdoá-los.",
+    "text_en": "Characters must forgive themselves before others can forgive them.",
+    "audio_en_storage_path": "495_characters_must_forgive_themselves_before_others_can_forgive_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130496",
+    "text_pt": "Mentores ou aliados geralmente guiam os personagens em seu caminho para a redenção.",
+    "text_en": "Mentors or allies often guide characters on their path to redemption.",
+    "audio_en_storage_path": "496_mentors_or_allies_often_guide_characters_on_their_path_to_redemption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130497",
+    "text_pt": "Eles fornecem incentivo e responsabilizam os personagens.",
+    "text_en": "They provide encouragement and hold characters accountable.",
+    "audio_en_storage_path": "497_they_provide_encouragement_and_hold_characters_accountable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130498",
+    "text_pt": "A redenção nem sempre é garantida nessas histórias.",
+    "text_en": "Redemption is not always guaranteed in these stories.",
+    "audio_en_storage_path": "498_redemption_is_not_always_guaranteed_in_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130499",
+    "text_pt": "Alguns personagens enfrentam rejeição apesar de seus esforços para mudar.",
+    "text_en": "Some characters face rejection despite their efforts to change.",
+    "audio_en_storage_path": "499_some_characters_face_rejection_despite_their_efforts_to_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130500",
+    "text_pt": "Histórias de redenção enfatizam a importância da perseverança.",
+    "text_en": "Redemption stories emphasize the importance of perseverance.",
+    "audio_en_storage_path": "500_redemption_stories_emphasize_the_importance_of_perseverance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130501",
+    "text_pt": "Mesmo que o perdão seja negado, os personagens crescem a partir da experiência.",
+    "text_en": "Even if forgiveness is denied. characters grow from the experience.",
+    "audio_en_storage_path": "501_even_if_forgiveness_is_denied_characters_grow_from_the_experience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130502",
+    "text_pt": "Atos de heroísmo ou altruísmo geralmente marcam momentos de redenção.",
+    "text_en": "Acts of heroism or selflessness often mark moments of redemption.",
+    "audio_en_storage_path": "502_acts_of_heroism_or_selflessness_often_mark_moments_of_redemption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130503",
+    "text_pt": "Personagens arriscam suas vidas ou reputações para consertar as coisas.",
+    "text_en": "Characters risk their lives or reputations to make things right.",
+    "audio_en_storage_path": "503_characters_risk_their_lives_or_reputations_to_make_things_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130504",
+    "text_pt": "Histórias de redenção desafiam a ideia de que as pessoas são definidas por seus erros.",
+    "text_en": "Redemption stories challenge the idea that people are defined by their mistakes.",
+    "audio_en_storage_path": "504_redemption_stories_challenge_the_idea_that_people_are_defined_by_their_mistakes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130505",
+    "text_pt": "Eles mostram que todos merecem uma segunda chance.",
+    "text_en": "They show that everyone deserves a second chance.",
+    "audio_en_storage_path": "505_they_show_that_everyone_deserves_a_second_chance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130506",
+    "text_pt": "A redenção muitas vezes exige que os personagens enfrentem seus impulsos mais sombrios.",
+    "text_en": "Redemption often requires characters to confront their darkest impulses.",
+    "audio_en_storage_path": "506_redemption_often_requires_characters_to_confront_their_darkest_impulses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130507",
+    "text_pt": "Eles devem resistir à tentação de repetir comportamentos passados.",
+    "text_en": "They must resist the temptation to repeat past behaviors.",
+    "audio_en_storage_path": "507_they_must_resist_the_temptation_to_repeat_past_behaviors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130508",
+    "text_pt": "A comunidade desempenha um papel fundamental nas narrativas de redenção.",
+    "text_en": "Community plays a key role in redemption narratives.",
+    "audio_en_storage_path": "508_community_plays_a_key_role_in_redemption_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130509",
+    "text_pt": "A aceitação dos outros ajuda os personagens a se reintegrarem à sociedade.",
+    "text_en": "Acceptance from others helps characters reintegrate into society.",
+    "audio_en_storage_path": "509_acceptance_from_others_helps_characters_reintegrate_into_society.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130510",
+    "text_pt": "Histórias de redenção muitas vezes retratam os efeitos cascata das ações de alguém.",
+    "text_en": "Redemption stories often depict the ripple effects of one’s actions.",
+    "audio_en_storage_path": "510_redemption_stories_often_depict_the_ripple_effects_of_ones_actions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130511",
+    "text_pt": "Um único ato de gentileza pode inspirar outros a mudar.",
+    "text_en": "A single act of kindness can inspire others to change.",
+    "audio_en_storage_path": "511_a_single_act_of_kindness_can_inspire_others_to_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130512",
+    "text_pt": "A redenção é um lembrete de que o crescimento é possível em qualquer fase da vida.",
+    "text_en": "Redemption is a reminder that growth is possible at any stage of life.",
+    "audio_en_storage_path": "512_redemption_is_a_reminder_that_growth_is_possible_at_any_stage_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130513",
+    "text_pt": "Ela incentiva o público a acreditar no poder da transformação.",
+    "text_en": "It encourages audiences to believe in the power of transformation.",
+    "audio_en_storage_path": "513_it_encourages_audiences_to_believe_in_the_power_of_transformation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130514",
+    "text_pt": "3.3 Superando Desafios: Personagens Enfrentando Lutas Pessoais",
+    "text_en": "3.3 Overcoming Challenges: Characters Facing Personal Struggles",
+    "audio_en_storage_path": "514_33_overcoming_challenges_characters_facing_personal_struggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130515",
+    "text_pt": "Superar desafios é um tema universal que repercute profundamente no público.",
+    "text_en": "Overcoming challenges is a universal theme that resonates deeply with audiences.",
+    "audio_en_storage_path": "515_overcoming_challenges_is_a_universal_theme_that_resonates_deeply_with_audiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130516",
+    "text_pt": "Os personagens enfrentam lutas pessoais que testam sua força e resiliência.",
+    "text_en": "Characters face personal struggles that test their strength and resilience.",
+    "audio_en_storage_path": "516_characters_face_personal_struggles_that_test_their_strength_and_resilience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130517",
+    "text_pt": "Doenças, deficiências e preconceitos são obstáculos comuns nessas histórias.",
+    "text_en": "Illnesses. disabilities. and prejudices are common obstacles in these stories.",
+    "audio_en_storage_path": "517_illnesses_disabilities_and_prejudices_are_common_obstacles_in_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130518",
+    "text_pt": "Esses desafios forçam os personagens a se adaptar e encontrar novas maneiras de prosperar.",
+    "text_en": "These challenges force characters to adapt and find new ways to thrive.",
+    "audio_en_storage_path": "518_these_challenges_force_characters_to_adapt_and_find_new_ways_to_thrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130519",
+    "text_pt": "Determinação é uma característica definidora de personagens em narrativas de superação.",
+    "text_en": "Determination is a defining trait of characters in overcoming narratives.",
+    "audio_en_storage_path": "519_determination_is_a_defining_trait_of_characters_in_overcoming_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130520",
+    "text_pt": "Eles se recusam a deixar que as circunstâncias os definam ou os derrotem.",
+    "text_en": "They refuse to let their circumstances define or defeat them.",
+    "audio_en_storage_path": "520_they_refuse_to_let_their_circumstances_define_or_defeat_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130521",
+    "text_pt": "Os sistemas de apoio desempenham um papel crucial em ajudar os personagens a superar adversidades.",
+    "text_en": "Support systems play a crucial role in helping characters overcome adversity.",
+    "audio_en_storage_path": "521_support_systems_play_a_crucial_role_in_helping_characters_overcome_adversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130522",
+    "text_pt": "Amigos, familiares e mentores oferecem incentivo e assistência.",
+    "text_en": "Friends. family. and mentors provide encouragement and assistance.",
+    "audio_en_storage_path": "522_friends_family_and_mentors_provide_encouragement_and_assistance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130523",
+    "text_pt": "Superar desafios muitas vezes envolve quebrar barreiras sociais.",
+    "text_en": "Overcoming challenges often involves breaking societal barriers.",
+    "audio_en_storage_path": "523_overcoming_challenges_often_involves_breaking_societal_barriers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130524",
+    "text_pt": "Personagens lutam contra a discriminação e o estigma para reivindicar seu lugar.",
+    "text_en": "Characters fight against discrimination and stigma to claim their place.",
+    "audio_en_storage_path": "524_characters_fight_against_discrimination_and_stigma_to_claim_their_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130525",
+    "text_pt": "A coragem é um tema central nas narrativas de superação.",
+    "text_en": "Courage is a central theme in overcoming narratives.",
+    "audio_en_storage_path": "525_courage_is_a_central_theme_in_overcoming_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130526",
+    "text_pt": "Os personagens enfrentam seus medos de frente e se recusam a desistir.",
+    "text_en": "Characters face their fears head-on and refuse to give up.",
+    "audio_en_storage_path": "526_characters_face_their_fears_headon_and_refuse_to_give_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130527",
+    "text_pt": "Momentos de vulnerabilidade destacam a profundidade emocional dessas histórias.",
+    "text_en": "Moments of vulnerability highlight the emotional depth of these stories.",
+    "audio_en_storage_path": "527_moments_of_vulnerability_highlight_the_emotional_depth_of_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130528",
+    "text_pt": "Personagens se abrem sobre suas dificuldades, buscando compreensão e conexão.",
+    "text_en": "Characters open up about their struggles. seeking understanding and connection.",
+    "audio_en_storage_path": "528_characters_open_up_about_their_struggles_seeking_understanding_and_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130529",
+    "text_pt": "Superar desafios muitas vezes envolve redefinir o sucesso e a felicidade.",
+    "text_en": "Overcoming challenges often involves redefining success and happiness.",
+    "audio_en_storage_path": "529_overcoming_challenges_often_involves_redefining_success_and_happiness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130530",
+    "text_pt": "Os personagens aprendem a se concentrar no que realmente importa na vida.",
+    "text_en": "Characters learn to focus on what truly matters in life.",
+    "audio_en_storage_path": "530_characters_learn_to_focus_on_what_truly_matters_in_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130531",
+    "text_pt": "A resiliência é celebrada em narrativas de superação.",
+    "text_en": "Resilience is celebrated in overcoming narratives.",
+    "audio_en_storage_path": "531_resilience_is_celebrated_in_overcoming_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130532",
+    "text_pt": "Personagens se recuperam de contratempos mais fortes e determinados do que nunca.",
+    "text_en": "Characters bounce back from setbacks stronger and more determined than ever.",
+    "audio_en_storage_path": "532_characters_bounce_back_from_setbacks_stronger_and_more_determined_than_ever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130533",
+    "text_pt": "Pequenas vitórias são tão importantes quanto grandes conquistas nessas histórias.",
+    "text_en": "Small victories are as important as major achievements in these stories.",
+    "audio_en_storage_path": "533_small_victories_are_as_important_as_major_achievements_in_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130534",
+    "text_pt": "Eles lembram os personagens de seu progresso e os mantêm motivados.",
+    "text_en": "They remind characters of their progress and keep them motivated.",
+    "audio_en_storage_path": "534_they_remind_characters_of_their_progress_and_keep_them_motivated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130535",
+    "text_pt": "Superar desafios muitas vezes envolve encontrar força interior.",
+    "text_en": "Overcoming challenges often involves finding inner strength.",
+    "audio_en_storage_path": "535_overcoming_challenges_often_involves_finding_inner_strength.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130536",
+    "text_pt": "Personagens descobrem reservas de coragem que nunca souberam que tinham.",
+    "text_en": "Characters discover reserves of courage they never knew they had.",
+    "audio_en_storage_path": "536_characters_discover_reserves_of_courage_they_never_knew_they_had.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130537",
+    "text_pt": "A empatia é um elemento-chave para superar narrativas.",
+    "text_en": "Empathy is a key element in overcoming narratives.",
+    "audio_en_storage_path": "537_empathy_is_a_key_element_in_overcoming_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130538",
+    "text_pt": "Os personagens se conectam com outros que compartilham dificuldades semelhantes, formando laços.",
+    "text_en": "Characters connect with others who share similar struggles. forming bonds.",
+    "audio_en_storage_path": "538_characters_connect_with_others_who_share_similar_struggles_forming_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130539",
+    "text_pt": "Superar desafios muitas vezes destaca a importância da autodefesa.",
+    "text_en": "Overcoming challenges often highlights the importance of self-advocacy.",
+    "audio_en_storage_path": "539_overcoming_challenges_often_highlights_the_importance_of_selfadvocacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130540",
+    "text_pt": "Os personagens aprendem a falar por si mesmos e exigir respeito.",
+    "text_en": "Characters learn to speak up for themselves and demand respect.",
+    "audio_en_storage_path": "540_characters_learn_to_speak_up_for_themselves_and_demand_respect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130541",
+    "text_pt": "Criatividade e inovação são ferramentas frequentes na superação de narrativas.",
+    "text_en": "Creativity and innovation are frequent tools in overcoming narratives.",
+    "audio_en_storage_path": "541_creativity_and_innovation_are_frequent_tools_in_overcoming_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130542",
+    "text_pt": "Personagens encontram soluções não convencionais para problemas aparentemente intransponíveis.",
+    "text_en": "Characters find unconventional solutions to seemingly insurmountable problems.",
+    "audio_en_storage_path": "542_characters_find_unconventional_solutions_to_seemingly_insurmountable_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130543",
+    "text_pt": "Superar desafios muitas vezes envolve redefinir limitações.",
+    "text_en": "Overcoming challenges often involves redefining limitations.",
+    "audio_en_storage_path": "543_overcoming_challenges_often_involves_redefining_limitations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130544",
+    "text_pt": "Personagens ultrapassam limites percebidos para alcançar o impossível.",
+    "text_en": "Characters push past perceived boundaries to achieve the impossible.",
+    "audio_en_storage_path": "544_characters_push_past_perceived_boundaries_to_achieve_the_impossible.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130545",
+    "text_pt": "A esperança é uma força motriz na superação de narrativas.",
+    "text_en": "Hope is a driving force in overcoming narratives.",
+    "audio_en_storage_path": "545_hope_is_a_driving_force_in_overcoming_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130546",
+    "text_pt": "Ela mantém os personagens em movimento, mesmo quando as probabilidades parecem estar contra eles.",
+    "text_en": "It keeps characters going. even when the odds seem stacked against them.",
+    "audio_en_storage_path": "546_it_keeps_characters_going_even_when_the_odds_seem_stacked_against_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130547",
+    "text_pt": "Superar desafios geralmente termina com uma mensagem de inspiração.",
+    "text_en": "Overcoming challenges often ends with a message of inspiration.",
+    "audio_en_storage_path": "547_overcoming_challenges_often_ends_with_a_message_of_inspiration.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130548",
+    "text_pt": "Os triunfos dos personagens lembram ao público o poder da perseverança.",
+    "text_en": "Characters’ triumphs remind audiences of the power of perseverance.",
+    "audio_en_storage_path": "548_characters_triumphs_remind_audiences_of_the_power_of_perseverance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

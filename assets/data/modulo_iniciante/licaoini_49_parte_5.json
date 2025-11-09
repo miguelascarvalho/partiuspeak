@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103270",
+    "text_pt": "Dor",
+    "text_en": "Pain",
+    "audio_en_storage_path": "2370_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103271",
+    "text_pt": "A dor começou depois que fiquei sentado por muito tempo.",
+    "text_en": "The pain started after I sat too long.",
+    "audio_en_storage_path": "2371_the_pain_started_after_i_sat_too_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103272",
+    "text_pt": "Minhas costas estão tensas e desconfortáveis.",
+    "text_en": "My back feels tight and uncomfortable.",
+    "audio_en_storage_path": "2372_my_back_feels_tight_and_uncomfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103273",
+    "text_pt": "Eu uso uma toalha quente para dores musculares.",
+    "text_en": "I use a warm towel for muscle pain.",
+    "audio_en_storage_path": "2373_i_use_a_warm_towel_for_muscle_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103274",
+    "text_pt": "Ou dar uma caminhada para esticar as pernas.",
+    "text_en": "Or take a walk to stretch my legs.",
+    "audio_en_storage_path": "2374_or_take_a_walk_to_stretch_my_legs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103275",
+    "text_pt": "Minha cabeça parece estar pulsando novamente.",
+    "text_en": "My head feels like it’s pulsing again.",
+    "audio_en_storage_path": "2375_my_head_feels_like_its_pulsing_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103276",
+    "text_pt": "E a luz piora tudo.",
+    "text_en": "And the light makes it worse.",
+    "audio_en_storage_path": "2376_and_the_light_makes_it_worse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103277",
+    "text_pt": "Há analgésicos. chá e travesseiros por perto.",
+    "text_en": "There are painkillers. tea. and pillows nearby.",
+    "audio_en_storage_path": "2377_there_are_painkillers_tea_and_pillows_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103278",
+    "text_pt": "Pronto para descanso e recuperação.",
+    "text_en": "Ready for rest and recovery.",
+    "audio_en_storage_path": "2378_ready_for_rest_and_recovery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103279",
+    "text_pt": "Que tipo de dor é essa?",
+    "text_en": "What kind of pain is this?",
+    "audio_en_storage_path": "2379_what_kind_of_pain_is_this.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103280",
+    "text_pt": "Afiadas — como agulhas no meu braço.",
+    "text_en": "Sharp — like needles in my arm.",
+    "audio_en_storage_path": "2380_sharp_like_needles_in_my_arm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103281",
+    "text_pt": "Onde dói mais?",
+    "text_en": "Where does it hurt most?",
+    "audio_en_storage_path": "2381_where_does_it_hurt_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103282",
+    "text_pt": "No meu pescoço — de ficar sentado na mesa.",
+    "text_en": "In my neck — from sitting at the desk.",
+    "audio_en_storage_path": "2382_in_my_neck_from_sitting_at_the_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103283",
+    "text_pt": "Às vezes sinto dor depois do exercício.",
+    "text_en": "Sometimes I feel pain after exercise.",
+    "audio_en_storage_path": "2383_sometimes_i_feel_pain_after_exercise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103284",
+    "text_pt": "Outras vezes eu simplesmente ignoro.",
+    "text_en": "Other times I just ignore it.",
+    "audio_en_storage_path": "2384_other_times_i_just_ignore_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103285",
+    "text_pt": "Onde você deixou seu remédio?",
+    "text_en": "Where did you leave your medicine?",
+    "audio_en_storage_path": "2385_where_did_you_leave_your_medicine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103286",
+    "text_pt": "Na prateleira — perto das vitaminas.",
+    "text_en": "On the shelf — near the vitamins.",
+    "audio_en_storage_path": "2386_on_the_shelf_near_the_vitamins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103287",
+    "text_pt": "Quando você verá o médico novamente?",
+    "text_en": "When will you see the doctor again?",
+    "audio_en_storage_path": "2387_when_will_you_see_the_doctor_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103288",
+    "text_pt": "Se não parar até sexta-feira.",
+    "text_en": "If it doesn’t stop by Friday.",
+    "audio_en_storage_path": "2388_if_it_doesnt_stop_by_friday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103289",
+    "text_pt": "Por que você ligou para a clínica tão cedo hoje?",
+    "text_en": "Why did you call the clinic early today?",
+    "audio_en_storage_path": "2389_why_did_you_call_the_clinic_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103290",
+    "text_pt": "Porque a dor me acordou durante a noite.",
+    "text_en": "Because the pain woke me up during the night.",
+    "audio_en_storage_path": "2390_because_the_pain_woke_me_up_during_the_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103291",
+    "text_pt": "Ele sempre faz pausas quando sente dor.",
+    "text_en": "He always takes breaks when in pain.",
+    "audio_en_storage_path": "2391_he_always_takes_breaks_when_in_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103292",
+    "text_pt": "Nunca força ferimentos reais.",
+    "text_en": "Never pushes through real injuries.",
+    "audio_en_storage_path": "2392_never_pushes_through_real_injuries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103293",
+    "text_pt": "Amanhã não vou esquecer de me alongar novamente.",
+    "text_en": "Tomorrow. I will not forget to stretch again.",
+    "audio_en_storage_path": "2393_tomorrow_i_will_not_forget_to_stretch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103294",
+    "text_pt": "Quase fiz algo ontem.",
+    "text_en": "Almost pulled something yesterday.",
+    "audio_en_storage_path": "2394_almost_pulled_something_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103295",
+    "text_pt": "Ouça seu corpo!",
+    "text_en": "Listen to your body!",
+    "audio_en_storage_path": "2395_listen_to_your_body.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103296",
+    "text_pt": "Não insista em sentir dor real.",
+    "text_en": "Don’t push through real pain.",
+    "audio_en_storage_path": "2396_dont_push_through_real_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

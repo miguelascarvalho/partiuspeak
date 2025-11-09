@@ -1,0 +1,290 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103815",
+    "text_pt": "Conversa curta sobre turismo:",
+    "text_en": "Short talk about tourism:",
+    "audio_en_storage_path": "2915_short_talk_about_tourism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103816",
+    "text_pt": "Você tem planos para o fim de semana?",
+    "text_en": "Do you have plans for the weekend?",
+    "audio_en_storage_path": "2916_do_you_have_plans_for_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103817",
+    "text_pt": "Ainda não — talvez ir à praia.",
+    "text_en": "Not yet — maybe go to the beach.",
+    "audio_en_storage_path": "2917_not_yet_maybe_go_to_the_beach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103818",
+    "text_pt": "Pegue um ônibus para Santos — é perto e divertido.",
+    "text_en": "Take a bus to Santos — it’s close and fun.",
+    "audio_en_storage_path": "2918_take_a_bus_to_santos_its_close_and_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103819",
+    "text_pt": "Ótima ideia — quanto tempo demora?",
+    "text_en": "Great idea — how long does it take?",
+    "audio_en_storage_path": "2919_great_idea_how_long_does_it_take.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103820",
+    "text_pt": "Cerca de 1 hora — nada mal para sol e areia.",
+    "text_en": "About 1 hour — not bad for sun and sand.",
+    "audio_en_storage_path": "2920_about_1_hour_not_bad_for_sun_and_sand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103821",
+    "text_pt": "Conversa sobre bebidas:",
+    "text_en": "Drinks talk:",
+    "audio_en_storage_path": "2921_drinks_talk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103822",
+    "text_pt": "Você gosta de cerveja?",
+    "text_en": "Do you like beer?",
+    "audio_en_storage_path": "2922_do_you_like_beer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103823",
+    "text_pt": "Sim. principalmente leves.",
+    "text_en": "Yes — mostly light ones.",
+    "audio_en_storage_path": "2923_yes_mostly_light_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103824",
+    "text_pt": "Experimente Brahma ou Skol — comuns e baratos.",
+    "text_en": "Try Brahma or Skol — common and cheap.",
+    "audio_en_storage_path": "2924_try_brahma_or_skol_common_and_cheap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103825",
+    "text_pt": "E onde posso encontrar algo mais forte?",
+    "text_en": "And where can I find something stronger?",
+    "audio_en_storage_path": "2925_and_where_can_i_find_something_stronger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103826",
+    "text_pt": "Procure bares de cerveja artesanal — muitos perto da Vila Madalena.",
+    "text_en": "Look for craft beer bars — many near Vila Madalena.",
+    "audio_en_storage_path": "2926_look_for_craft_beer_bars_many_near_vila_madalena.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103827",
+    "text_pt": "Apresentação rápida:",
+    "text_en": "Quick introduction:",
+    "audio_en_storage_path": "2927_quick_introduction.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103828",
+    "text_pt": "Olá! Primeira vez no Brasil?",
+    "text_en": "Hello! First time in Brazil?",
+    "audio_en_storage_path": "2928_hello_first_time_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103829",
+    "text_pt": "Sim — vim de férias.",
+    "text_en": "Yes — came for vacation.",
+    "audio_en_storage_path": "2929_yes_came_for_vacation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103830",
+    "text_pt": "Legal! Meu nome é Lucas — bem-vindo a São Paulo.",
+    "text_en": "Nice! I’m Lucas — welcome to São Paulo.",
+    "audio_en_storage_path": "2930_nice_im_lucas_welcome_to_sao_paulo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103831",
+    "text_pt": "Obrigada! Sou a Sarah — do Canadá.",
+    "text_en": "Thanks! I’m Sarah — from Canada.",
+    "audio_en_storage_path": "2931_thanks_im_sarah_from_canada.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103832",
+    "text_pt": "Aproveite a sua estadia! Avise-me se precisar de ajuda.",
+    "text_en": "Enjoy your stay! Let me know if you need help.",
+    "audio_en_storage_path": "2932_enjoy_your_stay_let_me_know_if_you_need_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103833",
+    "text_pt": "Vou fazer isso — já me perdi duas vezes hoje.",
+    "text_en": "Will do — already got lost twice today.",
+    "audio_en_storage_path": "2933_will_do_already_got_lost_twice_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103834",
+    "text_pt": "Sobre outros estados:",
+    "text_en": "About other states:",
+    "audio_en_storage_path": "2934_about_other_states.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103835",
+    "text_pt": "Então. você está em São Paulo agora — vai para outro lugar?",
+    "text_en": "So. you’re in São Paulo now — going anywhere else?",
+    "audio_en_storage_path": "2935_so_youre_in_sao_paulo_now_going_anywhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103836",
+    "text_pt": "Sim — Rio e Minas Gerais.",
+    "text_en": "Yes — Rio and Minas Gerais.",
+    "audio_en_storage_path": "2936_yes_rio_and_minas_gerais.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103837",
+    "text_pt": "O Rio é cheio de vida — praias. festas. natureza.",
+    "text_en": "Rio is full of life — beaches. parties. nature.",
+    "audio_en_storage_path": "2937_rio_is_full_of_life_beaches_parties_nature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103838",
+    "text_pt": "Ouvi dizer — e Minas?",
+    "text_en": "I’ve heard — what about Minas?",
+    "audio_en_storage_path": "2938_ive_heard_what_about_minas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103839",
+    "text_pt": "A comida é incrível — pão de queijo e ensopados de carne.",
+    "text_en": "Food is incredible — cheese bread and meat stews.",
+    "audio_en_storage_path": "2939_food_is_incredible_cheese_bread_and_meat_stews.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103840",
+    "text_pt": "Parece delicioso — vou experimentar tudo!",
+    "text_en": "Sounds tasty — I’ll try everything!",
+    "audio_en_storage_path": "2940_sounds_tasty_ill_try_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103841",
+    "text_pt": "Pedindo WhatsApp:",
+    "text_en": "Requesting WhatsApp:",
+    "audio_en_storage_path": "2941_requesting_whatsapp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103842",
+    "text_pt": "Você pode me passar seu WhatsApp também?",
+    "text_en": "Can I get your WhatsApp too?",
+    "audio_en_storage_path": "2942_can_i_get_your_whatsapp_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103843",
+    "text_pt": "Sim! +55 11 99999-8888 — fácil de lembrar.",
+    "text_en": "Yes! +55 11 99999-8888 — easy to remember.",
+    "audio_en_storage_path": "2943_yes_55_11_999998888_easy_to_remember.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103844",
+    "text_pt": "Entendi!",
+    "text_en": "Got it!",
+    "audio_en_storage_path": "2944_got_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103845",
+    "text_pt": "Adicione-me — lhe enviarei algumas dicas para hoje.",
+    "text_en": "Add me — I’ll send you some tips for today.",
+    "audio_en_storage_path": "2945_add_me_ill_send_you_some_tips_for_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103846",
+    "text_pt": "Perfeito — te mostro o lugar mais tarde.",
+    "text_en": "Perfect — I’ll show you around later.",
+    "audio_en_storage_path": "2946_perfect_ill_show_you_around_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

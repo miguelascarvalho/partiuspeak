@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101786",
+    "text_pt": "📚 Loja de Livros",
+    "text_en": "📚 Bookstore",
+    "audio_en_storage_path": "886_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101787",
+    "text_pt": "A livraria fica perto do café.",
+    "text_en": "The bookstore is near the coffee shop.",
+    "audio_en_storage_path": "887_the_bookstore_is_near_the_coffee_shop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101788",
+    "text_pt": "Tem cheiro de papel e croissants de chocolate.",
+    "text_en": "It smells like paper and chocolate croissants.",
+    "audio_en_storage_path": "888_it_smells_like_paper_and_chocolate_croissants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101789",
+    "text_pt": "Eu compro romances. livros escolares ou histórias em quadrinhos aqui.",
+    "text_en": "I buy novels. schoolbooks. or comics here.",
+    "audio_en_storage_path": "889_i_buy_novels_schoolbooks_or_comics_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101790",
+    "text_pt": "Ou leia um pouco antes de decidir.",
+    "text_en": "Or read a bit before deciding.",
+    "audio_en_storage_path": "890_or_read_a_bit_before_deciding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101791",
+    "text_pt": "As prateleiras são altas e cheias de cor.",
+    "text_en": "The shelves are tall and filled with color.",
+    "audio_en_storage_path": "891_the_shelves_are_tall_and_filled_with_color.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101792",
+    "text_pt": "Os livros são classificados por tópico e idade.",
+    "text_en": "Books are sorted by topic and age.",
+    "audio_en_storage_path": "892_books_are_sorted_by_topic_and_age.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101793",
+    "text_pt": "Há marcadores. canetas e cadeiras de leitura por perto.",
+    "text_en": "There are bookmarks. think. and reading chairs nearby.",
+    "audio_en_storage_path": "893_there_are_bookmarks_think_and_reading_chairs_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101794",
+    "text_pt": "E um cantinho infantil com histórias.",
+    "text_en": "And a small kids’ corner with stories.",
+    "audio_en_storage_path": "894_and_a_small_kids_corner_with_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101795",
+    "text_pt": "Que livro você escolheu?",
+    "text_en": "What book did you pick?",
+    "audio_en_storage_path": "895_what_book_did_you_pick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101796",
+    "text_pt": "Um mistério — começa com um segredo.",
+    "text_en": "A mystery one — starts with a secret.",
+    "audio_en_storage_path": "896_a_mystery_one_starts_with_a_secret.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101797",
+    "text_pt": "Onde estão os livros em inglês?",
+    "text_en": "Where are the English books?",
+    "audio_en_storage_path": "897_where_are_the_english_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101798",
+    "text_pt": "Na prateleira de cima — perto da janela.",
+    "text_en": "On the top shelf — near the window.",
+    "audio_en_storage_path": "898_on_the_top_shelf_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101799",
+    "text_pt": "Às vezes leio algumas páginas.",
+    "text_en": "Sometimes I read a few pages.",
+    "audio_en_storage_path": "899_sometimes_i_read_a_few_pages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101800",
+    "text_pt": "Outras vezes eu apenas ouço música.",
+    "text_en": "Other times I just listen to music.",
+    "audio_en_storage_path": "900_other_times_i_just_listen_to_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101801",
+    "text_pt": "Onde você deixou sua revista?",
+    "text_en": "Where did you leave your magazine?",
+    "audio_en_storage_path": "901_where_did_you_leave_your_magazine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101802",
+    "text_pt": "No banco — entre os livros de ficção e de viagem.",
+    "text_en": "On the bench — between the fiction and travel books.",
+    "audio_en_storage_path": "902_on_the_bench_between_the_fiction_and_travel_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101803",
+    "text_pt": "Quando o novo livro chegará?",
+    "text_en": "When will the new book arrive?",
+    "audio_en_storage_path": "903_when_will_the_new_book_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101804",
+    "text_pt": "Em duas semanas — disponível para pré-encomenda.",
+    "text_en": "In two weeks — available for preorder.",
+    "audio_en_storage_path": "904_in_two_weeks_available_for_preorder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101805",
+    "text_pt": "Por que você trouxe uma sacola hoje?",
+    "text_en": "Why did you bring a bag today?",
+    "audio_en_storage_path": "905_why_did_you_bring_a_bag_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101806",
+    "text_pt": "Porque comprei dois livros e um caderno.",
+    "text_en": "Because I bought two books and a notebook.",
+    "audio_en_storage_path": "906_because_i_bought_two_books_and_a_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101807",
+    "text_pt": "Ela lê antes de comprar qualquer coisa.",
+    "text_en": "She reads before buying anything.",
+    "audio_en_storage_path": "907_she_reads_before_buying_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101808",
+    "text_pt": "Se ela gosta da primeira página. ela compra.",
+    "text_en": "If she likes page one. she buys it.",
+    "audio_en_storage_path": "908_if_she_likes_page_one_she_buys_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101809",
+    "text_pt": "Amanhã. Não vou me esquecer de levar minha própria bolsa novamente.",
+    "text_en": "Tomorrow. I will not forget to carry my own bag again.",
+    "audio_en_storage_path": "909_tomorrow_i_will_not_forget_to_carry_my_own_bag_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101810",
+    "text_pt": "Esqueci da última vez e carreguei tudo nas mãos.",
+    "text_en": "Forgot last time and carried everything in my hands.",
+    "audio_en_storage_path": "910_forgot_last_time_and_carried_everything_in_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101811",
+    "text_pt": "Leia e relaxe!",
+    "text_en": "Read and relax!",
+    "audio_en_storage_path": "911_read_and_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101812",
+    "text_pt": "Os livros trazem paz e alegria.",
+    "text_en": "Books bring peace and joy.",
+    "audio_en_storage_path": "912_books_bring_peace_and_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

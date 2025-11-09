@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101867",
+    "text_pt": "🅿️ Estacionamento (área de estacionamento)",
+    "text_en": "🅿️ Parking Area",
+    "audio_en_storage_path": "967_parking_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101868",
+    "text_pt": "O estacionamento fica embaixo do shopping.",
+    "text_en": "The parking lot is under the mall.",
+    "audio_en_storage_path": "968_the_parking_lot_is_under_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101869",
+    "text_pt": "Possui quatro níveis e vagas numeradas.",
+    "text_en": "It has four levels and numbered spots.",
+    "audio_en_storage_path": "969_it_has_four_levels_and_numbered_spots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101870",
+    "text_pt": "Estaciono perto do elevador para acesso rápido.",
+    "text_en": "I park near the elevator for quick access.",
+    "audio_en_storage_path": "970_i_park_near_the_elevator_for_quick_access.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101871",
+    "text_pt": "Ou siga as placas para o Nível B3.",
+    "text_en": "Or follow signs to Level B3.",
+    "audio_en_storage_path": "971_or_follow_signs_to_level_b3.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101872",
+    "text_pt": "A garagem é ampla. de concreto e bem iluminada.",
+    "text_en": "The garage is wide. concrete. and well-lit.",
+    "audio_en_storage_path": "972_the_garage_is_wide_concrete_and_welllit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101873",
+    "text_pt": "Possui mapas e botões de emergência.",
+    "text_en": "It has maps and emergency buttons.",
+    "audio_en_storage_path": "973_it_has_maps_and_emergency_buttons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101874",
+    "text_pt": "Há setas. números e câmeras por toda parte.",
+    "text_en": "There are arrows. numbers. and cameras everywhere.",
+    "audio_en_storage_path": "974_there_are_arrows_numbers_and_cameras_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101875",
+    "text_pt": "E elevadores para chegar aos andares superiores.",
+    "text_en": "And elevators to reach upper floors.",
+    "audio_en_storage_path": "975_and_elevators_to_reach_upper_floors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101876",
+    "text_pt": "Onde você estacionou seu carro?",
+    "text_en": "Where did you park your car?",
+    "audio_en_storage_path": "976_where_did_you_park_your_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101877",
+    "text_pt": "Seção C. Fileira 2 — perto da parede.",
+    "text_en": "Section C. Row 2 — near the wall.",
+    "audio_en_storage_path": "977_section_c_row_2_near_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101878",
+    "text_pt": "Onde fica a saída mais próxima?",
+    "text_en": "Where is the closest exit?",
+    "audio_en_storage_path": "978_where_is_the_closest_exit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101879",
+    "text_pt": "Siga as setas verdes — elas levam às saídas.",
+    "text_en": "Follow the green arrows — they lead to exits.",
+    "audio_en_storage_path": "979_follow_the_green_arrows_they_lead_to_exits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101880",
+    "text_pt": "Às vezes uso o aplicativo para lembrar meu lugar.",
+    "text_en": "Sometimes I use the app to remember my spot.",
+    "audio_en_storage_path": "980_sometimes_i_use_the_app_to_remember_my_spot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101881",
+    "text_pt": "Outras vezes eu apenas tiro uma foto.",
+    "text_en": "Other times I just take a photo.",
+    "audio_en_storage_path": "981_other_times_i_just_take_a_photo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101882",
+    "text_pt": "Onde fica o elevador?",
+    "text_en": "Where is the elevator?",
+    "audio_en_storage_path": "982_where_is_the_elevator.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101883",
+    "text_pt": "Entre os níveis B2 e B1 — luz azul.",
+    "text_en": "Between Levels B2 and B1 — blue light.",
+    "audio_en_storage_path": "983_between_levels_b2_and_b1_blue_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101884",
+    "text_pt": "Quando o estacionamento estará cheio?",
+    "text_en": "When will the parking be full?",
+    "audio_en_storage_path": "984_when_will_the_parking_be_full.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101885",
+    "text_pt": "Por volta do meio-dia — é melhor chegar cedo.",
+    "text_en": "Around noon — better come early.",
+    "audio_en_storage_path": "985_around_noon_better_come_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101886",
+    "text_pt": "Por que você estacionou longe hoje?",
+    "text_en": "Why did you park far today?",
+    "audio_en_storage_path": "986_why_did_you_park_far_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101887",
+    "text_pt": "Porque os lugares próximos já estavam ocupados.",
+    "text_en": "Because the near spots were taken.",
+    "audio_en_storage_path": "987_because_the_near_spots_were_taken.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101888",
+    "text_pt": "Ele estaciona na mesma seção todas as vezes.",
+    "text_en": "He parks in the same section every time.",
+    "audio_en_storage_path": "988_he_parks_in_the_same_section_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101889",
+    "text_pt": "Nunca se perde — conhece o layout.",
+    "text_en": "Never gets lost — knows the layout.",
+    "audio_en_storage_path": "989_never_gets_lost_knows_the_layout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101890",
+    "text_pt": "Amanhã. Não vou esquecer de tirar outra foto do meu lugar.",
+    "text_en": "Tomorrow. I will not forget to take a picture of my spot again.",
+    "audio_en_storage_path": "990_tomorrow_i_will_not_forget_to_take_a_picture_of_my_spot_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101891",
+    "text_pt": "Levei 10 minutos para encontrá-lo da última vez.",
+    "text_en": "Take me 10 minutes to find it last time.",
+    "audio_en_storage_path": "991_take_me_10_minutes_to_find_it_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101892",
+    "text_pt": "Estacione com inteligência!",
+    "text_en": "Park smart!",
+    "audio_en_storage_path": "992_park_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101893",
+    "text_pt": "Escolha um local que você possa encontrar facilmente.",
+    "text_en": "Choose a spot you can find easily.",
+    "audio_en_storage_path": "993_choose_a_spot_you_can_find_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

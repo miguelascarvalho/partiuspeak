@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101543",
+    "text_pt": "📚 Loja de Livros",
+    "text_en": "📚 Bookstore",
+    "audio_en_storage_path": "643_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101544",
+    "text_pt": "A livraria fica perto do café.",
+    "text_en": "The bookstore is near the coffee shop.",
+    "audio_en_storage_path": "644_the_bookstore_is_near_the_coffee_shop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101545",
+    "text_pt": "Cheira a papel e grãos de café.",
+    "text_en": "Smells like paper and coffee beans.",
+    "audio_en_storage_path": "645_smells_like_paper_and_coffee_beans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101546",
+    "text_pt": "Eu compro romances. histórias em quadrinhos e livros escolares aqui.",
+    "text_en": "I buy novels. comics. and school books here.",
+    "audio_en_storage_path": "646_i_buy_novels_comics_and_school_books_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101547",
+    "text_pt": "Ou leia um pouco antes de decidir.",
+    "text_en": "Or read a bit before deciding.",
+    "audio_en_storage_path": "647_or_read_a_bit_before_deciding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101548",
+    "text_pt": "O espaço é silencioso. com prateleiras altas.",
+    "text_en": "The space is quiet with tall shelves.",
+    "audio_en_storage_path": "648_the_space_is_quiet_with_tall_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101549",
+    "text_pt": "Os livros são organizados por gênero e autor.",
+    "text_en": "Books are organized by genre and author.",
+    "audio_en_storage_path": "649_books_are_organized_by_genre_and_author.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101550",
+    "text_pt": "Há marcadores. canetas e lâmpadas de leitura por perto.",
+    "text_en": "There are bookmarks. think. and reading lamps nearby.",
+    "audio_en_storage_path": "650_there_are_bookmarks_think_and_reading_lamps_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101551",
+    "text_pt": "E cadeiras para leitura.",
+    "text_en": "And chairs for reading.",
+    "audio_en_storage_path": "651_and_chairs_for_reading.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101552",
+    "text_pt": "Que tipo de livro você comprou?",
+    "text_en": "What kind of book did you buy?",
+    "audio_en_storage_path": "652_what_kind_of_book_did_you_buy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101553",
+    "text_pt": "Mistério — histórias de amor que me surpreendem.",
+    "text_en": "Mystery — love stories that surprise me.",
+    "audio_en_storage_path": "653_mystery_love_stories_that_surprise_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101554",
+    "text_pt": "Onde estão os livros das crianças?",
+    "text_en": "Where are the kids' books?",
+    "audio_en_storage_path": "654_where_are_the_kids_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101555",
+    "text_pt": "Nas prateleiras inferiores — fáceis de alcançar.",
+    "text_en": "On the lower shelves — easy to reach.",
+    "audio_en_storage_path": "655_on_the_lower_shelves_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101556",
+    "text_pt": "Às vezes leio antes de comprar.",
+    "text_en": "Sometimes I read before buying.",
+    "audio_en_storage_path": "656_sometimes_i_read_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101557",
+    "text_pt": "Outras vezes eu simplesmente pego e vou embora.",
+    "text_en": "Other times I just grab and go.",
+    "audio_en_storage_path": "657_other_times_i_just_grab_and_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101558",
+    "text_pt": "Onde você deixou seu livro aberto?",
+    "text_en": "Where did you leave your book open?",
+    "audio_en_storage_path": "658_where_did_you_leave_your_book_open.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101559",
+    "text_pt": "Na página 53 — marcado com um guardanapo.",
+    "text_en": "On page 53 — marked with a napkin.",
+    "audio_en_storage_path": "659_on_page_53_marked_with_a_napkin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101560",
+    "text_pt": "Quando o novo livro chegará?",
+    "text_en": "When will the new book arrive?",
+    "audio_en_storage_path": "660_when_will_the_new_book_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101561",
+    "text_pt": "No mês que vem — pré-encomenda online.",
+    "text_en": "Next month — pre-ordered online.",
+    "audio_en_storage_path": "661_next_month_preordered_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101562",
+    "text_pt": "Por que você escolheu esse hoje?",
+    "text_en": "Why did you choose this one today?",
+    "audio_en_storage_path": "662_why_did_you_choose_this_one_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101563",
+    "text_pt": "Porque tem uma capa legal e boas críticas.",
+    "text_en": "Because it has a cool cover and good reviews.",
+    "audio_en_storage_path": "663_because_it_has_a_cool_cover_and_good_reviews.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101564",
+    "text_pt": "Ela lê algumas páginas antes de decidir.",
+    "text_en": "She reads a few pages before deciding.",
+    "audio_en_storage_path": "664_she_reads_a_few_pages_before_deciding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101565",
+    "text_pt": "Se ela gosta. ela compra.",
+    "text_en": "If she likes it. she buys it.",
+    "audio_en_storage_path": "665_if_she_likes_it_she_buys_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101566",
+    "text_pt": "Amanhã. Não esquecerei de devolver o livro de amostras novamente.",
+    "text_en": "Tomorrow. I will not forget to return the sample book again.",
+    "audio_en_storage_path": "666_tomorrow_i_will_not_forget_to_return_the_sample_book_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101567",
+    "text_pt": "Deixei no banco da última vez.",
+    "text_en": "Left it on the bench last time.",
+    "audio_en_storage_path": "667_left_it_on_the_bench_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101568",
+    "text_pt": "Leia mais. Saiba mais!",
+    "text_en": "Read more. learn more!",
+    "audio_en_storage_path": "668_read_more_learn_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101569",
+    "text_pt": "Os livros abrem novos mundos.",
+    "text_en": "Books open new worlds.",
+    "audio_en_storage_path": "669_books_open_new_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112105",
+    "text_pt": "Bebidas quentes (chá, café, chocolate quente)",
+    "text_en": "Hot Drinks (tea, coffee, hot chocolate)",
+    "audio_en_storage_path": "2105_hot_drinks_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112106",
+    "text_pt": "A bebida quente está fumegando na xícara.",
+    "text_en": "The hot drink is steaming in the cup.",
+    "audio_en_storage_path": "2106_the_hot_drink_is_steaming_in_the_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112107",
+    "text_pt": "Parece quente em minhas mãos.",
+    "text_en": "It feels warm in my hands.",
+    "audio_en_storage_path": "2107_it_feels_warm_in_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112108",
+    "text_pt": "Eu bebo quando estou com frio ou preciso de conforto.",
+    "text_en": "I drink it when I'm cold or need comfort.",
+    "audio_en_storage_path": "2108_i_drink_it_when_im_cold_or_need_comfort.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112109",
+    "text_pt": "Traz paz e aconchego.",
+    "text_en": "It brings peace and warmth.",
+    "audio_en_storage_path": "2109_it_brings_peace_and_warmth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112110",
+    "text_pt": "O copo é grande e tem alça.",
+    "text_en": "The cup is large and has a handle.",
+    "audio_en_storage_path": "2110_the_cup_is_large_and_has_a_handle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112111",
+    "text_pt": "Tem cheiro de canela e especiarias.",
+    "text_en": "It smells like cinnamon and spices.",
+    "audio_en_storage_path": "2111_it_smells_like_cinnamon_and_spices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112112",
+    "text_pt": "Bebo lentamente e observo o vapor subir.",
+    "text_en": "I sip slowly and watch the steam rise.",
+    "audio_en_storage_path": "2112_i_sip_slowly_and_watch_the_steam_rise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112113",
+    "text_pt": "Isso me faz sentir calmo e relaxado.",
+    "text_en": "It makes me feel calm and relaxed.",
+    "audio_en_storage_path": "2113_it_makes_me_feel_calm_and_relaxed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112114",
+    "text_pt": "Qual bebida quente você mais gosta?",
+    "text_en": "What hot drink do you like most?",
+    "audio_en_storage_path": "2114_what_hot_drink_do_you_like_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112115",
+    "text_pt": "Chocolate quente — rico e doce.",
+    "text_en": "Hot chocolate — rich and sweet.",
+    "audio_en_storage_path": "2115_hot_chocolate_rich_and_sweet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112116",
+    "text_pt": "Onde você guarda suas canecas?",
+    "text_en": "Where do you keep your mugs?",
+    "audio_en_storage_path": "2116_where_do_you_keep_your_mugs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112117",
+    "text_pt": "No armário acima da pia.",
+    "text_en": "In the cabinet above the sink.",
+    "audio_en_storage_path": "2117_in_the_cabinet_above_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112118",
+    "text_pt": "Às vezes bebo chá de ervas.",
+    "text_en": "Sometimes I drink herbal tea.",
+    "audio_en_storage_path": "2118_sometimes_i_drink_herbal_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112119",
+    "text_pt": "Outras vezes, prefiro chá preto.",
+    "text_en": "Other times I go for black tea.",
+    "audio_en_storage_path": "2119_other_times_i_go_for_black_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112120",
+    "text_pt": "Onde você conseguiu essa caneca?",
+    "text_en": "Where did you get this mug?",
+    "audio_en_storage_path": "2120_where_did_you_get_this_mug.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112121",
+    "text_pt": "Da minha irmã — é o meu favorito.",
+    "text_en": "From my sister — it’s my favorite.",
+    "audio_en_storage_path": "2121_from_my_sister_its_my_favorite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112122",
+    "text_pt": "Quando você costuma tomar bebidas quentes?",
+    "text_en": "When do you usually have hot drinks?",
+    "audio_en_storage_path": "2122_when_do_you_usually_have_hot_drinks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112123",
+    "text_pt": "Durante o inverno ou tarde da noite.",
+    "text_en": "During winter or late at night.",
+    "audio_en_storage_path": "2123_during_winter_or_late_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112124",
+    "text_pt": "Por que você fez chocolate quente hoje?",
+    "text_en": "Why did you make hot chocolate today?",
+    "audio_en_storage_path": "2124_why_did_you_make_hot_chocolate_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112125",
+    "text_pt": "Porque estava chovendo e eu sentia frio.",
+    "text_en": "Because it was raining and I felt chilly.",
+    "audio_en_storage_path": "2125_because_it_was_raining_and_i_felt_chilly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112126",
+    "text_pt": "Gosto de bebidas quentes em dias tranquilos.",
+    "text_en": "I enjoy hot drinks on quiet days.",
+    "audio_en_storage_path": "2126_i_enjoy_hot_drinks_on_quiet_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112127",
+    "text_pt": "Eles me ajudam a desacelerar e respirar.",
+    "text_en": "They help me slow down and breathe.",
+    "audio_en_storage_path": "2127_they_help_me_slow_down_and_breathe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112128",
+    "text_pt": "Amanhã. Não vou esquecer de lavar minha caneca novamente.",
+    "text_en": "Tomorrow. I will not forget to wash my mug again.",
+    "audio_en_storage_path": "2128_tomorrow_i_will_not_forget_to_wash_my_mug_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112129",
+    "text_pt": "Vou limpá-lo antes de ir para a cama.",
+    "text_en": "I’ll clean it before going to bed.",
+    "audio_en_storage_path": "2129_ill_clean_it_before_going_to_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112130",
+    "text_pt": "Tomar cuidado!",
+    "text_en": "Take care!",
+    "audio_en_storage_path": "2130_take_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112131",
+    "text_pt": "Aproveite sua bebida quente.",
+    "text_en": "Enjoy your warm drink.",
+    "audio_en_storage_path": "2131_enjoy_your_warm_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

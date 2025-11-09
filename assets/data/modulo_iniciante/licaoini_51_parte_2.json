@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103513",
+    "text_pt": "Dentista – Dor de Dente",
+    "text_en": "Dentist – Tooth Pain",
+    "audio_en_storage_path": "2613_dentist_tooth_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103514",
+    "text_pt": "O dentista está na clínica lá em cima.",
+    "text_en": "The dentist is in the clinic upstairs.",
+    "audio_en_storage_path": "2614_the_dentist_is_in_the_clinic_upstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103515",
+    "text_pt": "Ele corrige cáries e dores de dente.",
+    "text_en": "He fixes cavities and toothaches.",
+    "audio_en_storage_path": "2615_he_fixes_cavities_and_toothaches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103516",
+    "text_pt": "Vou lá para fazer limpeza ou quando meu maxilar dói.",
+    "text_en": "I go there for cleaning or when my jaw hurts.",
+    "audio_en_storage_path": "2616_i_go_there_for_cleaning_or_when_my_jaw_hurts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103517",
+    "text_pt": "Ou quando meus dentes ficam sensíveis.",
+    "text_en": "Or when my teeth feel sensitive.",
+    "audio_en_storage_path": "2617_or_when_my_teeth_feel_sensitive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103518",
+    "text_pt": "A cadeira se move para cima e para baixo lentamente.",
+    "text_en": "The chair moves up and down slowly.",
+    "audio_en_storage_path": "2618_the_chair_moves_up_and_down_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103519",
+    "text_pt": "Espelhos e ferramentas fazem barulho.",
+    "text_en": "Mirrors and tools make noise.",
+    "audio_en_storage_path": "2619_mirrors_and_tools_make_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103520",
+    "text_pt": "Há fio dental. enxaguante bucal e luvas por perto.",
+    "text_en": "There are floss. mouthwash. and gloves nearby.",
+    "audio_en_storage_path": "2620_there_are_floss_mouthwash_and_gloves_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103521",
+    "text_pt": "E uma tela mostrando radiografias dentárias.",
+    "text_en": "And a screen showing dental X-rays.",
+    "audio_en_storage_path": "2621_and_a_screen_showing_dental_xrays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103522",
+    "text_pt": "O que o dentista disse?",
+    "text_en": "What did the dentist say?",
+    "audio_en_storage_path": "2622_what_did_the_dentist_say.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103523",
+    "text_pt": "Você tem uma cárie — mas nenhuma infecção.",
+    "text_en": "You have a cavity — but no infection.",
+    "audio_en_storage_path": "2623_you_have_a_cavity_but_no_infection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103524",
+    "text_pt": "Onde fica a clínica?",
+    "text_en": "Where is the clinic located?",
+    "audio_en_storage_path": "2624_where_is_the_clinic_located.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103525",
+    "text_pt": "Perto do shopping — placa amarela do lado de fora.",
+    "text_en": "Near the mall — yellow sign outside.",
+    "audio_en_storage_path": "2625_near_the_mall_yellow_sign_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103526",
+    "text_pt": "Às vezes eu apenas lustro meus dentes.",
+    "text_en": "Sometimes I just polish my teeth.",
+    "audio_en_storage_path": "2626_sometimes_i_just_polish_my_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103527",
+    "text_pt": "Outras vezes ouço más notícias.",
+    "text_en": "Other times I hear bad news.",
+    "audio_en_storage_path": "2627_other_times_i_hear_bad_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103528",
+    "text_pt": "Onde você deixou seu enxaguante bucal?",
+    "text_en": "Where did you leave your mouthwash?",
+    "audio_en_storage_path": "2628_where_did_you_leave_your_mouthwash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103529",
+    "text_pt": "Na gaveta — ao lado da pasta de dentes.",
+    "text_en": "In the drawer — next to the toothpaste.",
+    "audio_en_storage_path": "2629_in_the_drawer_next_to_the_toothpaste.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103530",
+    "text_pt": "Quando você vai voltar?",
+    "text_en": "When will you go back?",
+    "audio_en_storage_path": "2630_when_will_you_go_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103531",
+    "text_pt": "Em seis meses — para outra limpeza.",
+    "text_en": "In six months — for another cleaning.",
+    "audio_en_storage_path": "2631_in_six_months_for_another_cleaning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103532",
+    "text_pt": "Por que você reservou cedo hoje?",
+    "text_en": "Why did you book early today?",
+    "audio_en_storage_path": "2632_why_did_you_book_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103533",
+    "text_pt": "Porque eu sabia que estaria cheio.",
+    "text_en": "Because I knew it would be full.",
+    "audio_en_storage_path": "2633_because_i_knew_it_would_be_full.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103534",
+    "text_pt": "Ele vai ao dentista duas vezes por ano.",
+    "text_en": "He sees his dentist twice a year.",
+    "audio_en_storage_path": "2634_he_sees_his_dentist_twice_a_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103535",
+    "text_pt": "Cuida do seu sorriso com seriedade.",
+    "text_en": "Takes care of his smile seriously.",
+    "audio_en_storage_path": "2635_takes_care_of_his_smile_seriously.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103536",
+    "text_pt": "Amanhã não vou esquecer de escovar os dentes novamente.",
+    "text_en": "Tomorrow. I will not forget to brush again.",
+    "audio_en_storage_path": "2636_tomorrow_i_will_not_forget_to_brush_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103537",
+    "text_pt": "Deixei meus dentes sujos da última vez — peguei placa bacteriana.",
+    "text_en": "Left my teeth dirty last time — got plaque.",
+    "audio_en_storage_path": "2637_left_my_teeth_dirty_last_time_got_plaque.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103538",
+    "text_pt": "Mantenha seu sorriso saudável!",
+    "text_en": "Keep your smile healthy!",
+    "audio_en_storage_path": "2638_keep_your_smile_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103539",
+    "text_pt": "Visite o dentista regularmente.",
+    "text_en": "Visit the dentist regularly.",
+    "audio_en_storage_path": "2639_visit_the_dentist_regularly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

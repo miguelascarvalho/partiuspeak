@@ -1,0 +1,308 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100514",
+    "text_pt": "Café / Restaurante",
+    "text_en": "Café / Restaurant",
+    "audio_en_storage_path": "515_cafe_restaurant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100515",
+    "text_pt": "Pedindo comida",
+    "text_en": "Ordering Food",
+    "audio_en_storage_path": "516_ordering_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100516",
+    "text_pt": "Este é o nosso café favorito.",
+    "text_en": "This is our favorite café.",
+    "audio_en_storage_path": "517_this_is_our_favorite_cafe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100517",
+    "text_pt": "Viemos aqui para tomar café e comer doces.",
+    "text_en": "We come here for coffee and pastries.",
+    "audio_en_storage_path": "518_we_come_here_for_coffee_and_pastries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100518",
+    "text_pt": "O menu tem muitas opções e preços.",
+    "text_en": "The menu has many options and prices.",
+    "audio_en_storage_path": "519_the_menu_has_many_options_and_prices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100519",
+    "text_pt": "Há fotos de comida nas paredes.",
+    "text_en": "There are pictures of food on the walls.",
+    "audio_en_storage_path": "520_there_are_pictures_of_food_on_the_walls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100520",
+    "text_pt": "Posso ver o menu, por favor?",
+    "text_en": "Can I see the menu, please?",
+    "audio_en_storage_path": "521_can_i_see_the_menu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100521",
+    "text_pt": "Sim, está na mesa.",
+    "text_en": "Yes, it’s on the table.",
+    "audio_en_storage_path": "522_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100522",
+    "text_pt": "Não, mas posso ler para você.",
+    "text_en": "No, but I can read it to you.",
+    "audio_en_storage_path": "523_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100523",
+    "text_pt": "Onde é o banheiro?",
+    "text_en": "Where is the restroom?",
+    "audio_en_storage_path": "524_where_is_the_restroom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100524",
+    "text_pt": "Fica atrás do balcão, à esquerda.",
+    "text_en": "It’s behind the counter, to the left.",
+    "audio_en_storage_path": "525_its_behind_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100525",
+    "text_pt": "Quando a comida vai chegar?",
+    "text_en": "When will the food arrive?",
+    "audio_en_storage_path": "526_when_will_the_food_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100526",
+    "text_pt": "Estará pronto em breve, acabei de fazer o pedido.",
+    "text_en": "It’ll be ready soon, just ordered.",
+    "audio_en_storage_path": "527_itll_be_ready_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100527",
+    "text_pt": "Por que você pediu a salada?",
+    "text_en": "Why did you order the salad?",
+    "audio_en_storage_path": "528_why_did_you_order_the_salad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100528",
+    "text_pt": "Eu queria algo leve e saudável.",
+    "text_en": "I wanted something light and healthy.",
+    "audio_en_storage_path": "529_i_wanted_something_light_and_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100529",
+    "text_pt": "Ela lê o cardápio com atenção.",
+    "text_en": "She reads the menu carefully.",
+    "audio_en_storage_path": "530_she_reads_the_menu_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100530",
+    "text_pt": "Ele não vai comer comida apimentada esta noite.",
+    "text_en": "He won’t eat spicy food tonight.",
+    "audio_en_storage_path": "531_he_wont_eat_spicy_food_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100531",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "532_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100532",
+    "text_pt": "Estará pronto em breve, acabei de fazer o pedido.",
+    "text_en": "It’ll be ready soon, just ordered.",
+    "audio_en_storage_path": "533_itll_be_ready_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100533",
+    "text_pt": "Está chegando, acabei de fazer o pedido.",
+    "text_en": "It’s comin’ soon, just placed the order.",
+    "audio_en_storage_path": "534_its_comin_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100534",
+    "text_pt": "Ele não vai comer comida apimentada esta noite.",
+    "text_en": "He won’t eat spicy food tonight.",
+    "audio_en_storage_path": "535_he_wont_eat_spicy_food_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100535",
+    "text_pt": "Ele não vai comer nada apimentado esta noite.",
+    "text_en": "He ain't eatin’ spicy stuff tonight.",
+    "audio_en_storage_path": "536_he_aint_eatin_spicy_stuff_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100536",
+    "text_pt": "Ela lê o cardápio com atenção.",
+    "text_en": "She reads the menu carefully.",
+    "audio_en_storage_path": "537_she_reads_the_menu_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100537",
+    "text_pt": "Ela lê o cardápio lentamente.",
+    "text_en": "She reads the menu slow-like.",
+    "audio_en_storage_path": "538_she_reads_the_menu_slowlike.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100538",
+    "text_pt": "Conjunto de frases – Conversando com garçons",
+    "text_en": "Sentence Set – Talking to Waiters",
+    "audio_en_storage_path": "539_sentence_set_talking_to_waiters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100539",
+    "text_pt": "Bom dia, como posso ajudar?",
+    "text_en": "Good morning, how can I help?",
+    "audio_en_storage_path": "540_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100540",
+    "text_pt": "Eu gostaria de um café e um croissant.",
+    "text_en": "I’d like a coffee and a croissant.",
+    "audio_en_storage_path": "541_id_like_a_coffee_and_a_croissant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100541",
+    "text_pt": "Café quente ou frio? Preto ou com leite?",
+    "text_en": "Hot or cold coffee? Black or with milk?",
+    "audio_en_storage_path": "542_hot_or_cold_coffee_black_or_with_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100542",
+    "text_pt": "Café preto quente e um croissant de chocolate.",
+    "text_en": "Hot black coffee, and a chocolate croissant.",
+    "audio_en_storage_path": "543_hot_black_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100543",
+    "text_pt": "Gostaria de algo mais?",
+    "text_en": "Would you like anything else?",
+    "audio_en_storage_path": "544_would_you_like_anything_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100544",
+    "text_pt": "Só água, obrigado.",
+    "text_en": "Just water, thanks.",
+    "audio_en_storage_path": "545_just_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100545",
+    "text_pt": "Talvez mais tarde eu pense sobre isso.",
+    "text_en": "Maybe later, I’ll think about it.",
+    "audio_en_storage_path": "546_maybe_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100546",
+    "text_pt": "Onde devo sentar?",
+    "text_en": "Where should I sit?",
+    "audio_en_storage_path": "547_where_should_i_sit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100547",
+    "text_pt": "Onde você quiser — a maioria dos assentos é gratuita.",
+    "text_en": "Anywhere you like — most seats are free.",
+    "audio_en_storage_path": "548_anywhere_you_like_most_seats_are_free.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

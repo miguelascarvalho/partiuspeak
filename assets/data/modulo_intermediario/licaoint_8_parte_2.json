@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110998",
+    "text_pt": "Carro",
+    "text_en": "Car",
+    "audio_en_storage_path": "998_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110999",
+    "text_pt": "O carro está na garagem agora.",
+    "text_en": "The car is in the garage right now.",
+    "audio_en_storage_path": "999_the_car_is_in_the_garage_right_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111000",
+    "text_pt": "Precisa de uma lavagem e um pouco de gasolina.",
+    "text_en": "It needs a wash and some gas.",
+    "audio_en_storage_path": "1000_it_needs_a_wash_and_some_gas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111001",
+    "text_pt": "Nós o usamos para visitar a família e fazer compras.",
+    "text_en": "We use it to visit family and go shopping.",
+    "audio_en_storage_path": "1001_we_use_it_to_visit_family_and_go_shopping.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111002",
+    "text_pt": "Ou quando estamos viajando para longe.",
+    "text_en": "Or when we're traveling far away.",
+    "audio_en_storage_path": "1002_or_when_were_traveling_far_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111003",
+    "text_pt": "É prateado, tem quatro portas e é confortável.",
+    "text_en": "It is silver. four doors. and comfortable.",
+    "audio_en_storage_path": "1003_it_is_silver_four_doors_and_comfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111004",
+    "text_pt": "Ele toca música suave enquanto dirigimos.",
+    "text_en": "It plays soft music when we drive.",
+    "audio_en_storage_path": "1004_it_plays_soft_music_when_we_drive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111005",
+    "text_pt": "Há mapas, óculos de sol e um kit de primeiros socorros dentro.",
+    "text_en": "There are maps. sunglasses. and a first aid kit inside.",
+    "audio_en_storage_path": "1005_there_are_maps_sunglasses_and_a_first_aid_kit_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111006",
+    "text_pt": "E às vezes copos vazios ao lado.",
+    "text_en": "And sometimes empty cups on the side.",
+    "audio_en_storage_path": "1006_and_sometimes_empty_cups_on_the_side.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111007",
+    "text_pt": "Quem dirige o carro a maior parte do tempo?",
+    "text_en": "Who drives the car most of the time?",
+    "audio_en_storage_path": "1007_who_drives_the_car_most_of_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111008",
+    "text_pt": "Meu pai — mas minha mãe também sabe como.",
+    "text_en": "My dad — but my mom also knows how.",
+    "audio_en_storage_path": "1008_my_dad_but_my_mom_also_knows_how.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111009",
+    "text_pt": "Às vezes meu irmão também pratica direção.",
+    "text_en": "Sometimes my brother practices driving too.",
+    "audio_en_storage_path": "1009_sometimes_my_brother_practices_driving_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111010",
+    "text_pt": "Com supervisão e paciência.",
+    "text_en": "With supervision and patience.",
+    "audio_en_storage_path": "1010_with_supervision_and_patience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111011",
+    "text_pt": "Outras vezes deixamos outra pessoa dirigir.",
+    "text_en": "Other times we let someone else drive.",
+    "audio_en_storage_path": "1011_other_times_we_let_someone_else_drive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111012",
+    "text_pt": "Se estamos cansados ​​ou de férias.",
+    "text_en": "If we're tired or on vacation.",
+    "audio_en_storage_path": "1012_if_were_tired_or_on_vacation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111013",
+    "text_pt": "Onde o carro está estacionado?",
+    "text_en": "Where is the car parked?",
+    "audio_en_storage_path": "1013_where_is_the_car_parked.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111014",
+    "text_pt": "Em frente à casa, perto da árvore.",
+    "text_en": "In front of the house. near the tree.",
+    "audio_en_storage_path": "1014_in_front_of_the_house_near_the_tree.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111015",
+    "text_pt": "Quando você vai dirigir amanhã?",
+    "text_en": "When will you drive tomorrow?",
+    "audio_en_storage_path": "1015_when_will_you_drive_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111016",
+    "text_pt": "De manhã cedo — antes do café da manhã.",
+    "text_en": "Early in the morning — before breakfast.",
+    "audio_en_storage_path": "1016_early_in_the_morning_before_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111017",
+    "text_pt": "Por que você consertou o motor semana passada?",
+    "text_en": "Why did you fix the engine last week?",
+    "audio_en_storage_path": "1017_why_did_you_fix_the_engine_last_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111018",
+    "text_pt": "Porque fazia barulhos estranhos enquanto dirigia.",
+    "text_en": "Because it made strange noises while driving.",
+    "audio_en_storage_path": "1018_because_it_made_strange_noises_while_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111019",
+    "text_pt": "Adoramos fazer viagens de carro juntos.",
+    "text_en": "We love taking road trips together.",
+    "audio_en_storage_path": "1019_we_love_taking_road_trips_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111020",
+    "text_pt": "Isso nos aproxima como família.",
+    "text_en": "It brings us closer as a family.",
+    "audio_en_storage_path": "1020_it_brings_us_closer_as_a_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111021",
+    "text_pt": "Na próxima semana, não esqueceremos de verificar os pneus.",
+    "text_en": "Next week. we will not forget to check the tires.",
+    "audio_en_storage_path": "1021_next_week_we_will_not_forget_to_check_the_tires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111022",
+    "text_pt": "A segurança vem em primeiro lugar — sempre.",
+    "text_en": "Safety comes first — always.",
+    "audio_en_storage_path": "1022_safety_comes_first_always.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111023",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "1023_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111024",
+    "text_pt": "Mantenha as duas mãos no volante e os olhos na estrada.",
+    "text_en": "Keep both hands on the wheel and eyes on the road.",
+    "audio_en_storage_path": "1024_keep_both_hands_on_the_wheel_and_eyes_on_the_road.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

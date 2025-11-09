@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101260",
+    "text_pt": "Como chegar ao shopping – Ônibus",
+    "text_en": "How to get to the mall – Bus",
+    "audio_en_storage_path": "360_how_to_get_to_the_mall_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101261",
+    "text_pt": "Pegue o ônibus no terminal central.",
+    "text_en": "Catch the bus at the central terminal.",
+    "audio_en_storage_path": "361_catch_the_bus_at_the_central_terminal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101262",
+    "text_pt": "A linha 15 vai diretamente para o shopping center.",
+    "text_en": "Line 15 goes directly to the shopping center.",
+    "audio_en_storage_path": "362_line_15_goes_directly_to_the_shopping_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101263",
+    "text_pt": "O passeio dura cerca de 30 minutos.",
+    "text_en": "The ride takes around 30 minutes.",
+    "audio_en_storage_path": "363_the_ride_takes_around_30_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101264",
+    "text_pt": "Passa por três bairros.",
+    "text_en": "Passes through three neighborhoods.",
+    "audio_en_storage_path": "364_passes_through_three_neighborhoods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101265",
+    "text_pt": "Desça no ponto com um banco branco e árvores.",
+    "text_en": "Get off at the stop with a white bench and trees.",
+    "audio_en_storage_path": "365_get_off_at_the_stop_with_a_white_bench_and_trees.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101266",
+    "text_pt": "É esse mesmo — fácil de reconhecer.",
+    "text_en": "That’s the one — easy to recognize.",
+    "audio_en_storage_path": "366_thats_the_one_easy_to_recognize.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101267",
+    "text_pt": "O motorista diz o nome ao chegar.",
+    "text_en": "The driver says the name when arriving.",
+    "audio_en_storage_path": "367_the_driver_says_the_name_when_arriving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101268",
+    "text_pt": "Basta ouvir com atenção e puxar a corda.",
+    "text_en": "Just listen carefully and pull the cord.",
+    "audio_en_storage_path": "368_just_listen_carefully_and_pull_the_cord.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101269",
+    "text_pt": "Qual ônibus devo pegar?",
+    "text_en": "Which bus should I take?",
+    "audio_en_storage_path": "369_which_bus_should_i_take.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101270",
+    "text_pt": "Linha 15 — para bem em frente.",
+    "text_en": "Line 15 — it stops right in front.",
+    "audio_en_storage_path": "370_line_15_it_stops_right_in_front.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101271",
+    "text_pt": "Onde posso comprar um bilhete?",
+    "text_en": "Where can I buy a ticket?",
+    "audio_en_storage_path": "371_where_can_i_buy_a_ticket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101272",
+    "text_pt": "No estande ou no aplicativo — ambos funcionam.",
+    "text_en": "At the booth or on the app — both work.",
+    "audio_en_storage_path": "372_at_the_booth_or_on_the_app_both_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101273",
+    "text_pt": "Às vezes sento-me perto da janela.",
+    "text_en": "Sometimes I sit near the window.",
+    "audio_en_storage_path": "373_sometimes_i_sit_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101274",
+    "text_pt": "Outras vezes. apenas fico parado e leio.",
+    "text_en": "Other times I just stand and read.",
+    "audio_en_storage_path": "374_other_times_i_just_stand_and_read.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101275",
+    "text_pt": "Onde faço baldeação de ônibus?",
+    "text_en": "Where do I transfer buses?",
+    "audio_en_storage_path": "375_where_do_i_transfer_buses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101276",
+    "text_pt": "Na segunda estação — procure a placa C2.",
+    "text_en": "At the second station — look for sign C2.",
+    "audio_en_storage_path": "376_at_the_second_station_look_for_sign_c2.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101277",
+    "text_pt": "Quando sai o primeiro ônibus?",
+    "text_en": "When does the first bus leave?",
+    "audio_en_storage_path": "377_when_does_the_first_bus_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101278",
+    "text_pt": "Às 6h30 da manhã — bem cedo.",
+    "text_en": "At 6:30 AM — very early.",
+    "audio_en_storage_path": "378_at_630_am_very_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101279",
+    "text_pt": "Por que você pegou o ônibus hoje?",
+    "text_en": "Why did you take the bus today?",
+    "audio_en_storage_path": "379_why_did_you_take_the_bus_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101280",
+    "text_pt": "Porque eu queria evitar o trânsito.",
+    "text_en": "Because I wanted to avoid traffic.",
+    "audio_en_storage_path": "380_because_i_wanted_to_avoid_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101281",
+    "text_pt": "Ele pega o ônibus todo fim de semana.",
+    "text_en": "He takes the bus every weekend.",
+    "audio_en_storage_path": "381_he_takes_the_bus_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101282",
+    "text_pt": "Conhece todos os motoristas e rotas de cor.",
+    "text_en": "Knows all drivers and routes by heart.",
+    "audio_en_storage_path": "382_knows_all_drivers_and_routes_by_heart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101283",
+    "text_pt": "Amanhã. Não vou esquecer de cobrar meu cartão novamente.",
+    "text_en": "Tomorrow. I will not forget to charge my card again.",
+    "audio_en_storage_path": "383_tomorrow_i_will_not_forget_to_charge_my_card_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101284",
+    "text_pt": "Tive que comprar um novo da última vez.",
+    "text_en": "Had to buy a new one last time.",
+    "audio_en_storage_path": "384_had_to_buy_a_new_one_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101285",
+    "text_pt": "Pedale com segurança!",
+    "text_en": "Ride safely!",
+    "audio_en_storage_path": "385_ride_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101286",
+    "text_pt": "Preste atenção na sua parada — não a perca.",
+    "text_en": "Listen for your stop — don’t miss it.",
+    "audio_en_storage_path": "386_listen_for_your_stop_dont_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

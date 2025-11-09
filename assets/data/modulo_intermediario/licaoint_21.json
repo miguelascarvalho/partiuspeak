@@ -1,0 +1,1802 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113419",
+    "text_pt": "Depois do jantar — depende do trânsito.",
+    "text_en": "After dinner — depends on traffic.",
+    "audio_en_storage_path": "3419_after_dinner_depends_on_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113420",
+    "text_pt": "Por que você deixou eles trazerem brinquedos?",
+    "text_en": "Why did you let them bring toys?",
+    "audio_en_storage_path": "3420_why_did_you_let_them_bring_toys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113421",
+    "text_pt": "Porque eu sabia que eles ficariam entediados.",
+    "text_en": "Because I knew they’d get bored.",
+    "audio_en_storage_path": "3421_because_i_knew_theyd_get_bored.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113422",
+    "text_pt": "As crianças adoram brincar na sala de estar.",
+    "text_en": "Kids love playing in the living room.",
+    "audio_en_storage_path": "3422_kids_love_playing_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113423",
+    "text_pt": "É grande e aberto para corrida.",
+    "text_en": "It's big and open for running.",
+    "audio_en_storage_path": "3423_its_big_and_open_for_running.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113424",
+    "text_pt": "Amanhã. Não vou esquecer de organizar o quarto novamente.",
+    "text_en": "Tomorrow. I will not forget to organize the room again.",
+    "audio_en_storage_path": "3424_tomorrow_i_will_not_forget_to_organize_the_room_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113425",
+    "text_pt": "Levei uma hora para limpar.",
+    "text_en": "Took me an hour to clean up.",
+    "audio_en_storage_path": "3425_took_me_an_hour_to_clean_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113426",
+    "text_pt": "Divirta-se!",
+    "text_en": "Have fun!",
+    "audio_en_storage_path": "3426_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113427",
+    "text_pt": "Mas tente manter as coisas organizadas.",
+    "text_en": "But try to keep things tidy.",
+    "audio_en_storage_path": "3427_but_try_to_keep_things_tidy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113428",
+    "text_pt": "Família – Festa de Ação de Graças",
+    "text_en": "Family – Thanksgiving Party",
+    "audio_en_storage_path": "3428_family_thanksgiving_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113429",
+    "text_pt": "Familiares chegam com comida e abraços.",
+    "text_en": "Family members arrive with food and hugs.",
+    "audio_en_storage_path": "3429_family_members_arrive_with_food_and_hugs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113430",
+    "text_pt": "A sala de estar se enche de vozes e risos.",
+    "text_en": "The living room fills with voices and laughter.",
+    "audio_en_storage_path": "3430_the_living_room_fills_with_voices_and_laughter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113431",
+    "text_pt": "Eles colocam cadeiras extras e decoram o espaço.",
+    "text_en": "They set up extra chairs and decorate the space.",
+    "audio_en_storage_path": "3431_they_set_up_extra_chairs_and_decorate_the_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113432",
+    "text_pt": "Há velas, flores e fotos.",
+    "text_en": "There are candles. flowers. and photos.",
+    "audio_en_storage_path": "3432_there_are_candles_flowers_and_photos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113433",
+    "text_pt": "O quarto cheira a peru e torta.",
+    "text_en": "The room smells like turkey and pie.",
+    "audio_en_storage_path": "3433_the_room_smells_like_turkey_and_pie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113434",
+    "text_pt": "Todos conversam e compartilham memórias.",
+    "text_en": "Everyone talks and shares memories.",
+    "audio_en_storage_path": "3434_everyone_talks_and_shares_memories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113435",
+    "text_pt": "Há pratos, guardanapos e uma placa de Ação de Graças na parede.",
+    "text_en": "There are plates. napkins. and a Thanksgiving sign on the wall.",
+    "audio_en_storage_path": "3435_there_are_plates_napkins_and_a_thanksgiving_sign_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113436",
+    "text_pt": "E copos de água para todos.",
+    "text_en": "And water glasses for everyone.",
+    "audio_en_storage_path": "3436_and_water_glasses_for_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113437",
+    "text_pt": "Quem vem para o Dia de Ação de Graças?",
+    "text_en": "Who is coming for Thanksgiving?",
+    "audio_en_storage_path": "3437_who_is_coming_for_thanksgiving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113438",
+    "text_pt": "Todos os tios, primos e vizinhos.",
+    "text_en": "All the uncles. cousins. and neighbors.",
+    "audio_en_storage_path": "3438_all_the_uncles_cousins_and_neighbors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113439",
+    "text_pt": "Onde fica a mesa principal?",
+    "text_en": "Where is the main table?",
+    "audio_en_storage_path": "3439_where_is_the_main_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113440",
+    "text_pt": "Na sala de estar — encostada na parede.",
+    "text_en": "In the living room — pushed against the wall.",
+    "audio_en_storage_path": "3440_in_the_living_room_pushed_against_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113441",
+    "text_pt": "Às vezes eles jogam depois do jantar.",
+    "text_en": "Sometimes they play games after dinner.",
+    "audio_en_storage_path": "3441_sometimes_they_play_games_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113442",
+    "text_pt": "Outras vezes eles apenas conversam e agradecem.",
+    "text_en": "Other times they just talk and give thanks.",
+    "audio_en_storage_path": "3442_other_times_they_just_talk_and_give_thanks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113443",
+    "text_pt": "Onde você colocou as cadeiras extras?",
+    "text_en": "Where did you put the extra chairs?",
+    "audio_en_storage_path": "3443_where_did_you_put_the_extra_chairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113444",
+    "text_pt": "No corredor — fácil de trazer para dentro.",
+    "text_en": "In the hallway — easy to bring in.",
+    "audio_en_storage_path": "3444_in_the_hallway_easy_to_bring_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113445",
+    "text_pt": "Quando o jantar vai começar?",
+    "text_en": "When will dinner start?",
+    "audio_en_storage_path": "3445_when_will_dinner_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113446",
+    "text_pt": "Em uma hora — depois de orações e agradecimentos.",
+    "text_en": "In an hour — after prayers and thanks.",
+    "audio_en_storage_path": "3446_in_an_hour_after_prayers_and_thanks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113447",
+    "text_pt": "Por que você limpou a sala de estar hoje?",
+    "text_en": "Why did you clean the living room today?",
+    "audio_en_storage_path": "3447_why_did_you_clean_the_living_room_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113448",
+    "text_pt": "Porque estamos organizando o jantar de feriado.",
+    "text_en": "Because we're hosting the holiday dinner.",
+    "audio_en_storage_path": "3448_because_were_hosting_the_holiday_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113449",
+    "text_pt": "Comemoramos o Dia de Ação de Graças na sala de estar todos os anos.",
+    "text_en": "We celebrate Thanksgiving in the living room every year.",
+    "audio_en_storage_path": "3449_we_celebrate_thanksgiving_in_the_living_room_every_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113450",
+    "text_pt": "Ela une todo mundo.",
+    "text_en": "It brings everyone together.",
+    "audio_en_storage_path": "3450_it_brings_everyone_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113451",
+    "text_pt": "Na próxima vez, não vou esquecer de acender as velas novamente.",
+    "text_en": "Next time. I will not forget to light the candles again.",
+    "audio_en_storage_path": "3451_next_time_i_will_not_forget_to_light_the_candles_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113452",
+    "text_pt": "Esqueci do ano passado — parecia simples.",
+    "text_en": "Forgot last year — it looked plain.",
+    "audio_en_storage_path": "3452_forgot_last_year_it_looked_plain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113453",
+    "text_pt": "Feliz Dia de Ação de Graças!",
+    "text_en": "Happy Thanksgiving!",
+    "audio_en_storage_path": "3453_happy_thanksgiving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113454",
+    "text_pt": "Vamos agradecer e aproveitar juntos.",
+    "text_en": "Let’s give thanks and enjoy together.",
+    "audio_en_storage_path": "3454_lets_give_thanks_and_enjoy_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113455",
+    "text_pt": "Amigos – Festa de Aniversário",
+    "text_en": "Friends – Birthday Party",
+    "audio_en_storage_path": "3455_friends_birthday_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113456",
+    "text_pt": "Os amigos chegam e abraçam a aniversariante.",
+    "text_en": "Friends arrive and hug the birthday girl.",
+    "audio_en_storage_path": "3456_friends_arrive_and_hug_the_birthday_girl.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113457",
+    "text_pt": "Balões flutuam e música toca.",
+    "text_en": "Balloons float and music plays.",
+    "audio_en_storage_path": "3457_balloons_float_and_music_plays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113458",
+    "text_pt": "Eles trazem presentes, lanches e boa energia.",
+    "text_en": "They bring gifts. snacks. and good energy.",
+    "audio_en_storage_path": "3458_they_bring_gifts_snacks_and_good_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113459",
+    "text_pt": "A casa parece festiva e acolhedora.",
+    "text_en": "The house feels festive and warm.",
+    "audio_en_storage_path": "3459_the_house_feels_festive_and_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113460",
+    "text_pt": "A sala de estar é decorada e aconchegante.",
+    "text_en": "The living room is decorated and cozy.",
+    "audio_en_storage_path": "3460_the_living_room_is_decorated_and_cozy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113461",
+    "text_pt": "Serpentinas penduradas e luzes cintilantes.",
+    "text_en": "Streamers hang and lights twinkle.",
+    "audio_en_storage_path": "3461_streamers_hang_and_lights_twinkle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113462",
+    "text_pt": "Há chapéus de festa, confetes e fatias de bolo na mesa.",
+    "text_en": "There are party hats. confetti. and cake slices on the table.",
+    "audio_en_storage_path": "3462_there_are_party_hats_confetti_and_cake_slices_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113463",
+    "text_pt": "E bebidas em copos coloridos.",
+    "text_en": "And drinks in colorful cups.",
+    "audio_en_storage_path": "3463_and_drinks_in_colorful_cups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113464",
+    "text_pt": "Quem está comemorando hoje?",
+    "text_en": "Who is celebrating today?",
+    "audio_en_storage_path": "3464_who_is_celebrating_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113465",
+    "text_pt": "Minha prima fez 16 anos hoje.",
+    "text_en": "My cousin — she turned 16 today.",
+    "audio_en_storage_path": "3465_my_cousin_she_turned_16_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113466",
+    "text_pt": "Onde está o aniversariante agora?",
+    "text_en": "Where is the birthday person now?",
+    "audio_en_storage_path": "3466_where_is_the_birthday_person_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113467",
+    "text_pt": "Cortando o bolo — todos aplaudem.",
+    "text_en": "Cutting the cake — everyone cheers.",
+    "audio_en_storage_path": "3467_cutting_the_cake_everyone_cheers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113468",
+    "text_pt": "Às vezes eles dançam e cantam.",
+    "text_en": "Sometimes they dance and sing.",
+    "audio_en_storage_path": "3468_sometimes_they_dance_and_sing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113469",
+    "text_pt": "Outras vezes eles tiram selfies e riem.",
+    "text_en": "Other times they take selfies and laugh.",
+    "audio_en_storage_path": "3469_other_times_they_take_selfies_and_laugh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113470",
+    "text_pt": "Onde você deixou os presentes?",
+    "text_en": "Where did you leave the gifts?",
+    "audio_en_storage_path": "3470_where_did_you_leave_the_gifts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113471",
+    "text_pt": "No aparador — embrulhado e pronto.",
+    "text_en": "On the sideboard — wrapped and ready.",
+    "audio_en_storage_path": "3471_on_the_sideboard_wrapped_and_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113472",
+    "text_pt": "Quando a festa vai acabar?",
+    "text_en": "When will the party end?",
+    "audio_en_storage_path": "3472_when_will_the_party_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113473",
+    "text_pt": "Por volta das 22h — depois do bolo e dos jogos.",
+    "text_en": "Around 10:00 PM — after cake and games.",
+    "audio_en_storage_path": "3473_around_1000_pm_after_cake_and_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113474",
+    "text_pt": "Por que você decorou a sala de estar hoje?",
+    "text_en": "Why did you decorate the living room today?",
+    "audio_en_storage_path": "3474_why_did_you_decorate_the_living_room_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113475",
+    "text_pt": "Porque é uma festa surpresa.",
+    "text_en": "Because it's a surprise party.",
+    "audio_en_storage_path": "3475_because_its_a_surprise_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113476",
+    "text_pt": "Nós sempre comemoramos aniversários em casa.",
+    "text_en": "We always celebrate birthdays at home.",
+    "audio_en_storage_path": "3476_we_always_celebrate_birthdays_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113477",
+    "text_pt": "Ela une todo mundo.",
+    "text_en": "It brings everyone together.",
+    "audio_en_storage_path": "3477_it_brings_everyone_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113478",
+    "text_pt": "Na próxima vez. Não vou esquecer de tirar fotos novamente.",
+    "text_en": "Next time. I will not forget to take photos again.",
+    "audio_en_storage_path": "3478_next_time_i_will_not_forget_to_take_photos_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113479",
+    "text_pt": "Nenhuma lembrança do ano passado.",
+    "text_en": "No memories from last year.",
+    "audio_en_storage_path": "3479_no_memories_from_last_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113480",
+    "text_pt": "Feliz aniversário!",
+    "text_en": "Happy Birthday!",
+    "audio_en_storage_path": "3480_happy_birthday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113481",
+    "text_pt": "Desejando a você um ótimo dia pela frente.",
+    "text_en": "Wishing you a great day ahead.",
+    "audio_en_storage_path": "3481_wishing_you_a_great_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113482",
+    "text_pt": "Família – Assistir novelas",
+    "text_en": "Family – Watching soap operas",
+    "audio_en_storage_path": "3482_family_watching_soap_operas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113483",
+    "text_pt": "A família se senta para assistir à novela.",
+    "text_en": "The family sits down to watch the soap opera.",
+    "audio_en_storage_path": "3483_the_family_sits_down_to_watch_the_soap_opera.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113484",
+    "text_pt": "Todo mundo fala durante os comerciais.",
+    "text_en": "Everyone talks during commercials.",
+    "audio_en_storage_path": "3484_everyone_talks_during_commercials.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113485",
+    "text_pt": "Eles assistem todo dia da semana às 19h.",
+    "text_en": "They watch it every weekday at 7 PM.",
+    "audio_en_storage_path": "3485_they_watch_it_every_weekday_at_7_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113486",
+    "text_pt": "Às vezes até o vovô participa.",
+    "text_en": "Even Grandpa joins sometimes.",
+    "audio_en_storage_path": "3486_even_grandpa_joins_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113487",
+    "text_pt": "A tela mostra cenas dramáticas e músicas românticas.",
+    "text_en": "The screen shows dramatic scenes and romantic songs.",
+    "audio_en_storage_path": "3487_the_screen_shows_dramatic_scenes_and_romantic_songs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113488",
+    "text_pt": "As pessoas choram e gritam com a TV.",
+    "text_en": "People cry and shout at the TV.",
+    "audio_en_storage_path": "3488_people_cry_and_shout_at_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113489",
+    "text_pt": "Há canecas, lenços de papel e ventiladores por perto.",
+    "text_en": "There are mugs. tissues. and fans nearby.",
+    "audio_en_storage_path": "3489_there_are_mugs_tissues_and_fans_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113490",
+    "text_pt": "E lanches para todo o grupo.",
+    "text_en": "And snacks for the whole group.",
+    "audio_en_storage_path": "3490_and_snacks_for_the_whole_group.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113491",
+    "text_pt": "Que programa você vai assistir hoje à noite?",
+    "text_en": "What show are you watching tonight?",
+    "audio_en_storage_path": "3491_what_show_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113492",
+    "text_pt": "Uma novela — muito popular e emocionante.",
+    "text_en": "A soap opera — very popular and emotional.",
+    "audio_en_storage_path": "3492_a_soap_opera_very_popular_and_emotional.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113493",
+    "text_pt": "Onde você deixou o controle remoto?",
+    "text_en": "Where did you leave the remote?",
+    "audio_en_storage_path": "3493_where_did_you_leave_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113494",
+    "text_pt": "No sofá — provavelmente debaixo de um travesseiro.",
+    "text_en": "On the couch — probably under a pillow.",
+    "audio_en_storage_path": "3494_on_the_couch_probably_under_a_pillow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113495",
+    "text_pt": "Às vezes eles assistem a reality shows.",
+    "text_en": "Sometimes they watch reality shows.",
+    "audio_en_storage_path": "3495_sometimes_they_watch_reality_shows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113496",
+    "text_pt": "Outras vezes preferem comédia.",
+    "text_en": "Other times they prefer comedy.",
+    "audio_en_storage_path": "3496_other_times_they_prefer_comedy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113497",
+    "text_pt": "Onde está a família agora?",
+    "text_en": "Where is the family now?",
+    "audio_en_storage_path": "3497_where_is_the_family_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113498",
+    "text_pt": "No sofá e no chão — todos juntos.",
+    "text_en": "On the couch and floor — all together.",
+    "audio_en_storage_path": "3498_on_the_couch_and_floor_all_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113499",
+    "text_pt": "Quando o próximo episódio vai ao ar?",
+    "text_en": "When will the next episode air?",
+    "audio_en_storage_path": "3499_when_will_the_next_episode_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113500",
+    "text_pt": "Amanhã — mesmo horário de sempre.",
+    "text_en": "Tomorrow — same time as always.",
+    "audio_en_storage_path": "3500_tomorrow_same_time_as_always.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113501",
+    "text_pt": "Por que você gravou o show hoje?",
+    "text_en": "Why did you record the show today?",
+    "audio_en_storage_path": "3501_why_did_you_record_the_show_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113502",
+    "text_pt": "Porque eu não queria perder.",
+    "text_en": "Because I didn't want to miss it.",
+    "audio_en_storage_path": "3502_because_i_didnt_want_to_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113503",
+    "text_pt": "Assistimos ao show juntos todas as noites.",
+    "text_en": "We watch the show together every evening.",
+    "audio_en_storage_path": "3503_we_watch_the_show_together_every_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113504",
+    "text_pt": "Faz parte da nossa rotina diária.",
+    "text_en": "It's part of our daily routine.",
+    "audio_en_storage_path": "3504_its_part_of_our_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113505",
+    "text_pt": "Amanhã não esqueceremos de encontrar o controle remoto novamente.",
+    "text_en": "Tomorrow. we will not forget to find the remote again.",
+    "audio_en_storage_path": "3505_tomorrow_we_will_not_forget_to_find_the_remote_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113506",
+    "text_pt": "Nós o perdemos ontem.",
+    "text_en": "We lost it yesterday.",
+    "audio_en_storage_path": "3506_we_lost_it_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113507",
+    "text_pt": "Não estrague!",
+    "text_en": "Don’t spoil it!",
+    "audio_en_storage_path": "3507_dont_spoil_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113508",
+    "text_pt": "Ainda não vi o final.",
+    "text_en": "I haven't seen the ending yet.",
+    "audio_en_storage_path": "3508_i_havent_seen_the_ending_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113509",
+    "text_pt": "Pai e Filho – Assistindo Futebol",
+    "text_en": "Father and Son – Watching Football",
+    "audio_en_storage_path": "3509_father_and_son_watching_football.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113510",
+    "text_pt": "Ele assiste futebol com o filho no sofá.",
+    "text_en": "He watches football with his son on the couch.",
+    "audio_en_storage_path": "3510_he_watches_football_with_his_son_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113511",
+    "text_pt": "Eles vestem camisas e torcem juntos.",
+    "text_en": "They wear jerseys and cheer together.",
+    "audio_en_storage_path": "3511_they_wear_jerseys_and_cheer_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113512",
+    "text_pt": "Eles comem batatas fritas e bebem refrigerante enquanto assistem.",
+    "text_en": "They eat chips and drink soda while watching.",
+    "audio_en_storage_path": "3512_they_eat_chips_and_drink_soda_while_watching.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113513",
+    "text_pt": "Eles pulam quando o time marca.",
+    "text_en": "They jump when the team scores.",
+    "audio_en_storage_path": "3513_they_jump_when_the_team_scores.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113514",
+    "text_pt": "A TV está alta e as luzes estão apagadas.",
+    "text_en": "The TV is loud and the lights are off.",
+    "audio_en_storage_path": "3514_the_tv_is_loud_and_the_lights_are_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113515",
+    "text_pt": "O jogo é intenso e emocionante.",
+    "text_en": "The game is intense and exciting.",
+    "audio_en_storage_path": "3515_the_game_is_intense_and_exciting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113516",
+    "text_pt": "Há bandeiras, rapazes e pratos vazios por perto.",
+    "text_en": "There are flags. chaps. and empty plates nearby.",
+    "audio_en_storage_path": "3516_there_are_flags_chaps_and_empty_plates_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113517",
+    "text_pt": "E uma bola que eles chutaram antes.",
+    "text_en": "And a ball they kicked around earlier.",
+    "audio_en_storage_path": "3517_and_a_ball_they_kicked_around_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113518",
+    "text_pt": "Para quem você está torcendo hoje à noite?",
+    "text_en": "Who are you rooting for tonight?",
+    "audio_en_storage_path": "3518_who_are_you_rooting_for_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113519",
+    "text_pt": "Brasil — é a final da Copa do Mundo.",
+    "text_en": "Brazil — it’s the World Cup final.",
+    "audio_en_storage_path": "3519_brazil_its_the_world_cup_final.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113520",
+    "text_pt": "Onde o jogo está sendo jogado?",
+    "text_en": "Where is the game being played?",
+    "audio_en_storage_path": "3520_where_is_the_game_being_played.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113521",
+    "text_pt": "Na Europa — ao vivo do estádio.",
+    "text_en": "In Europe — live from the stadium.",
+    "audio_en_storage_path": "3521_in_europe_live_from_the_stadium.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113522",
+    "text_pt": "Às vezes eles assistem a jogos da liga.",
+    "text_en": "Sometimes they watch league matches.",
+    "audio_en_storage_path": "3522_sometimes_they_watch_league_matches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113523",
+    "text_pt": "Outras vezes eles acompanham jogos amistosos.",
+    "text_en": "Other times they follow friendly games.",
+    "audio_en_storage_path": "3523_other_times_they_follow_friendly_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113524",
+    "text_pt": "Onde ele deixou o cachecol do time?",
+    "text_en": "Where did he leave the team scarf?",
+    "audio_en_storage_path": "3524_where_did_he_leave_the_team_scarf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113525",
+    "text_pt": "Na cadeira — ainda coberta de confete.",
+    "text_en": "On the chair — still covered in confetti.",
+    "audio_en_storage_path": "3525_on_the_chair_still_covered_in_confetti.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113526",
+    "text_pt": "Quando a partida começará?",
+    "text_en": "When will the match begin?",
+    "audio_en_storage_path": "3526_when_will_the_match_begin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113527",
+    "text_pt": "Em dez minutos — não se atrase.",
+    "text_en": "In ten minutes — don’t be late.",
+    "audio_en_storage_path": "3527_in_ten_minutes_dont_be_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113528",
+    "text_pt": "Por que ele convidou amigos hoje?",
+    "text_en": "Why did he invite friends over today?",
+    "audio_en_storage_path": "3528_why_did_he_invite_friends_over_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113529",
+    "text_pt": "Porque é um jogo grande — vale a pena compartilhar.",
+    "text_en": "Because it’s a big game — worth sharing.",
+    "audio_en_storage_path": "3529_because_its_a_big_game_worth_sharing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113530",
+    "text_pt": "Ele adora assistir futebol com o filho.",
+    "text_en": "He loves watching football with his son.",
+    "audio_en_storage_path": "3530_he_loves_watching_football_with_his_son.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113531",
+    "text_pt": "É a tradição deles.",
+    "text_en": "It’s their tradition.",
+    "audio_en_storage_path": "3531_its_their_tradition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113532",
+    "text_pt": "Amanhã ele não vai esquecer de limpar novamente.",
+    "text_en": "Tomorrow. he will not forget to clean up again.",
+    "audio_en_storage_path": "3532_tomorrow_he_will_not_forget_to_clean_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113533",
+    "text_pt": "Havia garrafas e embalagens por todo lugar.",
+    "text_en": "There were bottles and wrappers everywhere.",
+    "audio_en_storage_path": "3533_there_were_bottles_and_wrappers_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113534",
+    "text_pt": "Vai Brasil!",
+    "text_en": "Go Brazil!",
+    "audio_en_storage_path": "3534_go_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113535",
+    "text_pt": "Vamos fazer história esta noite.",
+    "text_en": "Let’s make history tonight.",
+    "audio_en_storage_path": "3535_lets_make_history_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113536",
+    "text_pt": "Filha e Mãe – Assistir filmes",
+    "text_en": "Daughter and Mother – Watching movies",
+    "audio_en_storage_path": "3536_daughter_and_mother_watching_movies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113537",
+    "text_pt": "Ela assiste filmes com a filha no sofá.",
+    "text_en": "She watches movies with her daughter on the couch.",
+    "audio_en_storage_path": "3537_she_watches_movies_with_her_daughter_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113538",
+    "text_pt": "Eles compartilham pipoca e riem juntos.",
+    "text_en": "They share popcorn and laugh together.",
+    "audio_en_storage_path": "3538_they_share_popcorn_and_laugh_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113539",
+    "text_pt": "Eles escolhem comédias românticas ou filmes de animação.",
+    "text_en": "They choose romantic comedies or animated films.",
+    "audio_en_storage_path": "3539_they_choose_romantic_comedies_or_animated_films.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113540",
+    "text_pt": "Depende do que ela escolher.",
+    "text_en": "It depends on what she chooses.",
+    "audio_en_storage_path": "3540_it_depends_on_what_she_chooses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113541",
+    "text_pt": "As luzes estão apagadas e o cobertor está quente.",
+    "text_en": "The lights are off and the blanket is warm.",
+    "audio_en_storage_path": "3541_the_lights_are_off_and_the_blanket_is_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113542",
+    "text_pt": "A tela brilha suavemente no escuro.",
+    "text_en": "The screen glows softly in the dark.",
+    "audio_en_storage_path": "3542_the_screen_glows_softly_in_the_dark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113543",
+    "text_pt": "Há lenços de papel e copos vazios por perto.",
+    "text_en": "There are tissue papers and empty cups nearby.",
+    "audio_en_storage_path": "3543_there_are_tissue_papers_and_empty_cups_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113544",
+    "text_pt": "E um telefone carregando em cima da mesa.",
+    "text_en": "And a phone charging on the table.",
+    "audio_en_storage_path": "3544_and_a_phone_charging_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113545",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "3545_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113546",
+    "text_pt": "Um clássico da Disney — ela já viu centenas de vezes.",
+    "text_en": "A Disney classic — she’s seen it a hundred times.",
+    "audio_en_storage_path": "3546_a_disney_classic_shes_seen_it_a_hundred_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113547",
+    "text_pt": "Onde está a tigela de pipoca agora?",
+    "text_en": "Where is the popcorn bowl now?",
+    "audio_en_storage_path": "3547_where_is_the_popcorn_bowl_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113548",
+    "text_pt": "Na mesa de centro — quase vazia.",
+    "text_en": "On the coffee table — almost empty.",
+    "audio_en_storage_path": "3548_on_the_coffee_table_almost_empty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113549",
+    "text_pt": "Às vezes eles assistem dramas.",
+    "text_en": "Sometimes they watch dramas.",
+    "audio_en_storage_path": "3549_sometimes_they_watch_dramas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113550",
+    "text_pt": "Outras vezes, eles escolhem aventuras de fantasia.",
+    "text_en": "Other times they choose fantasy adventures.",
+    "audio_en_storage_path": "3550_other_times_they_choose_fantasy_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113551",
+    "text_pt": "Onde ela deixou o suéter?",
+    "text_en": "Where did she leave her sweater?",
+    "audio_en_storage_path": "3551_where_did_she_leave_her_sweater.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113552",
+    "text_pt": "No apoio de braço — ela o tirou cedo.",
+    "text_en": "On the armrest — she took it off early.",
+    "audio_en_storage_path": "3552_on_the_armrest_she_took_it_off_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113553",
+    "text_pt": "Quando o filme vai terminar?",
+    "text_en": "When will the movie end?",
+    "audio_en_storage_path": "3553_when_will_the_movie_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113554",
+    "text_pt": "Em cerca de uma hora — em breve será hora de dormir.",
+    "text_en": "In about an hour — bedtime soon.",
+    "audio_en_storage_path": "3554_in_about_an_hour_bedtime_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113555",
+    "text_pt": "Por que ela escolheu esse filme hoje à noite?",
+    "text_en": "Why did she pick this movie tonight?",
+    "audio_en_storage_path": "3555_why_did_she_pick_this_movie_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113556",
+    "text_pt": "Porque isso lhe lembra da infância.",
+    "text_en": "Because it reminds her of her childhood.",
+    "audio_en_storage_path": "3556_because_it_reminds_her_of_her_childhood.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113557",
+    "text_pt": "Eles assistem a um filme juntos toda sexta-feira.",
+    "text_en": "They watch a movie together every Friday.",
+    "audio_en_storage_path": "3557_they_watch_a_movie_together_every_friday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113558",
+    "text_pt": "É o momento favorito deles da semana.",
+    "text_en": "It's their favorite moment of the week.",
+    "audio_en_storage_path": "3558_its_their_favorite_moment_of_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113559",
+    "text_pt": "Amanhã ela não vai esquecer de limpar novamente.",
+    "text_en": "Tomorrow. she will not forget to clean up again.",
+    "audio_en_storage_path": "3559_tomorrow_she_will_not_forget_to_clean_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113560",
+    "text_pt": "Havia migalhas no sofá da última vez.",
+    "text_en": "There were crumbs on the couch last time.",
+    "audio_en_storage_path": "3560_there_were_crumbs_on_the_couch_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113561",
+    "text_pt": "Noite de cinema!",
+    "text_en": "Movie night!",
+    "audio_en_storage_path": "3561_movie_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113562",
+    "text_pt": "Aproveitem o tempo juntos.",
+    "text_en": "Enjoy your time together.",
+    "audio_en_storage_path": "3562_enjoy_your_time_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113563",
+    "text_pt": "Tia e Sobrinha – Assistir novelas",
+    "text_en": "Aunt and Niece – Watching soap operas",
+    "audio_en_storage_path": "3563_aunt_and_niece_watching_soap_operas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113564",
+    "text_pt": "Ela senta-se com a sobrinha no sofá.",
+    "text_en": "She sits with her niece on the couch.",
+    "audio_en_storage_path": "3564_she_sits_with_her_niece_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113565",
+    "text_pt": "Assistindo uma novela e tomando chá.",
+    "text_en": "Watching a soap opera and drinking tea.",
+    "audio_en_storage_path": "3565_watching_a_soap_opera_and_drinking_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113566",
+    "text_pt": "Eles falam sobre os personagens e reviravoltas na trama.",
+    "text_en": "They talk about the characters and plot twists.",
+    "audio_en_storage_path": "3566_they_talk_about_the_characters_and_plot_twists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113567",
+    "text_pt": "Eles conhecem todos os atores pelo nome.",
+    "text_en": "They know all the actors by name.",
+    "audio_en_storage_path": "3567_they_know_all_the_actors_by_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113568",
+    "text_pt": "O quarto está silencioso e a TV está ligada.",
+    "text_en": "The room is quiet and the TV is on.",
+    "audio_en_storage_path": "3568_the_room_is_quiet_and_the_tv_is_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113569",
+    "text_pt": "Eles sussurram quando alguém chora.",
+    "text_en": "They whisper when someone cries.",
+    "audio_en_storage_path": "3569_they_whisper_when_someone_cries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113570",
+    "text_pt": "Há xícaras de chá, lenços de papel e um caderno por perto.",
+    "text_en": "There are teacups. tissues. and a notebook nearby.",
+    "audio_en_storage_path": "3570_there_are_teacups_tissues_and_a_notebook_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113571",
+    "text_pt": "Para notas e reações.",
+    "text_en": "For notes and reactions.",
+    "audio_en_storage_path": "3571_for_notes_and_reactions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113572",
+    "text_pt": "Que série você está assistindo com ela?",
+    "text_en": "What show are you watching with her?",
+    "audio_en_storage_path": "3572_what_show_are_you_watching_with_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113573",
+    "text_pt": "Uma telenovela latina — cheia de drama.",
+    "text_en": "A Latin telenovela — full of drama.",
+    "audio_en_storage_path": "3573_a_latin_telenovela_full_of_drama.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113574",
+    "text_pt": "Onde ela deixou sua xícara?",
+    "text_en": "Where did she leave her cup?",
+    "audio_en_storage_path": "3574_where_did_she_leave_her_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113575",
+    "text_pt": "Na mesa lateral — ao lado do saco de doces.",
+    "text_en": "On the side table — next to the candy bag.",
+    "audio_en_storage_path": "3575_on_the_side_table_next_to_the_candy_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113576",
+    "text_pt": "Às vezes eles assistem episódios antigos.",
+    "text_en": "Sometimes they watch old episodes.",
+    "audio_en_storage_path": "3576_sometimes_they_watch_old_episodes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113577",
+    "text_pt": "Outras vezes eles esperam por novos.",
+    "text_en": "Other times they wait for new ones.",
+    "audio_en_storage_path": "3577_other_times_they_wait_for_new_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113578",
+    "text_pt": "Onde estão as meninas agora?",
+    "text_en": "Where are the girls now?",
+    "audio_en_storage_path": "3578_where_are_the_girls_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113579",
+    "text_pt": "No sofá — chorando por causa da história.",
+    "text_en": "On the couch — crying over the story.",
+    "audio_en_storage_path": "3579_on_the_couch_crying_over_the_story.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113580",
+    "text_pt": "Quando será lançado o próximo episódio?",
+    "text_en": "When will the next episode come out?",
+    "audio_en_storage_path": "3580_when_will_the_next_episode_come_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113581",
+    "text_pt": "Amanhã — ela já sabe o que acontece.",
+    "text_en": "Tomorrow — she already knows what happens.",
+    "audio_en_storage_path": "3581_tomorrow_she_already_knows_what_happens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113582",
+    "text_pt": "Por que ela convidou a sobrinha hoje?",
+    "text_en": "Why did she invite her niece today?",
+    "audio_en_storage_path": "3582_why_did_she_invite_her_niece_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113583",
+    "text_pt": "Porque ambos amam o show.",
+    "text_en": "Because they both love the show.",
+    "audio_en_storage_path": "3583_because_they_both_love_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113584",
+    "text_pt": "Eles assistem ao mesmo programa todas as tardes.",
+    "text_en": "They watch the same show every afternoon.",
+    "audio_en_storage_path": "3584_they_watch_the_same_show_every_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113585",
+    "text_pt": "É o prazer culposo que eles compartilham.",
+    "text_en": "It's their shared guilty pleasure.",
+    "audio_en_storage_path": "3585_its_their_shared_guilty_pleasure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113586",
+    "text_pt": "Amanhã ela não vai esquecer de gravar o show novamente.",
+    "text_en": "Tomorrow. she will not forget to record the show again.",
+    "audio_en_storage_path": "3586_tomorrow_she_will_not_forget_to_record_the_show_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113587",
+    "text_pt": "Ela perdeu o episódio de ontem.",
+    "text_en": "She missed yesterday’s episode.",
+    "audio_en_storage_path": "3587_she_missed_yesterdays_episode.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113588",
+    "text_pt": "Shhh!",
+    "text_en": "Shhh!",
+    "audio_en_storage_path": "3588_shhh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113589",
+    "text_pt": "Ela está prestes a confessar seu amor.",
+    "text_en": "She's about to confess her love.",
+    "audio_en_storage_path": "3589_shes_about_to_confess_her_love.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113590",
+    "text_pt": "Família – Torça para o time ser campeão",
+    "text_en": "Family – Cheer for the team to be champion",
+    "audio_en_storage_path": "3590_family_cheer_for_the_team_to_be_champion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113591",
+    "text_pt": "A família inteira está na sala de estar.",
+    "text_en": "The whole family is in the living room.",
+    "audio_en_storage_path": "3591_the_whole_family_is_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113592",
+    "text_pt": "A partida final está prestes a começar.",
+    "text_en": "The final match is about to start.",
+    "audio_en_storage_path": "3592_the_final_match_is_about_to_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113593",
+    "text_pt": "Eles vestem camisas de time e agitam bandeiras.",
+    "text_en": "They wear team shirts and wave flags.",
+    "audio_en_storage_path": "3593_they_wear_team_shirts_and_wave_flags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113594",
+    "text_pt": "Eles cantam e comemoram juntos.",
+    "text_en": "They chant and cheer together.",
+    "audio_en_storage_path": "3594_they_chant_and_cheer_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113595",
+    "text_pt": "A sala está cheia de entusiasmo e esperança.",
+    "text_en": "The room is full of excitement and hope.",
+    "audio_en_storage_path": "3595_the_room_is_full_of_excitement_and_hope.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113596",
+    "text_pt": "Todo mundo quer ganhar o troféu.",
+    "text_en": "Everyone wants to win the trophy.",
+    "audio_en_storage_path": "3596_everyone_wants_to_win_the_trophy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113597",
+    "text_pt": "Há tambores, salgadinhos e amuletos da sorte na mesa.",
+    "text_en": "There are drums. snacks. and lucky charms on the table.",
+    "audio_en_storage_path": "3597_there_are_drums_snacks_and_lucky_charms_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113598",
+    "text_pt": "E bebidas para toda a tripulação.",
+    "text_en": "And drinks for the whole crew.",
+    "audio_en_storage_path": "3598_and_drinks_for_the_whole_crew.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113599",
+    "text_pt": "Para quem você está torcendo hoje à noite?",
+    "text_en": "Who are you rooting for tonight?",
+    "audio_en_storage_path": "3599_who_are_you_rooting_for_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113600",
+    "text_pt": "Nossa equipe — esperamos o ano todo por isso.",
+    "text_en": "Our team — we've waited all year for this.",
+    "audio_en_storage_path": "3600_our_team_weve_waited_all_year_for_this.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113601",
+    "text_pt": "Onde o jogo está sendo exibido?",
+    "text_en": "Where is the game being shown?",
+    "audio_en_storage_path": "3601_where_is_the_game_being_shown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113602",
+    "text_pt": "Na TV grande — a melhor visualização possível.",
+    "text_en": "On the big TV — best view possible.",
+    "audio_en_storage_path": "3602_on_the_big_tv_best_view_possible.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113603",
+    "text_pt": "Às vezes eles assistem juntos.",
+    "text_en": "Sometimes they watch together.",
+    "audio_en_storage_path": "3603_sometimes_they_watch_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113604",
+    "text_pt": "Outras vezes eles discutem sobre o time.",
+    "text_en": "Other times they argue over the team.",
+    "audio_en_storage_path": "3604_other_times_they_argue_over_the_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113605",
+    "text_pt": "Onde você colocou a tampa do ventilador?",
+    "text_en": "Where did you put the fan cap?",
+    "audio_en_storage_path": "3605_where_did_you_put_the_fan_cap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113606",
+    "text_pt": "No sofá — pronto para comemorar.",
+    "text_en": "On the couch — ready for celebration.",
+    "audio_en_storage_path": "3606_on_the_couch_ready_for_celebration.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113607",
+    "text_pt": "Quando o jogo começará?",
+    "text_en": "When will the game begin?",
+    "audio_en_storage_path": "3607_when_will_the_game_begin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113608",
+    "text_pt": "Em dez minutos — não perca o pontapé inicial.",
+    "text_en": "In ten minutes — don’t miss the kickoff.",
+    "audio_en_storage_path": "3608_in_ten_minutes_dont_miss_the_kickoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113609",
+    "text_pt": "Por que você cozinhou lanches extras hoje?",
+    "text_en": "Why did you cook extra snacks today?",
+    "audio_en_storage_path": "3609_why_did_you_cook_extra_snacks_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113610",
+    "text_pt": "Porque vamos ficar acordados até o final.",
+    "text_en": "Because we're staying up until the end.",
+    "audio_en_storage_path": "3610_because_were_staying_up_until_the_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113611",
+    "text_pt": "Nós todos assistimos ao jogo juntos.",
+    "text_en": "We all watch the game together.",
+    "audio_en_storage_path": "3611_we_all_watch_the_game_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113612",
+    "text_pt": "Ganhe ou perca — nós apoiamos uns aos outros.",
+    "text_en": "Win or lose — we support each other.",
+    "audio_en_storage_path": "3612_win_or_lose_we_support_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113613",
+    "text_pt": "Amanhã não esqueceremos de limpar novamente.",
+    "text_en": "Tomorrow. we will not forget to clean up again.",
+    "audio_en_storage_path": "3613_tomorrow_we_will_not_forget_to_clean_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113614",
+    "text_pt": "Confete e garrafas por todo lado.",
+    "text_en": "Confetti and bottles everywhere.",
+    "audio_en_storage_path": "3614_confetti_and_bottles_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113615",
+    "text_pt": "Vamos vencer!",
+    "text_en": "Let’s win it!",
+    "audio_en_storage_path": "3615_lets_win_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113616",
+    "text_pt": "Mais um gol — força, time!",
+    "text_en": "One more goal — go team!",
+    "audio_en_storage_path": "3616_one_more_goal_go_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113617",
+    "text_pt": "Mãe – Assistir TV à tarde",
+    "text_en": "Mom – Watch TV in the afternoon",
+    "audio_en_storage_path": "3617_mom_watch_tv_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113618",
+    "text_pt": "Ela está sentada no sofá assistindo TV.",
+    "text_en": "She is sitting on the couch watching TV.",
+    "audio_en_storage_path": "3618_she_is_sitting_on_the_couch_watching_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

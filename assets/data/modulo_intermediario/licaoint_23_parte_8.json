@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114103",
+    "text_pt": "Portão (Porta de Garagem / Portão)",
+    "text_en": "Gate (Garage Door / Gate)",
+    "audio_en_storage_path": "4103_gate_garage_door_gate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114104",
+    "text_pt": "A porta da garagem está fechada agora.",
+    "text_en": "The garage door is closed now.",
+    "audio_en_storage_path": "4104_the_garage_door_is_closed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114105",
+    "text_pt": "Ele se move para cima e para baixo com um som alto.",
+    "text_en": "It moves up and down with a loud sound.",
+    "audio_en_storage_path": "4105_it_moves_up_and_down_with_a_loud_sound.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114106",
+    "text_pt": "Eu abro para estacionar o carro ou deixar amigos entrarem.",
+    "text_en": "I open it to park the car or let friends in.",
+    "audio_en_storage_path": "4106_i_open_it_to_park_the_car_or_let_friends_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114107",
+    "text_pt": "Às vezes ele fica preso — precisa de óleo.",
+    "text_en": "Sometimes it gets stuck — needs oil.",
+    "audio_en_storage_path": "4107_sometimes_it_gets_stuck_needs_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114108",
+    "text_pt": "É branco e feito de painéis de metal.",
+    "text_en": "It is white and made of metal panels.",
+    "audio_en_storage_path": "4108_it_is_white_and_made_of_metal_panels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114109",
+    "text_pt": "Às vezes, o controle remoto é perdido.",
+    "text_en": "The remote is sometimes lost.",
+    "audio_en_storage_path": "4109_the_remote_is_sometimes_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114110",
+    "text_pt": "Há fios, botões e um teclado por perto.",
+    "text_en": "There are wires. buttons. and a keypad nearby.",
+    "audio_en_storage_path": "4110_there_are_wires_buttons_and_a_keypad_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114111",
+    "text_pt": "Pronto para controle e reparo.",
+    "text_en": "Ready for control and repair.",
+    "audio_en_storage_path": "4111_ready_for_control_and_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114112",
+    "text_pt": "O portão abre automaticamente?",
+    "text_en": "Does the gate open automatically?",
+    "audio_en_storage_path": "4112_does_the_gate_open_automatically.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114113",
+    "text_pt": "Sim — com um controle remoto ou aplicativo de telefone.",
+    "text_en": "Yes — with a remote or phone app.",
+    "audio_en_storage_path": "4113_yes_with_a_remote_or_phone_app.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114114",
+    "text_pt": "Onde está o botão para abri-lo?",
+    "text_en": "Where is the button to open it?",
+    "audio_en_storage_path": "4114_where_is_the_button_to_open_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114115",
+    "text_pt": "Dentro do carro — e na parede.",
+    "text_en": "Inside the car — and on the wall.",
+    "audio_en_storage_path": "4115_inside_the_car_and_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114116",
+    "text_pt": "Às vezes abre lentamente.",
+    "text_en": "Sometimes it opens slowly.",
+    "audio_en_storage_path": "4116_sometimes_it_opens_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114117",
+    "text_pt": "Outras vezes ele salta rapidamente.",
+    "text_en": "Other times it jumps quickly.",
+    "audio_en_storage_path": "4117_other_times_it_jumps_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114118",
+    "text_pt": "Onde você deixou o controle remoto?",
+    "text_en": "Where did you leave the remote?",
+    "audio_en_storage_path": "4118_where_did_you_leave_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114119",
+    "text_pt": "No porta-luvas — de novo.",
+    "text_en": "In the glove compartment — again.",
+    "audio_en_storage_path": "4119_in_the_glove_compartment_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114120",
+    "text_pt": "Quando você vai consertar o portão novamente?",
+    "text_en": "When will you fix the gate again?",
+    "audio_en_storage_path": "4120_when_will_you_fix_the_gate_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114121",
+    "text_pt": "Semana que vem — quando a oficina ligar.",
+    "text_en": "Next week — when the repair shop calls.",
+    "audio_en_storage_path": "4121_next_week_when_the_repair_shop_calls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114122",
+    "text_pt": "Por que você chamou o técnico hoje?",
+    "text_en": "Why did you call the technician today?",
+    "audio_en_storage_path": "4122_why_did_you_call_the_technician_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114123",
+    "text_pt": "Porque o portão não fechava.",
+    "text_en": "Because the gate wouldn't close.",
+    "audio_en_storage_path": "4123_because_the_gate_wouldnt_close.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114124",
+    "text_pt": "Ele verifica o portão todas as manhãs.",
+    "text_en": "He checks the gate every morning.",
+    "audio_en_storage_path": "4124_he_checks_the_gate_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114125",
+    "text_pt": "Só para ter certeza de que funciona.",
+    "text_en": "Just to make sure it works.",
+    "audio_en_storage_path": "4125_just_to_make_sure_it_works.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114126",
+    "text_pt": "Amanhã. Não esquecerei de testar os sensores novamente.",
+    "text_en": "Tomorrow. I will not forget to test the sensors again.",
+    "audio_en_storage_path": "4126_tomorrow_i_will_not_forget_to_test_the_sensors_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114127",
+    "text_pt": "Quase bati no carro da última vez.",
+    "text_en": "Almost hit the car last time.",
+    "audio_en_storage_path": "4127_almost_hit_the_car_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114128",
+    "text_pt": "Abra com cuidado!",
+    "text_en": "Open carefully!",
+    "audio_en_storage_path": "4128_open_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114129",
+    "text_pt": "Certifique-se de que nada bloqueie o caminho.",
+    "text_en": "Make sure nothing blocks the way.",
+    "audio_en_storage_path": "4129_make_sure_nothing_blocks_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

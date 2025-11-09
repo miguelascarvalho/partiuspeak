@@ -1,0 +1,254 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110001",
+    "text_pt": "Segunda-feira – Início da Semana",
+    "text_en": "Monday – Beginning of the Week",
+    "audio_en_storage_path": "001_monday_beginning_of_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110002",
+    "text_pt": "Foco: Acordar cedo. Rotina de trabalho. Organização.",
+    "text_en": "Focus: Wake up early. Work routine. Organization",
+    "audio_en_storage_path": "002_focus_wake_up_early_work_routine_organization.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110003",
+    "text_pt": "Eu acordo às 6h30.",
+    "text_en": "I wake up at 6:30 AM.",
+    "audio_en_storage_path": "003_i_wake_up_at_630_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110004",
+    "text_pt": "Começo a semana com energia.",
+    "text_en": "I start the week with energy.",
+    "audio_en_storage_path": "004_i_start_the_week_with_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110005",
+    "text_pt": "Escovo os dentes e tomo um banho.",
+    "text_en": "I brush my teeth and take a shower.",
+    "audio_en_storage_path": "005_i_brush_my_teeth_and_take_a_shower.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110006",
+    "text_pt": "Depois tomei café da manhã — torrada e café.",
+    "text_en": "Then I ate breakfast — toast and coffee.",
+    "audio_en_storage_path": "006_then_i_ate_breakfast_toast_and_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110007",
+    "text_pt": "Saio de casa às 7:30.",
+    "text_en": "I leave home at 7:30.",
+    "audio_en_storage_path": "007_i_leave_home_at_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110008",
+    "text_pt": "Eu vou para o trabalho de ônibus ou carro.",
+    "text_en": "I go to work by bus or car.",
+    "audio_en_storage_path": "008_i_go_to_work_by_bus_or_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110009",
+    "text_pt": "No trabalho. Verifico e-mails e organizo tarefas.",
+    "text_en": "At work. I check emails and organize tasks.",
+    "audio_en_storage_path": "009_at_work_i_check_emails_and_organize_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110010",
+    "text_pt": "Minha mesa está limpa e pronta para o dia.",
+    "text_en": "My desk is clean and ready for the day.",
+    "audio_en_storage_path": "010_my_desk_is_clean_and_ready_for_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110011",
+    "text_pt": "Eu almoço ao meio-dia.",
+    "text_en": "I have lunch at noon.",
+    "audio_en_storage_path": "011_i_have_lunch_at_noon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110012",
+    "text_pt": "Às vezes trago comida de casa.",
+    "text_en": "Sometimes I bring food from home.",
+    "audio_en_storage_path": "012_sometimes_i_bring_food_from_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110013",
+    "text_pt": "À tarde, trabalho em relatórios ou reuniões.",
+    "text_en": "In the afternoon. I work on reports or meetings.",
+    "audio_en_storage_path": "013_in_the_afternoon_i_work_on_reports_or_meetings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110014",
+    "text_pt": "Também atendo chamadas telefônicas.",
+    "text_en": "I also answer phone calls.",
+    "audio_en_storage_path": "014_i_also_answer_phone_calls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110015",
+    "text_pt": "A que horas você termina o trabalho?",
+    "text_en": "What time do you finish work?",
+    "audio_en_storage_path": "015_what_time_do_you_finish_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110016",
+    "text_pt": "Às 17:00 todos os dias da semana.",
+    "text_en": "At 5:00 PM every weekday.",
+    "audio_en_storage_path": "016_at_500_pm_every_weekday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110017",
+    "text_pt": "Onde você trabalha?",
+    "text_en": "Where do you work?",
+    "audio_en_storage_path": "017_where_do_you_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110018",
+    "text_pt": "Eu trabalho em um escritório no centro da cidade.",
+    "text_en": "I work in an office downtown.",
+    "audio_en_storage_path": "018_i_work_in_an_office_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110019",
+    "text_pt": "Quando você descansa?",
+    "text_en": "When do you rest?",
+    "audio_en_storage_path": "019_when_do_you_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110020",
+    "text_pt": "Nos fins de semana e feriados.",
+    "text_en": "On weekends and holidays.",
+    "audio_en_storage_path": "020_on_weekends_and_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110021",
+    "text_pt": "Por que você acordou cedo hoje?",
+    "text_en": "Why did you get up early today?",
+    "audio_en_storage_path": "021_why_did_you_get_up_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110022",
+    "text_pt": "Porque tenho uma reunião importante.",
+    "text_en": "Because I have an important meeting.",
+    "audio_en_storage_path": "022_because_i_have_an_important_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110023",
+    "text_pt": "Eu trabalho cinco dias por semana.",
+    "text_en": "I work five days a week.",
+    "audio_en_storage_path": "023_i_work_five_days_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110024",
+    "text_pt": "Hoje é o primeiro.",
+    "text_en": "Today is the first one.",
+    "audio_en_storage_path": "024_today_is_the_first_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110025",
+    "text_pt": "Amanhã. Não esquecerei meus documentos.",
+    "text_en": "Tomorrow. I will not forget my documents.",
+    "audio_en_storage_path": "025_tomorrow_i_will_not_forget_my_documents.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110026",
+    "text_pt": "Vou preparar tudo esta noite.",
+    "text_en": "I will prepare everything tonight.",
+    "audio_en_storage_path": "026_i_will_prepare_everything_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110027",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "027_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110028",
+    "text_pt": "Tenha um ótimo dia de trabalho!",
+    "text_en": "Have a great day at work!",
+    "audio_en_storage_path": "028_have_a_great_day_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

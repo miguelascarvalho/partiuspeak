@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113104",
+    "text_pt": "Irmãos – Jogando jogos de tabuleiro",
+    "text_en": "Brothers – Playing board games",
+    "audio_en_storage_path": "3104_brothers_playing_board_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113105",
+    "text_pt": "Eles estão sentados juntos no chão.",
+    "text_en": "They are sitting on the floor together.",
+    "audio_en_storage_path": "3105_they_are_sitting_on_the_floor_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113106",
+    "text_pt": "Jogando Banco Imobiliário e discutindo sobre regras.",
+    "text_en": "Playing Monopoly and arguing about rules.",
+    "audio_en_storage_path": "3106_playing_monopoly_and_arguing_about_rules.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113107",
+    "text_pt": "Eles rolam dados, movem peças e riem.",
+    "text_en": "They roll dice. move pieces. and laugh.",
+    "audio_en_storage_path": "3107_they_roll_dice_move_pieces_and_laugh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113108",
+    "text_pt": "Às vezes eles jogam cartas ou Jenga.",
+    "text_en": "Sometimes they play cards or Jenga.",
+    "audio_en_storage_path": "3108_sometimes_they_play_cards_or_jenga.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113109",
+    "text_pt": "A mesa tem caixas coloridas e tabuleiros de jogos.",
+    "text_en": "The table has colorful boxes and game boards.",
+    "audio_en_storage_path": "3109_the_table_has_colorful_boxes_and_game_boards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113110",
+    "text_pt": "Os pedaços estão espalhados e os lanches estão por perto.",
+    "text_en": "Pieces are scattered and snacks are nearby.",
+    "audio_en_storage_path": "3110_pieces_are_scattered_and_snacks_are_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113111",
+    "text_pt": "Há dados, fichas e livros de regras no chão.",
+    "text_en": "There are dice. tokens. and rulebooks on the floor.",
+    "audio_en_storage_path": "3111_there_are_dice_tokens_and_rulebooks_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113112",
+    "text_pt": "E copos de suco que podem derramar.",
+    "text_en": "And juice cups that might spill.",
+    "audio_en_storage_path": "3112_and_juice_cups_that_might_spill.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113113",
+    "text_pt": "Que jogo você está jogando agora?",
+    "text_en": "What game are you playing now?",
+    "audio_en_storage_path": "3113_what_game_are_you_playing_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113114",
+    "text_pt": "Uno — é rápido e divertido para todos.",
+    "text_en": "Uno — it’s fast and fun for everyone.",
+    "audio_en_storage_path": "3114_uno_its_fast_and_fun_for_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113115",
+    "text_pt": "Onde você deixou a caixa do jogo?",
+    "text_en": "Where did you leave the game box?",
+    "audio_en_storage_path": "3115_where_did_you_leave_the_game_box.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113116",
+    "text_pt": "Debaixo da mesa de centro — ao lado das almofadas.",
+    "text_en": "Under the coffee table — next to the pillows.",
+    "audio_en_storage_path": "3116_under_the_coffee_table_next_to_the_pillows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113117",
+    "text_pt": "Às vezes eles jogam Scrabble.",
+    "text_en": "Sometimes they play Scrabble.",
+    "audio_en_storage_path": "3117_sometimes_they_play_scrabble.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113118",
+    "text_pt": "Outras vezes, eles escolhem jogos de tabuleiro com cartas.",
+    "text_en": "Other times they choose board games with cards.",
+    "audio_en_storage_path": "3118_other_times_they_choose_board_games_with_cards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113119",
+    "text_pt": "Onde estão as crianças agora?",
+    "text_en": "Where are the kids now?",
+    "audio_en_storage_path": "3119_where_are_the_kids_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113120",
+    "text_pt": "Na sala de estar — rindo e conversando.",
+    "text_en": "In the living room — laughing and talking.",
+    "audio_en_storage_path": "3120_in_the_living_room_laughing_and_talking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113121",
+    "text_pt": "Quando você vai terminar o jogo?",
+    "text_en": "When will you finish the game?",
+    "audio_en_storage_path": "3121_when_will_you_finish_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113122",
+    "text_pt": "Talvez em uma hora — depende de quem vencer.",
+    "text_en": "Maybe in an hour — depends on who wins.",
+    "audio_en_storage_path": "3122_maybe_in_an_hour_depends_on_who_wins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113123",
+    "text_pt": "Por que você lançou os jogos hoje?",
+    "text_en": "Why did you bring the games out today?",
+    "audio_en_storage_path": "3123_why_did_you_bring_the_games_out_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113124",
+    "text_pt": "Porque está chovendo e estamos presos dentro de casa.",
+    "text_en": "Because it's raining and we're stuck inside.",
+    "audio_en_storage_path": "3124_because_its_raining_and_were_stuck_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113125",
+    "text_pt": "Jogamos todos os dias chuvosos.",
+    "text_en": "We play games every rainy day.",
+    "audio_en_storage_path": "3125_we_play_games_every_rainy_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113126",
+    "text_pt": "Ela nos mantém entretidos e conectados.",
+    "text_en": "It keeps us entertained and connected.",
+    "audio_en_storage_path": "3126_it_keeps_us_entertained_and_connected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113127",
+    "text_pt": "Amanhã. Não vou perder os pedaços novamente.",
+    "text_en": "Tomorrow. I will not lose the pieces again.",
+    "audio_en_storage_path": "3127_tomorrow_i_will_not_lose_the_pieces_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113128",
+    "text_pt": "Vou guardá-los com cuidado depois.",
+    "text_en": "I’ll store them carefully afterwards.",
+    "audio_en_storage_path": "3128_ill_store_them_carefully_afterwards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113129",
+    "text_pt": "Noite de jogos!",
+    "text_en": "Game night!",
+    "audio_en_storage_path": "3129_game_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113130",
+    "text_pt": "Que vença o melhor jogador!",
+    "text_en": "May the best player win!",
+    "audio_en_storage_path": "3130_may_the_best_player_win.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

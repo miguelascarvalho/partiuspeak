@@ -1,0 +1,317 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103869",
+    "text_pt": "Bebida e cultura brasileira:",
+    "text_en": "Drink and Brazilian culture:",
+    "audio_en_storage_path": "2969_drink_and_brazilian_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103870",
+    "text_pt": "Quer saber um segredo local?",
+    "text_en": "Want to know a local secret?",
+    "audio_en_storage_path": "2970_want_to_know_a_local_secret.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103871",
+    "text_pt": "Sempre — me diga!",
+    "text_en": "Always — tell me!",
+    "audio_en_storage_path": "2971_always_tell_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103872",
+    "text_pt": "Experimente uma caipirinha com cachaça.",
+    "text_en": "Try a caipirinha with cachaça.",
+    "audio_en_storage_path": "2972_try_a_caipirinha_with_cachaca.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103873",
+    "text_pt": "Vi alguém bebendo — parecia divertido.",
+    "text_en": "I saw someone drinking it — looked fun.",
+    "audio_en_storage_path": "2973_i_saw_someone_drinking_it_looked_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103874",
+    "text_pt": "Ou experimente cerveja com limão — combinação típica.",
+    "text_en": "Or try beer with lime — typical combo.",
+    "audio_en_storage_path": "2974_or_try_beer_with_lime_typical_combo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103875",
+    "text_pt": "Parece bom — vou começar pela cerveja.",
+    "text_en": "Sounds good — I’ll start with the beer.",
+    "audio_en_storage_path": "2975_sounds_good_ill_start_with_the_beer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103876",
+    "text_pt": "Perfeito! Depois podemos ir a uma churrascaria.",
+    "text_en": "Perfect! Later we can go to a steakhouse.",
+    "audio_en_storage_path": "2976_perfect_later_we_can_go_to_a_steakhouse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103877",
+    "text_pt": "Aquele é o lugar da carne grelhada. certo?",
+    "text_en": "That’s the grilled meat place. right?",
+    "audio_en_storage_path": "2977_thats_the_grilled_meat_place_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103878",
+    "text_pt": "Exatamente — carne e salada ilimitadas.",
+    "text_en": "Exactly — unlimited meat and salad bar.",
+    "audio_en_storage_path": "2978_exactly_unlimited_meat_and_salad_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103879",
+    "text_pt": "Já estou com fome — vamos hoje à noite!",
+    "text_en": "I’m already hungry — let’s go tonight!",
+    "audio_en_storage_path": "2979_im_already_hungry_lets_go_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103880",
+    "text_pt": "Você gosta de praia?",
+    "text_en": "Do you like the beach?",
+    "audio_en_storage_path": "2980_do_you_like_the_beach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103881",
+    "text_pt": "Boa tarde! Você já foi à praia?",
+    "text_en": "Good afternoon! Have you been to the beach yet?",
+    "audio_en_storage_path": "2981_good_afternoon_have_you_been_to_the_beach_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103882",
+    "text_pt": "Sim — Santos no último fim de semana. Adorei!",
+    "text_en": "Yes — Santos last weekend. Loved it!",
+    "audio_en_storage_path": "2982_yes_santos_last_weekend_loved_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103883",
+    "text_pt": "Ótimo! Você deveria ir para o Guarujá também — ondas ótimas para surfar.",
+    "text_en": "Great! You should go to Guarujá too — nice waves for surfing.",
+    "audio_en_storage_path": "2983_great_you_should_go_to_guaruja_too_nice_waves_for_surfing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103884",
+    "text_pt": "Ouvi falar disso — fica longe daqui?",
+    "text_en": "I heard about that — is it far from here?",
+    "audio_en_storage_path": "2984_i_heard_about_that_is_it_far_from_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103885",
+    "text_pt": "Cerca de 1 hora de ônibus — viagem fácil.",
+    "text_en": "About 1 hour by bus — easy trip.",
+    "audio_en_storage_path": "2985_about_1_hour_by_bus_easy_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103886",
+    "text_pt": "Perfeito — vou na semana que vem. Valeu!",
+    "text_en": "Perfect — I’ll go next week. Thanks!",
+    "audio_en_storage_path": "2986_perfect_ill_go_next_week_thanks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103887",
+    "text_pt": "Pedindo ajuda com roupas",
+    "text_en": "Asking for help with clothes",
+    "audio_en_storage_path": "2987_asking_for_help_with_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103888",
+    "text_pt": "Olá! Posso perguntar uma coisa?",
+    "text_en": "Hello! Can I ask something?",
+    "audio_en_storage_path": "2988_hello_can_i_ask_something.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103889",
+    "text_pt": "Claro. e aí?",
+    "text_en": "Sure. what’s up?",
+    "audio_en_storage_path": "2989_sure_whats_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103890",
+    "text_pt": "O que você acha desta camisa?",
+    "text_en": "What do you think of this shirt?",
+    "audio_en_storage_path": "2990_what_do_you_think_of_this_shirt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103891",
+    "text_pt": "Parece bom — mas talvez seja melhor tentar um tamanho menor.",
+    "text_en": "It looks good — but maybe try a smaller size.",
+    "audio_en_storage_path": "2991_it_looks_good_but_maybe_try_a_smaller_size.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103892",
+    "text_pt": "Você está certo — obrigado pela ajuda.",
+    "text_en": "You're right — thanks for the help.",
+    "audio_en_storage_path": "2992_youre_right_thanks_for_the_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103893",
+    "text_pt": "Sem problemas! Quer que eu verifique se eles têm mais cores?",
+    "text_en": "No problem! Want me to check if they have more colors?",
+    "audio_en_storage_path": "2993_no_problem_want_me_to_check_if_they_have_more_colors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103894",
+    "text_pt": "Isso seria ótimo — obrigado novamente!",
+    "text_en": "That would be great — thank you again!",
+    "audio_en_storage_path": "2994_that_would_be_great_thank_you_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103895",
+    "text_pt": "Turismo por São Paulo",
+    "text_en": "Tourism in Sao Paulo",
+    "audio_en_storage_path": "2995_tourism_in_sao_paulo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103896",
+    "text_pt": "Olá! Ainda está gostando da sua estadia?",
+    "text_en": "Hi there! Still enjoying your stay?",
+    "audio_en_storage_path": "2996_hi_there_still_enjoying_your_stay.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103897",
+    "text_pt": "Sim! Fui ao Parque do Ibirapuera ontem.",
+    "text_en": "Yes! Went to Ibirapuera Park yesterday.",
+    "audio_en_storage_path": "2997_yes_went_to_ibirapuera_park_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103898",
+    "text_pt": "Lugar legal — para onde você vai hoje?",
+    "text_en": "Nice place — where are you going today?",
+    "audio_en_storage_path": "2998_nice_place_where_are_you_going_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103899",
+    "text_pt": "Não tenho certeza — alguma ideia?",
+    "text_en": "Not sure — any ideas?",
+    "audio_en_storage_path": "2999_not_sure_any_ideas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103900",
+    "text_pt": "Experimente o Mercado Municipal — comida e café incríveis.",
+    "text_en": "Try Mercado Municipal — amazing food and coffee.",
+    "audio_en_storage_path": "3000_try_mercado_municipal_amazing_food_and_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103901",
+    "text_pt": "Parece bom — adoro explorar mercados locais.",
+    "text_en": "Sounds good — I love exploring local markets.",
+    "audio_en_storage_path": "3001_sounds_good_i_love_exploring_local_markets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103902",
+    "text_pt": "E depois disso. visite a Catedral da Sé — histórica e linda.",
+    "text_en": "And after that. visit Sé Cathedral — historic and beautiful.",
+    "audio_en_storage_path": "3002_and_after_that_visit_se_cathedral_historic_and_beautiful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103903",
+    "text_pt": "Vou anotá-las — muito obrigado!",
+    "text_en": "I’ll write them down — thanks so much!",
+    "audio_en_storage_path": "3003_ill_write_them_down_thanks_so_much.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

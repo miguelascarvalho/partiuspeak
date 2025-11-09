@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120735",
+    "text_pt": "Descrevendo lugares – Locais do cotidiano",
+    "text_en": "Describing Places – Everyday Locations",
+    "audio_en_storage_path": "735_describing_places_everyday_locations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120736",
+    "text_pt": "Este lugar está sempre cheio de gente e barulho",
+    "text_en": "This place is always full of people and noise",
+    "audio_en_storage_path": "736_this_place_is_always_full_of_people_and_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120737",
+    "text_pt": "Este lugar está sempre lotado de gente e barulhento como sempre",
+    "text_en": "This spot’s always packed with folks and loud as ever",
+    "audio_en_storage_path": "737_this_spots_always_packed_with_folks_and_loud_as_ever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120738",
+    "text_pt": "O parque é tranquilo no início da manhã",
+    "text_en": "The park is quiet in the early morning",
+    "audio_en_storage_path": "738_the_park_is_quiet_in_the_early_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120739",
+    "text_pt": "O parque é super calmo logo cedo",
+    "text_en": "Park’s super calm real early in the day",
+    "audio_en_storage_path": "739_parks_super_calm_real_early_in_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120740",
+    "text_pt": "Há árvores, bancos e um pequeno lago ao redor",
+    "text_en": "There are trees. benches. and a small lake around",
+    "audio_en_storage_path": "740_there_are_trees_benches_and_a_small_lake_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120741",
+    "text_pt": "Tem árvores, assentos e um pequeno lago ao redor",
+    "text_en": "Got trees. seats. and a tiny lake all around",
+    "audio_en_storage_path": "741_got_trees_seats_and_a_tiny_lake_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120742",
+    "text_pt": "Adoro caminhar aqui porque é tranquilo",
+    "text_en": "I love walking here because it feels peaceful",
+    "audio_en_storage_path": "742_i_love_walking_here_because_it_feels_peaceful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120743",
+    "text_pt": "Eu adoro andar aqui — sinto paz por todo lado",
+    "text_en": "I dig walkin’ here — feels like peace all around",
+    "audio_en_storage_path": "743_i_dig_walkin_here_feels_like_peace_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120744",
+    "text_pt": "Esta rua tem muitas lojas e restaurantes",
+    "text_en": "This street has many shops and restaurants",
+    "audio_en_storage_path": "744_this_street_has_many_shops_and_restaurants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120745",
+    "text_pt": "Um quarteirão inteiro repleto de lojas e lugares para comer",
+    "text_en": "Whole block’s lined with stores and places to eat",
+    "audio_en_storage_path": "745_whole_blocks_lined_with_stores_and_places_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120746",
+    "text_pt": "O edifício é alto e parece muito moderno",
+    "text_en": "The building is tall and looks very modern",
+    "audio_en_storage_path": "746_the_building_is_tall_and_looks_very_modern.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120747",
+    "text_pt": "A torre é alta e parece algo do futuro",
+    "text_en": "Tower’s high and looks like something from the future",
+    "audio_en_storage_path": "747_towers_high_and_looks_like_something_from_the_future.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120748",
+    "text_pt": "Há um grande jardim em frente à casa",
+    "text_en": "There’s a big garden in front of the house",
+    "audio_en_storage_path": "748_theres_a_big_garden_in_front_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120749",
+    "text_pt": "Grande espaço verde bem em frente ao local",
+    "text_en": "Big green space right in front of the place",
+    "audio_en_storage_path": "749_big_green_space_right_in_front_of_the_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120750",
+    "text_pt": "O quarto é pequeno, mas aconchegante e acolhedor",
+    "text_en": "The room is small but cozy and warm",
+    "audio_en_storage_path": "750_the_room_is_small_but_cozy_and_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120751",
+    "text_pt": "O quarto é pequeno, mas parece um lar — agradável e aconchegante",
+    "text_en": "Room’s tiny but feels like home — nice and warm",
+    "audio_en_storage_path": "751_rooms_tiny_but_feels_like_home_nice_and_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120752",
+    "text_pt": "Esta loja vende roupas, sapatos e acessórios",
+    "text_en": "This shop sells clothes. shoes. and accessories",
+    "audio_en_storage_path": "752_this_shop_sells_clothes_shoes_and_accessories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120753",
+    "text_pt": "O lugar vende camisas, chuteiras e todos os extras que você precisa",
+    "text_en": "Place sells shirts. kicks. and all the extras you need",
+    "audio_en_storage_path": "753_place_sells_shirts_kicks_and_all_the_extras_you_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120754",
+    "text_pt": "Aqui cheira a café e pão fresco",
+    "text_en": "It smells like coffee and fresh bread in here",
+    "audio_en_storage_path": "754_it_smells_like_coffee_and_fresh_bread_in_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120755",
+    "text_pt": "Cheira a feijão e massa fresca quando você entra",
+    "text_en": "Smells like beans and fresh dough when ya walk in",
+    "audio_en_storage_path": "755_smells_like_beans_and_fresh_dough_when_ya_walk_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120756",
+    "text_pt": "Você pode ouvir música tocando suavemente ao fundo",
+    "text_en": "You can hear music playing softly in the background",
+    "audio_en_storage_path": "756_you_can_hear_music_playing_softly_in_the_background.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120757",
+    "text_pt": "A música está tocando baixinho lá atrás — meio relaxante",
+    "text_en": "Music’s playin’ low in the back — kinda chill",
+    "audio_en_storage_path": "757_musics_playin_low_in_the_back_kinda_chill.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120758",
+    "text_pt": "Me avise se você já esteve aqui antes",
+    "text_en": "Let me know if you’ve been here before",
+    "audio_en_storage_path": "758_let_me_know_if_youve_been_here_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120759",
+    "text_pt": "Você já esteve aqui antes ou é a primeira vez?",
+    "text_en": "You been here before or is this your first time?",
+    "audio_en_storage_path": "759_you_been_here_before_or_is_this_your_first_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120760",
+    "text_pt": "Se você quer algo doce, experimente a padaria ao lado.",
+    "text_en": "If you want something sweet. try the bakery next door",
+    "audio_en_storage_path": "760_if_you_want_something_sweet_try_the_bakery_next_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120761",
+    "text_pt": "Se você gosta de doces, vá até aquela padaria ali do outro lado",
+    "text_en": "If ya got a sweet tooth. hit up that bakery across the way",
+    "audio_en_storage_path": "761_if_ya_got_a_sweet_tooth_hit_up_that_bakery_across_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120762",
+    "text_pt": "Esta área costumava ser velha e degradada",
+    "text_en": "This area used to be old and run down",
+    "audio_en_storage_path": "762_this_area_used_to_be_old_and_run_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120763",
+    "text_pt": "O local estava áspero e caindo aos pedaços há pouco tempo",
+    "text_en": "Spot was rough and falling apart not too long ago",
+    "audio_en_storage_path": "763_spot_was_rough_and_falling_apart_not_too_long_ago.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120764",
+    "text_pt": "Tome cuidado e aproveite seu tempo por aqui",
+    "text_en": "Take care and enjoy your time around here",
+    "audio_en_storage_path": "764_take_care_and_enjoy_your_time_around_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120765",
+    "text_pt": "Aproveite sua caminhada e fique seguro por aí",
+    "text_en": "Enjoy your walk and stay safe out there",
+    "audio_en_storage_path": "765_enjoy_your_walk_and_stay_safe_out_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

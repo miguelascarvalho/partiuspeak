@@ -1,0 +1,2756 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131779",
+    "text_pt": "Monstros e Criaturas: Encontros com Seres Sobrenaturais ou Mutantes",
+    "text_en": "Monsters and Creatures: Encounters with Supernatural or Mutant Beings",
+    "audio_en_storage_path": "1779_monsters_and_creatures_encounters_with_supernatural_or_mutant_beings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131780",
+    "text_pt": "Monstros e criaturas personificam os medos e ansiedades mais profundos da humanidade.",
+    "text_en": "Monsters and creatures embody humanity’s deepest fears and anxieties.",
+    "audio_en_storage_path": "1780_monsters_and_creatures_embody_humanitys_deepest_fears_and_anxieties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131781",
+    "text_pt": "Os encontros com esses seres desafiam a coragem e a sanidade dos personagens.",
+    "text_en": "Encounters with these beings challenge characters’ courage and sanity.",
+    "audio_en_storage_path": "1781_encounters_with_these_beings_challenge_characters_courage_and_sanity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131782",
+    "text_pt": "Entidades sobrenaturais desafiam as leis da natureza, criando mal-estar e medo.",
+    "text_en": "Supernatural entities defy the laws of nature. creating unease and dread.",
+    "audio_en_storage_path": "1782_supernatural_entities_defy_the_laws_of_nature_creating_unease_and_dread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131783",
+    "text_pt": "A presença deles perturba o cotidiano e mergulha os personagens no caos.",
+    "text_en": "Their presence disrupts the ordinary and plunges characters into chaos.",
+    "audio_en_storage_path": "1783_their_presence_disrupts_the_ordinary_and_plunges_characters_into_chaos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131784",
+    "text_pt": "Mutantes surgem de experimentos, acidentes ou desastres ambientais.",
+    "text_en": "Mutants arise from experiments. accidents. or environmental disasters.",
+    "audio_en_storage_path": "1784_mutants_arise_from_experiments_accidents_or_environmental_disasters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131785",
+    "text_pt": "Formas distorcidas refletem a arrogância da humanidade em interferir em forças além do controle.",
+    "text_en": "Twisted forms reflect humanity’s hubris in tampering with forces beyond control.",
+    "audio_en_storage_path": "1785_twisted_forms_reflect_humanitys_hubris_in_tampering_with_forces_beyond_control.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131786",
+    "text_pt": "Criaturas míticas como lobisomens e vampiros evocam terror primitivo.",
+    "text_en": "Mythical creatures like werewolves and vampires evoke primal terror.",
+    "audio_en_storage_path": "1786_mythical_creatures_like_werewolves_and_vampires_evoke_primal_terror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131787",
+    "text_pt": "Eles se aproveitam das vulnerabilidades humanas, explorando o medo do desconhecido.",
+    "text_en": "They prey on human vulnerabilities. exploiting fear of the unknown.",
+    "audio_en_storage_path": "1787_they_prey_on_human_vulnerabilities_exploiting_fear_of_the_unknown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131788",
+    "text_pt": "Monstros geralmente simbolizam medos sociais e falhas morais.",
+    "text_en": "Monsters often symbolize societal fears and moral failings.",
+    "audio_en_storage_path": "1788_monsters_often_symbolize_societal_fears_and_moral_failings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131789",
+    "text_pt": "Poluição, ganância e guerra se manifestam como abominações grotescas.",
+    "text_en": "Pollution. greed. and war manifest as grotesque abominations.",
+    "audio_en_storage_path": "1789_pollution_greed_and_war_manifest_as_grotesque_abominations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131790",
+    "text_pt": "O isolamento amplifica o horror de encontrar seres monstruosos.",
+    "text_en": "Isolation amplifies the horror of encountering monstrous beings.",
+    "audio_en_storage_path": "1790_isolation_amplifies_the_horror_of_encountering_monstrous_beings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131791",
+    "text_pt": "Personagens enfrentam terrores inimagináveis ​​sozinhos em paisagens desoladas.",
+    "text_en": "Characters face unimaginable terrors alone in desolate landscapes.",
+    "audio_en_storage_path": "1791_characters_face_unimaginable_terrors_alone_in_desolate_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131792",
+    "text_pt": "Os instintos de sobrevivência entram em ação quando confrontados por predadores implacáveis.",
+    "text_en": "Survival instincts kick in when confronted by relentless predators.",
+    "audio_en_storage_path": "1792_survival_instincts_kick_in_when_confronted_by_relentless_predators.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131793",
+    "text_pt": "As respostas de luta ou fuga determinam se os personagens vivem ou morrem.",
+    "text_en": "Fight-or-flight responses determine whether characters live or die.",
+    "audio_en_storage_path": "1793_fightorflight_responses_determine_whether_characters_live_or_die.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131794",
+    "text_pt": "Grupos de caça são formados para rastrear e eliminar criaturas perigosas.",
+    "text_en": "Hunting parties form to track and eliminate dangerous creatures.",
+    "audio_en_storage_path": "1794_hunting_parties_form_to_track_and_eliminate_dangerous_creatures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131795",
+    "text_pt": "Armas e armadilhas se tornam ferramentas de desespero contra probabilidades esmagadoras.",
+    "text_en": "Weapons and traps become tools of desperation against overwhelming odds.",
+    "audio_en_storage_path": "1795_weapons_and_traps_become_tools_of_desperation_against_overwhelming_odds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131796",
+    "text_pt": "Os monstros se adaptam e evoluem, o que os torna quase impossíveis de derrotar.",
+    "text_en": "Monsters adapt and evolve. making them nearly impossible to defeat.",
+    "audio_en_storage_path": "1796_monsters_adapt_and_evolve_making_them_nearly_impossible_to_defeat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131797",
+    "text_pt": "Cada vitória é passageira; novas ameaças emergem das sombras.",
+    "text_en": "Each victory is fleeting; new threats emerge from the shadows.",
+    "audio_en_storage_path": "1797_each_victory_is_fleeting_new_threats_emerge_from_the_shadows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131798",
+    "text_pt": "O horror corporal explora a transformação de humanos em formas monstruosas.",
+    "text_en": "Body horror explores the transformation of humans into monstrous forms.",
+    "audio_en_storage_path": "1798_body_horror_explores_the_transformation_of_humans_into_monstrous_forms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131799",
+    "text_pt": "Mutações físicas refletem colapsos psicológicos e medo existencial.",
+    "text_en": "Physical mutations mirror psychological breakdowns and existential dread.",
+    "audio_en_storage_path": "1799_physical_mutations_mirror_psychological_breakdowns_and_existential_dread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131800",
+    "text_pt": "Lendas antigas alertam sobre terras amaldiçoadas habitadas por seres malévolos.",
+    "text_en": "Ancient legends warn of cursed lands inhabited by malevolent beings.",
+    "audio_en_storage_path": "1800_ancient_legends_warn_of_cursed_lands_inhabited_by_malevolent_beings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131801",
+    "text_pt": "Personagens ignoram avisos por sua conta e risco, desencadeando horrores indizíveis.",
+    "text_en": "Characters ignore warnings at their peril. unleashing unspeakable horrors.",
+    "audio_en_storage_path": "1801_characters_ignore_warnings_at_their_peril_unleashing_unspeakable_horrors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131802",
+    "text_pt": "Os monstros se aproveitam de medos específicos, mirando fraquezas individuais.",
+    "text_en": "Monsters prey on specific fears. targeting individual weaknesses.",
+    "audio_en_storage_path": "1802_monsters_prey_on_specific_fears_targeting_individual_weaknesses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131803",
+    "text_pt": "Inseguranças pessoais se tornam armas usadas contra os protagonistas.",
+    "text_en": "Personal insecurities become weapons used against protagonists.",
+    "audio_en_storage_path": "1803_personal_insecurities_become_weapons_used_against_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131804",
+    "text_pt": "Criaturas híbridas confundem a linha entre humanos e animais.",
+    "text_en": "Hybrid creatures blur the line between human and beast.",
+    "audio_en_storage_path": "1804_hybrid_creatures_blur_the_line_between_human_and_beast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131805",
+    "text_pt": "Suas naturezas duais refletem conflitos internos e lutas por identidade.",
+    "text_en": "Their dual natures reflect inner conflicts and struggles for identity.",
+    "audio_en_storage_path": "1805_their_dual_natures_reflect_inner_conflicts_and_struggles_for_identity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131806",
+    "text_pt": "Monstros subaquáticos espreitam nas profundezas intocadas pela luz ou pela razão.",
+    "text_en": "Underwater monsters lurk in depths untouched by light or reason.",
+    "audio_en_storage_path": "1806_underwater_monsters_lurk_in_depths_untouched_by_light_or_reason.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131807",
+    "text_pt": "Oceanos e lagos guardam segredos assustadores demais para serem compreendidos.",
+    "text_en": "Oceans and lakes harbor secrets too terrifying to comprehend.",
+    "audio_en_storage_path": "1807_oceans_and_lakes_harbor_secrets_too_terrifying_to_comprehend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131808",
+    "text_pt": "Criaturas que vivem na floresta personificam a natureza selvagem e indomável.",
+    "text_en": "Forest-dwelling creatures embody the untamed wilderness.",
+    "audio_en_storage_path": "1808_forestdwelling_creatures_embody_the_untamed_wilderness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131809",
+    "text_pt": "Bosques escuros escondem perigos que desafiam explicação ou lógica.",
+    "text_en": "Dark woods conceal dangers that defy explanation or logic.",
+    "audio_en_storage_path": "1809_dark_woods_conceal_dangers_that_defy_explanation_or_logic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131810",
+    "text_pt": "Monstros em ambientes urbanos invadem espaços que deveriam ser seguros.",
+    "text_en": "Monsters in urban settings invade spaces meant to feel safe.",
+    "audio_en_storage_path": "1810_monsters_in_urban_settings_invade_spaces_meant_to_feel_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131811",
+    "text_pt": "Metrôs, becos e prédios abandonados se tornam campos de caça.",
+    "text_en": "Subways. alleys. and abandoned buildings become hunting grounds.",
+    "audio_en_storage_path": "1811_subways_alleys_and_abandoned_buildings_become_hunting_grounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131812",
+    "text_pt": "As histórias infantis geralmente apresentam monstros debaixo das camas ou nos armários.",
+    "text_en": "Children’s stories often feature monsters under beds or in closets.",
+    "audio_en_storage_path": "1812_childrens_stories_often_feature_monsters_under_beds_or_in_closets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131813",
+    "text_pt": "Esses contos exploram os medos da infância de vulnerabilidade e desamparo.",
+    "text_en": "These tales tap into childhood fears of vulnerability and helplessness.",
+    "audio_en_storage_path": "1813_these_tales_tap_into_childhood_fears_of_vulnerability_and_helplessness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131814",
+    "text_pt": "O folclore inspira representações de animais míticos em todas as culturas.",
+    "text_en": "Folklore inspires depictions of mythical beasts across cultures.",
+    "audio_en_storage_path": "1814_folklore_inspires_depictions_of_mythical_beasts_across_cultures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131815",
+    "text_pt": "Dragões, krakens e chupacabras despertam a imaginação no mundo todo.",
+    "text_en": "Dragons. krakens. and chupacabras ignite imaginations worldwide.",
+    "audio_en_storage_path": "1815_dragons_krakens_and_chupacabras_ignite_imaginations_worldwide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131816",
+    "text_pt": "A ficção científica apresenta monstros alienígenas de planetas distantes.",
+    "text_en": "Science fiction introduces alien monsters from distant planets.",
+    "audio_en_storage_path": "1816_science_fiction_introduces_alien_monsters_from_distant_planets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131817",
+    "text_pt": "Formas de vida extraterrestres desafiam as noções do lugar da humanidade no universo.",
+    "text_en": "Extraterrestrial lifeforms challenge notions of humanity’s place in the universe.",
+    "audio_en_storage_path": "1817_extraterrestrial_lifeforms_challenge_notions_of_humanitys_place_in_the_universe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131818",
+    "text_pt": "Monstros servem como metáforas para problemas do mundo real, como doenças e corrupção.",
+    "text_en": "Monsters serve as metaphors for real-world issues like disease and corruption.",
+    "audio_en_storage_path": "1818_monsters_serve_as_metaphors_for_realworld_issues_like_disease_and_corruption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131819",
+    "text_pt": "Doenças e decadência assumem formas físicas em manifestações horripilantes.",
+    "text_en": "Illness and decay take physical form in horrifying manifestations.",
+    "audio_en_storage_path": "1819_illness_and_decay_take_physical_form_in_horrifying_manifestations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131820",
+    "text_pt": "Escapar de monstros exige raciocínio rápido e engenhosidade.",
+    "text_en": "Escaping monsters requires quick thinking and resourcefulness.",
+    "audio_en_storage_path": "1820_escaping_monsters_requires_quick_thinking_and_resourcefulness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131821",
+    "text_pt": "Os personagens usam inteligência e estratégia para superar adversários superiores.",
+    "text_en": "Characters use wit and strategy to outsmart superior adversaries.",
+    "audio_en_storage_path": "1821_characters_use_wit_and_strategy_to_outsmart_superior_adversaries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131822",
+    "text_pt": "Monstros geralmente representam as consequências de uma ambição desenfreada.",
+    "text_en": "Monsters often represent the consequences of unchecked ambition.",
+    "audio_en_storage_path": "1822_monsters_often_represent_the_consequences_of_unchecked_ambition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131823",
+    "text_pt": "Brincar de deus leva a resultados catastróficos e criações incontroláveis.",
+    "text_en": "Playing god leads to catastrophic outcomes and uncontrollable creations.",
+    "audio_en_storage_path": "1823_playing_god_leads_to_catastrophic_outcomes_and_uncontrollable_creations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131824",
+    "text_pt": "Técnicas cinematográficas amplificam o terror dos encontros com monstros.",
+    "text_en": "Cinematic techniques amplify the terror of monster encounters.",
+    "audio_en_storage_path": "1824_cinematic_techniques_amplify_the_terror_of_monster_encounters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131825",
+    "text_pt": "Sombras, design de som e ângulos de câmera aumentam o suspense e o medo.",
+    "text_en": "Shadows. sound design. and camera angles heighten suspense and fear.",
+    "audio_en_storage_path": "1825_shadows_sound_design_and_camera_angles_heighten_suspense_and_fear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131826",
+    "text_pt": "Os monstros permanecem na mente muito depois do fim da história.",
+    "text_en": "Monsters linger in the mind long after the story ends.",
+    "audio_en_storage_path": "1826_monsters_linger_in_the_mind_long_after_the_story_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131827",
+    "text_pt": "Suas imagens assombram sonhos e alimentam fobias enraizadas em instintos primitivos.",
+    "text_en": "Their images haunt dreams and fuel phobias rooted in primal instincts.",
+    "audio_en_storage_path": "1827_their_images_haunt_dreams_and_fuel_phobias_rooted_in_primal_instincts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131828",
+    "text_pt": "Psicologia do Medo: Histórias que Exploram os Medos Interiores dos Personagens",
+    "text_en": "Psychology of Fear: Stories That Explore the Inner Fears of Characters",
+    "audio_en_storage_path": "1828_psychology_of_fear_stories_that_explore_the_inner_fears_of_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131829",
+    "text_pt": "A psicologia do medo investiga as complexidades da mente humana.",
+    "text_en": "The psychology of fear delves into the complexities of the human mind.",
+    "audio_en_storage_path": "1829_the_psychology_of_fear_delves_into_the_complexities_of_the_human_mind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131830",
+    "text_pt": "Os personagens enfrentam não apenas ameaças externas, mas também demônios internos.",
+    "text_en": "Characters confront not only external threats but also internal demons.",
+    "audio_en_storage_path": "1830_characters_confront_not_only_external_threats_but_also_internal_demons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131831",
+    "text_pt": "A ansiedade se manifesta como paranoia, desconfiança e comportamento irracional.",
+    "text_en": "Anxiety manifests as paranoia. distrust. and irrational behavior.",
+    "audio_en_storage_path": "1831_anxiety_manifests_as_paranoia_distrust_and_irrational_behavior.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131832",
+    "text_pt": "Cada rangido e sombra se tornam uma fonte potencial de perigo.",
+    "text_en": "Every creak and shadow becomes a potential source of danger.",
+    "audio_en_storage_path": "1832_every_creak_and_shadow_becomes_a_potential_source_of_danger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131833",
+    "text_pt": "O medo do desconhecido leva os personagens a buscar respostas a qualquer custo.",
+    "text_en": "Fear of the unknown drives characters to seek answers at any cost.",
+    "audio_en_storage_path": "1833_fear_of_the_unknown_drives_characters_to_seek_answers_at_any_cost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131834",
+    "text_pt": "Explorar lugares escuros e conhecimentos proibidos pode levar à loucura.",
+    "text_en": "Exploring dark places and forbidden knowledge risks madness.",
+    "audio_en_storage_path": "1834_exploring_dark_places_and_forbidden_knowledge_risks_madness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131835",
+    "text_pt": "Fobias expõem vulnerabilidades que moldam as decisões dos personagens.",
+    "text_en": "Phobias expose vulnerabilities that shape characters’ decisions.",
+    "audio_en_storage_path": "1835_phobias_expose_vulnerabilities_that_shape_characters_decisions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131836",
+    "text_pt": "Claustrofobia, aracnofobia e agorafobia desencadeiam reações intensas.",
+    "text_en": "Claustrophobia. arachnophobia. and agoraphobia trigger intense reactions.",
+    "audio_en_storage_path": "1836_claustrophobia_arachnophobia_and_agoraphobia_trigger_intense_reactions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131837",
+    "text_pt": "O trauma ressurge em momentos de crise, amplificando o medo e o pânico.",
+    "text_en": "Trauma resurfaces in moments of crisis. amplifying fear and panic.",
+    "audio_en_storage_path": "1837_trauma_resurfaces_in_moments_of_crisis_amplifying_fear_and_panic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131838",
+    "text_pt": "Experiências passadas assombram personagens, influenciando suas ações presentes.",
+    "text_en": "Past experiences haunt characters. influencing their present actions.",
+    "audio_en_storage_path": "1838_past_experiences_haunt_characters_influencing_their_present_actions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131839",
+    "text_pt": "Alucinações confundem a linha entre realidade e imaginação.",
+    "text_en": "Hallucinations blur the line between reality and imagination.",
+    "audio_en_storage_path": "1839_hallucinations_blur_the_line_between_reality_and_imagination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131840",
+    "text_pt": "O que parece real pode não ser nada mais que um produto do medo.",
+    "text_en": "What seems real may be nothing more than a product of fear.",
+    "audio_en_storage_path": "1840_what_seems_real_may_be_nothing_more_than_a_product_of_fear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131841",
+    "text_pt": "A privação do sono corrói o pensamento racional e aumenta a suscetibilidade ao terror.",
+    "text_en": "Sleep deprivation erodes rational thinking and increases susceptibility to terror.",
+    "audio_en_storage_path": "1841_sleep_deprivation_erodes_rational_thinking_and_increases_susceptibility_to_terror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131842",
+    "text_pt": "Pesadelos invadem a vida desperta, distorcendo a percepção e o julgamento.",
+    "text_en": "Nightmares spill into waking life. distorting perception and judgment.",
+    "audio_en_storage_path": "1842_nightmares_spill_into_waking_life_distorting_perception_and_judgment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131843",
+    "text_pt": "O gaslighting manipula o senso de realidade e autoestima dos personagens.",
+    "text_en": "Gaslighting manipulates characters’ sense of reality and self-worth.",
+    "audio_en_storage_path": "1843_gaslighting_manipulates_characters_sense_of_reality_and_selfworth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131844",
+    "text_pt": "Duvidar da própria sanidade se torna uma forma de tortura psicológica.",
+    "text_en": "Doubting one’s own sanity becomes a form of psychological torture.",
+    "audio_en_storage_path": "1844_doubting_ones_own_sanity_becomes_a_form_of_psychological_torture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131845",
+    "text_pt": "A dinâmica de grupo revela como o medo se espalha como fogo entre os indivíduos.",
+    "text_en": "Group dynamics reveal how fear spreads like wildfire among individuals.",
+    "audio_en_storage_path": "1845_group_dynamics_reveal_how_fear_spreads_like_wildfire_among_individuals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131846",
+    "text_pt": "Pânico e histeria infectam até os membros mais sensatos.",
+    "text_en": "Panic and hysteria infect even the most level-headed members.",
+    "audio_en_storage_path": "1846_panic_and_hysteria_infect_even_the_most_levelheaded_members.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131847",
+    "text_pt": "A solidão intensifica a introspecção e o confronto com medos pessoais.",
+    "text_en": "Solitude intensifies introspection and confrontation with personal fears.",
+    "audio_en_storage_path": "1847_solitude_intensifies_introspection_and_confrontation_with_personal_fears.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131848",
+    "text_pt": "Sozinhos, os personagens devem enfrentar os cantos mais sombrios de sua psique.",
+    "text_en": "Alone. characters must face the darkest corners of their psyche.",
+    "audio_en_storage_path": "1848_alone_characters_must_face_the_darkest_corners_of_their_psyche.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131849",
+    "text_pt": "O medo do fracasso paralisa personagens que duvidam de suas habilidades.",
+    "text_en": "Fear of failure cripples characters who doubt their abilities.",
+    "audio_en_storage_path": "1849_fear_of_failure_cripples_characters_who_doubt_their_abilities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131850",
+    "text_pt": "A autossabotagem os impede de atingir seus objetivos e escapar do perigo.",
+    "text_en": "Self-sabotage prevents them from achieving their goals and escaping danger.",
+    "audio_en_storage_path": "1850_selfsabotage_prevents_them_from_achieving_their_goals_and_escaping_danger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131851",
+    "text_pt": "Os medos da infância ressurgem na vida adulta em momentos de estresse.",
+    "text_en": "Childhood fears resurface in adulthood during times of stress.",
+    "audio_en_storage_path": "1851_childhood_fears_resurface_in_adulthood_during_times_of_stress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131852",
+    "text_pt": "Monstros que antes eram imaginados debaixo da cama agora parecem assustadoramente reais.",
+    "text_en": "Monsters once imagined under the bed now feel disturbingly real.",
+    "audio_en_storage_path": "1852_monsters_once_imagined_under_the_bed_now_feel_disturbingly_real.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131853",
+    "text_pt": "Thrillers psicológicos exploram a fragilidade da mente humana.",
+    "text_en": "Psychological thrillers explore the fragility of the human mind.",
+    "audio_en_storage_path": "1853_psychological_thrillers_explore_the_fragility_of_the_human_mind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131854",
+    "text_pt": "Pequenos gatilhos liberam torrentes de ansiedade e medo.",
+    "text_en": "Small triggers unleash torrents of anxiety and dread.",
+    "audio_en_storage_path": "1854_small_triggers_unleash_torrents_of_anxiety_and_dread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131855",
+    "text_pt": "Dilemas morais forçam os personagens a questionar seus valores e ética.",
+    "text_en": "Moral dilemmas force characters to question their values and ethics.",
+    "audio_en_storage_path": "1855_moral_dilemmas_force_characters_to_question_their_values_and_ethics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131856",
+    "text_pt": "Escolher entre sobrevivência e moralidade testa sua determinação.",
+    "text_en": "Choosing between survival and morality tests their resolve.",
+    "audio_en_storage_path": "1856_choosing_between_survival_and_morality_tests_their_resolve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131857",
+    "text_pt": "O medo da perda motiva tentativas desesperadas de proteger entes queridos.",
+    "text_en": "Fear of loss motivates desperate attempts to protect loved ones.",
+    "audio_en_storage_path": "1857_fear_of_loss_motivates_desperate_attempts_to_protect_loved_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131858",
+    "text_pt": "Sacrifícios feitos em nome do amor destacam a profundidade dos laços emocionais.",
+    "text_en": "Sacrifices made in the name of love highlight the depth of emotional bonds.",
+    "audio_en_storage_path": "1858_sacrifices_made_in_the_name_of_love_highlight_the_depth_of_emotional_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131859",
+    "text_pt": "A obsessão sai do controle, consumindo os personagens por completo.",
+    "text_en": "Obsession spirals out of control. consuming characters entirely.",
+    "audio_en_storage_path": "1859_obsession_spirals_out_of_control_consuming_characters_entirely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131860",
+    "text_pt": "A fixação em medos leva a comportamentos destrutivos e isolamento.",
+    "text_en": "Fixation on fears leads to destructive behaviors and isolation.",
+    "audio_en_storage_path": "1860_fixation_on_fears_leads_to_destructive_behaviors_and_isolation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131861",
+    "text_pt": "Sequências de sonhos revelam medos e desejos subconscientes.",
+    "text_en": "Dream sequences reveal subconscious fears and desires.",
+    "audio_en_storage_path": "1861_dream_sequences_reveal_subconscious_fears_and_desires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131862",
+    "text_pt": "Símbolos dentro dos sonhos sugerem traumas e ansiedades não resolvidos.",
+    "text_en": "Symbols within dreams hint at unresolved traumas and anxieties.",
+    "audio_en_storage_path": "1862_symbols_within_dreams_hint_at_unresolved_traumas_and_anxieties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131863",
+    "text_pt": "Os espelhos refletem personalidades fragmentadas e inseguranças ocultas.",
+    "text_en": "Mirrors reflect fractured selves and hidden insecurities.",
+    "audio_en_storage_path": "1863_mirrors_reflect_fractured_selves_and_hidden_insecurities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131864",
+    "text_pt": "Os personagens veem versões de si mesmos que desejam negar ou suprimir.",
+    "text_en": "Characters see versions of themselves they wish to deny or suppress.",
+    "audio_en_storage_path": "1864_characters_see_versions_of_themselves_they_wish_to_deny_or_suppress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131865",
+    "text_pt": "Psiquiatras e terapeutas guiam pacientes através de labirintos mentais.",
+    "text_en": "Psychiatrists and therapists guide patients through mental labyrinths.",
+    "audio_en_storage_path": "1865_psychiatrists_and_therapists_guide_patients_through_mental_labyrinths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131866",
+    "text_pt": "Suas interpretações moldam a maneira como os personagens percebem a si mesmos e aos outros.",
+    "text_en": "Their interpretations shape how characters perceive themselves and others.",
+    "audio_en_storage_path": "1866_their_interpretations_shape_how_characters_perceive_themselves_and_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131867",
+    "text_pt": "O medo da morte paira sobre cada decisão e ação.",
+    "text_en": "Fear of death looms over every decision and action.",
+    "audio_en_storage_path": "1867_fear_of_death_looms_over_every_decision_and_action.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131868",
+    "text_pt": "A consciência da mortalidade intensifica a urgência de sobreviver.",
+    "text_en": "Awareness of mortality intensifies the urgency to survive.",
+    "audio_en_storage_path": "1868_awareness_of_mortality_intensifies_the_urgency_to_survive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131869",
+    "text_pt": "O horror psicológico elimina camadas de normalidade e segurança.",
+    "text_en": "Psychological horror strips away layers of normalcy and safety.",
+    "audio_en_storage_path": "1869_psychological_horror_strips_away_layers_of_normalcy_and_safety.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131870",
+    "text_pt": "Cenários comuns se tornam arenas de terror e incerteza.",
+    "text_en": "Ordinary settings become arenas of terror and uncertainty.",
+    "audio_en_storage_path": "1870_ordinary_settings_become_arenas_of_terror_and_uncertainty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131871",
+    "text_pt": "O som desempenha um papel crucial na evocação do medo psicológico.",
+    "text_en": "Sound plays a crucial role in evoking psychological fear.",
+    "audio_en_storage_path": "1871_sound_plays_a_crucial_role_in_evoking_psychological_fear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131872",
+    "text_pt": "Sussurros, passos e silêncio criam uma atmosfera de pavor.",
+    "text_en": "Whispers. footsteps. and silence create an atmosphere of dread.",
+    "audio_en_storage_path": "1872_whispers_footsteps_and_silence_create_an_atmosphere_of_dread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131873",
+    "text_pt": "Luz e escuridão manipulam emoções e percepções.",
+    "text_en": "Light and darkness manipulate emotions and perceptions.",
+    "audio_en_storage_path": "1873_light_and_darkness_manipulate_emotions_and_perceptions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131874",
+    "text_pt": "Sombras escondem ameaças, enquanto espaços mal iluminados evocam desconforto.",
+    "text_en": "Shadows conceal threats. while dimly lit spaces evoke unease.",
+    "audio_en_storage_path": "1874_shadows_conceal_threats_while_dimly_lit_spaces_evoke_unease.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131875",
+    "text_pt": "Personagens projetam seus medos nos outros, criando tensão e conflito.",
+    "text_en": "Characters project their fears onto others. creating tension and conflict.",
+    "audio_en_storage_path": "1875_characters_project_their_fears_onto_others_creating_tension_and_conflict.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131876",
+    "text_pt": "Os mal-entendidos aumentam devido à maior sensibilidade e suspeita.",
+    "text_en": "Misunderstandings escalate due to heightened sensitivity and suspicion.",
+    "audio_en_storage_path": "1876_misunderstandings_escalate_due_to_heightened_sensitivity_and_suspicion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131877",
+    "text_pt": "O medo do abandono deixa os personagens apegados a relacionamentos instáveis.",
+    "text_en": "Fear of abandonment leaves characters clinging to unstable relationships.",
+    "audio_en_storage_path": "1877_fear_of_abandonment_leaves_characters_clinging_to_unstable_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131878",
+    "text_pt": "A solidão os leva a tolerar toxicidade e abuso.",
+    "text_en": "Loneliness drives them to tolerate toxicity and abuse.",
+    "audio_en_storage_path": "1878_loneliness_drives_them_to_tolerate_toxicity_and_abuse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131879",
+    "text_pt": "A repressão das emoções se manifesta como sintomas físicos de medo.",
+    "text_en": "Repression of emotions manifests as physical symptoms of fear.",
+    "audio_en_storage_path": "1879_repression_of_emotions_manifests_as_physical_symptoms_of_fear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131880",
+    "text_pt": "Dores de cabeça, náuseas e tremores revelam turbulência interior.",
+    "text_en": "Headaches. nausea. and trembling betray inner turmoil.",
+    "audio_en_storage_path": "1880_headaches_nausea_and_trembling_betray_inner_turmoil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131881",
+    "text_pt": "O medo da mudança paralisa os personagens que enfrentam transformações inevitáveis.",
+    "text_en": "Fear of change paralyzes characters facing inevitable transformations.",
+    "audio_en_storage_path": "1881_fear_of_change_paralyzes_characters_facing_inevitable_transformations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131882",
+    "text_pt": "A resistência ao progresso leva à estagnação e ao desespero.",
+    "text_en": "Resistance to progress leads to stagnation and despair.",
+    "audio_en_storage_path": "1882_resistance_to_progress_leads_to_stagnation_and_despair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131883",
+    "text_pt": "O terror psicológico desafia o público a confrontar seus próprios medos.",
+    "text_en": "Psychological horror challenges audiences to confront their own fears.",
+    "audio_en_storage_path": "1883_psychological_horror_challenges_audiences_to_confront_their_own_fears.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131884",
+    "text_pt": "A reflexão provoca desconforto e introspecção sobre ansiedades pessoais.",
+    "text_en": "Reflection prompts discomfort and introspection about personal anxieties.",
+    "audio_en_storage_path": "1884_reflection_prompts_discomfort_and_introspection_about_personal_anxieties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131885",
+    "text_pt": "A mente se torna o campo de batalha definitivo em histórias de medo psicológico.",
+    "text_en": "The mind becomes the ultimate battleground in stories of psychological fear.",
+    "audio_en_storage_path": "1885_the_mind_becomes_the_ultimate_battleground_in_stories_of_psychological_fear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131886",
+    "text_pt": "A vitória está em superar demônios internos e não inimigos externos.",
+    "text_en": "Victory lies in overcoming internal demons rather than external foes.",
+    "audio_en_storage_path": "1886_victory_lies_in_overcoming_internal_demons_rather_than_external_foes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131887",
+    "text_pt": "Fantasmas e Mortos-Vivos: Espíritos Vingativos. Casas Assombradas. Ou Zumbis.",
+    "text_en": "Ghosts and Undead: Vengeful Spirits. Haunted Houses. or Zombies",
+    "audio_en_storage_path": "1887_ghosts_and_undead_vengeful_spirits_haunted_houses_or_zombies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131888",
+    "text_pt": "Fantasmas e seres mortos-vivos habitam o espaço liminar entre a vida e a morte.",
+    "text_en": "Ghosts and undead beings inhabit the liminal space between life and death.",
+    "audio_en_storage_path": "1888_ghosts_and_undead_beings_inhabit_the_liminal_space_between_life_and_death.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131889",
+    "text_pt": "A presença deles perturba os personagens, desafiando crenças sobre a mortalidade.",
+    "text_en": "Their presence unsettles characters. challenging beliefs about mortality.",
+    "audio_en_storage_path": "1889_their_presence_unsettles_characters_challenging_beliefs_about_mortality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131890",
+    "text_pt": "Casas mal-assombradas servem como prisões para almas atormentadas que buscam justiça ou vingança.",
+    "text_en": "Haunted houses serve as prisons for tormented souls seeking justice or revenge.",
+    "audio_en_storage_path": "1890_haunted_houses_serve_as_prisons_for_tormented_souls_seeking_justice_or_revenge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131891",
+    "text_pt": "Paredes sussurram segredos e pisos rangem com o peso de dores não resolvidas.",
+    "text_en": "Walls whisper secrets. and floors creak with the weight of unresolved pain.",
+    "audio_en_storage_path": "1891_walls_whisper_secrets_and_floors_creak_with_the_weight_of_unresolved_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131892",
+    "text_pt": "Espíritos vingativos têm como alvo aqueles ligados a erros e tragédias do passado.",
+    "text_en": "Vengeful spirits target those connected to past wrongs or tragedies.",
+    "audio_en_storage_path": "1892_vengeful_spirits_target_those_connected_to_past_wrongs_or_tragedies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131893",
+    "text_pt": "Negócios inacabados os obrigam a permanecer no reino mortal.",
+    "text_en": "Unfinished business compels them to linger in the mortal realm.",
+    "audio_en_storage_path": "1893_unfinished_business_compels_them_to_linger_in_the_mortal_realm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131894",
+    "text_pt": "Poltergeists causam estragos ao manipular objetos e ambientes.",
+    "text_en": "Poltergeists wreak havoc. manipulating objects and environments.",
+    "audio_en_storage_path": "1894_poltergeists_wreak_havoc_manipulating_objects_and_environments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131895",
+    "text_pt": "Móveis se movem, luzes piscam e portas batem sem explicação.",
+    "text_en": "Furniture moves. lights flicker. and doors slam shut without explanation.",
+    "audio_en_storage_path": "1895_furniture_moves_lights_flicker_and_doors_slam_shut_without_explanation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131896",
+    "text_pt": "Zumbis emergem dos túmulos, motivados pela fome ou infecção.",
+    "text_en": "Zombies rise from graves. driven by hunger or infection.",
+    "audio_en_storage_path": "1896_zombies_rise_from_graves_driven_by_hunger_or_infection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131897",
+    "text_pt": "Hordas irracionais dominam os sobreviventes em cenários apocalípticos.",
+    "text_en": "Mindless hordes overwhelm survivors in apocalyptic scenarios.",
+    "audio_en_storage_path": "1897_mindless_hordes_overwhelm_survivors_in_apocalyptic_scenarios.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131898",
+    "text_pt": "Exércitos mortos-vivos marcham sob o comando de necromantes ou forças das trevas.",
+    "text_en": "Undead armies march under the command of necromancers or dark forces.",
+    "audio_en_storage_path": "1898_undead_armies_march_under_the_command_of_necromancers_or_dark_forces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131899",
+    "text_pt": "Controlados por magia, eles obedecem ordens sem questionar ou piedade.",
+    "text_en": "Controlled by magic. they obey orders without question or mercy.",
+    "audio_en_storage_path": "1899_controlled_by_magic_they_obey_orders_without_question_or_mercy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131900",
+    "text_pt": "Fantasmas aparecem como aparições, figuras etéreas envoltas em névoa ou sombra.",
+    "text_en": "Ghosts appear as apparitions. ethereal figures cloaked in mist or shadow.",
+    "audio_en_storage_path": "1900_ghosts_appear_as_apparitions_ethereal_figures_cloaked_in_mist_or_shadow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131901",
+    "text_pt": "Formas translúcidas flutuam silenciosamente, observando ou interagindo com os vivos.",
+    "text_en": "Translucent forms drift silently. observing or interacting with the living.",
+    "audio_en_storage_path": "1901_translucent_forms_drift_silently_observing_or_interacting_with_the_living.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131902",
+    "text_pt": "As sessões espíritas tentam se comunicar com espíritos presos entre mundos.",
+    "text_en": "Seances attempt to communicate with spirits trapped between worlds.",
+    "audio_en_storage_path": "1902_seances_attempt_to_communicate_with_spirits_trapped_between_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131903",
+    "text_pt": "Médiuns canalizam mensagens do além, correndo o risco de possessão ou dano.",
+    "text_en": "Mediums channel messages from beyond. risking possession or harm.",
+    "audio_en_storage_path": "1903_mediums_channel_messages_from_beyond_risking_possession_or_harm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131904",
+    "text_pt": "Objetos amaldiçoados carregam energia malévola ligada a assombrações fantasmagóricas.",
+    "text_en": "Cursed objects carry malevolent energy linked to ghostly hauntings.",
+    "audio_en_storage_path": "1904_cursed_objects_carry_malevolent_energy_linked_to_ghostly_hauntings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131905",
+    "text_pt": "Bonecas, espelhos e relíquias de família agem como condutores de atividades sobrenaturais.",
+    "text_en": "Dolls. mirrors. and heirlooms act as conduits for supernatural activity.",
+    "audio_en_storage_path": "1905_dolls_mirrors_and_heirlooms_act_as_conduits_for_supernatural_activity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131906",
+    "text_pt": "Lendas urbanas inspiram contos de caroneiros fantasmagóricos e de caroneiros desaparecidos.",
+    "text_en": "Urban legends inspire tales of ghostly hitchhikers and vanishing hitchhikers.",
+    "audio_en_storage_path": "1906_urban_legends_inspire_tales_of_ghostly_hitchhikers_and_vanishing_hitchhikers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131907",
+    "text_pt": "Histórias passadas de geração em geração ganham credibilidade a cada recontagem.",
+    "text_en": "Stories passed down through generations gain credibility with each retelling.",
+    "audio_en_storage_path": "1907_stories_passed_down_through_generations_gain_credibility_with_each_retelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131908",
+    "text_pt": "Fantasmas personificam a tristeza, a culpa e o arrependimento sentidos por aqueles que ficaram para trás.",
+    "text_en": "Ghosts embody grief. guilt. and regret felt by those left behind.",
+    "audio_en_storage_path": "1908_ghosts_embody_grief_guilt_and_regret_felt_by_those_left_behind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131909",
+    "text_pt": "Suas aparições lembram aos personagens perdas que eles não conseguem esquecer.",
+    "text_en": "Their appearances remind characters of losses they cannot forget.",
+    "audio_en_storage_path": "1909_their_appearances_remind_characters_of_losses_they_cannot_forget.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131910",
+    "text_pt": "Os surtos de zumbis se espalham rapidamente, transformando comunidades em desertos.",
+    "text_en": "Zombie outbreaks spread rapidly. turning communities into wastelands.",
+    "audio_en_storage_path": "1910_zombie_outbreaks_spread_rapidly_turning_communities_into_wastelands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131911",
+    "text_pt": "Mordidas e arranhões infectam as vítimas, espalhando a peste exponencialmente.",
+    "text_en": "Bites and scratches infect victims. spreading the plague exponentially.",
+    "audio_en_storage_path": "1911_bites_and_scratches_infect_victims_spreading_the_plague_exponentially.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131912",
+    "text_pt": "Zonas seguras fornecem refúgio temporário durante invasões de mortos-vivos.",
+    "text_en": "Safe zones provide temporary refuge during undead invasions.",
+    "audio_en_storage_path": "1912_safe_zones_provide_temporary_refuge_during_undead_invasions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131913",
+    "text_pt": "Personagens fortificam edifícios e racionam suprimentos para suportar cercos.",
+    "text_en": "Characters fortify buildings and ration supplies to endure sieges.",
+    "audio_en_storage_path": "1913_characters_fortify_buildings_and_ration_supplies_to_endure_sieges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131914",
+    "text_pt": "Fantasmas manipulam a tecnologia para transmitir mensagens assustadoras.",
+    "text_en": "Ghosts manipulate technology to deliver chilling messages.",
+    "audio_en_storage_path": "1914_ghosts_manipulate_technology_to_deliver_chilling_messages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131915",
+    "text_pt": "Rádios crepitam. TVs piscam. E telefones tocam com chamadas assustadoras.",
+    "text_en": "Radios crackle. TVs flicker. and phones ring with eerie calls.",
+    "audio_en_storage_path": "1915_radios_crackle_tvs_flicker_and_phones_ring_with_eerie_calls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131916",
+    "text_pt": "Florestas assombradas escondem espíritos ligados às árvores e à terra.",
+    "text_en": "Haunted forests conceal spirits bound to trees and earth.",
+    "audio_en_storage_path": "1916_haunted_forests_conceal_spirits_bound_to_trees_and_earth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131917",
+    "text_pt": "Viajantes perdidos encontram aparições avisando-os para voltar.",
+    "text_en": "Lost travelers encounter apparitions warning them to turn back.",
+    "audio_en_storage_path": "1917_lost_travelers_encounter_apparitions_warning_them_to_turn_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131918",
+    "text_pt": "Zumbis simbolizam o colapso social e a perda da humanidade.",
+    "text_en": "Zombies symbolize societal collapse and loss of humanity.",
+    "audio_en_storage_path": "1918_zombies_symbolize_societal_collapse_and_loss_of_humanity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131919",
+    "text_pt": "Decadência e podridão refletem corrupção moral e falhas sistêmicas.",
+    "text_en": "Decay and rot reflect moral corruption and systemic failures.",
+    "audio_en_storage_path": "1919_decay_and_rot_reflect_moral_corruption_and_systemic_failures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131920",
+    "text_pt": "Os exorcismos visam banir espíritos vingativos e purificar espaços assombrados.",
+    "text_en": "Exorcisms aim to banish vengeful spirits and cleanse haunted spaces.",
+    "audio_en_storage_path": "1920_exorcisms_aim_to_banish_vengeful_spirits_and_cleanse_haunted_spaces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131921",
+    "text_pt": "Os rituais exigem fé, força e determinação inabalável para ter sucesso.",
+    "text_en": "Rituals require faith. strength. and unwavering resolve to succeed.",
+    "audio_en_storage_path": "1921_rituals_require_faith_strength_and_unwavering_resolve_to_succeed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131922",
+    "text_pt": "Fantasmas presos a locais específicos resistem às tentativas de seguir em frente.",
+    "text_en": "Ghosts tied to specific locations resist efforts to move on.",
+    "audio_en_storage_path": "1922_ghosts_tied_to_specific_locations_resist_efforts_to_move_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131923",
+    "text_pt": "Tragédias e injustiças os ancoram em lugares onde os eventos aconteceram.",
+    "text_en": "Tragedies and injustices anchor them to places where events unfolded.",
+    "audio_en_storage_path": "1923_tragedies_and_injustices_anchor_them_to_places_where_events_unfolded.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131924",
+    "text_pt": "A tradição zumbi evolui com mudanças culturais e avanços científicos.",
+    "text_en": "Zombie lore evolves with cultural shifts and scientific advancements.",
+    "audio_en_storage_path": "1924_zombie_lore_evolves_with_cultural_shifts_and_scientific_advancements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131925",
+    "text_pt": "Vírus. experimentos. e as mutações explicam a reanimação nas narrativas modernas.",
+    "text_en": "Viruses. experiments. and mutations explain reanimation in modern narratives.",
+    "audio_en_storage_path": "1925_viruses_experiments_and_mutations_explain_reanimation_in_modern_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131926",
+    "text_pt": "Caçadores de fantasmas investigam atividades paranormais usando dispositivos e intuição.",
+    "text_en": "Ghost hunters investigate paranormal activity using gadgets and intuition.",
+    "audio_en_storage_path": "1926_ghost_hunters_investigate_paranormal_activity_using_gadgets_and_intuition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131927",
+    "text_pt": "Detectores EMF, câmeras térmicas e gravações EVP capturam evidências.",
+    "text_en": "EMF detectors. thermal cameras. and EVP recordings capture evidence.",
+    "audio_en_storage_path": "1927_emf_detectors_thermal_cameras_and_evp_recordings_capture_evidence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131928",
+    "text_pt": "Seres mortos-vivos confundem a distinção entre vítima e vilão.",
+    "text_en": "Undead beings blur the distinction between victim and villain.",
+    "audio_en_storage_path": "1928_undead_beings_blur_the_distinction_between_victim_and_villain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131929",
+    "text_pt": "Surge a simpatia por criaturas presas entre a existência e o esquecimento.",
+    "text_en": "Sympathy arises for creatures caught between existence and oblivion.",
+    "audio_en_storage_path": "1929_sympathy_arises_for_creatures_caught_between_existence_and_oblivion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131930",
+    "text_pt": "Asilos e prisões mal-assombrados abrigam almas torturadas que buscam redenção.",
+    "text_en": "Haunted asylums and prisons house tortured souls seeking redemption.",
+    "audio_en_storage_path": "1930_haunted_asylums_and_prisons_house_tortured_souls_seeking_redemption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131931",
+    "text_pt": "O tormento sofrido na vida continua na morte, alimentando a raiva e o desespero.",
+    "text_en": "Torment endured in life continues into death. fueling rage and despair.",
+    "audio_en_storage_path": "1931_torment_endured_in_life_continues_into_death_fueling_rage_and_despair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131932",
+    "text_pt": "Guias de sobrevivência de zumbis enfatizam preparação e trabalho em equipe.",
+    "text_en": "Zombie survival guides emphasize preparation and teamwork.",
+    "audio_en_storage_path": "1932_zombie_survival_guides_emphasize_preparation_and_teamwork.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131933",
+    "text_pt": "Conhecimento e união aumentam as chances de sobreviver ao apocalipse.",
+    "text_en": "Knowledge and unity increase chances of enduring the apocalypse.",
+    "audio_en_storage_path": "1933_knowledge_and_unity_increase_chances_of_enduring_the_apocalypse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131934",
+    "text_pt": "Fantasmas servem como lembretes de histórias inacabadas e promessas quebradas.",
+    "text_en": "Ghosts serve as reminders of unfinished stories and broken promises.",
+    "audio_en_storage_path": "1934_ghosts_serve_as_reminders_of_unfinished_stories_and_broken_promises.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131935",
+    "text_pt": "Resolver conflitos passados ​​permite que os espíritos encontrem paz e partam.",
+    "text_en": "Resolving past conflicts allows spirits to find peace and depart.",
+    "audio_en_storage_path": "1935_resolving_past_conflicts_allows_spirits_to_find_peace_and_depart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131936",
+    "text_pt": "O medo dos mortos-vivos desperta instintos primitivos sobre a mortalidade.",
+    "text_en": "Fear of the undead taps into primal instincts about mortality.",
+    "audio_en_storage_path": "1936_fear_of_the_undead_taps_into_primal_instincts_about_mortality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131937",
+    "text_pt": "Confrontar zumbis força os personagens a lidar com sua própria fragilidade.",
+    "text_en": "Confronting zombies forces characters to grapple with their own fragility.",
+    "audio_en_storage_path": "1937_confronting_zombies_forces_characters_to_grapple_with_their_own_fragility.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131938",
+    "text_pt": "Fantasmas e seres mortos-vivos persistem no imaginário coletivo.",
+    "text_en": "Ghosts and undead beings linger in the collective imagination.",
+    "audio_en_storage_path": "1938_ghosts_and_undead_beings_linger_in_the_collective_imagination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131939",
+    "text_pt": "Sua presença assustadora reflete o fascínio da humanidade pela morte e pela vida após a morte.",
+    "text_en": "Their haunting presence reflects humanity’s fascination with death and the afterlife.",
+    "audio_en_storage_path": "1939_their_haunting_presence_reflects_humanitys_fascination_with_death_and_the_afterlife.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131940",
+    "text_pt": "Significado da Vida: Questões sobre o Propósito Humano, Religião e Espiritualidade",
+    "text_en": "Meaning of Life: Questions About Human Purpose. Religion. and Spirituality",
+    "audio_en_storage_path": "1940_meaning_of_life_questions_about_human_purpose_religion_and_spirituality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131941",
+    "text_pt": "O sentido da vida é uma das questões mais profundas da humanidade.",
+    "text_en": "The meaning of life is one of humanity’s most profound questions.",
+    "audio_en_storage_path": "1941_the_meaning_of_life_is_one_of_humanitys_most_profound_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131942",
+    "text_pt": "Personagens lutam com dilemas existenciais sobre seu lugar no universo.",
+    "text_en": "Characters grapple with existential dilemmas about their place in the universe.",
+    "audio_en_storage_path": "1942_characters_grapple_with_existential_dilemmas_about_their_place_in_the_universe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131943",
+    "text_pt": "A religião geralmente fornece respostas, oferecendo conforto por meio da fé e da doutrina.",
+    "text_en": "Religion often provides answers. offering comfort through faith and doctrine.",
+    "audio_en_storage_path": "1943_religion_often_provides_answers_offering_comfort_through_faith_and_doctrine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131944",
+    "text_pt": "Orações, rituais e escrituras guiam os fiéis em suas jornadas espirituais.",
+    "text_en": "Prayers. rituals. and scriptures guide believers on their spiritual journeys.",
+    "audio_en_storage_path": "1944_prayers_rituals_and_scriptures_guide_believers_on_their_spiritual_journeys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131945",
+    "text_pt": "A filosofia desafia os personagens a pensar criticamente sobre a existência.",
+    "text_en": "Philosophy challenges characters to think critically about existence.",
+    "audio_en_storage_path": "1945_philosophy_challenges_characters_to_think_critically_about_existence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131946",
+    "text_pt": "Pensadores antigos como Sócrates e Nietzsche inspiram debates sobre propósito.",
+    "text_en": "Ancient thinkers like Socrates and Nietzsche inspire debates about purpose.",
+    "audio_en_storage_path": "1946_ancient_thinkers_like_socrates_and_nietzsche_inspire_debates_about_purpose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131947",
+    "text_pt": "A espiritualidade transcende a religião organizada, concentrando-se na paz interior e na conexão.",
+    "text_en": "Spirituality transcends organized religion. focusing on inner peace and connection.",
+    "audio_en_storage_path": "1947_spirituality_transcends_organized_religion_focusing_on_inner_peace_and_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131948",
+    "text_pt": "Meditação e atenção plena ajudam os personagens a encontrar clareza em meio ao caos.",
+    "text_en": "Meditation and mindfulness help characters find clarity amidst chaos.",
+    "audio_en_storage_path": "1948_meditation_and_mindfulness_help_characters_find_clarity_amidst_chaos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131949",
+    "text_pt": "A ciência busca explicar os mistérios da vida por meio da lógica e da evidência.",
+    "text_en": "Science seeks to explain life’s mysteries through logic and evidence.",
+    "audio_en_storage_path": "1949_science_seeks_to_explain_lifes_mysteries_through_logic_and_evidence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131950",
+    "text_pt": "Teorias sobre as origens do universo despertam admiração e curiosidade.",
+    "text_en": "Theories about the origins of the universe spark awe and curiosity.",
+    "audio_en_storage_path": "1950_theories_about_the_origins_of_the_universe_spark_awe_and_curiosity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131951",
+    "text_pt": "A arte se torna um meio para explorar a condição humana.",
+    "text_en": "Art becomes a medium for exploring the human condition.",
+    "audio_en_storage_path": "1951_art_becomes_a_medium_for_exploring_the_human_condition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131952",
+    "text_pt": "Pinturas, músicas e poesias expressam emoções que as palavras por si só não conseguem capturar.",
+    "text_en": "Paintings. music. and poetry express emotions words alone cannot capture.",
+    "audio_en_storage_path": "1952_paintings_music_and_poetry_express_emotions_words_alone_cannot_capture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131953",
+    "text_pt": "O amor é frequentemente retratado como um propósito central na vida.",
+    "text_en": "Love is often portrayed as a central purpose in life.",
+    "audio_en_storage_path": "1953_love_is_often_portrayed_as_a_central_purpose_in_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131954",
+    "text_pt": "Os relacionamentos dão sentido à existência por meio da alegria e do sofrimento compartilhados.",
+    "text_en": "Relationships give meaning to existence through shared joy and suffering.",
+    "audio_en_storage_path": "1954_relationships_give_meaning_to_existence_through_shared_joy_and_suffering.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131955",
+    "text_pt": "Trabalho e criatividade realizam personagens ao contribuir para algo maior.",
+    "text_en": "Work and creativity fulfill characters by contributing to something greater.",
+    "audio_en_storage_path": "1955_work_and_creativity_fulfill_characters_by_contributing_to_something_greater.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131956",
+    "text_pt": "Construir, criar e inovar deixam legados que perduram por muitas vidas.",
+    "text_en": "Building. creating. and innovating leave legacies that outlast lifetimes.",
+    "audio_en_storage_path": "1956_building_creating_and_innovating_leave_legacies_that_outlast_lifetimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131957",
+    "text_pt": "A natureza inspira reflexões sobre a interconexão de todos os seres vivos.",
+    "text_en": "Nature inspires reflections on the interconnectedness of all living things.",
+    "audio_en_storage_path": "1957_nature_inspires_reflections_on_the_interconnectedness_of_all_living_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131958",
+    "text_pt": "Montanhas, oceanos e florestas lembram aos personagens a beleza e a fragilidade da vida.",
+    "text_en": "Mountains. oceans. and forests remind characters of life’s beauty and fragility.",
+    "audio_en_storage_path": "1958_mountains_oceans_and_forests_remind_characters_of_lifes_beauty_and_fragility.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131959",
+    "text_pt": "O sofrimento levanta questões sobre por que coisas ruins acontecem a pessoas boas.",
+    "text_en": "Suffering raises questions about why bad things happen to good people.",
+    "audio_en_storage_path": "1959_suffering_raises_questions_about_why_bad_things_happen_to_good_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131960",
+    "text_pt": "Dor e perda desafiam crenças na justiça e na equidade divina.",
+    "text_en": "Pain and loss challenge beliefs in fairness and divine justice.",
+    "audio_en_storage_path": "1960_pain_and_loss_challenge_beliefs_in_fairness_and_divine_justice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131961",
+    "text_pt": "Livre-arbítrio versus determinismo desperta debates filosóficos.",
+    "text_en": "Free will versus determinism sparks philosophical debates.",
+    "audio_en_storage_path": "1961_free_will_versus_determinism_sparks_philosophical_debates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131962",
+    "text_pt": "Os personagens questionam se suas escolhas realmente importam ou são predestinadas.",
+    "text_en": "Characters question whether their choices truly matter or are predestined.",
+    "audio_en_storage_path": "1962_characters_question_whether_their_choices_truly_matter_or_are_predestined.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131963",
+    "text_pt": "Bússolas morais orientam decisões na busca por propósito.",
+    "text_en": "Moral compasses guide decisions when searching for purpose.",
+    "audio_en_storage_path": "1963_moral_compasses_guide_decisions_when_searching_for_purpose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131964",
+    "text_pt": "O certo e o errado tornam-se parâmetros para avaliar ações e intenções.",
+    "text_en": "Right and wrong become benchmarks for evaluating actions and intentions.",
+    "audio_en_storage_path": "1964_right_and_wrong_become_benchmarks_for_evaluating_actions_and_intentions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131965",
+    "text_pt": "Crises existenciais forçam personagens a reavaliar suas prioridades.",
+    "text_en": "Existential crises force characters to reevaluate their priorities.",
+    "audio_en_storage_path": "1965_existential_crises_force_characters_to_reevaluate_their_priorities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131966",
+    "text_pt": "As transições da meia-idade geralmente estimulam uma introspecção mais profunda sobre a realização.",
+    "text_en": "Midlife transitions often prompt deeper introspection about fulfillment.",
+    "audio_en_storage_path": "1966_midlife_transitions_often_prompt_deeper_introspection_about_fulfillment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131967",
+    "text_pt": "O legado se torna uma força motriz para aqueles que buscam a imortalidade por meio do impacto.",
+    "text_en": "Legacy becomes a driving force for those seeking immortality through impact.",
+    "audio_en_storage_path": "1967_legacy_becomes_a_driving_force_for_those_seeking_immortality_through_impact.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131968",
+    "text_pt": "Deixar algo significativo garante lembranças após a morte.",
+    "text_en": "Leaving behind something meaningful ensures remembrance after death.",
+    "audio_en_storage_path": "1968_leaving_behind_something_meaningful_ensures_remembrance_after_death.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131969",
+    "text_pt": "A esperança sustenta os personagens durante períodos de dúvida e incerteza.",
+    "text_en": "Hope sustains characters during periods of doubt and uncertainty.",
+    "audio_en_storage_path": "1969_hope_sustains_characters_during_periods_of_doubt_and_uncertainty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131970",
+    "text_pt": "A crença em um futuro melhor os motiva a continuar buscando respostas.",
+    "text_en": "Belief in a brighter future motivates them to keep striving for answers.",
+    "audio_en_storage_path": "1970_belief_in_a_brighter_future_motivates_them_to_keep_striving_for_answers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131971",
+    "text_pt": "A dúvida e o ceticismo levam ao crescimento pessoal e à iluminação.",
+    "text_en": "Doubt and skepticism lead to personal growth and enlightenment.",
+    "audio_en_storage_path": "1971_doubt_and_skepticism_lead_to_personal_growth_and_enlightenment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131972",
+    "text_pt": "Questionar verdades estabelecidas abre portas para novas perspectivas.",
+    "text_en": "Questioning established truths opens doors to new perspectives.",
+    "audio_en_storage_path": "1972_questioning_established_truths_opens_doors_to_new_perspectives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131973",
+    "text_pt": "A comunidade promove um senso de pertencimento e propósito compartilhado.",
+    "text_en": "Community fosters a sense of belonging and shared purpose.",
+    "audio_en_storage_path": "1973_community_fosters_a_sense_of_belonging_and_shared_purpose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131974",
+    "text_pt": "Os esforços do grupo ampliam as contribuições individuais em direção a objetivos comuns.",
+    "text_en": "Group efforts amplify individual contributions toward common goals.",
+    "audio_en_storage_path": "1974_group_efforts_amplify_individual_contributions_toward_common_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131975",
+    "text_pt": "A solidão destaca a necessidade universal de conexão e compreensão.",
+    "text_en": "Loneliness highlights the universal need for connection and understanding.",
+    "audio_en_storage_path": "1975_loneliness_highlights_the_universal_need_for_connection_and_understanding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131976",
+    "text_pt": "Personagens anseiam por relacionamentos que validem sua existência.",
+    "text_en": "Characters yearn for relationships that validate their existence.",
+    "audio_en_storage_path": "1976_characters_yearn_for_relationships_that_validate_their_existence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131977",
+    "text_pt": "A fé em algo maior que si mesmo proporciona consolo em tempos difíceis.",
+    "text_en": "Faith in something greater than oneself provides solace in dark times.",
+    "audio_en_storage_path": "1977_faith_in_something_greater_than_oneself_provides_solace_in_dark_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131978",
+    "text_pt": "Deuses, espíritos e poderes superiores simbolizam esperança além da compreensão mortal.",
+    "text_en": "Gods. spirits. and higher powers symbolize hope beyond mortal comprehension.",
+    "audio_en_storage_path": "1978_gods_spirits_and_higher_powers_symbolize_hope_beyond_mortal_comprehension.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131979",
+    "text_pt": "O agnosticismo deixa espaço para a ambiguidade, aceitando a incerteza como parte da vida.",
+    "text_en": "Agnosticism leaves room for ambiguity. embracing uncertainty as part of life.",
+    "audio_en_storage_path": "1979_agnosticism_leaves_room_for_ambiguity_embracing_uncertainty_as_part_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131980",
+    "text_pt": "Não saber se torna aceitável quando a certeza parece inatingível.",
+    "text_en": "Not knowing becomes acceptable when certainty feels unattainable.",
+    "audio_en_storage_path": "1980_not_knowing_becomes_acceptable_when_certainty_feels_unattainable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131981",
+    "text_pt": "Histórias de redenção ilustram a possibilidade de encontrar significado após o fracasso.",
+    "text_en": "Stories of redemption illustrate the possibility of finding meaning after failure.",
+    "audio_en_storage_path": "1981_stories_of_redemption_illustrate_the_possibility_of_finding_meaning_after_failure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131982",
+    "text_pt": "Personagens reconstroem vidas destruídas pelo arrependimento e desespero.",
+    "text_en": "Characters rebuild lives shattered by regret and despair.",
+    "audio_en_storage_path": "1982_characters_rebuild_lives_shattered_by_regret_and_despair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131983",
+    "text_pt": "O propósito evolui com o tempo à medida que os personagens crescem e mudam.",
+    "text_en": "Purpose evolves over time as characters grow and change.",
+    "audio_en_storage_path": "1983_purpose_evolves_over_time_as_characters_grow_and_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131984",
+    "text_pt": "O que antes importava pode perder importância à medida que novas paixões surgem.",
+    "text_en": "What once mattered may lose significance as new passions emerge.",
+    "audio_en_storage_path": "1984_what_once_mattered_may_lose_significance_as_new_passions_emerge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131985",
+    "text_pt": "A busca por significado define a experiência humana.",
+    "text_en": "The search for meaning defines the human experience.",
+    "audio_en_storage_path": "1985_the_search_for_meaning_defines_the_human_experience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131986",
+    "text_pt": "Sem ela, a vida corre o risco de se tornar vazia e sem direção.",
+    "text_en": "Without it. life risks becoming hollow and devoid of direction.",
+    "audio_en_storage_path": "1986_without_it_life_risks_becoming_hollow_and_devoid_of_direction.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131987",
+    "text_pt": "16.2 Realidade vs. Ilusão: Personagens questionando se o que vivenciam é real ou inventado",
+    "text_en": "16.2 Reality vs. Illusion: Characters Questioning Whether What They Experience Is Real or Fabricated",
+    "audio_en_storage_path": "1987_162_reality_vs_illusion_characters_questioning_whether_what_they_experience_is_real_or_fabricated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131988",
+    "text_pt": "Realidade versus ilusão confunde os limites entre o que é verdadeiro e o que é imaginário.",
+    "text_en": "Reality vs. illusion blurs the boundaries between what is true and imagined.",
+    "audio_en_storage_path": "1988_reality_vs_illusion_blurs_the_boundaries_between_what_is_true_and_imagined.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131989",
+    "text_pt": "Personagens questionam a autenticidade de suas percepções e experiências.",
+    "text_en": "Characters question the authenticity of their perceptions and experiences.",
+    "audio_en_storage_path": "1989_characters_question_the_authenticity_of_their_perceptions_and_experiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131990",
+    "text_pt": "Os sonhos parecem vívidos e tangíveis, indistinguíveis da vida desperta.",
+    "text_en": "Dreams feel vivid and tangible. indistinguishable from waking life.",
+    "audio_en_storage_path": "1990_dreams_feel_vivid_and_tangible_indistinguishable_from_waking_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131991",
+    "text_pt": "O despertar traz confusão, pois as memórias dos sonhos persistem de forma assustadora.",
+    "text_en": "Awakening brings confusion as memories of dreams linger hauntingly.",
+    "audio_en_storage_path": "1991_awakening_brings_confusion_as_memories_of_dreams_linger_hauntingly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131992",
+    "text_pt": "Simulações e realidades virtuais mergulham personagens em mundos fabricados.",
+    "text_en": "Simulations and virtual realities immerse characters in fabricated worlds.",
+    "audio_en_storage_path": "1992_simulations_and_virtual_realities_immerse_characters_in_fabricated_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131993",
+    "text_pt": "A tecnologia cria dimensões alternativas indistinguíveis da realidade.",
+    "text_en": "Technology creates alternate dimensions indistinguishable from reality.",
+    "audio_en_storage_path": "1993_technology_creates_alternate_dimensions_indistinguishable_from_reality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131994",
+    "text_pt": "Alucinações distorcem a percepção sensorial, fazendo com que as ilusões pareçam reais.",
+    "text_en": "Hallucinations distort sensory input. making illusions seem real.",
+    "audio_en_storage_path": "1994_hallucinations_distort_sensory_input_making_illusions_seem_real.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131995",
+    "text_pt": "Drogas, traumas e doenças mentais distorcem a percepção e o julgamento.",
+    "text_en": "Drugs. trauma. and mental illness warp perception and judgment.",
+    "audio_en_storage_path": "1995_drugs_trauma_and_mental_illness_warp_perception_and_judgment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131996",
+    "text_pt": "Os espelhos refletem não apenas aparências físicas, mas também dúvidas internas.",
+    "text_en": "Mirrors reflect not only physical appearances but also inner doubts.",
+    "audio_en_storage_path": "1996_mirrors_reflect_not_only_physical_appearances_but_also_inner_doubts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131997",
+    "text_pt": "Os personagens veem versões de si mesmos que desejam negar ou suprimir.",
+    "text_en": "Characters see versions of themselves they wish to deny or suppress.",
+    "audio_en_storage_path": "1997_characters_see_versions_of_themselves_they_wish_to_deny_or_suppress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131998",
+    "text_pt": "O engano desempenha um papel fundamental em narrativas que questionam a realidade.",
+    "text_en": "Deception plays a key role in narratives questioning reality.",
+    "audio_en_storage_path": "1998_deception_plays_a_key_role_in_narratives_questioning_reality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131999",
+    "text_pt": "Mentiras e manipulações minam a confiança nos outros e em si mesmo.",
+    "text_en": "Lies and manipulations undermine trust in others and oneself.",
+    "audio_en_storage_path": "1999_lies_and_manipulations_undermine_trust_in_others_and_oneself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132000",
+    "text_pt": "Teorias da conspiração sugerem que forças ocultas controlam a vida cotidiana.",
+    "text_en": "Conspiracy theories suggest hidden forces control everyday life.",
+    "audio_en_storage_path": "2000_conspiracy_theories_suggest_hidden_forces_control_everyday_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132001",
+    "text_pt": "Os personagens vão mais a fundo, descobrindo camadas de engano e desinformação.",
+    "text_en": "Characters dig deeper. uncovering layers of deceit and misinformation.",
+    "audio_en_storage_path": "2001_characters_dig_deeper_uncovering_layers_of_deceit_and_misinformation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132002",
+    "text_pt": "A memória não é confiável, alterando detalhes a cada lembrança.",
+    "text_en": "Memory proves unreliable. altering details with each recollection.",
+    "audio_en_storage_path": "2002_memory_proves_unreliable_altering_details_with_each_recollection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132003",
+    "text_pt": "O que aconteceu no passado se torna subjetivo e aberto à interpretação.",
+    "text_en": "What happened in the past becomes subjective and open to interpretation.",
+    "audio_en_storage_path": "2003_what_happened_in_the_past_becomes_subjective_and_open_to_interpretation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132004",
+    "text_pt": "O gaslighting faz com que os personagens duvidem de sua sanidade e de sua versão dos acontecimentos.",
+    "text_en": "Gaslighting makes characters doubt their sanity and version of events.",
+    "audio_en_storage_path": "2004_gaslighting_makes_characters_doubt_their_sanity_and_version_of_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132005",
+    "text_pt": "Manipuladores distorcem fatos para ganhar poder sobre mentes vulneráveis.",
+    "text_en": "Manipulators twist facts to gain power over vulnerable minds.",
+    "audio_en_storage_path": "2005_manipulators_twist_facts_to_gain_power_over_vulnerable_minds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132006",
+    "text_pt": "Dimensões alternativas propõem realidades paralelas existindo simultaneamente.",
+    "text_en": "Alternate dimensions propose parallel realities existing simultaneously.",
+    "audio_en_storage_path": "2006_alternate_dimensions_propose_parallel_realities_existing_simultaneously.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132007",
+    "text_pt": "Os personagens encontram versões de si mesmos levando vidas muito diferentes.",
+    "text_en": "Characters encounter versions of themselves leading vastly different lives.",
+    "audio_en_storage_path": "2007_characters_encounter_versions_of_themselves_leading_vastly_different_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132008",
+    "text_pt": "Ilusões servem como metáforas para escapismo e negação.",
+    "text_en": "Illusions serve as metaphors for escapism and denial.",
+    "audio_en_storage_path": "2008_illusions_serve_as_metaphors_for_escapism_and_denial.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132009",
+    "text_pt": "As fantasias proporcionam alívio temporário de verdades duras e dolorosas.",
+    "text_en": "Fantasies provide temporary relief from harsh and painful truths.",
+    "audio_en_storage_path": "2009_fantasies_provide_temporary_relief_from_harsh_and_painful_truths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132010",
+    "text_pt": "Truques ópticos enganam os olhos, criando ilusões de movimento ou presença.",
+    "text_en": "Optical tricks deceive the eye. creating illusions of movement or presence.",
+    "audio_en_storage_path": "2010_optical_tricks_deceive_the_eye_creating_illusions_of_movement_or_presence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132011",
+    "text_pt": "Mágicos e artistas exploram a percepção para desafiar suposições.",
+    "text_en": "Magicians and artists exploit perception to challenge assumptions.",
+    "audio_en_storage_path": "2011_magicians_and_artists_exploit_perception_to_challenge_assumptions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132012",
+    "text_pt": "Debates filosóficos exploram se a realidade pode ser totalmente conhecida.",
+    "text_en": "Philosophical debates explore whether reality can ever be fully known.",
+    "audio_en_storage_path": "2012_philosophical_debates_explore_whether_reality_can_ever_be_fully_known.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132013",
+    "text_pt": "O solipsismo sugere que somente o eu existe; todo o resto é conjectura.",
+    "text_en": "Solipsism suggests only the self exists; everything else is conjecture.",
+    "audio_en_storage_path": "2013_solipsism_suggests_only_the_self_exists_everything_else_is_conjecture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132014",
+    "text_pt": "A paranoia amplifica a suspeita, transformando pequenas inconsistências em grandes ameaças.",
+    "text_en": "Paranoia amplifies suspicion. turning minor inconsistencies into major threats.",
+    "audio_en_storage_path": "2014_paranoia_amplifies_suspicion_turning_minor_inconsistencies_into_major_threats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132015",
+    "text_pt": "Personagens obcecados por detalhes, convencidos de que nada é o que parece.",
+    "text_en": "Characters obsess over details. convinced nothing is as it seems.",
+    "audio_en_storage_path": "2015_characters_obsess_over_details_convinced_nothing_is_as_it_seems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132016",
+    "text_pt": "A ficção científica introduz universos simulados indistinguíveis da verdade.",
+    "text_en": "Science fiction introduces simulated universes indistinguishable from truth.",
+    "audio_en_storage_path": "2016_science_fiction_introduces_simulated_universes_indistinguishable_from_truth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132017",
+    "text_pt": "A inteligência artificial projeta mundos tão convincentes que substituem a realidade.",
+    "text_en": "Artificial intelligence designs worlds so convincing they replace reality.",
+    "audio_en_storage_path": "2017_artificial_intelligence_designs_worlds_so_convincing_they_replace_reality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132018",
+    "text_pt": "Experimentos psicológicos testam os limites da percepção e da crença.",
+    "text_en": "Psychological experiments test the limits of perception and belief.",
+    "audio_en_storage_path": "2018_psychological_experiments_test_the_limits_of_perception_and_belief.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132019",
+    "text_pt": "Os sujeitos têm dificuldade em discernir ambientes controlados de experiências genuínas.",
+    "text_en": "Subjects struggle to discern controlled environments from genuine experiences.",
+    "audio_en_storage_path": "2019_subjects_struggle_to_discern_controlled_environments_from_genuine_experiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132020",
+    "text_pt": "O isolamento aumenta a consciência das discrepâncias no ambiente.",
+    "text_en": "Isolation heightens awareness of discrepancies in surroundings.",
+    "audio_en_storage_path": "2020_isolation_heightens_awareness_of_discrepancies_in_surroundings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132021",
+    "text_pt": "Sozinhos, os personagens analisam cada som, sombra e movimento.",
+    "text_en": "Alone. characters analyze every sound. shadow. and movement.",
+    "audio_en_storage_path": "2021_alone_characters_analyze_every_sound_shadow_and_movement.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132022",
+    "text_pt": "Narrativas fictícias dentro de histórias criam metacomentários sobre a realidade.",
+    "text_en": "Fictional narratives within stories create meta-commentary on reality.",
+    "audio_en_storage_path": "2022_fictional_narratives_within_stories_create_metacommentary_on_reality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132023",
+    "text_pt": "Livros, filmes e peças questionam a natureza da narrativa em si.",
+    "text_en": "Books. movies. and plays question the nature of storytelling itself.",
+    "audio_en_storage_path": "2023_books_movies_and_plays_question_the_nature_of_storytelling_itself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132024",
+    "text_pt": "Os símbolos representam verdades mais profundas escondidas sob ilusões superficiais.",
+    "text_en": "Symbols represent deeper truths hidden beneath surface-level illusions.",
+    "audio_en_storage_path": "2024_symbols_represent_deeper_truths_hidden_beneath_surfacelevel_illusions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132025",
+    "text_pt": "Interpretar esses sinais revela insights sobre as motivações do caráter.",
+    "text_en": "Interpreting these signs reveals insights into character motivations.",
+    "audio_en_storage_path": "2025_interpreting_these_signs_reveals_insights_into_character_motivations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132026",
+    "text_pt": "Testes de realidade colocam personagens em momentos de incerteza.",
+    "text_en": "Reality checks ground characters in moments of uncertainty.",
+    "audio_en_storage_path": "2026_reality_checks_ground_characters_in_moments_of_uncertainty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132027",
+    "text_pt": "Beliscar a pele ou fazer perguntas os tranquiliza dizendo que estão acordados.",
+    "text_en": "Pinching skin or asking questions reassures them they’re awake.",
+    "audio_en_storage_path": "2027_pinching_skin_or_asking_questions_reassures_them_theyre_awake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132028",
+    "text_pt": "Ilusões se desfazem quando confrontadas com evidências inegáveis.",
+    "text_en": "Illusions shatter when confronted with undeniable evidence.",
+    "audio_en_storage_path": "2028_illusions_shatter_when_confronted_with_undeniable_evidence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132029",
+    "text_pt": "A verdade emerge do caos, forçando os personagens a confrontar fatos desconfortáveis.",
+    "text_en": "Truth emerges from chaos. forcing characters to confront uncomfortable facts.",
+    "audio_en_storage_path": "2029_truth_emerges_from_chaos_forcing_characters_to_confront_uncomfortable_facts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132030",
+    "text_pt": "Fugir das ilusões exige coragem para enfrentar duras realidades.",
+    "text_en": "Escaping illusions requires courage to face harsh realities.",
+    "audio_en_storage_path": "2030_escaping_illusions_requires_courage_to_face_harsh_realities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132031",
+    "text_pt": "A negação protege, mas acaba dificultando o crescimento e a compreensão pessoal.",
+    "text_en": "Denial protects but ultimately hinders personal growth and understanding.",
+    "audio_en_storage_path": "2031_denial_protects_but_ultimately_hinders_personal_growth_and_understanding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132032",
+    "text_pt": "A percepção molda a realidade, influenciando como os personagens interpretam o mundo.",
+    "text_en": "Perception shapes reality. influencing how characters interpret the world.",
+    "audio_en_storage_path": "2032_perception_shapes_reality_influencing_how_characters_interpret_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132033",
+    "text_pt": "Preconceitos e preconceitos influenciam interações e decisões.",
+    "text_en": "Biases and preconceptions color interactions and decisions.",
+    "audio_en_storage_path": "2033_biases_and_preconceptions_color_interactions_and_decisions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132034",
+    "text_pt": "Realidade versus ilusão desafia o público a questionar suas próprias vidas.",
+    "text_en": "Reality vs. illusion challenges audiences to question their own lives.",
+    "audio_en_storage_path": "2034_reality_vs_illusion_challenges_audiences_to_question_their_own_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132035",
+    "text_pt": "A reflexão provoca desconforto e introspecção sobre verdades percebidas.",
+    "text_en": "Reflection prompts discomfort and introspection about perceived truths.",
+    "audio_en_storage_path": "2035_reflection_prompts_discomfort_and_introspection_about_perceived_truths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132036",
+    "text_pt": "A linha entre realidade e invenção permanece perpetuamente tênue.",
+    "text_en": "The line between reality and fabrication remains perpetually blurred.",
+    "audio_en_storage_path": "2036_the_line_between_reality_and_fabrication_remains_perpetually_blurred.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132037",
+    "text_pt": "A incerteza se torna parte inerente da experiência humana.",
+    "text_en": "Uncertainty becomes an inherent part of the human experience.",
+    "audio_en_storage_path": "2037_uncertainty_becomes_an_inherent_part_of_the_human_experience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132038",
+    "text_pt": "Morte e Imortalidade: Reflexões sobre a Mortalidade Humana ou o Desejo de Viver para Sempre",
+    "text_en": "Death and Immortality: Reflections on Human Mortality or the Desire to Live Forever",
+    "audio_en_storage_path": "2038_death_and_immortality_reflections_on_human_mortality_or_the_desire_to_live_forever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132039",
+    "text_pt": "A morte e a imortalidade evocam os medos e desejos mais profundos da humanidade.",
+    "text_en": "Death and immortality evoke humanity’s deepest fears and desires.",
+    "audio_en_storage_path": "2039_death_and_immortality_evoke_humanitys_deepest_fears_and_desires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132040",
+    "text_pt": "Personagens confrontam a mortalidade, lutando com a inevitabilidade do seu fim.",
+    "text_en": "Characters confront mortality. grappling with the inevitability of their end.",
+    "audio_en_storage_path": "2040_characters_confront_mortality_grappling_with_the_inevitability_of_their_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132041",
+    "text_pt": "Funerais e memoriais destacam a finalidade da morte.",
+    "text_en": "Funerals and memorials highlight the finality of death.",
+    "audio_en_storage_path": "2041_funerals_and_memorials_highlight_the_finality_of_death.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132042",
+    "text_pt": "Os rituais homenageiam os que partiram ao mesmo tempo em que lembram os vivos de sua impermanência.",
+    "text_en": "Rituals honor the departed while reminding the living of their impermanence.",
+    "audio_en_storage_path": "2042_rituals_honor_the_departed_while_reminding_the_living_of_their_impermanence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132043",
+    "text_pt": "A imortalidade representa tanto uma bênção quanto uma maldição na narrativa.",
+    "text_en": "Immortality represents both a blessing and a curse in storytelling.",
+    "audio_en_storage_path": "2043_immortality_represents_both_a_blessing_and_a_curse_in_storytelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132044",
+    "text_pt": "A vida eterna traz solidão e fadiga, além de possibilidades infinitas.",
+    "text_en": "Eternal life brings loneliness and fatigue alongside endless possibilities.",
+    "audio_en_storage_path": "2044_eternal_life_brings_loneliness_and_fatigue_alongside_endless_possibilities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132045",
+    "text_pt": "Experiências de quase morte transformam as perspectivas dos personagens sobre a existência.",
+    "text_en": "Near-death experiences transform characters’ perspectives on existence.",
+    "audio_en_storage_path": "2045_neardeath_experiences_transform_characters_perspectives_on_existence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132046",
+    "text_pt": "O contato com a morte inspira gratidão e uma apreciação renovada pela vida.",
+    "text_en": "Brushes with death inspire gratitude and renewed appreciation for life.",
+    "audio_en_storage_path": "2046_brushes_with_death_inspire_gratitude_and_renewed_appreciation_for_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132047",
+    "text_pt": "Os conceitos de vida após a morte variam entre culturas, religiões e filosofias.",
+    "text_en": "Afterlife concepts vary across cultures. religions. and philosophies.",
+    "audio_en_storage_path": "2047_afterlife_concepts_vary_across_cultures_religions_and_philosophies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132048",
+    "text_pt": "Céu, inferno, reencarnação e esquecimento oferecem visões contrastantes da eternidade.",
+    "text_en": "Heaven. hell. reincarnation. and oblivion offer contrasting visions of eternity.",
+    "audio_en_storage_path": "2048_heaven_hell_reincarnation_and_oblivion_offer_contrasting_visions_of_eternity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132049",
+    "text_pt": "Fantasmas personificam a tensão entre a vida e a morte, persistente e sem solução.",
+    "text_en": "Ghosts embody the tension between life and death. lingering unresolved.",
+    "audio_en_storage_path": "2049_ghosts_embody_the_tension_between_life_and_death_lingering_unresolved.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132050",
+    "text_pt": "A presença deles ressalta a recusa da humanidade em aceitar a mortalidade.",
+    "text_en": "Their presence underscores humanity’s refusal to accept mortality.",
+    "audio_en_storage_path": "2050_their_presence_underscores_humanitys_refusal_to_accept_mortality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132051",
+    "text_pt": "Criogenia e clonagem exploram tentativas científicas de enganar a morte.",
+    "text_en": "Cryogenics and cloning explore scientific attempts to cheat death.",
+    "audio_en_storage_path": "2051_cryogenics_and_cloning_explore_scientific_attempts_to_cheat_death.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132052",
+    "text_pt": "Preservar corpos ou replicar a consciência sugere o fascínio da imortalidade.",
+    "text_en": "Preserving bodies or replicating consciousness hints at immortality’s allure.",
+    "audio_en_storage_path": "2052_preserving_bodies_or_replicating_consciousness_hints_at_immortalitys_allure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132053",
+    "text_pt": "Vampiros e outros seres mortos-vivos simbolizam os fardos da vida eterna.",
+    "text_en": "Vampires and other undead beings symbolize eternal life’s burdens.",
+    "audio_en_storage_path": "2053_vampires_and_other_undead_beings_symbolize_eternal_lifes_burdens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132054",
+    "text_pt": "O tempo se estende infinitamente, cheio de tédio e desejo de libertação.",
+    "text_en": "Time stretches endlessly. filled with ennui and longing for release.",
+    "audio_en_storage_path": "2054_time_stretches_endlessly_filled_with_ennui_and_longing_for_release.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132055",
+    "text_pt": "Discussões filosóficas ponderam se a imortalidade diminui o valor da vida.",
+    "text_en": "Philosophical discussions ponder whether immortality diminishes life’s value.",
+    "audio_en_storage_path": "2055_philosophical_discussions_ponder_whether_immortality_diminishes_lifes_value.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132056",
+    "text_pt": "O tempo finito dá urgência e significado aos esforços humanos.",
+    "text_en": "Finite time gives urgency and meaning to human endeavors.",
+    "audio_en_storage_path": "2056_finite_time_gives_urgency_and_meaning_to_human_endeavors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132057",
+    "text_pt": "O medo da morte leva os personagens a medidas extremas para sobreviver.",
+    "text_en": "Fear of death drives characters to extreme measures for survival.",
+    "audio_en_storage_path": "2057_fear_of_death_drives_characters_to_extreme_measures_for_survival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132058",
+    "text_pt": "O desespero alimenta a busca por elixires, feitiços ou tecnologias que prometem longevidade.",
+    "text_en": "Desperation fuels quests for elixirs. spells. or technologies promising longevity.",
+    "audio_en_storage_path": "2058_desperation_fuels_quests_for_elixirs_spells_or_technologies_promising_longevity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132059",
+    "text_pt": "Memento mori relembra os personagens de seu tempo fugaz na Terra.",
+    "text_en": "Memento mori reminds characters of their fleeting time on Earth.",
+    "audio_en_storage_path": "2059_memento_mori_reminds_characters_of_their_fleeting_time_on_earth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132060",
+    "text_pt": "Caveiras, ampulhetas e flores murchas simbolizam a passagem do tempo.",
+    "text_en": "Skulls. hourglasses. and wilting flowers symbolize the passage of time.",
+    "audio_en_storage_path": "2060_skulls_hourglasses_and_wilting_flowers_symbolize_the_passage_of_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132061",
+    "text_pt": "O legado se torna um substituto para a imortalidade por meio de um impacto duradouro.",
+    "text_en": "Legacy becomes a substitute for immortality through lasting impact.",
+    "audio_en_storage_path": "2061_legacy_becomes_a_substitute_for_immortality_through_lasting_impact.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132062",
+    "text_pt": "Arte, invenções e ideias perduram muito depois da morte dos criadores.",
+    "text_en": "Art. inventions. and ideas endure long after creators pass away.",
+    "audio_en_storage_path": "2062_art_inventions_and_ideas_endure_long_after_creators_pass_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132063",
+    "text_pt": "Suicídio e eutanásia levantam questões éticas sobre a escolha da morte.",
+    "text_en": "Suicide and euthanasia raise ethical questions about choosing death.",
+    "audio_en_storage_path": "2063_suicide_and_euthanasia_raise_ethical_questions_about_choosing_death.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132064",
+    "text_pt": "A autonomia entra em conflito com as normas sociais e as doutrinas religiosas.",
+    "text_en": "Autonomy conflicts with societal norms and religious doctrines.",
+    "audio_en_storage_path": "2064_autonomy_conflicts_with_societal_norms_and_religious_doctrines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132065",
+    "text_pt": "Os processos de luto revelam a profundidade das conexões entre os personagens.",
+    "text_en": "Grieving processes reveal the depth of connections between characters.",
+    "audio_en_storage_path": "2065_grieving_processes_reveal_the_depth_of_connections_between_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132066",
+    "text_pt": "A perda deixa vazios que remodelam relacionamentos e identidades.",
+    "text_en": "Loss leaves voids that reshape relationships and identities.",
+    "audio_en_storage_path": "2066_loss_leaves_voids_that_reshape_relationships_and_identities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132067",
+    "text_pt": "A reencarnação oferece esperança de renovação e segundas chances.",
+    "text_en": "Reincarnation offers hope for renewal and second chances.",
+    "audio_en_storage_path": "2067_reincarnation_offers_hope_for_renewal_and_second_chances.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132068",
+    "text_pt": "As almas retornam em novas formas, carregando lições de vidas passadas.",
+    "text_en": "Souls return in new forms. carrying lessons from past lives.",
+    "audio_en_storage_path": "2068_souls_return_in_new_forms_carrying_lessons_from_past_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132069",
+    "text_pt": "A necromancia desafia as leis naturais, levantando questões éticas sobre a ressurreição.",
+    "text_en": "Necromancy defies natural laws. raising ethical concerns about resurrection.",
+    "audio_en_storage_path": "2069_necromancy_defies_natural_laws_raising_ethical_concerns_about_resurrection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132070",
+    "text_pt": "Brincar de deus interrompe ciclos que visam manter o equilíbrio no universo.",
+    "text_en": "Playing god disrupts cycles meant to maintain balance in the universe.",
+    "audio_en_storage_path": "2070_playing_god_disrupts_cycles_meant_to_maintain_balance_in_the_universe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132071",
+    "text_pt": "Os personagens invejam aqueles que morrem em paz, livres de sofrimento e arrependimento.",
+    "text_en": "Characters envy those who die peacefully. free from suffering and regret.",
+    "audio_en_storage_path": "2071_characters_envy_those_who_die_peacefully_free_from_suffering_and_regret.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132072",
+    "text_pt": "Aceitar a morte se torna uma forma de libertação e encerramento.",
+    "text_en": "Acceptance of death becomes a form of liberation and closure.",
+    "audio_en_storage_path": "2072_acceptance_of_death_becomes_a_form_of_liberation_and_closure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132073",
+    "text_pt": "A viagem no tempo explora paradoxos de destinos alterados ligados à mortalidade.",
+    "text_en": "Time travel explores paradoxes of altering fates tied to mortality.",
+    "audio_en_storage_path": "2073_time_travel_explores_paradoxes_of_altering_fates_tied_to_mortality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132074",
+    "text_pt": "Mudar o passado corre o risco de apagar futuros já vividos.",
+    "text_en": "Changing the past risks erasing futures already lived.",
+    "audio_en_storage_path": "2074_changing_the_past_risks_erasing_futures_already_lived.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132075",
+    "text_pt": "A imortalidade elimina a urgência, deixando os personagens sem rumo e estagnados.",
+    "text_en": "Immortality strips away urgency. leaving characters aimless and stagnant.",
+    "audio_en_storage_path": "2075_immortality_strips_away_urgency_leaving_characters_aimless_and_stagnant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132076",
+    "text_pt": "Sem prazos, a motivação diminui e o propósito se transforma em monotonia.",
+    "text_en": "Without deadlines. motivation wanes. and purpose fades into monotony.",
+    "audio_en_storage_path": "2076_without_deadlines_motivation_wanes_and_purpose_fades_into_monotony.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132077",
+    "text_pt": "A morte personificada aparece como guia ou adversária nas narrativas.",
+    "text_en": "Death personified appears as a guide or adversary in narratives.",
+    "audio_en_storage_path": "2077_death_personified_appears_as_a_guide_or_adversary_in_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132078",
+    "text_pt": "Figuras como o Ceifador personificam o fascínio da humanidade pelos finais.",
+    "text_en": "Figures like the Grim Reaper embody humanity’s fascination with endings.",
+    "audio_en_storage_path": "2078_figures_like_the_grim_reaper_embody_humanitys_fascination_with_endings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132079",
+    "text_pt": "A mortalidade une todos os seres vivos sob um destino compartilhado.",
+    "text_en": "Mortality unites all living beings under a shared destiny.",
+    "audio_en_storage_path": "2079_mortality_unites_all_living_beings_under_a_shared_destiny.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132080",
+    "text_pt": "A conscientização sobre a morte promove empatia e compaixão entre os indivíduos.",
+    "text_en": "Awareness of death fosters empathy and compassion among individuals.",
+    "audio_en_storage_path": "2080_awareness_of_death_fosters_empathy_and_compassion_among_individuals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132081",
+    "text_pt": "Histórias de sacrifício enfatizam a nobreza de morrer por uma causa maior.",
+    "text_en": "Stories of sacrifice emphasize the nobility of dying for a greater cause.",
+    "audio_en_storage_path": "2081_stories_of_sacrifice_emphasize_the_nobility_of_dying_for_a_greater_cause.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132082",
+    "text_pt": "Heróis abraçam a mortalidade, garantindo que outros possam viver e prosperar.",
+    "text_en": "Heroes embrace mortality. ensuring others may live and thrive.",
+    "audio_en_storage_path": "2082_heroes_embrace_mortality_ensuring_others_may_live_and_thrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132083",
+    "text_pt": "Reflexões sobre a morte incentivam o público a valorizar momentos fugazes.",
+    "text_en": "Reflections on death encourage audiences to cherish fleeting moments.",
+    "audio_en_storage_path": "2083_reflections_on_death_encourage_audiences_to_cherish_fleeting_moments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132084",
+    "text_pt": "Apreciar o agora se torna vital quando o amanhã permanece incerto.",
+    "text_en": "Appreciating now becomes vital when tomorrow remains uncertain.",
+    "audio_en_storage_path": "2084_appreciating_now_becomes_vital_when_tomorrow_remains_uncertain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120518",
+    "text_pt": "Dirigir e usar o carro",
+    "text_en": "Driving and Using the Car",
+    "audio_en_storage_path": "518_driving_and_using_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120519",
+    "text_pt": "Este carro é muito confortável e fácil de dirigir",
+    "text_en": "This car feels really comfortable and easy to drive",
+    "audio_en_storage_path": "519_this_car_feels_really_comfortable_and_easy_to_drive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120520",
+    "text_pt": "Este passeio é super suave e fácil de manusear",
+    "text_en": "This ride’s super smooth and easy to handle",
+    "audio_en_storage_path": "520_this_rides_super_smooth_and_easy_to_handle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120521",
+    "text_pt": "Deixe-me ajustar o assento e os espelhos antes de começar",
+    "text_en": "Let me adjust the seat and mirrors before starting",
+    "audio_en_storage_path": "521_let_me_adjust_the_seat_and_mirrors_before_starting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120522",
+    "text_pt": "Tenho que mover o assento e verificar os espelhos bem rápido",
+    "text_en": "Gotta move the seat and check the mirrors real quick",
+    "audio_en_storage_path": "522_gotta_move_the_seat_and_check_the_mirrors_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120523",
+    "text_pt": "O GPS diz para virar à esquerda em 500 pés",
+    "text_en": "The GPS says to turn left in 500 feet",
+    "audio_en_storage_path": "523_the_gps_says_to_turn_left_in_500_feet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120524",
+    "text_pt": "O GPS diz para virar à esquerda em cerca de meio quarteirão",
+    "text_en": "GPS says turn left in about half a block",
+    "audio_en_storage_path": "524_gps_says_turn_left_in_about_half_a_block.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120525",
+    "text_pt": "Você pode abaixar um pouco o volume da música? Está muito alto.",
+    "text_en": "Can you lower the music a little? It’s too loud",
+    "audio_en_storage_path": "525_can_you_lower_the_music_a_little_its_too_loud.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120526",
+    "text_pt": "Você poderia abaixar o som? Parece um show aqui.",
+    "text_en": "Couldja turn down the tunes? Feels like a concert in here",
+    "audio_en_storage_path": "526_couldja_turn_down_the_tunes_feels_like_a_concert_in_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120527",
+    "text_pt": "Preciso encontrar o posto de gasolina mais próximo",
+    "text_en": "I need to find the nearest gas station",
+    "audio_en_storage_path": "527_i_need_to_find_the_nearest_gas_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120528",
+    "text_pt": "Procurando o posto de gasolina mais próximo — acha que conhece algum?",
+    "text_en": "Looking for the closest gas spot — think you know one?",
+    "audio_en_storage_path": "528_looking_for_the_closest_gas_spot_think_you_know_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120529",
+    "text_pt": "O tanque está quase vazio. Precisamos enchê-lo em breve.",
+    "text_en": "The tank is almost empty. We should refill it soon",
+    "audio_en_storage_path": "529_the_tank_is_almost_empty_we_should_refill_it_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120530",
+    "text_pt": "A luz do gás está acesa — é melhor ir a um posto logo",
+    "text_en": "Gas light’s on — better hit a station real soon",
+    "audio_en_storage_path": "530_gas_lights_on_better_hit_a_station_real_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120531",
+    "text_pt": "Esta rodovia está bem movimentada hoje",
+    "text_en": "This highway is pretty busy today",
+    "audio_en_storage_path": "531_this_highway_is_pretty_busy_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120532",
+    "text_pt": "O trânsito está pesado nesta estrada — devagar",
+    "text_en": "Traffic’s heavy on this road — slow going",
+    "audio_en_storage_path": "532_traffics_heavy_on_this_road_slow_going.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120533",
+    "text_pt": "Use a seta antes de mudar de faixa",
+    "text_en": "Use the turn signal before changing lanes",
+    "audio_en_storage_path": "533_use_the_turn_signal_before_changing_lanes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120534",
+    "text_pt": "Não se esqueça de piscar antes de mudar de faixa",
+    "text_en": "Don’t forget to blink before switchin’ lanes",
+    "audio_en_storage_path": "534_dont_forget_to_blink_before_switchin_lanes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120535",
+    "text_pt": "Espero que não fiquemos presos no trânsito",
+    "text_en": "I hope we don’t get stuck in traffic",
+    "audio_en_storage_path": "535_i_hope_we_dont_get_stuck_in_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120536",
+    "text_pt": "Espero que não acabemos em um engarrafamento",
+    "text_en": "Hope we don’t end up in a traffic jam",
+    "audio_en_storage_path": "536_hope_we_dont_end_up_in_a_traffic_jam.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120537",
+    "text_pt": "Cuidado com os pedestres atravessando a rua",
+    "text_en": "Watch out for pedestrians crossing the street",
+    "audio_en_storage_path": "537_watch_out_for_pedestrians_crossing_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120538",
+    "text_pt": "Atenção — pessoas passando aqui na frente",
+    "text_en": "Heads up — people walkin’ across up ahead",
+    "audio_en_storage_path": "538_heads_up_people_walkin_across_up_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120539",
+    "text_pt": "Estacionei na garagem na esquina",
+    "text_en": "I parked in the garage around the corner",
+    "audio_en_storage_path": "539_i_parked_in_the_garage_around_the_corner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120540",
+    "text_pt": "Estacionado naquele prédio logo depois da esquina da rua",
+    "text_en": "Parked in that building just past the street corner",
+    "audio_en_storage_path": "540_parked_in_that_building_just_past_the_street_corner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120541",
+    "text_pt": "Deixe-me trancar as portas antes de sairmos do carro",
+    "text_en": "Let me lock the doors before we leave the car",
+    "audio_en_storage_path": "541_let_me_lock_the_doors_before_we_leave_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120542",
+    "text_pt": "É melhor trancar antes de sairmos",
+    "text_en": "Better lock up before we step out",
+    "audio_en_storage_path": "542_better_lock_up_before_we_step_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120543",
+    "text_pt": "Se precisar de alguma coisa, é só me ligar.",
+    "text_en": "If you need anything. just call me",
+    "audio_en_storage_path": "543_if_you_need_anything_just_call_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120544",
+    "text_pt": "Precisa de alguma coisa? É só me ligar",
+    "text_en": "Need somethin’? Just give me a ring",
+    "audio_en_storage_path": "544_need_somethin_just_give_me_a_ring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120545",
+    "text_pt": "Tome cuidado e aproveite sua viagem",
+    "text_en": "Take care and enjoy your drive",
+    "audio_en_storage_path": "545_take_care_and_enjoy_your_drive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120546",
+    "text_pt": "Fique seguro e aproveite ao máximo sua viagem",
+    "text_en": "Stay safe and make the most of your trip",
+    "audio_en_storage_path": "546_stay_safe_and_make_the_most_of_your_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120547",
+    "text_pt": "Dirija com inteligência e fique alerta",
+    "text_en": "Drive smart and stay alert",
+    "audio_en_storage_path": "547_drive_smart_and_stay_alert.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120548",
+    "text_pt": "Mantenha os olhos abertos e dirija com cuidado",
+    "text_en": "Keep your eyes open and drive careful",
+    "audio_en_storage_path": "548_keep_your_eyes_open_and_drive_careful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

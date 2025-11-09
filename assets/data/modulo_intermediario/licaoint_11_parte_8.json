@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111809",
+    "text_pt": "Eles sentem fome por volta do meio-dia.",
+    "text_en": "They feel hungry around noon.",
+    "audio_en_storage_path": "1809_they_feel_hungry_around_noon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111810",
+    "text_pt": "O almoço está pronto e com um cheiro maravilhoso.",
+    "text_en": "Lunch is ready and smells amazing.",
+    "audio_en_storage_path": "1810_lunch_is_ready_and_smells_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111811",
+    "text_pt": "Eles sentam-se juntos à mesa.",
+    "text_en": "They sit at the table together.",
+    "audio_en_storage_path": "1811_they_sit_at_the_table_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111812",
+    "text_pt": "Ou comem sozinhos enquanto trabalham.",
+    "text_en": "Or they eat alone while working.",
+    "audio_en_storage_path": "1812_or_they_eat_alone_while_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111813",
+    "text_pt": "Os pratos são coloridos e quentes.",
+    "text_en": "Their plates are colorful and warm.",
+    "audio_en_storage_path": "1813_their_plates_are_colorful_and_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111814",
+    "text_pt": "Tem arroz, feijão e legumes grelhados.",
+    "text_en": "There's rice. beans. and grilled vegetables.",
+    "audio_en_storage_path": "1814_theres_rice_beans_and_grilled_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111815",
+    "text_pt": "Eles usam garfos e facas para cortar a comida.",
+    "text_en": "They use forks and knives to cut their food.",
+    "audio_en_storage_path": "1815_they_use_forks_and_knives_to_cut_their_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111816",
+    "text_pt": "E guardanapos para limpar as mãos.",
+    "text_en": "And napkins to clean their hands.",
+    "audio_en_storage_path": "1816_and_napkins_to_clean_their_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111817",
+    "text_pt": "O que eles comeram no almoço hoje?",
+    "text_en": "What did they have for lunch today?",
+    "audio_en_storage_path": "1817_what_did_they_have_for_lunch_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111818",
+    "text_pt": "Sanduíches e batatas fritas — simples e rápidos.",
+    "text_en": "Sandwiches and chips — simple and quick.",
+    "audio_en_storage_path": "1818_sandwiches_and_chips_simple_and_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111819",
+    "text_pt": "Onde eles costumam almoçar?",
+    "text_en": "Where do they usually eat lunch?",
+    "audio_en_storage_path": "1819_where_do_they_usually_eat_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111820",
+    "text_pt": "Na escola, no trabalho ou em casa.",
+    "text_en": "At school. work. or home.",
+    "audio_en_storage_path": "1820_at_school_work_or_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111821",
+    "text_pt": "Às vezes eles trazem sua própria comida.",
+    "text_en": "Sometimes they bring their own food.",
+    "audio_en_storage_path": "1821_sometimes_they_bring_their_own_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111822",
+    "text_pt": "Outras vezes eles compram algo próximo.",
+    "text_en": "Other times they buy something nearby.",
+    "audio_en_storage_path": "1822_other_times_they_buy_something_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111823",
+    "text_pt": "Onde está a lancheira deles agora?",
+    "text_en": "Where is their lunch box now?",
+    "audio_en_storage_path": "1823_where_is_their_lunch_box_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111824",
+    "text_pt": "Em suas malas — vazias e prontas para amanhã.",
+    "text_en": "In their bags — empty and ready for tomorrow.",
+    "audio_en_storage_path": "1824_in_their_bags_empty_and_ready_for_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111825",
+    "text_pt": "Quando eles fazem a pausa para o almoço?",
+    "text_en": "When do they take their lunch break?",
+    "audio_en_storage_path": "1825_when_do_they_take_their_lunch_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111826",
+    "text_pt": "Por volta das 12:00 — depois de terminar algumas tarefas.",
+    "text_en": "Around 12:00 — after finishing some tasks.",
+    "audio_en_storage_path": "1826_around_1200_after_finishing_some_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111827",
+    "text_pt": "Por que eles terminaram o almoço tão rápido?",
+    "text_en": "Why did they finish lunch so fast?",
+    "audio_en_storage_path": "1827_why_did_they_finish_lunch_so_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111828",
+    "text_pt": "Porque eles queriam sair e caminhar.",
+    "text_en": "Because they wanted to go out and walk.",
+    "audio_en_storage_path": "1828_because_they_wanted_to_go_out_and_walk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111829",
+    "text_pt": "Eles almoçam todos os dias no mesmo horário.",
+    "text_en": "They eat lunch every day at the same time.",
+    "audio_en_storage_path": "1829_they_eat_lunch_every_day_at_the_same_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111830",
+    "text_pt": "A rotina os ajuda a manter o foco.",
+    "text_en": "Routine helps them stay focused.",
+    "audio_en_storage_path": "1830_routine_helps_them_stay_focused.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111831",
+    "text_pt": "Amanhã eles não vão esquecer o almoço novamente.",
+    "text_en": "Tomorrow. they will not forget their lunch again.",
+    "audio_en_storage_path": "1831_tomorrow_they_will_not_forget_their_lunch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111832",
+    "text_pt": "Eles vão fazer as malas antes de sair de casa.",
+    "text_en": "They’ll pack it before leaving home.",
+    "audio_en_storage_path": "1832_theyll_pack_it_before_leaving_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111833",
+    "text_pt": "Espero que você goste da sua refeição!",
+    "text_en": "Hope you enjoy your meal!",
+    "audio_en_storage_path": "1833_hope_you_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111834",
+    "text_pt": "Tenha um ótimo almoço!",
+    "text_en": "Have a great lunch!",
+    "audio_en_storage_path": "1834_have_a_great_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,1046 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100119",
+    "text_pt": "A cama fica no canto.",
+    "text_en": "The bed is in the corner.",
+    "audio_en_storage_path": "120_the_bed_is_in_the_corner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100120",
+    "text_pt": "Nós o usamos para dormir e descansar.",
+    "text_en": "We use it to sleep and rest.",
+    "audio_en_storage_path": "121_we_use_it_to_sleep_and_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100121",
+    "text_pt": "É grande e tem almofadas macias.",
+    "text_en": "It is big with soft pillows.",
+    "audio_en_storage_path": "122_it_is_big_with_soft_pillows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100122",
+    "text_pt": "Há livros e um ursinho de pelúcia nele.",
+    "text_en": "There are books and a teddy bear on it.",
+    "audio_en_storage_path": "123_there_are_books_and_a_teddy_bear_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100123",
+    "text_pt": "Você gosta da sua cama?",
+    "text_en": "Do you like your bed?",
+    "audio_en_storage_path": "124_do_you_like_your_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100124",
+    "text_pt": "Sim, é muito confortável.",
+    "text_en": "Yes, it’s very comfortable.",
+    "audio_en_storage_path": "125_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100125",
+    "text_pt": "Não, eu quero um novo.",
+    "text_en": "No, I want a new one.",
+    "audio_en_storage_path": "126_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100126",
+    "text_pt": "Onde estão seus sapatos?",
+    "text_en": "Where are your shoes?",
+    "audio_en_storage_path": "127_where_are_your_shoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100127",
+    "text_pt": "Meus sapatos estão debaixo da cama.",
+    "text_en": "My shoes are under the bed.",
+    "audio_en_storage_path": "128_my_shoes_are_under_the_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100128",
+    "text_pt": "Quando você vai dormir?",
+    "text_en": "When will you go to sleep?",
+    "audio_en_storage_path": "129_when_will_you_go_to_sleep.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100129",
+    "text_pt": "Vou dormir às nove.",
+    "text_en": "I’ll go to sleep at nine.",
+    "audio_en_storage_path": "130_ill_go_to_sleep_at_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100130",
+    "text_pt": "Por que você acordou cedo?",
+    "text_en": "Why did you wake up early?",
+    "audio_en_storage_path": "131_why_did_you_wake_up_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100131",
+    "text_pt": "Ouvi o cachorro latindo lá fora.",
+    "text_en": "I heard the dog barking outside.",
+    "audio_en_storage_path": "132_i_heard_the_dog_barking_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100132",
+    "text_pt": "Ele arruma a cama todas as manhãs.",
+    "text_en": "He makes his bed every morning.",
+    "audio_en_storage_path": "133_he_makes_his_bed_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100133",
+    "text_pt": "Não vou dormir sem escovar os dentes.",
+    "text_en": "I won’t sleep without brushing teeth.",
+    "audio_en_storage_path": "134_i_wont_sleep_without_brushing_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100134",
+    "text_pt": "Tenha uma boa noite de sono.",
+    "text_en": "Have a good night’s sleep.",
+    "audio_en_storage_path": "135_have_a_good_nights_sleep.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100135",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "136_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100136",
+    "text_pt": "Vou dormir às nove.",
+    "text_en": "I’ll go to sleep at nine.",
+    "audio_en_storage_path": "137_ill_go_to_sleep_at_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100137",
+    "text_pt": "Vou dormir às nove.",
+    "text_en": "I’m gonna sleep at nine.",
+    "audio_en_storage_path": "138_im_gonna_sleep_at_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100138",
+    "text_pt": "Não vou dormir sem escovar os dentes.",
+    "text_en": "I won’t sleep without brushing teeth.",
+    "audio_en_storage_path": "139_i_wont_sleep_without_brushing_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100139",
+    "text_pt": "Não durmo sem escovar os dentes.",
+    "text_en": "I ain’t sleepin’ without brushin’ teeth.",
+    "audio_en_storage_path": "140_i_aint_sleepin_without_brushin_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100140",
+    "text_pt": "Tenha uma boa noite de sono.",
+    "text_en": "Have a good night’s sleep.",
+    "audio_en_storage_path": "141_have_a_good_nights_sleep.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100141",
+    "text_pt": "Durma bem, amigo.",
+    "text_en": "Sleep tight, buddy.",
+    "audio_en_storage_path": "142_sleep_tight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100142",
+    "text_pt": "A estante fica ao lado da escrivaninha.",
+    "text_en": "The bookshelf is next to the desk.",
+    "audio_en_storage_path": "143_the_bookshelf_is_next_to_the_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100143",
+    "text_pt": "Nós o usamos para guardar livros e brinquedos.",
+    "text_en": "We use it to keep books and toys.",
+    "audio_en_storage_path": "144_we_use_it_to_keep_books_and_toys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100144",
+    "text_pt": "É alto e pintado de vermelho.",
+    "text_en": "It is tall and painted red.",
+    "audio_en_storage_path": "145_it_is_tall_and_painted_red.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100145",
+    "text_pt": "Há dinossauros e livros sobre o espaço.",
+    "text_en": "There are dinosaurs and space books on it.",
+    "audio_en_storage_path": "146_there_are_dinosaurs_and_space_books_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100146",
+    "text_pt": "Posso pegar um livro emprestado?",
+    "text_en": "Can I borrow a book?",
+    "audio_en_storage_path": "147_can_i_borrow_a_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100147",
+    "text_pt": "Sim, escolha qualquer um que você goste.",
+    "text_en": "Yes, pick any one you like.",
+    "audio_en_storage_path": "148_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100148",
+    "text_pt": "Não, pergunte primeiro à sua irmã.",
+    "text_en": "No, ask your sister first.",
+    "audio_en_storage_path": "149_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100149",
+    "text_pt": "Onde está meu livro de ciências?",
+    "text_en": "Where is my science book?",
+    "audio_en_storage_path": "150_where_is_my_science_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100150",
+    "text_pt": "Seu livro está na segunda prateleira.",
+    "text_en": "Your book is on the second shelf.",
+    "audio_en_storage_path": "151_your_book_is_on_the_second_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100151",
+    "text_pt": "Quando você vai ler o livro?",
+    "text_en": "When will you read the book?",
+    "audio_en_storage_path": "152_when_will_you_read_the_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100152",
+    "text_pt": "Vou ler hoje à noite antes de dormir.",
+    "text_en": "I’ll read it tonight before bed.",
+    "audio_en_storage_path": "153_ill_read_it_tonight_before_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100153",
+    "text_pt": "Por que você guardou o livro?",
+    "text_en": "Why did you put the book away?",
+    "audio_en_storage_path": "154_why_did_you_put_the_book_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100154",
+    "text_pt": "Eu queria encontrá-lo mais tarde.",
+    "text_en": "I wanted to find it later.",
+    "audio_en_storage_path": "155_i_wanted_to_find_it_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100155",
+    "text_pt": "Ela coloca seus livros na estante.",
+    "text_en": "She puts her books on the shelf.",
+    "audio_en_storage_path": "156_she_puts_her_books_on_the_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100156",
+    "text_pt": "Ele não deixa livros no chão.",
+    "text_en": "He won’t leave books on the floor.",
+    "audio_en_storage_path": "157_he_wont_leave_books_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100157",
+    "text_pt": "Bom trabalho organizando seu quarto.",
+    "text_en": "Good job organizing your room.",
+    "audio_en_storage_path": "158_good_job_organizing_your_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100158",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "159_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100159",
+    "text_pt": "Vou ler hoje à noite antes de dormir.",
+    "text_en": "I’ll read it tonight before bed.",
+    "audio_en_storage_path": "160_ill_read_it_tonight_before_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100160",
+    "text_pt": "Vou ler hoje à noite antes de dormir.",
+    "text_en": "I’m gonna read it tonight b’fore bed.",
+    "audio_en_storage_path": "161_im_gonna_read_it_tonight_bfore_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100161",
+    "text_pt": "Ele não deixa livros no chão.",
+    "text_en": "He won’t leave books on the floor.",
+    "audio_en_storage_path": "162_he_wont_leave_books_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100162",
+    "text_pt": "Ele não vai deixar livros no chão.",
+    "text_en": "He ain't leavin’ books on the floor.",
+    "audio_en_storage_path": "163_he_aint_leavin_books_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100163",
+    "text_pt": "Bom trabalho organizando seu quarto.",
+    "text_en": "Good job organizing your room.",
+    "audio_en_storage_path": "164_good_job_organizing_your_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100164",
+    "text_pt": "Bom trabalho arrumando seu quarto.",
+    "text_en": "Nice job tidin’ up yer room.",
+    "audio_en_storage_path": "165_nice_job_tidin_up_yer_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100165",
+    "text_pt": "O relógio está na parede.",
+    "text_en": "The clock is on the wall.",
+    "audio_en_storage_path": "166_the_clock_is_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100166",
+    "text_pt": "Nós o usamos para saber as horas.",
+    "text_en": "We use it to know the time.",
+    "audio_en_storage_path": "167_we_use_it_to_know_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100167",
+    "text_pt": "Possui números grandes e um som de tique-taque.",
+    "text_en": "It has big numbers and a ticking sound.",
+    "audio_en_storage_path": "168_it_has_big_numbers_and_a_ticking_sound.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100168",
+    "text_pt": "Há uma imagem de animais ao redor.",
+    "text_en": "There is a picture of animals around it.",
+    "audio_en_storage_path": "169_there_is_a_picture_of_animals_around_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100169",
+    "text_pt": "O relógio funciona?",
+    "text_en": "Does the clock work?",
+    "audio_en_storage_path": "170_does_the_clock_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100170",
+    "text_pt": "Sim, ele mostra as horas claramente.",
+    "text_en": "Yes, it shows the time clearly.",
+    "audio_en_storage_path": "171_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100171",
+    "text_pt": "Não, a bateria está descarregada.",
+    "text_en": "No, the battery is dead.",
+    "audio_en_storage_path": "172_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100172",
+    "text_pt": "Onde está o despertador?",
+    "text_en": "Where is the alarm clock?",
+    "audio_en_storage_path": "173_where_is_the_alarm_clock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100173",
+    "text_pt": "O despertador está no criado-mudo.",
+    "text_en": "The alarm clock is on the nightstand.",
+    "audio_en_storage_path": "174_the_alarm_clock_is_on_the_nightstand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100174",
+    "text_pt": "Quando você vai acordar?",
+    "text_en": "When will you wake up?",
+    "audio_en_storage_path": "175_when_will_you_wake_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100175",
+    "text_pt": "Amanhã vou acordar às sete.",
+    "text_en": "I’ll wake up at seven tomorrow.",
+    "audio_en_storage_path": "176_ill_wake_up_at_seven_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100176",
+    "text_pt": "Por que você desligou o alarme?",
+    "text_en": "Why did you turn off the alarm?",
+    "audio_en_storage_path": "177_why_did_you_turn_off_the_alarm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100177",
+    "text_pt": "Eu queria dormir mais cinco minutos.",
+    "text_en": "I wanted to sleep five more minutes.",
+    "audio_en_storage_path": "178_i_wanted_to_sleep_five_more_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100178",
+    "text_pt": "Ele verifica as horas a cada hora.",
+    "text_en": "He checks the time every hour.",
+    "audio_en_storage_path": "179_he_checks_the_time_every_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100179",
+    "text_pt": "Ela não perderá seu programa favorito.",
+    "text_en": "She won’t miss her favorite show.",
+    "audio_en_storage_path": "180_she_wont_miss_her_favorite_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100180",
+    "text_pt": "Hora de ir para a cama agora.",
+    "text_en": "Time to go to bed now.",
+    "audio_en_storage_path": "181_time_to_go_to_bed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100181",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "182_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100182",
+    "text_pt": "Amanhã vou acordar às sete.",
+    "text_en": "I’ll wake up at seven tomorrow.",
+    "audio_en_storage_path": "183_ill_wake_up_at_seven_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100183",
+    "text_pt": "Vou acordar às sete amanhã.",
+    "text_en": "I’m gonna wake up at seven tomorrow.",
+    "audio_en_storage_path": "184_im_gonna_wake_up_at_seven_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100184",
+    "text_pt": "Ela não perderá seu programa favorito.",
+    "text_en": "She won’t miss her favorite show.",
+    "audio_en_storage_path": "185_she_wont_miss_her_favorite_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100185",
+    "text_pt": "Ela não vai perder seu programa favorito.",
+    "text_en": "She ain’t missin’ her fav show.",
+    "audio_en_storage_path": "186_she_aint_missin_her_fav_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100186",
+    "text_pt": "Hora de ir para a cama agora.",
+    "text_en": "Time to go to bed now.",
+    "audio_en_storage_path": "187_time_to_go_to_bed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100187",
+    "text_pt": "Agora é hora de dormir.",
+    "text_en": "Time fer bed now.",
+    "audio_en_storage_path": "188_time_fer_bed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100188",
+    "text_pt": "O ursinho de pelúcia está na cama.",
+    "text_en": "The teddy bear is on the bed.",
+    "audio_en_storage_path": "189_the_teddy_bear_is_on_the_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100189",
+    "text_pt": "Nós o usamos para nos sentirmos seguros à noite.",
+    "text_en": "We use it to feel safe at night.",
+    "audio_en_storage_path": "190_we_use_it_to_feel_safe_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100190",
+    "text_pt": "É marrom com olhos e orelhas pretos.",
+    "text_en": "It is brown with black eyes and ears.",
+    "audio_en_storage_path": "191_it_is_brown_with_black_eyes_and_ears.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100191",
+    "text_pt": "Há um pequeno chapéu em sua cabeça.",
+    "text_en": "There is a little hat on its head.",
+    "audio_en_storage_path": "192_there_is_a_little_hat_on_its_head.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100192",
+    "text_pt": "O ursinho de pelúcia é seu?",
+    "text_en": "Is the teddy bear yours?",
+    "audio_en_storage_path": "193_is_the_teddy_bear_yours.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100193",
+    "text_pt": "Sim, eu tenho isso desde pequeno.",
+    "text_en": "Yes, I’ve had it since I was small.",
+    "audio_en_storage_path": "194_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100194",
+    "text_pt": "Não, pertence ao meu irmão.",
+    "text_en": "No, it belongs to my brother.",
+    "audio_en_storage_path": "195_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100195",
+    "text_pt": "Onde está o outro urso?",
+    "text_en": "Where is the other bear?",
+    "audio_en_storage_path": "196_where_is_the_other_bear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100196",
+    "text_pt": "O outro urso está debaixo do travesseiro.",
+    "text_en": "The other bear is under the pillow.",
+    "audio_en_storage_path": "197_the_other_bear_is_under_the_pillow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100197",
+    "text_pt": "Quando você vai parar de dormir com isso?",
+    "text_en": "When will you stop sleeping with it?",
+    "audio_en_storage_path": "198_when_will_you_stop_sleeping_with_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100198",
+    "text_pt": "Talvez quando eu tiver dez anos.",
+    "text_en": "Maybe when I’m ten years old.",
+    "audio_en_storage_path": "199_maybe_when_im_ten_years_old.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100199",
+    "text_pt": "Por que você leva isso para todo lugar?",
+    "text_en": "Why do you take it everywhere?",
+    "audio_en_storage_path": "200_why_do_you_take_it_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100200",
+    "text_pt": "Isso me faz sentir seguro e feliz.",
+    "text_en": "It makes me feel safe and happy.",
+    "audio_en_storage_path": "201_it_makes_me_feel_safe_and_happy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100201",
+    "text_pt": "Ela dorme com o urso todas as noites.",
+    "text_en": "She sleeps with the bear every night.",
+    "audio_en_storage_path": "202_she_sleeps_with_the_bear_every_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100202",
+    "text_pt": "Ele não vai perdê-lo porque ele o ama.",
+    "text_en": "He won’t lose it because he loves it.",
+    "audio_en_storage_path": "203_he_wont_lose_it_because_he_loves_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100203",
+    "text_pt": "Bons sonhos, te vejo de manhã.",
+    "text_en": "Sweet dreams, see you in the morning.",
+    "audio_en_storage_path": "204_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100204",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "205_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100205",
+    "text_pt": "Talvez quando eu tiver dez anos.",
+    "text_en": "Maybe when I’m ten years old.",
+    "audio_en_storage_path": "206_maybe_when_im_ten_years_old.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100206",
+    "text_pt": "Talvez quando eu tiver dez anos.",
+    "text_en": "Maybe when I’m ten.",
+    "audio_en_storage_path": "207_maybe_when_im_ten.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100207",
+    "text_pt": "Ele não vai perdê-lo porque ele o ama.",
+    "text_en": "He won’t lose it because he loves it.",
+    "audio_en_storage_path": "208_he_wont_lose_it_because_he_loves_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100208",
+    "text_pt": "Ele não está perdendo isso — ele adora isso.",
+    "text_en": "He ain't losin’ it — he loves it.",
+    "audio_en_storage_path": "209_he_aint_losin_it_he_loves_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100209",
+    "text_pt": "Bons sonhos, te vejo de manhã.",
+    "text_en": "Sweet dreams, see you in the morning.",
+    "audio_en_storage_path": "210_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100210",
+    "text_pt": "Bons sonhos, te vejo amanhã de manhã.",
+    "text_en": "Sweet dreams, catch ya in the mornin’.",
+    "audio_en_storage_path": "211_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100211",
+    "text_pt": "A escrivaninha fica perto da janela.",
+    "text_en": "The desk is by the window.",
+    "audio_en_storage_path": "212_the_desk_is_by_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100212",
+    "text_pt": "Nós o usamos para estudar e escrever.",
+    "text_en": "We use it to study and write.",
+    "audio_en_storage_path": "213_we_use_it_to_study_and_write.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100213",
+    "text_pt": "É de madeira e tem quatro gavetas.",
+    "text_en": "It is wooden and has four drawers.",
+    "audio_en_storage_path": "214_it_is_wooden_and_has_four_drawers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100214",
+    "text_pt": "Há lápis, papel e um laptop sobre ela.",
+    "text_en": "There are pencils, paper, and a laptop on it.",
+    "audio_en_storage_path": "215_there_are_pencils.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100215",
+    "text_pt": "Posso usar sua mesa?",
+    "text_en": "Can I use your desk?",
+    "audio_en_storage_path": "216_can_i_use_your_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100216",
+    "text_pt": "Sim, só não mova meus livros.",
+    "text_en": "Yes, just don’t move my books.",
+    "audio_en_storage_path": "217_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100217",
+    "text_pt": "Não, estou usando agora.",
+    "text_en": "No, I’m using it right now.",
+    "audio_en_storage_path": "218_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100218",
+    "text_pt": "Onde está meu caderno?",
+    "text_en": "Where is my notebook?",
+    "audio_en_storage_path": "219_where_is_my_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100219",
+    "text_pt": "Seu caderno está na gaveta.",
+    "text_en": "Your notebook is in the drawer.",
+    "audio_en_storage_path": "220_your_notebook_is_in_the_drawer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100220",
+    "text_pt": "Quando você vai terminar a lição de casa?",
+    "text_en": "When will you finish homework?",
+    "audio_en_storage_path": "221_when_will_you_finish_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100221",
+    "text_pt": "Vou terminar antes do jantar.",
+    "text_en": "I’ll finish it before dinner.",
+    "audio_en_storage_path": "222_ill_finish_it_before_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100222",
+    "text_pt": "Por que você deixou seu lápis aí?",
+    "text_en": "Why did you leave your pencil there?",
+    "audio_en_storage_path": "223_why_did_you_leave_your_pencil_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100223",
+    "text_pt": "Eu estava cansado e esqueci de pegá-lo.",
+    "text_en": "I was tired and forgot to pick it up.",
+    "audio_en_storage_path": "224_i_was_tired_and_forgot_to_pick_it_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100224",
+    "text_pt": "Ele senta-se à mesa e começa a escrever.",
+    "text_en": "He sits at the desk and starts writing.",
+    "audio_en_storage_path": "225_he_sits_at_the_desk_and_starts_writing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100225",
+    "text_pt": "Não vou deixar meu lápis no chão.",
+    "text_en": "I won’t leave my pencil on the floor.",
+    "audio_en_storage_path": "226_i_wont_leave_my_pencil_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100226",
+    "text_pt": "Boa sorte com sua lição de casa!",
+    "text_en": "Good luck with your homework!",
+    "audio_en_storage_path": "227_good_luck_with_your_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100227",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "228_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100228",
+    "text_pt": "Vou terminar antes do jantar.",
+    "text_en": "I’ll finish it before dinner.",
+    "audio_en_storage_path": "229_ill_finish_it_before_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100229",
+    "text_pt": "Vou terminar antes do jantar. (coloquial, usado por alguns jovens)",
+    "text_en": "I’m finna finish it b’fore dinner. (colloquial, usado por alguns jovens)",
+    "audio_en_storage_path": "230_im_finna_finish_it_bfore_dinner_colloquial.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100230",
+    "text_pt": "Não vou deixar meu lápis no chão.",
+    "text_en": "I won’t leave my pencil on the floor.",
+    "audio_en_storage_path": "231_i_wont_leave_my_pencil_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100231",
+    "text_pt": "Não vou deixar meu lápis no chão.",
+    "text_en": "I ain't leavin’ my pencil on the floor.",
+    "audio_en_storage_path": "232_i_aint_leavin_my_pencil_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100232",
+    "text_pt": "Boa sorte com sua lição de casa!",
+    "text_en": "Good luck with your homework!",
+    "audio_en_storage_path": "233_good_luck_with_your_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100233",
+    "text_pt": "Boa sorte com sua lição de casa!",
+    "text_en": "Good luck with yer homework!",
+    "audio_en_storage_path": "234_good_luck_with_yer_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100234",
+    "text_pt": "Na Sala de Estar",
+    "text_en": "Na Sala de Estar",
+    "audio_en_storage_path": "235_na_sala_de_estar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

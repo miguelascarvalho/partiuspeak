@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115210",
+    "text_pt": "Preços / Valores",
+    "text_en": "Prices / Values",
+    "audio_en_storage_path": "5210_prices_values.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115211",
+    "text_pt": "Os preços estão escritos em grandes números vermelhos.",
+    "text_en": "The prices are written in big red numbers.",
+    "audio_en_storage_path": "5211_the_prices_are_written_in_big_red_numbers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115212",
+    "text_pt": "US$ 3,50 para regular. US$ 3,90 para diesel.",
+    "text_en": "$3.50 for regular. $3.90 for diesel.",
+    "audio_en_storage_path": "5212_350_for_regular_390_for_diesel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115213",
+    "text_pt": "Comparamos preços antes de abastecer.",
+    "text_en": "We compare prices before filling up.",
+    "audio_en_storage_path": "5213_we_compare_prices_before_filling_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115214",
+    "text_pt": "Algumas estações cobram mais que outras.",
+    "text_en": "Some stations charge more than others.",
+    "audio_en_storage_path": "5214_some_stations_charge_more_than_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115215",
+    "text_pt": "O quadro mostra todos os tipos de combustível e custos.",
+    "text_en": "The board shows all fuel types and costs.",
+    "audio_en_storage_path": "5215_the_board_shows_all_fuel_types_and_costs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115216",
+    "text_pt": "E petiscos especiais diários.",
+    "text_en": "And daily specials for snacks.",
+    "audio_en_storage_path": "5216_and_daily_specials_for_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115217",
+    "text_pt": "Também há etiquetas de preço em bebidas e alimentos.",
+    "text_en": "There are price tags on drinks and food too.",
+    "audio_en_storage_path": "5217_there_are_price_tags_on_drinks_and_food_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115218",
+    "text_pt": "Água custa US$ 1,00 — refrigerante US$ 1,50.",
+    "text_en": "Water is $1.00 — soda $1.50.",
+    "audio_en_storage_path": "5218_water_is_100_soda_150.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115219",
+    "text_pt": "Quanto custa um tanque cheio hoje?",
+    "text_en": "How much is a full tank today?",
+    "audio_en_storage_path": "5219_how_much_is_a_full_tank_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115220",
+    "text_pt": "Cerca de US$ 40 — depende do carro.",
+    "text_en": "Around $40 — depends on the car.",
+    "audio_en_storage_path": "5220_around_40_depends_on_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115221",
+    "text_pt": "Onde você pode ver os preços atuais?",
+    "text_en": "Where can you see current prices?",
+    "audio_en_storage_path": "5221_where_can_you_see_current_prices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115222",
+    "text_pt": "No quadro digital — atualizado diariamente.",
+    "text_en": "On the digital board — updated daily.",
+    "audio_en_storage_path": "5222_on_the_digital_board_updated_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115223",
+    "text_pt": "Às vezes os preços caem à noite.",
+    "text_en": "Sometimes prices drop at night.",
+    "audio_en_storage_path": "5223_sometimes_prices_drop_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115224",
+    "text_pt": "Outras vezes elas surgem sem aviso.",
+    "text_en": "Other times they rise without warning.",
+    "audio_en_storage_path": "5224_other_times_they_rise_without_warning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115225",
+    "text_pt": "Onde está a opção mais barata hoje?",
+    "text_en": "Where is the cheapest option today?",
+    "audio_en_storage_path": "5225_where_is_the_cheapest_option_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115226",
+    "text_pt": "Duas quadras de distância — vi a placa enquanto dirigia.",
+    "text_en": "Two blocks away — saw the sign while driving.",
+    "audio_en_storage_path": "5226_two_blocks_away_saw_the_sign_while_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115227",
+    "text_pt": "Quando os preços cairão novamente?",
+    "text_en": "When will prices go down again?",
+    "audio_en_storage_path": "5227_when_will_prices_go_down_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115228",
+    "text_pt": "Talvez na semana que vem — esperamos.",
+    "text_en": "Maybe next week — we can hope.",
+    "audio_en_storage_path": "5228_maybe_next_week_we_can_hope.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115229",
+    "text_pt": "Por que você encheu o tanque hoje?",
+    "text_en": "Why did you fill the tank today?",
+    "audio_en_storage_path": "5229_why_did_you_fill_the_tank_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115230",
+    "text_pt": "Porque os preços podem subir amanhã.",
+    "text_en": "Because prices might go up tomorrow.",
+    "audio_en_storage_path": "5230_because_prices_might_go_up_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115231",
+    "text_pt": "Ele sempre verifica o custo antes de bombear.",
+    "text_en": "He always checks the cost before pumping.",
+    "audio_en_storage_path": "5231_he_always_checks_the_cost_before_pumping.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115232",
+    "text_pt": "Nunca quer surpresas no final.",
+    "text_en": "Never wants surprises at the end.",
+    "audio_en_storage_path": "5232_never_wants_surprises_at_the_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115233",
+    "text_pt": "Amanhã. Não esquecerei de comparar preços novamente.",
+    "text_en": "Tomorrow. I will not forget to compare prices again.",
+    "audio_en_storage_path": "5233_tomorrow_i_will_not_forget_to_compare_prices_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115234",
+    "text_pt": "Paguei mais do que o necessário hoje.",
+    "text_en": "Paid more than needed today.",
+    "audio_en_storage_path": "5234_paid_more_than_needed_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115235",
+    "text_pt": "Observe os números!",
+    "text_en": "Watch the numbers!",
+    "audio_en_storage_path": "5235_watch_the_numbers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115236",
+    "text_pt": "Pequenas mudanças se somam rapidamente.",
+    "text_en": "Small changes add up fast.",
+    "audio_en_storage_path": "5236_small_changes_add_up_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

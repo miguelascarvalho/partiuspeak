@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121261",
+    "text_pt": "Tempo e o Céu",
+    "text_en": "Weather and the Sky",
+    "audio_en_storage_path": "1261_weather_and_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121262",
+    "text_pt": "O céu está nublado hoje, mas não está chovendo",
+    "text_en": "The sky is cloudy today but it’s not raining",
+    "audio_en_storage_path": "1262_the_sky_is_cloudy_today_but_its_not_raining.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121263",
+    "text_pt": "O céu está todo cinza hoje, mas nenhuma gota está caindo ainda",
+    "text_en": "Sky’s all gray today but no drops fallin’ yet",
+    "audio_en_storage_path": "1263_skys_all_gray_today_but_no_drops_fallin_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121264",
+    "text_pt": "Esta jaqueta me ajuda a ficar aquecido quando está frio",
+    "text_en": "This jacket helps me stay warm when it’s cold",
+    "audio_en_storage_path": "1264_this_jacket_helps_me_stay_warm_when_its_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121265",
+    "text_pt": "Este casaco me impede de congelar quando está frio",
+    "text_en": "This coat keeps me from freezin’ when it’s chilly",
+    "audio_en_storage_path": "1265_this_coat_keeps_me_from_freezin_when_its_chilly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121266",
+    "text_pt": "Parece que uma tempestade está chegando",
+    "text_en": "It looks like a storm is coming soon",
+    "audio_en_storage_path": "1266_it_looks_like_a_storm_is_coming_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121267",
+    "text_pt": "A tempestade está a caminho — as nuvens estão ficando pesadas",
+    "text_en": "Storm’s on its way — clouds are gettin’ heavy",
+    "audio_en_storage_path": "1267_storms_on_its_way_clouds_are_gettin_heavy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121268",
+    "text_pt": "Há nuvens escuras à distância",
+    "text_en": "There are dark clouds in the distance",
+    "audio_en_storage_path": "1268_there_are_dark_clouds_in_the_distance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121269",
+    "text_pt": "Escuros distantes — não parecem muito amigáveis",
+    "text_en": "Dark ones far away — don’t look too friendly",
+    "audio_en_storage_path": "1269_dark_ones_far_away_dont_look_too_friendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121270",
+    "text_pt": "A que horas a chuva vai começar?",
+    "text_en": "What time will the rain start?",
+    "audio_en_storage_path": "1270_what_time_will_the_rain_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121271",
+    "text_pt": "O que você acha — quando a chuva vai nos atingir?",
+    "text_en": "Whaddya think — when’s the rain gonna hit us?",
+    "audio_en_storage_path": "1271_whaddya_think_whens_the_rain_gonna_hit_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121272",
+    "text_pt": "Espero que não chova durante o piquenique",
+    "text_en": "I hope it doesn’t rain during the picnic",
+    "audio_en_storage_path": "1272_i_hope_it_doesnt_rain_during_the_picnic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121273",
+    "text_pt": "Espero que isso dure até o nosso piquenique acabar",
+    "text_en": "Hope it holds off ‘til our picnic’s over",
+    "audio_en_storage_path": "1273_hope_it_holds_off_til_our_picnics_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121274",
+    "text_pt": "Talvez devêssemos trazer um guarda-chuva para o caso de",
+    "text_en": "Maybe we should bring an umbrella just in case",
+    "audio_en_storage_path": "1274_maybe_we_should_bring_an_umbrella_just_in_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121275",
+    "text_pt": "Talvez pegue um guarda-chuva só para ficar seguro",
+    "text_en": "Maybe grab an umbrella just to be safe",
+    "audio_en_storage_path": "1275_maybe_grab_an_umbrella_just_to_be_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121276",
+    "text_pt": "Você pode sentir o vento soprando do leste",
+    "text_en": "You can feel the wind blowing from the east",
+    "audio_en_storage_path": "1276_you_can_feel_the_wind_blowing_from_the_east.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121277",
+    "text_pt": "O vento sopra do leste — posso senti-lo no meu rosto",
+    "text_en": "Wind’s pushin’ in from the east — can feel it on my face",
+    "audio_en_storage_path": "1277_winds_pushin_in_from_the_east_can_feel_it_on_my_face.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121278",
+    "text_pt": "O sol sai todas as manhãs por aqui",
+    "text_en": "The sun comes out every morning around here",
+    "audio_en_storage_path": "1278_the_sun_comes_out_every_morning_around_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121279",
+    "text_pt": "O sol nasce cedo todos os dias se o céu estiver limpo",
+    "text_en": "Sun shows up early every day if skies are clear",
+    "audio_en_storage_path": "1279_sun_shows_up_early_every_day_if_skies_are_clear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121280",
+    "text_pt": "Se você me perguntar, o verão começa na semana que vem",
+    "text_en": "If you ask me. summer starts next week",
+    "audio_en_storage_path": "1280_if_you_ask_me_summer_starts_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121281",
+    "text_pt": "Pelo que ouvi, o verão começa na próxima semana.",
+    "text_en": "From what I heard. summer kicks off next week",
+    "audio_en_storage_path": "1281_from_what_i_heard_summer_kicks_off_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121282",
+    "text_pt": "Eles disseram que esse clima era inesperado",
+    "text_en": "They said this weather was unexpected",
+    "audio_en_storage_path": "1282_they_said_this_weather_was_unexpected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121283",
+    "text_pt": "Não esperava tanta chuva — pegou todo mundo desprevenido",
+    "text_en": "Didn’t expect this much rain — caught everyone off guard",
+    "audio_en_storage_path": "1283_didnt_expect_this_much_rain_caught_everyone_off_guard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121284",
+    "text_pt": "Deixe-me verificar o aplicativo de previsão do tempo rapidamente",
+    "text_en": "Let me check the weather app real quick",
+    "audio_en_storage_path": "1284_let_me_check_the_weather_app_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121285",
+    "text_pt": "Deixe-me abrir o aplicativo do tempo por um segundo",
+    "text_en": "Lemme pull up the weather app for a sec",
+    "audio_en_storage_path": "1285_lemme_pull_up_the_weather_app_for_a_sec.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121286",
+    "text_pt": "Hoje está mais frio que ontem",
+    "text_en": "Today feels colder than yesterday",
+    "audio_en_storage_path": "1286_today_feels_colder_than_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121287",
+    "text_pt": "Está muito mais frio hoje do que ontem",
+    "text_en": "Feels way chillier today than it did yesterday",
+    "audio_en_storage_path": "1287_feels_way_chillier_today_than_it_did_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121288",
+    "text_pt": "Não se esqueça do seu cachecol se sair",
+    "text_en": "Don’t forget your scarf if you go outside",
+    "audio_en_storage_path": "1288_dont_forget_your_scarf_if_you_go_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121289",
+    "text_pt": "Não saia sem aquele cachecol — está congelando",
+    "text_en": "Don’t step out without that scarf — it’s freezing",
+    "audio_en_storage_path": "1289_dont_step_out_without_that_scarf_its_freezing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121290",
+    "text_pt": "Tome cuidado e mantenha-se seco",
+    "text_en": "Take care and keep dry",
+    "audio_en_storage_path": "1290_take_care_and_keep_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121291",
+    "text_pt": "Mantenha-se aquecido e aproveite o dia",
+    "text_en": "Stay warm and enjoy the day",
+    "audio_en_storage_path": "1291_stay_warm_and_enjoy_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

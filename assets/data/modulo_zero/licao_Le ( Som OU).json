@@ -1,0 +1,20 @@
+[
+  {"tipo":"button","phrase_id":"palavra101335","text_pt":"Maçã","text_en":"Apple","audio_en_storage_path": "317_apple.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101336","text_pt":"Mesa","text_en":"Table","audio_en_storage_path": "318_table.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101337","text_pt":"Garrafa","text_en":"Bottle","audio_en_storage_path": "319_bottle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101338","text_pt":"Pequeno","text_en":"little","audio_en_storage_path": "320_little.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101339","text_pt":"Pessoas","text_en":"People","audio_en_storage_path": "321_people.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101340","text_pt":"Meio","text_en":"middle","audio_en_storage_path": "322_middle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101341","text_pt":"Roxo","text_en":"Purple","audio_en_storage_path": "323_purple.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101342","text_pt":"Casal","text_en":"Couple","audio_en_storage_path": "324_couple.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101343","text_pt":"Dobro","text_en":"Double","audio_en_storage_path": "325_double.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101344","text_pt":"Triplo","text_en":"Triple","audio_en_storage_path": "326_triple.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101345","text_pt":"Bolha","text_en":"Bubble","audio_en_storage_path": "327_bubble.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101346","text_pt":"Ondulação","text_en":"dimple","audio_en_storage_path": "328_dimple.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+ {"tipo":"button","phrase_id":"palavra101350","text_pt":"Chaleira","text_en":"Kettle","audio_en_storage_path": "332_kettle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101352","text_pt":"Macarrão","text_en":"Noodle","audio_en_storage_path": "334_noodle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+ {"tipo":"button","phrase_id":"palavra101355","text_pt":"Sela","text_en":"Saddle","audio_en_storage_path": "337_saddle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+   {"tipo":"button","phrase_id":"palavra101363","text_pt":"Fazer malabarismos","text_en":"Juggle","audio_en_storage_path": "345_juggle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101364","text_pt":"Agulha","text_en":"Needle","audio_en_storage_path": "346_needle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"},
+  {"tipo":"button","phrase_id":"palavra101371","text_pt":"Ruga","text_en":"Wrinkle","audio_en_storage_path": "353_wrinkle.mp3","corPadrao":"#3F51B5","corToque":"#4E5378"}
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111241",
+    "text_pt": "Almoço",
+    "text_en": "Lunch",
+    "audio_en_storage_path": "1241_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111242",
+    "text_pt": "É meio-dia e o almoço está pronto.",
+    "text_en": "It is noon and lunch is ready.",
+    "audio_en_storage_path": "1242_it_is_noon_and_lunch_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111243",
+    "text_pt": "A sopa está quente e o arroz está macio.",
+    "text_en": "The soup is hot and the rice is soft.",
+    "audio_en_storage_path": "1243_the_soup_is_hot_and_the_rice_is_soft.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111244",
+    "text_pt": "Nós sentamos juntos à mesa.",
+    "text_en": "We sit at the table together.",
+    "audio_en_storage_path": "1244_we_sit_at_the_table_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111245",
+    "text_pt": "Ou comemos sozinhos enquanto trabalhamos.",
+    "text_en": "Or we eat alone while working.",
+    "audio_en_storage_path": "1245_or_we_eat_alone_while_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111246",
+    "text_pt": "A comida é colorida e cheira bem.",
+    "text_en": "The food is colorful and smells good.",
+    "audio_en_storage_path": "1246_the_food_is_colorful_and_smells_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111247",
+    "text_pt": "Tem carne, vegetais e salada.",
+    "text_en": "There's meat. vegetables. and salad.",
+    "audio_en_storage_path": "1247_theres_meat_vegetables_and_salad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111248",
+    "text_pt": "Eu uso garfo e colher para comer.",
+    "text_en": "I use a fork and spoon to eat.",
+    "audio_en_storage_path": "1248_i_use_a_fork_and_spoon_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111249",
+    "text_pt": "E um guardanapo para limpar minha boca.",
+    "text_en": "And a napkin to clean my mouth.",
+    "audio_en_storage_path": "1249_and_a_napkin_to_clean_my_mouth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111250",
+    "text_pt": "O que você almoçou hoje?",
+    "text_en": "What did you have for lunch today?",
+    "audio_en_storage_path": "1250_what_did_you_have_for_lunch_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111251",
+    "text_pt": "Sanduíche e batatas fritas — rápido e fácil.",
+    "text_en": "Sandwich and chips — quick and easy.",
+    "audio_en_storage_path": "1251_sandwich_and_chips_quick_and_easy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111252",
+    "text_pt": "Onde você costuma almoçar?",
+    "text_en": "Where do you usually eat lunch?",
+    "audio_en_storage_path": "1252_where_do_you_usually_eat_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111253",
+    "text_pt": "Na escola, no trabalho ou em casa.",
+    "text_en": "At school. work. or at home.",
+    "audio_en_storage_path": "1253_at_school_work_or_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111254",
+    "text_pt": "Às vezes trago comida de casa.",
+    "text_en": "Sometimes I bring food from home.",
+    "audio_en_storage_path": "1254_sometimes_i_bring_food_from_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111255",
+    "text_pt": "Outras vezes compro algo perto.",
+    "text_en": "Other times I buy something nearby.",
+    "audio_en_storage_path": "1255_other_times_i_buy_something_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111256",
+    "text_pt": "Onde está sua lancheira agora?",
+    "text_en": "Where is your lunch box now?",
+    "audio_en_storage_path": "1256_where_is_your_lunch_box_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111257",
+    "text_pt": "Na sua bolsa — vazia e pronta para amanhã.",
+    "text_en": "In your bag — empty and ready for tomorrow.",
+    "audio_en_storage_path": "1257_in_your_bag_empty_and_ready_for_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111258",
+    "text_pt": "Quando você faz sua pausa para o almoço?",
+    "text_en": "When do you take your lunch break?",
+    "audio_en_storage_path": "1258_when_do_you_take_your_lunch_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111259",
+    "text_pt": "Por volta das 12h30 — depois de terminar algumas tarefas.",
+    "text_en": "Around 12:30 — after finishing some tasks.",
+    "audio_en_storage_path": "1259_around_1230_after_finishing_some_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111260",
+    "text_pt": "Por que você terminou o almoço tão rápido?",
+    "text_en": "Why did you finish lunch so quickly?",
+    "audio_en_storage_path": "1260_why_did_you_finish_lunch_so_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111261",
+    "text_pt": "Porque eu só tinha 20 minutos para comer.",
+    "text_en": "Because I only had 20 minutes to eat.",
+    "audio_en_storage_path": "1261_because_i_only_had_20_minutes_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111262",
+    "text_pt": "Eu almoço todos os dias no mesmo horário.",
+    "text_en": "I eat lunch every day at the same time.",
+    "audio_en_storage_path": "1262_i_eat_lunch_every_day_at_the_same_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111263",
+    "text_pt": "A rotina me ajuda a manter o foco.",
+    "text_en": "Routine helps me stay focused.",
+    "audio_en_storage_path": "1263_routine_helps_me_stay_focused.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111264",
+    "text_pt": "Amanhã. Não vou esquecer meu almoço novamente.",
+    "text_en": "Tomorrow. I will not forget my lunch again.",
+    "audio_en_storage_path": "1264_tomorrow_i_will_not_forget_my_lunch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111265",
+    "text_pt": "Vou fazer as malas antes de sair de casa.",
+    "text_en": "I’ll pack it before leaving home.",
+    "audio_en_storage_path": "1265_ill_pack_it_before_leaving_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111266",
+    "text_pt": "Espero que você goste da sua refeição!",
+    "text_en": "Hope you enjoy your meal!",
+    "audio_en_storage_path": "1266_hope_you_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111267",
+    "text_pt": "Tenha um ótimo almoço!",
+    "text_en": "Have a great lunch!",
+    "audio_en_storage_path": "1267_have_a_great_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121200",
+    "text_pt": "Título do grupo – Conversando sobre o céu e a natureza",
+    "text_en": "Group Title – Talking About the Sky and Nature",
+    "audio_en_storage_path": "1200_group_title_talking_about_the_sky_and_nature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121201",
+    "text_pt": "O que faz o céu ficar vermelho ao pôr do sol?",
+    "text_en": "What makes the sky turn red at sunset?",
+    "audio_en_storage_path": "1201_what_makes_the_sky_turn_red_at_sunset.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121202",
+    "text_pt": "O que você acha que faz o céu ficar todo vermelho à noite?",
+    "text_en": "Whaddya think makes the sky go all red at night?",
+    "audio_en_storage_path": "1202_whaddya_think_makes_the_sky_go_all_red_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121203",
+    "text_pt": "Por que as nuvens mudam de forma com tanta frequência?",
+    "text_en": "Why do clouds change shape so often?",
+    "audio_en_storage_path": "1203_why_do_clouds_change_shape_so_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121204",
+    "text_pt": "Por que as nuvens mudam de aparência o tempo todo?",
+    "text_en": "Why do clouds keep changin’ their look all the time?",
+    "audio_en_storage_path": "1204_why_do_clouds_keep_changin_their_look_all_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121205",
+    "text_pt": "Quão alto os aviões podem voar?",
+    "text_en": "How high can airplanes fly?",
+    "audio_en_storage_path": "1205_how_high_can_airplanes_fly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121206",
+    "text_pt": "Quão alto os aviões voam?",
+    "text_en": "How far up do planes go when they’re flyin’?",
+    "audio_en_storage_path": "1206_how_far_up_do_planes_go_when_theyre_flyin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121207",
+    "text_pt": "Às vezes você consegue ver a lua durante o dia?",
+    "text_en": "Can you see the moon during the day sometimes?",
+    "audio_en_storage_path": "1207_can_you_see_the_moon_during_the_day_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121208",
+    "text_pt": "Você já viu a lua quando o sol ainda estava alto?",
+    "text_en": "You ever spot the moon when the sun’s still up?",
+    "audio_en_storage_path": "1208_you_ever_spot_the_moon_when_the_suns_still_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121209",
+    "text_pt": "O que causa raios durante uma tempestade?",
+    "text_en": "What causes lightning during a storm?",
+    "audio_en_storage_path": "1209_what_causes_lightning_during_a_storm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121210",
+    "text_pt": "O que faz esses raios acontecerem?",
+    "text_en": "What makes those lightning strikes happen?",
+    "audio_en_storage_path": "1210_what_makes_those_lightning_strikes_happen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121211",
+    "text_pt": "Por que as estrelas brilham no céu?",
+    "text_en": "Why do stars twinkle in the sky?",
+    "audio_en_storage_path": "1211_why_do_stars_twinkle_in_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121212",
+    "text_pt": "Por que as estrelas dançam e piscam desse jeito?",
+    "text_en": "Why do stars kinda dance and flicker like that?",
+    "audio_en_storage_path": "1212_why_do_stars_kinda_dance_and_flicker_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121213",
+    "text_pt": "Como um balão se mantém no ar?",
+    "text_en": "How does a balloon stay in the air?",
+    "audio_en_storage_path": "1213_how_does_a_balloon_stay_in_the_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121214",
+    "text_pt": "Como os balões flutuam desse jeito sem cair?",
+    "text_en": "How do balloons float like that without fallin’?",
+    "audio_en_storage_path": "1214_how_do_balloons_float_like_that_without_fallin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121215",
+    "text_pt": "O que acontece quando duas nuvens colidem?",
+    "text_en": "What happens when two clouds collide?",
+    "audio_en_storage_path": "1215_what_happens_when_two_clouds_collide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121216",
+    "text_pt": "O que acontece quando as nuvens colidem umas com as outras?",
+    "text_en": "What goes down when clouds bump into each other?",
+    "audio_en_storage_path": "1216_what_goes_down_when_clouds_bump_into_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121217",
+    "text_pt": "Para onde os pássaros vão quando chove?",
+    "text_en": "Where do birds go when it rains?",
+    "audio_en_storage_path": "1217_where_do_birds_go_when_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121218",
+    "text_pt": "Onde os pássaros se escondem quando começa a chover?",
+    "text_en": "Where do birds hide when it starts to pour?",
+    "audio_en_storage_path": "1218_where_do_birds_hide_when_it_starts_to_pour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121219",
+    "text_pt": "Como os pilotos sabem para onde estão indo?",
+    "text_en": "How do pilots know where they’re going?",
+    "audio_en_storage_path": "1219_how_do_pilots_know_where_theyre_going.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121220",
+    "text_pt": "Como os pilotos conseguem pilotar essa coisa sem se perder?",
+    "text_en": "How do pilots steer that thing without gettin’ lost?",
+    "audio_en_storage_path": "1220_how_do_pilots_steer_that_thing_without_gettin_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121221",
+    "text_pt": "Por que as pipas voam melhor em dias ventosos?",
+    "text_en": "Why do kites fly better on windy days?",
+    "audio_en_storage_path": "1221_why_do_kites_fly_better_on_windy_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121222",
+    "text_pt": "Por que as pipas funcionam melhor quando o vento sopra forte?",
+    "text_en": "Why do kites work best when the wind’s blowin’ hard?",
+    "audio_en_storage_path": "1222_why_do_kites_work_best_when_the_winds_blowin_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121223",
+    "text_pt": "O que faz um arco-íris aparecer depois da chuva?",
+    "text_en": "What makes a rainbow appear after the rain?",
+    "audio_en_storage_path": "1223_what_makes_a_rainbow_appear_after_the_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121224",
+    "text_pt": "O que você acha que faz esse arco de cores aparecer depois da chuva?",
+    "text_en": "Whatcha think makes that color arc pop up after rain?",
+    "audio_en_storage_path": "1224_whatcha_think_makes_that_color_arc_pop_up_after_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121225",
+    "text_pt": "Os helicópteros podem voar tão alto quanto os aviões?",
+    "text_en": "Can helicopters fly as high as airplanes?",
+    "audio_en_storage_path": "1225_can_helicopters_fly_as_high_as_airplanes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121226",
+    "text_pt": "Os helicópteros conseguem voar tão alto quanto aviões comuns?",
+    "text_en": "Can choppers go as high as regular planes?",
+    "audio_en_storage_path": "1226_can_choppers_go_as_high_as_regular_planes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121227",
+    "text_pt": "Quanto tempo um pássaro pode ficar no ar sem pousar?",
+    "text_en": "How long can a bird stay in the air without landing?",
+    "audio_en_storage_path": "1227_how_long_can_a_bird_stay_in_the_air_without_landing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121228",
+    "text_pt": "Quanto tempo um pássaro consegue voar sem parar?",
+    "text_en": "How long can a bird stay flyin’ without takin’ a break?",
+    "audio_en_storage_path": "1228_how_long_can_a_bird_stay_flyin_without_takin_a_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121229",
+    "text_pt": "Obrigado por observar o céu comigo",
+    "text_en": "Thanks for watching the sky with me",
+    "audio_en_storage_path": "1229_thanks_for_watching_the_sky_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121230",
+    "text_pt": "Agradeço a companhia — obrigado por cuidar de mim",
+    "text_en": "Appreciate the company — thanks for lookin’ up with me",
+    "audio_en_storage_path": "1230_appreciate_the_company_thanks_for_lookin_up_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

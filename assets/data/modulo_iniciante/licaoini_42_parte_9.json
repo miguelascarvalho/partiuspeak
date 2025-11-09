@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102029",
+    "text_pt": "📚 Loja de Livros",
+    "text_en": "📚 Bookstore",
+    "audio_en_storage_path": "1129_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102030",
+    "text_pt": "A livraria fica perto da área de recreação infantil.",
+    "text_en": "The bookstore is close to the kids’ play area.",
+    "audio_en_storage_path": "1130_the_bookstore_is_close_to_the_kids_play_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102031",
+    "text_pt": "Cheira a papel e café do vizinho.",
+    "text_en": "Smells like paper and coffee from next door.",
+    "audio_en_storage_path": "1131_smells_like_paper_and_coffee_from_next_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102032",
+    "text_pt": "Eu compro livros de histórias. histórias em quadrinhos e cadernos aqui.",
+    "text_en": "I buy storybooks. comics. and notebooks here.",
+    "audio_en_storage_path": "1132_i_buy_storybooks_comics_and_notebooks_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102033",
+    "text_pt": "Ou simplesmente sente-se e leia por um tempo.",
+    "text_en": "Or just sit and read for a while.",
+    "audio_en_storage_path": "1133_or_just_sit_and_read_for_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102034",
+    "text_pt": "As prateleiras são altas e claramente etiquetadas.",
+    "text_en": "The shelves are tall and labeled clearly.",
+    "audio_en_storage_path": "1134_the_shelves_are_tall_and_labeled_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102035",
+    "text_pt": "Os livros são classificados por idade e gênero.",
+    "text_en": "Books are sorted by age and genre.",
+    "audio_en_storage_path": "1135_books_are_sorted_by_age_and_genre.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102036",
+    "text_pt": "Há cadeiras de leitura. canetas e cartões postais por perto.",
+    "text_en": "There are reading chairs. think. and postcards nearby.",
+    "audio_en_storage_path": "1136_there_are_reading_chairs_think_and_postcards_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102037",
+    "text_pt": "E pequenas lâmpadas para uma luz suave.",
+    "text_en": "And small lamps for soft light.",
+    "audio_en_storage_path": "1137_and_small_lamps_for_soft_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102038",
+    "text_pt": "Que livro você escolheu?",
+    "text_en": "What book did you pick?",
+    "audio_en_storage_path": "1138_what_book_did_you_pick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102039",
+    "text_pt": "Um diário de viagem — cheio de histórias reais.",
+    "text_en": "A travel journal — full of real stories.",
+    "audio_en_storage_path": "1139_a_travel_journal_full_of_real_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102040",
+    "text_pt": "Onde estão os livros de inglês para iniciantes?",
+    "text_en": "Where are the English books for beginners?",
+    "audio_en_storage_path": "1140_where_are_the_english_books_for_beginners.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102041",
+    "text_pt": "Junto à janela — com guias de aprendizagem de línguas.",
+    "text_en": "By the window — with language learning guides.",
+    "audio_en_storage_path": "1141_by_the_window_with_language_learning_guides.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102042",
+    "text_pt": "Às vezes leio um capítulo primeiro.",
+    "text_en": "Sometimes I read a chapter first.",
+    "audio_en_storage_path": "1142_sometimes_i_read_a_chapter_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102043",
+    "text_pt": "Outras vezes eu simplesmente confio na capa.",
+    "text_en": "Other times I just trust the cover.",
+    "audio_en_storage_path": "1143_other_times_i_just_trust_the_cover.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102044",
+    "text_pt": "Onde você deixou seu marcador?",
+    "text_en": "Where did you leave your bookmark?",
+    "audio_en_storage_path": "1144_where_did_you_leave_your_bookmark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102045",
+    "text_pt": "Na seção de mistério — provavelmente em um banco.",
+    "text_en": "In the mystery section — probably on a bench.",
+    "audio_en_storage_path": "1145_in_the_mystery_section_probably_on_a_bench.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102046",
+    "text_pt": "Quando o novo quadrinho chegará?",
+    "text_en": "When will the new comic arrive?",
+    "audio_en_storage_path": "1146_when_will_the_new_comic_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102047",
+    "text_pt": "Em breve — eles estão esperando isso esta semana.",
+    "text_en": "Soon — they’re expecting it this week.",
+    "audio_en_storage_path": "1147_soon_theyre_expecting_it_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102048",
+    "text_pt": "Por que você trouxe uma sacola hoje?",
+    "text_en": "Why did you bring a bag today?",
+    "audio_en_storage_path": "1148_why_did_you_bring_a_bag_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102049",
+    "text_pt": "Porque comprei um caderno e três livros.",
+    "text_en": "Because I bought a notebook and three books.",
+    "audio_en_storage_path": "1149_because_i_bought_a_notebook_and_three_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102050",
+    "text_pt": "Ela lê algumas páginas antes de decidir.",
+    "text_en": "She reads a few pages before deciding.",
+    "audio_en_storage_path": "1150_she_reads_a_few_pages_before_deciding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102051",
+    "text_pt": "Se ela gosta do tom. ela compra.",
+    "text_en": "If she likes the tone. she buys it.",
+    "audio_en_storage_path": "1151_if_she_likes_the_tone_she_buys_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102052",
+    "text_pt": "Amanhã. Não vou esquecer de escrever meu nome no livro novamente.",
+    "text_en": "Tomorrow. I will not forget to write my name on the book again.",
+    "audio_en_storage_path": "1152_tomorrow_i_will_not_forget_to_write_my_name_on_the_book_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102053",
+    "text_pt": "Alguém pegou o meu na semana passada — a mesma cópia.",
+    "text_en": "Someone took mine last week — same copy.",
+    "audio_en_storage_path": "1153_someone_took_mine_last_week_same_copy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102054",
+    "text_pt": "Leia devagar!",
+    "text_en": "Read slowly!",
+    "audio_en_storage_path": "1154_read_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102055",
+    "text_pt": "Aproveite cada palavra e linha.",
+    "text_en": "Enjoy every word and line.",
+    "audio_en_storage_path": "1155_enjoy_every_word_and_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

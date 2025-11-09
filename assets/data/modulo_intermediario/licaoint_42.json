@@ -1,0 +1,1397 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121788",
+    "text_pt": "Videogames e Personagens",
+    "text_en": "Video Games and Characters",
+    "audio_en_storage_path": "1788_video_games_and_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121789",
+    "text_pt": "Este jogo tem muitos personagens com habilidades diferentes",
+    "text_en": "This game has many characters with different skills",
+    "audio_en_storage_path": "1789_this_game_has_many_characters_with_different_skills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121790",
+    "text_pt": "Tem muitos jogadores neste jogo — cada um com seus próprios movimentos",
+    "text_en": "Got tons of players in this game — each one got their own moves",
+    "audio_en_storage_path": "1790_got_tons_of_players_in_this_game_each_one_got_their_own_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121791",
+    "text_pt": "Alguns heróis são rápidos. Outros são fortes ou inteligentes.",
+    "text_en": "Some heroes are fast. others are strong or smart",
+    "audio_en_storage_path": "1791_some_heroes_are_fast_others_are_strong_or_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121792",
+    "text_pt": "Alguns são rápidos. Alguns são durões. Alguns são realmente inteligentes.",
+    "text_en": "Some are quick. some are tough. some just really clever",
+    "audio_en_storage_path": "1792_some_are_quick_some_are_tough_some_just_really_clever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121793",
+    "text_pt": "Cada personagem tem movimentos e poderes especiais",
+    "text_en": "Each character has special moves and powers",
+    "audio_en_storage_path": "1793_each_character_has_special_moves_and_powers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121794",
+    "text_pt": "Todo herói tem truques legais que pode usar na batalha",
+    "text_en": "Every hero’s got cool tricks they can use in battle",
+    "audio_en_storage_path": "1794_every_heros_got_cool_tricks_they_can_use_in_battle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121795",
+    "text_pt": "Você pode escolher o seu favorito antes de começar a partida",
+    "text_en": "You can choose your favorite before starting the match",
+    "audio_en_storage_path": "1795_you_can_choose_your_favorite_before_starting_the_match.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121796",
+    "text_pt": "Escolha quem você mais gosta antes da luta começar",
+    "text_en": "Pick whoever you like best before the fight begins",
+    "audio_en_storage_path": "1796_pick_whoever_you_like_best_before_the_fight_begins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121797",
+    "text_pt": "Posso jogar como o mago do fogo?",
+    "text_en": "Can I play as the fire wizard?",
+    "audio_en_storage_path": "1797_can_i_play_as_the_fire_wizard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121798",
+    "text_pt": "Posso escolher aquele cara fogo para esta rodada?",
+    "text_en": "Can I pick that fire guy for this round?",
+    "audio_en_storage_path": "1798_can_i_pick_that_fire_guy_for_this_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121799",
+    "text_pt": "Sim, ele é bom para iniciantes",
+    "text_en": "Yes. he’s good for beginners",
+    "audio_en_storage_path": "1799_yes_hes_good_for_beginners.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121800",
+    "text_pt": "Sim, é fácil de aprender se você for novo",
+    "text_en": "Yeah. he’s easy to learn if you’re new",
+    "audio_en_storage_path": "1800_yeah_hes_easy_to_learn_if_youre_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121801",
+    "text_pt": "Ou você pode tentar o ninja se quiser velocidade",
+    "text_en": "Or you can try the ninja if you want speed",
+    "audio_en_storage_path": "1801_or_you_can_try_the_ninja_if_you_want_speed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121802",
+    "text_pt": "Ou vá com o cara das sombras se você gosta de se mover rápido",
+    "text_en": "Or go with the shadow dude if ya like movin’ fast",
+    "audio_en_storage_path": "1802_or_go_with_the_shadow_dude_if_ya_like_movin_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121803",
+    "text_pt": "Onde encontro o personagem mais forte?",
+    "text_en": "Where do I find the strongest character?",
+    "audio_en_storage_path": "1803_where_do_i_find_the_strongest_character.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121804",
+    "text_pt": "Onde posso desbloquear o melhor lutador?",
+    "text_en": "Where can I unlock the top fighter?",
+    "audio_en_storage_path": "1804_where_can_i_unlock_the_top_fighter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121805",
+    "text_pt": "Quando o próximo nível começará?",
+    "text_en": "When will the next level start?",
+    "audio_en_storage_path": "1805_when_will_the_next_level_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121806",
+    "text_pt": "Quando passamos para a próxima fase?",
+    "text_en": "When we jump into the next stage?",
+    "audio_en_storage_path": "1806_when_we_jump_into_the_next_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121807",
+    "text_pt": "Por que você escolheu o cavaleiro em vez do arqueiro?",
+    "text_en": "Why did you choose the knight instead of the archer?",
+    "audio_en_storage_path": "1807_why_did_you_choose_the_knight_instead_of_the_archer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121808",
+    "text_pt": "O que você fez com o cara da espada em vez do atirador de arco?",
+    "text_en": "What made ya go with the sword guy over the bow shooter?",
+    "audio_en_storage_path": "1808_what_made_ya_go_with_the_sword_guy_over_the_bow_shooter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121809",
+    "text_pt": "Ele sempre joga como o matador de dragões",
+    "text_en": "He always plays as the dragon slayer",
+    "audio_en_storage_path": "1809_he_always_plays_as_the_dragon_slayer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121810",
+    "text_pt": "O cara só usa aquele matador de dragões toda vez",
+    "text_en": "Dude only uses that dragon killer every time",
+    "audio_en_storage_path": "1810_dude_only_uses_that_dragon_killer_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121811",
+    "text_pt": "Não vou mudar meu personagem mesmo se estiver perdendo",
+    "text_en": "I won’t change my character even if I’m losing",
+    "audio_en_storage_path": "1811_i_wont_change_my_character_even_if_im_losing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121812",
+    "text_pt": "Continuando com minha escolha, mesmo que as coisas fiquem difíceis",
+    "text_en": "Stickin’ with my pick even if things get rough",
+    "audio_en_storage_path": "1812_stickin_with_my_pick_even_if_things_get_rough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121813",
+    "text_pt": "Bom trabalho escolhendo o herói certo",
+    "text_en": "Good job picking the right hero",
+    "audio_en_storage_path": "1813_good_job_picking_the_right_hero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121814",
+    "text_pt": "Boa escolha — escolheu o lutador perfeito",
+    "text_en": "Nice choice — picked the perfect fighter",
+    "audio_en_storage_path": "1814_nice_choice_picked_the_perfect_fighter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121815",
+    "text_pt": "Tome cuidado e observe sua barra de saúde",
+    "text_en": "Take care and watch your health bar",
+    "audio_en_storage_path": "1815_take_care_and_watch_your_health_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121816",
+    "text_pt": "Fique de olho no seu medidor de vida — não o deixe cair",
+    "text_en": "Keep an eye on your life meter — don’t let it drop",
+    "audio_en_storage_path": "1816_keep_an_eye_on_your_life_meter_dont_let_it_drop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121817",
+    "text_pt": "Vejo vocês na próxima rodada — boa sorte",
+    "text_en": "See you in the next round — good luck",
+    "audio_en_storage_path": "1817_see_you_in_the_next_round_good_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121818",
+    "text_pt": "Te vejo na próxima luta — quebre uma perna",
+    "text_en": "Catch ya in the next fight — break a leg",
+    "audio_en_storage_path": "1818_catch_ya_in_the_next_fight_break_a_leg.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121819",
+    "text_pt": "Videogames e Personagens",
+    "text_en": "Video Games and Characters",
+    "audio_en_storage_path": "1819_video_games_and_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121820",
+    "text_pt": "Este jogo tem muitos personagens com habilidades diferentes",
+    "text_en": "This game has many characters with different skills",
+    "audio_en_storage_path": "1820_this_game_has_many_characters_with_different_skills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121821",
+    "text_pt": "Tem muitos jogadores neste jogo — cada um com seus próprios movimentos",
+    "text_en": "Got tons of players in this game — each one got their own moves",
+    "audio_en_storage_path": "1821_got_tons_of_players_in_this_game_each_one_got_their_own_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121822",
+    "text_pt": "Alguns heróis são rápidos. Outros são fortes ou inteligentes.",
+    "text_en": "Some heroes are fast. others are strong or smart",
+    "audio_en_storage_path": "1822_some_heroes_are_fast_others_are_strong_or_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121823",
+    "text_pt": "Alguns são rápidos. Alguns são durões. Alguns são realmente inteligentes.",
+    "text_en": "Some are quick. some are tough. some just really clever",
+    "audio_en_storage_path": "1823_some_are_quick_some_are_tough_some_just_really_clever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121824",
+    "text_pt": "Cada personagem tem movimentos e poderes especiais",
+    "text_en": "Each character has special moves and powers",
+    "audio_en_storage_path": "1824_each_character_has_special_moves_and_powers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121825",
+    "text_pt": "Todo herói tem truques legais que pode usar na batalha",
+    "text_en": "Every hero’s got cool tricks they can use in battle",
+    "audio_en_storage_path": "1825_every_heros_got_cool_tricks_they_can_use_in_battle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121826",
+    "text_pt": "Você pode escolher o seu favorito antes de começar a partida",
+    "text_en": "You can choose your favorite before starting the match",
+    "audio_en_storage_path": "1826_you_can_choose_your_favorite_before_starting_the_match.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121827",
+    "text_pt": "Escolha quem você mais gosta antes da luta começar",
+    "text_en": "Pick whoever you like best before the fight begins",
+    "audio_en_storage_path": "1827_pick_whoever_you_like_best_before_the_fight_begins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121828",
+    "text_pt": "Posso jogar como o mago do fogo?",
+    "text_en": "Can I play as the fire wizard?",
+    "audio_en_storage_path": "1828_can_i_play_as_the_fire_wizard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121829",
+    "text_pt": "Posso escolher aquele cara fogo para esta rodada?",
+    "text_en": "Can I pick that fire guy for this round?",
+    "audio_en_storage_path": "1829_can_i_pick_that_fire_guy_for_this_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121830",
+    "text_pt": "Sim, ele é bom para iniciantes",
+    "text_en": "Yes. he’s good for beginners",
+    "audio_en_storage_path": "1830_yes_hes_good_for_beginners.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121831",
+    "text_pt": "Sim, é fácil de aprender se você for novo",
+    "text_en": "Yeah. he’s easy to learn if you’re new",
+    "audio_en_storage_path": "1831_yeah_hes_easy_to_learn_if_youre_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121832",
+    "text_pt": "Ou você pode tentar o ninja se quiser velocidade",
+    "text_en": "Or you can try the ninja if you want speed",
+    "audio_en_storage_path": "1832_or_you_can_try_the_ninja_if_you_want_speed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121833",
+    "text_pt": "Ou vá com o cara das sombras se você gosta de se mover rápido",
+    "text_en": "Or go with the shadow dude if ya like movin’ fast",
+    "audio_en_storage_path": "1833_or_go_with_the_shadow_dude_if_ya_like_movin_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121834",
+    "text_pt": "Onde encontro o personagem mais forte?",
+    "text_en": "Where do I find the strongest character?",
+    "audio_en_storage_path": "1834_where_do_i_find_the_strongest_character.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121835",
+    "text_pt": "Onde posso desbloquear o melhor lutador?",
+    "text_en": "Where can I unlock the top fighter?",
+    "audio_en_storage_path": "1835_where_can_i_unlock_the_top_fighter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121836",
+    "text_pt": "Quando o próximo nível começará?",
+    "text_en": "When will the next level start?",
+    "audio_en_storage_path": "1836_when_will_the_next_level_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121837",
+    "text_pt": "Quando passamos para a próxima fase?",
+    "text_en": "When we jump into the next stage?",
+    "audio_en_storage_path": "1837_when_we_jump_into_the_next_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121838",
+    "text_pt": "Por que você escolheu o cavaleiro em vez do arqueiro?",
+    "text_en": "Why did you choose the knight instead of the archer?",
+    "audio_en_storage_path": "1838_why_did_you_choose_the_knight_instead_of_the_archer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121839",
+    "text_pt": "O que você fez com o cara da espada em vez do atirador de arco?",
+    "text_en": "What made ya go with the sword guy over the bow shooter?",
+    "audio_en_storage_path": "1839_what_made_ya_go_with_the_sword_guy_over_the_bow_shooter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121840",
+    "text_pt": "Ele sempre joga como o matador de dragões",
+    "text_en": "He always plays as the dragon slayer",
+    "audio_en_storage_path": "1840_he_always_plays_as_the_dragon_slayer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121841",
+    "text_pt": "O cara só usa aquele matador de dragões toda vez",
+    "text_en": "Dude only uses that dragon killer every time",
+    "audio_en_storage_path": "1841_dude_only_uses_that_dragon_killer_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121842",
+    "text_pt": "Não vou mudar meu personagem mesmo se estiver perdendo",
+    "text_en": "I won’t change my character even if I’m losing",
+    "audio_en_storage_path": "1842_i_wont_change_my_character_even_if_im_losing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121843",
+    "text_pt": "Continuando com minha escolha, mesmo que as coisas fiquem difíceis",
+    "text_en": "Stickin’ with my pick even if things get rough",
+    "audio_en_storage_path": "1843_stickin_with_my_pick_even_if_things_get_rough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121844",
+    "text_pt": "Bom trabalho escolhendo o herói certo",
+    "text_en": "Good job picking the right hero",
+    "audio_en_storage_path": "1844_good_job_picking_the_right_hero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121845",
+    "text_pt": "Boa escolha — escolheu o lutador perfeito",
+    "text_en": "Nice choice — picked the perfect fighter",
+    "audio_en_storage_path": "1845_nice_choice_picked_the_perfect_fighter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121846",
+    "text_pt": "Tome cuidado e observe sua barra de saúde",
+    "text_en": "Take care and watch your health bar",
+    "audio_en_storage_path": "1846_take_care_and_watch_your_health_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121847",
+    "text_pt": "Fique de olho no seu medidor de vida — não o deixe cair",
+    "text_en": "Keep an eye on your life meter — don’t let it drop",
+    "audio_en_storage_path": "1847_keep_an_eye_on_your_life_meter_dont_let_it_drop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121848",
+    "text_pt": "Vejo vocês na próxima rodada — boa sorte",
+    "text_en": "See you in the next round — good luck",
+    "audio_en_storage_path": "1848_see_you_in_the_next_round_good_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121849",
+    "text_pt": "Te vejo na próxima luta — quebre uma perna",
+    "text_en": "Catch ya in the next fight — break a leg",
+    "audio_en_storage_path": "1849_catch_ya_in_the_next_fight_break_a_leg.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121850",
+    "text_pt": "Jogando o jogo – Ações e movimentos",
+    "text_en": "Playing the Game – Actions and Moves",
+    "audio_en_storage_path": "1850_playing_the_game_actions_and_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121851",
+    "text_pt": "Os jogadores correm, saltam e atacam os inimigos no jogo",
+    "text_en": "Players run. jump. and attack enemies in the game",
+    "audio_en_storage_path": "1851_players_run_jump_and_attack_enemies_in_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121852",
+    "text_pt": "As pessoas correm, saltam e socam bandidos o dia todo",
+    "text_en": "Folks dash. leap. and punch bad guys all day",
+    "audio_en_storage_path": "1852_folks_dash_leap_and_punch_bad_guys_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121853",
+    "text_pt": "Você pode coletar moedas e power-ups ao longo do caminho",
+    "text_en": "You can collect coins and power-ups along the way",
+    "audio_en_storage_path": "1853_you_can_collect_coins_and_powerups_along_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121854",
+    "text_pt": "Pegue moedas e reforços extras enquanto você se move",
+    "text_en": "Grab coins and extra boosts while you move",
+    "audio_en_storage_path": "1854_grab_coins_and_extra_boosts_while_you_move.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121855",
+    "text_pt": "O chefe final é grande e difícil de derrotar",
+    "text_en": "The final boss is big and hard to defeat",
+    "audio_en_storage_path": "1855_the_final_boss_is_big_and_hard_to_defeat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121856",
+    "text_pt": "O inimigo final é enorme e difícil de derrubar",
+    "text_en": "Final enemy’s massive and tough to take down",
+    "audio_en_storage_path": "1856_final_enemys_massive_and_tough_to_take_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121857",
+    "text_pt": "Existem armadilhas e obstáculos que você deve evitar",
+    "text_en": "There are traps and obstacles you must avoid",
+    "audio_en_storage_path": "1857_there_are_traps_and_obstacles_you_must_avoid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121858",
+    "text_pt": "Tem perigos escondidos e paredes que você tem que desviar",
+    "text_en": "Got hidden dangers and walls you gotta dodge",
+    "audio_en_storage_path": "1858_got_hidden_dangers_and_walls_you_gotta_dodge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121859",
+    "text_pt": "Posso usar esta arma ou devo trocar?",
+    "text_en": "Can I use this weapon or should I switch?",
+    "audio_en_storage_path": "1859_can_i_use_this_weapon_or_should_i_switch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121860",
+    "text_pt": "Posso usar este machado ou é melhor usar outro?",
+    "text_en": "Can I swing this axe or better off with another?",
+    "audio_en_storage_path": "1860_can_i_swing_this_axe_or_better_off_with_another.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121861",
+    "text_pt": "Use o vermelho — ele bate mais forte",
+    "text_en": "Use the red one — it hits harder",
+    "audio_en_storage_path": "1861_use_the_red_one_it_hits_harder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121862",
+    "text_pt": "Vá com o vermelho — causa mais danos",
+    "text_en": "Go with the red one — does more damage",
+    "audio_en_storage_path": "1862_go_with_the_red_one_does_more_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121863",
+    "text_pt": "Ou espere até encontrar algo melhor",
+    "text_en": "Or wait until you find something better",
+    "audio_en_storage_path": "1863_or_wait_until_you_find_something_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121864",
+    "text_pt": "Ou espere até conseguir algo mais legal",
+    "text_en": "Or hold out ‘til ya score somethin’ cooler",
+    "audio_en_storage_path": "1864_or_hold_out_til_ya_score_somethin_cooler.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121865",
+    "text_pt": "Onde posso encontrar o nível secreto?",
+    "text_en": "Where can I find the secret level?",
+    "audio_en_storage_path": "1865_where_can_i_find_the_secret_level.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121866",
+    "text_pt": "O que você disse — onde está escondido aquele palco?",
+    "text_en": "Whaddya say — where’s that hidden stage hiding?",
+    "audio_en_storage_path": "1866_whaddya_say_wheres_that_hidden_stage_hiding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121867",
+    "text_pt": "Quando o chefe voltará depois que eu derrotá-lo?",
+    "text_en": "When will the boss come back after I beat him?",
+    "audio_en_storage_path": "1867_when_will_the_boss_come_back_after_i_beat_him.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121868",
+    "text_pt": "Quando esse grandalhão vai aparecer de novo?",
+    "text_en": "When’ll that big guy show up again?",
+    "audio_en_storage_path": "1868_whenll_that_big_guy_show_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121869",
+    "text_pt": "Por que você caiu da plataforma mais cedo?",
+    "text_en": "Why did you fall off the platform earlier?",
+    "audio_en_storage_path": "1869_why_did_you_fall_off_the_platform_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121870",
+    "text_pt": "O que fez você escorregar da borda — sem prestar atenção?",
+    "text_en": "What made ya slip off the ledge — not paying attention?",
+    "audio_en_storage_path": "1870_what_made_ya_slip_off_the_ledge_not_paying_attention.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121871",
+    "text_pt": "Ela desvia de todos os ataques e pula super alto",
+    "text_en": "She dodges every attack and jumps super high",
+    "audio_en_storage_path": "1871_she_dodges_every_attack_and_jumps_super_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121872",
+    "text_pt": "Ela desliza para longe de cada golpe e voa bem alto",
+    "text_en": "She slides away from every hit and flies up real high",
+    "audio_en_storage_path": "1872_she_slides_away_from_every_hit_and_flies_up_real_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121873",
+    "text_pt": "Não usarei nenhum código de trapaça durante a partida",
+    "text_en": "I won’t use any cheat codes during the match",
+    "audio_en_storage_path": "1873_i_wont_use_any_cheat_codes_during_the_match.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121874",
+    "text_pt": "Sem truques baratos — vamos vencer de forma justa e honesta",
+    "text_en": "No cheap tricks — gonna win fair and square",
+    "audio_en_storage_path": "1874_no_cheap_tricks_gonna_win_fair_and_square.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121875",
+    "text_pt": "Boas jogadas — continue assim",
+    "text_en": "Nice moves — keep going like that",
+    "audio_en_storage_path": "1875_nice_moves_keep_going_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121876",
+    "text_pt": "Jogo sólido — mantenha-se atento e continue avançando",
+    "text_en": "Solid play — stay sharp and keep pushin’",
+    "audio_en_storage_path": "1876_solid_play_stay_sharp_and_keep_pushin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121877",
+    "text_pt": "Não perca a próxima combinação — é poderosa",
+    "text_en": "Don’t miss the next combo — it’s powerful",
+    "audio_en_storage_path": "1877_dont_miss_the_next_combo_its_powerful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121878",
+    "text_pt": "Não estrague o próximo conjunto - ele tem um impacto incrível",
+    "text_en": "Don’t mess up the next set — it packs a punch",
+    "audio_en_storage_path": "1878_dont_mess_up_the_next_set_it_packs_a_punch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121879",
+    "text_pt": "Divirta-se e aproveite o desafio",
+    "text_en": "Have fun and enjoy the challenge",
+    "audio_en_storage_path": "1879_have_fun_and_enjoy_the_challenge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121880",
+    "text_pt": "Jogue duro e aproveite a luta",
+    "text_en": "Play hard and enjoy the fight",
+    "audio_en_storage_path": "1880_play_hard_and_enjoy_the_fight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121881",
+    "text_pt": "Ganhar e perder",
+    "text_en": "Winning and Losing",
+    "audio_en_storage_path": "1881_winning_and_losing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121882",
+    "text_pt": "Ganhar lhe dá pontos e desbloqueia novos níveis",
+    "text_en": "Winning gives you points and unlocks new levels",
+    "audio_en_storage_path": "1882_winning_gives_you_points_and_unlocks_new_levels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121883",
+    "text_pt": "A vitória preenche sua pontuação e abre novas fases",
+    "text_en": "Victory fills your score and opens new stages",
+    "audio_en_storage_path": "1883_victory_fills_your_score_and_opens_new_stages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121884",
+    "text_pt": "Perder faz você recomeçar ou perder vidas",
+    "text_en": "Losing makes you restart or lose lives",
+    "audio_en_storage_path": "1884_losing_makes_you_restart_or_lose_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121885",
+    "text_pt": "Deixe uma vida de lado e tenha que começar tudo de novo",
+    "text_en": "Drop a life and gotta start over again",
+    "audio_en_storage_path": "1885_drop_a_life_and_gotta_start_over_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121886",
+    "text_pt": "Se você falhar muitas vezes, o jogo termina.",
+    "text_en": "If you fail too many times. the game ends",
+    "audio_en_storage_path": "1886_if_you_fail_too_many_times_the_game_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121887",
+    "text_pt": "Se você errar muito, o jogo acaba",
+    "text_en": "Mess up too much and it’s game over",
+    "audio_en_storage_path": "1887_mess_up_too_much_and_its_game_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121888",
+    "text_pt": "Você pode continuar se tiver créditos extras",
+    "text_en": "You can continue if you have extra credits",
+    "audio_en_storage_path": "1888_you_can_continue_if_you_have_extra_credits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121889",
+    "text_pt": "Se você ainda tiver chances, basta pressionar continuar",
+    "text_en": "If ya still got chances left. just press continue",
+    "audio_en_storage_path": "1889_if_ya_still_got_chances_left_just_press_continue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121890",
+    "text_pt": "Você quer tentar novamente ou desistir?",
+    "text_en": "Do you want to try again or quit?",
+    "audio_en_storage_path": "1890_do_you_want_to_try_again_or_quit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121891",
+    "text_pt": "Quer tentar novamente ou desistir?",
+    "text_en": "Wanna give it another shot or call it quits?",
+    "audio_en_storage_path": "1891_wanna_give_it_another_shot_or_call_it_quits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121892",
+    "text_pt": "Deixe-me tentar mais uma vez - estou perto de vencer",
+    "text_en": "Let me try one more time — I’m close to winning",
+    "audio_en_storage_path": "1892_let_me_try_one_more_time_im_close_to_winning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121893",
+    "text_pt": "Deixe-me dar mais uma volta - estou quase lá",
+    "text_en": "Let me go one more round — I’m almost there",
+    "audio_en_storage_path": "1893_let_me_go_one_more_round_im_almost_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121894",
+    "text_pt": "Talvez reinicie a partir do último ponto de verificação",
+    "text_en": "Maybe restart from the last checkpoint",
+    "audio_en_storage_path": "1894_maybe_restart_from_the_last_checkpoint.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121895",
+    "text_pt": "Ou volte para o último ponto de salvamento",
+    "text_en": "Or jump back to the last save point",
+    "audio_en_storage_path": "1895_or_jump_back_to_the_last_save_point.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121896",
+    "text_pt": "Onde posso ver minha pontuação total?",
+    "text_en": "Where can I see my total score?",
+    "audio_en_storage_path": "1896_where_can_i_see_my_total_score.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121897",
+    "text_pt": "Onde minha pontuação completa é exibida — no menu principal?",
+    "text_en": "Where’s my full score shown — on the main menu?",
+    "audio_en_storage_path": "1897_wheres_my_full_score_shown_on_the_main_menu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121898",
+    "text_pt": "Quando o próximo desafio será desbloqueado?",
+    "text_en": "When will the next challenge unlock?",
+    "audio_en_storage_path": "1898_when_will_the_next_challenge_unlock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121899",
+    "text_pt": "Quando a próxima missão estará disponível?",
+    "text_en": "When the next mission becomes available?",
+    "audio_en_storage_path": "1899_when_the_next_mission_becomes_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121900",
+    "text_pt": "Por que você perdeu tão rápido da última vez?",
+    "text_en": "Why did you lose so fast last time?",
+    "audio_en_storage_path": "1900_why_did_you_lose_so_fast_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121901",
+    "text_pt": "O que aconteceu — por que você caiu tão rápido na última rodada?",
+    "text_en": "What happened — why’d ya fall so quick last round?",
+    "audio_en_storage_path": "1901_what_happened_whyd_ya_fall_so_quick_last_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121902",
+    "text_pt": "Ele continua tentando até vencer",
+    "text_en": "He keeps trying until he wins",
+    "audio_en_storage_path": "1902_he_keeps_trying_until_he_wins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121903",
+    "text_pt": "Ele não para até terminar tudo",
+    "text_en": "He doesn’t stop until he beats it clean",
+    "audio_en_storage_path": "1903_he_doesnt_stop_until_he_beats_it_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121904",
+    "text_pt": "Eu não vou desistir mesmo que fique difícil",
+    "text_en": "I won’t give up even if it gets hard",
+    "audio_en_storage_path": "1904_i_wont_give_up_even_if_it_gets_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121905",
+    "text_pt": "Vou continuar mesmo que seja difícil",
+    "text_en": "Gonna stick with it even if it’s tough",
+    "audio_en_storage_path": "1905_gonna_stick_with_it_even_if_its_tough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121906",
+    "text_pt": "Continue — você está melhorando",
+    "text_en": "Keep going — you’re getting better",
+    "audio_en_storage_path": "1906_keep_going_youre_getting_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121907",
+    "text_pt": "Continue assim — subindo de nível rapidamente",
+    "text_en": "Keep at it — leveling up fast",
+    "audio_en_storage_path": "1907_keep_at_it_leveling_up_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121908",
+    "text_pt": "Faça pausas e não fique frustrado",
+    "text_en": "Take breaks and don’t get frustrated",
+    "audio_en_storage_path": "1908_take_breaks_and_dont_get_frustrated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121909",
+    "text_pt": "Descanse um pouco e não fique bravo",
+    "text_en": "Rest a bit and don’t get mad",
+    "audio_en_storage_path": "1909_rest_a_bit_and_dont_get_mad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121910",
+    "text_pt": "Vejo vocês na próxima partida — boa sorte",
+    "text_en": "See you in the next match — good luck",
+    "audio_en_storage_path": "1910_see_you_in_the_next_match_good_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121911",
+    "text_pt": "Vejo vocês na próxima rodada — tragam seu melhor jogo",
+    "text_en": "Catch ya in the next round — bring your A-game",
+    "audio_en_storage_path": "1911_catch_ya_in_the_next_round_bring_your_agame.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121912",
+    "text_pt": "Regras e dicas do jogo",
+    "text_en": "Game Rules and Tips",
+    "audio_en_storage_path": "1912_game_rules_and_tips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121913",
+    "text_pt": "Todo jogo tem regras que você precisa seguir",
+    "text_en": "Every game has rules you need to follow",
+    "audio_en_storage_path": "1913_every_game_has_rules_you_need_to_follow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121914",
+    "text_pt": "Cada um tem regras que você precisa saber de cor",
+    "text_en": "Each one’s got rules you gotta know by heart",
+    "audio_en_storage_path": "1914_each_ones_got_rules_you_gotta_know_by_heart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121915",
+    "text_pt": "Alguns jogos permitem dois jogadores. Outros suportam quatro",
+    "text_en": "Some games allow two players. others support four",
+    "audio_en_storage_path": "1915_some_games_allow_two_players_others_support_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121916",
+    "text_pt": "Alguns deixam dois jogarem. Outros abrem para um time completo",
+    "text_en": "Some let two play. others open for a full squad",
+    "audio_en_storage_path": "1916_some_let_two_play_others_open_for_a_full_squad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121917",
+    "text_pt": "Você pode pausar o jogo quando quiser",
+    "text_en": "You can pause the game anytime you want",
+    "audio_en_storage_path": "1917_you_can_pause_the_game_anytime_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121918",
+    "text_pt": "Basta apertar pausa se precisar de um segundo para respirar",
+    "text_en": "Just hit pause if ya need a sec to breathe",
+    "audio_en_storage_path": "1918_just_hit_pause_if_ya_need_a_sec_to_breathe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121919",
+    "text_pt": "Economizar ajuda você a retornar ao mesmo lugar mais tarde",
+    "text_en": "Saving helps you return to the same place later",
+    "audio_en_storage_path": "1919_saving_helps_you_return_to_the_same_place_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121920",
+    "text_pt": "Guarde seu lugar para que você possa voltar",
+    "text_en": "Save your spot so you can jump back in",
+    "audio_en_storage_path": "1920_save_your_spot_so_you_can_jump_back_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121921",
+    "text_pt": "Você está jogando sozinho ou com amigos?",
+    "text_en": "Are you playing solo or with friends?",
+    "audio_en_storage_path": "1921_are_you_playing_solo_or_with_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121922",
+    "text_pt": "Você está voando sozinho ou recebeu ajuda hoje?",
+    "text_en": "You flyin’ solo or got help today?",
+    "audio_en_storage_path": "1922_you_flyin_solo_or_got_help_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121923",
+    "text_pt": "Solo por enquanto — talvez adicione alguém mais tarde",
+    "text_en": "Solo for now — maybe add someone later",
+    "audio_en_storage_path": "1923_solo_for_now_maybe_add_someone_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121924",
+    "text_pt": "Voando sozinho por enquanto — pode trazer reforços em breve",
+    "text_en": "Flyin’ alone for now — might bring backup soon",
+    "audio_en_storage_path": "1924_flyin_alone_for_now_might_bring_backup_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121925",
+    "text_pt": "Ou junte-se online e jogue com pessoas de todo o mundo",
+    "text_en": "Or join online and play with people around the world",
+    "audio_en_storage_path": "1925_or_join_online_and_play_with_people_around_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121926",
+    "text_pt": "Ou entre online e lute com pessoas de todos os lugares",
+    "text_en": "Or hop online and fight with folks from everywhere",
+    "audio_en_storage_path": "1926_or_hop_online_and_fight_with_folks_from_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121927",
+    "text_pt": "Onde posso encontrar o menu de configurações?",
+    "text_en": "Where can I find the settings menu?",
+    "audio_en_storage_path": "1927_where_can_i_find_the_settings_menu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121928",
+    "text_pt": "Onde a tela de opções está escondida?",
+    "text_en": "Where’s the options screen hiding?",
+    "audio_en_storage_path": "1928_wheres_the_options_screen_hiding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121929",
+    "text_pt": "Quando a nova atualização estará disponível?",
+    "text_en": "When will the new update be available?",
+    "audio_en_storage_path": "1929_when_will_the_new_update_be_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121930",
+    "text_pt": "Quando o novo patch vai cair?",
+    "text_en": "When’s the fresh patch droppin’?",
+    "audio_en_storage_path": "1930_whens_the_fresh_patch_droppin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121931",
+    "text_pt": "Por que o jogo travou antes?",
+    "text_en": "Why did the game freeze earlier?",
+    "audio_en_storage_path": "1931_why_did_the_game_freeze_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121932",
+    "text_pt": "O que causou a falha — problemas de internet ou outra coisa?",
+    "text_en": "What made it crash — internet issues or somethin’ else?",
+    "audio_en_storage_path": "1932_what_made_it_crash_internet_issues_or_somethin_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121933",
+    "text_pt": "Ele verifica atualizações toda semana",
+    "text_en": "He checks for updates every week",
+    "audio_en_storage_path": "1933_he_checks_for_updates_every_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121934",
+    "text_pt": "O cara sempre procura os últimos patches",
+    "text_en": "Dude always lookin’ for the latest patches",
+    "audio_en_storage_path": "1934_dude_always_lookin_for_the_latest_patches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121935",
+    "text_pt": "Não vou jogar sem salvar primeiro",
+    "text_en": "I won’t play without saving first",
+    "audio_en_storage_path": "1935_i_wont_play_without_saving_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121936",
+    "text_pt": "Não corra riscos — sempre economize antes de pular",
+    "text_en": "Ain’t takin’ risks — always save before jumpin’ in",
+    "audio_en_storage_path": "1936_aint_takin_risks_always_save_before_jumpin_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121937",
+    "text_pt": "Ótimo trabalho terminando esse nível",
+    "text_en": "Great work finishing that level",
+    "audio_en_storage_path": "1937_great_work_finishing_that_level.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121938",
+    "text_pt": "Ótimo trabalho limpando esse palco",
+    "text_en": "Solid job clearing that stage",
+    "audio_en_storage_path": "1938_solid_job_clearing_that_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121939",
+    "text_pt": "Não tenha pressa — vá com calma",
+    "text_en": "Don’t rush — take your time",
+    "audio_en_storage_path": "1939_dont_rush_take_your_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121940",
+    "text_pt": "Vá com calma — não precisa entrar em pânico",
+    "text_en": "Take it slow — no need to panic",
+    "audio_en_storage_path": "1940_take_it_slow_no_need_to_panic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121941",
+    "text_pt": "Aproveite o jogo e jogue com inteligência",
+    "text_en": "Enjoy the game and play smart",
+    "audio_en_storage_path": "1941_enjoy_the_game_and_play_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121942",
+    "text_pt": "Divirta-se e pense no futuro",
+    "text_en": "Have fun and think ahead",
+    "audio_en_storage_path": "1942_have_fun_and_think_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

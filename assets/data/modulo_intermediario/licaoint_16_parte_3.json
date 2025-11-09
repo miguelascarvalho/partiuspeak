@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112510",
+    "text_pt": "Pai – Fogão",
+    "text_en": "Dad – Stove",
+    "audio_en_storage_path": "2510_dad_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112511",
+    "text_pt": "Ele está na cozinha preparando o jantar.",
+    "text_en": "He is in the kitchen cooking dinner.",
+    "audio_en_storage_path": "2511_he_is_in_the_kitchen_cooking_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112512",
+    "text_pt": "O fogão cheira a carne grelhada e temperos.",
+    "text_en": "The stove smells like grilled meat and spices.",
+    "audio_en_storage_path": "2512_the_stove_smells_like_grilled_meat_and_spices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112513",
+    "text_pt": "Ele usa o fogão para fritar, ferver ou refogar alimentos.",
+    "text_en": "He uses the stove to fry. boil. or sautéed food.",
+    "audio_en_storage_path": "2513_he_uses_the_stove_to_fry_boil_or_sauteed_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112514",
+    "text_pt": "Às vezes ele faz panquecas no café da manhã.",
+    "text_en": "Sometimes he makes pancakes for breakfast.",
+    "audio_en_storage_path": "2514_sometimes_he_makes_pancakes_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112515",
+    "text_pt": "Sua camisa tem manchas de óleo e suas mãos estão ocupadas.",
+    "text_en": "His shirt has oil spots and his hands are busy.",
+    "audio_en_storage_path": "2515_his_shirt_has_oil_spots_and_his_hands_are_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112516",
+    "text_pt": "Há música tocando ao fundo.",
+    "text_en": "There’s music playing in the background.",
+    "audio_en_storage_path": "2516_theres_music_playing_in_the_background.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112517",
+    "text_pt": "Há panelas, frigideiras e uma espátula no fogão.",
+    "text_en": "There are pots. pans. and a spatula on the stove.",
+    "audio_en_storage_path": "2517_there_are_pots_pans_and_a_spatula_on_the_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112518",
+    "text_pt": "E alho, cebola e azeite no balcão.",
+    "text_en": "And garlic. onions. and olive oil on the counter.",
+    "audio_en_storage_path": "2518_and_garlic_onions_and_olive_oil_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112519",
+    "text_pt": "O que seu pai cozinha melhor?",
+    "text_en": "What does your dad cook best?",
+    "audio_en_storage_path": "2519_what_does_your_dad_cook_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112520",
+    "text_pt": "Espaguete — com molho caseiro.",
+    "text_en": "Spaghetti — with homemade sauce.",
+    "audio_en_storage_path": "2520_spaghetti_with_homemade_sauce.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112521",
+    "text_pt": "Onde ele guarda suas panelas?",
+    "text_en": "Where does he keep his pans?",
+    "audio_en_storage_path": "2521_where_does_he_keep_his_pans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112522",
+    "text_pt": "Debaixo do fogão — no armário.",
+    "text_en": "Under the stove — in the cabinet.",
+    "audio_en_storage_path": "2522_under_the_stove_in_the_cabinet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112523",
+    "text_pt": "Às vezes ele cozinha rápido. às vezes devagar.",
+    "text_en": "Sometimes he cooks fast. sometimes slow.",
+    "audio_en_storage_path": "2523_sometimes_he_cooks_fast_sometimes_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112524",
+    "text_pt": "Depende de quanta fome estamos.",
+    "text_en": "It depends on how hungry we are.",
+    "audio_en_storage_path": "2524_it_depends_on_how_hungry_we_are.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112525",
+    "text_pt": "Onde ele está agora?",
+    "text_en": "Where is he now?",
+    "audio_en_storage_path": "2525_where_is_he_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112526",
+    "text_pt": "Na cozinha — preparando o jantar.",
+    "text_en": "In the kitchen — making dinner.",
+    "audio_en_storage_path": "2526_in_the_kitchen_making_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112527",
+    "text_pt": "Quando ele vai terminar de cozinhar?",
+    "text_en": "When will he finish cooking?",
+    "audio_en_storage_path": "2527_when_will_he_finish_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112528",
+    "text_pt": "Em cerca de 20 minutos — talvez antes.",
+    "text_en": "In about 20 minutes — maybe sooner.",
+    "audio_en_storage_path": "2528_in_about_20_minutes_maybe_sooner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112529",
+    "text_pt": "Por que ele desligou o fogão mais cedo?",
+    "text_en": "Why did he turn off the stove early?",
+    "audio_en_storage_path": "2529_why_did_he_turn_off_the_stove_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112530",
+    "text_pt": "Porque a comida já estava pronta.",
+    "text_en": "Because the food was already done.",
+    "audio_en_storage_path": "2530_because_the_food_was_already_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112531",
+    "text_pt": "Ele cozinha algo novo todos os dias.",
+    "text_en": "He cooks something new every day.",
+    "audio_en_storage_path": "2531_he_cooks_something_new_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112532",
+    "text_pt": "Adoro experimentar o que ele faz.",
+    "text_en": "I love trying what he makes.",
+    "audio_en_storage_path": "2532_i_love_trying_what_he_makes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112533",
+    "text_pt": "Amanhã ele não vai esquecer de desligar o fogão novamente.",
+    "text_en": "Tomorrow. he will not forget to turn off the stove again.",
+    "audio_en_storage_path": "2533_tomorrow_he_will_not_forget_to_turn_off_the_stove_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112534",
+    "text_pt": "Ele vai conferir duas vezes antes de sair da cozinha.",
+    "text_en": "He’ll double-check before leaving the kitchen.",
+    "audio_en_storage_path": "2534_hell_doublecheck_before_leaving_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112535",
+    "text_pt": "Tenha cuidado, pai!",
+    "text_en": "Be careful. Dad!",
+    "audio_en_storage_path": "2535_be_careful_dad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112536",
+    "text_pt": "A panela está quente — use luvas.",
+    "text_en": "The pot is hot — use gloves.",
+    "audio_en_storage_path": "2536_the_pot_is_hot_use_gloves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

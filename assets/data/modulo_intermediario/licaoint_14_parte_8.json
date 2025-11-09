@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112375",
+    "text_pt": "Irmãs – Pia",
+    "text_en": "Sisters – Pia",
+    "audio_en_storage_path": "2375_sisters_pia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112376",
+    "text_pt": "Eles estão na cozinha lavando pratos juntos.",
+    "text_en": "They are in the kitchen washing dishes together.",
+    "audio_en_storage_path": "2376_they_are_in_the_kitchen_washing_dishes_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112377",
+    "text_pt": "Um lava. O outro seca.",
+    "text_en": "One washes. the other dries.",
+    "audio_en_storage_path": "2377_one_washes_the_other_dries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112378",
+    "text_pt": "Eles enxáguam vegetais e descascam batatas.",
+    "text_en": "They rinse vegetables and peel potatoes.",
+    "audio_en_storage_path": "2378_they_rinse_vegetables_and_peel_potatoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112379",
+    "text_pt": "Às vezes eles cantam enquanto trabalham.",
+    "text_en": "Sometimes they sing while working.",
+    "audio_en_storage_path": "2379_sometimes_they_sing_while_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112380",
+    "text_pt": "Suas mãos estão molhadas e a pia está cheia de bolhas.",
+    "text_en": "Their hands are wet and the sink is full of bubbles.",
+    "audio_en_storage_path": "2380_their_hands_are_wet_and_the_sink_is_full_of_bubbles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112381",
+    "text_pt": "Há sabão, esponja e uma toalha por perto.",
+    "text_en": "There's soap. the sponge. and a towel nearby.",
+    "audio_en_storage_path": "2381_theres_soap_the_sponge_and_a_towel_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112382",
+    "text_pt": "Há pratos, copos e garfos sujos na pia.",
+    "text_en": "There are dirty plates. glasses. and forks in the sink.",
+    "audio_en_storage_path": "2382_there_are_dirty_plates_glasses_and_forks_in_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112383",
+    "text_pt": "E uma tábua de corte com pedaços de cebola.",
+    "text_en": "And a cutting board with onion pieces.",
+    "audio_en_storage_path": "2383_and_a_cutting_board_with_onion_pieces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112384",
+    "text_pt": "Quem limpa a pia primeiro?",
+    "text_en": "Who cleans the sink first?",
+    "audio_en_storage_path": "2384_who_cleans_the_sink_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112385",
+    "text_pt": "O mais velho — mas ambos ajudam.",
+    "text_en": "The older one — but both help.",
+    "audio_en_storage_path": "2385_the_older_one_but_both_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112386",
+    "text_pt": "Onde eles guardam os panos de prato?",
+    "text_en": "Where do they keep their dish towels?",
+    "audio_en_storage_path": "2386_where_do_they_keep_their_dish_towels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112387",
+    "text_pt": "Na alça — pendurado para secar.",
+    "text_en": "On the handle — hanging to dry.",
+    "audio_en_storage_path": "2387_on_the_handle_hanging_to_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112388",
+    "text_pt": "Às vezes eles lavam tudo imediatamente.",
+    "text_en": "Sometimes they wash everything right away.",
+    "audio_en_storage_path": "2388_sometimes_they_wash_everything_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112389",
+    "text_pt": "Outras vezes eles esperam até mais tarde.",
+    "text_en": "Other times they wait until later.",
+    "audio_en_storage_path": "2389_other_times_they_wait_until_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112390",
+    "text_pt": "Onde eles deixaram a esponja?",
+    "text_en": "Where did they leave the sponge?",
+    "audio_en_storage_path": "2390_where_did_they_leave_the_sponge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112391",
+    "text_pt": "Perto do sabonete — perto da borda da pia.",
+    "text_en": "By the soap — near the edge of the sink.",
+    "audio_en_storage_path": "2391_by_the_soap_near_the_edge_of_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112392",
+    "text_pt": "Quando eles vão limpar a pia novamente?",
+    "text_en": "When will they clean the sink again?",
+    "audio_en_storage_path": "2392_when_will_they_clean_the_sink_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112393",
+    "text_pt": "Depois do jantar — quando todos os pratos estiverem lavados.",
+    "text_en": "After dinner — when all dishes are done.",
+    "audio_en_storage_path": "2393_after_dinner_when_all_dishes_are_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112394",
+    "text_pt": "Por que eles deixaram a louça na pia?",
+    "text_en": "Why did they leave dishes in the sink?",
+    "audio_en_storage_path": "2394_why_did_they_leave_dishes_in_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112395",
+    "text_pt": "Porque estavam cansados ​​e esqueceram.",
+    "text_en": "Because they were tired and forgot.",
+    "audio_en_storage_path": "2395_because_they_were_tired_and_forgot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112396",
+    "text_pt": "Eles usam a pia muitas vezes ao dia.",
+    "text_en": "They use the sink many times a day.",
+    "audio_en_storage_path": "2396_they_use_the_sink_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112397",
+    "text_pt": "É um dos lugares mais utilizados na cozinha.",
+    "text_en": "It’s one of the most used places in the kitchen.",
+    "audio_en_storage_path": "2397_its_one_of_the_most_used_places_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112398",
+    "text_pt": "Amanhã eles não vão esquecer de limpar a pia novamente.",
+    "text_en": "Tomorrow. they will not forget to clean the sink again.",
+    "audio_en_storage_path": "2398_tomorrow_they_will_not_forget_to_clean_the_sink_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112399",
+    "text_pt": "Eles vão secá-lo depois de terminar.",
+    "text_en": "They’ll wipe it dry after finishing.",
+    "audio_en_storage_path": "2399_theyll_wipe_it_dry_after_finishing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112400",
+    "text_pt": "O trabalho em equipe faz o sonho funcionar!",
+    "text_en": "Teamwork makes the dream work!",
+    "audio_en_storage_path": "2400_teamwork_makes_the_dream_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112401",
+    "text_pt": "Ótimo trabalho limpando tudo juntos.",
+    "text_en": "Great job cleaning up together.",
+    "audio_en_storage_path": "2401_great_job_cleaning_up_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

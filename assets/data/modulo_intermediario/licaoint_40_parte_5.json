@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121509",
+    "text_pt": "Escola e rotina diária",
+    "text_en": "School and Daily Routine",
+    "audio_en_storage_path": "1509_school_and_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121510",
+    "text_pt": "Os alunos vão à escola para aprender coisas novas todos os dias",
+    "text_en": "Students go to school to learn new things every day",
+    "audio_en_storage_path": "1510_students_go_to_school_to_learn_new_things_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121511",
+    "text_pt": "As crianças pegam os livros para aprender coisas novas diariamente",
+    "text_en": "Kids hit the books to pick up new stuff daily",
+    "audio_en_storage_path": "1511_kids_hit_the_books_to_pick_up_new_stuff_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121512",
+    "text_pt": "Os professores ajudam os alunos a entender as lições e os trabalhos de casa",
+    "text_en": "Teachers help students understand lessons and homework",
+    "audio_en_storage_path": "1512_teachers_help_students_understand_lessons_and_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121513",
+    "text_pt": "Os professores explicam tudo para que todos entendam o que está acontecendo",
+    "text_en": "Teachers break it down so everyone gets what’s going on",
+    "audio_en_storage_path": "1513_teachers_break_it_down_so_everyone_gets_whats_going_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121514",
+    "text_pt": "A sala de aula tem carteiras, cadeiras, quadro branco e pôsteres nas paredes.",
+    "text_en": "The classroom has desks. chairs. a whiteboard. and posters on the walls",
+    "audio_en_storage_path": "1514_the_classroom_has_desks_chairs_a_whiteboard_and_posters_on_the_walls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121515",
+    "text_pt": "Tem mesas, assentos, o quadro e alguns pôsteres legais por todo lugar",
+    "text_en": "Got tables. seats. a board. and some cool posters all around",
+    "audio_en_storage_path": "1515_got_tables_seats_a_board_and_some_cool_posters_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121516",
+    "text_pt": "Algumas crianças estudam em grupos. Outras trabalham sozinhas.",
+    "text_en": "Some kids study in groups. others work alone",
+    "audio_en_storage_path": "1516_some_kids_study_in_groups_others_work_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121517",
+    "text_pt": "Alguns se unem em equipe, outros vão sozinhos quando estão estudando.",
+    "text_en": "Some team up. others go solo when they’re studyin’",
+    "audio_en_storage_path": "1517_some_team_up_others_go_solo_when_theyre_studyin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121518",
+    "text_pt": "Você gosta de ir à escola ou acha ela chata?",
+    "text_en": "Do you enjoy going to school or do you find it boring?",
+    "audio_en_storage_path": "1518_do_you_enjoy_going_to_school_or_do_you_find_it_boring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121519",
+    "text_pt": "Você gosta da escola ou ela é meio sem graça para você?",
+    "text_en": "You like school or is it kinda meh for you?",
+    "audio_en_storage_path": "1519_you_like_school_or_is_it_kinda_meh_for_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121520",
+    "text_pt": "Eu costumo acordar cedo e me arrumar antes do café da manhã",
+    "text_en": "I usually wake up early and get ready before breakfast",
+    "audio_en_storage_path": "1520_i_usually_wake_up_early_and_get_ready_before_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121521",
+    "text_pt": "Eu acordo cedo e me visto antes mesmo de comer",
+    "text_en": "I’m up early and dressed before I even eat",
+    "audio_en_storage_path": "1521_im_up_early_and_dressed_before_i_even_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121522",
+    "text_pt": "Deixe-me ler esta parte novamente para ter certeza de que entendi",
+    "text_en": "Let me read this part again to make sure I understand",
+    "audio_en_storage_path": "1522_let_me_read_this_part_again_to_make_sure_i_understand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121523",
+    "text_pt": "Deixe-me reler isso para não perder nada",
+    "text_en": "Lemme re-read this so I don’t miss anything",
+    "audio_en_storage_path": "1523_lemme_reread_this_so_i_dont_miss_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121524",
+    "text_pt": "Onde fica sua escola?",
+    "text_en": "Where is your school located?",
+    "audio_en_storage_path": "1524_where_is_your_school_located.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121525",
+    "text_pt": "O que você disse — onde fica sua escola?",
+    "text_en": "Whaddya say — where’s your school at?",
+    "audio_en_storage_path": "1525_whaddya_say_wheres_your_school_at.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121526",
+    "text_pt": "Quando você vai terminar sua tarefa?",
+    "text_en": "When will you finish your assignment?",
+    "audio_en_storage_path": "1526_when_will_you_finish_your_assignment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121527",
+    "text_pt": "Quando você acha que isso vai ficar pronto?",
+    "text_en": "When ya think that thing’ll be done?",
+    "audio_en_storage_path": "1527_when_ya_think_that_thingll_be_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121528",
+    "text_pt": "Por que você chegou atrasado hoje?",
+    "text_en": "Why did you arrive late today?",
+    "audio_en_storage_path": "1528_why_did_you_arrive_late_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121529",
+    "text_pt": "O que fez você chegar atrasado hoje — trânsito ou algo assim?",
+    "text_en": "What made you show up late today — traffic or somethin’?",
+    "audio_en_storage_path": "1529_what_made_you_show_up_late_today_traffic_or_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121530",
+    "text_pt": "Ele sempre escuta atentamente durante a aula",
+    "text_en": "He always listens carefully during class",
+    "audio_en_storage_path": "1530_he_always_listens_carefully_during_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121531",
+    "text_pt": "Ele presta muita atenção quando o professor fala",
+    "text_en": "He pays attention real close when the teacher talks",
+    "audio_en_storage_path": "1531_he_pays_attention_real_close_when_the_teacher_talks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121532",
+    "text_pt": "Não vou faltar à aula amanhã, mesmo que esteja cansado",
+    "text_en": "I won’t skip class tomorrow even if I feel tired",
+    "audio_en_storage_path": "1532_i_wont_skip_class_tomorrow_even_if_i_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121533",
+    "text_pt": "Não vou faltar às aulas amanhã, mesmo que eu esteja me arrastando",
+    "text_en": "Ain’t missin’ class tomorrow even if I’m draggin’",
+    "audio_en_storage_path": "1533_aint_missin_class_tomorrow_even_if_im_draggin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121534",
+    "text_pt": "Bom trabalho mantendo o foco hoje",
+    "text_en": "Good job staying focused today",
+    "audio_en_storage_path": "1534_good_job_staying_focused_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121535",
+    "text_pt": "Bom trabalho, mantendo-se preso hoje",
+    "text_en": "Nice work stayin’ locked in today",
+    "audio_en_storage_path": "1535_nice_work_stayin_locked_in_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121536",
+    "text_pt": "Tome cuidado e tenha um ótimo dia na escola",
+    "text_en": "Take care and have a great day at school",
+    "audio_en_storage_path": "1536_take_care_and_have_a_great_day_at_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121537",
+    "text_pt": "Espero que seu dia corra bem na escola",
+    "text_en": "Hope your day goes smooth at school",
+    "audio_en_storage_path": "1537_hope_your_day_goes_smooth_at_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121538",
+    "text_pt": "Vejo vocês depois da aula — tenham uma boa aula",
+    "text_en": "See you after class — have a good one",
+    "audio_en_storage_path": "1538_see_you_after_class_have_a_good_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121539",
+    "text_pt": "Vejo vocês depois da aula — agite seu dia",
+    "text_en": "Catch ya after class — rock your day",
+    "audio_en_storage_path": "1539_catch_ya_after_class_rock_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

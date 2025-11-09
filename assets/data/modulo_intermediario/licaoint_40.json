@@ -1,0 +1,1397 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121385",
+    "text_pt": "Título do Grupo – Trabalho e Rotina Diária",
+    "text_en": "Group Title – Work and Daily Routine",
+    "audio_en_storage_path": "1385_group_title_work_and_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121386",
+    "text_pt": "As pessoas trabalham para ganhar dinheiro e sustentar suas famílias",
+    "text_en": "People work to earn money and support their families",
+    "audio_en_storage_path": "1386_people_work_to_earn_money_and_support_their_families.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121387",
+    "text_pt": "As pessoas vão trabalhar para ganhar dinheiro e ajudar sua equipe",
+    "text_en": "Folks go to work to make cash and help their crew",
+    "audio_en_storage_path": "1387_folks_go_to_work_to_make_cash_and_help_their_crew.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121388",
+    "text_pt": "Eu começo meu trabalho às nove todas as manhãs",
+    "text_en": "I start my job at nine every morning",
+    "audio_en_storage_path": "1388_i_start_my_job_at_nine_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121389",
+    "text_pt": "Eu chego pontualmente às nove todas as manhãs",
+    "text_en": "I clock in at nine sharp every mornin’",
+    "audio_en_storage_path": "1389_i_clock_in_at_nine_sharp_every_mornin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121390",
+    "text_pt": "Há mesas, cadeiras, computadores e telefones ao redor",
+    "text_en": "There are desks. chairs. computers. and phones around",
+    "audio_en_storage_path": "1390_there_are_desks_chairs_computers_and_phones_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121391",
+    "text_pt": "Tem mesas, assentos, telas e telefones por todo lugar",
+    "text_en": "Got tables. seats. screens. and phones all over the place",
+    "audio_en_storage_path": "1391_got_tables_seats_screens_and_phones_all_over_the_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121392",
+    "text_pt": "Alguns trabalhadores usam laptops enquanto outros usam monitores grandes",
+    "text_en": "Some workers use laptops while others use big monitors",
+    "audio_en_storage_path": "1392_some_workers_use_laptops_while_others_use_big_monitors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121393",
+    "text_pt": "Algumas pessoas em laptops, outras em telas enormes",
+    "text_en": "Some folks on laptops. others on those huge screens",
+    "audio_en_storage_path": "1393_some_folks_on_laptops_others_on_those_huge_screens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121394",
+    "text_pt": "Você gosta do seu trabalho ou está procurando algo novo?",
+    "text_en": "Do you enjoy your job or are you looking for something new?",
+    "audio_en_storage_path": "1394_do_you_enjoy_your_job_or_are_you_looking_for_something_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121395",
+    "text_pt": "Você gosta do que faz ou está procurando outra coisa?",
+    "text_en": "You like what you do or lookin’ for somethin’ else?",
+    "audio_en_storage_path": "1395_you_like_what_you_do_or_lookin_for_somethin_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121396",
+    "text_pt": "Estou aprendendo coisas novas e melhorando a cada dia",
+    "text_en": "I’m learning new things and getting better every day",
+    "audio_en_storage_path": "1396_im_learning_new_things_and_getting_better_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121397",
+    "text_pt": "Aprendendo coisas novas e melhorando durante o dia",
+    "text_en": "Pickin’ up new stuff and gettin’ better by the day",
+    "audio_en_storage_path": "1397_pickin_up_new_stuff_and_gettin_better_by_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121398",
+    "text_pt": "Algumas pessoas trabalham em casa. Outras vão para um escritório.",
+    "text_en": "Some people work from home. others go to an office",
+    "audio_en_storage_path": "1398_some_people_work_from_home_others_go_to_an_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121399",
+    "text_pt": "Alguns trabalham na cama. Outros precisam ir até uma mesa.",
+    "text_en": "Some work from bed. others gotta commute to a desk",
+    "audio_en_storage_path": "1399_some_work_from_bed_others_gotta_commute_to_a_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121400",
+    "text_pt": "Onde fica seu local de trabalho?",
+    "text_en": "Where is your workplace located?",
+    "audio_en_storage_path": "1400_where_is_your_workplace_located.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121401",
+    "text_pt": "Onde fica seu trabalho — no centro da cidade ou em outro lugar?",
+    "text_en": "Where’s your job based — downtown or somewhere else?",
+    "audio_en_storage_path": "1401_wheres_your_job_based_downtown_or_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121402",
+    "text_pt": "Quando você terminará seu projeto?",
+    "text_en": "When will you finish your project?",
+    "audio_en_storage_path": "1402_when_will_you_finish_your_project.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121403",
+    "text_pt": "Quando você acha que isso vai ficar pronto?",
+    "text_en": "When ya think that thing’ll be done?",
+    "audio_en_storage_path": "1403_when_ya_think_that_thingll_be_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121404",
+    "text_pt": "Por que você escolheu essa carreira?",
+    "text_en": "Why did you choose this career path?",
+    "audio_en_storage_path": "1404_why_did_you_choose_this_career_path.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121405",
+    "text_pt": "O que fez você escolher essa linha de trabalho?",
+    "text_en": "What made you pick this line of work?",
+    "audio_en_storage_path": "1405_what_made_you_pick_this_line_of_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121406",
+    "text_pt": "Sinto-me cansado depois de um longo dia de trabalho",
+    "text_en": "I feel tired after a long day at work",
+    "audio_en_storage_path": "1406_i_feel_tired_after_a_long_day_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121407",
+    "text_pt": "Dia longo de trabalho e já estou exausto",
+    "text_en": "Long day at work and I’m beat already",
+    "audio_en_storage_path": "1407_long_day_at_work_and_im_beat_already.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121408",
+    "text_pt": "Não vou tirar folga na semana que vem",
+    "text_en": "I won’t take any days off next week",
+    "audio_en_storage_path": "1408_i_wont_take_any_days_off_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121409",
+    "text_pt": "Não vou tirar folga na semana que vem — vou ficar ocupado",
+    "text_en": "Not takin’ time off next week — gonna stay busy",
+    "audio_en_storage_path": "1409_not_takin_time_off_next_week_gonna_stay_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121410",
+    "text_pt": "Obrigado por fazer o seu melhor todos os dias",
+    "text_en": "Thanks for doing your best every day",
+    "audio_en_storage_path": "1410_thanks_for_doing_your_best_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121411",
+    "text_pt": "Agradeço por você ter aparecido e dado tudo de si",
+    "text_en": "Appreciate you showin’ up and giving it your all",
+    "audio_en_storage_path": "1411_appreciate_you_showin_up_and_giving_it_your_all.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121412",
+    "text_pt": "Tenha um ótimo dia de trabalho",
+    "text_en": "Have a great day at work",
+    "audio_en_storage_path": "1412_have_a_great_day_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121413",
+    "text_pt": "Espero que seu dia corra bem no trabalho",
+    "text_en": "Hope your day goes smooth at work",
+    "audio_en_storage_path": "1413_hope_your_day_goes_smooth_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121414",
+    "text_pt": "Boa sorte com suas tarefas hoje",
+    "text_en": "Good luck with your tasks today",
+    "audio_en_storage_path": "1414_good_luck_with_your_tasks_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121415",
+    "text_pt": "Acabe com eles com o que quer que você esteja fazendo",
+    "text_en": "Knock ‘em dead with whatever you’re workin’ on",
+    "audio_en_storage_path": "1415_knock_em_dead_with_whatever_youre_workin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121416",
+    "text_pt": "Título do Grupo – Empregos e Profissões",
+    "text_en": "Group Title – Jobs and Professions",
+    "audio_en_storage_path": "1416_group_title_jobs_and_professions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121417",
+    "text_pt": "Ele trabalha como professor e ajuda os alunos a aprender",
+    "text_en": "He works as a teacher and helps students learn",
+    "audio_en_storage_path": "1417_he_works_as_a_teacher_and_helps_students_learn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121418",
+    "text_pt": "Ele é professor — ajuda as crianças a entender melhor as coisas",
+    "text_en": "He’s a teacher — helps kids understand stuff better",
+    "audio_en_storage_path": "1418_hes_a_teacher_helps_kids_understand_stuff_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121419",
+    "text_pt": "Ela é enfermeira e cuida de pacientes no hospital",
+    "text_en": "She is a nurse and takes care of patients in the hospital",
+    "audio_en_storage_path": "1419_she_is_a_nurse_and_takes_care_of_patients_in_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121420",
+    "text_pt": "Ela é enfermeira — cuida de pessoas no hospital",
+    "text_en": "She’s a nurse — looks after folks in the hospital",
+    "audio_en_storage_path": "1420_shes_a_nurse_looks_after_folks_in_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121421",
+    "text_pt": "Eles têm funções diferentes, mas trabalham bem juntos",
+    "text_en": "They have different roles but work together well",
+    "audio_en_storage_path": "1421_they_have_different_roles_but_work_together_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121422",
+    "text_pt": "Trabalhos diferentes, mas que combinam muito bem",
+    "text_en": "Different jobs but they click real good",
+    "audio_en_storage_path": "1422_different_jobs_but_they_click_real_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121423",
+    "text_pt": "Há médicos, engenheiros, artistas e muitos mais",
+    "text_en": "There are doctors. engineers. artists. and many more",
+    "audio_en_storage_path": "1423_there_are_doctors_engineers_artists_and_many_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121424",
+    "text_pt": "Tenho curandeiros, construtores, criadores — toneladas de empregos diferentes",
+    "text_en": "Got healers. builders. creators — tons of different jobs",
+    "audio_en_storage_path": "1424_got_healers_builders_creators_tons_of_different_jobs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121425",
+    "text_pt": "Você poderia me dizer em que consiste seu trabalho?",
+    "text_en": "Could you tell me what your job involves?",
+    "audio_en_storage_path": "1425_could_you_tell_me_what_your_job_involves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121426",
+    "text_pt": "Você poderia explicar exatamente o que você faz o dia todo?",
+    "text_en": "Couldja explain what exactly you do all day?",
+    "audio_en_storage_path": "1426_couldja_explain_what_exactly_you_do_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121427",
+    "text_pt": "Trabalho com números e ajudo empresas a administrar dinheiro",
+    "text_en": "I work with numbers and help companies manage money",
+    "audio_en_storage_path": "1427_i_work_with_numbers_and_help_companies_manage_money.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121428",
+    "text_pt": "Eu lido com matemática e ajudo os lugares a controlar o dinheiro",
+    "text_en": "I deal with math and help places keep track of cash",
+    "audio_en_storage_path": "1428_i_deal_with_math_and_help_places_keep_track_of_cash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121429",
+    "text_pt": "Meu amigo quer se tornar piloto quando terminar a escola",
+    "text_en": "My friend wants to become a pilot when he finishes school",
+    "audio_en_storage_path": "1429_my_friend_wants_to_become_a_pilot_when_he_finishes_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121430",
+    "text_pt": "Meu amigo sonha em pilotar aviões quando a escola terminar",
+    "text_en": "My buddy’s dreamin’ of flyin’ planes once school’s done",
+    "audio_en_storage_path": "1430_my_buddys_dreamin_of_flyin_planes_once_schools_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121431",
+    "text_pt": "Onde a maioria das pessoas encontra emprego hoje em dia?",
+    "text_en": "Where do most people find jobs these days?",
+    "audio_en_storage_path": "1431_where_do_most_people_find_jobs_these_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121432",
+    "text_pt": "O que você acha — onde as pessoas conseguem empregos hoje em dia?",
+    "text_en": "Whaddya think — where do folks land jobs nowadays?",
+    "audio_en_storage_path": "1432_whaddya_think_where_do_folks_land_jobs_nowadays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121433",
+    "text_pt": "Quando você começará seu novo cargo?",
+    "text_en": "When will you start your new position?",
+    "audio_en_storage_path": "1433_when_will_you_start_your_new_position.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121434",
+    "text_pt": "Quando você começa oficialmente seu novo trabalho?",
+    "text_en": "When ya officially start your new gig?",
+    "audio_en_storage_path": "1434_when_ya_officially_start_your_new_gig.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121435",
+    "text_pt": "Por que você mudou de carreira no ano passado?",
+    "text_en": "Why did you switch careers last year?",
+    "audio_en_storage_path": "1435_why_did_you_switch_careers_last_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121436",
+    "text_pt": "O que fez você mudar de emprego no ano passado — você se sentiu preso?",
+    "text_en": "What made you change jobs last year — just felt stuck?",
+    "audio_en_storage_path": "1436_what_made_you_change_jobs_last_year_just_felt_stuck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121437",
+    "text_pt": "Ele tem experiência trabalhando com máquinas e ferramentas",
+    "text_en": "He has experience working with machines and tools",
+    "audio_en_storage_path": "1437_he_has_experience_working_with_machines_and_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121438",
+    "text_pt": "O cara sabe lidar com ferramentas e equipamentos pesados",
+    "text_en": "Dude knows his way around tools and heavy gear",
+    "audio_en_storage_path": "1438_dude_knows_his_way_around_tools_and_heavy_gear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121439",
+    "text_pt": "Não pretendo desistir tão cedo",
+    "text_en": "I don’t plan to quit anytime soon",
+    "audio_en_storage_path": "1439_i_dont_plan_to_quit_anytime_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121440",
+    "text_pt": "Não me vejo saindo tão cedo — ainda tenho coisas para fazer",
+    "text_en": "Don’t see myself leavin’ anytime soon — still got stuff to do",
+    "audio_en_storage_path": "1440_dont_see_myself_leavin_anytime_soon_still_got_stuff_to_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121441",
+    "text_pt": "Você se saiu muito bem hoje — descanse bem esta noite",
+    "text_en": "You did great today — rest well tonight",
+    "audio_en_storage_path": "1441_you_did_great_today_rest_well_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121442",
+    "text_pt": "Bom trabalho hoje — durma um pouco mais tarde",
+    "text_en": "Nice work today — catch some Zs later",
+    "audio_en_storage_path": "1442_nice_work_today_catch_some_zs_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121443",
+    "text_pt": "Continue e você alcançará seus objetivos",
+    "text_en": "Keep going and you’ll reach your goals",
+    "audio_en_storage_path": "1443_keep_going_and_youll_reach_your_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121444",
+    "text_pt": "Continue insistindo e você chegará onde deseja",
+    "text_en": "Keep pushin’ and you’ll get where you want",
+    "audio_en_storage_path": "1444_keep_pushin_and_youll_get_where_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121445",
+    "text_pt": "Tenha um dia produtivo pela frente",
+    "text_en": "Have a productive day ahead",
+    "audio_en_storage_path": "1445_have_a_productive_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121446",
+    "text_pt": "Espero que seu dia continue focado e cheio de vitórias",
+    "text_en": "Hope your day stays focused and full of wins",
+    "audio_en_storage_path": "1446_hope_your_day_stays_focused_and_full_of_wins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121447",
+    "text_pt": "Título do grupo – Vida e ferramentas de escritório",
+    "text_en": "Group Title – Office Life and Tools",
+    "audio_en_storage_path": "1447_group_title_office_life_and_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121448",
+    "text_pt": "O escritório dispõe de impressora, máquina de café e salas de reunião.",
+    "text_en": "The office has a printer. coffee machine. and meeting rooms",
+    "audio_en_storage_path": "1448_the_office_has_a_printer_coffee_machine_and_meeting_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121449",
+    "text_pt": "O lugar tem impressoras, cerveja e lugares para falar de negócios",
+    "text_en": "Place’s got printers. brew. and spots to talk business",
+    "audio_en_storage_path": "1449_places_got_printers_brew_and_spots_to_talk_business.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121450",
+    "text_pt": "Usamos computadores para enviar e-mails e criar relatórios",
+    "text_en": "We use computers to send emails and create reports",
+    "audio_en_storage_path": "1450_we_use_computers_to_send_emails_and_create_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121451",
+    "text_pt": "Use essas telas para digitar mensagens e criar relatórios",
+    "text_en": "Use those screens to type messages and build reports",
+    "audio_en_storage_path": "1451_use_those_screens_to_type_messages_and_build_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121452",
+    "text_pt": "Pense. Cadernos. e post-its estão sobre a mesa",
+    "text_en": "Pens. notebooks. and sticky notes are on the table",
+    "audio_en_storage_path": "1452_pens_notebooks_and_sticky_notes_are_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121453",
+    "text_pt": "Tenho pensamentos, blocos de notas e pequenos papéis amarelos espalhados por todo lugar",
+    "text_en": "Got pens. pads. and little yellow papers scattered everywhere",
+    "audio_en_storage_path": "1453_got_pens_pads_and_little_yellow_papers_scattered_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121454",
+    "text_pt": "Algumas pessoas trabalham sozinhas. Outras trabalham em equipes.",
+    "text_en": "Some people work alone. others work in teams",
+    "audio_en_storage_path": "1454_some_people_work_alone_others_work_in_teams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121455",
+    "text_pt": "Adicione moagem solo. Outros se unem para grandes projetos",
+    "text_en": "Some solo grind. others team up for big projects",
+    "audio_en_storage_path": "1455_some_solo_grind_others_team_up_for_big_projects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121456",
+    "text_pt": "Você pode me emprestar sua caneta por um segundo?",
+    "text_en": "Can I borrow your pen for a second?",
+    "audio_en_storage_path": "1456_can_i_borrow_your_pen_for_a_second.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121457",
+    "text_pt": "Você poderia me emprestar sua caneta rapidinho?",
+    "text_en": "Couldja lend me your pen real quick?",
+    "audio_en_storage_path": "1457_couldja_lend_me_your_pen_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121458",
+    "text_pt": "Deixe-me verificar meu e-mail antes de começar",
+    "text_en": "Let me check my email before we start",
+    "audio_en_storage_path": "1458_let_me_check_my_email_before_we_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121459",
+    "text_pt": "Deixe-me dar uma olhada rápida na minha caixa de entrada antes de começarmos",
+    "text_en": "Lemme peek at my inbox real fast before we begin",
+    "audio_en_storage_path": "1459_lemme_peek_at_my_inbox_real_fast_before_we_begin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121460",
+    "text_pt": "Se precisar de alguma coisa, é só me perguntar.",
+    "text_en": "If you need anything. just ask me",
+    "audio_en_storage_path": "1460_if_you_need_anything_just_ask_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121461",
+    "text_pt": "Se precisar de alguma coisa, é só me dar um toque no ombro",
+    "text_en": "If ya need somethin’. just tap me on the shoulder",
+    "audio_en_storage_path": "1461_if_ya_need_somethin_just_tap_me_on_the_shoulder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121462",
+    "text_pt": "Onde devo colocar minha bolsa?",
+    "text_en": "Where should I put my bag?",
+    "audio_en_storage_path": "1462_where_should_i_put_my_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121463",
+    "text_pt": "O que você acha — onde eu guardo minha mochila?",
+    "text_en": "Whaddya say — where do I stash my backpack?",
+    "audio_en_storage_path": "1463_whaddya_say_where_do_i_stash_my_backpack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121464",
+    "text_pt": "Quando a reunião terminará?",
+    "text_en": "When will the meeting end?",
+    "audio_en_storage_path": "1464_when_will_the_meeting_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121465",
+    "text_pt": "Quando você acha que o powwow vai acabar?",
+    "text_en": "When ya think that powwow’ll wrap up?",
+    "audio_en_storage_path": "1465_when_ya_think_that_powwowll_wrap_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121466",
+    "text_pt": "Por que você imprimiu tantas páginas?",
+    "text_en": "Why did you print so many pages?",
+    "audio_en_storage_path": "1466_why_did_you_print_so_many_pages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121467",
+    "text_pt": "Por que você clicou em imprimir tantas vezes? Era tudo necessário?",
+    "text_en": "Why’d ya hit print so many times — was it all necessary?",
+    "audio_en_storage_path": "1467_whyd_ya_hit_print_so_many_times_was_it_all_necessary.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121468",
+    "text_pt": "Eu organizo meus arquivos e os mantenho em pastas",
+    "text_en": "I organize my files and keep them in folders",
+    "audio_en_storage_path": "1468_i_organize_my_files_and_keep_them_in_folders.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121469",
+    "text_pt": "Eu organizo meus documentos e os salvo em pastas organizadas",
+    "text_en": "I sort my docs and save ‘em in neat folders",
+    "audio_en_storage_path": "1469_i_sort_my_docs_and_save_em_in_neat_folders.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121470",
+    "text_pt": "Não sairei cedo a menos que haja uma emergência",
+    "text_en": "I won’t leave early unless there’s an emergency",
+    "audio_en_storage_path": "1470_i_wont_leave_early_unless_theres_an_emergency.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121471",
+    "text_pt": "Só vou embora mais cedo se algo sério acontecer",
+    "text_en": "Only bailin’ early if somethin’ serious comes up",
+    "audio_en_storage_path": "1471_only_bailin_early_if_somethin_serious_comes_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121472",
+    "text_pt": "Faça pausas e mantenha-se hidratado",
+    "text_en": "Take breaks and stay hydrated",
+    "audio_en_storage_path": "1472_take_breaks_and_stay_hydrated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121473",
+    "text_pt": "Tire um segundo para respirar e beba água também",
+    "text_en": "Take a sec to breathe and drink water too",
+    "audio_en_storage_path": "1473_take_a_sec_to_breathe_and_drink_water_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121474",
+    "text_pt": "Bom trabalho mantendo o foco hoje",
+    "text_en": "Good job staying focused today",
+    "audio_en_storage_path": "1474_good_job_staying_focused_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121475",
+    "text_pt": "Bom trabalho, mantendo-se preso hoje",
+    "text_en": "Nice work stayin’ locked in today",
+    "audio_en_storage_path": "1475_nice_work_stayin_locked_in_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121476",
+    "text_pt": "Aproveite seu trabalho e divirta-se enquanto o faz",
+    "text_en": "Enjoy your work and have fun while doing it",
+    "audio_en_storage_path": "1476_enjoy_your_work_and_have_fun_while_doing_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121477",
+    "text_pt": "Faça o que você ama e ame o que você faz",
+    "text_en": "Do what you love and love what you do",
+    "audio_en_storage_path": "1477_do_what_you_love_and_love_what_you_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121478",
+    "text_pt": "Título do Grupo – Desafios e Metas de Trabalho",
+    "text_en": "Group Title – Work Challenges and Goals",
+    "audio_en_storage_path": "1478_group_title_work_challenges_and_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121479",
+    "text_pt": "Às vezes o trabalho fica estressante e cansativo",
+    "text_en": "Sometimes work gets stressful and tiring",
+    "audio_en_storage_path": "1479_sometimes_work_gets_stressful_and_tiring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121480",
+    "text_pt": "Às vezes o trabalho parece pesado e drena sua energia",
+    "text_en": "Sometimes work feels heavy and drains your energy",
+    "audio_en_storage_path": "1480_sometimes_work_feels_heavy_and_drains_your_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121481",
+    "text_pt": "Temos prazos e precisamos terminar no prazo",
+    "text_en": "We have deadlines and need to finish on time",
+    "audio_en_storage_path": "1481_we_have_deadlines_and_need_to_finish_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121482",
+    "text_pt": "Tenho datas de entrega — preciso terminar as coisas rápido o suficiente",
+    "text_en": "Got due dates — gotta wrap things up fast enough",
+    "audio_en_storage_path": "1482_got_due_dates_gotta_wrap_things_up_fast_enough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121483",
+    "text_pt": "É importante manter-se organizado e gerir o seu tempo",
+    "text_en": "It’s important to stay organized and manage your time",
+    "audio_en_storage_path": "1483_its_important_to_stay_organized_and_manage_your_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121484",
+    "text_pt": "Mantenha tudo organizado e veja o tempo voar",
+    "text_en": "Keep things tidy and watch how time flies",
+    "audio_en_storage_path": "1484_keep_things_tidy_and_watch_how_time_flies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121485",
+    "text_pt": "Algumas pessoas trabalham melhor sob pressão",
+    "text_en": "Some people work better under pressure",
+    "audio_en_storage_path": "1485_some_people_work_better_under_pressure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121486",
+    "text_pt": "Algumas pessoas brilham quando o calor aperta",
+    "text_en": "Some folks shine when the heat’s on",
+    "audio_en_storage_path": "1486_some_folks_shine_when_the_heats_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121487",
+    "text_pt": "Você poderia me ajudar com essa tarefa?",
+    "text_en": "Could you help me with this task?",
+    "audio_en_storage_path": "1487_could_you_help_me_with_this_task.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121488",
+    "text_pt": "Você poderia me dar uma ajuda com isso?",
+    "text_en": "Couldja give me a hand with this one?",
+    "audio_en_storage_path": "1488_couldja_give_me_a_hand_with_this_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121489",
+    "text_pt": "Preciso melhorar minhas habilidades para ser promovido",
+    "text_en": "I need to improve my skills to get promoted",
+    "audio_en_storage_path": "1489_i_need_to_improve_my_skills_to_get_promoted.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121490",
+    "text_pt": "Precisa subir de nível para subir na hierarquia",
+    "text_en": "Need to level up to move up the ladder",
+    "audio_en_storage_path": "1490_need_to_level_up_to_move_up_the_ladder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121491",
+    "text_pt": "Deixe-me focar e terminar isso antes do almoço",
+    "text_en": "Let me focus and finish this before lunch",
+    "audio_en_storage_path": "1491_let_me_focus_and_finish_this_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121492",
+    "text_pt": "Vou continuar e acabar com isso antes da comida",
+    "text_en": "Gonna power through and knock this out before food",
+    "audio_en_storage_path": "1492_gonna_power_through_and_knock_this_out_before_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121493",
+    "text_pt": "Onde posso encontrar os documentos que preciso?",
+    "text_en": "Where can I find the documents I need?",
+    "audio_en_storage_path": "1493_where_can_i_find_the_documents_i_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121494",
+    "text_pt": "Onde está o arquivo que preciso — acho que está salvo em algum lugar",
+    "text_en": "Where’s that file I need — think it’s saved somewhere",
+    "audio_en_storage_path": "1494_wheres_that_file_i_need_think_its_saved_somewhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121495",
+    "text_pt": "Quando os resultados sairão?",
+    "text_en": "When will the results come in?",
+    "audio_en_storage_path": "1495_when_will_the_results_come_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121496",
+    "text_pt": "Quando esperamos que os resultados finais sejam divulgados?",
+    "text_en": "When we expect the final results to drop?",
+    "audio_en_storage_path": "1496_when_we_expect_the_final_results_to_drop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121497",
+    "text_pt": "Por que você perdeu o prazo ontem?",
+    "text_en": "Why did you miss the deadline yesterday?",
+    "audio_en_storage_path": "1497_why_did_you_miss_the_deadline_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121498",
+    "text_pt": "O que aconteceu — por que você perdeu a data prevista?",
+    "text_en": "What happened — why did ya miss the due date?",
+    "audio_en_storage_path": "1498_what_happened_why_did_ya_miss_the_due_date.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121499",
+    "text_pt": "Eu tento permanecer positivo mesmo quando as coisas ficam difíceis",
+    "text_en": "I try to stay positive even when things get hard",
+    "audio_en_storage_path": "1499_i_try_to_stay_positive_even_when_things_get_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121500",
+    "text_pt": "Tente manter a calma mesmo quando as coisas acontecem",
+    "text_en": "Try to stay cool even when stuff hits the fan",
+    "audio_en_storage_path": "1500_try_to_stay_cool_even_when_stuff_hits_the_fan.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121501",
+    "text_pt": "Não aceitarei mais nenhuma submissão atrasada",
+    "text_en": "I won’t accept any late submissions anymore",
+    "audio_en_storage_path": "1501_i_wont_accept_any_late_submissions_anymore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121502",
+    "text_pt": "Sem mais atrasos — a partir de agora, somente entregas pontuais",
+    "text_en": "No more delays — only on-time stuff from now on",
+    "audio_en_storage_path": "1502_no_more_delays_only_ontime_stuff_from_now_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121503",
+    "text_pt": "Permaneça forte e continue avançando",
+    "text_en": "Stay strong and keep pushing forward",
+    "audio_en_storage_path": "1503_stay_strong_and_keep_pushing_forward.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121504",
+    "text_pt": "Permaneça firme e siga em frente",
+    "text_en": "Stay tough and keep movin’ ahead",
+    "audio_en_storage_path": "1504_stay_tough_and_keep_movin_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121505",
+    "text_pt": "Bom esforço hoje — descanse e recarregue as energias",
+    "text_en": "Good effort today — rest and recharge",
+    "audio_en_storage_path": "1505_good_effort_today_rest_and_recharge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121506",
+    "text_pt": "Trabalho sólido hoje — hora de relaxar e reabastecer",
+    "text_en": "Solid work today — time to relax and refuel",
+    "audio_en_storage_path": "1506_solid_work_today_time_to_relax_and_refuel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121507",
+    "text_pt": "Até amanhã — tenha uma ótima noite",
+    "text_en": "See you tomorrow — have a great night",
+    "audio_en_storage_path": "1507_see_you_tomorrow_have_a_great_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121508",
+    "text_pt": "Até amanhã — durma bem esta noite",
+    "text_en": "Catch ya tomorrow — sleep well tonight",
+    "audio_en_storage_path": "1508_catch_ya_tomorrow_sleep_well_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121509",
+    "text_pt": "Escola e rotina diária",
+    "text_en": "School and Daily Routine",
+    "audio_en_storage_path": "1509_school_and_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121510",
+    "text_pt": "Os alunos vão à escola para aprender coisas novas todos os dias",
+    "text_en": "Students go to school to learn new things every day",
+    "audio_en_storage_path": "1510_students_go_to_school_to_learn_new_things_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121511",
+    "text_pt": "As crianças pegam os livros para aprender coisas novas diariamente",
+    "text_en": "Kids hit the books to pick up new stuff daily",
+    "audio_en_storage_path": "1511_kids_hit_the_books_to_pick_up_new_stuff_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121512",
+    "text_pt": "Os professores ajudam os alunos a entender as lições e os trabalhos de casa",
+    "text_en": "Teachers help students understand lessons and homework",
+    "audio_en_storage_path": "1512_teachers_help_students_understand_lessons_and_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121513",
+    "text_pt": "Os professores explicam tudo para que todos entendam o que está acontecendo",
+    "text_en": "Teachers break it down so everyone gets what’s going on",
+    "audio_en_storage_path": "1513_teachers_break_it_down_so_everyone_gets_whats_going_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121514",
+    "text_pt": "A sala de aula tem carteiras, cadeiras, quadro branco e pôsteres nas paredes.",
+    "text_en": "The classroom has desks. chairs. a whiteboard. and posters on the walls",
+    "audio_en_storage_path": "1514_the_classroom_has_desks_chairs_a_whiteboard_and_posters_on_the_walls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121515",
+    "text_pt": "Tem mesas, assentos, o quadro e alguns pôsteres legais por todo lugar",
+    "text_en": "Got tables. seats. a board. and some cool posters all around",
+    "audio_en_storage_path": "1515_got_tables_seats_a_board_and_some_cool_posters_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121516",
+    "text_pt": "Algumas crianças estudam em grupos. Outras trabalham sozinhas.",
+    "text_en": "Some kids study in groups. others work alone",
+    "audio_en_storage_path": "1516_some_kids_study_in_groups_others_work_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121517",
+    "text_pt": "Alguns se unem em equipe, outros vão sozinhos quando estão estudando.",
+    "text_en": "Some team up. others go solo when they’re studyin’",
+    "audio_en_storage_path": "1517_some_team_up_others_go_solo_when_theyre_studyin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121518",
+    "text_pt": "Você gosta de ir à escola ou acha ela chata?",
+    "text_en": "Do you enjoy going to school or do you find it boring?",
+    "audio_en_storage_path": "1518_do_you_enjoy_going_to_school_or_do_you_find_it_boring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121519",
+    "text_pt": "Você gosta da escola ou ela é meio sem graça para você?",
+    "text_en": "You like school or is it kinda meh for you?",
+    "audio_en_storage_path": "1519_you_like_school_or_is_it_kinda_meh_for_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121520",
+    "text_pt": "Eu costumo acordar cedo e me arrumar antes do café da manhã",
+    "text_en": "I usually wake up early and get ready before breakfast",
+    "audio_en_storage_path": "1520_i_usually_wake_up_early_and_get_ready_before_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121521",
+    "text_pt": "Eu acordo cedo e me visto antes mesmo de comer",
+    "text_en": "I’m up early and dressed before I even eat",
+    "audio_en_storage_path": "1521_im_up_early_and_dressed_before_i_even_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121522",
+    "text_pt": "Deixe-me ler esta parte novamente para ter certeza de que entendi",
+    "text_en": "Let me read this part again to make sure I understand",
+    "audio_en_storage_path": "1522_let_me_read_this_part_again_to_make_sure_i_understand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121523",
+    "text_pt": "Deixe-me reler isso para não perder nada",
+    "text_en": "Lemme re-read this so I don’t miss anything",
+    "audio_en_storage_path": "1523_lemme_reread_this_so_i_dont_miss_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121524",
+    "text_pt": "Onde fica sua escola?",
+    "text_en": "Where is your school located?",
+    "audio_en_storage_path": "1524_where_is_your_school_located.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121525",
+    "text_pt": "O que você disse — onde fica sua escola?",
+    "text_en": "Whaddya say — where’s your school at?",
+    "audio_en_storage_path": "1525_whaddya_say_wheres_your_school_at.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121526",
+    "text_pt": "Quando você vai terminar sua tarefa?",
+    "text_en": "When will you finish your assignment?",
+    "audio_en_storage_path": "1526_when_will_you_finish_your_assignment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121527",
+    "text_pt": "Quando você acha que isso vai ficar pronto?",
+    "text_en": "When ya think that thing’ll be done?",
+    "audio_en_storage_path": "1527_when_ya_think_that_thingll_be_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121528",
+    "text_pt": "Por que você chegou atrasado hoje?",
+    "text_en": "Why did you arrive late today?",
+    "audio_en_storage_path": "1528_why_did_you_arrive_late_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121529",
+    "text_pt": "O que fez você chegar atrasado hoje — trânsito ou algo assim?",
+    "text_en": "What made you show up late today — traffic or somethin’?",
+    "audio_en_storage_path": "1529_what_made_you_show_up_late_today_traffic_or_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121530",
+    "text_pt": "Ele sempre escuta atentamente durante a aula",
+    "text_en": "He always listens carefully during class",
+    "audio_en_storage_path": "1530_he_always_listens_carefully_during_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121531",
+    "text_pt": "Ele presta muita atenção quando o professor fala",
+    "text_en": "He pays attention real close when the teacher talks",
+    "audio_en_storage_path": "1531_he_pays_attention_real_close_when_the_teacher_talks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121532",
+    "text_pt": "Não vou faltar à aula amanhã, mesmo que esteja cansado",
+    "text_en": "I won’t skip class tomorrow even if I feel tired",
+    "audio_en_storage_path": "1532_i_wont_skip_class_tomorrow_even_if_i_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121533",
+    "text_pt": "Não vou faltar às aulas amanhã, mesmo que eu esteja me arrastando",
+    "text_en": "Ain’t missin’ class tomorrow even if I’m draggin’",
+    "audio_en_storage_path": "1533_aint_missin_class_tomorrow_even_if_im_draggin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121534",
+    "text_pt": "Bom trabalho mantendo o foco hoje",
+    "text_en": "Good job staying focused today",
+    "audio_en_storage_path": "1534_good_job_staying_focused_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121535",
+    "text_pt": "Bom trabalho, mantendo-se preso hoje",
+    "text_en": "Nice work stayin’ locked in today",
+    "audio_en_storage_path": "1535_nice_work_stayin_locked_in_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121536",
+    "text_pt": "Tome cuidado e tenha um ótimo dia na escola",
+    "text_en": "Take care and have a great day at school",
+    "audio_en_storage_path": "1536_take_care_and_have_a_great_day_at_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121537",
+    "text_pt": "Espero que seu dia corra bem na escola",
+    "text_en": "Hope your day goes smooth at school",
+    "audio_en_storage_path": "1537_hope_your_day_goes_smooth_at_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121538",
+    "text_pt": "Vejo vocês depois da aula — tenham uma boa aula",
+    "text_en": "See you after class — have a good one",
+    "audio_en_storage_path": "1538_see_you_after_class_have_a_good_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121539",
+    "text_pt": "Vejo vocês depois da aula — agite seu dia",
+    "text_en": "Catch ya after class — rock your day",
+    "audio_en_storage_path": "1539_catch_ya_after_class_rock_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

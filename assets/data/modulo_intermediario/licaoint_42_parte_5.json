@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121912",
+    "text_pt": "Regras e dicas do jogo",
+    "text_en": "Game Rules and Tips",
+    "audio_en_storage_path": "1912_game_rules_and_tips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121913",
+    "text_pt": "Todo jogo tem regras que você precisa seguir",
+    "text_en": "Every game has rules you need to follow",
+    "audio_en_storage_path": "1913_every_game_has_rules_you_need_to_follow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121914",
+    "text_pt": "Cada um tem regras que você precisa saber de cor",
+    "text_en": "Each one’s got rules you gotta know by heart",
+    "audio_en_storage_path": "1914_each_ones_got_rules_you_gotta_know_by_heart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121915",
+    "text_pt": "Alguns jogos permitem dois jogadores. Outros suportam quatro",
+    "text_en": "Some games allow two players. others support four",
+    "audio_en_storage_path": "1915_some_games_allow_two_players_others_support_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121916",
+    "text_pt": "Alguns deixam dois jogarem. Outros abrem para um time completo",
+    "text_en": "Some let two play. others open for a full squad",
+    "audio_en_storage_path": "1916_some_let_two_play_others_open_for_a_full_squad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121917",
+    "text_pt": "Você pode pausar o jogo quando quiser",
+    "text_en": "You can pause the game anytime you want",
+    "audio_en_storage_path": "1917_you_can_pause_the_game_anytime_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121918",
+    "text_pt": "Basta apertar pausa se precisar de um segundo para respirar",
+    "text_en": "Just hit pause if ya need a sec to breathe",
+    "audio_en_storage_path": "1918_just_hit_pause_if_ya_need_a_sec_to_breathe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121919",
+    "text_pt": "Economizar ajuda você a retornar ao mesmo lugar mais tarde",
+    "text_en": "Saving helps you return to the same place later",
+    "audio_en_storage_path": "1919_saving_helps_you_return_to_the_same_place_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121920",
+    "text_pt": "Guarde seu lugar para que você possa voltar",
+    "text_en": "Save your spot so you can jump back in",
+    "audio_en_storage_path": "1920_save_your_spot_so_you_can_jump_back_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121921",
+    "text_pt": "Você está jogando sozinho ou com amigos?",
+    "text_en": "Are you playing solo or with friends?",
+    "audio_en_storage_path": "1921_are_you_playing_solo_or_with_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121922",
+    "text_pt": "Você está voando sozinho ou recebeu ajuda hoje?",
+    "text_en": "You flyin’ solo or got help today?",
+    "audio_en_storage_path": "1922_you_flyin_solo_or_got_help_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121923",
+    "text_pt": "Solo por enquanto — talvez adicione alguém mais tarde",
+    "text_en": "Solo for now — maybe add someone later",
+    "audio_en_storage_path": "1923_solo_for_now_maybe_add_someone_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121924",
+    "text_pt": "Voando sozinho por enquanto — pode trazer reforços em breve",
+    "text_en": "Flyin’ alone for now — might bring backup soon",
+    "audio_en_storage_path": "1924_flyin_alone_for_now_might_bring_backup_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121925",
+    "text_pt": "Ou junte-se online e jogue com pessoas de todo o mundo",
+    "text_en": "Or join online and play with people around the world",
+    "audio_en_storage_path": "1925_or_join_online_and_play_with_people_around_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121926",
+    "text_pt": "Ou entre online e lute com pessoas de todos os lugares",
+    "text_en": "Or hop online and fight with folks from everywhere",
+    "audio_en_storage_path": "1926_or_hop_online_and_fight_with_folks_from_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121927",
+    "text_pt": "Onde posso encontrar o menu de configurações?",
+    "text_en": "Where can I find the settings menu?",
+    "audio_en_storage_path": "1927_where_can_i_find_the_settings_menu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121928",
+    "text_pt": "Onde a tela de opções está escondida?",
+    "text_en": "Where’s the options screen hiding?",
+    "audio_en_storage_path": "1928_wheres_the_options_screen_hiding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121929",
+    "text_pt": "Quando a nova atualização estará disponível?",
+    "text_en": "When will the new update be available?",
+    "audio_en_storage_path": "1929_when_will_the_new_update_be_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121930",
+    "text_pt": "Quando o novo patch vai cair?",
+    "text_en": "When’s the fresh patch droppin’?",
+    "audio_en_storage_path": "1930_whens_the_fresh_patch_droppin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121931",
+    "text_pt": "Por que o jogo travou antes?",
+    "text_en": "Why did the game freeze earlier?",
+    "audio_en_storage_path": "1931_why_did_the_game_freeze_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121932",
+    "text_pt": "O que causou a falha — problemas de internet ou outra coisa?",
+    "text_en": "What made it crash — internet issues or somethin’ else?",
+    "audio_en_storage_path": "1932_what_made_it_crash_internet_issues_or_somethin_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121933",
+    "text_pt": "Ele verifica atualizações toda semana",
+    "text_en": "He checks for updates every week",
+    "audio_en_storage_path": "1933_he_checks_for_updates_every_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121934",
+    "text_pt": "O cara sempre procura os últimos patches",
+    "text_en": "Dude always lookin’ for the latest patches",
+    "audio_en_storage_path": "1934_dude_always_lookin_for_the_latest_patches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121935",
+    "text_pt": "Não vou jogar sem salvar primeiro",
+    "text_en": "I won’t play without saving first",
+    "audio_en_storage_path": "1935_i_wont_play_without_saving_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121936",
+    "text_pt": "Não corra riscos — sempre economize antes de pular",
+    "text_en": "Ain’t takin’ risks — always save before jumpin’ in",
+    "audio_en_storage_path": "1936_aint_takin_risks_always_save_before_jumpin_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121937",
+    "text_pt": "Ótimo trabalho terminando esse nível",
+    "text_en": "Great work finishing that level",
+    "audio_en_storage_path": "1937_great_work_finishing_that_level.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121938",
+    "text_pt": "Ótimo trabalho limpando esse palco",
+    "text_en": "Solid job clearing that stage",
+    "audio_en_storage_path": "1938_solid_job_clearing_that_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121939",
+    "text_pt": "Não tenha pressa — vá com calma",
+    "text_en": "Don’t rush — take your time",
+    "audio_en_storage_path": "1939_dont_rush_take_your_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121940",
+    "text_pt": "Vá com calma — não precisa entrar em pânico",
+    "text_en": "Take it slow — no need to panic",
+    "audio_en_storage_path": "1940_take_it_slow_no_need_to_panic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121941",
+    "text_pt": "Aproveite o jogo e jogue com inteligência",
+    "text_en": "Enjoy the game and play smart",
+    "audio_en_storage_path": "1941_enjoy_the_game_and_play_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121942",
+    "text_pt": "Divirta-se e pense no futuro",
+    "text_en": "Have fun and think ahead",
+    "audio_en_storage_path": "1942_have_fun_and_think_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

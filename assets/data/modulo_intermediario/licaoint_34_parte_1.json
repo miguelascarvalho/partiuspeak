@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120611",
+    "text_pt": "Descrevendo Pessoas – Aparência Física",
+    "text_en": "Describing People – Physical Appearance",
+    "audio_en_storage_path": "611_describing_people_physical_appearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120612",
+    "text_pt": "Ela tem longos cabelos castanhos e olhos verdes",
+    "text_en": "She has long brown hair and green eyes",
+    "audio_en_storage_path": "612_she_has_long_brown_hair_and_green_eyes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120613",
+    "text_pt": "Ela tem longos cabelos castanhos e olhos que parecem meio verdes",
+    "text_en": "She’s got long brown hair and eyes that look kinda green",
+    "audio_en_storage_path": "613_shes_got_long_brown_hair_and_eyes_that_look_kinda_green.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120614",
+    "text_pt": "Ele é alto e joga basquete todo fim de semana",
+    "text_en": "He is tall and plays basketball every weekend",
+    "audio_en_storage_path": "614_he_is_tall_and_plays_basketball_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120615",
+    "text_pt": "Ele é super alto e entra na quadra para jogar bola todos os sábados",
+    "text_en": "He’s super tall and hits the court for ball every Saturday",
+    "audio_en_storage_path": "615_hes_super_tall_and_hits_the_court_for_ball_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120616",
+    "text_pt": "O menino usa óculos e sempre sorri",
+    "text_en": "The boy wears glasses and always smiles",
+    "audio_en_storage_path": "616_the_boy_wears_glasses_and_always_smiles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120617",
+    "text_pt": "O garoto usa óculos e nunca para de sorrir",
+    "text_en": "Kid wears specs and never stops smilin’",
+    "audio_en_storage_path": "617_kid_wears_specs_and_never_stops_smilin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120618",
+    "text_pt": "Ela tem cabelos cacheados e adora dançar",
+    "text_en": "She has curly hair and loves to dance",
+    "audio_en_storage_path": "618_she_has_curly_hair_and_loves_to_dance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120619",
+    "text_pt": "O cabelo dela é todo cacheado e ela está sempre dançando",
+    "text_en": "Her hair’s all curly and she’s always dancin’",
+    "audio_en_storage_path": "619_her_hairs_all_curly_and_shes_always_dancin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120620",
+    "text_pt": "Ele está vestindo uma jaqueta preta e jeans azul",
+    "text_en": "He is wearing a black jacket and blue jeans",
+    "audio_en_storage_path": "620_he_is_wearing_a_black_jacket_and_blue_jeans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120621",
+    "text_pt": "Vesti uma jaqueta preta e uma calça jeans azul desbotada",
+    "text_en": "Got on a black jacket and some faded blue jeans",
+    "audio_en_storage_path": "621_got_on_a_black_jacket_and_some_faded_blue_jeans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120622",
+    "text_pt": "A pele dela é clara e ela tem sardas no nariz",
+    "text_en": "Her skin is fair and she has freckles on her nose",
+    "audio_en_storage_path": "622_her_skin_is_fair_and_she_has_freckles_on_her_nose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120623",
+    "text_pt": "Ela tem pele clara e pequenas manchas no nariz",
+    "text_en": "She’s got light skin and little spots across her nose",
+    "audio_en_storage_path": "623_shes_got_light_skin_and_little_spots_across_her_nose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120624",
+    "text_pt": "Ele tem cabelo curto e sempre parece muito limpo",
+    "text_en": "He has short hair and always looks very clean",
+    "audio_en_storage_path": "624_he_has_short_hair_and_always_looks_very_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120625",
+    "text_pt": "O cabelo é bem curto e ele está sempre com uma aparência elegante",
+    "text_en": "Hair’s cut real short and he’s always looking sharp",
+    "audio_en_storage_path": "625_hairs_cut_real_short_and_hes_always_looking_sharp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120626",
+    "text_pt": "Ela tem altura média e se comporta bem",
+    "text_en": "She is about average height and carries herself well",
+    "audio_en_storage_path": "626_she_is_about_average_height_and_carries_herself_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120627",
+    "text_pt": "Ela tem altura média e anda como se fosse dona do lugar",
+    "text_en": "She’s around medium height and walks like she owns it",
+    "audio_en_storage_path": "627_shes_around_medium_height_and_walks_like_she_owns_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120628",
+    "text_pt": "Ambos usam roupas semelhantes e parecem gêmeos",
+    "text_en": "They both wear similar clothes and look like twins",
+    "audio_en_storage_path": "628_they_both_wear_similar_clothes_and_look_like_twins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120629",
+    "text_pt": "Ambas vestidas quase da mesma forma — podem ser gêmeas com certeza",
+    "text_en": "Both dressed almost the same — could be twins for sure",
+    "audio_en_storage_path": "629_both_dressed_almost_the_same_could_be_twins_for_sure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120630",
+    "text_pt": "Ele tem barba e geralmente usa chapéu",
+    "text_en": "He has a beard and usually wears a hat",
+    "audio_en_storage_path": "630_he_has_a_beard_and_usually_wears_a_hat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120631",
+    "text_pt": "Tem barba e você o verá com um boné na maioria dos dias",
+    "text_en": "Got a beard and you’ll see him with a cap most days",
+    "audio_en_storage_path": "631_got_a_beard_and_youll_see_him_with_a_cap_most_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120632",
+    "text_pt": "Ela tem um nariz pequeno e dentes brancos e brilhantes",
+    "text_en": "She has a small nose and bright white teeth",
+    "audio_en_storage_path": "632_she_has_a_small_nose_and_bright_white_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120633",
+    "text_pt": "Nariz pequeno e aqueles dentes brancos perolados quando ela sorri",
+    "text_en": "Petite nose and those pearly whites when she grins",
+    "audio_en_storage_path": "633_petite_nose_and_those_pearly_whites_when_she_grins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120634",
+    "text_pt": "Ele é forte e treina na academia todos os dias",
+    "text_en": "He is strong and works out at the gym every day",
+    "audio_en_storage_path": "634_he_is_strong_and_works_out_at_the_gym_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120635",
+    "text_pt": "Construído de forma sólida — vai duro na academia todos os dias",
+    "text_en": "Built solid — goes hard at the gym daily",
+    "audio_en_storage_path": "635_built_solid_goes_hard_at_the_gym_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120636",
+    "text_pt": "Ela usa maquiagem, mas não muita",
+    "text_en": "She wears makeup but not too much",
+    "audio_en_storage_path": "636_she_wears_makeup_but_not_too_much.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120637",
+    "text_pt": "Coloca um pouco de maquiagem, só o suficiente para estourar.",
+    "text_en": "Puts on some makeup. just enough to pop",
+    "audio_en_storage_path": "637_puts_on_some_makeup_just_enough_to_pop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120638",
+    "text_pt": "Ele tem tatuagens nos braços e uma expressão calma",
+    "text_en": "He has tattoos on his arms and a calm expression",
+    "audio_en_storage_path": "638_he_has_tattoos_on_his_arms_and_a_calm_expression.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120639",
+    "text_pt": "Os braços estão tatuados e ele tem aquela vibe relaxada",
+    "text_en": "Arms are inked up and he’s got that chill vibe",
+    "audio_en_storage_path": "639_arms_are_inked_up_and_hes_got_that_chill_vibe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120640",
+    "text_pt": "Tenha um bom dia e continue sorrindo",
+    "text_en": "Have a good day and keep smiling",
+    "audio_en_storage_path": "640_have_a_good_day_and_keep_smiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120641",
+    "text_pt": "Continue sorrindo — tenha um ótimo dia",
+    "text_en": "Keep that smile goin’ — have a great one",
+    "audio_en_storage_path": "641_keep_that_smile_goin_have_a_great_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

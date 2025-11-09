@@ -1,0 +1,938 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131536",
+    "text_pt": "Espionagem e Intriga: Agentes Secretos. Conspirações Globais. e Espionagem.",
+    "text_en": "Espionage and Intrigue: Secret Agents. Global Conspiracies. and Espionage",
+    "audio_en_storage_path": "1536_espionage_and_intrigue_secret_agents_global_conspiracies_and_espionage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131537",
+    "text_pt": "Espionagem e intriga mergulham o público em mundos de segredo e engano.",
+    "text_en": "Espionage and intrigue immerse audiences in worlds of secrecy and deception.",
+    "audio_en_storage_path": "1537_espionage_and_intrigue_immerse_audiences_in_worlds_of_secrecy_and_deception.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131538",
+    "text_pt": "Agentes secretos operam nas sombras, navegando em teias de mentiras e traições.",
+    "text_en": "Secret agents operate in shadows. navigating webs of lies and betrayal.",
+    "audio_en_storage_path": "1538_secret_agents_operate_in_shadows_navigating_webs_of_lies_and_betrayal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131539",
+    "text_pt": "Conspirações globais se revelam à medida que personagens descobrem agendas ocultas.",
+    "text_en": "Global conspiracies unravel as characters uncover hidden agendas.",
+    "audio_en_storage_path": "1539_global_conspiracies_unravel_as_characters_uncover_hidden_agendas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131540",
+    "text_pt": "Organizações poderosas manipulam eventos nos bastidores.",
+    "text_en": "Powerful organizations manipulate events from behind the scenes.",
+    "audio_en_storage_path": "1540_powerful_organizations_manipulate_events_from_behind_the_scenes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131541",
+    "text_pt": "Agentes duplos semeiam discórdia entre aliados e adversários.",
+    "text_en": "Double agents sow discord among allies and adversaries alike.",
+    "audio_en_storage_path": "1541_double_agents_sow_discord_among_allies_and_adversaries_alike.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131542",
+    "text_pt": "A confiança se torna uma mercadoria rara em ambientes traiçoeiros.",
+    "text_en": "Trust becomes a rare commodity in treacherous environments.",
+    "audio_en_storage_path": "1542_trust_becomes_a_rare_commodity_in_treacherous_environments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131543",
+    "text_pt": "Nomes de código e disfarces escondem as verdadeiras identidades dos agentes.",
+    "text_en": "Code names and disguises conceal operatives’ true identities.",
+    "audio_en_storage_path": "1543_code_names_and_disguises_conceal_operatives_true_identities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131544",
+    "text_pt": "Misturar-se à multidão permite que espiões reúnam informações sem serem detectados.",
+    "text_en": "Blending into crowds allows spies to gather intelligence undetected.",
+    "audio_en_storage_path": "1544_blending_into_crowds_allows_spies_to_gather_intelligence_undetected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131545",
+    "text_pt": "Dispositivos de alta tecnologia aumentam a capacidade dos agentes de completar missões.",
+    "text_en": "High-tech gadgets enhance agents’ ability to complete missions.",
+    "audio_en_storage_path": "1545_hightech_gadgets_enhance_agents_ability_to_complete_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131546",
+    "text_pt": "Relógios, canetas e carros se transformam em ferramentas de espionagem.",
+    "text_en": "Watches. pens. and cars transform into tools of espionage.",
+    "audio_en_storage_path": "1546_watches_pens_and_cars_transform_into_tools_of_espionage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131547",
+    "text_pt": "A vigilância desempenha um papel fundamental na coleta de informações críticas.",
+    "text_en": "Surveillance plays a pivotal role in gathering critical information.",
+    "audio_en_storage_path": "1547_surveillance_plays_a_pivotal_role_in_gathering_critical_information.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131548",
+    "text_pt": "Câmeras, grampos e grampos telefônicos capturam conversas e movimentos.",
+    "text_en": "Cameras. bugs. and wiretaps capture conversations and movements.",
+    "audio_en_storage_path": "1548_cameras_bugs_and_wiretaps_capture_conversations_and_movements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131549",
+    "text_pt": "Decodificar mensagens criptografadas revela planos e estratégias.",
+    "text_en": "Decoding encrypted messages reveals plans and strategies.",
+    "audio_en_storage_path": "1549_decoding_encrypted_messages_reveals_plans_and_strategies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131550",
+    "text_pt": "Os criptógrafos correm contra o tempo para desvendar segredos vitais.",
+    "text_en": "Cryptographers race against time to unlock vital secrets.",
+    "audio_en_storage_path": "1550_cryptographers_race_against_time_to_unlock_vital_secrets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131551",
+    "text_pt": "Operações secretas colocam os agentes em posições perigosas.",
+    "text_en": "Undercover operations place agents in dangerous positions.",
+    "audio_en_storage_path": "1551_undercover_operations_place_agents_in_dangerous_positions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131552",
+    "text_pt": "Apagar a linha entre amigo e inimigo testa sua determinação.",
+    "text_en": "Blurring the line between friend and foe tests their resolve.",
+    "audio_en_storage_path": "1552_blurring_the_line_between_friend_and_foe_tests_their_resolve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131553",
+    "text_pt": "Casas seguras fornecem refúgio temporário durante intensas caçadas humanas.",
+    "text_en": "Safe houses provide temporary refuge during intense manhunts.",
+    "audio_en_storage_path": "1553_safe_houses_provide_temporary_refuge_during_intense_manhunts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131554",
+    "text_pt": "Os personagens se reagrupam e planejam seus próximos movimentos em locais seguros.",
+    "text_en": "Characters regroup and plan their next moves in secure locations.",
+    "audio_en_storage_path": "1554_characters_regroup_and_plan_their_next_moves_in_secure_locations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131555",
+    "text_pt": "Os interrogatórios extraem informações valiosas por meio de táticas psicológicas.",
+    "text_en": "Interrogations extract valuable intel through psychological tactics.",
+    "audio_en_storage_path": "1555_interrogations_extract_valuable_intel_through_psychological_tactics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131556",
+    "text_pt": "Sinais sutis e linguagem corporal revelam suspeitos sob pressão.",
+    "text_en": "Subtle cues and body language betray suspects under pressure.",
+    "audio_en_storage_path": "1556_subtle_cues_and_body_language_betray_suspects_under_pressure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131557",
+    "text_pt": "As sequências de perseguição demonstram a agilidade e a desenvoltura dos agentes.",
+    "text_en": "Chase sequences showcase agents’ agility and resourcefulness.",
+    "audio_en_storage_path": "1557_chase_sequences_showcase_agents_agility_and_resourcefulness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131558",
+    "text_pt": "Carros, motocicletas e atividades a pé aumentam a tensão e a excitação.",
+    "text_en": "Cars. motorcycles. and foot pursuits amplify tension and excitement.",
+    "audio_en_storage_path": "1558_cars_motorcycles_and_foot_pursuits_amplify_tension_and_excitement.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131559",
+    "text_pt": "Cenários internacionais destacam a escala global das narrativas de espionagem.",
+    "text_en": "International settings highlight the global scale of espionage narratives.",
+    "audio_en_storage_path": "1559_international_settings_highlight_the_global_scale_of_espionage_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131560",
+    "text_pt": "Cidades como Paris, Tóquio e Cairo se tornam palcos de operações secretas.",
+    "text_en": "Cities like Paris. Tokyo. and Cairo become stages for covert operations.",
+    "audio_en_storage_path": "1560_cities_like_paris_tokyo_and_cairo_become_stages_for_covert_operations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131561",
+    "text_pt": "A imunidade diplomática protege alguns jogadores de repercussões legais.",
+    "text_en": "Diplomatic immunity shields some players from legal repercussions.",
+    "audio_en_storage_path": "1561_diplomatic_immunity_shields_some_players_from_legal_repercussions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131562",
+    "text_pt": "Negociações e tratados mascaram segundas intenções e jogos de poder.",
+    "text_en": "Negotiations and treaties mask ulterior motives and power plays.",
+    "audio_en_storage_path": "1562_negotiations_and_treaties_mask_ulterior_motives_and_power_plays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131563",
+    "text_pt": "Assassinos eliminam figuras-chave para desestabilizar governos ou corporações.",
+    "text_en": "Assassins eliminate key figures to destabilize governments or corporations.",
+    "audio_en_storage_path": "1563_assassins_eliminate_key_figures_to_destabilize_governments_or_corporations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131564",
+    "text_pt": "Mortes silenciosas e ataques precisos refletem sua eficiência letal.",
+    "text_en": "Silent kills and precision strikes reflect their lethal efficiency.",
+    "audio_en_storage_path": "1564_silent_kills_and_precision_strikes_reflect_their_lethal_efficiency.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131565",
+    "text_pt": "A guerra cibernética expande o campo de batalha para reinos digitais.",
+    "text_en": "Cyber warfare expands the battlefield into digital realms.",
+    "audio_en_storage_path": "1565_cyber_warfare_expands_the_battlefield_into_digital_realms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131566",
+    "text_pt": "Hackers se infiltram em sistemas para roubar dados ou sabotar a infraestrutura.",
+    "text_en": "Hackers infiltrate systems to steal data or sabotage infrastructure.",
+    "audio_en_storage_path": "1566_hackers_infiltrate_systems_to_steal_data_or_sabotage_infrastructure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131567",
+    "text_pt": "A manipulação psicológica explora fraquezas para submeter os outros à sua vontade.",
+    "text_en": "Psychological manipulation exploits weaknesses to bend others to one’s will.",
+    "audio_en_storage_path": "1567_psychological_manipulation_exploits_weaknesses_to_bend_others_to_ones_will.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131568",
+    "text_pt": "A chantagem emocional coage as vítimas a obedecer contra sua vontade.",
+    "text_en": "Emotional blackmail coerces victims into compliance against their will.",
+    "audio_en_storage_path": "1568_emotional_blackmail_coerces_victims_into_compliance_against_their_will.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131569",
+    "text_pt": "Teorias da conspiração ganham força à medida que evidências surgem.",
+    "text_en": "Conspiracy theories gain traction as evidence surfaces.",
+    "audio_en_storage_path": "1569_conspiracy_theories_gain_traction_as_evidence_surfaces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131570",
+    "text_pt": "Os protagonistas vão mais a fundo, expondo camadas de corrupção e engano.",
+    "text_en": "Protagonists dig deeper. exposing layers of corruption and deceit.",
+    "audio_en_storage_path": "1570_protagonists_dig_deeper_exposing_layers_of_corruption_and_deceit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131571",
+    "text_pt": "Os sistemas jurídicos são frequentemente retratados como falhos ou tendenciosos em histórias de espionagem.",
+    "text_en": "Legal systems are often portrayed as flawed or biased in espionage tales.",
+    "audio_en_storage_path": "1571_legal_systems_are_often_portrayed_as_flawed_or_biased_in_espionage_tales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131572",
+    "text_pt": "Personagens superam obstáculos burocráticos para garantir que a justiça prevaleça.",
+    "text_en": "Characters navigate bureaucratic hurdles to ensure fairness prevails.",
+    "audio_en_storage_path": "1572_characters_navigate_bureaucratic_hurdles_to_ensure_fairness_prevails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131573",
+    "text_pt": "As tensões da era da Guerra Fria inspiram narrativas clássicas de espionagem.",
+    "text_en": "Cold War-era tensions inspire classic espionage narratives.",
+    "audio_en_storage_path": "1573_cold_warera_tensions_inspire_classic_espionage_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131574",
+    "text_pt": "Ameaças nucleares e batalhas ideológicas moldam o tom dessas histórias.",
+    "text_en": "Nuclear threats and ideological battles shape the tone of these stories.",
+    "audio_en_storage_path": "1574_nuclear_threats_and_ideological_battles_shape_the_tone_of_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131575",
+    "text_pt": "A espionagem moderna aborda questões como terrorismo e crimes cibernéticos.",
+    "text_en": "Modern espionage tackles issues like terrorism and cybercrime.",
+    "audio_en_storage_path": "1575_modern_espionage_tackles_issues_like_terrorism_and_cybercrime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131576",
+    "text_pt": "Medos do mundo real influenciam representações fictícias da insegurança global.",
+    "text_en": "Real-world fears influence fictional portrayals of global insecurity.",
+    "audio_en_storage_path": "1576_realworld_fears_influence_fictional_portrayals_of_global_insecurity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131577",
+    "text_pt": "Denunciantes arriscam tudo para expor verdades ocultas.",
+    "text_en": "Whistleblowers risk everything to expose hidden truths.",
+    "audio_en_storage_path": "1577_whistleblowers_risk_everything_to_expose_hidden_truths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131578",
+    "text_pt": "A coragem deles inspira outros a exigir transparência e responsabilidade.",
+    "text_en": "Their courage inspires others to demand transparency and accountability.",
+    "audio_en_storage_path": "1578_their_courage_inspires_others_to_demand_transparency_and_accountability.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131579",
+    "text_pt": "A traição é muito dolorosa quando vem de companheiros de confiança.",
+    "text_en": "Betrayal cuts deeply when it comes from trusted comrades.",
+    "audio_en_storage_path": "1579_betrayal_cuts_deeply_when_it_comes_from_trusted_comrades.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131580",
+    "text_pt": "Amigos e colegas acabam se revelando lobos em pele de cordeiro.",
+    "text_en": "Friends and colleagues turn out to be wolves in sheep’s clothing.",
+    "audio_en_storage_path": "1580_friends_and_colleagues_turn_out_to_be_wolves_in_sheeps_clothing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131581",
+    "text_pt": "Documentos secretos contêm revelações explosivas sobre líderes corruptos.",
+    "text_en": "Secret documents contain explosive revelations about corrupt leaders.",
+    "audio_en_storage_path": "1581_secret_documents_contain_explosive_revelations_about_corrupt_leaders.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131582",
+    "text_pt": "Divulgá-los gera indignação e exigências por justiça.",
+    "text_en": "Leaking them sparks outrage and demands for justice.",
+    "audio_en_storage_path": "1582_leaking_them_sparks_outrage_and_demands_for_justice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131583",
+    "text_pt": "Narrativas de espionagem enfatizam a importância de estar um passo à frente.",
+    "text_en": "Espionage narratives emphasize the importance of staying one step ahead.",
+    "audio_en_storage_path": "1583_espionage_narratives_emphasize_the_importance_of_staying_one_step_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131584",
+    "text_pt": "Antecipar os movimentos dos oponentes torna-se fundamental para a sobrevivência e o sucesso.",
+    "text_en": "Anticipating opponents’ moves becomes key to survival and success.",
+    "audio_en_storage_path": "1584_anticipating_opponents_moves_becomes_key_to_survival_and_success.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131585",
+    "text_pt": "A ambiguidade moral complica a busca pela verdade e pela justiça.",
+    "text_en": "Moral ambiguity complicates the pursuit of truth and justice.",
+    "audio_en_storage_path": "1585_moral_ambiguity_complicates_the_pursuit_of_truth_and_justice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131586",
+    "text_pt": "Os personagens questionam se os fins justificam os meios em seus métodos.",
+    "text_en": "Characters question whether the ends justify the means in their methods.",
+    "audio_en_storage_path": "1586_characters_question_whether_the_ends_justify_the_means_in_their_methods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131587",
+    "text_pt": "Histórias de espionagem permanecem na mente muito depois dos créditos finais.",
+    "text_en": "Espionage stories linger in the mind long after the credits roll.",
+    "audio_en_storage_path": "1587_espionage_stories_linger_in_the_mind_long_after_the_credits_roll.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131588",
+    "text_pt": "Seus temas inquietantes ressoam com medos e ansiedades universais.",
+    "text_en": "Their unsettling themes resonate with universal fears and anxieties.",
+    "audio_en_storage_path": "1588_their_unsettling_themes_resonate_with_universal_fears_and_anxieties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131589",
+    "text_pt": "Exploração e Descoberta: Jornadas a Locais Exóticos, Ruínas Antigas ou Mundos Desconhecidos",
+    "text_en": "Exploration and Discovery: Journeys to Exotic Locations. Ancient Ruins. or Unknown Worlds",
+    "audio_en_storage_path": "1589_exploration_and_discovery_journeys_to_exotic_locations_ancient_ruins_or_unknown_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131590",
+    "text_pt": "Exploração e descoberta despertam a imaginação com histórias de aventura.",
+    "text_en": "Exploration and discovery ignite the imagination with tales of adventure.",
+    "audio_en_storage_path": "1590_exploration_and_discovery_ignite_the_imagination_with_tales_of_adventure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131591",
+    "text_pt": "Personagens se aventuram em territórios desconhecidos em busca de conhecimento e tesouros.",
+    "text_en": "Characters venture into uncharted territories seeking knowledge and treasure.",
+    "audio_en_storage_path": "1591_characters_venture_into_uncharted_territories_seeking_knowledge_and_treasure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131592",
+    "text_pt": "Locais exóticos transportam o público para novos mundos de tirar o fôlego.",
+    "text_en": "Exotic locations transport audiences to breathtaking new worlds.",
+    "audio_en_storage_path": "1592_exotic_locations_transport_audiences_to_breathtaking_new_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131593",
+    "text_pt": "Selvas exuberantes, desertos áridos e tundras geladas evocam maravilhas e admiração.",
+    "text_en": "Lush jungles. arid deserts. and icy tundras evoke wonder and awe.",
+    "audio_en_storage_path": "1593_lush_jungles_arid_deserts_and_icy_tundras_evoke_wonder_and_awe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131594",
+    "text_pt": "Ruínas antigas guardam segredos perdidos no tempo, esperando para serem descobertos.",
+    "text_en": "Ancient ruins hold secrets lost to time. waiting to be uncovered.",
+    "audio_en_storage_path": "1594_ancient_ruins_hold_secrets_lost_to_time_waiting_to_be_uncovered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131595",
+    "text_pt": "Templos em ruínas e cidades esquecidas sussurram histórias de civilizações passadas.",
+    "text_en": "Crumbled temples and forgotten cities whisper stories of past civilizations.",
+    "audio_en_storage_path": "1595_crumbled_temples_and_forgotten_cities_whisper_stories_of_past_civilizations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131596",
+    "text_pt": "Mapas guiam exploradores por paisagens perigosas e trilhas não sinalizadas.",
+    "text_en": "Maps guide explorers through perilous landscapes and unmarked trails.",
+    "audio_en_storage_path": "1596_maps_guide_explorers_through_perilous_landscapes_and_unmarked_trails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131597",
+    "text_pt": "Cada passo revela mistérios e perigos que espreitam no desconhecido.",
+    "text_en": "Every step reveals mysteries and dangers lurking in the unknown.",
+    "audio_en_storage_path": "1597_every_step_reveals_mysteries_and_dangers_lurking_in_the_unknown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131598",
+    "text_pt": "Arqueólogos reúnem fragmentos da história nessas narrativas.",
+    "text_en": "Archaeologists piece together fragments of history in these narratives.",
+    "audio_en_storage_path": "1598_archaeologists_piece_together_fragments_of_history_in_these_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131599",
+    "text_pt": "Artefatos e relíquias conectam aventureiros atuais a legados ancestrais.",
+    "text_en": "Artifacts and relics connect present-day adventurers to ancestral legacies.",
+    "audio_en_storage_path": "1599_artifacts_and_relics_connect_presentday_adventurers_to_ancestral_legacies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131600",
+    "text_pt": "Maravilhas naturais inspiram reverência e curiosidade em histórias de exploração.",
+    "text_en": "Natural wonders inspire reverence and curiosity in exploration tales.",
+    "audio_en_storage_path": "1600_natural_wonders_inspire_reverence_and_curiosity_in_exploration_tales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131601",
+    "text_pt": "Cachoeiras, cavernas e crateras vulcânicas simbolizam a beleza bruta da Terra.",
+    "text_en": "Waterfalls. caves. and volcanic craters symbolize Earth’s raw beauty.",
+    "audio_en_storage_path": "1601_waterfalls_caves_and_volcanic_craters_symbolize_earths_raw_beauty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131602",
+    "text_pt": "As habilidades de sobrevivência são testadas em ambientes hostis e implacáveis.",
+    "text_en": "Survival skills are tested in harsh and unforgiving environments.",
+    "audio_en_storage_path": "1602_survival_skills_are_tested_in_harsh_and_unforgiving_environments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131603",
+    "text_pt": "Fome, sede e exaustão levam os personagens ao limite.",
+    "text_en": "Hunger. thirst. and exhaustion push characters to their limits.",
+    "audio_en_storage_path": "1603_hunger_thirst_and_exhaustion_push_characters_to_their_limits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131604",
+    "text_pt": "Encontros com culturas indígenas enriquecem histórias de exploração.",
+    "text_en": "Encounters with indigenous cultures enrich exploration stories.",
+    "audio_en_storage_path": "1604_encounters_with_indigenous_cultures_enrich_exploration_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131605",
+    "text_pt": "Tradições, idiomas e costumes oferecem vislumbres de modos de vida únicos.",
+    "text_en": "Traditions. languages. and customs offer glimpses into unique ways of life.",
+    "audio_en_storage_path": "1605_traditions_languages_and_customs_offer_glimpses_into_unique_ways_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131606",
+    "text_pt": "A vida selvagem acrescenta imprevisibilidade às jornadas por terras indomáveis.",
+    "text_en": "Wildlife adds unpredictability to journeys through untamed lands.",
+    "audio_en_storage_path": "1606_wildlife_adds_unpredictability_to_journeys_through_untamed_lands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131607",
+    "text_pt": "Predadores e criaturas esquivas aumentam a sensação de perigo e intriga.",
+    "text_en": "Predators and elusive creatures heighten the sense of danger and intrigue.",
+    "audio_en_storage_path": "1607_predators_and_elusive_creatures_heighten_the_sense_of_danger_and_intrigue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131608",
+    "text_pt": "Os exploradores enfrentam desafios físicos e mentais durante suas jornadas.",
+    "text_en": "Explorers face physical and mental challenges during their quests.",
+    "audio_en_storage_path": "1608_explorers_face_physical_and_mental_challenges_during_their_quests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131609",
+    "text_pt": "Resistência e engenhosidade determinam sua capacidade de perseverar.",
+    "text_en": "Endurance and ingenuity determine their ability to persevere.",
+    "audio_en_storage_path": "1609_endurance_and_ingenuity_determine_their_ability_to_persevere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131610",
+    "text_pt": "Câmaras ocultas contêm tesouros e armadilhas que guardam segredos antigos.",
+    "text_en": "Hidden chambers contain treasures and traps guarding ancient secrets.",
+    "audio_en_storage_path": "1610_hidden_chambers_contain_treasures_and_traps_guarding_ancient_secrets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131611",
+    "text_pt": "Os personagens devem resolver quebra-cabeças para acessar recompensas sem acionar perigos.",
+    "text_en": "Characters must solve puzzles to access rewards without triggering perils.",
+    "audio_en_storage_path": "1611_characters_must_solve_puzzles_to_access_rewards_without_triggering_perils.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131612",
+    "text_pt": "Criaturas míticas habitam reinos fantásticos em narrativas de exploração.",
+    "text_en": "Mythical creatures inhabit fantastical realms in exploration narratives.",
+    "audio_en_storage_path": "1612_mythical_creatures_inhabit_fantastical_realms_in_exploration_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131613",
+    "text_pt": "Dragões, unicórnios e fênix personificam a magia de mundos desconhecidos.",
+    "text_en": "Dragons. unicorns. and phoenixes embody the magic of undiscovered worlds.",
+    "audio_en_storage_path": "1613_dragons_unicorns_and_phoenixes_embody_the_magic_of_undiscovered_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131614",
+    "text_pt": "A exploração espacial expande os limites da curiosidade humana.",
+    "text_en": "Space exploration expands the boundaries of human curiosity.",
+    "audio_en_storage_path": "1614_space_exploration_expands_the_boundaries_of_human_curiosity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131615",
+    "text_pt": "Planetas, luas e galáxias convidam aventureiros a ir além da Terra.",
+    "text_en": "Planets. moons. and galaxies beckon adventurers to reach beyond Earth.",
+    "audio_en_storage_path": "1615_planets_moons_and_galaxies_beckon_adventurers_to_reach_beyond_earth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131616",
+    "text_pt": "Expedições subaquáticas revelam os mistérios das profundezas do oceano.",
+    "text_en": "Underwater expeditions reveal the mysteries of ocean depths.",
+    "audio_en_storage_path": "1616_underwater_expeditions_reveal_the_mysteries_of_ocean_depths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131617",
+    "text_pt": "Naufrágios, recifes de corais e vida marinha cativam mergulhadores e cientistas.",
+    "text_en": "Shipwrecks. coral reefs. and marine life captivate divers and scientists.",
+    "audio_en_storage_path": "1617_shipwrecks_coral_reefs_and_marine_life_captivate_divers_and_scientists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131618",
+    "text_pt": "Expedições polares testam a resiliência contra o frio extremo e o isolamento.",
+    "text_en": "Polar expeditions test resilience against extreme cold and isolation.",
+    "audio_en_storage_path": "1618_polar_expeditions_test_resilience_against_extreme_cold_and_isolation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131619",
+    "text_pt": "Nevascas e icebergs criam obstáculos formidáveis ​​para exploradores polares.",
+    "text_en": "Blizzards and icebergs create formidable obstacles for polar explorers.",
+    "audio_en_storage_path": "1619_blizzards_and_icebergs_create_formidable_obstacles_for_polar_explorers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131620",
+    "text_pt": "Odisseias no deserto destacam a luta pela sobrevivência em terras áridas.",
+    "text_en": "Desert odysseys highlight the struggle for survival in barren wastelands.",
+    "audio_en_storage_path": "1620_desert_odysseys_highlight_the_struggle_for_survival_in_barren_wastelands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131621",
+    "text_pt": "O calor escaldante e a escassez de água desafiam a resistência dos viajantes.",
+    "text_en": "Scorching heat and scarce water challenge travelers’ endurance.",
+    "audio_en_storage_path": "1621_scorching_heat_and_scarce_water_challenge_travelers_endurance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131622",
+    "text_pt": "Aventuras na selva envolvem os personagens em densa vegetação e vida selvagem.",
+    "text_en": "Jungle adventures immerse characters in dense foliage and wildlife.",
+    "audio_en_storage_path": "1622_jungle_adventures_immerse_characters_in_dense_foliage_and_wildlife.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131623",
+    "text_pt": "Macacos, cobras e insetos acrescentam camadas de complexidade às caminhadas.",
+    "text_en": "Monkeys. snakes. and insects add layers of complexity to treks.",
+    "audio_en_storage_path": "1623_monkeys_snakes_and_insects_add_layers_of_complexity_to_treks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131624",
+    "text_pt": "As montanhas simbolizam o teste máximo de determinação e força.",
+    "text_en": "Mountains symbolize the ultimate test of determination and strength.",
+    "audio_en_storage_path": "1624_mountains_symbolize_the_ultimate_test_of_determination_and_strength.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131625",
+    "text_pt": "Escalar picos recompensa os escaladores com vistas panorâmicas e crescimento pessoal.",
+    "text_en": "Scaling peaks rewards climbers with panoramic views and personal growth.",
+    "audio_en_storage_path": "1625_scaling_peaks_rewards_climbers_with_panoramic_views_and_personal_growth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131626",
+    "text_pt": "Civilizações perdidas inspiram fascínio por sociedades desaparecidas.",
+    "text_en": "Lost civilizations inspire fascination with vanished societies.",
+    "audio_en_storage_path": "1626_lost_civilizations_inspire_fascination_with_vanished_societies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131627",
+    "text_pt": "Pirâmides, zigurates e megálitos sugerem conhecimento antigo avançado.",
+    "text_en": "Pyramids. ziggurats. and megaliths hint at advanced ancient knowledge.",
+    "audio_en_storage_path": "1627_pyramids_ziggurats_and_megaliths_hint_at_advanced_ancient_knowledge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131628",
+    "text_pt": "As narrativas de exploração celebram a sede da humanidade pela descoberta.",
+    "text_en": "Exploration narratives celebrate humanity’s thirst for discovery.",
+    "audio_en_storage_path": "1628_exploration_narratives_celebrate_humanitys_thirst_for_discovery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131629",
+    "text_pt": "A curiosidade leva os personagens a ultrapassar limites e expandir horizontes.",
+    "text_en": "Curiosity drives characters to push boundaries and expand horizons.",
+    "audio_en_storage_path": "1629_curiosity_drives_characters_to_push_boundaries_and_expand_horizons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131630",
+    "text_pt": "Avanços científicos resultam de expedições ousadas rumo ao desconhecido.",
+    "text_en": "Scientific breakthroughs result from daring expeditions into the unknown.",
+    "audio_en_storage_path": "1630_scientific_breakthroughs_result_from_daring_expeditions_into_the_unknown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131631",
+    "text_pt": "Novas espécies, fenômenos e tecnologias emergem dessas jornadas.",
+    "text_en": "New species. phenomena. and technologies emerge from these journeys.",
+    "audio_en_storage_path": "1631_new_species_phenomena_and_technologies_emerge_from_these_journeys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131632",
+    "text_pt": "Os exploradores documentam suas descobertas para compartilhar com as gerações futuras.",
+    "text_en": "Explorers document their findings to share with future generations.",
+    "audio_en_storage_path": "1632_explorers_document_their_findings_to_share_with_future_generations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131633",
+    "text_pt": "Diários, fotografias e mapas preservam memórias de suas aventuras.",
+    "text_en": "Journals. photographs. and maps preserve memories of their adventures.",
+    "audio_en_storage_path": "1633_journals_photographs_and_maps_preserve_memories_of_their_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131634",
+    "text_pt": "A colaboração aumenta o sucesso das missões de exploração.",
+    "text_en": "Collaboration enhances the success of exploration missions.",
+    "audio_en_storage_path": "1634_collaboration_enhances_the_success_of_exploration_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131635",
+    "text_pt": "As equipes combinam conhecimentos para superar desafios e atingir metas.",
+    "text_en": "Teams combine expertise to overcome challenges and achieve goals.",
+    "audio_en_storage_path": "1635_teams_combine_expertise_to_overcome_challenges_and_achieve_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131636",
+    "text_pt": "Exploradores solitários personificam independência e autoconfiança em ambientes hostis.",
+    "text_en": "Solo explorers embody independence and self-reliance in hostile environments.",
+    "audio_en_storage_path": "1636_solo_explorers_embody_independence_and_selfreliance_in_hostile_environments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131637",
+    "text_pt": "A solidão deles amplifica os riscos e recompensas de seus esforços.",
+    "text_en": "Their solitude amplifies the risks and rewards of their endeavors.",
+    "audio_en_storage_path": "1637_their_solitude_amplifies_the_risks_and_rewards_of_their_endeavors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131638",
+    "text_pt": "Histórias de exploração nos lembram da vastidão e diversidade do nosso mundo.",
+    "text_en": "Exploration stories remind us of the vastness and diversity of our world.",
+    "audio_en_storage_path": "1638_exploration_stories_remind_us_of_the_vastness_and_diversity_of_our_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131639",
+    "text_pt": "Cada canto contém potencial para maravilhas, perigos e esclarecimentos.",
+    "text_en": "Every corner holds potential for wonder. danger. and enlightenment.",
+    "audio_en_storage_path": "1639_every_corner_holds_potential_for_wonder_danger_and_enlightenment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

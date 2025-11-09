@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112051",
+    "text_pt": "Refrigerantes / Refrigerantes",
+    "text_en": "Soda / Fizzy Drinks",
+    "audio_en_storage_path": "2051_soda_fizzy_drinks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112052",
+    "text_pt": "O refrigerante está na geladeira.",
+    "text_en": "The soda is in the fridge.",
+    "audio_en_storage_path": "2052_the_soda_is_in_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112053",
+    "text_pt": "Ele efervesce quando abro a lata.",
+    "text_en": "It fizzes when I open the can.",
+    "audio_en_storage_path": "2053_it_fizzes_when_i_open_the_can.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112054",
+    "text_pt": "Eu bebo refrigerante em festas ou quando quero algo doce.",
+    "text_en": "I drink soda at parties or when I want something sweet.",
+    "audio_en_storage_path": "2054_i_drink_soda_at_parties_or_when_i_want_something_sweet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112055",
+    "text_pt": "É divertido, mas não muito saudável.",
+    "text_en": "It's fun but not very healthy.",
+    "audio_en_storage_path": "2055_its_fun_but_not_very_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112056",
+    "text_pt": "A lata é vermelha e tem bolhas subindo dentro.",
+    "text_en": "The can is red and has bubbles rising inside.",
+    "audio_en_storage_path": "2056_the_can_is_red_and_has_bubbles_rising_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112057",
+    "text_pt": "A parte superior chia quando puxo a aba.",
+    "text_en": "The top hisses when I pull the tab.",
+    "audio_en_storage_path": "2057_the_top_hisses_when_i_pull_the_tab.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112058",
+    "text_pt": "Eu despejo em um copo com gelo.",
+    "text_en": "I pour it into a glass with ice.",
+    "audio_en_storage_path": "2058_i_pour_it_into_a_glass_with_ice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112059",
+    "text_pt": "Às vezes adiciono limão para dar mais sabor.",
+    "text_en": "Sometimes I add lime for extra flavor.",
+    "audio_en_storage_path": "2059_sometimes_i_add_lime_for_extra_flavor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112060",
+    "text_pt": "Que tipo de refrigerante você gosta?",
+    "text_en": "What kind of soda do you like?",
+    "audio_en_storage_path": "2060_what_kind_of_soda_do_you_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112061",
+    "text_pt": "Cola — é clássica e borbulhante.",
+    "text_en": "Cola — it’s classic and bubbly.",
+    "audio_en_storage_path": "2061_cola_its_classic_and_bubbly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112062",
+    "text_pt": "Onde você guarda suas bebidas?",
+    "text_en": "Where do you keep your drinks?",
+    "audio_en_storage_path": "2062_where_do_you_keep_your_drinks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112063",
+    "text_pt": "Na geladeira — ao lado do suco e do leite.",
+    "text_en": "In the fridge — next to the juice and milk.",
+    "audio_en_storage_path": "2063_in_the_fridge_next_to_the_juice_and_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112064",
+    "text_pt": "Às vezes eu bebo refrigerante diet.",
+    "text_en": "Sometimes I drink diet soda.",
+    "audio_en_storage_path": "2064_sometimes_i_drink_diet_soda.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112065",
+    "text_pt": "Outras vezes, prefiro o normal.",
+    "text_en": "Other times I go for regular.",
+    "audio_en_storage_path": "2065_other_times_i_go_for_regular.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112066",
+    "text_pt": "Onde você deixou sua lata?",
+    "text_en": "Where did you leave your can?",
+    "audio_en_storage_path": "2066_where_did_you_leave_your_can.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112067",
+    "text_pt": "Na mesa — quase vazia.",
+    "text_en": "On the table — almost empty.",
+    "audio_en_storage_path": "2067_on_the_table_almost_empty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112068",
+    "text_pt": "Quando você costuma beber refrigerante?",
+    "text_en": "When do you usually drink soda?",
+    "audio_en_storage_path": "2068_when_do_you_usually_drink_soda.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112069",
+    "text_pt": "Em restaurantes ou eventos especiais.",
+    "text_en": "At restaurants or special events.",
+    "audio_en_storage_path": "2069_at_restaurants_or_special_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112070",
+    "text_pt": "Por que você bebeu refrigerante hoje?",
+    "text_en": "Why did you drink soda today?",
+    "audio_en_storage_path": "2070_why_did_you_drink_soda_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112071",
+    "text_pt": "Porque eu estava em uma festa de aniversário.",
+    "text_en": "Because I was at a birthday party.",
+    "audio_en_storage_path": "2071_because_i_was_at_a_birthday_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112072",
+    "text_pt": "Gosto de tomar refrigerante de vez em quando.",
+    "text_en": "I enjoy soda once in a while.",
+    "audio_en_storage_path": "2072_i_enjoy_soda_once_in_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112073",
+    "text_pt": "Mas tento não beber todo dia.",
+    "text_en": "But I try not to drink it every day.",
+    "audio_en_storage_path": "2073_but_i_try_not_to_drink_it_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112074",
+    "text_pt": "Amanhã. Não vou deixar a lata aberta novamente.",
+    "text_en": "Tomorrow. I will not leave the can open again.",
+    "audio_en_storage_path": "2074_tomorrow_i_will_not_leave_the_can_open_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112075",
+    "text_pt": "Ficou sem graça antes de eu terminar.",
+    "text_en": "It went flat before I finished it.",
+    "audio_en_storage_path": "2075_it_went_flat_before_i_finished_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112076",
+    "text_pt": "Vá com calma!",
+    "text_en": "Take it easy!",
+    "audio_en_storage_path": "2076_take_it_easy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112077",
+    "text_pt": "Não beba muito refrigerante hoje.",
+    "text_en": "Don’t drink too much soda today.",
+    "audio_en_storage_path": "2077_dont_drink_too_much_soda_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

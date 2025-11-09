@@ -1,0 +1,227 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110574",
+    "text_pt": "Sexta-feira – Minha Mãe",
+    "text_en": "Friday – My Mother",
+    "audio_en_storage_path": "574_friday_my_mother.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110575",
+    "text_pt": "Foco: A rotina de fim de semana da minha mãe",
+    "text_en": "Focus: My mother's weekend routine",
+    "audio_en_storage_path": "575_focus_my_mothers_weekend_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110576",
+    "text_pt": "Ela acorda às 7h30 da manhã hoje.",
+    "text_en": "She wakes up at 7:30 AM today.",
+    "audio_en_storage_path": "576_she_wakes_up_at_730_am_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110577",
+    "text_pt": "Sem pressa — é sexta-feira e ela está relaxada.",
+    "text_en": "No rush — it’s Friday and she’s relaxed.",
+    "audio_en_storage_path": "577_no_rush_its_friday_and_shes_relaxed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110578",
+    "text_pt": "Ela toma café e lê as notícias.",
+    "text_en": "She drinks coffee and reads the news.",
+    "audio_en_storage_path": "578_she_drinks_coffee_and_reads_the_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110579",
+    "text_pt": "Às vezes ela ouve música enquanto come.",
+    "text_en": "Sometimes she listens to music while eating.",
+    "audio_en_storage_path": "579_sometimes_she_listens_to_music_while_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110580",
+    "text_pt": "Ela termina o trabalho mais cedo hoje.",
+    "text_en": "She finishes work early today.",
+    "audio_en_storage_path": "580_she_finishes_work_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110582",
+    "text_pt": "Depois do trabalho, ela liga para minha tia.",
+    "text_en": "After work. she calls my aunt.",
+    "audio_en_storage_path": "582_after_work_she_calls_my_aunt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110583",
+    "text_pt": "Eles falam sobre os velhos tempos e riem muito.",
+    "text_en": "They talk about old times and laugh a lot.",
+    "audio_en_storage_path": "583_they_talk_about_old_times_and_laugh_a_lot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110584",
+    "text_pt": "À noite, ela prepara o jantar.",
+    "text_en": "In the evening. she cooks dinner.",
+    "audio_en_storage_path": "584_in_the_evening_she_cooks_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110585",
+    "text_pt": "Ela faz sopa ou peixe grelhado.",
+    "text_en": "She makes soup or grilled fish.",
+    "audio_en_storage_path": "585_she_makes_soup_or_grilled_fish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110586",
+    "text_pt": "Mais tarde, ela assiste TV conosco.",
+    "text_en": "Later. she watches TV with us.",
+    "audio_en_storage_path": "586_later_she_watches_tv_with_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110587",
+    "text_pt": "Ou ela joga jogos de tabuleiro com minha irmã.",
+    "text_en": "Or she plays board games with my sister.",
+    "audio_en_storage_path": "587_or_she_plays_board_games_with_my_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110588",
+    "text_pt": "O que ela gosta de fazer às sextas-feiras?",
+    "text_en": "What does she like to do on Fridays?",
+    "audio_en_storage_path": "588_what_does_she_like_to_do_on_fridays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110589",
+    "text_pt": "Ela gosta de relaxar e passar tempo com a família.",
+    "text_en": "She likes to relax and spend time with family.",
+    "audio_en_storage_path": "589_she_likes_to_relax_and_spend_time_with_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110590",
+    "text_pt": "Onde está sua mãe esta noite?",
+    "text_en": "Where is your mom tonight?",
+    "audio_en_storage_path": "590_where_is_your_mom_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110591",
+    "text_pt": "Ela está na cozinha, preparando o jantar.",
+    "text_en": "She is in the kitchen. making dinner.",
+    "audio_en_storage_path": "591_she_is_in_the_kitchen_making_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110592",
+    "text_pt": "Por que ela sorri mais nas sextas-feiras?",
+    "text_en": "Why does she smile more on Fridays?",
+    "audio_en_storage_path": "592_why_does_she_smile_more_on_fridays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110593",
+    "text_pt": "Porque ela sabe que amanhã é sábado.",
+    "text_en": "Because she knows tomorrow is Saturday.",
+    "audio_en_storage_path": "593_because_she_knows_tomorrow_is_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110594",
+    "text_pt": "Ela se sente feliz quando a semana termina.",
+    "text_en": "She feels happy when the week ends.",
+    "audio_en_storage_path": "594_she_feels_happy_when_the_week_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110595",
+    "text_pt": "Ela gosta de estar com a família.",
+    "text_en": "She enjoys being with her family.",
+    "audio_en_storage_path": "595_she_enjoys_being_with_her_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110596",
+    "text_pt": "Amanhã ela não vai preparar o café da manhã.",
+    "text_en": "Tomorrow. she will not cook breakfast.",
+    "audio_en_storage_path": "596_tomorrow_she_will_not_cook_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110597",
+    "text_pt": "Ela dormirá até tarde e descansará.",
+    "text_en": "She will sleep late and rest.",
+    "audio_en_storage_path": "597_she_will_sleep_late_and_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110598",
+    "text_pt": "Tenha um ótimo final de semana, mãe!",
+    "text_en": "Have a great weekend. Mom!",
+    "audio_en_storage_path": "598_have_a_great_weekend_mom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110599",
+    "text_pt": "Você merece!",
+    "text_en": "You deserve it!",
+    "audio_en_storage_path": "599_you_deserve_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

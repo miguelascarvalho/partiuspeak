@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101921",
+    "text_pt": "👟 Loja de Tênis",
+    "text_en": "👟 Sneaker Store",
+    "audio_en_storage_path": "1021_sneaker_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101922",
+    "text_pt": "A loja de tênis fica perto do cinema.",
+    "text_en": "The sneaker store is near the movie theater.",
+    "audio_en_storage_path": "1022_the_sneaker_store_is_near_the_movie_theater.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101923",
+    "text_pt": "É cheio de cores brilhantes e designs legais.",
+    "text_en": "It’s full of bright colors and cool designs.",
+    "audio_en_storage_path": "1023_its_full_of_bright_colors_and_cool_designs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101924",
+    "text_pt": "Eu compro tênis de corrida ou casuais aqui.",
+    "text_en": "I buy running shoes or casual ones here.",
+    "audio_en_storage_path": "1024_i_buy_running_shoes_or_casual_ones_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101925",
+    "text_pt": "Às vezes eu apenas olho para edições raras.",
+    "text_en": "Sometimes I just look at rare editions.",
+    "audio_en_storage_path": "1025_sometimes_i_just_look_at_rare_editions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101926",
+    "text_pt": "As paredes mostram atletas e jogadores famosos.",
+    "text_en": "The walls show athletes and famous players.",
+    "audio_en_storage_path": "1026_the_walls_show_athletes_and_famous_players.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101927",
+    "text_pt": "Alguns pares custam mais de US$ 200.",
+    "text_en": "Some pairs cost more than $200.",
+    "audio_en_storage_path": "1027_some_pairs_cost_more_than_200.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101928",
+    "text_pt": "Há cadarços. palmilhas e kits de limpeza por perto.",
+    "text_en": "There are shoelaces. insoles. and cleaning kits nearby.",
+    "audio_en_storage_path": "1028_there_are_shoelaces_insoles_and_cleaning_kits_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101929",
+    "text_pt": "E uma prateleira com caixas de edições especiais.",
+    "text_en": "And a shelf with special edition boxes.",
+    "audio_en_storage_path": "1029_and_a_shelf_with_special_edition_boxes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101930",
+    "text_pt": "Qual marca você mais gosta?",
+    "text_en": "Which brand do you like most?",
+    "audio_en_storage_path": "1030_which_brand_do_you_like_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101931",
+    "text_pt": "Jordan — mas às vezes eu escolho Puma.",
+    "text_en": "Jordan — but sometimes I choose Puma.",
+    "audio_en_storage_path": "1031_jordan_but_sometimes_i_choose_puma.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101932",
+    "text_pt": "Onde você pode conseguir cadarços grátis?",
+    "text_en": "Where can you get free laces?",
+    "audio_en_storage_path": "1032_where_can_you_get_free_laces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101933",
+    "text_pt": "No balcão — basta perguntar ao funcionário.",
+    "text_en": "At the counter — just ask the staff.",
+    "audio_en_storage_path": "1033_at_the_counter_just_ask_the_staff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101934",
+    "text_pt": "Às vezes espero por promoções.",
+    "text_en": "Sometimes I wait for sales.",
+    "audio_en_storage_path": "1034_sometimes_i_wait_for_sales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101935",
+    "text_pt": "Outras vezes compro imediatamente.",
+    "text_en": "Other times I buy right away.",
+    "audio_en_storage_path": "1035_other_times_i_buy_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101936",
+    "text_pt": "Onde você deixou seu recibo?",
+    "text_en": "Where did you leave your receipt?",
+    "audio_en_storage_path": "1036_where_did_you_leave_your_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101937",
+    "text_pt": "Na minha carteira — debaixo de outros papéis.",
+    "text_en": "In my wallet — under other papers.",
+    "audio_en_storage_path": "1037_in_my_wallet_under_other_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101938",
+    "text_pt": "Quando o novo modelo estará disponível?",
+    "text_en": "When will the new model be available?",
+    "audio_en_storage_path": "1038_when_will_the_new_model_be_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101939",
+    "text_pt": "Em duas semanas — estou animado.",
+    "text_en": "In two weeks — I’m excited.",
+    "audio_en_storage_path": "1039_in_two_weeks_im_excited.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101940",
+    "text_pt": "Por que você mudou de ideia sobre esse par?",
+    "text_en": "Why did you change your mind about this pair?",
+    "audio_en_storage_path": "1040_why_did_you_change_your_mind_about_this_pair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101941",
+    "text_pt": "Porque depois encontrei uma cor melhor.",
+    "text_en": "Because I found a better color later.",
+    "audio_en_storage_path": "1041_because_i_found_a_better_color_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101942",
+    "text_pt": "Ele sempre entra procurando ofertas.",
+    "text_en": "He always walks in looking for deals.",
+    "audio_en_storage_path": "1042_he_always_walks_in_looking_for_deals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101943",
+    "text_pt": "Adora encontrar ótimas ofertas.",
+    "text_en": "Loves finding great offers.",
+    "audio_en_storage_path": "1043_loves_finding_great_offers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101944",
+    "text_pt": "Amanhã. Não vou esquecer de testar as solas novamente.",
+    "text_en": "Tomorrow. I will not forget to test the soles again.",
+    "audio_en_storage_path": "1044_tomorrow_i_will_not_forget_to_test_the_soles_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101945",
+    "text_pt": "Eles pareciam bonitos. mas machucaram meus pés da última vez.",
+    "text_en": "They looked nice but hurt my feet last time.",
+    "audio_en_storage_path": "1045_they_looked_nice_but_hurt_my_feet_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101946",
+    "text_pt": "Entre com estilo!",
+    "text_en": "Step in style!",
+    "audio_en_storage_path": "1046_step_in_style.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101947",
+    "text_pt": "Descubra o que faz você se sentir confiante.",
+    "text_en": "Find what makes you feel confident.",
+    "audio_en_storage_path": "1047_find_what_makes_you_feel_confident.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

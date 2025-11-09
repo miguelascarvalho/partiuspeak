@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102191",
+    "text_pt": "💍 Loja de Acessórios",
+    "text_en": "💍 Accessories Store",
+    "audio_en_storage_path": "1291_accessories_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102192",
+    "text_pt": "A loja de acessórios fica perto da saída.",
+    "text_en": "The accessories shop is close to the exit.",
+    "audio_en_storage_path": "1292_the_accessories_shop_is_close_to_the_exit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102193",
+    "text_pt": "Tem óculos de sol. relógios e capas de celular.",
+    "text_en": "Has sunglasses. watches. and phone cases.",
+    "audio_en_storage_path": "1293_has_sunglasses_watches_and_phone_cases.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102194",
+    "text_pt": "Eu compro pequenas coisas quando estou esperando amigos.",
+    "text_en": "I buy small things when I'm waiting for friends.",
+    "audio_en_storage_path": "1294_i_buy_small_things_when_im_waiting_for_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102195",
+    "text_pt": "Ou apenas veja o que há de novo.",
+    "text_en": "Or just look at what’s new.",
+    "audio_en_storage_path": "1295_or_just_look_at_whats_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102196",
+    "text_pt": "Os brincos são de prata e ouro.",
+    "text_en": "The earrings are silver and gold.",
+    "audio_en_storage_path": "1296_the_earrings_are_silver_and_gold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102197",
+    "text_pt": "Os chapéus são vermelhos. pretos e brancos.",
+    "text_en": "The hats are red. black. and white.",
+    "audio_en_storage_path": "1297_the_hats_are_red_black_and_white.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102198",
+    "text_pt": "Eles têm algo abaixo de US$ 10?",
+    "text_en": "Do they have anything under $10?",
+    "audio_en_storage_path": "1298_do_they_have_anything_under_10.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102199",
+    "text_pt": "Sim — alguns anéis e chaveiros.",
+    "text_en": "Yes — some rings and keychains.",
+    "audio_en_storage_path": "1299_yes_some_rings_and_keychains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102200",
+    "text_pt": "Quanto custa esse cinto?",
+    "text_en": "How much is this belt?",
+    "audio_en_storage_path": "1300_how_much_is_this_belt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102201",
+    "text_pt": "US$ 15 — talvez seja muito para mim.",
+    "text_en": "$15 — maybe too much for me.",
+    "audio_en_storage_path": "1301_15_maybe_too_much_for_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102202",
+    "text_pt": "Onde posso encontrar carteiras?",
+    "text_en": "Where can I find wallets?",
+    "audio_en_storage_path": "1302_where_can_i_find_wallets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102203",
+    "text_pt": "Na parede esquerda — ao lado dos óculos de sol.",
+    "text_en": "On the left wall — next to the sunglasses.",
+    "audio_en_storage_path": "1303_on_the_left_wall_next_to_the_sunglasses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102204",
+    "text_pt": "Não comprei nada hoje.",
+    "text_en": "I didn't buy anything today.",
+    "audio_en_storage_path": "1304_i_didnt_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102205",
+    "text_pt": "Os preços eram altos e nada chamou minha atenção.",
+    "text_en": "Prices were high and nothing caught my eye.",
+    "audio_en_storage_path": "1305_prices_were_high_and_nothing_caught_my_eye.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102206",
+    "text_pt": "Quando eles vão repor as pulseiras?",
+    "text_en": "When will they restore the bracelets?",
+    "audio_en_storage_path": "1306_when_will_they_restore_the_bracelets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102207",
+    "text_pt": "Talvez amanhã — prateleiras vazias hoje.",
+    "text_en": "Maybe tomorrow — empty shelves today.",
+    "audio_en_storage_path": "1307_maybe_tomorrow_empty_shelves_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102208",
+    "text_pt": "Por que você foi a esta loja primeiro?",
+    "text_en": "Why did you go to this store first?",
+    "audio_en_storage_path": "1308_why_did_you_go_to_this_store_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102209",
+    "text_pt": "Para encontrar um presente — parada fácil e rápida.",
+    "text_en": "To find a gift — easy and quick stop.",
+    "audio_en_storage_path": "1309_to_find_a_gift_easy_and_quick_stop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102210",
+    "text_pt": "Ela compra algo pequeno a cada visita.",
+    "text_en": "She buys something small every visit.",
+    "audio_en_storage_path": "1310_she_buys_something_small_every_visit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102211",
+    "text_pt": "Chapéus. broches ou adesivos — coisas fofas.",
+    "text_en": "Hats. pins. or stickers — cute stuff.",
+    "audio_en_storage_path": "1311_hats_pins_or_stickers_cute_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102212",
+    "text_pt": "Amanhã. Não esquecerei de perguntar novamente sobre devoluções.",
+    "text_en": "Tomorrow. I will not forget to ask about returns again.",
+    "audio_en_storage_path": "1312_tomorrow_i_will_not_forget_to_ask_about_returns_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102213",
+    "text_pt": "Não é possível devolver sem o comprovante de compra.",
+    "text_en": "Can't return without proof of purchase.",
+    "audio_en_storage_path": "1313_cant_return_without_proof_of_purchase.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102214",
+    "text_pt": "Acessórios completam seu estilo!",
+    "text_en": "Accessories finish your style!",
+    "audio_en_storage_path": "1314_accessories_finish_your_style.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102215",
+    "text_pt": "Escolha algo divertido e simples.",
+    "text_en": "Pick something fun and simple.",
+    "audio_en_storage_path": "1315_pick_something_fun_and_simple.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102216",
+    "text_pt": "Confira o preço!",
+    "text_en": "Check the price!",
+    "audio_en_storage_path": "1316_check_the_price.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102217",
+    "text_pt": "Alguns parecem baratos. mas não são.",
+    "text_en": "Some look cheap but aren’t.",
+    "audio_en_storage_path": "1317_some_look_cheap_but_arent.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

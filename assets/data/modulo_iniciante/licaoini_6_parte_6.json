@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101287",
+    "text_pt": "🚕 Uber / Táxi até o shopping",
+    "text_en": "🚕 Uber / Taxi to the mall",
+    "audio_en_storage_path": "387_uber_taxi_to_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101288",
+    "text_pt": "Abra o aplicativo Uber e digite “Entrada principal do shopping”.",
+    "text_en": "Open the Uber app and type “Main Mall Entrance”.",
+    "audio_en_storage_path": "388_open_the_uber_app_and_type_main_mall_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101289",
+    "text_pt": "O motorista encontrará você rapidamente.",
+    "text_en": "The driver will find you quickly.",
+    "audio_en_storage_path": "389_the_driver_will_find_you_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101290",
+    "text_pt": "O tempo de coleta é de cerca de 5 minutos.",
+    "text_en": "The pickup time is about 5 minutes.",
+    "audio_en_storage_path": "390_the_pickup_time_is_about_5_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101291",
+    "text_pt": "Se o trânsito permitir — às vezes mais rápido.",
+    "text_en": "If traffic allows — sometimes faster.",
+    "audio_en_storage_path": "391_if_traffic_allows_sometimes_faster.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101292",
+    "text_pt": "Diga a ele para deixá-lo perto da praça de alimentação.",
+    "text_en": "Tell him to drop you near the food court.",
+    "audio_en_storage_path": "392_tell_him_to_drop_you_near_the_food_court.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101293",
+    "text_pt": "Esse é o lugar mais fácil para encontrar amigos.",
+    "text_en": "That’s the easiest place to meet friends.",
+    "audio_en_storage_path": "393_thats_the_easiest_place_to_meet_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101294",
+    "text_pt": "O passeio custa entre US$ 10 e US$ 13.",
+    "text_en": "The ride costs around $10–$13.",
+    "audio_en_storage_path": "394_the_ride_costs_around_1013.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101295",
+    "text_pt": "Depende do horário e do trânsito.",
+    "text_en": "Depends on the time and traffic.",
+    "audio_en_storage_path": "395_depends_on_the_time_and_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101296",
+    "text_pt": "Qual é a melhor entrada para o Uber?",
+    "text_en": "What’s the best entrance for Uber?",
+    "audio_en_storage_path": "396_whats_the_best_entrance_for_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101297",
+    "text_pt": "Parte frontal — perto do cinema.",
+    "text_en": "Front side — near the cinema.",
+    "audio_en_storage_path": "397_front_side_near_the_cinema.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101298",
+    "text_pt": "Onde devo esperar o carro?",
+    "text_en": "Where should I wait for the car?",
+    "audio_en_storage_path": "398_where_should_i_wait_for_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101299",
+    "text_pt": "Perto da árvore — bom sinal e sombra.",
+    "text_en": "By the tree — good signal and shade.",
+    "audio_en_storage_path": "399_by_the_tree_good_signal_and_shade.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101300",
+    "text_pt": "Às vezes eu compartilho a carona.",
+    "text_en": "Sometimes I share the ride.",
+    "audio_en_storage_path": "400_sometimes_i_share_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101301",
+    "text_pt": "Outras vezes vou sozinho — em paz.",
+    "text_en": "Other times I go alone — peaceful.",
+    "audio_en_storage_path": "401_other_times_i_go_alone_peaceful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101302",
+    "text_pt": "Onde fica o ponto de desembarque?",
+    "text_en": "Where is the drop-off point?",
+    "audio_en_storage_path": "402_where_is_the_dropoff_point.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101303",
+    "text_pt": "Perto da fonte — onde as pessoas se reúnem.",
+    "text_en": "Near the fountain — where people gather.",
+    "audio_en_storage_path": "403_near_the_fountain_where_people_gather.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101304",
+    "text_pt": "Quando o motorista chegará?",
+    "text_en": "When will the driver arrive?",
+    "audio_en_storage_path": "404_when_will_the_driver_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101305",
+    "text_pt": "Em cerca de 5 minutos — ele está perto.",
+    "text_en": "In about 5 minutes — he’s close.",
+    "audio_en_storage_path": "405_in_about_5_minutes_hes_close.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101306",
+    "text_pt": "Por que você chamou um Uber hoje?",
+    "text_en": "Why did you call an Uber today?",
+    "audio_en_storage_path": "406_why_did_you_call_an_uber_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101307",
+    "text_pt": "Porque eu não queria carregar malas pesadas.",
+    "text_en": "Because I didn't want to carry heavy bags.",
+    "audio_en_storage_path": "407_because_i_didnt_want_to_carry_heavy_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101308",
+    "text_pt": "Ela usa o Uber para ir ao shopping.",
+    "text_en": "She uses Uber to go to the mall.",
+    "audio_en_storage_path": "408_she_uses_uber_to_go_to_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101309",
+    "text_pt": "Chega sempre relaxado e pronto para fazer compras.",
+    "text_en": "Always arrives relaxed and ready to shop.",
+    "audio_en_storage_path": "409_always_arrives_relaxed_and_ready_to_shop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101310",
+    "text_pt": "Amanhã. Não esquecerei de avaliar o motorista novamente.",
+    "text_en": "Tomorrow. I will not forget to rate the driver again.",
+    "audio_en_storage_path": "410_tomorrow_i_will_not_forget_to_rate_the_driver_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101311",
+    "text_pt": "Deixei em branco da última vez — desculpe.",
+    "text_en": "Left it blank last time — sorry.",
+    "audio_en_storage_path": "411_left_it_blank_last_time_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101312",
+    "text_pt": "Aproveite sua viagem!",
+    "text_en": "Enjoy your trip!",
+    "audio_en_storage_path": "412_enjoy_your_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101313",
+    "text_pt": "Espero que você tenha um ótimo dia aqui dentro.",
+    "text_en": "Hope you have a great day inside.",
+    "audio_en_storage_path": "413_hope_you_have_a_great_day_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

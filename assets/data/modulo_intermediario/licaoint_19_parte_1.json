@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113050",
+    "text_pt": "Mãe – Assistir TV",
+    "text_en": "Mom – Watch TV",
+    "audio_en_storage_path": "3050_mom_watch_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113051",
+    "text_pt": "Ela está na sala assistindo TV.",
+    "text_en": "She is in the living room watching TV.",
+    "audio_en_storage_path": "3051_she_is_in_the_living_room_watching_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113052",
+    "text_pt": "O noticiário está passando e ela toma chá.",
+    "text_en": "The news is on and she drinks tea.",
+    "audio_en_storage_path": "3052_the_news_is_on_and_she_drinks_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113053",
+    "text_pt": "Ela assiste para relaxar depois de um longo dia.",
+    "text_en": "She watches it to relax after a long day.",
+    "audio_en_storage_path": "3053_she_watches_it_to_relax_after_a_long_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113054",
+    "text_pt": "Às vezes ela adormece no sofá.",
+    "text_en": "Sometimes she falls asleep on the couch.",
+    "audio_en_storage_path": "3054_sometimes_she_falls_asleep_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113055",
+    "text_pt": "Seu cobertor é macio e seus olhos estão cansados.",
+    "text_en": "Her blanket is soft and her eyes are tired.",
+    "audio_en_storage_path": "3055_her_blanket_is_soft_and_her_eyes_are_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113056",
+    "text_pt": "A tela mostra manchetes e atualizações meteorológicas.",
+    "text_en": "The screen shows headlines and weather updates.",
+    "audio_en_storage_path": "3056_the_screen_shows_headlines_and_weather_updates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113057",
+    "text_pt": "Há xícaras, controles remotos e revistas por perto.",
+    "text_en": "There are cups. remote controls. and magazines nearby.",
+    "audio_en_storage_path": "3057_there_are_cups_remote_controls_and_magazines_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113058",
+    "text_pt": "E uma pequena lâmpada acendeu.",
+    "text_en": "And a small lamp turned on.",
+    "audio_en_storage_path": "3058_and_a_small_lamp_turned_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113059",
+    "text_pt": "O que sua mãe costuma assistir à noite?",
+    "text_en": "What does your mom usually watch at night?",
+    "audio_en_storage_path": "3059_what_does_your_mom_usually_watch_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113060",
+    "text_pt": "Novelas — ela conhece todos os personagens.",
+    "text_en": "Soap operas — she knows all the characters.",
+    "audio_en_storage_path": "3060_soap_operas_she_knows_all_the_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113061",
+    "text_pt": "Onde ela deixou o controle remoto?",
+    "text_en": "Where did she leave the remote?",
+    "audio_en_storage_path": "3061_where_did_she_leave_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113062",
+    "text_pt": "No apoio de braço, sob a mão dela.",
+    "text_en": "On the armrest—under her hand.",
+    "audio_en_storage_path": "3062_on_the_armrestunder_her_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113063",
+    "text_pt": "Às vezes ela assiste documentários.",
+    "text_en": "Sometimes she watches documentaries.",
+    "audio_en_storage_path": "3063_sometimes_she_watches_documentaries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113064",
+    "text_pt": "Outras vezes ela apenas escuta enquanto cozinha.",
+    "text_en": "Other times she just listens while cooking.",
+    "audio_en_storage_path": "3064_other_times_she_just_listens_while_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113065",
+    "text_pt": "Onde ela está agora?",
+    "text_en": "Where is she now?",
+    "audio_en_storage_path": "3065_where_is_she_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113066",
+    "text_pt": "Na sala de estar — descansando em silêncio.",
+    "text_en": "In the living room — resting quietly.",
+    "audio_en_storage_path": "3066_in_the_living_room_resting_quietly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113067",
+    "text_pt": "Quando ela vai desligar a TV?",
+    "text_en": "When will she turn off the TV?",
+    "audio_en_storage_path": "3067_when_will_she_turn_off_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113068",
+    "text_pt": "Antes da meia-noite — ela não fica acordada até tarde.",
+    "text_en": "Before midnight — she doesn’t stay up late.",
+    "audio_en_storage_path": "3068_before_midnight_she_doesnt_stay_up_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113069",
+    "text_pt": "Por que ela dormiu cedo hoje?",
+    "text_en": "Why did she fall asleep early today?",
+    "audio_en_storage_path": "3069_why_did_she_fall_asleep_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113070",
+    "text_pt": "Porque ela estava cansada do trabalho.",
+    "text_en": "Because she was tired from work.",
+    "audio_en_storage_path": "3070_because_she_was_tired_from_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113071",
+    "text_pt": "Ela sempre assiste alguma coisa antes de dormir.",
+    "text_en": "She always watches something before going to bed.",
+    "audio_en_storage_path": "3071_she_always_watches_something_before_going_to_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113072",
+    "text_pt": "Isso a ajuda a relaxar.",
+    "text_en": "It helps her relax.",
+    "audio_en_storage_path": "3072_it_helps_her_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113073",
+    "text_pt": "Amanhã ela não vai esquecer de carregar o controle remoto novamente.",
+    "text_en": "Tomorrow. she will not forget to charge the remote again.",
+    "audio_en_storage_path": "3073_tomorrow_she_will_not_forget_to_charge_the_remote_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113074",
+    "text_pt": "As baterias acabaram durante o show.",
+    "text_en": "The batteries died during her show.",
+    "audio_en_storage_path": "3074_the_batteries_died_during_her_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113075",
+    "text_pt": "Boa noite. Mãe!",
+    "text_en": "Goodnight. Mom!",
+    "audio_en_storage_path": "3075_goodnight_mom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113076",
+    "text_pt": "Vamos desligar a TV agora.",
+    "text_en": "Let’s leave the TV off now.",
+    "audio_en_storage_path": "3076_lets_leave_the_tv_off_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102757",
+    "text_pt": "Hospital",
+    "text_en": "Hospital",
+    "audio_en_storage_path": "1857_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102758",
+    "text_pt": "O hospital fica no centro da cidade.",
+    "text_en": "The hospital is downtown.",
+    "audio_en_storage_path": "1858_the_hospital_is_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102759",
+    "text_pt": "Grande edifício com placas e luzes vermelhas.",
+    "text_en": "Big building with red signs and lights.",
+    "audio_en_storage_path": "1859_big_building_with_red_signs_and_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102760",
+    "text_pt": "Nós vamos lá para questões sérias e exames.",
+    "text_en": "We go there for serious issues and exams.",
+    "audio_en_storage_path": "1860_we_go_there_for_serious_issues_and_exams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102761",
+    "text_pt": "Ou quando os remédios caseiros não funcionam.",
+    "text_en": "Or when home remedies don’t work.",
+    "audio_en_storage_path": "1861_or_when_home_remedies_dont_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102762",
+    "text_pt": "É branco. moderno. cheio de gente.",
+    "text_en": "It is white. modern. full of people.",
+    "audio_en_storage_path": "1862_it_is_white_modern_full_of_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102763",
+    "text_pt": "Cadeiras de espera fazem fila na porta.",
+    "text_en": "Waiting chairs line up by the door.",
+    "audio_en_storage_path": "1863_waiting_chairs_line_up_by_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102764",
+    "text_pt": "Há camas. telas e linhas intravenosas lá dentro.",
+    "text_en": "There are beds. screens. and IV lines inside.",
+    "audio_en_storage_path": "1864_there_are_beds_screens_and_iv_lines_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102765",
+    "text_pt": "E médicos de uniforme azul.",
+    "text_en": "And doctors in blue uniforms.",
+    "audio_en_storage_path": "1865_and_doctors_in_blue_uniforms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102766",
+    "text_pt": "Por que você foi ao hospital?",
+    "text_en": "Why did you go to the hospital?",
+    "audio_en_storage_path": "1866_why_did_you_go_to_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102767",
+    "text_pt": "Porque eu não conseguia respirar bem.",
+    "text_en": "Because I couldn’t breathe well.",
+    "audio_en_storage_path": "1867_because_i_couldnt_breathe_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102768",
+    "text_pt": "Onde fica o pronto-socorro mais próximo?",
+    "text_en": "Where is the nearest emergency room?",
+    "audio_en_storage_path": "1868_where_is_the_nearest_emergency_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102769",
+    "text_pt": "Dois quarteirões à frente — siga as placas.",
+    "text_en": "Two blocks ahead — follow the signs.",
+    "audio_en_storage_path": "1869_two_blocks_ahead_follow_the_signs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102770",
+    "text_pt": "Às vezes entramos.",
+    "text_en": "Sometimes we walk in.",
+    "audio_en_storage_path": "1870_sometimes_we_walk_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102771",
+    "text_pt": "Outras vezes chegamos de ambulância.",
+    "text_en": "Other times we arrive by ambulance.",
+    "audio_en_storage_path": "1871_other_times_we_arrive_by_ambulance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102772",
+    "text_pt": "Onde você deixou seu documento de identidade?",
+    "text_en": "Where did you leave your ID?",
+    "audio_en_storage_path": "1872_where_did_you_leave_your_id.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102773",
+    "text_pt": "Na minha bolsa — pronto para o registro.",
+    "text_en": "In my bag — ready for registration.",
+    "audio_en_storage_path": "1873_in_my_bag_ready_for_registration.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102774",
+    "text_pt": "Quando você verá o médico?",
+    "text_en": "When will you see the doctor?",
+    "audio_en_storage_path": "1874_when_will_you_see_the_doctor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102775",
+    "text_pt": "Em cerca de uma hora — a lista de espera é longa.",
+    "text_en": "In about an hour — waiting list is long.",
+    "audio_en_storage_path": "1875_in_about_an_hour_waiting_list_is_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102776",
+    "text_pt": "Por que você esperou tanto hoje?",
+    "text_en": "Why did you wait so long today?",
+    "audio_en_storage_path": "1876_why_did_you_wait_so_long_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102777",
+    "text_pt": "Porque estava cheio e com poucos funcionários.",
+    "text_en": "Because it was busy and understaffed.",
+    "audio_en_storage_path": "1877_because_it_was_busy_and_understaffed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102778",
+    "text_pt": "Ela vai ao hospital uma vez por ano.",
+    "text_en": "She goes to the hospital once a year.",
+    "audio_en_storage_path": "1878_she_goes_to_the_hospital_once_a_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102779",
+    "text_pt": "Para check-ups e exames de sangue.",
+    "text_en": "For check-ups and blood tests.",
+    "audio_en_storage_path": "1879_for_checkups_and_blood_tests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102780",
+    "text_pt": "Amanhã não esquecerei de trazer meus documentos novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my documents again.",
+    "audio_en_storage_path": "1880_tomorrow_i_will_not_forget_to_bring_my_documents_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102781",
+    "text_pt": "Deixei-os em casa da última vez.",
+    "text_en": "Left them at home last time.",
+    "audio_en_storage_path": "1881_left_them_at_home_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102782",
+    "text_pt": "Fique calmo!",
+    "text_en": "Stay calm!",
+    "audio_en_storage_path": "1882_stay_calm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102783",
+    "text_pt": "A ajuda está chegando — só espere sua vez.",
+    "text_en": "Help is coming — just wait your turn.",
+    "audio_en_storage_path": "1883_help_is_coming_just_wait_your_turn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111214",
+    "text_pt": "Lanche / Lanche rápido antes do almoço",
+    "text_en": "Snack / Quick bite before lunch",
+    "audio_en_storage_path": "1214_snack_quick_bite_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111215",
+    "text_pt": "Sinto fome antes do almoço.",
+    "text_en": "I feel hungry before lunch.",
+    "audio_en_storage_path": "1215_i_feel_hungry_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111216",
+    "text_pt": "Pego uma maçã ou alguns biscoitos.",
+    "text_en": "I grab an apple or some crackers.",
+    "audio_en_storage_path": "1216_i_grab_an_apple_or_some_crackers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111217",
+    "text_pt": "Abro a geladeira e olho dentro.",
+    "text_en": "I open the fridge and look inside.",
+    "audio_en_storage_path": "1217_i_open_the_fridge_and_look_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111218",
+    "text_pt": "Tem queijo, iogurte e frutas.",
+    "text_en": "There's cheese. yogurt. and fruit.",
+    "audio_en_storage_path": "1218_theres_cheese_yogurt_and_fruit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111219",
+    "text_pt": "O lanche é pequeno, mas saboroso.",
+    "text_en": "The snack is small but tasty.",
+    "audio_en_storage_path": "1219_the_snack_is_small_but_tasty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111220",
+    "text_pt": "Apenas o suficiente para esperar o almoço.",
+    "text_en": "Just enough to wait for lunch.",
+    "audio_en_storage_path": "1220_just_enough_to_wait_for_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111221",
+    "text_pt": "Sento-me no sofá e como em silêncio.",
+    "text_en": "I sit on the couch and eat quietly.",
+    "audio_en_storage_path": "1221_i_sit_on_the_couch_and_eat_quietly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111222",
+    "text_pt": "Ou eu ando por aí com uma banana.",
+    "text_en": "Or I walk around with a banana.",
+    "audio_en_storage_path": "1222_or_i_walk_around_with_a_banana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111223",
+    "text_pt": "O que você come entre as refeições?",
+    "text_en": "What do you eat between meals?",
+    "audio_en_storage_path": "1223_what_do_you_eat_between_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111224",
+    "text_pt": "Geralmente nozes ou um sanduíche pequeno.",
+    "text_en": "Usually nuts or a small sandwich.",
+    "audio_en_storage_path": "1224_usually_nuts_or_a_small_sandwich.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111225",
+    "text_pt": "Onde você guarda lanches em casa?",
+    "text_en": "Where do you keep snacks at home?",
+    "audio_en_storage_path": "1225_where_do_you_keep_snacks_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111226",
+    "text_pt": "Na despensa, ao lado do cereal.",
+    "text_en": "In the pantry. next to the cereal.",
+    "audio_en_storage_path": "1226_in_the_pantry_next_to_the_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111227",
+    "text_pt": "Às vezes como um biscoito. Às vezes como uma banana.",
+    "text_en": "Sometimes I eat a cookie. sometimes banana.",
+    "audio_en_storage_path": "1227_sometimes_i_eat_a_cookie_sometimes_banana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111228",
+    "text_pt": "Depende do que eu encontrar primeiro.",
+    "text_en": "It depends on what I find first.",
+    "audio_en_storage_path": "1228_it_depends_on_what_i_find_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111229",
+    "text_pt": "Onde você deixou seu lanche?",
+    "text_en": "Where did you leave your snack?",
+    "audio_en_storage_path": "1229_where_did_you_leave_your_snack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111230",
+    "text_pt": "No balcão — perto das bananas.",
+    "text_en": "On the counter — near the bananas.",
+    "audio_en_storage_path": "1230_on_the_counter_near_the_bananas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111231",
+    "text_pt": "Quando você vai comer de novo?",
+    "text_en": "When will you eat again?",
+    "audio_en_storage_path": "1231_when_will_you_eat_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111232",
+    "text_pt": "Em cerca de uma hora — quando o almoço estiver pronto.",
+    "text_en": "In about one hour — when lunch is ready.",
+    "audio_en_storage_path": "1232_in_about_one_hour_when_lunch_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111233",
+    "text_pt": "Por que você comeu tão cedo hoje?",
+    "text_en": "Why did you eat so early today?",
+    "audio_en_storage_path": "1233_why_did_you_eat_so_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111234",
+    "text_pt": "Porque eu estava com muita fome.",
+    "text_en": "Because I was really hungry.",
+    "audio_en_storage_path": "1234_because_i_was_really_hungry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111235",
+    "text_pt": "Eu como um pouco antes do almoço todos os dias.",
+    "text_en": "I eat a little before lunch every day.",
+    "audio_en_storage_path": "1235_i_eat_a_little_before_lunch_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111236",
+    "text_pt": "Isso mantém minha energia alta.",
+    "text_en": "It keeps my energy up.",
+    "audio_en_storage_path": "1236_it_keeps_my_energy_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111237",
+    "text_pt": "Amanhã. Não comerei muito antes do almoço.",
+    "text_en": "Tomorrow. I will not eat too much before lunch.",
+    "audio_en_storage_path": "1237_tomorrow_i_will_not_eat_too_much_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111238",
+    "text_pt": "Não quero estragar meu apetite.",
+    "text_en": "I don't want to spoil my appetite.",
+    "audio_en_storage_path": "1238_i_dont_want_to_spoil_my_appetite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111239",
+    "text_pt": "Tomar cuidado!",
+    "text_en": "Take care!",
+    "audio_en_storage_path": "1239_take_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111240",
+    "text_pt": "Coma lanches saudáveis.",
+    "text_en": "Eat healthy snacks.",
+    "audio_en_storage_path": "1240_eat_healthy_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

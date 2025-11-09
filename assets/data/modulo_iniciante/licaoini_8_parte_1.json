@@ -1,0 +1,335 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100996",
+    "text_pt": "Quando sai o primeiro ônibus?",
+    "text_en": "When does the first bus leave?",
+    "audio_en_storage_path": "096_when_does_the_first_bus_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100997",
+    "text_pt": "Às 7h00 — somente para madrugadores.",
+    "text_en": "At 7:00 AM — early birds only.",
+    "audio_en_storage_path": "097_at_700_am_early_birds_only.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100998",
+    "text_pt": "Por que você escolheu essa rota hoje?",
+    "text_en": "Why did you choose this route today?",
+    "audio_en_storage_path": "098_why_did_you_choose_this_route_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100999",
+    "text_pt": "Porque o outro caminho estava bloqueado por uma construção.",
+    "text_en": "Because the other way was blocked by construction.",
+    "audio_en_storage_path": "099_because_the_other_way_was_blocked_by_construction.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101000",
+    "text_pt": "Ela vai ao shopping toda semana.",
+    "text_en": "She walks to the mall every week.",
+    "audio_en_storage_path": "100_she_walks_to_the_mall_every_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101001",
+    "text_pt": "Conhece cada curva e atalho.",
+    "text_en": "Knows every turn and shortcut.",
+    "audio_en_storage_path": "101_knows_every_turn_and_shortcut.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101002",
+    "text_pt": "Amanhã. Não esquecerei de conferir a programação novamente.",
+    "text_en": "Tomorrow. I will not forget to check the schedule again.",
+    "audio_en_storage_path": "102_tomorrow_i_will_not_forget_to_check_the_schedule_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101003",
+    "text_pt": "Perdi o ônibus da última vez.",
+    "text_en": "Missed the bus last time.",
+    "audio_en_storage_path": "103_missed_the_bus_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101004",
+    "text_pt": "Peça ajuda se não tiver certeza!",
+    "text_en": "Ask for help if unsure!",
+    "audio_en_storage_path": "104_ask_for_help_if_unsure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101005",
+    "text_pt": "É melhor prevenir do que remediar.",
+    "text_en": "Better safe than lost.",
+    "audio_en_storage_path": "105_better_safe_than_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101006",
+    "text_pt": "Como chegar ao shopping – Direções com carro",
+    "text_en": "How to get to the mall – Driving directions",
+    "audio_en_storage_path": "106_how_to_get_to_the_mall_driving_directions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101007",
+    "text_pt": "Comece no semáforo perto da escola.",
+    "text_en": "Start at the traffic light near the school.",
+    "audio_en_storage_path": "107_start_at_the_traffic_light_near_the_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101008",
+    "text_pt": "Siga em frente e siga as placas para o shopping.",
+    "text_en": "Go straight and follow signs to the mall.",
+    "audio_en_storage_path": "108_go_straight_and_follow_signs_to_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101009",
+    "text_pt": "Dirija por 3 minutos até chegar à Oak Street.",
+    "text_en": "Drive for 3 minutes until you reach Oak Street.",
+    "audio_en_storage_path": "109_drive_for_3_minutes_until_you_reach_oak_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101010",
+    "text_pt": "Há uma farmácia na esquina — vire à esquerda.",
+    "text_en": "There’s a pharmacy on the corner — turn left.",
+    "audio_en_storage_path": "110_theres_a_pharmacy_on_the_corner_turn_left.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101011",
+    "text_pt": "Depois de cinco quarteirões. você verá uma rotatória à frente.",
+    "text_en": "After five blocks. you’ll see a roundabout ahead.",
+    "audio_en_storage_path": "111_after_five_blocks_youll_see_a_roundabout_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101012",
+    "text_pt": "Pegue a terceira saída em direção ao centro da cidade.",
+    "text_en": "Take the third exit toward Downtown.",
+    "audio_en_storage_path": "112_take_the_third_exit_toward_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101013",
+    "text_pt": "O shopping center fica à sua direita.",
+    "text_en": "The shopping center is on your right.",
+    "audio_en_storage_path": "113_the_shopping_center_is_on_your_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101014",
+    "text_pt": "Grande área de estacionamento com placas azuis.",
+    "text_en": "Big parking area with blue signs.",
+    "audio_en_storage_path": "114_big_parking_area_with_blue_signs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101015",
+    "text_pt": "Em que rua devo entrar?",
+    "text_en": "What street should I turn into?",
+    "audio_en_storage_path": "115_what_street_should_i_turn_into.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101016",
+    "text_pt": "Oak Street — depois de passar pelo posto de gasolina.",
+    "text_en": "Oak Street — after passing the gas station.",
+    "audio_en_storage_path": "116_oak_street_after_passing_the_gas_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101017",
+    "text_pt": "Onde fica a rotatória?",
+    "text_en": "Where is the roundabout?",
+    "audio_en_storage_path": "117_where_is_the_roundabout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101018",
+    "text_pt": "Depois do supermercado — continue em frente.",
+    "text_en": "After the supermarket — keep going straight.",
+    "audio_en_storage_path": "118_after_the_supermarket_keep_going_straight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101019",
+    "text_pt": "Às vezes as pessoas perdem a saída.",
+    "text_en": "Sometimes people miss the exit.",
+    "audio_en_storage_path": "119_sometimes_people_miss_the_exit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101020",
+    "text_pt": "Outras vezes eles pegam o caminho errado.",
+    "text_en": "Other times they take a wrong turn.",
+    "audio_en_storage_path": "120_other_times_they_take_a_wrong_turn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101021",
+    "text_pt": "Onde devo fazer o retorno se eu for longe demais?",
+    "text_en": "Where do I make the U-turn if I go too far?",
+    "audio_en_storage_path": "121_where_do_i_make_the_uturn_if_i_go_too_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101022",
+    "text_pt": "Na próxima ponte — seguro e legal.",
+    "text_en": "At the next bridge — safe and legal.",
+    "audio_en_storage_path": "122_at_the_next_bridge_safe_and_legal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101023",
+    "text_pt": "Quando chegarei se eu sair agora?",
+    "text_en": "When will I arrive if I leave now?",
+    "audio_en_storage_path": "123_when_will_i_arrive_if_i_leave_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101024",
+    "text_pt": "Em cerca de 18 minutos — sem trânsito hoje.",
+    "text_en": "In about 18 minutes — no traffic today.",
+    "audio_en_storage_path": "124_in_about_18_minutes_no_traffic_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101025",
+    "text_pt": "Por que você escolheu esse caminho?",
+    "text_en": "Why did you choose this route?",
+    "audio_en_storage_path": "125_why_did_you_choose_this_route.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101026",
+    "text_pt": "Porque evita trânsito e obras.",
+    "text_en": "Because it avoids traffic and construction.",
+    "audio_en_storage_path": "126_because_it_avoids_traffic_and_construction.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101027",
+    "text_pt": "Ele dirige até lá todo fim de semana.",
+    "text_en": "He drives there every weekend.",
+    "audio_en_storage_path": "127_he_drives_there_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101028",
+    "text_pt": "Sempre segue o mesmo caminho — sabe bem disso.",
+    "text_en": "Always takes the same way — knows it well.",
+    "audio_en_storage_path": "128_always_takes_the_same_way_knows_it_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101029",
+    "text_pt": "Amanhã. Não esquecerei de conferir o mapa novamente.",
+    "text_en": "Tomorrow. I will not forget to check the map again.",
+    "audio_en_storage_path": "129_tomorrow_i_will_not_forget_to_check_the_map_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101030",
+    "text_pt": "Me perdi da última vez sem saber o caminho.",
+    "text_en": "Got lost last time without directions.",
+    "audio_en_storage_path": "130_got_lost_last_time_without_directions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101031",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "131_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101032",
+    "text_pt": "Cuidado com os pedestres perto das faixas de pedestres.",
+    "text_en": "Watch for pedestrians near crosswalks.",
+    "audio_en_storage_path": "132_watch_for_pedestrians_near_crosswalks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

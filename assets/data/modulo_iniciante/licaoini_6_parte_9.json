@@ -1,0 +1,182 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101388",
+    "text_pt": "🧭 Mais um exemplo de diálogo – Confirmação",
+    "text_en": "🧭 Another example of dialogue – Confirmation",
+    "audio_en_storage_path": "488_another_example_of_dialogue_confirmation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101389",
+    "text_pt": "Como chego ao shopping?",
+    "text_en": "How do I get to the shopping center?",
+    "audio_en_storage_path": "489_how_do_i_get_to_the_shopping_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101390",
+    "text_pt": "Claro!",
+    "text_en": "Sure!",
+    "audio_en_storage_path": "490_sure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101391",
+    "text_pt": "A partir daqui. siga em frente pela Oak Avenue.",
+    "text_en": "From here. go straight on Oak Avenue.",
+    "audio_en_storage_path": "491_from_here_go_straight_on_oak_avenue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101392",
+    "text_pt": "Depois de três quarteirões. vire à direita nos correios.",
+    "text_en": "After three blocks. turn right at the post office.",
+    "audio_en_storage_path": "492_after_three_blocks_turn_right_at_the_post_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101393",
+    "text_pt": "Continue até ver uma rotatória.",
+    "text_en": "Keep going until you see a roundabout.",
+    "audio_en_storage_path": "493_keep_going_until_you_see_a_roundabout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101394",
+    "text_pt": "Pegue a quarta saída e continue dirigindo.",
+    "text_en": "Take the fourth exit and keep driving.",
+    "audio_en_storage_path": "494_take_the_fourth_exit_and_keep_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101395",
+    "text_pt": "Você verá o shopping à sua esquerda — uma grande área de estacionamento.",
+    "text_en": "You’ll see the mall on your left — big parking area.",
+    "audio_en_storage_path": "495_youll_see_the_mall_on_your_left_big_parking_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101396",
+    "text_pt": "Deixe-me ver se entendi direito…",
+    "text_en": "Let me see if I got this right…",
+    "audio_en_storage_path": "496_let_me_see_if_i_got_this_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101397",
+    "text_pt": "Começo na Oak Avenue. Viro à direita depois de três quarteirões.",
+    "text_en": "I start on Oak Avenue. turn right after three blocks.",
+    "audio_en_storage_path": "497_i_start_on_oak_avenue_turn_right_after_three_blocks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101398",
+    "text_pt": "Depois pego a quarta saída na rotatória.",
+    "text_en": "Then I take the fourth exit at the roundabout.",
+    "audio_en_storage_path": "498_then_i_take_the_fourth_exit_at_the_roundabout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101399",
+    "text_pt": "E o shopping fica à minha esquerda — amplo estacionamento.",
+    "text_en": "And the mall is on my left — big parking space.",
+    "audio_en_storage_path": "499_and_the_mall_is_on_my_left_big_parking_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101400",
+    "text_pt": "Correto?",
+    "text_en": "Correct?",
+    "audio_en_storage_path": "500_correct.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101401",
+    "text_pt": "Perfeito!",
+    "text_en": "Perfect!",
+    "audio_en_storage_path": "501_perfect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101402",
+    "text_pt": "Mas se você vir a delegacia de polícia. você foi longe demais.",
+    "text_en": "But if you see the police station. you've gone too far.",
+    "audio_en_storage_path": "502_but_if_you_see_the_police_station_youve_gone_too_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101403",
+    "text_pt": "Amanhã. Não esquecerei de prestar atenção novamente.",
+    "text_en": "Tomorrow. I will not forget to pay attention again.",
+    "audio_en_storage_path": "503_tomorrow_i_will_not_forget_to_pay_attention_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101404",
+    "text_pt": "Quase perdi a curva ontem.",
+    "text_en": "Almost missed the turn yesterday.",
+    "audio_en_storage_path": "504_almost_missed_the_turn_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101405",
+    "text_pt": "Conselho final:",
+    "text_en": "Final advice:",
+    "audio_en_storage_path": "505_final_advice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101406",
+    "text_pt": "Você está indo muito bem!",
+    "text_en": "You’re doing great!",
+    "audio_en_storage_path": "506_youre_doing_great.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101407",
+    "text_pt": "Aproveite suas compras — e tire fotos se quiser.",
+    "text_en": "Enjoy your shopping — and take photos if you like.",
+    "audio_en_storage_path": "507_enjoy_your_shopping_and_take_photos_if_you_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

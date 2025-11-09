@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103459",
+    "text_pt": "Pronto Socorro",
+    "text_en": "Emergency Room",
+    "audio_en_storage_path": "2559_emergency_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103460",
+    "text_pt": "O pronto-socorro fica no hospital principal.",
+    "text_en": "The ER is in the main hospital.",
+    "audio_en_storage_path": "2560_the_er_is_in_the_main_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103461",
+    "text_pt": "Aberto dia e noite — sempre movimentado.",
+    "text_en": "Open all day and night — always busy.",
+    "audio_en_storage_path": "2561_open_all_day_and_night_always_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103462",
+    "text_pt": "Nós vamos lá para tratar de questões sérias.",
+    "text_en": "We go there for serious issues.",
+    "audio_en_storage_path": "2562_we_go_there_for_serious_issues.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103463",
+    "text_pt": "Ou quando não podemos esperar por ajuda.",
+    "text_en": "Or when we can’t wait for help.",
+    "audio_en_storage_path": "2563_or_when_we_cant_wait_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103464",
+    "text_pt": "O lugar está cheio de pessoas e sons.",
+    "text_en": "The place is filled with people and sounds.",
+    "audio_en_storage_path": "2564_the_place_is_filled_with_people_and_sounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103465",
+    "text_pt": "As TVs transmitem notícias e música suave.",
+    "text_en": "TVs play news and soft music.",
+    "audio_en_storage_path": "2565_tvs_play_news_and_soft_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103466",
+    "text_pt": "Há monitores. enfermeiros e cadeiras de rodas por perto.",
+    "text_en": "There are monitors. nurses. and wheelchairs around.",
+    "audio_en_storage_path": "2566_there_are_monitors_nurses_and_wheelchairs_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103467",
+    "text_pt": "E placas mostrando para onde ir.",
+    "text_en": "And signs showing where to go.",
+    "audio_en_storage_path": "2567_and_signs_showing_where_to_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103468",
+    "text_pt": "O que trouxe você ao pronto-socorro?",
+    "text_en": "What brought you to the ER?",
+    "audio_en_storage_path": "2568_what_brought_you_to_the_er.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103469",
+    "text_pt": "Dor de estômago e febre alta.",
+    "text_en": "Stomach pain and high fever.",
+    "audio_en_storage_path": "2569_stomach_pain_and_high_fever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103470",
+    "text_pt": "Aonde você vai em emergências reais?",
+    "text_en": "Where do you go for real emergencies?",
+    "audio_en_storage_path": "2570_where_do_you_go_for_real_emergencies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103471",
+    "text_pt": "Pronto Socorro São Lucas — melhor atendimento da cidade.",
+    "text_en": "São Lucas ER — best service in town.",
+    "audio_en_storage_path": "2571_sao_lucas_er_best_service_in_town.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103472",
+    "text_pt": "Às vezes nós mesmos dirigimos.",
+    "text_en": "Sometimes we drive ourselves.",
+    "audio_en_storage_path": "2572_sometimes_we_drive_ourselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103473",
+    "text_pt": "Outras vezes chamamos uma ambulância.",
+    "text_en": "Other times we call an ambulance.",
+    "audio_en_storage_path": "2573_other_times_we_call_an_ambulance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103474",
+    "text_pt": "Onde você deixou sua jaqueta?",
+    "text_en": "Where did you leave your jacket?",
+    "audio_en_storage_path": "2574_where_did_you_leave_your_jacket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103475",
+    "text_pt": "Na área de espera — perto da saída.",
+    "text_en": "In the waiting area — near the exit.",
+    "audio_en_storage_path": "2575_in_the_waiting_area_near_the_exit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103476",
+    "text_pt": "Quando eles vão te ver?",
+    "text_en": "When will they see you?",
+    "audio_en_storage_path": "2576_when_will_they_see_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103477",
+    "text_pt": "Em cerca de 45 minutos — a fila é longa hoje.",
+    "text_en": "In about 45 minutes — long line today.",
+    "audio_en_storage_path": "2577_in_about_45_minutes_long_line_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103478",
+    "text_pt": "Por que você veio aqui em vez de ir ao pronto-socorro?",
+    "text_en": "Why did you come here instead of urgent care?",
+    "audio_en_storage_path": "2578_why_did_you_come_here_instead_of_urgent_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103479",
+    "text_pt": "Porque eu não conseguia respirar direito.",
+    "text_en": "Because I couldn’t breathe properly.",
+    "audio_en_storage_path": "2579_because_i_couldnt_breathe_properly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103480",
+    "text_pt": "Ele conhece bem a equipe do pronto-socorro.",
+    "text_en": "He knows the ER team well.",
+    "audio_en_storage_path": "2580_he_knows_the_er_team_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103481",
+    "text_pt": "Vem aqui com frequência para crises de asma.",
+    "text_en": "Comes here often for asthma attacks.",
+    "audio_en_storage_path": "2581_comes_here_often_for_asthma_attacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103482",
+    "text_pt": "Amanhã não vou esquecer de salvar novamente os números de emergência.",
+    "text_en": "Tomorrow. I will not forget to save emergency numbers again.",
+    "audio_en_storage_path": "2582_tomorrow_i_will_not_forget_to_save_emergency_numbers_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103483",
+    "text_pt": "Não os tinha ontem — tive sorte.",
+    "text_en": "Didn’t have them yesterday — got lucky.",
+    "audio_en_storage_path": "2583_didnt_have_them_yesterday_got_lucky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103484",
+    "text_pt": "Não espere muito tempo!",
+    "text_en": "Don’t wait too long!",
+    "audio_en_storage_path": "2584_dont_wait_too_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103485",
+    "text_pt": "O atendimento precoce economiza tempo e estresse.",
+    "text_en": "Early care saves time and stress.",
+    "audio_en_storage_path": "2585_early_care_saves_time_and_stress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

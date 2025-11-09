@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120091",
+    "text_pt": "A segurança me disse que eu não poderia levar isso na minha bagagem de mão",
+    "text_en": "Security told me I couldn’t bring this in my carry-on",
+    "audio_en_storage_path": "091_security_told_me_i_couldnt_bring_this_in_my_carryon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120092",
+    "text_pt": "A segurança disse que eu não poderia levar isso na minha bagagem de mão",
+    "text_en": "Security said I couldn’t pack that in my carry-on",
+    "audio_en_storage_path": "092_security_said_i_couldnt_pack_that_in_my_carryon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120093",
+    "text_pt": "Esqueci que meu carregador ainda estava na minha bolsa",
+    "text_en": "I forgot my charger was still in my bag",
+    "audio_en_storage_path": "093_i_forgot_my_charger_was_still_in_my_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120094",
+    "text_pt": "Esqueci completamente que o carregador do meu telefone estava lá",
+    "text_en": "Totally forgot my phone charger was in there",
+    "audio_en_storage_path": "094_totally_forgot_my_phone_charger_was_in_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120095",
+    "text_pt": "Certifique-se de manter seu passaporte à mão para a alfândega",
+    "text_en": "Make sure you keep your passport handy for customs",
+    "audio_en_storage_path": "095_make_sure_you_keep_your_passport_handy_for_customs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120096",
+    "text_pt": "Mantenha seu passaporte por perto para quando eles verificarem",
+    "text_en": "Keep your passport close for when they check",
+    "audio_en_storage_path": "096_keep_your_passport_close_for_when_they_check.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120097",
+    "text_pt": "Eles me perguntaram se eu estava carregando algum líquido ou gel",
+    "text_en": "They asked me if I was carrying any liquids or gels",
+    "audio_en_storage_path": "097_they_asked_me_if_i_was_carrying_any_liquids_or_gels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120098",
+    "text_pt": "Eles queriam saber se eu tinha algum líquido ou gel",
+    "text_en": "They wanted to know if I had any liquids or gel stuff",
+    "audio_en_storage_path": "098_they_wanted_to_know_if_i_had_any_liquids_or_gel_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120099",
+    "text_pt": "Tive que abrir minha mala para inspeção",
+    "text_en": "I had to open my suitcase for inspection",
+    "audio_en_storage_path": "099_i_had_to_open_my_suitcase_for_inspection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120100",
+    "text_pt": "Tive que abrir minha bolsa para dar uma olhada completa",
+    "text_en": "Had to pop my bag open for a full look",
+    "audio_en_storage_path": "100_had_to_pop_my_bag_open_for_a_full_look.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120101",
+    "text_pt": "O oficial me perguntou o que eu estava trazendo para o país",
+    "text_en": "The officer asked me what I was bringing into the country",
+    "audio_en_storage_path": "101_the_officer_asked_me_what_i_was_bringing_into_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120102",
+    "text_pt": "O cara da fronteira perguntou o que eu estava levando comigo",
+    "text_en": "Border guy asked what I was bringin’ in with me",
+    "audio_en_storage_path": "102_border_guy_asked_what_i_was_bringin_in_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120103",
+    "text_pt": "Você se lembrou de declarar seus alimentos?",
+    "text_en": "Did you remember to declare your food items?",
+    "audio_en_storage_path": "103_did_you_remember_to_declare_your_food_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120104",
+    "text_pt": "Você marcou sua comida no formulário?",
+    "text_en": "Did you mark your food on the form?",
+    "audio_en_storage_path": "104_did_you_mark_your_food_on_the_form.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120105",
+    "text_pt": "Eles me enviaram pelo scanner novamente",
+    "text_en": "They sent me through the scanner again",
+    "audio_en_storage_path": "105_they_sent_me_through_the_scanner_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120106",
+    "text_pt": "Me fez passar pelo detector de metais duas vezes",
+    "text_en": "Made me walk through the metal detector twice",
+    "audio_en_storage_path": "106_made_me_walk_through_the_metal_detector_twice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120107",
+    "text_pt": "Minha mala foi sinalizada e eles a revistaram manualmente",
+    "text_en": "My bag got flagged and they searched it manually",
+    "audio_en_storage_path": "107_my_bag_got_flagged_and_they_searched_it_manually.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120108",
+    "text_pt": "A sacola apitou e eles a examinaram manualmente",
+    "text_en": "Bag beeped and they went through it by hand",
+    "audio_en_storage_path": "108_bag_beeped_and_they_went_through_it_by_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120109",
+    "text_pt": "Quase perdi meu voo por causa da alfândega",
+    "text_en": "I almost missed my flight because of customs",
+    "audio_en_storage_path": "109_i_almost_missed_my_flight_because_of_customs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120110",
+    "text_pt": "Quase perdi meu avião porque a alfândega demorou uma eternidade",
+    "text_en": "Almost missed my plane ‘cause customs took forever",
+    "audio_en_storage_path": "110_almost_missed_my_plane_cause_customs_took_forever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120111",
+    "text_pt": "Após o pouso, tivemos que esperar a chegada das escadas",
+    "text_en": "After landing. we had to wait for the stairs to arrive",
+    "audio_en_storage_path": "111_after_landing_we_had_to_wait_for_the_stairs_to_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120112",
+    "text_pt": "Depois de pousar, esperamos os passos chegarem",
+    "text_en": "After touchin’ down. we waited for the steps to come",
+    "audio_en_storage_path": "112_after_touchin_down_we_waited_for_the_steps_to_come.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120113",
+    "text_pt": "Peguei minha mala na esteira de bagagens",
+    "text_en": "I picked up my suitcase from the baggage claim",
+    "audio_en_storage_path": "113_i_picked_up_my_suitcase_from_the_baggage_claim.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120114",
+    "text_pt": "Peguei minha bolsa no carrossel lá embaixo",
+    "text_en": "Grabbed my bag from the carousel downstairs",
+    "audio_en_storage_path": "114_grabbed_my_bag_from_the_carousel_downstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120115",
+    "text_pt": "As placas de saída ficam logo após os portões de desembarque",
+    "text_en": "The exit signs are right past the arrival gates",
+    "audio_en_storage_path": "115_the_exit_signs_are_right_past_the_arrival_gates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120116",
+    "text_pt": "A saída é logo depois daquelas grandes portas de chegada",
+    "text_en": "Way out’s just past those big arrival doors",
+    "audio_en_storage_path": "116_way_outs_just_past_those_big_arrival_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120117",
+    "text_pt": "Tome cuidado e aproveite seu tempo aqui",
+    "text_en": "Take care and enjoy your time here",
+    "audio_en_storage_path": "117_take_care_and_enjoy_your_time_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

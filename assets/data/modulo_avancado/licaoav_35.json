@@ -1,0 +1,434 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133155",
+    "text_pt": "O Brasil tem uma das culturas mais ricas e diversas do mundo.",
+    "text_en": "Brazil has one of the richest and most diverse cultures in the world.",
+    "audio_en_storage_path": "534_brazil_has_one_of_the_richest_and_most_diverse_cultures_in_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133156",
+    "text_pt": "É moldada pela influência das tradições indígenas, africanas e europeias.",
+    "text_en": "It is shaped by the influence of Indigenous. African. and European traditions.",
+    "audio_en_storage_path": "535_it_is_shaped_by_the_influence_of_indigenous_african_and_european_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133157",
+    "text_pt": "A história de imigração do país também trouxe elementos asiáticos e do Oriente Médio.",
+    "text_en": "The country’s history of immigration also brought Asian and Middle Eastern elements.",
+    "audio_en_storage_path": "536_the_countrys_history_of_immigration_also_brought_asian_and_middle_eastern_elements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133158",
+    "text_pt": "A música desempenha um papel central na cultura brasileira, com muitos estilos e ritmos únicos.",
+    "text_en": "Music plays a central role in Brazilian culture. with many unique styles and rhythms.",
+    "audio_en_storage_path": "537_music_plays_a_central_role_in_brazilian_culture_with_many_unique_styles_and_rhythms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133159",
+    "text_pt": "Samba. bossa nova. forró. sertanejo. e funk são apenas alguns dos gêneros musicais populares.",
+    "text_en": "Samba. bossa nova. forró. sertanejo. and funk are just some of the popular music genres.",
+    "audio_en_storage_path": "538_samba_bossa_nova_forro_sertanejo_and_funk_are_just_some_of_the_popular_music_genres.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133160",
+    "text_pt": "O Carnaval é a festa mais famosa do Brasil, conhecida por seus desfiles coloridos e animadas festas de rua.",
+    "text_en": "Carnival is Brazil’s most famous festival. known for its colorful parades and lively street parties.",
+    "audio_en_storage_path": "539_carnival_is_brazils_most_famous_festival_known_for_its_colorful_parades_and_lively_street_parties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133161",
+    "text_pt": "Cada região celebra o Carnaval de uma forma diferente, mostrando tradições e danças locais.",
+    "text_en": "Each region celebrates Carnival differently. showing local traditions and dances.",
+    "audio_en_storage_path": "540_each_region_celebrates_carnival_differently_showing_local_traditions_and_dances.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133162",
+    "text_pt": "A dança é uma parte importante da expressão cultural no Brasil.",
+    "text_en": "Dance is an important part of cultural expression in Brazil.",
+    "audio_en_storage_path": "541_dance_is_an_important_part_of_cultural_expression_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133163",
+    "text_pt": "A capoeira combina dança, artes marciais e música e tem raízes africanas.",
+    "text_en": "Capoeira combines dance. martial arts. and music. and has African roots.",
+    "audio_en_storage_path": "542_capoeira_combines_dance_martial_arts_and_music_and_has_african_roots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133164",
+    "text_pt": "É reconhecido como um símbolo cultural e nacional do Brasil.",
+    "text_en": "It is recognized as both a cultural and national symbol of Brazil.",
+    "audio_en_storage_path": "543_it_is_recognized_as_both_a_cultural_and_national_symbol_of_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133165",
+    "text_pt": "Festivais como a Festa Junina celebram a vida rural e as tradições portuguesas.",
+    "text_en": "Festivals like Festa Junina celebrate rural life and Portuguese traditions.",
+    "audio_en_storage_path": "544_festivals_like_festa_junina_celebrate_rural_life_and_portuguese_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133166",
+    "text_pt": "Essas festas juninas incluem comidas típicas, danças folclóricas e roupas especiais.",
+    "text_en": "These June festivals include typical food. folk dances. and special clothing.",
+    "audio_en_storage_path": "545_these_june_festivals_include_typical_food_folk_dances_and_special_clothing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133167",
+    "text_pt": "A comida é outra parte essencial da cultura brasileira.",
+    "text_en": "Food is another essential part of Brazilian culture.",
+    "audio_en_storage_path": "546_food_is_another_essential_part_of_brazilian_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133168",
+    "text_pt": "Os pratos populares incluem feijoada. acarajé. brigadeiro. e moqueca.",
+    "text_en": "Popular dishes include feijoada. acarajé. brigadeiro. and moqueca.",
+    "audio_en_storage_path": "547_popular_dishes_include_feijoada_acaraje_brigadeiro_and_moqueca.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133169",
+    "text_pt": "Cada região tem suas próprias especialidades baseadas em ingredientes e história locais.",
+    "text_en": "Each region has its own specialties based on local ingredients and history.",
+    "audio_en_storage_path": "548_each_region_has_its_own_specialties_based_on_local_ingredients_and_history.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133170",
+    "text_pt": "O café é um dos produtos mais famosos do Brasil e um hábito diário de muitas pessoas.",
+    "text_en": "Coffee is one of Brazil’s most famous products and a daily habit for many people.",
+    "audio_en_storage_path": "549_coffee_is_one_of_brazils_most_famous_products_and_a_daily_habit_for_many_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133171",
+    "text_pt": "Açaí. tapioca. e o guaraná também são alimentos nativos que representam a culinária brasileira.",
+    "text_en": "Açaí. tapioca. and guaraná are also native foods that represent Brazilian cuisine.",
+    "audio_en_storage_path": "550_acai_tapioca_and_guarana_are_also_native_foods_that_represent_brazilian_cuisine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133172",
+    "text_pt": "A religião e a espiritualidade estão profundamente enraizadas na sociedade brasileira.",
+    "text_en": "Religion and spirituality are deeply rooted in Brazilian society.",
+    "audio_en_storage_path": "551_religion_and_spirituality_are_deeply_rooted_in_brazilian_society.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133173",
+    "text_pt": "O cristianismo, especialmente o catolicismo, é a religião mais comum.",
+    "text_en": "Christianity. especially Catholicism. is the most common religion.",
+    "audio_en_storage_path": "552_christianity_especially_catholicism_is_the_most_common_religion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133174",
+    "text_pt": "No entanto, religiões afro-brasileiras como o candomblé e a umbanda também são amplamente praticadas.",
+    "text_en": "However. Afro-Brazilian religions like Candomblé and Umbanda are also widely practiced.",
+    "audio_en_storage_path": "553_however_afrobrazilian_religions_like_candomble_and_umbanda_are_also_widely_practiced.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133175",
+    "text_pt": "Muitos brasileiros misturam tradições religiosas e celebram diferentes crenças juntos.",
+    "text_en": "Many Brazilians mix religious traditions and celebrate different faiths together.",
+    "audio_en_storage_path": "554_many_brazilians_mix_religious_traditions_and_celebrate_different_faiths_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133176",
+    "text_pt": "A literatura no Brasil inclui obras de autores famosos como Machado de Assis e Paulo Coelho.",
+    "text_en": "Literature in Brazil includes works from famous authors like Machado de Assis and Paulo Coelho.",
+    "audio_en_storage_path": "555_literature_in_brazil_includes_works_from_famous_authors_like_machado_de_assis_and_paulo_coelho.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133177",
+    "text_pt": "Poesia, romances e contos refletem a diversidade da vida e da identidade brasileira.",
+    "text_en": "Poetry. novels. and storytelling reflect the diversity of Brazilian life and identity.",
+    "audio_en_storage_path": "556_poetry_novels_and_storytelling_reflect_the_diversity_of_brazilian_life_and_identity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133178",
+    "text_pt": "As artes visuais, incluindo pintura, escultura e grafite, são vibrantes em todo o país.",
+    "text_en": "Visual arts. including painting. sculpture. and graffiti. are vibrant across the country.",
+    "audio_en_storage_path": "557_visual_arts_including_painting_sculpture_and_graffiti_are_vibrant_across_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133179",
+    "text_pt": "Artistas como Tarsila do Amaral ajudaram a moldar a arte moderna brasileira.",
+    "text_en": "Artists like Tarsila do Amaral helped shape modern Brazilian art.",
+    "audio_en_storage_path": "558_artists_like_tarsila_do_amaral_helped_shape_modern_brazilian_art.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133180",
+    "text_pt": "O futebol é mais que um esporte no Brasil — é uma paixão nacional.",
+    "text_en": "Football (soccer) is more than a sport in Brazil — it's a national passion.",
+    "audio_en_storage_path": "559_football_soccer_is_more_than_a_sport_in_brazil_its_a_national_passion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133181",
+    "text_pt": "O Brasil venceu a Copa do Mundo da FIFA cinco vezes, mais do que qualquer outro país.",
+    "text_en": "Brazil has won the FIFA World Cup five times. more than any other country.",
+    "audio_en_storage_path": "560_brazil_has_won_the_fifa_world_cup_five_times_more_than_any_other_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133182",
+    "text_pt": "Estrelas como Pelé. Zico. Romário. Ronaldo. Ronaldinho Gaúcho. e Neymar se tornaram ícones globais.",
+    "text_en": "Stars like Pelé. Zico. Romário. Ronaldo. Ronaldinho Gaúcho. and Neymar became global icons.",
+    "audio_en_storage_path": "561_stars_like_pele_zico_romario_ronaldo_ronaldinho_gaucho_and_neymar_became_global_icons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133183",
+    "text_pt": "A cultura de praia é forte, principalmente em cidades como Rio de Janeiro e Salvador.",
+    "text_en": "The beach culture is strong. especially in cities like Rio de Janeiro and Salvador.",
+    "audio_en_storage_path": "562_the_beach_culture_is_strong_especially_in_cities_like_rio_de_janeiro_and_salvador.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133184",
+    "text_pt": "As pessoas se reúnem para praticar esportes, ouvir música e aproveitar o pôr do sol ao longo da costa.",
+    "text_en": "People gather to play sports. listen to music. and enjoy sunsets along the coast.",
+    "audio_en_storage_path": "563_people_gather_to_play_sports_listen_to_music_and_enjoy_sunsets_along_the_coast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133185",
+    "text_pt": "O português é a língua oficial do Brasil, mas os sotaques e expressões variam de acordo com a região.",
+    "text_en": "Portuguese is the official language of Brazil. but accents and expressions vary by region.",
+    "audio_en_storage_path": "564_portuguese_is_the_official_language_of_brazil_but_accents_and_expressions_vary_by_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133186",
+    "text_pt": "Também há muitas línguas indígenas ainda faladas em áreas remotas.",
+    "text_en": "There are also many Indigenous languages still spoken in remote areas.",
+    "audio_en_storage_path": "565_there_are_also_many_indigenous_languages_still_spoken_in_remote_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133187",
+    "text_pt": "A televisão e as novelas fazem parte do cotidiano de muitos brasileiros.",
+    "text_en": "Television and soap operas (telenovelas) are a big part of daily life for many Brazilians.",
+    "audio_en_storage_path": "566_television_and_soap_operas_telenovelas_are_a_big_part_of_daily_life_for_many_brazilians.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133188",
+    "text_pt": "Eles frequentemente misturam drama, romance e questões sociais em suas histórias.",
+    "text_en": "They often mix drama. romance. and social issues in their stories.",
+    "audio_en_storage_path": "567_they_often_mix_drama_romance_and_social_issues_in_their_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133189",
+    "text_pt": "Os brasileiros são conhecidos por serem calorosos, amigáveis ​​e acolhedores.",
+    "text_en": "Brazilians are known for being warm. friendly. and welcoming.",
+    "audio_en_storage_path": "568_brazilians_are_known_for_being_warm_friendly_and_welcoming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133190",
+    "text_pt": "A hospitalidade é uma parte fundamental da cultura, especialmente em reuniões e celebrações familiares.",
+    "text_en": "Hospitality is a key part of the culture. especially in family gatherings and celebrations.",
+    "audio_en_storage_path": "569_hospitality_is_a_key_part_of_the_culture_especially_in_family_gatherings_and_celebrations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133191",
+    "text_pt": "Família e comunidade são muito importantes na sociedade brasileira.",
+    "text_en": "Family and community are very important in Brazilian society.",
+    "audio_en_storage_path": "570_family_and_community_are_very_important_in_brazilian_society.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133192",
+    "text_pt": "Eventos sociais geralmente reúnem várias gerações.",
+    "text_en": "Social events often bring together multiple generations.",
+    "audio_en_storage_path": "571_social_events_often_bring_together_multiple_generations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133193",
+    "text_pt": "Festivais, música e dança são formas de unir as pessoas.",
+    "text_en": "Festivals. music. and dance are ways of bringing people together.",
+    "audio_en_storage_path": "572_festivals_music_and_dance_are_ways_of_bringing_people_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133194",
+    "text_pt": "Mesmo nas grandes cidades, há um forte senso de vizinhança e vida compartilhada.",
+    "text_en": "Even in big cities. there is a strong sense of neighborhood and shared life.",
+    "audio_en_storage_path": "573_even_in_big_cities_there_is_a_strong_sense_of_neighborhood_and_shared_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133195",
+    "text_pt": "O ambiente natural também influencia a cultura brasileira.",
+    "text_en": "The natural environment also influences Brazilian culture.",
+    "audio_en_storage_path": "574_the_natural_environment_also_influences_brazilian_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133196",
+    "text_pt": "Florestas tropicais, praias, rios e montanhas inspiram arte, música e estilo de vida.",
+    "text_en": "Rainforests. beaches. rivers. and mountains inspire art. music. and lifestyle.",
+    "audio_en_storage_path": "575_rainforests_beaches_rivers_and_mountains_inspire_art_music_and_lifestyle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133197",
+    "text_pt": "Nos últimos anos, a cultura brasileira ganhou atenção internacional por meio do cinema, da música e da moda.",
+    "text_en": "In recent years. Brazilian culture has gained international attention through film. music. and fashion.",
+    "audio_en_storage_path": "576_in_recent_years_brazilian_culture_has_gained_international_attention_through_film_music_and_fashion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133198",
+    "text_pt": "Filmes como Cidade de Deus e Tropa de Elite apresentaram o cinema brasileiro ao público global.",
+    "text_en": "Movies like City of God and Elite Squad introduced global audiences to Brazilian cinema.",
+    "audio_en_storage_path": "577_movies_like_city_of_god_and_elite_squad_introduced_global_audiences_to_brazilian_cinema.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133199",
+    "text_pt": "Artistas, músicos e atletas modernos continuam a levar a cultura brasileira ao redor do mundo.",
+    "text_en": "Modern artists. musicians. and athletes continue to carry Brazilian culture around the world.",
+    "audio_en_storage_path": "578_modern_artists_musicians_and_athletes_continue_to_carry_brazilian_culture_around_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133200",
+    "text_pt": "A mistura de tradições torna a cultura brasileira única e em constante evolução.",
+    "text_en": "The mix of traditions makes Brazilian culture unique and ever-evolving.",
+    "audio_en_storage_path": "579_the_mix_of_traditions_makes_brazilian_culture_unique_and_everevolving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133201",
+    "text_pt": "A cultura brasileira é uma celebração da vida, da diversidade, do ritmo e da alegria.",
+    "text_en": "Brazilian culture is a celebration of life. diversity. rhythm. and joy.",
+    "audio_en_storage_path": "580_brazilian_culture_is_a_celebration_of_life_diversity_rhythm_and_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase133202",
+    "text_pt": "Da música à comida. Da fé ao futebol. A alma brasileira pulsa como um tambor que se ouve pelo mundo.",
+    "text_en": "From music to food. faith to football. Brazil’s soul beats like a drum heard around the world.",
+    "audio_en_storage_path": "581_from_music_to_food_faith_to_football_brazils_soul_beats_like_a_drum_heard_around_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103716",
+    "text_pt": "Roteiro na cidade",
+    "text_en": "City itinerary",
+    "audio_en_storage_path": "2816_city_itinerary.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103717",
+    "text_pt": "Olá! Já fez algum plano para hoje?",
+    "text_en": "Hi there! Did you make a plan for today?",
+    "audio_en_storage_path": "2817_hi_there_did_you_make_a_plan_for_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103718",
+    "text_pt": "Ainda não — apenas andando por aí e tirando fotos.",
+    "text_en": "Not yet — just walking around and taking pictures.",
+    "audio_en_storage_path": "2818_not_yet_just_walking_around_and_taking_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103719",
+    "text_pt": "Quer algumas ideias?",
+    "text_en": "Want some ideas?",
+    "audio_en_storage_path": "2819_want_some_ideas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103720",
+    "text_pt": "Por favor! Adoraria sugestões.",
+    "text_en": "Please! I’d love suggestions.",
+    "audio_en_storage_path": "2820_please_id_love_suggestions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103721",
+    "text_pt": "Experimente o Beco do Batman para arte e a Avenida Paulista para vistas.",
+    "text_en": "Try Beco do Batman for art. and Paulista Avenue for views.",
+    "audio_en_storage_path": "2821_try_beco_do_batman_for_art_and_paulista_avenue_for_views.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103722",
+    "text_pt": "Parece bom — e a comida?",
+    "text_en": "Sounds good — what about food?",
+    "audio_en_storage_path": "2822_sounds_good_what_about_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103723",
+    "text_pt": "Vá à Liberdade para comer sushi ou à Mooca para comer pizza.",
+    "text_en": "Go to Liberdade for sushi or Mooca for pizza.",
+    "audio_en_storage_path": "2823_go_to_liberdade_for_sushi_or_mooca_for_pizza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103724",
+    "text_pt": "Perfeito! Obrigado novamente — nos vemos por aí?",
+    "text_en": "Perfect! Thanks again — see you around?",
+    "audio_en_storage_path": "2824_perfect_thanks_again_see_you_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103725",
+    "text_pt": "Gosta de futebol?",
+    "text_en": "Do you like football?",
+    "audio_en_storage_path": "2825_do_you_like_football.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103726",
+    "text_pt": "Ei! Você gosta de futebol?",
+    "text_en": "Hey! Do you like football?",
+    "audio_en_storage_path": "2826_hey_do_you_like_football.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103727",
+    "text_pt": "Adoro! Acompanho o Real Madrid e o Brasil.",
+    "text_en": "Love it! I follow Real Madrid and Brazil.",
+    "audio_en_storage_path": "2827_love_it_i_follow_real_madrid_and_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103728",
+    "text_pt": "Eu também! Você deveria assistir a um jogo ao vivo enquanto estiver aqui.",
+    "text_en": "Me too! You should watch a game live while you're here.",
+    "audio_en_storage_path": "2828_me_too_you_should_watch_a_game_live_while_youre_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103729",
+    "text_pt": "Sério? Para onde eu posso ir?",
+    "text_en": "Really? Where can I go?",
+    "audio_en_storage_path": "2829_really_where_can_i_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103730",
+    "text_pt": "O Corinthians joga amanhã — vamos juntos!",
+    "text_en": "Corinthians plays tomorrow — let’s go together!",
+    "audio_en_storage_path": "2830_corinthians_plays_tomorrow_lets_go_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103731",
+    "text_pt": "Isso seria incrível — obrigado!",
+    "text_en": "That would be amazing — thank you!",
+    "audio_en_storage_path": "2831_that_would_be_amazing_thank_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103732",
+    "text_pt": "Nos encontraremos na estação de metrô — vista a camisa do seu time.",
+    "text_en": "We’ll meet at the metro station — wear your team shirt.",
+    "audio_en_storage_path": "2832_well_meet_at_the_metro_station_wear_your_team_shirt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103733",
+    "text_pt": "Já preparei uma — até amanhã!",
+    "text_en": "Already packed one — see you tomorrow!",
+    "audio_en_storage_path": "2833_already_packed_one_see_you_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103734",
+    "text_pt": "Comida brasileira",
+    "text_en": "Brazilian food",
+    "audio_en_storage_path": "2834_brazilian_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103735",
+    "text_pt": "Olá! Você já experimentou comida brasileira?",
+    "text_en": "Hello! Did you try Brazilian food yet?",
+    "audio_en_storage_path": "2835_hello_did_you_try_brazilian_food_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103736",
+    "text_pt": "Sim! Churrasco ontem — adorei!",
+    "text_en": "Yes! Barbecue yesterday — loved it!",
+    "audio_en_storage_path": "2836_yes_barbecue_yesterday_loved_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103737",
+    "text_pt": "Legal! Já comeu feijoada ou pão de queijo?",
+    "text_en": "Nice! Have you had feijoada or cheese bread?",
+    "audio_en_storage_path": "2837_nice_have_you_had_feijoada_or_cheese_bread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103738",
+    "text_pt": "Não. ainda não — onde posso encontrá-los?",
+    "text_en": "No. not yet — where can I find them?",
+    "audio_en_storage_path": "2838_no_not_yet_where_can_i_find_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103739",
+    "text_pt": "Há um pequeno lugar lá embaixo que vende todos os tipos de lanches.",
+    "text_en": "There’s a small place downstairs — sells all kinds of snacks.",
+    "audio_en_storage_path": "2839_theres_a_small_place_downstairs_sells_all_kinds_of_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103740",
+    "text_pt": "Perfeito — Vou atrás disso.",
+    "text_en": "Perfect — I’ll go after this.",
+    "audio_en_storage_path": "2840_perfect_ill_go_after_this.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103742",
+    "text_pt": "Mal posso esperar — parece delicioso.",
+    "text_en": "Can’t wait — sounds delicious.",
+    "audio_en_storage_path": "2842_cant_wait_sounds_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

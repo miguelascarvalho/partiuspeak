@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112861",
+    "text_pt": "Receber amigos – Visitar amigos",
+    "text_en": "Entertaining friends – Visiting friends",
+    "audio_en_storage_path": "2861_entertaining_friends_visiting_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112862",
+    "text_pt": "Os amigos chegam e entram na sala de estar.",
+    "text_en": "Friends arrive and enter the living room.",
+    "audio_en_storage_path": "2862_friends_arrive_and_enter_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112863",
+    "text_pt": "Eles se abraçam e dizem “há quanto tempo!”",
+    "text_en": "They hug and say “long time no see!”",
+    "audio_en_storage_path": "2863_they_hug_and_say_long_time_no_see.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112864",
+    "text_pt": "Eles trazem lanches, bebidas e boa energia.",
+    "text_en": "They bring snacks. drinks. and good energy.",
+    "audio_en_storage_path": "2864_they_bring_snacks_drinks_and_good_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112865",
+    "text_pt": "A casa parece viva novamente.",
+    "text_en": "The house feels alive again.",
+    "audio_en_storage_path": "2865_the_house_feels_alive_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112866",
+    "text_pt": "A sala de estar é decorada e aconchegante.",
+    "text_en": "The living room is decorated and cozy.",
+    "audio_en_storage_path": "2866_the_living_room_is_decorated_and_cozy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112867",
+    "text_pt": "As luzes são suaves e a música está tocando.",
+    "text_en": "The lights are soft and music is on.",
+    "audio_en_storage_path": "2867_the_lights_are_soft_and_music_is_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112868",
+    "text_pt": "Há batatas fritas, suco e biscoitos na mesa.",
+    "text_en": "There are chips. juice. and cookies on the table.",
+    "audio_en_storage_path": "2868_there_are_chips_juice_and_cookies_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112869",
+    "text_pt": "E algumas velas para dar um ar mais aconchegante.",
+    "text_en": "And some candles for the atmosphere.",
+    "audio_en_storage_path": "2869_and_some_candles_for_the_atmosphere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112870",
+    "text_pt": "Quem vem hoje?",
+    "text_en": "Who is coming over today?",
+    "audio_en_storage_path": "2870_who_is_coming_over_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112871",
+    "text_pt": "Minha melhor amiga — não nos vemos há semanas.",
+    "text_en": "My best friend — we haven’t seen each other in weeks.",
+    "audio_en_storage_path": "2871_my_best_friend_we_havent_seen_each_other_in_weeks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112872",
+    "text_pt": "Onde os convidados estão sentados?",
+    "text_en": "Where are the guests sitting?",
+    "audio_en_storage_path": "2872_where_are_the_guests_sitting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112873",
+    "text_pt": "No sofá e no chão — todos cabem.",
+    "text_en": "On the couch and floor — everyone fits.",
+    "audio_en_storage_path": "2873_on_the_couch_and_floor_everyone_fits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112874",
+    "text_pt": "Às vezes eles tocam música e dançam.",
+    "text_en": "Sometimes they play music and dance.",
+    "audio_en_storage_path": "2874_sometimes_they_play_music_and_dance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112875",
+    "text_pt": "Outras vezes eles apenas conversam e riem.",
+    "text_en": "Other times they just talk and laugh.",
+    "audio_en_storage_path": "2875_other_times_they_just_talk_and_laugh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112876",
+    "text_pt": "Onde você deixou os lanches?",
+    "text_en": "Where did you leave the snacks?",
+    "audio_en_storage_path": "2876_where_did_you_leave_the_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112877",
+    "text_pt": "Na mesa de centro — fácil de alcançar.",
+    "text_en": "On the coffee table — easy to reach.",
+    "audio_en_storage_path": "2877_on_the_coffee_table_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112878",
+    "text_pt": "Quando eles chegarão?",
+    "text_en": "When will they arrive?",
+    "audio_en_storage_path": "2878_when_will_they_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112879",
+    "text_pt": "Em 10 minutos — Acabei de receber uma mensagem.",
+    "text_en": "In 10 minutes — I just got a message.",
+    "audio_en_storage_path": "2879_in_10_minutes_i_just_got_a_message.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112880",
+    "text_pt": "Por que você limpou a casa hoje?",
+    "text_en": "Why did you clean the house today?",
+    "audio_en_storage_path": "2880_why_did_you_clean_the_house_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112881",
+    "text_pt": "Porque estou recebendo pessoas.",
+    "text_en": "Because I'm having people over.",
+    "audio_en_storage_path": "2881_because_im_having_people_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112882",
+    "text_pt": "Adoro receber amigos nos fins de semana.",
+    "text_en": "I love having friends over on weekends.",
+    "audio_en_storage_path": "2882_i_love_having_friends_over_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112883",
+    "text_pt": "Faz com que a casa pareça aconchegante.",
+    "text_en": "It makes the house feel warm.",
+    "audio_en_storage_path": "2883_it_makes_the_house_feel_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112884",
+    "text_pt": "Na próxima vez, não vou me esquecer de comprar bebidas novamente.",
+    "text_en": "Next time. I will not forget to buy drinks again.",
+    "audio_en_storage_path": "2884_next_time_i_will_not_forget_to_buy_drinks_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112885",
+    "text_pt": "Nós acabamos no meio da noite.",
+    "text_en": "We ran out halfway through the night.",
+    "audio_en_storage_path": "2885_we_ran_out_halfway_through_the_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112886",
+    "text_pt": "Bem-vindo!",
+    "text_en": "Welcome!",
+    "audio_en_storage_path": "2886_welcome.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112887",
+    "text_pt": "Fique à vontade.",
+    "text_en": "Make yourself comfortable.",
+    "audio_en_storage_path": "2887_make_yourself_comfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

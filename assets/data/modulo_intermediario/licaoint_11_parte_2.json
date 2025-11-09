@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111646",
+    "text_pt": "Lanche da tarde / Hora do chá",
+    "text_en": "Afternoon Snack / Tea Time",
+    "audio_en_storage_path": "1646_afternoon_snack_tea_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111647",
+    "text_pt": "Sinto sono à tarde.",
+    "text_en": "I feel sleepy in the afternoon.",
+    "audio_en_storage_path": "1647_i_feel_sleepy_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111648",
+    "text_pt": "Um lanche me acorda novamente.",
+    "text_en": "A snack wakes me up again.",
+    "audio_en_storage_path": "1648_a_snack_wakes_me_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111649",
+    "text_pt": "Eu faço chá ou chocolate quente.",
+    "text_en": "I make tea or hot chocolate.",
+    "audio_en_storage_path": "1649_i_make_tea_or_hot_chocolate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111650",
+    "text_pt": "E coma biscoitos ou bolo.",
+    "text_en": "And eat biscuits or cake.",
+    "audio_en_storage_path": "1650_and_eat_biscuits_or_cake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111651",
+    "text_pt": "A mesa tem xícaras, biscoitos e creme.",
+    "text_en": "The table has cups. cookies. and cream.",
+    "audio_en_storage_path": "1651_the_table_has_cups_cookies_and_cream.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111652",
+    "text_pt": "Parece aconchegante e convidativo.",
+    "text_en": "It looks cozy and inviting.",
+    "audio_en_storage_path": "1652_it_looks_cozy_and_inviting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111653",
+    "text_pt": "Sento-me perto da janela e relaxo.",
+    "text_en": "I sit by the window and relax.",
+    "audio_en_storage_path": "1653_i_sit_by_the_window_and_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111654",
+    "text_pt": "Ou leio enquanto tomo chá.",
+    "text_en": "Or I read while sipping tea.",
+    "audio_en_storage_path": "1654_or_i_read_while_sipping_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111655",
+    "text_pt": "O que você gosta de comer à tarde?",
+    "text_en": "What do you like to eat in the afternoon?",
+    "audio_en_storage_path": "1655_what_do_you_like_to_eat_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111656",
+    "text_pt": "Adoro muffins e fatias de frutas.",
+    "text_en": "I love muffins and fruit slices.",
+    "audio_en_storage_path": "1656_i_love_muffins_and_fruit_slices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111657",
+    "text_pt": "Onde você guarda seus sachês de chá?",
+    "text_en": "Where do you keep your teabags?",
+    "audio_en_storage_path": "1657_where_do_you_keep_your_teabags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111658",
+    "text_pt": "Num pote na prateleira — perto do açúcar.",
+    "text_en": "In a jar on the shelf — near the sugar.",
+    "audio_en_storage_path": "1658_in_a_jar_on_the_shelf_near_the_sugar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111659",
+    "text_pt": "Às vezes como frutas. às vezes doces.",
+    "text_en": "Sometimes I eat fruit. sometimes sweets.",
+    "audio_en_storage_path": "1659_sometimes_i_eat_fruit_sometimes_sweets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111660",
+    "text_pt": "Depende do meu humor.",
+    "text_en": "It depends on my mood.",
+    "audio_en_storage_path": "1660_it_depends_on_my_mood.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111661",
+    "text_pt": "Onde você deixou sua xícara?",
+    "text_en": "Where did you leave your cup?",
+    "audio_en_storage_path": "1661_where_did_you_leave_your_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111662",
+    "text_pt": "Na mesa — ao lado do meu caderno.",
+    "text_en": "On the desk — next to my notebook.",
+    "audio_en_storage_path": "1662_on_the_desk_next_to_my_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111663",
+    "text_pt": "Quando é a hora do chá?",
+    "text_en": "When do you have tea time?",
+    "audio_en_storage_path": "1663_when_do_you_have_tea_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111664",
+    "text_pt": "Por volta das 15h — depois do trabalho ou da escola.",
+    "text_en": "Around 3:00 PM — after work or school.",
+    "audio_en_storage_path": "1664_around_300_pm_after_work_or_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111665",
+    "text_pt": "Por que você escolheu o chá hoje?",
+    "text_en": "Why did you choose tea today?",
+    "audio_en_storage_path": "1665_why_did_you_choose_tea_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111666",
+    "text_pt": "Porque eu queria algo quente e relaxante.",
+    "text_en": "Because I wanted something warm and calming.",
+    "audio_en_storage_path": "1666_because_i_wanted_something_warm_and_calming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111667",
+    "text_pt": "Gosto de fazer um pequeno lanche à tarde.",
+    "text_en": "I enjoy a small snack in the afternoon.",
+    "audio_en_storage_path": "1667_i_enjoy_a_small_snack_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111668",
+    "text_pt": "Isso me ajuda a concentrar até o jantar.",
+    "text_en": "It helps me focus until dinner.",
+    "audio_en_storage_path": "1668_it_helps_me_focus_until_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111669",
+    "text_pt": "Amanhã. Não comerei muitos biscoitos novamente.",
+    "text_en": "Tomorrow. I will not eat too many cookies again.",
+    "audio_en_storage_path": "1669_tomorrow_i_will_not_eat_too_many_cookies_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111670",
+    "text_pt": "Tentarei ser mais equilibrado.",
+    "text_en": "I'll try to be more balanced.",
+    "audio_en_storage_path": "1670_ill_try_to_be_more_balanced.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111671",
+    "text_pt": "Aproveite seu chá!",
+    "text_en": "Enjoy your tea!",
+    "audio_en_storage_path": "1671_enjoy_your_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111672",
+    "text_pt": "Tire um momento para relaxar.",
+    "text_en": "Take a moment to relax.",
+    "audio_en_storage_path": "1672_take_a_moment_to_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

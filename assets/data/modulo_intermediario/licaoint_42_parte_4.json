@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121881",
+    "text_pt": "Ganhar e perder",
+    "text_en": "Winning and Losing",
+    "audio_en_storage_path": "1881_winning_and_losing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121882",
+    "text_pt": "Ganhar lhe dá pontos e desbloqueia novos níveis",
+    "text_en": "Winning gives you points and unlocks new levels",
+    "audio_en_storage_path": "1882_winning_gives_you_points_and_unlocks_new_levels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121883",
+    "text_pt": "A vitória preenche sua pontuação e abre novas fases",
+    "text_en": "Victory fills your score and opens new stages",
+    "audio_en_storage_path": "1883_victory_fills_your_score_and_opens_new_stages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121884",
+    "text_pt": "Perder faz você recomeçar ou perder vidas",
+    "text_en": "Losing makes you restart or lose lives",
+    "audio_en_storage_path": "1884_losing_makes_you_restart_or_lose_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121885",
+    "text_pt": "Deixe uma vida de lado e tenha que começar tudo de novo",
+    "text_en": "Drop a life and gotta start over again",
+    "audio_en_storage_path": "1885_drop_a_life_and_gotta_start_over_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121886",
+    "text_pt": "Se você falhar muitas vezes, o jogo termina.",
+    "text_en": "If you fail too many times. the game ends",
+    "audio_en_storage_path": "1886_if_you_fail_too_many_times_the_game_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121887",
+    "text_pt": "Se você errar muito, o jogo acaba",
+    "text_en": "Mess up too much and it’s game over",
+    "audio_en_storage_path": "1887_mess_up_too_much_and_its_game_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121888",
+    "text_pt": "Você pode continuar se tiver créditos extras",
+    "text_en": "You can continue if you have extra credits",
+    "audio_en_storage_path": "1888_you_can_continue_if_you_have_extra_credits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121889",
+    "text_pt": "Se você ainda tiver chances, basta pressionar continuar",
+    "text_en": "If ya still got chances left. just press continue",
+    "audio_en_storage_path": "1889_if_ya_still_got_chances_left_just_press_continue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121890",
+    "text_pt": "Você quer tentar novamente ou desistir?",
+    "text_en": "Do you want to try again or quit?",
+    "audio_en_storage_path": "1890_do_you_want_to_try_again_or_quit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121891",
+    "text_pt": "Quer tentar novamente ou desistir?",
+    "text_en": "Wanna give it another shot or call it quits?",
+    "audio_en_storage_path": "1891_wanna_give_it_another_shot_or_call_it_quits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121892",
+    "text_pt": "Deixe-me tentar mais uma vez - estou perto de vencer",
+    "text_en": "Let me try one more time — I’m close to winning",
+    "audio_en_storage_path": "1892_let_me_try_one_more_time_im_close_to_winning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121893",
+    "text_pt": "Deixe-me dar mais uma volta - estou quase lá",
+    "text_en": "Let me go one more round — I’m almost there",
+    "audio_en_storage_path": "1893_let_me_go_one_more_round_im_almost_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121894",
+    "text_pt": "Talvez reinicie a partir do último ponto de verificação",
+    "text_en": "Maybe restart from the last checkpoint",
+    "audio_en_storage_path": "1894_maybe_restart_from_the_last_checkpoint.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121895",
+    "text_pt": "Ou volte para o último ponto de salvamento",
+    "text_en": "Or jump back to the last save point",
+    "audio_en_storage_path": "1895_or_jump_back_to_the_last_save_point.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121896",
+    "text_pt": "Onde posso ver minha pontuação total?",
+    "text_en": "Where can I see my total score?",
+    "audio_en_storage_path": "1896_where_can_i_see_my_total_score.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121897",
+    "text_pt": "Onde minha pontuação completa é exibida — no menu principal?",
+    "text_en": "Where’s my full score shown — on the main menu?",
+    "audio_en_storage_path": "1897_wheres_my_full_score_shown_on_the_main_menu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121898",
+    "text_pt": "Quando o próximo desafio será desbloqueado?",
+    "text_en": "When will the next challenge unlock?",
+    "audio_en_storage_path": "1898_when_will_the_next_challenge_unlock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121899",
+    "text_pt": "Quando a próxima missão estará disponível?",
+    "text_en": "When the next mission becomes available?",
+    "audio_en_storage_path": "1899_when_the_next_mission_becomes_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121900",
+    "text_pt": "Por que você perdeu tão rápido da última vez?",
+    "text_en": "Why did you lose so fast last time?",
+    "audio_en_storage_path": "1900_why_did_you_lose_so_fast_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121901",
+    "text_pt": "O que aconteceu — por que você caiu tão rápido na última rodada?",
+    "text_en": "What happened — why’d ya fall so quick last round?",
+    "audio_en_storage_path": "1901_what_happened_whyd_ya_fall_so_quick_last_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121902",
+    "text_pt": "Ele continua tentando até vencer",
+    "text_en": "He keeps trying until he wins",
+    "audio_en_storage_path": "1902_he_keeps_trying_until_he_wins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121903",
+    "text_pt": "Ele não para até terminar tudo",
+    "text_en": "He doesn’t stop until he beats it clean",
+    "audio_en_storage_path": "1903_he_doesnt_stop_until_he_beats_it_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121904",
+    "text_pt": "Eu não vou desistir mesmo que fique difícil",
+    "text_en": "I won’t give up even if it gets hard",
+    "audio_en_storage_path": "1904_i_wont_give_up_even_if_it_gets_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121905",
+    "text_pt": "Vou continuar mesmo que seja difícil",
+    "text_en": "Gonna stick with it even if it’s tough",
+    "audio_en_storage_path": "1905_gonna_stick_with_it_even_if_its_tough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121906",
+    "text_pt": "Continue — você está melhorando",
+    "text_en": "Keep going — you’re getting better",
+    "audio_en_storage_path": "1906_keep_going_youre_getting_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121907",
+    "text_pt": "Continue assim — subindo de nível rapidamente",
+    "text_en": "Keep at it — leveling up fast",
+    "audio_en_storage_path": "1907_keep_at_it_leveling_up_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121908",
+    "text_pt": "Faça pausas e não fique frustrado",
+    "text_en": "Take breaks and don’t get frustrated",
+    "audio_en_storage_path": "1908_take_breaks_and_dont_get_frustrated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121909",
+    "text_pt": "Descanse um pouco e não fique bravo",
+    "text_en": "Rest a bit and don’t get mad",
+    "audio_en_storage_path": "1909_rest_a_bit_and_dont_get_mad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121910",
+    "text_pt": "Vejo vocês na próxima partida — boa sorte",
+    "text_en": "See you in the next match — good luck",
+    "audio_en_storage_path": "1910_see_you_in_the_next_match_good_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121911",
+    "text_pt": "Vejo vocês na próxima rodada — tragam seu melhor jogo",
+    "text_en": "Catch ya in the next round — bring your A-game",
+    "audio_en_storage_path": "1911_catch_ya_in_the_next_round_bring_your_agame.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

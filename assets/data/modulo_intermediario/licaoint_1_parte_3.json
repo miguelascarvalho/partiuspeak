@@ -1,0 +1,254 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110057",
+    "text_pt": "Segunda-feira – Minha Mãe",
+    "text_en": "Monday – My Mother",
+    "audio_en_storage_path": "057_monday_my_mother.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110058",
+    "text_pt": "Foco: As ações da minha mãe no início da semana",
+    "text_en": "Focus: My mother's actions earlier in the week",
+    "audio_en_storage_path": "058_focus_my_mothers_actions_earlier_in_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110059",
+    "text_pt": "Ela acorda às 6:00 da manhã.",
+    "text_en": "She wakes up at 6:00 AM.",
+    "audio_en_storage_path": "059_she_wakes_up_at_600_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110060",
+    "text_pt": "Minha mãe começa o dia cedo.",
+    "text_en": "My mom starts her day early.",
+    "audio_en_storage_path": "060_my_mom_starts_her_day_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110061",
+    "text_pt": "Ela escova os dentes e toma café.",
+    "text_en": "She brushes her teeth and drinks coffee.",
+    "audio_en_storage_path": "061_she_brushes_her_teeth_and_drinks_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110062",
+    "text_pt": "Então ela prepara o café da manhã para todos.",
+    "text_en": "Then she makes breakfast for everyone.",
+    "audio_en_storage_path": "062_then_she_makes_breakfast_for_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110063",
+    "text_pt": "Ela sai de casa às 7:30.",
+    "text_en": "She leaves home at 7:30.",
+    "audio_en_storage_path": "063_she_leaves_home_at_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110064",
+    "text_pt": "Ela vai para o trabalho de ônibus ou carro.",
+    "text_en": "She goes to work by bus or car.",
+    "audio_en_storage_path": "064_she_goes_to_work_by_bus_or_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110065",
+    "text_pt": "Ela trabalha em um hospital.",
+    "text_en": "She works in a hospital.",
+    "audio_en_storage_path": "065_she_works_in_a_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110066",
+    "text_pt": "Ela ajuda as pessoas e cuida dos pacientes.",
+    "text_en": "She helps people and takes care of patients.",
+    "audio_en_storage_path": "066_she_helps_people_and_takes_care_of_patients.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110067",
+    "text_pt": "No almoço, ela come com colegas de trabalho.",
+    "text_en": "At lunch. she eats with coworkers.",
+    "audio_en_storage_path": "067_at_lunch_she_eats_with_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110068",
+    "text_pt": "Às vezes ela traz comida de casa.",
+    "text_en": "Sometimes she brings food from home.",
+    "audio_en_storage_path": "068_sometimes_she_brings_food_from_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110069",
+    "text_pt": "À tarde, ela termina suas tarefas.",
+    "text_en": "In the afternoon. she finishes her tasks.",
+    "audio_en_storage_path": "069_in_the_afternoon_she_finishes_her_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110070",
+    "text_pt": "Então ela volta para casa.",
+    "text_en": "Then she comes back home.",
+    "audio_en_storage_path": "070_then_she_comes_back_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110071",
+    "text_pt": "O que ela faz para trabalhar?",
+    "text_en": "What does she do for work?",
+    "audio_en_storage_path": "071_what_does_she_do_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110072",
+    "text_pt": "Ela é enfermeira — ela ajuda pessoas doentes.",
+    "text_en": "She is a nurse — she helps sick people.",
+    "audio_en_storage_path": "072_she_is_a_nurse_she_helps_sick_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110073",
+    "text_pt": "Onde está minha mãe agora?",
+    "text_en": "Where is my mom now?",
+    "audio_en_storage_path": "073_where_is_my_mom_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110074",
+    "text_pt": "Ela está no hospital ajudando outras pessoas.",
+    "text_en": "She is at the hospital. helping others.",
+    "audio_en_storage_path": "074_she_is_at_the_hospital_helping_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110075",
+    "text_pt": "Quando ela descansa?",
+    "text_en": "When does she rest?",
+    "audio_en_storage_path": "075_when_does_she_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110076",
+    "text_pt": "Aos domingos e feriados.",
+    "text_en": "On Sundays and holidays.",
+    "audio_en_storage_path": "076_on_sundays_and_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110077",
+    "text_pt": "Por que ela saiu tão cedo hoje?",
+    "text_en": "Why did she leave so early today?",
+    "audio_en_storage_path": "077_why_did_she_leave_so_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110078",
+    "text_pt": "Porque ela tem um turno importante.",
+    "text_en": "Because she has an important shift.",
+    "audio_en_storage_path": "078_because_she_has_an_important_shift.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110079",
+    "text_pt": "Ela trabalha cinco dias por semana.",
+    "text_en": "She works five days a week.",
+    "audio_en_storage_path": "079_she_works_five_days_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110080",
+    "text_pt": "Hoje é o primeiro.",
+    "text_en": "Today is the first one.",
+    "audio_en_storage_path": "080_today_is_the_first_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110081",
+    "text_pt": "Amanhã ela não vai esquecer seu almoço.",
+    "text_en": "Tomorrow. she will not forget her lunch.",
+    "audio_en_storage_path": "081_tomorrow_she_will_not_forget_her_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110082",
+    "text_pt": "Ela vai trazer isso em uma pequena bolsa.",
+    "text_en": "She will bring it in a small bag.",
+    "audio_en_storage_path": "082_she_will_bring_it_in_a_small_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110083",
+    "text_pt": "Tenha um bom dia, mãe!",
+    "text_en": "Have a good day. Mom!",
+    "audio_en_storage_path": "083_have_a_good_day_mom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110084",
+    "text_pt": "Obrigado por trabalhar duro!",
+    "text_en": "Thank you for working hard!",
+    "audio_en_storage_path": "084_thank_you_for_working_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

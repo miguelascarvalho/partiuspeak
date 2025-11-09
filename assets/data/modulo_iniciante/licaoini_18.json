@@ -1,0 +1,632 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100585",
+    "text_pt": "Atividades de Participação",
+    "text_en": "Joining Activities",
+    "audio_en_storage_path": "586_joining_activities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100586",
+    "text_pt": "Este é o centro comunitário.",
+    "text_en": "This is the community center.",
+    "audio_en_storage_path": "587_this_is_the_community_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100587",
+    "text_pt": "Viemos aqui para aulas e eventos.",
+    "text_en": "We come here for classes and events.",
+    "audio_en_storage_path": "588_we_come_here_for_classes_and_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100588",
+    "text_pt": "Há grupos de idiomas e workshops.",
+    "text_en": "There are language groups and workshops.",
+    "audio_en_storage_path": "589_there_are_language_groups_and_workshops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100589",
+    "text_pt": "Há um cronograma na parede.",
+    "text_en": "There is a schedule on the wall.",
+    "audio_en_storage_path": "590_there_is_a_schedule_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100590",
+    "text_pt": "Posso participar do grupo de inglês?",
+    "text_en": "Can I join the English group?",
+    "audio_en_storage_path": "591_can_i_join_the_english_group.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100591",
+    "text_pt": "Sim, todos são bem-vindos.",
+    "text_en": "Yes, everyone is welcome.",
+    "audio_en_storage_path": "592_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100592",
+    "text_pt": "Não, somente membros podem participar.",
+    "text_en": "No, only members can join.",
+    "audio_en_storage_path": "593_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100593",
+    "text_pt": "Onde fica a sala de aula?",
+    "text_en": "Where is the classroom?",
+    "audio_en_storage_path": "594_where_is_the_classroom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100594",
+    "text_pt": "Fica no andar de cima, segunda porta à direita.",
+    "text_en": "It’s upstairs, second door on the right.",
+    "audio_en_storage_path": "595_its_upstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100595",
+    "text_pt": "Quando começa a aula?",
+    "text_en": "When does the class start?",
+    "audio_en_storage_path": "596_when_does_the_class_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100596",
+    "text_pt": "A aula começa às 15h.",
+    "text_en": "The class starts at 3 PM.",
+    "audio_en_storage_path": "597_the_class_starts_at_3_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100597",
+    "text_pt": "Por que você escolheu esse clube?",
+    "text_en": "Why did you choose this club?",
+    "audio_en_storage_path": "598_why_did_you_choose_this_club.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100598",
+    "text_pt": "Eu queria conhecer pessoas e praticar inglês.",
+    "text_en": "I wanted to meet people and practice English.",
+    "audio_en_storage_path": "599_i_wanted_to_meet_people_and_practice_english.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100599",
+    "text_pt": "Ela se junta ao grupo toda terça-feira.",
+    "text_en": "She joins the group every Tuesday.",
+    "audio_en_storage_path": "600_she_joins_the_group_every_tuesday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100600",
+    "text_pt": "Ele não perderá a próxima reunião.",
+    "text_en": "He won’t miss the next meeting.",
+    "audio_en_storage_path": "601_he_wont_miss_the_next_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100601",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "602_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100602",
+    "text_pt": "A aula começa às 15h.",
+    "text_en": "The class starts at 3 PM.",
+    "audio_en_storage_path": "603_the_class_starts_at_3_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100603",
+    "text_pt": "A aula começa às três.",
+    "text_en": "Class starts at three.",
+    "audio_en_storage_path": "604_class_starts_at_three.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100604",
+    "text_pt": "Ele não perderá a próxima reunião.",
+    "text_en": "He won’t miss the next meeting.",
+    "audio_en_storage_path": "605_he_wont_miss_the_next_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100605",
+    "text_pt": "Ele não vai perder o próximo encontro.",
+    "text_en": "He ain't missin’ the next meet-up.",
+    "audio_en_storage_path": "606_he_aint_missin_the_next_meetup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100606",
+    "text_pt": "Ela se junta ao grupo toda terça-feira.",
+    "text_en": "She joins the group every Tuesday.",
+    "audio_en_storage_path": "607_she_joins_the_group_every_tuesday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100607",
+    "text_pt": "Ela aparece toda terça-feira.",
+    "text_en": "She shows up every Tuesday.",
+    "audio_en_storage_path": "608_she_shows_up_every_tuesday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100608",
+    "text_pt": "Conjunto de frases – Troca de idiomas",
+    "text_en": "Sentence Set – Language Exchange",
+    "audio_en_storage_path": "609_sentence_set_language_exchange.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100609",
+    "text_pt": "Este é um evento de intercâmbio de idiomas.",
+    "text_en": "This is a language exchange event.",
+    "audio_en_storage_path": "610_this_is_a_language_exchange_event.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100610",
+    "text_pt": "As pessoas falam línguas diferentes aqui.",
+    "text_en": "People speak different languages here.",
+    "audio_en_storage_path": "611_people_speak_different_languages_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100611",
+    "text_pt": "Alguns falam espanhol, francês, alemão.",
+    "text_en": "Some speak Spanish, French, German.",
+    "audio_en_storage_path": "612_some_speak_spanish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100612",
+    "text_pt": "Outros aprendem com falantes nativos.",
+    "text_en": "Others learn from native speakers.",
+    "audio_en_storage_path": "613_others_learn_from_native_speakers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100613",
+    "text_pt": "Posso praticar inglês com você?",
+    "text_en": "Can I practice English with you?",
+    "audio_en_storage_path": "614_can_i_practice_english_with_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100614",
+    "text_pt": "Sim, vamos conversar um pouco.",
+    "text_en": "Yes, let’s talk for a while.",
+    "audio_en_storage_path": "615_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100615",
+    "text_pt": "Não, estou praticando francês agora.",
+    "text_en": "No, I’m practicing French now.",
+    "audio_en_storage_path": "616_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100616",
+    "text_pt": "De onde você vem?",
+    "text_en": "Where do you come from?",
+    "audio_en_storage_path": "617_where_do_you_come_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100617",
+    "text_pt": "Eu sou do Brasil, e você?",
+    "text_en": "I’m from Brazil, and you?",
+    "audio_en_storage_path": "618_im_from_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100618",
+    "text_pt": "Quando será o próximo evento?",
+    "text_en": "When will the next event be?",
+    "audio_en_storage_path": "619_when_will_the_next_event_be.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100619",
+    "text_pt": "Será na próxima sexta-feira à tarde.",
+    "text_en": "It’ll be next Friday afternoon.",
+    "audio_en_storage_path": "620_itll_be_next_friday_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100620",
+    "text_pt": "Por que você estuda português?",
+    "text_en": "Why do you study Portuguese?",
+    "audio_en_storage_path": "621_why_do_you_study_portuguese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100621",
+    "text_pt": "Eu amo a música e a cultura brasileira.",
+    "text_en": "I love Brazilian music and culture.",
+    "audio_en_storage_path": "622_i_love_brazilian_music_and_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100622",
+    "text_pt": "Ele fala inglês muito bem.",
+    "text_en": "He speaks English very well.",
+    "audio_en_storage_path": "623_he_speaks_english_very_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100623",
+    "text_pt": "Ela não vai parar de aprender tão cedo.",
+    "text_en": "She won’t stop learning anytime soon.",
+    "audio_en_storage_path": "624_she_wont_stop_learning_anytime_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100624",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "625_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100625",
+    "text_pt": "Será na próxima sexta-feira à tarde.",
+    "text_en": "It’ll be next Friday afternoon.",
+    "audio_en_storage_path": "626_itll_be_next_friday_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100626",
+    "text_pt": "É na próxima sexta-feira à tarde.",
+    "text_en": "It’s next Friday in the afternoon.",
+    "audio_en_storage_path": "627_its_next_friday_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100627",
+    "text_pt": "Ela não vai parar de aprender tão cedo.",
+    "text_en": "She won’t stop learning anytime soon.",
+    "audio_en_storage_path": "628_she_wont_stop_learning_anytime_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100628",
+    "text_pt": "Ela não vai parar tão cedo.",
+    "text_en": "She ain't stoppin’ anytime soon.",
+    "audio_en_storage_path": "629_she_aint_stoppin_anytime_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100629",
+    "text_pt": "Ele fala inglês muito bem.",
+    "text_en": "He speaks English very well.",
+    "audio_en_storage_path": "630_he_speaks_english_very_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100630",
+    "text_pt": "Ele fala inglês fluentemente.",
+    "text_en": "He speaks English fluently.",
+    "audio_en_storage_path": "631_he_speaks_english_fluently.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100631",
+    "text_pt": "Conjunto de frases – Pedindo ajuda",
+    "text_en": "Sentence Set – Asking for Help",
+    "audio_en_storage_path": "632_sentence_set_asking_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100632",
+    "text_pt": "Com licença, onde fica o escritório?",
+    "text_en": "Excuse me, where is the office?",
+    "audio_en_storage_path": "633_excuse_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100633",
+    "text_pt": "O escritório fica no final do corredor, lado esquerdo.",
+    "text_en": "The office is down the hall, left side.",
+    "audio_en_storage_path": "634_the_office_is_down_the_hall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100634",
+    "text_pt": "Há um mapa na entrada.",
+    "text_en": "There’s a map by the entrance.",
+    "audio_en_storage_path": "635_theres_a_map_by_the_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100635",
+    "text_pt": "A equipe pode ajudar você a encontrá-lo.",
+    "text_en": "The staff can help you find it.",
+    "audio_en_storage_path": "636_the_staff_can_help_you_find_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100636",
+    "text_pt": "Você sabe sobre a aula de inglês?",
+    "text_en": "Do you know about the English class?",
+    "audio_en_storage_path": "637_do_you_know_about_the_english_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100637",
+    "text_pt": "Sim, é toda segunda e quarta-feira.",
+    "text_en": "Yes, it’s every Monday and Wednesday.",
+    "audio_en_storage_path": "638_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100638",
+    "text_pt": "Não, mas posso verificar online.",
+    "text_en": "No, but I can check online.",
+    "audio_en_storage_path": "639_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100639",
+    "text_pt": "Onde fica o banheiro?",
+    "text_en": "Where is the bathroom?",
+    "audio_en_storage_path": "640_where_is_the_bathroom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100640",
+    "text_pt": "Fica ao lado da área da cozinha.",
+    "text_en": "It’s next to the kitchen area.",
+    "audio_en_storage_path": "641_its_next_to_the_kitchen_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100641",
+    "text_pt": "Quando o evento termina?",
+    "text_en": "When does the event finish?",
+    "audio_en_storage_path": "642_when_does_the_event_finish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100642",
+    "text_pt": "Termina às 19h.",
+    "text_en": "It finishes at 7 PM.",
+    "audio_en_storage_path": "643_it_finishes_at_7_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100643",
+    "text_pt": "Por que você vem aqui com frequência?",
+    "text_en": "Why do you come here often?",
+    "audio_en_storage_path": "644_why_do_you_come_here_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100644",
+    "text_pt": "Gosto da companhia e das atividades.",
+    "text_en": "I enjoy the company and activities.",
+    "audio_en_storage_path": "645_i_enjoy_the_company_and_activities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100645",
+    "text_pt": "Ele faz perguntas para melhorar.",
+    "text_en": "He asks questions to improve.",
+    "audio_en_storage_path": "646_he_asks_questions_to_improve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100646",
+    "text_pt": "Ela não desiste de aprender.",
+    "text_en": "She won’t give up on learning.",
+    "audio_en_storage_path": "647_she_wont_give_up_on_learning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100647",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "648_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100648",
+    "text_pt": "Termina às 19h.",
+    "text_en": "It finishes at 7 PM.",
+    "audio_en_storage_path": "649_it_finishes_at_7_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100649",
+    "text_pt": "Termina às sete.",
+    "text_en": "Ends at seven.",
+    "audio_en_storage_path": "650_ends_at_seven.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100650",
+    "text_pt": "Ela não desiste de aprender.",
+    "text_en": "She won’t give up on learning.",
+    "audio_en_storage_path": "651_she_wont_give_up_on_learning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100651",
+    "text_pt": "Ela não desiste de aprender.",
+    "text_en": "She ain't givin’ up on learnin’.",
+    "audio_en_storage_path": "652_she_aint_givin_up_on_learnin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100652",
+    "text_pt": "Ele faz perguntas para melhorar.",
+    "text_en": "He asks questions to improve.",
+    "audio_en_storage_path": "653_he_asks_questions_to_improve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100653",
+    "text_pt": "Ele faz perguntas para melhorar.",
+    "text_en": "He asks questions to get better.",
+    "audio_en_storage_path": "654_he_asks_questions_to_get_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100654",
+    "text_pt": "Biblioteca / Livraria",
+    "text_en": "Library / Bookstore",
+    "audio_en_storage_path": "655_library_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

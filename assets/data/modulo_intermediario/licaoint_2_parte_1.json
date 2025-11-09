@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110141",
+    "text_pt": "Terça-feira – Dia de Foco",
+    "text_en": "Tuesday – Focus Day",
+    "audio_en_storage_path": "141_tuesday_focus_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110142",
+    "text_pt": "Foco: Trabalho concentrado. Reuniões. Produtividade.",
+    "text_en": "Focus: Concentrated work. Meetings. Productivity",
+    "audio_en_storage_path": "142_focus_concentrated_work_meetings_productivity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110143",
+    "text_pt": "Acordo às 6:30 novamente.",
+    "text_en": "I wake up at 6:30 again.",
+    "audio_en_storage_path": "143_i_wake_up_at_630_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110144",
+    "text_pt": "Faz parte da minha rotina diária.",
+    "text_en": "It's part of my daily routine.",
+    "audio_en_storage_path": "144_its_part_of_my_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110145",
+    "text_pt": "Eu faço café e como cereal.",
+    "text_en": "I make coffee and eat cereal.",
+    "audio_en_storage_path": "145_i_make_coffee_and_eat_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110146",
+    "text_pt": "Rápido, mas saudável.",
+    "text_en": "Quick but healthy.",
+    "audio_en_storage_path": "146_quick_but_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110147",
+    "text_pt": "Chego ao trabalho às 7:45.",
+    "text_en": "I arrive at work at 7:45.",
+    "audio_en_storage_path": "147_i_arrive_at_work_at_745.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110148",
+    "text_pt": "Começo a verificar minha agenda.",
+    "text_en": "I start checking my schedule.",
+    "audio_en_storage_path": "148_i_start_checking_my_schedule.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110149",
+    "text_pt": "Temos uma reunião de equipe às 9:00.",
+    "text_en": "We have a team meeting at 9:00.",
+    "audio_en_storage_path": "149_we_have_a_team_meeting_at_900.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110150",
+    "text_pt": "Compartilho atualizações sobre meus projetos.",
+    "text_en": "I share updates about my projects.",
+    "audio_en_storage_path": "150_i_share_updates_about_my_projects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110151",
+    "text_pt": "Depois da reunião, escrevo relatórios.",
+    "text_en": "After the meeting. I write reports.",
+    "audio_en_storage_path": "151_after_the_meeting_i_write_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110152",
+    "text_pt": "Eu também envio alguns e-mails.",
+    "text_en": "I also send some emails.",
+    "audio_en_storage_path": "152_i_also_send_some_emails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110153",
+    "text_pt": "Na hora do almoço, como com colegas de trabalho.",
+    "text_en": "At lunchtime. I eat with coworkers.",
+    "audio_en_storage_path": "153_at_lunchtime_i_eat_with_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110154",
+    "text_pt": "Falamos sobre trabalho e vida.",
+    "text_en": "We talk about work and life.",
+    "audio_en_storage_path": "154_we_talk_about_work_and_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110155",
+    "text_pt": "Quem é seu gerente?",
+    "text_en": "Who is your manager?",
+    "audio_en_storage_path": "155_who_is_your_manager.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110156",
+    "text_pt": "O nome dela é Sarah. Ela é simpática.",
+    "text_en": "Her name is Sarah. She is nice.",
+    "audio_en_storage_path": "156_her_name_is_sarah_she_is_nice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110157",
+    "text_pt": "Onde fica seu escritório?",
+    "text_en": "Where is your office?",
+    "audio_en_storage_path": "157_where_is_your_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110158",
+    "text_pt": "Fica no terceiro andar.",
+    "text_en": "It's on the third floor.",
+    "audio_en_storage_path": "158_its_on_the_third_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110159",
+    "text_pt": "Quando você geralmente se sente cansado?",
+    "text_en": "When do you usually feel tired?",
+    "audio_en_storage_path": "159_when_do_you_usually_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110160",
+    "text_pt": "Por volta das 15:00.",
+    "text_en": "Around 3:00 PM.",
+    "audio_en_storage_path": "160_around_300_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110161",
+    "text_pt": "Eu uso meu computador o dia todo.",
+    "text_en": "I use my computer all day.",
+    "audio_en_storage_path": "161_i_use_my_computer_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110162",
+    "text_pt": "Isso me ajuda a organizar meu trabalho.",
+    "text_en": "It helps me organize my work.",
+    "audio_en_storage_path": "162_it_helps_me_organize_my_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110163",
+    "text_pt": "Amanhã. Não chegarei atrasado para a reunião.",
+    "text_en": "Tomorrow. I will not be late for the meeting.",
+    "audio_en_storage_path": "163_tomorrow_i_will_not_be_late_for_the_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110164",
+    "text_pt": "Chegarei cedo.",
+    "text_en": "I will arrive early.",
+    "audio_en_storage_path": "164_i_will_arrive_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110165",
+    "text_pt": "Ótimo trabalho de foco hoje!",
+    "text_en": "Great job focusing today!",
+    "audio_en_storage_path": "165_great_job_focusing_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110166",
+    "text_pt": "Continue firme e forte esta semana!",
+    "text_en": "Keep going strong this week!",
+    "audio_en_storage_path": "166_keep_going_strong_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

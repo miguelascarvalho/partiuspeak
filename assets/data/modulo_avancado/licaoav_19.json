@@ -1,0 +1,839 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131685",
+    "text_pt": "Superando Desafios: Personagens Enfrentando Adversidades e Alcançando Grandes Conquistas",
+    "text_en": "Overcoming Challenges: Characters Facing Adversities and Achieving Great Accomplishments",
+    "audio_en_storage_path": "1685_overcoming_challenges_characters_facing_adversities_and_achieving_great_accomplishments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131686",
+    "text_pt": "Superar desafios é um tema universal que repercute profundamente no público.",
+    "text_en": "Overcoming challenges is a universal theme that resonates deeply with audiences.",
+    "audio_en_storage_path": "1686_overcoming_challenges_is_a_universal_theme_that_resonates_deeply_with_audiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131687",
+    "text_pt": "Os personagens enfrentam obstáculos que testam sua força, coragem e determinação.",
+    "text_en": "Characters face obstacles that test their strength. courage. and determination.",
+    "audio_en_storage_path": "1687_characters_face_obstacles_that_test_their_strength_courage_and_determination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131688",
+    "text_pt": "A adversidade assume muitas formas: física, emocional, financeira ou social.",
+    "text_en": "Adversity takes many forms—physical. emotional. financial. or societal.",
+    "audio_en_storage_path": "1688_adversity_takes_many_formsphysical_emotional_financial_or_societal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131689",
+    "text_pt": "Cada obstáculo molda a jornada do personagem e define seu crescimento.",
+    "text_en": "Each hurdle shapes the character’s journey and defines their growth.",
+    "audio_en_storage_path": "1689_each_hurdle_shapes_the_characters_journey_and_defines_their_growth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131690",
+    "text_pt": "Doenças e deficiências destacam a resiliência do espírito humano.",
+    "text_en": "Illnesses and disabilities highlight the resilience of the human spirit.",
+    "audio_en_storage_path": "1690_illnesses_and_disabilities_highlight_the_resilience_of_the_human_spirit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131691",
+    "text_pt": "Os personagens se adaptam e prosperam apesar das limitações impostas por suas condições.",
+    "text_en": "Characters adapt and thrive despite limitations imposed by their conditions.",
+    "audio_en_storage_path": "1691_characters_adapt_and_thrive_despite_limitations_imposed_by_their_conditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131692",
+    "text_pt": "A pobreza força os personagens a fazer escolhas difíceis para sobreviver.",
+    "text_en": "Poverty forces characters to make difficult choices to survive.",
+    "audio_en_storage_path": "1692_poverty_forces_characters_to_make_difficult_choices_to_survive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131693",
+    "text_pt": "A engenhosidade e a desenvoltura os ajudam a superar dificuldades econômicas.",
+    "text_en": "Resourcefulness and ingenuity help them overcome economic hardships.",
+    "audio_en_storage_path": "1693_resourcefulness_and_ingenuity_help_them_overcome_economic_hardships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131694",
+    "text_pt": "A discriminação baseada em raça, gênero ou classe acrescenta camadas de complexidade.",
+    "text_en": "Discrimination based on race. gender. or class adds layers of complexity.",
+    "audio_en_storage_path": "1694_discrimination_based_on_race_gender_or_class_adds_layers_of_complexity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131695",
+    "text_pt": "Personagens lutam por igualdade e justiça em sociedades injustas.",
+    "text_en": "Characters fight for equality and justice in unjust societies.",
+    "audio_en_storage_path": "1695_characters_fight_for_equality_and_justice_in_unjust_societies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131696",
+    "text_pt": "Traumas de experiências passadas assombram, mas acabam fortalecendo os protagonistas.",
+    "text_en": "Trauma from past experiences haunts but ultimately strengthens protagonists.",
+    "audio_en_storage_path": "1696_trauma_from_past_experiences_haunts_but_ultimately_strengthens_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131697",
+    "text_pt": "A cura e o perdão abrem caminho para triunfos pessoais.",
+    "text_en": "Healing and forgiveness pave the way for personal triumphs.",
+    "audio_en_storage_path": "1697_healing_and_forgiveness_pave_the_way_for_personal_triumphs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131698",
+    "text_pt": "Os sistemas de apoio oferecem conforto e incentivo em momentos difíceis.",
+    "text_en": "Support systems provide comfort and encouragement during tough times.",
+    "audio_en_storage_path": "1698_support_systems_provide_comfort_and_encouragement_during_tough_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131699",
+    "text_pt": "Amigos, familiares e mentores se unem em torno dos personagens em momentos de necessidade.",
+    "text_en": "Friends. family. and mentors rally around characters in moments of need.",
+    "audio_en_storage_path": "1699_friends_family_and_mentors_rally_around_characters_in_moments_of_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131700",
+    "text_pt": "A dúvida atinge até mesmo os indivíduos mais confiantes em momentos críticos.",
+    "text_en": "Self-doubt plagues even the most confident individuals at critical junctures.",
+    "audio_en_storage_path": "1700_selfdoubt_plagues_even_the_most_confident_individuals_at_critical_junctures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131701",
+    "text_pt": "Vozes interiores questionam se eles têm o que é preciso para ter sucesso.",
+    "text_en": "Inner voices question whether they have what it takes to succeed.",
+    "audio_en_storage_path": "1701_inner_voices_question_whether_they_have_what_it_takes_to_succeed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131702",
+    "text_pt": "A perseverança se torna a característica definidora dos personagens que superam desafios.",
+    "text_en": "Perseverance becomes the defining trait of characters who overcome challenges.",
+    "audio_en_storage_path": "1702_perseverance_becomes_the_defining_trait_of_characters_who_overcome_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131703",
+    "text_pt": "Eles se recusam a desistir, não importa quão intransponíveis as probabilidades possam parecer.",
+    "text_en": "They refuse to give up. no matter how insurmountable the odds may seem.",
+    "audio_en_storage_path": "1703_they_refuse_to_give_up_no_matter_how_insurmountable_the_odds_may_seem.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131704",
+    "text_pt": "Pequenas vitórias ao longo do caminho criam impulso em direção a conquistas maiores.",
+    "text_en": "Small victories along the way build momentum toward larger achievements.",
+    "audio_en_storage_path": "1704_small_victories_along_the_way_build_momentum_toward_larger_achievements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131705",
+    "text_pt": "Cada sucesso reforça a crença de que realizações maiores são possíveis.",
+    "text_en": "Each success reinforces the belief that greater accomplishments are possible.",
+    "audio_en_storage_path": "1705_each_success_reinforces_the_belief_that_greater_accomplishments_are_possible.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131706",
+    "text_pt": "Criatividade e inovação surgem como soluções para problemas aparentemente insolúveis.",
+    "text_en": "Creativity and innovation emerge as solutions to seemingly unsolvable problems.",
+    "audio_en_storage_path": "1706_creativity_and_innovation_emerge_as_solutions_to_seemingly_unsolvable_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131707",
+    "text_pt": "Pensar fora da caixa leva a avanços e resultados inesperados.",
+    "text_en": "Thinking outside the box leads to breakthroughs and unexpected outcomes.",
+    "audio_en_storage_path": "1707_thinking_outside_the_box_leads_to_breakthroughs_and_unexpected_outcomes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131708",
+    "text_pt": "Fé e espiritualidade sustentam personagens durante períodos de desespero.",
+    "text_en": "Faith and spirituality sustain characters during periods of despair.",
+    "audio_en_storage_path": "1708_faith_and_spirituality_sustain_characters_during_periods_of_despair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131709",
+    "text_pt": "Oração, meditação e esperança os ancoram em tempos turbulentos.",
+    "text_en": "Prayer. meditation. and hope anchor them in turbulent times.",
+    "audio_en_storage_path": "1709_prayer_meditation_and_hope_anchor_them_in_turbulent_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131710",
+    "text_pt": "A educação transforma vidas abrindo portas para novas oportunidades.",
+    "text_en": "Education transforms lives by opening doors to new opportunities.",
+    "audio_en_storage_path": "1710_education_transforms_lives_by_opening_doors_to_new_opportunities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131711",
+    "text_pt": "O aprendizado capacita os personagens a se libertarem de ciclos de desvantagem.",
+    "text_en": "Learning empowers characters to break free from cycles of disadvantage.",
+    "audio_en_storage_path": "1711_learning_empowers_characters_to_break_free_from_cycles_of_disadvantage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131712",
+    "text_pt": "O envolvimento da comunidade promove a solidariedade e o progresso coletivo.",
+    "text_en": "Community involvement fosters solidarity and collective progress.",
+    "audio_en_storage_path": "1712_community_involvement_fosters_solidarity_and_collective_progress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131713",
+    "text_pt": "Os personagens elevam os outros enquanto se esforçam para melhorar suas próprias circunstâncias.",
+    "text_en": "Characters uplift others while striving to better their own circumstances.",
+    "audio_en_storage_path": "1713_characters_uplift_others_while_striving_to_better_their_own_circumstances.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131714",
+    "text_pt": "Atos de gentileza lembram ao público a bondade inerente à humanidade.",
+    "text_en": "Acts of kindness remind audiences of the goodness inherent in humanity.",
+    "audio_en_storage_path": "1714_acts_of_kindness_remind_audiences_of_the_goodness_inherent_in_humanity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131715",
+    "text_pt": "Ajudar os outros se torna uma fonte de força e realização para os protagonistas.",
+    "text_en": "Helping others becomes a source of strength and fulfillment for protagonists.",
+    "audio_en_storage_path": "1715_helping_others_becomes_a_source_of_strength_and_fulfillment_for_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131716",
+    "text_pt": "Traição e perda aumentam os riscos emocionais de superar desafios.",
+    "text_en": "Betrayal and loss deepen the emotional stakes of overcoming challenges.",
+    "audio_en_storage_path": "1716_betrayal_and_loss_deepen_the_emotional_stakes_of_overcoming_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131717",
+    "text_pt": "Personagens aprendem a reconstruir a confiança e seguir em frente após um coração partido.",
+    "text_en": "Characters learn to rebuild trust and move forward after heartbreak.",
+    "audio_en_storage_path": "1717_characters_learn_to_rebuild_trust_and_move_forward_after_heartbreak.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131718",
+    "text_pt": "A coragem se manifesta tanto em grandes gestos quanto em atos silenciosos de desafio.",
+    "text_en": "Courage manifests in both grand gestures and quiet acts of defiance.",
+    "audio_en_storage_path": "1718_courage_manifests_in_both_grand_gestures_and_quiet_acts_of_defiance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131719",
+    "text_pt": "Permanecer firme diante do medo inspira admiração e respeito.",
+    "text_en": "Standing firm in the face of fear inspires admiration and respect.",
+    "audio_en_storage_path": "1719_standing_firm_in_the_face_of_fear_inspires_admiration_and_respect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131720",
+    "text_pt": "Os sonhos servem como luzes guia em tempos sombrios e incertos.",
+    "text_en": "Dreams serve as guiding lights during dark and uncertain times.",
+    "audio_en_storage_path": "1720_dreams_serve_as_guiding_lights_during_dark_and_uncertain_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131721",
+    "text_pt": "Imaginar um futuro melhor motiva os personagens a seguir em frente.",
+    "text_en": "Imagining a brighter future motivates characters to keep pushing forward.",
+    "audio_en_storage_path": "1721_imagining_a_brighter_future_motivates_characters_to_keep_pushing_forward.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131722",
+    "text_pt": "A resiliência é celebrada como a pedra angular para superar a adversidade.",
+    "text_en": "Resilience is celebrated as the cornerstone of overcoming adversity.",
+    "audio_en_storage_path": "1722_resilience_is_celebrated_as_the_cornerstone_of_overcoming_adversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131723",
+    "text_pt": "Recuperar-se de contratempos demonstra o poder da vontade humana.",
+    "text_en": "Bouncing back from setbacks demonstrates the power of the human will.",
+    "audio_en_storage_path": "1723_bouncing_back_from_setbacks_demonstrates_the_power_of_the_human_will.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131724",
+    "text_pt": "Dilemas morais complicam decisões tomadas sob pressão.",
+    "text_en": "Moral dilemmas complicate decisions made under pressure.",
+    "audio_en_storage_path": "1724_moral_dilemmas_complicate_decisions_made_under_pressure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131725",
+    "text_pt": "Personagens avaliam os custos de comprometer valores em troca de ganhos de curto prazo.",
+    "text_en": "Characters weigh the costs of compromising values for short-term gains.",
+    "audio_en_storage_path": "1725_characters_weigh_the_costs_of_compromising_values_for_shortterm_gains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131726",
+    "text_pt": "Superar desafios nos lembra da nossa capacidade de crescimento e transformação.",
+    "text_en": "Overcoming challenges reminds us of our capacity for growth and transformation.",
+    "audio_en_storage_path": "1726_overcoming_challenges_reminds_us_of_our_capacity_for_growth_and_transformation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131727",
+    "text_pt": "Cada obstáculo superado nos aproxima da realização de todo o nosso potencial.",
+    "text_en": "Every obstacle conquered brings us closer to realizing our full potential.",
+    "audio_en_storage_path": "1727_every_obstacle_conquered_brings_us_closer_to_realizing_our_full_potential.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131728",
+    "text_pt": "Esporte e Competição: Histórias de Atletas ou Equipes que Superaram Dificuldades para Vencer",
+    "text_en": "Sports and Competition: Stories of Athletes or Teams Overcoming Difficulties to Win",
+    "audio_en_storage_path": "1728_sports_and_competition_stories_of_athletes_or_teams_overcoming_difficulties_to_win.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131729",
+    "text_pt": "Esportes e competições representam a emoção da vitória e a agonia da derrota.",
+    "text_en": "Sports and competition embody the thrill of victory and the agony of defeat.",
+    "audio_en_storage_path": "1729_sports_and_competition_embody_the_thrill_of_victory_and_the_agony_of_defeat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131730",
+    "text_pt": "Atletas dedicam suas vidas a dominar habilidades e alcançar a excelência.",
+    "text_en": "Athletes dedicate their lives to mastering skills and achieving excellence.",
+    "audio_en_storage_path": "1730_athletes_dedicate_their_lives_to_mastering_skills_and_achieving_excellence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131731",
+    "text_pt": "Os regimes de treinamento levam os limites físicos e mentais a novos patamares.",
+    "text_en": "Training regimens push physical and mental limits to new heights.",
+    "audio_en_storage_path": "1731_training_regimens_push_physical_and_mental_limits_to_new_heights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131732",
+    "text_pt": "Disciplina e sacrifício formam a base do sucesso atlético.",
+    "text_en": "Discipline and sacrifice form the foundation of athletic success.",
+    "audio_en_storage_path": "1732_discipline_and_sacrifice_form_the_foundation_of_athletic_success.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131733",
+    "text_pt": "O trabalho em equipe destaca o poder da colaboração em ambientes competitivos.",
+    "text_en": "Teamwork highlights the power of collaboration in competitive environments.",
+    "audio_en_storage_path": "1733_teamwork_highlights_the_power_of_collaboration_in_competitive_environments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131734",
+    "text_pt": "Os jogadores confiam uns nos outros para executar estratégias e garantir vitórias.",
+    "text_en": "Players rely on each other to execute strategies and secure wins.",
+    "audio_en_storage_path": "1734_players_rely_on_each_other_to_execute_strategies_and_secure_wins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131735",
+    "text_pt": "Histórias de azarões cativam o público com contos de triunfos improváveis.",
+    "text_en": "Underdog stories captivate audiences with tales of unlikely triumphs.",
+    "audio_en_storage_path": "1735_underdog_stories_captivate_audiences_with_tales_of_unlikely_triumphs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131736",
+    "text_pt": "Derrotar adversários favoritos prova que tudo é possível com coragem.",
+    "text_en": "Beating favored opponents proves that anything is possible with grit.",
+    "audio_en_storage_path": "1736_beating_favored_opponents_proves_that_anything_is_possible_with_grit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131737",
+    "text_pt": "Lesões ameaçam carreiras, mas também mostram a resiliência dos atletas.",
+    "text_en": "Injuries threaten careers but also showcase the resilience of athletes.",
+    "audio_en_storage_path": "1737_injuries_threaten_careers_but_also_showcase_the_resilience_of_athletes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131738",
+    "text_pt": "Reabilitação e perseverança permitem que os competidores retornem mais fortes do que nunca.",
+    "text_en": "Rehabilitation and perseverance allow competitors to return stronger than ever.",
+    "audio_en_storage_path": "1738_rehabilitation_and_perseverance_allow_competitors_to_return_stronger_than_ever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131739",
+    "text_pt": "Os treinadores desempenham papéis essenciais na formação da mentalidade e do desempenho das equipes.",
+    "text_en": "Coaches play pivotal roles in shaping the mindset and performance of teams.",
+    "audio_en_storage_path": "1739_coaches_play_pivotal_roles_in_shaping_the_mindset_and_performance_of_teams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131740",
+    "text_pt": "A orientação deles inspira confiança e promove a união entre os jogadores.",
+    "text_en": "Their guidance instills confidence and fosters unity among players.",
+    "audio_en_storage_path": "1740_their_guidance_instills_confidence_and_fosters_unity_among_players.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131741",
+    "text_pt": "Rivalidades acrescentam intensidade e drama às narrativas esportivas.",
+    "text_en": "Rivalries add intensity and drama to sports narratives.",
+    "audio_en_storage_path": "1741_rivalries_add_intensity_and_drama_to_sports_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131742",
+    "text_pt": "Confrontos entre rivais elevam os jogos ao status de lendas.",
+    "text_en": "Clashes between rivals elevate games to legendary status.",
+    "audio_en_storage_path": "1742_clashes_between_rivals_elevate_games_to_legendary_status.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131743",
+    "text_pt": "A pressão aumenta à medida que campeonatos e títulos estão em jogo.",
+    "text_en": "Pressure mounts as championships and titles hang in the balance.",
+    "audio_en_storage_path": "1743_pressure_mounts_as_championships_and_titles_hang_in_the_balance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131744",
+    "text_pt": "Partidas de alto risco testam os nervos e revelam verdadeiros campeões.",
+    "text_en": "High-stakes matches test nerves and reveal true champions.",
+    "audio_en_storage_path": "1744_highstakes_matches_test_nerves_and_reveal_true_champions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131745",
+    "text_pt": "A diversidade dentro das equipes reflete a inclusão da cultura esportiva moderna.",
+    "text_en": "Diversity within teams reflects the inclusivity of modern sports culture.",
+    "audio_en_storage_path": "1745_diversity_within_teams_reflects_the_inclusivity_of_modern_sports_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131746",
+    "text_pt": "Atletas de diferentes origens se unem em torno de um objetivo comum.",
+    "text_en": "Athletes from different backgrounds unite under a common goal.",
+    "audio_en_storage_path": "1746_athletes_from_different_backgrounds_unite_under_a_common_goal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131747",
+    "text_pt": "O apoio dos fãs energiza os atletas e cria atmosferas inesquecíveis.",
+    "text_en": "Fan support energizes athletes and creates unforgettable atmospheres.",
+    "audio_en_storage_path": "1747_fan_support_energizes_athletes_and_creates_unforgettable_atmospheres.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131748",
+    "text_pt": "Multidões aplaudem intensamente, amplificando a emoção de cada jogada.",
+    "text_en": "Crowds cheer loudly. amplifying the excitement of every play.",
+    "audio_en_storage_path": "1748_crowds_cheer_loudly_amplifying_the_excitement_of_every_play.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131749",
+    "text_pt": "Vitórias inesperadas desafiam expectativas e inspiram admiração.",
+    "text_en": "Come-from-behind victories defy expectations and inspire awe.",
+    "audio_en_storage_path": "1749_comefrombehind_victories_defy_expectations_and_inspire_awe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131750",
+    "text_pt": "Os feitos heróicos do final do jogo consolidam o lugar dos jogadores nos livros de história.",
+    "text_en": "Late-game heroics cement players’ places in history books.",
+    "audio_en_storage_path": "1750_lategame_heroics_cement_players_places_in_history_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131751",
+    "text_pt": "Os sonhos olímpicos motivam os atletas a representar seus países em palcos globais.",
+    "text_en": "Olympic dreams motivate athletes to represent their countries on global stages.",
+    "audio_en_storage_path": "1751_olympic_dreams_motivate_athletes_to_represent_their_countries_on_global_stages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131752",
+    "text_pt": "Medalhas de ouro simbolizam anos de trabalho duro e dedicação inabalável.",
+    "text_en": "Gold medals symbolize years of hard work and unwavering dedication.",
+    "audio_en_storage_path": "1752_gold_medals_symbolize_years_of_hard_work_and_unwavering_dedication.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131753",
+    "text_pt": "Superar demônios pessoais amplia o triunfo das conquistas atléticas.",
+    "text_en": "Overcoming personal demons amplifies the triumph of athletic achievements.",
+    "audio_en_storage_path": "1753_overcoming_personal_demons_amplifies_the_triumph_of_athletic_achievements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131754",
+    "text_pt": "Vício, dúvida e trauma são superados pela pura força de vontade.",
+    "text_en": "Addiction. doubt. and trauma are conquered through sheer willpower.",
+    "audio_en_storage_path": "1754_addiction_doubt_and_trauma_are_conquered_through_sheer_willpower.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131755",
+    "text_pt": "Treinadores inspiradores orientam jovens talentos e moldam seus futuros.",
+    "text_en": "Inspiring coaches mentor young talents and shape their futures.",
+    "audio_en_storage_path": "1755_inspiring_coaches_mentor_young_talents_and_shape_their_futures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131756",
+    "text_pt": "As lições aprendidas vão além do campo e chegam à vida cotidiana.",
+    "text_en": "Lessons learned extend beyond the field into everyday life.",
+    "audio_en_storage_path": "1756_lessons_learned_extend_beyond_the_field_into_everyday_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131757",
+    "text_pt": "Desempenhos recordes reescrevem os anais da história do esporte.",
+    "text_en": "Record-breaking performances rewrite the annals of sports history.",
+    "audio_en_storage_path": "1757_recordbreaking_performances_rewrite_the_annals_of_sports_history.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131758",
+    "text_pt": "Velocidade, força e habilidade se combinam para alcançar o extraordinário.",
+    "text_en": "Speed. strength. and skill combine to achieve the extraordinary.",
+    "audio_en_storage_path": "1758_speed_strength_and_skill_combine_to_achieve_the_extraordinary.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131759",
+    "text_pt": "A família desempenha um papel fundamental no apoio às aspirações dos atletas.",
+    "text_en": "Family plays a key role in supporting athletes’ aspirations.",
+    "audio_en_storage_path": "1759_family_plays_a_key_role_in_supporting_athletes_aspirations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131760",
+    "text_pt": "Pais e irmãos assistem aos jogos, torcendo nas laterais do campo.",
+    "text_en": "Parents and siblings attend games. cheering from the sidelines.",
+    "audio_en_storage_path": "1760_parents_and_siblings_attend_games_cheering_from_the_sidelines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131761",
+    "text_pt": "Patrocínios e endossos recompensam atletas por suas realizações.",
+    "text_en": "Sponsorships and endorsements reward athletes for their accomplishments.",
+    "audio_en_storage_path": "1761_sponsorships_and_endorsements_reward_athletes_for_their_accomplishments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131762",
+    "text_pt": "As marcas reconhecem o valor de se associar a campeões.",
+    "text_en": "Brands recognize the value of associating with champions.",
+    "audio_en_storage_path": "1762_brands_recognize_the_value_of_associating_with_champions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131763",
+    "text_pt": "A cobertura da mídia amplia o alcance e o impacto das histórias esportivas.",
+    "text_en": "Media coverage amplifies the reach and impact of sports stories.",
+    "audio_en_storage_path": "1763_media_coverage_amplifies_the_reach_and_impact_of_sports_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131764",
+    "text_pt": "As transmissões aproximam os fãs da ação e de seus heróis.",
+    "text_en": "Broadcasts bring fans closer to the action and its heroes.",
+    "audio_en_storage_path": "1764_broadcasts_bring_fans_closer_to_the_action_and_its_heroes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131765",
+    "text_pt": "O legado se torna uma força motriz para atletas próximos da aposentadoria.",
+    "text_en": "Legacy becomes a driving force for athletes nearing retirement.",
+    "audio_en_storage_path": "1765_legacy_becomes_a_driving_force_for_athletes_nearing_retirement.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131766",
+    "text_pt": "Deixar uma marca garante que suas contribuições sejam lembradas para sempre.",
+    "text_en": "Leaving a mark ensures their contributions are remembered forever.",
+    "audio_en_storage_path": "1766_leaving_a_mark_ensures_their_contributions_are_remembered_forever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131767",
+    "text_pt": "Programas para jovens preparam a próxima geração de estrelas do esporte.",
+    "text_en": "Youth programs nurture the next generation of sports stars.",
+    "audio_en_storage_path": "1767_youth_programs_nurture_the_next_generation_of_sports_stars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131768",
+    "text_pt": "Clínicas e acampamentos transmitem conhecimento e paixão aos aspirantes a atletas.",
+    "text_en": "Clinics and camps pass down knowledge and passion to aspiring athletes.",
+    "audio_en_storage_path": "1768_clinics_and_camps_pass_down_knowledge_and_passion_to_aspiring_athletes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131769",
+    "text_pt": "O espírito esportivo enfatiza o respeito e a integridade na competição.",
+    "text_en": "Sportsmanship emphasizes respect and integrity in competition.",
+    "audio_en_storage_path": "1769_sportsmanship_emphasizes_respect_and_integrity_in_competition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131770",
+    "text_pt": "Vencer não é tudo; a maneira como você joga é igualmente importante.",
+    "text_en": "Winning isn’t everything; how you play matters just as much.",
+    "audio_en_storage_path": "1770_winning_isnt_everything_how_you_play_matters_just_as_much.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131771",
+    "text_pt": "A competição ensina lições valiosas sobre trabalho em equipe e perseverança.",
+    "text_en": "Competition teaches valuable lessons about teamwork and perseverance.",
+    "audio_en_storage_path": "1771_competition_teaches_valuable_lessons_about_teamwork_and_perseverance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131772",
+    "text_pt": "Perdas machucam, mas também oferecem oportunidades de crescimento.",
+    "text_en": "Losses sting. but they also provide opportunities for growth.",
+    "audio_en_storage_path": "1772_losses_sting_but_they_also_provide_opportunities_for_growth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131773",
+    "text_pt": "As narrativas esportivas repercutem porque refletem lutas da vida real.",
+    "text_en": "Sports narratives resonate because they mirror real-life struggles.",
+    "audio_en_storage_path": "1773_sports_narratives_resonate_because_they_mirror_reallife_struggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131774",
+    "text_pt": "O público se vê nos desafios enfrentados pelos atletas.",
+    "text_en": "Audiences see themselves in the challenges faced by athletes.",
+    "audio_en_storage_path": "1774_audiences_see_themselves_in_the_challenges_faced_by_athletes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131775",
+    "text_pt": "As celebrações da vitória unem comunidades e nações em alegria.",
+    "text_en": "Victory celebrations unite communities and nations in joy.",
+    "audio_en_storage_path": "1775_victory_celebrations_unite_communities_and_nations_in_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131776",
+    "text_pt": "Desfiles e festas homenageiam conquistas e unem as pessoas.",
+    "text_en": "Parades and parties honor achievements and bring people together.",
+    "audio_en_storage_path": "1776_parades_and_parties_honor_achievements_and_bring_people_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131777",
+    "text_pt": "Histórias esportivas nos lembram que esforço e determinação geram recompensas.",
+    "text_en": "Sports stories remind us that effort and determination yield rewards.",
+    "audio_en_storage_path": "1777_sports_stories_remind_us_that_effort_and_determination_yield_rewards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

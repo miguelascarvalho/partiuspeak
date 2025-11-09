@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103966",
+    "text_pt": "Perguntando sobre hotel",
+    "text_en": "Asking about hotel",
+    "audio_en_storage_path": "3066_asking_about_hotel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103967",
+    "text_pt": "Bom dia! Você está hospedado em um hotel?",
+    "text_en": "Good morning! Are you staying in a hotel?",
+    "audio_en_storage_path": "3067_good_morning_are_you_staying_in_a_hotel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103968",
+    "text_pt": "Sim — Hotel Garden. perto do shopping.",
+    "text_en": "Yes — Hotel Garden. near the mall.",
+    "audio_en_storage_path": "3068_yes_hotel_garden_near_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103969",
+    "text_pt": "Bela região! Há quanto tempo você está aqui?",
+    "text_en": "Nice area! How long are you here for?",
+    "audio_en_storage_path": "3069_nice_area_how_long_are_you_here_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103970",
+    "text_pt": "Uma semana — saindo no domingo.",
+    "text_en": "One week — leaving Sunday.",
+    "audio_en_storage_path": "3070_one_week_leaving_sunday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103971",
+    "text_pt": "Aproveite ao máximo — São Paulo é cheia de vida.",
+    "text_en": "Make the most of it — São Paulo is full of life.",
+    "audio_en_storage_path": "3071_make_the_most_of_it_sao_paulo_is_full_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103972",
+    "text_pt": "Eu sei — já fiz planos para quatro dias.",
+    "text_en": "I know — already made plans for four days.",
+    "audio_en_storage_path": "3072_i_know_already_made_plans_for_four_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103973",
+    "text_pt": "Perfeito! Me avise se precisar de mais ideias.",
+    "text_en": "Perfect! Let me know if you need more ideas.",
+    "audio_en_storage_path": "3073_perfect_let_me_know_if_you_need_more_ideas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103974",
+    "text_pt": "Farei isso — obrigado por ser tão simpático.",
+    "text_en": "Will do — thanks for being so friendly.",
+    "audio_en_storage_path": "3074_will_do_thanks_for_being_so_friendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103975",
+    "text_pt": "Gosta de tomar cerveja?",
+    "text_en": "Do you like drinking beer?",
+    "audio_en_storage_path": "3075_do_you_like_drinking_beer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103976",
+    "text_pt": "Ei! Gosta de cerveja?",
+    "text_en": "Hey! Like beer?",
+    "audio_en_storage_path": "3076_hey_like_beer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103977",
+    "text_pt": "Sim. a maioria são artesanais.",
+    "text_en": "Yes — mostly craft ones.",
+    "audio_en_storage_path": "3077_yes_mostly_craft_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103978",
+    "text_pt": "Você deve experimentar Colorado ou Devassa — marcas locais.",
+    "text_en": "You should try Colorado or Devassa — local brands.",
+    "audio_en_storage_path": "3078_you_should_try_colorado_or_devassa_local_brands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103979",
+    "text_pt": "Algum lugar bom por aqui?",
+    "text_en": "Any good place around here?",
+    "audio_en_storage_path": "3079_any_good_place_around_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103980",
+    "text_pt": "O Bar Brahma oferece cerveja gelada e petiscos.",
+    "text_en": "Bar Brahma has cold beer and snacks.",
+    "audio_en_storage_path": "3080_bar_brahma_has_cold_beer_and_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103981",
+    "text_pt": "Parece bom — a que horas as pessoas costumam ir?",
+    "text_en": "Sounds good — what time do people usually go?",
+    "audio_en_storage_path": "3081_sounds_good_what_time_do_people_usually_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103982",
+    "text_pt": "Depois das 19h — não muito cedo.",
+    "text_en": "After 7 PM — not too early.",
+    "audio_en_storage_path": "3082_after_7_pm_not_too_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103983",
+    "text_pt": "Legal — passo aí mais tarde.",
+    "text_en": "Cool — I’ll stop later.",
+    "audio_en_storage_path": "3083_cool_ill_stop_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103984",
+    "text_pt": "Espero que gostem — nos vemos lá!",
+    "text_en": "Hope you enjoy it — see you there!",
+    "audio_en_storage_path": "3084_hope_you_enjoy_it_see_you_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103985",
+    "text_pt": "Você vai ficar só aqui ou viajar?",
+    "text_en": "Are you going to stay here alone or travel?",
+    "audio_en_storage_path": "3085_are_you_going_to_stay_here_alone_or_travel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103986",
+    "text_pt": "Ei! Você vai ficar só em São Paulo?",
+    "text_en": "Hey! Will you stay only in São Paulo?",
+    "audio_en_storage_path": "3086_hey_will_you_stay_only_in_sao_paulo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103987",
+    "text_pt": "Não — vou para Curitiba e Florianópolis também.",
+    "text_en": "No — I’m going to Curitiba and Florianópolis too.",
+    "audio_en_storage_path": "3087_no_im_going_to_curitiba_and_florianopolis_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103988",
+    "text_pt": "Boas escolhas! Curitiba tem parques verdes e trens.",
+    "text_en": "Nice choices! Curitiba has green parks and trains.",
+    "audio_en_storage_path": "3088_nice_choices_curitiba_has_green_parks_and_trains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103989",
+    "text_pt": "E Florianópolis — praias e frutos do mar.",
+    "text_en": "And Florianópolis — beaches and seafood.",
+    "audio_en_storage_path": "3089_and_florianopolis_beaches_and_seafood.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103990",
+    "text_pt": "Exatamente! Me mande uma mensagem quando chegar.",
+    "text_en": "Exactly! Send me a message when you arrive.",
+    "audio_en_storage_path": "3090_exactly_send_me_a_message_when_you_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103991",
+    "text_pt": "Farei isso — postarei no Instagram também.",
+    "text_en": "Will do — I’ll post on Instagram too.",
+    "audio_en_storage_path": "3091_will_do_ill_post_on_instagram_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103992",
+    "text_pt": "Eu vou segui-lo — espero que você aproveite cada cidade.",
+    "text_en": "I’ll follow — hope you enjoy every city.",
+    "audio_en_storage_path": "3092_ill_follow_hope_you_enjoy_every_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

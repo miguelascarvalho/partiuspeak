@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111025",
+    "text_pt": "Balsa / Barco",
+    "text_en": "Ferry / Boat",
+    "audio_en_storage_path": "1025_ferry_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111026",
+    "text_pt": "A balsa está atracada no porto.",
+    "text_en": "The ferry is docked at the port.",
+    "audio_en_storage_path": "1026_the_ferry_is_docked_at_the_port.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111027",
+    "text_pt": "Está esperando os passageiros embarcarem.",
+    "text_en": "It's waiting for passengers to board.",
+    "audio_en_storage_path": "1027_its_waiting_for_passengers_to_board.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111028",
+    "text_pt": "As pessoas o usam para ir a ilhas ou atravessar rios.",
+    "text_en": "People use it to go to islands or cross rivers.",
+    "audio_en_storage_path": "1028_people_use_it_to_go_to_islands_or_cross_rivers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111029",
+    "text_pt": "Alguns até trazem seus carros a bordo.",
+    "text_en": "Some even bring their cars onboard.",
+    "audio_en_storage_path": "1029_some_even_bring_their_cars_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111030",
+    "text_pt": "É grande, branco e tem dois andares.",
+    "text_en": "It is big. white. and has two decks.",
+    "audio_en_storage_path": "1030_it_is_big_white_and_has_two_decks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111031",
+    "text_pt": "Uma para carros. outra para pessoas.",
+    "text_en": "One for cars. another for people.",
+    "audio_en_storage_path": "1031_one_for_cars_another_for_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111032",
+    "text_pt": "Há lanches, bebidas e pequenas lojas a bordo.",
+    "text_en": "There are snacks. drinks. and small shops onboard.",
+    "audio_en_storage_path": "1032_there_are_snacks_drinks_and_small_shops_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111033",
+    "text_pt": "E coletes salva-vidas em caso de emergência.",
+    "text_en": "And life jackets in case of emergencies.",
+    "audio_en_storage_path": "1033_and_life_jackets_in_case_of_emergencies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111034",
+    "text_pt": "Com que frequência o barco sai?",
+    "text_en": "How often does the boat leave?",
+    "audio_en_storage_path": "1034_how_often_does_the_boat_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111035",
+    "text_pt": "A cada hora — na hora certa.",
+    "text_en": "Every hour — on the hour.",
+    "audio_en_storage_path": "1035_every_hour_on_the_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111036",
+    "text_pt": "Os primeiros saem ao nascer do sol.",
+    "text_en": "The early ones leave at sunrise.",
+    "audio_en_storage_path": "1036_the_early_ones_leave_at_sunrise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111037",
+    "text_pt": "E o último retorna ao pôr do sol.",
+    "text_en": "And the last one returns at sunset.",
+    "audio_en_storage_path": "1037_and_the_last_one_returns_at_sunset.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111038",
+    "text_pt": "Algumas pessoas observam golfinhos. Outras relaxam.",
+    "text_en": "Some people watch dolphins. others relax.",
+    "audio_en_storage_path": "1038_some_people_watch_dolphins_others_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111039",
+    "text_pt": "Depende de onde você está indo.",
+    "text_en": "It depends on where you're going.",
+    "audio_en_storage_path": "1039_it_depends_on_where_youre_going.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111040",
+    "text_pt": "Para onde vai a balsa?",
+    "text_en": "Where does the ferry go?",
+    "audio_en_storage_path": "1040_where_does_the_ferry_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111041",
+    "text_pt": "Para Green Island e Sunset Beach.",
+    "text_en": "To Green Island and Sunset Beach.",
+    "audio_en_storage_path": "1041_to_green_island_and_sunset_beach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111042",
+    "text_pt": "Quando você viajará de barco novamente?",
+    "text_en": "When will you travel by boat again?",
+    "audio_en_storage_path": "1042_when_will_you_travel_by_boat_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111043",
+    "text_pt": "Provavelmente no próximo verão — foi incrível.",
+    "text_en": "Probably next summer — it was amazing.",
+    "audio_en_storage_path": "1043_probably_next_summer_it_was_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111044",
+    "text_pt": "Por que você tirou fotos do deck?",
+    "text_en": "Why did you take pictures from the deck?",
+    "audio_en_storage_path": "1044_why_did_you_take_pictures_from_the_deck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111045",
+    "text_pt": "Porque a vista era de tirar o fôlego.",
+    "text_en": "Because the view was breathtaking.",
+    "audio_en_storage_path": "1045_because_the_view_was_breathtaking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111046",
+    "text_pt": "Adoramos ver o sol nascer do barco.",
+    "text_en": "We love watching the sun rise from the boat.",
+    "audio_en_storage_path": "1046_we_love_watching_the_sun_rise_from_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111047",
+    "text_pt": "É tranquilo e inesquecível.",
+    "text_en": "It's peaceful and unforgettable.",
+    "audio_en_storage_path": "1047_its_peaceful_and_unforgettable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111048",
+    "text_pt": "Da próxima vez, eles não vão esquecer o protetor solar.",
+    "text_en": "Next time. they will not forget sunscreen.",
+    "audio_en_storage_path": "1048_next_time_they_will_not_forget_sunscreen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111049",
+    "text_pt": "O sol está forte sobre a água.",
+    "text_en": "The sun is strong over the water.",
+    "audio_en_storage_path": "1049_the_sun_is_strong_over_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111050",
+    "text_pt": "Aproveite a viagem!",
+    "text_en": "Enjoy the journey!",
+    "audio_en_storage_path": "1050_enjoy_the_journey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111051",
+    "text_pt": "O mar está chamando seu nome.",
+    "text_en": "The sea is calling your name.",
+    "audio_en_storage_path": "1051_the_sea_is_calling_your_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

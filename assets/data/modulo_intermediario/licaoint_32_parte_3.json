@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120425",
+    "text_pt": "Compras e devoluções online",
+    "text_en": "Online Shopping and Returns",
+    "audio_en_storage_path": "425_online_shopping_and_returns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120426",
+    "text_pt": "Comprei online e mandei entregar em casa",
+    "text_en": "I bought this online and had it shipped to my house",
+    "audio_en_storage_path": "426_i_bought_this_online_and_had_it_shipped_to_my_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120427",
+    "text_pt": "Encomendei esta coisa online e recebi em casa",
+    "text_en": "Ordered this thing online and had it delivered home",
+    "audio_en_storage_path": "427_ordered_this_thing_online_and_had_it_delivered_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120428",
+    "text_pt": "Mudei de ideia e quero devolver",
+    "text_en": "I changed my mind and want to return it",
+    "audio_en_storage_path": "428_i_changed_my_mind_and_want_to_return_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120429",
+    "text_pt": "Mudei de ideia — quero devolver",
+    "text_en": "Changed my mind — wanna send it back",
+    "audio_en_storage_path": "429_changed_my_mind_wanna_send_it_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120430",
+    "text_pt": "Eles disseram que posso devolver em 30 dias",
+    "text_en": "They said I can return it within 30 days",
+    "audio_en_storage_path": "430_they_said_i_can_return_it_within_30_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120431",
+    "text_pt": "Disseram-me que tenho 30 dias para trazê-lo de volta",
+    "text_en": "They told me I’ve got 30 days to bring it back",
+    "audio_en_storage_path": "431_they_told_me_ive_got_30_days_to_bring_it_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120432",
+    "text_pt": "Deixe-me imprimir a etiqueta de devolução do site",
+    "text_en": "Let me print the return label from the website",
+    "audio_en_storage_path": "432_let_me_print_the_return_label_from_the_website.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120433",
+    "text_pt": "Vou imprimir a etiqueta de retorno do site deles",
+    "text_en": "Gonna print the return tag off their site",
+    "audio_en_storage_path": "433_gonna_print_the_return_tag_off_their_site.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120434",
+    "text_pt": "Preciso embalá-lo do mesmo jeito que veio",
+    "text_en": "I need to pack it the same way it came",
+    "audio_en_storage_path": "434_i_need_to_pack_it_the_same_way_it_came.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120435",
+    "text_pt": "É melhor embalar tudo como eles sentiram — sem atalhos",
+    "text_en": "Better pack it just like they sent it — no shortcuts",
+    "audio_en_storage_path": "435_better_pack_it_just_like_they_sent_it_no_shortcuts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120436",
+    "text_pt": "Este item não funcionou como eu esperava",
+    "text_en": "This item didn’t work the way I expected",
+    "audio_en_storage_path": "436_this_item_didnt_work_the_way_i_expected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120437",
+    "text_pt": "Não funcionou como eu esperava",
+    "text_en": "Didn’t work how I thought it would",
+    "audio_en_storage_path": "437_didnt_work_how_i_thought_it_would.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120438",
+    "text_pt": "Encontrei um negócio melhor em outro lugar",
+    "text_en": "I found a better deal somewhere else",
+    "audio_en_storage_path": "438_i_found_a_better_deal_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120439",
+    "text_pt": "Encontrou um preço mais barato em outro lugar",
+    "text_en": "Found a cheaper price somewhere else",
+    "audio_en_storage_path": "439_found_a_cheaper_price_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120440",
+    "text_pt": "Posso trocá-lo por um tamanho ou cor diferente?",
+    "text_en": "Can I exchange it for a different size or color?",
+    "audio_en_storage_path": "440_can_i_exchange_it_for_a_different_size_or_color.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120441",
+    "text_pt": "Posso trocá-lo por outro tamanho ou tom?",
+    "text_en": "Can I swap it for another size or shade?",
+    "audio_en_storage_path": "441_can_i_swap_it_for_another_size_or_shade.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120442",
+    "text_pt": "Eles ofereceram um reembolso ou crédito na loja",
+    "text_en": "They offered a refund or store credit",
+    "audio_en_storage_path": "442_they_offered_a_refund_or_store_credit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120443",
+    "text_pt": "Disse que poderia receber meu dinheiro de volta ou crédito na loja",
+    "text_en": "Said I could get my money back or store credit",
+    "audio_en_storage_path": "443_said_i_could_get_my_money_back_or_store_credit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120444",
+    "text_pt": "Deixe-me entrar em contato com o suporte e explicar o problema",
+    "text_en": "Let me contact support and explain the issue",
+    "audio_en_storage_path": "444_let_me_contact_support_and_explain_the_issue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120445",
+    "text_pt": "Precisa enviar uma mensagem para a equipe e contar o que aconteceu",
+    "text_en": "Need to message their team and tell them what happened",
+    "audio_en_storage_path": "445_need_to_message_their_team_and_tell_them_what_happened.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120446",
+    "text_pt": "Você pode deixá-lo nos correios ou em um ponto de coleta",
+    "text_en": "You can drop it off at the post office or a pickup point",
+    "audio_en_storage_path": "446_you_can_drop_it_off_at_the_post_office_or_a_pickup_point.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120447",
+    "text_pt": "Deixe-o nos correios ou em um ponto de coleta",
+    "text_en": "Drop it off at the post office or leave it at a pickup spot",
+    "audio_en_storage_path": "447_drop_it_off_at_the_post_office_or_leave_it_at_a_pickup_spot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120448",
+    "text_pt": "Assim que o receberem, eles processarão o reembolso",
+    "text_en": "Once they receive it. they’ll process the refund",
+    "audio_en_storage_path": "448_once_they_receive_it_theyll_process_the_refund.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120449",
+    "text_pt": "Assim que eles conseguirem, eles me devolverão o dinheiro.",
+    "text_en": "Once they get it. they’ll give me my cash back",
+    "audio_en_storage_path": "449_once_they_get_it_theyll_give_me_my_cash_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120450",
+    "text_pt": "Se você tiver alguma dúvida, sinta-se à vontade para perguntar.",
+    "text_en": "If you have any questions. feel free to ask",
+    "audio_en_storage_path": "450_if_you_have_any_questions_feel_free_to_ask.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120451",
+    "text_pt": "Se você tiver alguma dúvida, é só atirar.",
+    "text_en": "If ya got any questions. just shoot",
+    "audio_en_storage_path": "451_if_ya_got_any_questions_just_shoot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120452",
+    "text_pt": "Aproveite suas compras e fique seguro",
+    "text_en": "Enjoy your shopping and stay safe",
+    "audio_en_storage_path": "452_enjoy_your_shopping_and_stay_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120453",
+    "text_pt": "Boas compras e mantenha-as seguras",
+    "text_en": "Happy shopping and keep it safe",
+    "audio_en_storage_path": "453_happy_shopping_and_keep_it_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120454",
+    "text_pt": "Obrigado por nos escolher. Volte sempre!",
+    "text_en": "Thank you for choosing us. Come back soon",
+    "audio_en_storage_path": "454_thank_you_for_choosing_us_come_back_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120455",
+    "text_pt": "Obrigado pela preferência. Espero vê-lo novamente.",
+    "text_en": "Thanks for your business. Hope to see you again",
+    "audio_en_storage_path": "455_thanks_for_your_business_hope_to_see_you_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

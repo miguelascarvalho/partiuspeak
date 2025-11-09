@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100142",
+    "text_pt": "A estante fica ao lado da escrivaninha.",
+    "text_en": "The bookshelf is next to the desk.",
+    "audio_en_storage_path": "143_the_bookshelf_is_next_to_the_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100143",
+    "text_pt": "Nós o usamos para guardar livros e brinquedos.",
+    "text_en": "We use it to keep books and toys.",
+    "audio_en_storage_path": "144_we_use_it_to_keep_books_and_toys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100144",
+    "text_pt": "É alto e pintado de vermelho.",
+    "text_en": "It is tall and painted red.",
+    "audio_en_storage_path": "145_it_is_tall_and_painted_red.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100145",
+    "text_pt": "Há dinossauros e livros sobre o espaço.",
+    "text_en": "There are dinosaurs and space books on it.",
+    "audio_en_storage_path": "146_there_are_dinosaurs_and_space_books_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100146",
+    "text_pt": "Posso pegar um livro emprestado?",
+    "text_en": "Can I borrow a book?",
+    "audio_en_storage_path": "147_can_i_borrow_a_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100147",
+    "text_pt": "Sim, escolha qualquer um que você goste.",
+    "text_en": "Yes, pick any one you like.",
+    "audio_en_storage_path": "148_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100148",
+    "text_pt": "Não, pergunte primeiro à sua irmã.",
+    "text_en": "No, ask your sister first.",
+    "audio_en_storage_path": "149_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100149",
+    "text_pt": "Onde está meu livro de ciências?",
+    "text_en": "Where is my science book?",
+    "audio_en_storage_path": "150_where_is_my_science_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100150",
+    "text_pt": "Seu livro está na segunda prateleira.",
+    "text_en": "Your book is on the second shelf.",
+    "audio_en_storage_path": "151_your_book_is_on_the_second_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100151",
+    "text_pt": "Quando você vai ler o livro?",
+    "text_en": "When will you read the book?",
+    "audio_en_storage_path": "152_when_will_you_read_the_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100152",
+    "text_pt": "Vou ler hoje à noite antes de dormir.",
+    "text_en": "I’ll read it tonight before bed.",
+    "audio_en_storage_path": "153_ill_read_it_tonight_before_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100153",
+    "text_pt": "Por que você guardou o livro?",
+    "text_en": "Why did you put the book away?",
+    "audio_en_storage_path": "154_why_did_you_put_the_book_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100154",
+    "text_pt": "Eu queria encontrá-lo mais tarde.",
+    "text_en": "I wanted to find it later.",
+    "audio_en_storage_path": "155_i_wanted_to_find_it_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100155",
+    "text_pt": "Ela coloca seus livros na estante.",
+    "text_en": "She puts her books on the shelf.",
+    "audio_en_storage_path": "156_she_puts_her_books_on_the_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100156",
+    "text_pt": "Ele não deixa livros no chão.",
+    "text_en": "He won’t leave books on the floor.",
+    "audio_en_storage_path": "157_he_wont_leave_books_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100157",
+    "text_pt": "Bom trabalho organizando seu quarto.",
+    "text_en": "Good job organizing your room.",
+    "audio_en_storage_path": "158_good_job_organizing_your_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100159",
+    "text_pt": "Vou ler hoje à noite antes de dormir.",
+    "text_en": "I’ll read it tonight before bed.",
+    "audio_en_storage_path": "160_ill_read_it_tonight_before_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100160",
+    "text_pt": "Vou ler hoje à noite antes de dormir.",
+    "text_en": "I’m gonna read it tonight b’fore bed.",
+    "audio_en_storage_path": "161_im_gonna_read_it_tonight_bfore_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100161",
+    "text_pt": "Ele não deixa livros no chão.",
+    "text_en": "He won’t leave books on the floor.",
+    "audio_en_storage_path": "162_he_wont_leave_books_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100162",
+    "text_pt": "Ele não vai deixar livros no chão.",
+    "text_en": "He ain't leavin’ books on the floor.",
+    "audio_en_storage_path": "163_he_aint_leavin_books_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100163",
+    "text_pt": "Bom trabalho organizando seu quarto.",
+    "text_en": "Good job organizing your room.",
+    "audio_en_storage_path": "164_good_job_organizing_your_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100164",
+    "text_pt": "Bom trabalho arrumando seu quarto.",
+    "text_en": "Nice job tidin’ up yer room.",
+    "audio_en_storage_path": "165_nice_job_tidin_up_yer_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

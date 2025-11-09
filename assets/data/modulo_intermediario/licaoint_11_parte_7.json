@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111781",
+    "text_pt": "Lanche / Mordida antes do almoço – Eles",
+    "text_en": "Snack / Bite before lunch – They",
+    "audio_en_storage_path": "1781_snack_bite_before_lunch_they.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111782",
+    "text_pt": "Eles sentem fome antes da hora do almoço.",
+    "text_en": "They feel hungry before lunchtime.",
+    "audio_en_storage_path": "1782_they_feel_hungry_before_lunchtime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111783",
+    "text_pt": "Eles pegam maçãs ou alguns biscoitos.",
+    "text_en": "They grab apples or some crackers.",
+    "audio_en_storage_path": "1783_they_grab_apples_or_some_crackers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111784",
+    "text_pt": "Eles abrem a geladeira e verificam o interior.",
+    "text_en": "They open the fridge and check inside.",
+    "audio_en_storage_path": "1784_they_open_the_fridge_and_check_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111785",
+    "text_pt": "Tem queijo, cenoura e suco.",
+    "text_en": "There's cheese. carrots. and juice.",
+    "audio_en_storage_path": "1785_theres_cheese_carrots_and_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111786",
+    "text_pt": "O lanche é pequeno, mas saboroso.",
+    "text_en": "The snack is small but tasty.",
+    "audio_en_storage_path": "1786_the_snack_is_small_but_tasty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111787",
+    "text_pt": "Apenas o suficiente para esperar o almoço.",
+    "text_en": "Just enough to wait for lunch.",
+    "audio_en_storage_path": "1787_just_enough_to_wait_for_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111788",
+    "text_pt": "Eles andam por aí com bananas nas mãos.",
+    "text_en": "They walk around with bananas in hand.",
+    "audio_en_storage_path": "1788_they_walk_around_with_bananas_in_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111789",
+    "text_pt": "Ou eles se sentam e comem devagar.",
+    "text_en": "Or they sit down and eat slowly.",
+    "audio_en_storage_path": "1789_or_they_sit_down_and_eat_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111790",
+    "text_pt": "O que eles gostam de comer entre as refeições?",
+    "text_en": "What do they like to eat between meals?",
+    "audio_en_storage_path": "1790_what_do_they_like_to_eat_between_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111791",
+    "text_pt": "Geralmente nozes ou uma fruta.",
+    "text_en": "Usually nuts or a piece of fruit.",
+    "audio_en_storage_path": "1791_usually_nuts_or_a_piece_of_fruit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111792",
+    "text_pt": "Onde eles guardam seus lanches?",
+    "text_en": "Where do they keep their snacks?",
+    "audio_en_storage_path": "1792_where_do_they_keep_their_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111793",
+    "text_pt": "Na gaveta — fácil de alcançar.",
+    "text_en": "In the drawer — easy to reach.",
+    "audio_en_storage_path": "1793_in_the_drawer_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111794",
+    "text_pt": "Às vezes eles comem biscoitos. às vezes barras de granola.",
+    "text_en": "Sometimes they eat cookies. sometimes granola bars.",
+    "audio_en_storage_path": "1794_sometimes_they_eat_cookies_sometimes_granola_bars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111795",
+    "text_pt": "Depende do que estiver disponível.",
+    "text_en": "It depends on what’s available.",
+    "audio_en_storage_path": "1795_it_depends_on_whats_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111796",
+    "text_pt": "Onde eles deixaram suas garrafas de água?",
+    "text_en": "Where did they leave their water bottles?",
+    "audio_en_storage_path": "1796_where_did_they_leave_their_water_bottles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111797",
+    "text_pt": "No balcão — ao lado da fruteira.",
+    "text_en": "On the counter — next to the fruit bowl.",
+    "audio_en_storage_path": "1797_on_the_counter_next_to_the_fruit_bowl.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111798",
+    "text_pt": "Quando eles comerão novamente?",
+    "text_en": "When will they eat again?",
+    "audio_en_storage_path": "1798_when_will_they_eat_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111799",
+    "text_pt": "Em cerca de duas horas — quando o almoço estiver pronto.",
+    "text_en": "In about two hours — when lunch is ready.",
+    "audio_en_storage_path": "1799_in_about_two_hours_when_lunch_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111800",
+    "text_pt": "Por que eles comeram tão cedo hoje?",
+    "text_en": "Why did they eat so early today?",
+    "audio_en_storage_path": "1800_why_did_they_eat_so_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111801",
+    "text_pt": "Porque eles pularam o café da manhã.",
+    "text_en": "Because they skipped breakfast.",
+    "audio_en_storage_path": "1801_because_they_skipped_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111802",
+    "text_pt": "Eles comem um pouco antes do almoço todos os dias.",
+    "text_en": "They eat a little before lunch every day.",
+    "audio_en_storage_path": "1802_they_eat_a_little_before_lunch_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111803",
+    "text_pt": "Isso os mantém focados e acordados.",
+    "text_en": "It keeps them focused and awake.",
+    "audio_en_storage_path": "1803_it_keeps_them_focused_and_awake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111804",
+    "text_pt": "Amanhã eles não comerão muitos biscoitos novamente.",
+    "text_en": "Tomorrow. they will not eat too many cookies again.",
+    "audio_en_storage_path": "1804_tomorrow_they_will_not_eat_too_many_cookies_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111805",
+    "text_pt": "Eles tentarão ser mais equilibrados.",
+    "text_en": "They’ll try to be more balanced.",
+    "audio_en_storage_path": "1805_theyll_try_to_be_more_balanced.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111806",
+    "text_pt": "Tomar cuidado!",
+    "text_en": "Take care!",
+    "audio_en_storage_path": "1806_take_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111807",
+    "text_pt": "Coma lanches saudáveis.",
+    "text_en": "Eat healthy snacks.",
+    "audio_en_storage_path": "1807_eat_healthy_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

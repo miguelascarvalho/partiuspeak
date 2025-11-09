@@ -1,0 +1,407 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112672",
+    "text_pt": "Tios – Sanduicheira",
+    "text_en": "Uncles – Sandwich Maker",
+    "audio_en_storage_path": "2672_uncles_sandwich_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112673",
+    "text_pt": "Eles estão fazendo sanduíches grelhados juntos.",
+    "text_en": "They are making grilled sandwiches together.",
+    "audio_en_storage_path": "2673_they_are_making_grilled_sandwiches_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112674",
+    "text_pt": "A torradeira faz um clique suave quando termina.",
+    "text_en": "The toaster makes a soft click when done.",
+    "audio_en_storage_path": "2674_the_toaster_makes_a_soft_click_when_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112675",
+    "text_pt": "Eles usam pão, queijo e presunto.",
+    "text_en": "They use bread. cheese. and ham.",
+    "audio_en_storage_path": "2675_they_use_bread_cheese_and_ham.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112676",
+    "text_pt": "Às vezes acrescentam ovo ou abacate.",
+    "text_en": "Sometimes they add egg or avocado.",
+    "audio_en_storage_path": "2676_sometimes_they_add_egg_or_avocado.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112677",
+    "text_pt": "A sanduicheira é prateada com botões vermelhos.",
+    "text_en": "The sandwich maker is silver with red buttons.",
+    "audio_en_storage_path": "2677_the_sandwich_maker_is_silver_with_red_buttons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112678",
+    "text_pt": "Fica quente e faz sanduíches dourados.",
+    "text_en": "It gets hot and makes golden sandwiches.",
+    "audio_en_storage_path": "2678_it_gets_hot_and_makes_golden_sandwiches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112679",
+    "text_pt": "Há fatias de tomate e alface por perto.",
+    "text_en": "There are slices of tomato and lettuce nearby.",
+    "audio_en_storage_path": "2679_there_are_slices_of_tomato_and_lettuce_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112680",
+    "text_pt": "Pronto para adicionar após o cozimento.",
+    "text_en": "Ready to add after cooking.",
+    "audio_en_storage_path": "2680_ready_to_add_after_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112681",
+    "text_pt": "Quem usa mais a sanduicheira?",
+    "text_en": "Who uses the sandwich maker the most?",
+    "audio_en_storage_path": "2681_who_uses_the_sandwich_maker_the_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112682",
+    "text_pt": "Tio Mike — mas o tio Leo também gosta.",
+    "text_en": "Uncle Mike — but Uncle Leo likes it too.",
+    "audio_en_storage_path": "2682_uncle_mike_but_uncle_leo_likes_it_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112683",
+    "text_pt": "Onde eles guardam o pão extra?",
+    "text_en": "Where do they keep extra bread?",
+    "audio_en_storage_path": "2683_where_do_they_keep_extra_bread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112684",
+    "text_pt": "Na caixa de pão — ao lado da torradeira.",
+    "text_en": "In the bread box — next to the toaster.",
+    "audio_en_storage_path": "2684_in_the_bread_box_next_to_the_toaster.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112685",
+    "text_pt": "Às vezes eles fazem dois de uma vez.",
+    "text_en": "Sometimes they make two at once.",
+    "audio_en_storage_path": "2685_sometimes_they_make_two_at_once.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112686",
+    "text_pt": "Outras vezes, apenas um — para compartilhar.",
+    "text_en": "Other times just one — for sharing.",
+    "audio_en_storage_path": "2686_other_times_just_one_for_sharing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112687",
+    "text_pt": "Onde eles deixaram a sanduicheira?",
+    "text_en": "Where did they leave the sandwich maker?",
+    "audio_en_storage_path": "2687_where_did_they_leave_the_sandwich_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112688",
+    "text_pt": "No balcão — conectado e pronto.",
+    "text_en": "On the counter — plugged in and ready.",
+    "audio_en_storage_path": "2688_on_the_counter_plugged_in_and_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112689",
+    "text_pt": "Quando eles usarão isso novamente?",
+    "text_en": "When will they use it again?",
+    "audio_en_storage_path": "2689_when_will_they_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112690",
+    "text_pt": "Amanhã — no café da manhã.",
+    "text_en": "Tomorrow — for breakfast.",
+    "audio_en_storage_path": "2690_tomorrow_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112691",
+    "text_pt": "Por que desligaram a torradeira hoje?",
+    "text_en": "Why did they unplug the toaster today?",
+    "audio_en_storage_path": "2691_why_did_they_unplug_the_toaster_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112692",
+    "text_pt": "Porque estava sujo e precisava de limpeza.",
+    "text_en": "Because it was dirty and needed cleaning.",
+    "audio_en_storage_path": "2692_because_it_was_dirty_and_needed_cleaning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112693",
+    "text_pt": "Eles fazem torradas quase todas as manhãs.",
+    "text_en": "They make toast almost every morning.",
+    "audio_en_storage_path": "2693_they_make_toast_almost_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112694",
+    "text_pt": "É fácil e fica uma delícia.",
+    "text_en": "It’s easy and tastes great.",
+    "audio_en_storage_path": "2694_its_easy_and_tastes_great.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112695",
+    "text_pt": "Amanhã eles não vão esquecer de desligá-lo novamente.",
+    "text_en": "Tomorrow. they will not forget to unplug it again.",
+    "audio_en_storage_path": "2695_tomorrow_they_will_not_forget_to_unplug_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112696",
+    "text_pt": "Eles vão se lembrar de desligá-lo.",
+    "text_en": "They’ll remember to turn it off.",
+    "audio_en_storage_path": "2696_theyll_remember_to_turn_it_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112697",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "2697_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112698",
+    "text_pt": "O café da manhã está pronto — venha comer!",
+    "text_en": "Breakfast is ready — come eat!",
+    "audio_en_storage_path": "2698_breakfast_is_ready_come_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112699",
+    "text_pt": "TV – Assistir TV em geral",
+    "text_en": "TV – Watching TV in general",
+    "audio_en_storage_path": "2699_tv_watching_tv_in_general.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112700",
+    "text_pt": "A TV fica na sala de estar.",
+    "text_en": "The TV is in the living room.",
+    "audio_en_storage_path": "2700_the_tv_is_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112701",
+    "text_pt": "É onde assistimos a programas e notícias.",
+    "text_en": "It's where we watch shows and news.",
+    "audio_en_storage_path": "2701_its_where_we_watch_shows_and_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112702",
+    "text_pt": "Nós o usamos para relaxar e passar tempo juntos.",
+    "text_en": "We use it to relax and spend time together.",
+    "audio_en_storage_path": "2702_we_use_it_to_relax_and_spend_time_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112703",
+    "text_pt": "Às vezes sozinho. às vezes com a família.",
+    "text_en": "Sometimes alone. sometimes with family.",
+    "audio_en_storage_path": "2703_sometimes_alone_sometimes_with_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112704",
+    "text_pt": "É grande, preto e tem controle remoto.",
+    "text_en": "It's big. black. and has a remote control.",
+    "audio_en_storage_path": "2704_its_big_black_and_has_a_remote_control.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112705",
+    "text_pt": "Há almofadas no sofá.",
+    "text_en": "There are cushions on the couch.",
+    "audio_en_storage_path": "2705_there_are_cushions_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112706",
+    "text_pt": "Há lanches, bebidas e cobertores por perto.",
+    "text_en": "There are snacks. drinks. and blankets nearby.",
+    "audio_en_storage_path": "2706_there_are_snacks_drinks_and_blankets_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112707",
+    "text_pt": "Pronto para uma noite de filme ou episódios longos.",
+    "text_en": "Ready for movie night or long episodes.",
+    "audio_en_storage_path": "2707_ready_for_movie_night_or_long_episodes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112708",
+    "text_pt": "O que você costuma assistir na TV?",
+    "text_en": "What do you usually watch on TV?",
+    "audio_en_storage_path": "2708_what_do_you_usually_watch_on_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112709",
+    "text_pt": "Desenhos animados, reality shows e videoclipes.",
+    "text_en": "Cartoons. reality shows. and music videos.",
+    "audio_en_storage_path": "2709_cartoons_reality_shows_and_music_videos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112710",
+    "text_pt": "Onde está o controle remoto agora?",
+    "text_en": "Where is the remote now?",
+    "audio_en_storage_path": "2710_where_is_the_remote_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112711",
+    "text_pt": "Na mesa de centro — ao lado do telefone.",
+    "text_en": "On the coffee table — next to the phone.",
+    "audio_en_storage_path": "2711_on_the_coffee_table_next_to_the_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112712",
+    "text_pt": "Às vezes assisto desenhos animados. Às vezes documentários.",
+    "text_en": "Sometimes I watch cartoons. sometimes documentaries.",
+    "audio_en_storage_path": "2712_sometimes_i_watch_cartoons_sometimes_documentaries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112713",
+    "text_pt": "Depende do meu humor.",
+    "text_en": "It depends on my mood.",
+    "audio_en_storage_path": "2713_it_depends_on_my_mood.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112714",
+    "text_pt": "Onde você deixou o controle remoto?",
+    "text_en": "Where did you leave the remote?",
+    "audio_en_storage_path": "2714_where_did_you_leave_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112715",
+    "text_pt": "Debaixo do travesseiro — alguém o usou antes.",
+    "text_en": "Under the pillow — someone used it earlier.",
+    "audio_en_storage_path": "2715_under_the_pillow_someone_used_it_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112716",
+    "text_pt": "Quando você vai ligar a TV novamente?",
+    "text_en": "When will you turn on the TV again?",
+    "audio_en_storage_path": "2716_when_will_you_turn_on_the_tv_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

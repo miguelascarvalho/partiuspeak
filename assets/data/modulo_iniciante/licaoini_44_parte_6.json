@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102515",
+    "text_pt": "📚 Loja de Livros",
+    "text_en": "📚 Bookstore",
+    "audio_en_storage_path": "1615_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102516",
+    "text_pt": "A livraria fica ao lado da cafeteria.",
+    "text_en": "The bookstore is next to the coffee shop.",
+    "audio_en_storage_path": "1616_the_bookstore_is_next_to_the_coffee_shop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102517",
+    "text_pt": "Cheira a papel e croissants de chocolate.",
+    "text_en": "Smells like paper and chocolate croissants.",
+    "audio_en_storage_path": "1617_smells_like_paper_and_chocolate_croissants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102518",
+    "text_pt": "Eu compro romances. livros escolares e histórias em quadrinhos aqui.",
+    "text_en": "I buy novels. schoolbooks. and comics here.",
+    "audio_en_storage_path": "1618_i_buy_novels_schoolbooks_and_comics_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102519",
+    "text_pt": "Ou simplesmente sente-se e leia um pouco.",
+    "text_en": "Or just sit and read for a bit.",
+    "audio_en_storage_path": "1619_or_just_sit_and_read_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102520",
+    "text_pt": "As capas são coloridas e convidativas.",
+    "text_en": "The covers are colorful and inviting.",
+    "audio_en_storage_path": "1620_the_covers_are_colorful_and_inviting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102521",
+    "text_pt": "Alguns são brochuras. outros de capa dura.",
+    "text_en": "Some are soft. others hardcover.",
+    "audio_en_storage_path": "1621_some_are_soft_others_hardcover.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102522",
+    "text_pt": "De qual livro você mais gostou?",
+    "text_en": "What book did you like most?",
+    "audio_en_storage_path": "1622_what_book_did_you_like_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102523",
+    "text_pt": "Este aqui — capa roxa e histórias de viagem.",
+    "text_en": "This one — purple cover and travel stories.",
+    "audio_en_storage_path": "1623_this_one_purple_cover_and_travel_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102524",
+    "text_pt": "Quanto custa esse romance?",
+    "text_en": "How much is that novel?",
+    "audio_en_storage_path": "1624_how_much_is_that_novel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102525",
+    "text_pt": "US$ 12 — bom pelo que oferece.",
+    "text_en": "$12 — okay for what it offers.",
+    "audio_en_storage_path": "1625_12_okay_for_what_it_offers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102526",
+    "text_pt": "Onde estão os livros de gramática inglesa?",
+    "text_en": "Where are the English grammar books?",
+    "audio_en_storage_path": "1626_where_are_the_english_grammar_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102527",
+    "text_pt": "Atrás da seção de ficção — perto da área infantil.",
+    "text_en": "Behind the fiction section — near the kids’ area.",
+    "audio_en_storage_path": "1627_behind_the_fiction_section_near_the_kids_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102528",
+    "text_pt": "Não comprei nada hoje.",
+    "text_en": "I didn't buy anything today.",
+    "audio_en_storage_path": "1628_i_didnt_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102529",
+    "text_pt": "Todos os livros estavam acima do meu orçamento.",
+    "text_en": "All books were over my budget.",
+    "audio_en_storage_path": "1629_all_books_were_over_my_budget.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102530",
+    "text_pt": "Quando eles receberão novos quadrinhos?",
+    "text_en": "When will they get new comics?",
+    "audio_en_storage_path": "1630_when_will_they_get_new_comics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102531",
+    "text_pt": "Talvez amanhã — previsto para esta semana.",
+    "text_en": "Maybe tomorrow — expected this week.",
+    "audio_en_storage_path": "1631_maybe_tomorrow_expected_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102532",
+    "text_pt": "Por que você trouxe sua bolsa para dentro?",
+    "text_en": "Why did you bring your bag inside?",
+    "audio_en_storage_path": "1632_why_did_you_bring_your_bag_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102533",
+    "text_pt": "Para que eu pudesse carregar meu novo caderno.",
+    "text_en": "So I could carry my new notebook.",
+    "audio_en_storage_path": "1633_so_i_could_carry_my_new_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102534",
+    "text_pt": "Ela lê antes de comprar qualquer coisa.",
+    "text_en": "She reads before buying anything.",
+    "audio_en_storage_path": "1634_she_reads_before_buying_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102535",
+    "text_pt": "Se ela gosta da primeira página. ela compra.",
+    "text_en": "If she likes page one. she buys it.",
+    "audio_en_storage_path": "1635_if_she_likes_page_one_she_buys_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102536",
+    "text_pt": "Amanhã. Não vou esquecer de escrever meu nome lá dentro de novo.",
+    "text_en": "Tomorrow. I will not forget to write my name inside again.",
+    "audio_en_storage_path": "1636_tomorrow_i_will_not_forget_to_write_my_name_inside_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102537",
+    "text_pt": "Alguém pegou o meu da última vez — a mesma cópia.",
+    "text_en": "Someone took mine last time — same copy.",
+    "audio_en_storage_path": "1637_someone_took_mine_last_time_same_copy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102538",
+    "text_pt": "Leia devagar!",
+    "text_en": "Read slowly!",
+    "audio_en_storage_path": "1638_read_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102539",
+    "text_pt": "Aproveite cada palavra e linha.",
+    "text_en": "Enjoy every word and line.",
+    "audio_en_storage_path": "1639_enjoy_every_word_and_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102540",
+    "text_pt": "Os livros trazem paz e alegria!",
+    "text_en": "Books bring peace and joy!",
+    "audio_en_storage_path": "1640_books_bring_peace_and_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102541",
+    "text_pt": "Encontre o seu hoje mesmo.",
+    "text_en": "Find yours today.",
+    "audio_en_storage_path": "1641_find_yours_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,605 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131247",
+    "text_pt": "Perseguição e Fuga: Personagens sendo perseguidos por algo ou alguém com tensão constante",
+    "text_en": "Pursuit and Escape: Characters Being Chased by Something or Someone. with Constant Tension",
+    "audio_en_storage_path": "1247_pursuit_and_escape_characters_being_chased_by_something_or_someone_with_constant_tension.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131248",
+    "text_pt": "Narrativas de perseguição e fuga pulsam com tensão e adrenalina implacáveis.",
+    "text_en": "Pursuit and escape narratives pulse with relentless tension and adrenaline.",
+    "audio_en_storage_path": "1248_pursuit_and_escape_narratives_pulse_with_relentless_tension_and_adrenaline.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131249",
+    "text_pt": "Os personagens fogem de perseguidores implacáveis ​​determinados a capturá-los ou machucá-los.",
+    "text_en": "Characters flee from relentless pursuers bent on capturing or harming them.",
+    "audio_en_storage_path": "1249_characters_flee_from_relentless_pursuers_bent_on_capturing_or_harming_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131250",
+    "text_pt": "A perseguição começa com um evento desencadeador que coloca a história em movimento.",
+    "text_en": "The chase begins with a trigger event that sets the story in motion.",
+    "audio_en_storage_path": "1250_the_chase_begins_with_a_trigger_event_that_sets_the_story_in_motion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131251",
+    "text_pt": "Uma traição, uma descoberta ou um erro colocam o protagonista em perigo.",
+    "text_en": "A betrayal. discovery. or mistake launches the protagonist into peril.",
+    "audio_en_storage_path": "1251_a_betrayal_discovery_or_mistake_launches_the_protagonist_into_peril.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131252",
+    "text_pt": "Fugas por pouco definem o ritmo dessas histórias de alto risco.",
+    "text_en": "Narrow escapes define the rhythm of these high-stakes stories.",
+    "audio_en_storage_path": "1252_narrow_escapes_define_the_rhythm_of_these_highstakes_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131253",
+    "text_pt": "Cada situação difícil aumenta os riscos e intensifica o suspense.",
+    "text_en": "Each close call raises the stakes and intensifies the suspense.",
+    "audio_en_storage_path": "1253_each_close_call_raises_the_stakes_and_intensifies_the_suspense.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131254",
+    "text_pt": "Os perseguidores personificam determinação implacável e precisão calculada.",
+    "text_en": "Pursuers embody relentless determination and calculated precision.",
+    "audio_en_storage_path": "1254_pursuers_embody_relentless_determination_and_calculated_precision.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131255",
+    "text_pt": "Eles não medem esforços para caçar seus alvos.",
+    "text_en": "They stop at nothing to hunt down their targets.",
+    "audio_en_storage_path": "1255_they_stop_at_nothing_to_hunt_down_their_targets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131256",
+    "text_pt": "Os protagonistas usam inteligência e engenhosidade para escapar da captura.",
+    "text_en": "Protagonists use wit and resourcefulness to evade capture.",
+    "audio_en_storage_path": "1256_protagonists_use_wit_and_resourcefulness_to_evade_capture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131257",
+    "text_pt": "O raciocínio rápido e a improvisação os mantêm um passo à frente.",
+    "text_en": "Quick thinking and improvisation keep them one step ahead.",
+    "audio_en_storage_path": "1257_quick_thinking_and_improvisation_keep_them_one_step_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131258",
+    "text_pt": "Paisagens urbanas oferecem inúmeros esconderijos e rotas de fuga.",
+    "text_en": "Urban landscapes provide endless hiding spots and escape routes.",
+    "audio_en_storage_path": "1258_urban_landscapes_provide_endless_hiding_spots_and_escape_routes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131259",
+    "text_pt": "Ruas lotadas e becos labirínticos escondem fugitivos desesperados.",
+    "text_en": "Crowded streets and labyrinthine alleys conceal desperate fugitives.",
+    "audio_en_storage_path": "1259_crowded_streets_and_labyrinthine_alleys_conceal_desperate_fugitives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131260",
+    "text_pt": "Ambientes naturais amplificam o perigo em narrativas de perseguição.",
+    "text_en": "Natural environments amplify the danger in pursuit narratives.",
+    "audio_en_storage_path": "1260_natural_environments_amplify_the_danger_in_pursuit_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131261",
+    "text_pt": "Florestas densas, penhascos rochosos e rios caudalosos testam as habilidades de sobrevivência.",
+    "text_en": "Dense forests. rocky cliffs. and raging rivers test survival skills.",
+    "audio_en_storage_path": "1261_dense_forests_rocky_cliffs_and_raging_rivers_test_survival_skills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131262",
+    "text_pt": "Os veículos desempenham um papel central em muitas sequências de perseguição.",
+    "text_en": "Vehicles play a central role in many chase sequences.",
+    "audio_en_storage_path": "1262_vehicles_play_a_central_role_in_many_chase_sequences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131263",
+    "text_pt": "Carros, motocicletas e barcos passam velozes por cenas de ação de tirar o fôlego.",
+    "text_en": "Cars. motorcycles. and boats speed through breathtaking action scenes.",
+    "audio_en_storage_path": "1263_cars_motorcycles_and_boats_speed_through_breathtaking_action_scenes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131264",
+    "text_pt": "As perseguições a pé enfatizam a resistência física e a agilidade.",
+    "text_en": "Foot chases emphasize physical endurance and agility.",
+    "audio_en_storage_path": "1264_foot_chases_emphasize_physical_endurance_and_agility.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131265",
+    "text_pt": "Personagens levam seus corpos ao limite para permanecerem livres.",
+    "text_en": "Characters push their bodies to the limit to stay free.",
+    "audio_en_storage_path": "1265_characters_push_their_bodies_to_the_limit_to_stay_free.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131266",
+    "text_pt": "Disfarces ajudam os protagonistas a se misturar à multidão e evitar serem detectados.",
+    "text_en": "Disguises help protagonists blend into crowds and avoid detection.",
+    "audio_en_storage_path": "1266_disguises_help_protagonists_blend_into_crowds_and_avoid_detection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131267",
+    "text_pt": "Mudar de aparência lhes dá um tempo precioso para se reagruparem.",
+    "text_en": "Changing appearances buys them precious time to regroup.",
+    "audio_en_storage_path": "1267_changing_appearances_buys_them_precious_time_to_regroup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131268",
+    "text_pt": "Aliados oferecem refúgio temporário durante fugas frenéticas.",
+    "text_en": "Allies offer temporary refuge during frantic escapes.",
+    "audio_en_storage_path": "1268_allies_offer_temporary_refuge_during_frantic_escapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131269",
+    "text_pt": "Confiar em estranhos se torna uma aposta com consequências de vida ou morte.",
+    "text_en": "Trusting strangers becomes a gamble with life-or-death consequences.",
+    "audio_en_storage_path": "1269_trusting_strangers_becomes_a_gamble_with_lifeordeath_consequences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131270",
+    "text_pt": "A tecnologia rastreia movimentos em narrativas de busca modernas.",
+    "text_en": "Technology tracks movements in modern pursuit narratives.",
+    "audio_en_storage_path": "1270_technology_tracks_movements_in_modern_pursuit_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131271",
+    "text_pt": "Sinais de GPS, drones e vigilância se aproximam dos personagens em fuga.",
+    "text_en": "GPS signals. drones. and surveillance close in on fleeing characters.",
+    "audio_en_storage_path": "1271_gps_signals_drones_and_surveillance_close_in_on_fleeing_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131272",
+    "text_pt": "Obstáculos físicos forçam os personagens a se adaptarem rapidamente.",
+    "text_en": "Physical obstacles force characters to adapt quickly.",
+    "audio_en_storage_path": "1272_physical_obstacles_force_characters_to_adapt_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131273",
+    "text_pt": "Escalar paredes, saltar obstáculos e navegar em espaços apertados exige habilidade.",
+    "text_en": "Scaling walls. leaping gaps. and navigating tight spaces demand skill.",
+    "audio_en_storage_path": "1273_scaling_walls_leaping_gaps_and_navigating_tight_spaces_demand_skill.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131274",
+    "text_pt": "A pressão do tempo acrescenta urgência a cada decisão tomada durante a perseguição.",
+    "text_en": "Time pressure adds urgency to every decision made during the chase.",
+    "audio_en_storage_path": "1274_time_pressure_adds_urgency_to_every_decision_made_during_the_chase.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131275",
+    "text_pt": "Os relógios avançam enquanto os personagens correm contra uma destruição iminente.",
+    "text_en": "Clocks tick down as characters race against impending doom.",
+    "audio_en_storage_path": "1275_clocks_tick_down_as_characters_race_against_impending_doom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131276",
+    "text_pt": "Os perseguidores empregam táticas psicológicas para quebrar o espírito de suas presas.",
+    "text_en": "Pursuers employ psychological tactics to break their prey’s spirit.",
+    "audio_en_storage_path": "1276_pursuers_employ_psychological_tactics_to_break_their_preys_spirit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131277",
+    "text_pt": "Provocações e ameaças enfraquecem a resistência ao longo do tempo.",
+    "text_en": "Taunts and threats wear down resistance over time.",
+    "audio_en_storage_path": "1277_taunts_and_threats_wear_down_resistance_over_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131278",
+    "text_pt": "Os protagonistas frequentemente enfrentam dilemas morais durante a fuga.",
+    "text_en": "Protagonists often face moral dilemmas during their flight.",
+    "audio_en_storage_path": "1278_protagonists_often_face_moral_dilemmas_during_their_flight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131279",
+    "text_pt": "Eles arriscam ajudar os outros ou priorizam a própria sobrevivência?",
+    "text_en": "Do they risk helping others or prioritize their own survival?",
+    "audio_en_storage_path": "1279_do_they_risk_helping_others_or_prioritize_their_own_survival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131280",
+    "text_pt": "Traições sabotam alianças em narrativas de perseguição.",
+    "text_en": "Betrayals sabotage alliances in pursuit narratives.",
+    "audio_en_storage_path": "1280_betrayals_sabotage_alliances_in_pursuit_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131281",
+    "text_pt": "Os personagens descobrem quem realmente os apoia quando mais importa.",
+    "text_en": "Characters discover who truly has their back when it matters most.",
+    "audio_en_storage_path": "1281_characters_discover_who_truly_has_their_back_when_it_matters_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131282",
+    "text_pt": "As condições climáticas aumentam a dificuldade das fugas.",
+    "text_en": "Weather conditions heighten the difficulty of escapes.",
+    "audio_en_storage_path": "1282_weather_conditions_heighten_the_difficulty_of_escapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131283",
+    "text_pt": "Ruas encharcadas de chuva e caminhos congelados tornam os passos perigosos.",
+    "text_en": "Rain-soaked streets and icy paths make footing treacherous.",
+    "audio_en_storage_path": "1283_rainsoaked_streets_and_icy_paths_make_footing_treacherous.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131284",
+    "text_pt": "Lesões desaceleram os protagonistas, mas raramente os detêm completamente.",
+    "text_en": "Injuries slow protagonists down but rarely stop them completely.",
+    "audio_en_storage_path": "1284_injuries_slow_protagonists_down_but_rarely_stop_them_completely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131285",
+    "text_pt": "Coragem e determinação os impulsionam adiante, apesar da dor.",
+    "text_en": "Grit and determination drive them forward despite pain.",
+    "audio_en_storage_path": "1285_grit_and_determination_drive_them_forward_despite_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131286",
+    "text_pt": "As sequências de perseguição ganham força com intensidade crescente.",
+    "text_en": "Chase sequences build momentum with escalating intensity.",
+    "audio_en_storage_path": "1286_chase_sequences_build_momentum_with_escalating_intensity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131287",
+    "text_pt": "Cada encontro leva os personagens cada vez mais perto do seu ponto de ruptura.",
+    "text_en": "Each encounter pushes characters closer to their breaking point.",
+    "audio_en_storage_path": "1287_each_encounter_pushes_characters_closer_to_their_breaking_point.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131288",
+    "text_pt": "Casas seguras oferecem breves momentos de descanso antes do próximo ataque.",
+    "text_en": "Safe houses offer brief moments of respite before the next attack.",
+    "audio_en_storage_path": "1288_safe_houses_offer_brief_moments_of_respite_before_the_next_attack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131289",
+    "text_pt": "Os personagens recuperam o fôlego, mas sabem que a segurança é passageira.",
+    "text_en": "Characters catch their breath but know safety is fleeting.",
+    "audio_en_storage_path": "1289_characters_catch_their_breath_but_know_safety_is_fleeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131290",
+    "text_pt": "Narrativas de perseguição exploram temas de liberdade e cativeiro.",
+    "text_en": "Pursuit narratives explore themes of freedom and captivity.",
+    "audio_en_storage_path": "1290_pursuit_narratives_explore_themes_of_freedom_and_captivity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131291",
+    "text_pt": "Personagens anseiam pela libertação da opressão implacável.",
+    "text_en": "Characters yearn for liberation from relentless oppression.",
+    "audio_en_storage_path": "1291_characters_yearn_for_liberation_from_relentless_oppression.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131292",
+    "text_pt": "Indivíduos caçados muitas vezes buscam redenção em meio à fuga.",
+    "text_en": "Hunted individuals often seek redemption amid their flight.",
+    "audio_en_storage_path": "1292_hunted_individuals_often_seek_redemption_amid_their_flight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131293",
+    "text_pt": "Limpar seus nomes se torna tão importante quanto permanecer vivo.",
+    "text_en": "Clearing their names becomes as important as staying alive.",
+    "audio_en_storage_path": "1293_clearing_their_names_becomes_as_important_as_staying_alive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131294",
+    "text_pt": "Às vezes, os perseguidores revelam conexões surpreendentes com seus alvos.",
+    "text_en": "Pursuers sometimes reveal surprising connections to their targets.",
+    "audio_en_storage_path": "1294_pursuers_sometimes_reveal_surprising_connections_to_their_targets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131295",
+    "text_pt": "Histórias compartilhadas complicam as motivações e aprofundam os conflitos.",
+    "text_en": "Shared histories complicate motivations and deepen conflict.",
+    "audio_en_storage_path": "1295_shared_histories_complicate_motivations_and_deepen_conflict.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131296",
+    "text_pt": "Finais falsos enganam o público, fazendo-o acreditar que a perseguição acabou.",
+    "text_en": "False endings trick audiences into believing the chase is over.",
+    "audio_en_storage_path": "1296_false_endings_trick_audiences_into_believing_the_chase_is_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131297",
+    "text_pt": "Assim como a esperança surge, novos perigos surgem para prolongar a tensão.",
+    "text_en": "Just as hope arises. new dangers emerge to prolong the tension.",
+    "audio_en_storage_path": "1297_just_as_hope_arises_new_dangers_emerge_to_prolong_the_tension.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131298",
+    "text_pt": "Os protagonistas aprendem a antecipar as estratégias dos seus perseguidores.",
+    "text_en": "Protagonists learn to anticipate their pursuers’ strategies.",
+    "audio_en_storage_path": "1298_protagonists_learn_to_anticipate_their_pursuers_strategies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131299",
+    "text_pt": "Permanecer imprevisível é a chave para evitar a captura.",
+    "text_en": "Staying unpredictable becomes key to evading capture.",
+    "audio_en_storage_path": "1299_staying_unpredictable_becomes_key_to_evading_capture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131300",
+    "text_pt": "Perseguições noturnas aumentam o medo e a desorientação.",
+    "text_en": "Nighttime chases heighten fear and disorientation.",
+    "audio_en_storage_path": "1300_nighttime_chases_heighten_fear_and_disorientation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131301",
+    "text_pt": "As sombras escondem tanto o predador quanto a presa em igual medida.",
+    "text_en": "Shadows conceal both predator and prey in equal measure.",
+    "audio_en_storage_path": "1301_shadows_conceal_both_predator_and_prey_in_equal_measure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131302",
+    "text_pt": "As armas alteram o equilíbrio de poder durante as perseguições.",
+    "text_en": "Weapons shift the balance of power during pursuits.",
+    "audio_en_storage_path": "1302_weapons_shift_the_balance_of_power_during_pursuits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131303",
+    "text_pt": "Armas de fogo, facas e ferramentas improvisadas aumentam os riscos.",
+    "text_en": "Firearms. knives. and improvised tools escalate the stakes.",
+    "audio_en_storage_path": "1303_firearms_knives_and_improvised_tools_escalate_the_stakes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131304",
+    "text_pt": "Narrativas de perseguição celebram o triunfo do azarão.",
+    "text_en": "Pursuit narratives celebrate the triumph of the underdog.",
+    "audio_en_storage_path": "1304_pursuit_narratives_celebrate_the_triumph_of_the_underdog.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131305",
+    "text_pt": "Contra todas as probabilidades, os protagonistas desafiam adversários avassaladores.",
+    "text_en": "Against all odds. protagonists defy overwhelming adversaries.",
+    "audio_en_storage_path": "1305_against_all_odds_protagonists_defy_overwhelming_adversaries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131306",
+    "text_pt": "O movimento constante define o ritmo dessas histórias.",
+    "text_en": "Constant movement defines the rhythm of these stories.",
+    "audio_en_storage_path": "1306_constant_movement_defines_the_rhythm_of_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131307",
+    "text_pt": "Ficar parado significa captura ou morte certa.",
+    "text_en": "Standing still means certain capture or death.",
+    "audio_en_storage_path": "1307_standing_still_means_certain_capture_or_death.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131308",
+    "text_pt": "Os danos psicológicos aumentam à medida que os personagens enfrentam noites sem dormir e medo constante.",
+    "text_en": "Psychological tolls mount as characters endure sleepless nights and constant fear.",
+    "audio_en_storage_path": "1308_psychological_tolls_mount_as_characters_endure_sleepless_nights_and_constant_fear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131309",
+    "text_pt": "A paranoia e a exaustão afetam a força mental.",
+    "text_en": "Paranoia and exhaustion take their toll on mental fortitude.",
+    "audio_en_storage_path": "1309_paranoia_and_exhaustion_take_their_toll_on_mental_fortitude.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131310",
+    "text_pt": "Os confrontos finais trazem resolução à perseguição implacável.",
+    "text_en": "Final confrontations bring resolution to the relentless chase.",
+    "audio_en_storage_path": "1310_final_confrontations_bring_resolution_to_the_relentless_chase.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131311",
+    "text_pt": "Os encontros cara a cara determinam se a liberdade ou a captura prevalece.",
+    "text_en": "Face-to-face encounters determine whether freedom or capture prevails.",
+    "audio_en_storage_path": "1311_facetoface_encounters_determine_whether_freedom_or_capture_prevails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131312",
+    "text_pt": "Histórias de perseguição e fuga nos lembram da resiliência da humanidade.",
+    "text_en": "Pursuit and escape stories remind us of humanity’s resilience.",
+    "audio_en_storage_path": "1312_pursuit_and_escape_stories_remind_us_of_humanitys_resilience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131313",
+    "text_pt": "Mesmo diante de probabilidades intransponíveis, a coragem pode prevalecer.",
+    "text_en": "Even in the face of insurmountable odds. courage can prevail.",
+    "audio_en_storage_path": "1313_even_in_the_face_of_insurmountable_odds_courage_can_prevail.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

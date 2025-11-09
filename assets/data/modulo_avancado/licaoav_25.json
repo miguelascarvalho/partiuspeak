@@ -1,0 +1,398 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132673",
+    "text_pt": "O Rio de Janeiro é uma das cidades mais famosas e visitadas do Brasil.",
+    "text_en": "Rio de Janeiro is one of the most famous and visited cities in Brazil.",
+    "audio_en_storage_path": "051_rio_de_janeiro_is_one_of_the_most_famous_and_visited_cities_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132674",
+    "text_pt": "É conhecida por sua beleza natural deslumbrante, combinando montanhas, praias e florestas.",
+    "text_en": "It is known for its stunning natural beauty. combining mountains. beaches. and forests.",
+    "audio_en_storage_path": "052_it_is_known_for_its_stunning_natural_beauty_combining_mountains_beaches_and_forests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132676",
+    "text_pt": "Seus principais pontos turísticos incluem o Pão de Açúcar, o Cristo Redentor e belas praias.",
+    "text_en": "Its main landmarks include Sugarloaf Mountain. Christ the Redeemer. and beautiful beaches.",
+    "audio_en_storage_path": "054_its_main_landmarks_include_sugarloaf_mountain_christ_the_redeemer_and_beautiful_beaches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132677",
+    "text_pt": "Copacabana e Ipanema são duas das praias mais famosas e animadas da cidade.",
+    "text_en": "Copacabana and Ipanema are two of the most famous and lively beaches in the city.",
+    "audio_en_storage_path": "055_copacabana_and_ipanema_are_two_of_the_most_famous_and_lively_beaches_in_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132678",
+    "text_pt": "O calçadão à beira-mar é perfeito para caminhar e conhecer pessoas.",
+    "text_en": "The beachfront promenade is perfect for walking and meeting people.",
+    "audio_en_storage_path": "056_the_beachfront_promenade_is_perfect_for_walking_and_meeting_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132679",
+    "text_pt": "O teleférico para o Pão de Açúcar oferece uma das melhores vistas da cidade.",
+    "text_en": "The cable car to Sugarloaf Mountain offers one of the best views of the city.",
+    "audio_en_storage_path": "057_the_cable_car_to_sugarloaf_mountain_offers_one_of_the_best_views_of_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132680",
+    "text_pt": "Cristo Redentor, localizado no Morro do Corcovado, é uma das Novas Sete Maravilhas do Mundo.",
+    "text_en": "Christ the Redeemer. located on Corcovado Hill. is one of the New Seven Wonders of the World.",
+    "audio_en_storage_path": "058_christ_the_redeemer_located_on_corcovado_hill_is_one_of_the_new_seven_wonders_of_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132681",
+    "text_pt": "O Carnaval do Rio é a festa mais famosa do Brasil, com desfiles coloridos e festas de rua.",
+    "text_en": "The Rio Carnival is the most famous festival in Brazil. with colorful parades and street parties.",
+    "audio_en_storage_path": "059_the_rio_carnival_is_the_most_famous_festival_in_brazil_with_colorful_parades_and_street_parties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132682",
+    "text_pt": "O Sambódromo é onde acontecem os maiores desfiles das escolas de samba durante o Carnaval.",
+    "text_en": "The Sambadrome is where the biggest samba school parades take place during Carnival.",
+    "audio_en_storage_path": "060_the_sambadrome_is_where_the_biggest_samba_school_parades_take_place_during_carnival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132683",
+    "text_pt": "A culinária local é rica e variada, com ênfase em frutos do mar e pratos regionais.",
+    "text_en": "Local cuisine is rich and varied. with an emphasis on seafood and regional dishes.",
+    "audio_en_storage_path": "061_local_cuisine_is_rich_and_varied_with_an_emphasis_on_seafood_and_regional_dishes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132684",
+    "text_pt": "Restaurantes à beira-mar oferecem não apenas ótima comida, mas também vistas de tirar o fôlego.",
+    "text_en": "Beachfront restaurants offer not only great food but also breathtaking views.",
+    "audio_en_storage_path": "062_beachfront_restaurants_offer_not_only_great_food_but_also_breathtaking_views.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132685",
+    "text_pt": "A cidade tem uma forte história cultural influenciada por raízes indígenas, africanas e europeias.",
+    "text_en": "The city has a strong cultural history influenced by indigenous. African. and European roots.",
+    "audio_en_storage_path": "063_the_city_has_a_strong_cultural_history_influenced_by_indigenous_african_and_european_roots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132686",
+    "text_pt": "Bairros históricos como Santa Teresa mostram o charme antigo do Rio.",
+    "text_en": "Historic neighborhoods like Santa Teresa show the old charm of Rio.",
+    "audio_en_storage_path": "064_historic_neighborhoods_like_santa_teresa_show_the_old_charm_of_rio.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132687",
+    "text_pt": "A Lapa é conhecida por sua vibrante vida noturna, com bares, música ao vivo e casas de samba.",
+    "text_en": "Lapa is known for its vibrant nightlife. with bars. live music. and samba clubs.",
+    "audio_en_storage_path": "065_lapa_is_known_for_its_vibrant_nightlife_with_bars_live_music_and_samba_clubs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132688",
+    "text_pt": "O transporte público, como ônibus e metrô, conecta diferentes partes da cidade.",
+    "text_en": "Public transportation like buses and the metro connects different parts of the city.",
+    "audio_en_storage_path": "066_public_transportation_like_buses_and_the_metro_connects_different_parts_of_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132689",
+    "text_pt": "Os turistas devem estar cientes das dicas de segurança, especialmente em áreas lotadas ou turísticas.",
+    "text_en": "Tourists should be aware of safety tips. especially in crowded or tourist areas.",
+    "audio_en_storage_path": "067_tourists_should_be_aware_of_safety_tips_especially_in_crowded_or_tourist_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132690",
+    "text_pt": "O Parque Nacional da Tijuca é uma das maiores florestas tropicais urbanas do mundo.",
+    "text_en": "Tijuca National Park is one of the largest urban rainforests in the world.",
+    "audio_en_storage_path": "068_tijuca_national_park_is_one_of_the_largest_urban_rainforests_in_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132691",
+    "text_pt": "Trilhas como Dois Irmãos e Pedra Bonita atraem amantes da natureza e aventureiros.",
+    "text_en": "Trails like Dois Irmãos and Pedra Bonita attract nature lovers and adventure seekers.",
+    "audio_en_storage_path": "069_trails_like_dois_irmaos_and_pedra_bonita_attract_nature_lovers_and_adventure_seekers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132692",
+    "text_pt": "O litoral sul é perfeito para correr, caminhar ou assistir ao pôr do sol.",
+    "text_en": "The southern coastline is perfect for jogging. walking. or watching the sunset.",
+    "audio_en_storage_path": "070_the_southern_coastline_is_perfect_for_jogging_walking_or_watching_the_sunset.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132693",
+    "text_pt": "O Mirante Dona Marta é um dos pontos mais fotografados da cidade.",
+    "text_en": "The Dona Marta viewpoint is one of the most photographed spots in the city.",
+    "audio_en_storage_path": "071_the_dona_marta_viewpoint_is_one_of_the_most_photographed_spots_in_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132694",
+    "text_pt": "Festivais de música, cinema e arte acontecem regularmente ao longo do ano.",
+    "text_en": "Music. film. and art festivals happen regularly throughout the year.",
+    "audio_en_storage_path": "072_music_film_and_art_festivals_happen_regularly_throughout_the_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132695",
+    "text_pt": "O Rio já sediou grandes eventos internacionais, como a Copa do Mundo da FIFA e os Jogos Olímpicos.",
+    "text_en": "Rio has hosted major international events such as the FIFA World Cup and the Olympic Games.",
+    "audio_en_storage_path": "073_rio_has_hosted_major_international_events_such_as_the_fifa_world_cup_and_the_olympic_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132696",
+    "text_pt": "Hotéis de luxo, pousadas charmosas e albergues econômicos acolhem todos os tipos de viajantes.",
+    "text_en": "Luxury hotels. charming guesthouses. and budget hostels welcome all kinds of travelers.",
+    "audio_en_storage_path": "074_luxury_hotels_charming_guesthouses_and_budget_hostels_welcome_all_kinds_of_travelers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132697",
+    "text_pt": "O clima tropical permite que os visitantes aproveitem a cidade o ano todo.",
+    "text_en": "The tropical climate allows visitors to enjoy the city all year round.",
+    "audio_en_storage_path": "075_the_tropical_climate_allows_visitors_to_enjoy_the_city_all_year_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132698",
+    "text_pt": "Praias escondidas como Prainha e Pepino oferecem paz longe das multidões.",
+    "text_en": "Hidden beaches like Prainha and Pepino offer peace away from the crowds.",
+    "audio_en_storage_path": "076_hidden_beaches_like_prainha_and_pepino_offer_peace_away_from_the_crowds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132699",
+    "text_pt": "O bairro de São Conrado recebe o Festival de Asa Delta. conhecido como “Voador”.",
+    "text_en": "São Conrado neighborhood hosts the Hang Gliding Festival. known as “Voador.”",
+    "audio_en_storage_path": "077_sao_conrado_neighborhood_hosts_the_hang_gliding_festival_known_as_voador.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132700",
+    "text_pt": "O Teatro Municipal é uma joia arquitetônica e cultural da cidade.",
+    "text_en": "The Municipal Theater is an architectural and cultural gem of the city.",
+    "audio_en_storage_path": "078_the_municipal_theater_is_an_architectural_and_cultural_gem_of_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132701",
+    "text_pt": "O Museu do Amanhã é um símbolo da revitalização da zona portuária.",
+    "text_en": "The Museum of Tomorrow is a symbol of the revitalization of the port area.",
+    "audio_en_storage_path": "079_the_museum_of_tomorrow_is_a_symbol_of_the_revitalization_of_the_port_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132702",
+    "text_pt": "A histórica região portuária ganhou novos espaços culturais e gastronômicos nos últimos anos.",
+    "text_en": "The historic port region has gained new cultural and gastronomic spaces in recent years.",
+    "audio_en_storage_path": "080_the_historic_port_region_has_gained_new_cultural_and_gastronomic_spaces_in_recent_years.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132703",
+    "text_pt": "A feira de São Cristóvão mostra a influência da cultura nordestina brasileira no Rio.",
+    "text_en": "The São Cristóvão fair shows the influence of Northeastern Brazilian culture in Rio.",
+    "audio_en_storage_path": "081_the_sao_cristovao_fair_shows_the_influence_of_northeastern_brazilian_culture_in_rio.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132704",
+    "text_pt": "A cidade possui uma rica tradição musical enraizada no samba. choro. e bossa nova.",
+    "text_en": "The city has a rich musical tradition rooted in samba. choro. and bossa nova.",
+    "audio_en_storage_path": "082_the_city_has_a_rich_musical_tradition_rooted_in_samba_choro_and_bossa_nova.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132705",
+    "text_pt": "Os cariocas, como são chamados os moradores locais, são conhecidos pela simpatia e cordialidade.",
+    "text_en": "Cariocas. as locals are called. are known for their friendliness and warmth.",
+    "audio_en_storage_path": "083_cariocas_as_locals_are_called_are_known_for_their_friendliness_and_warmth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132706",
+    "text_pt": "Os pratos locais incluem feijoada. peixe grelhado. e moqueca.",
+    "text_en": "Local dishes include feijoada. grilled fish. and moqueca.",
+    "audio_en_storage_path": "084_local_dishes_include_feijoada_grilled_fish_and_moqueca.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132707",
+    "text_pt": "Cercada por montanhas e oceano, a cidade oferece paisagens de tirar o fôlego.",
+    "text_en": "Surrounded by mountains and ocean. the city offers breathtaking landscapes.",
+    "audio_en_storage_path": "085_surrounded_by_mountains_and_ocean_the_city_offers_breathtaking_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132708",
+    "text_pt": "O Aeroporto do Galeão (Aeroporto Internacional Tom Jobim) é a principal entrada da cidade.",
+    "text_en": "Galeão Airport (International Airport Tom Jobim) is the main entrance to the city.",
+    "audio_en_storage_path": "086_galeao_airport_international_airport_tom_jobim_is_the_main_entrance_to_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132709",
+    "text_pt": "Passeios de barco pelo Recreio dos Bandeirantes e Ilha Grande são experiências inesquecíveis.",
+    "text_en": "Boat tours through Recreio dos Bandeirantes and Ilha Grande are unforgettable experiences.",
+    "audio_en_storage_path": "087_boat_tours_through_recreio_dos_bandeirantes_and_ilha_grande_are_unforgettable_experiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132710",
+    "text_pt": "A cidade conta com infraestrutura completa tanto para turismo de lazer quanto de negócios.",
+    "text_en": "The city has a complete infrastructure for both leisure and business tourism.",
+    "audio_en_storage_path": "088_the_city_has_a_complete_infrastructure_for_both_leisure_and_business_tourism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132711",
+    "text_pt": "O bairro de Botafogo combina restaurantes, lojas e uma vida noturna agitada.",
+    "text_en": "The Botafogo neighborhood combines restaurants. shopping. and a lively nightlife.",
+    "audio_en_storage_path": "089_the_botafogo_neighborhood_combines_restaurants_shopping_and_a_lively_nightlife.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132712",
+    "text_pt": "O Jardim Botânico é um espaço verde histórico repleto de biodiversidade.",
+    "text_en": "The Botanical Garden is a historic green space full of biodiversity.",
+    "audio_en_storage_path": "090_the_botanical_garden_is_a_historic_green_space_full_of_biodiversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132713",
+    "text_pt": "O Rio de Janeiro encanta os visitantes com sua energia, beleza e alma carioca.",
+    "text_en": "Rio de Janeiro enchants visitors with its energy. beauty. and carioca soul.",
+    "audio_en_storage_path": "091_rio_de_janeiro_enchants_visitors_with_its_energy_beauty_and_carioca_soul.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132714",
+    "text_pt": "É impossível visitar o Rio sem se apaixonar por sua vibração única e contagiante.",
+    "text_en": "It's impossible to visit Rio without falling in love with its unique and contagious vibe.",
+    "audio_en_storage_path": "092_its_impossible_to_visit_rio_without_falling_in_love_with_its_unique_and_contagious_vibe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132715",
+    "text_pt": "A mistura de natureza, cultura e história faz do Rio um destino inesquecível.",
+    "text_en": "The mix of nature. culture. and history makes Rio an unforgettable destination.",
+    "audio_en_storage_path": "093_the_mix_of_nature_culture_and_history_makes_rio_an_unforgettable_destination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132716",
+    "text_pt": "O Rio de Janeiro é mais do que belas paisagens: é emoção, alegria e hospitalidade.",
+    "text_en": "Rio de Janeiro is more than just beautiful landscapes: it’s emotion. joy. and hospitality.",
+    "audio_en_storage_path": "094_rio_de_janeiro_is_more_than_just_beautiful_landscapes_its_emotion_joy_and_hospitality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132717",
+    "text_pt": "Visitar o Rio é descobrir uma cidade onde o coração bate mais forte ao ritmo do mar e da felicidade.",
+    "text_en": "Visiting Rio is discovering a city where your heart beats stronger to the rhythm of the sea and happiness.",
+    "audio_en_storage_path": "095_visiting_rio_is_discovering_a_city_where_your_heart_beats_stronger_to_the_rhythm_of_the_sea_and_happiness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

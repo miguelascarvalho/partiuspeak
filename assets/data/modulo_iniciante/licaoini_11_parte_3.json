@@ -1,0 +1,146 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100165",
+    "text_pt": "O relógio está na parede.",
+    "text_en": "The clock is on the wall.",
+    "audio_en_storage_path": "166_the_clock_is_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100166",
+    "text_pt": "Nós o usamos para saber as horas.",
+    "text_en": "We use it to know the time.",
+    "audio_en_storage_path": "167_we_use_it_to_know_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100167",
+    "text_pt": "Possui números grandes e um som de tique-taque.",
+    "text_en": "It has big numbers and a ticking sound.",
+    "audio_en_storage_path": "168_it_has_big_numbers_and_a_ticking_sound.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100168",
+    "text_pt": "Há uma imagem de animais ao redor.",
+    "text_en": "There is a picture of animals around it.",
+    "audio_en_storage_path": "169_there_is_a_picture_of_animals_around_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100169",
+    "text_pt": "O relógio funciona?",
+    "text_en": "Does the clock work?",
+    "audio_en_storage_path": "170_does_the_clock_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100170",
+    "text_pt": "Sim, ele mostra as horas claramente.",
+    "text_en": "Yes, it shows the time clearly.",
+    "audio_en_storage_path": "171_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100171",
+    "text_pt": "Não, a bateria está descarregada.",
+    "text_en": "No, the battery is dead.",
+    "audio_en_storage_path": "172_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100172",
+    "text_pt": "Onde está o despertador?",
+    "text_en": "Where is the alarm clock?",
+    "audio_en_storage_path": "173_where_is_the_alarm_clock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100173",
+    "text_pt": "O despertador está no criado-mudo.",
+    "text_en": "The alarm clock is on the nightstand.",
+    "audio_en_storage_path": "174_the_alarm_clock_is_on_the_nightstand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100174",
+    "text_pt": "Quando você vai acordar?",
+    "text_en": "When will you wake up?",
+    "audio_en_storage_path": "175_when_will_you_wake_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100175",
+    "text_pt": "Amanhã vou acordar às sete.",
+    "text_en": "I’ll wake up at seven tomorrow.",
+    "audio_en_storage_path": "176_ill_wake_up_at_seven_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100176",
+    "text_pt": "Por que você desligou o alarme?",
+    "text_en": "Why did you turn off the alarm?",
+    "audio_en_storage_path": "177_why_did_you_turn_off_the_alarm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100177",
+    "text_pt": "Eu queria dormir mais cinco minutos.",
+    "text_en": "I wanted to sleep five more minutes.",
+    "audio_en_storage_path": "178_i_wanted_to_sleep_five_more_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100178",
+    "text_pt": "Ele verifica as horas a cada hora.",
+    "text_en": "He checks the time every hour.",
+    "audio_en_storage_path": "179_he_checks_the_time_every_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100179",
+    "text_pt": "Ela não perderá seu programa favorito.",
+    "text_en": "She won’t miss her favorite show.",
+    "audio_en_storage_path": "180_she_wont_miss_her_favorite_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100180",
+    "text_pt": "Hora de ir para a cama agora.",
+    "text_en": "Time to go to bed now.",
+    "audio_en_storage_path": "181_time_to_go_to_bed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

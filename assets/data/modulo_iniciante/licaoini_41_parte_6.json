@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101705",
+    "text_pt": "💼 Loja de Acessórios",
+    "text_en": "💼 Accessories Store",
+    "audio_en_storage_path": "805_accessories_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101706",
+    "text_pt": "A loja de acessórios fica ao lado da praça de alimentação.",
+    "text_en": "The accessories shop is next to the food court.",
+    "audio_en_storage_path": "806_the_accessories_shop_is_next_to_the_food_court.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101707",
+    "text_pt": "Você verá chapéus. carteiras e óculos de sol.",
+    "text_en": "You’ll see hats. wallets. and sunglasses.",
+    "audio_en_storage_path": "807_youll_see_hats_wallets_and_sunglasses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101708",
+    "text_pt": "Eu compro cintos. relógios ou fones de ouvido aqui.",
+    "text_en": "I buy belts. watches. or earbuds here.",
+    "audio_en_storage_path": "808_i_buy_belts_watches_or_earbuds_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101709",
+    "text_pt": "Pequenas coisas que completam um look.",
+    "text_en": "Small things that complete an outfit.",
+    "audio_en_storage_path": "809_small_things_that_complete_an_outfit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101710",
+    "text_pt": "A exposição está cheia de itens brilhantes.",
+    "text_en": "The display is full of shiny items.",
+    "audio_en_storage_path": "810_the_display_is_full_of_shiny_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101711",
+    "text_pt": "Colares. anéis e pulseiras — tudo organizado.",
+    "text_en": "Necklaces. rings. and bracelets — all organized.",
+    "audio_en_storage_path": "811_necklaces_rings_and_bracelets_all_organized.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101712",
+    "text_pt": "Há pequenas caixas. cartões de presente e panos de limpeza por perto.",
+    "text_en": "There are small boxes. gift cards. and cleaning cloths nearby.",
+    "audio_en_storage_path": "812_there_are_small_boxes_gift_cards_and_cleaning_cloths_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101713",
+    "text_pt": "E uma caixa com ouro e prata falsos.",
+    "text_en": "And a case with fake gold and silver.",
+    "audio_en_storage_path": "813_and_a_case_with_fake_gold_and_silver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101714",
+    "text_pt": "O que você comprou hoje?",
+    "text_en": "What did you buy today?",
+    "audio_en_storage_path": "814_what_did_you_buy_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101715",
+    "text_pt": "Uma pulseira simples — muito leve e elegante.",
+    "text_en": "A simple bracelet — very light and stylish.",
+    "audio_en_storage_path": "815_a_simple_bracelet_very_light_and_stylish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101716",
+    "text_pt": "Onde estão as melhores ofertas?",
+    "text_en": "Where are the best deals?",
+    "audio_en_storage_path": "816_where_are_the_best_deals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101717",
+    "text_pt": "Na segunda prateleira — procure pelas etiquetas vermelhas.",
+    "text_en": "On the second shelf — look for red tags.",
+    "audio_en_storage_path": "817_on_the_second_shelf_look_for_red_tags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101718",
+    "text_pt": "Às vezes eu compro presentes.",
+    "text_en": "Sometimes I buy gifts.",
+    "audio_en_storage_path": "818_sometimes_i_buy_gifts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101719",
+    "text_pt": "Outras vezes eu apenas toco e vou embora.",
+    "text_en": "Other times I just touch and leave.",
+    "audio_en_storage_path": "819_other_times_i_just_touch_and_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101720",
+    "text_pt": "Onde você colocou seus óculos de sol?",
+    "text_en": "Where did you put your sunglasses?",
+    "audio_en_storage_path": "820_where_did_you_put_your_sunglasses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101721",
+    "text_pt": "Na sua bolsa — talvez embaixo dos recibos.",
+    "text_en": "In your bag — maybe under receipts.",
+    "audio_en_storage_path": "821_in_your_bag_maybe_under_receipts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101722",
+    "text_pt": "Quando eles terão mais chapéus em estoque?",
+    "text_en": "When will they get more hats in stock?",
+    "audio_en_storage_path": "822_when_will_they_get_more_hats_in_stock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101723",
+    "text_pt": "Em breve — disseram eles na semana que vem.",
+    "text_en": "Soon — they said next week.",
+    "audio_en_storage_path": "823_soon_they_said_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101724",
+    "text_pt": "Por que você escolheu esta carteira hoje?",
+    "text_en": "Why did you choose this wallet today?",
+    "audio_en_storage_path": "824_why_did_you_choose_this_wallet_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101725",
+    "text_pt": "Porque tinha espaço para cartões e dinheiro.",
+    "text_en": "Because it had space for cards and cash.",
+    "audio_en_storage_path": "825_because_it_had_space_for_cards_and_cash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101726",
+    "text_pt": "Ela compra pequenos presentes aqui com frequência.",
+    "text_en": "She buys small gifts here often.",
+    "audio_en_storage_path": "826_she_buys_small_gifts_here_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101727",
+    "text_pt": "Lugar perfeito para ideias de última hora.",
+    "text_en": "Perfect place for last-minute ideas.",
+    "audio_en_storage_path": "827_perfect_place_for_lastminute_ideas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101728",
+    "text_pt": "Amanhã. Não esquecerei de perguntar novamente sobre devoluções.",
+    "text_en": "Tomorrow. I will not forget to ask about returns again.",
+    "audio_en_storage_path": "828_tomorrow_i_will_not_forget_to_ask_about_returns_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101729",
+    "text_pt": "Não é possível devolver sem o recibo.",
+    "text_en": "Can’t return without the receipt.",
+    "audio_en_storage_path": "829_cant_return_without_the_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101730",
+    "text_pt": "Acessórios acrescentam sabor!",
+    "text_en": "Accessories add flavor!",
+    "audio_en_storage_path": "830_accessories_add_flavor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101731",
+    "text_pt": "Escolha algo divertido hoje.",
+    "text_en": "Pick something fun today.",
+    "audio_en_storage_path": "831_pick_something_fun_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

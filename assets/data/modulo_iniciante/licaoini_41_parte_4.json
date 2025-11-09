@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101651",
+    "text_pt": "👕 Loja de Roupas",
+    "text_en": "👕 Clothing Store",
+    "audio_en_storage_path": "751_clothing_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101652",
+    "text_pt": "A loja de roupas fica perto da entrada principal.",
+    "text_en": "The clothing store is near the main entrance.",
+    "audio_en_storage_path": "752_the_clothing_store_is_near_the_main_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101653",
+    "text_pt": "Ela vende roupas casuais e formais.",
+    "text_en": "It sells casual and formal clothes.",
+    "audio_en_storage_path": "753_it_sells_casual_and_formal_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101654",
+    "text_pt": "Eu experimento jaquetas. camisas ou jeans aqui.",
+    "text_en": "I try on jackets. shirts. or jeans here.",
+    "audio_en_storage_path": "754_i_try_on_jackets_shirts_or_jeans_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101655",
+    "text_pt": "Às vezes eu simplesmente ando por aí e olho.",
+    "text_en": "Sometimes I just walk around and look.",
+    "audio_en_storage_path": "755_sometimes_i_just_walk_around_and_look.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101656",
+    "text_pt": "A loja tem luzes brilhantes e grandes espelhos.",
+    "text_en": "The shop has bright lights and big mirrors.",
+    "audio_en_storage_path": "756_the_shop_has_bright_lights_and_big_mirrors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101657",
+    "text_pt": "Existem prateleiras com cores e tamanhos diferentes.",
+    "text_en": "There are racks with different colors and sizes.",
+    "audio_en_storage_path": "757_there_are_racks_with_different_colors_and_sizes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101658",
+    "text_pt": "Há cabides. etiquetas de preço e sacolas por perto.",
+    "text_en": "There are hangers. price tags. and bags nearby.",
+    "audio_en_storage_path": "758_there_are_hangers_price_tags_and_bags_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101659",
+    "text_pt": "E manequins mostrando novas coleções.",
+    "text_en": "And mannequins showing new collections.",
+    "audio_en_storage_path": "759_and_mannequins_showing_new_collections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101660",
+    "text_pt": "O que você tentou hoje?",
+    "text_en": "What did you try today?",
+    "audio_en_storage_path": "760_what_did_you_try_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101661",
+    "text_pt": "Esta jaqueta preta — veste perfeitamente.",
+    "text_en": "This black jacket — it fits perfectly.",
+    "audio_en_storage_path": "761_this_black_jacket_it_fits_perfectly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101662",
+    "text_pt": "Onde ficam os provadores?",
+    "text_en": "Where are the fitting rooms?",
+    "audio_en_storage_path": "762_where_are_the_fitting_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101663",
+    "text_pt": "No lado esquerdo — depois da seção de sapatos.",
+    "text_en": "On the left side — past the shoe section.",
+    "audio_en_storage_path": "763_on_the_left_side_past_the_shoe_section.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101664",
+    "text_pt": "Às vezes compro algo pequeno.",
+    "text_en": "Sometimes I buy something small.",
+    "audio_en_storage_path": "764_sometimes_i_buy_something_small.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101665",
+    "text_pt": "Outras vezes eu apenas verifico os preços.",
+    "text_en": "Other times I just check prices.",
+    "audio_en_storage_path": "765_other_times_i_just_check_prices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101666",
+    "text_pt": "Onde você deixou sua bolsa?",
+    "text_en": "Where did you leave your bag?",
+    "audio_en_storage_path": "766_where_did_you_leave_your_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101667",
+    "text_pt": "Em uma cadeira — perto do trocador.",
+    "text_en": "On a chair — near the changing area.",
+    "audio_en_storage_path": "767_on_a_chair_near_the_changing_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101668",
+    "text_pt": "Quando eles terão estoque novo novamente?",
+    "text_en": "When will they have new stock again?",
+    "audio_en_storage_path": "768_when_will_they_have_new_stock_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101669",
+    "text_pt": "No mês que vem — provavelmente depois do término da promoção.",
+    "text_en": "Next month — probably after the sale ends.",
+    "audio_en_storage_path": "769_next_month_probably_after_the_sale_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101670",
+    "text_pt": "Por que você devolveu aquela camisa?",
+    "text_en": "Why did you return that shirt?",
+    "audio_en_storage_path": "770_why_did_you_return_that_shirt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101671",
+    "text_pt": "Porque o tamanho era muito apertado.",
+    "text_en": "Because the size was too tight.",
+    "audio_en_storage_path": "771_because_the_size_was_too_tight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101672",
+    "text_pt": "Ela sempre verifica os rótulos antes de comprar.",
+    "text_en": "She always checks labels before buying.",
+    "audio_en_storage_path": "772_she_always_checks_labels_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101673",
+    "text_pt": "Não quer lavar por engano.",
+    "text_en": "Doesn’t want to wash by mistake.",
+    "audio_en_storage_path": "773_doesnt_want_to_wash_by_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101674",
+    "text_pt": "Amanhã. Não esquecerei de verificar a política de devolução novamente.",
+    "text_en": "Tomorrow. I will not forget to check the return policy again.",
+    "audio_en_storage_path": "774_tomorrow_i_will_not_forget_to_check_the_return_policy_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101675",
+    "text_pt": "Perdi meu recibo da última vez.",
+    "text_en": "Lost my receipt last time.",
+    "audio_en_storage_path": "775_lost_my_receipt_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101676",
+    "text_pt": "Experimente antes de comprar!",
+    "text_en": "Try before you buy!",
+    "audio_en_storage_path": "776_try_before_you_buy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101677",
+    "text_pt": "Certifique-se de que seja confortável.",
+    "text_en": "Make sure it feels comfortable.",
+    "audio_en_storage_path": "777_make_sure_it_feels_comfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

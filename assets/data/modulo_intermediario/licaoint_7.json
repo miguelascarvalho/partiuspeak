@@ -1,0 +1,1703 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110782",
+    "text_pt": "Ônibus",
+    "text_en": "Bus",
+    "audio_en_storage_path": "782_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110783",
+    "text_pt": "Ele pega o ônibus todas as manhãs.",
+    "text_en": "He takes the bus every morning.",
+    "audio_en_storage_path": "783_he_takes_the_bus_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110784",
+    "text_pt": "Ele vai à escola ou trabalha com ela.",
+    "text_en": "He goes to school or works with it.",
+    "audio_en_storage_path": "784_he_goes_to_school_or_works_with_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110785",
+    "text_pt": "O ônibus para perto de sua casa às 7:30.",
+    "text_en": "The bus stops near his house at 7:30.",
+    "audio_en_storage_path": "785_the_bus_stops_near_his_house_at_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110786",
+    "text_pt": "É sempre pontual.",
+    "text_en": "It’s always on time.",
+    "audio_en_storage_path": "786_its_always_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110787",
+    "text_pt": "Ela espera o ônibus na chuva.",
+    "text_en": "She waits for the bus in the rain.",
+    "audio_en_storage_path": "787_she_waits_for_the_bus_in_the_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110788",
+    "text_pt": "Ela carrega um guarda-chuva para qualquer eventualidade.",
+    "text_en": "She carries an umbrella just in case.",
+    "audio_en_storage_path": "788_she_carries_an_umbrella_just_in_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110789",
+    "text_pt": "Entramos no ônibus e encontramos assentos.",
+    "text_en": "We get on the bus and find seats.",
+    "audio_en_storage_path": "789_we_get_on_the_bus_and_find_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110790",
+    "text_pt": "Algumas pessoas ficam de pé na hora do rush.",
+    "text_en": "Some people stand during rush hour.",
+    "audio_en_storage_path": "790_some_people_stand_during_rush_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110791",
+    "text_pt": "Eles conversam ou ouvem música enquanto viajam.",
+    "text_en": "They talk or listen to music while traveling.",
+    "audio_en_storage_path": "791_they_talk_or_listen_to_music_while_traveling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110792",
+    "text_pt": "Outros leem livros ou assistem a vídeos.",
+    "text_en": "Others read books or watch videos.",
+    "audio_en_storage_path": "792_others_read_books_or_watch_videos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110793",
+    "text_pt": "O ônibus é grande e amarelo.",
+    "text_en": "The bus is big and yellow.",
+    "audio_en_storage_path": "793_the_bus_is_big_and_yellow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110794",
+    "text_pt": "Tem muitas janelas e assentos azuis.",
+    "text_en": "It has many windows and blue seats.",
+    "audio_en_storage_path": "794_it_has_many_windows_and_blue_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110795",
+    "text_pt": "O que ele carrega quando pega o ônibus?",
+    "text_en": "What does he carry when taking the bus?",
+    "audio_en_storage_path": "795_what_does_he_carry_when_taking_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110796",
+    "text_pt": "Uma mochila e seu almoço.",
+    "text_en": "A backpack and his lunch.",
+    "audio_en_storage_path": "796_a_backpack_and_his_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110797",
+    "text_pt": "Para onde vai o ônibus?",
+    "text_en": "Where does the bus go?",
+    "audio_en_storage_path": "797_where_does_the_bus_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110798",
+    "text_pt": "Para a escola, para o centro da cidade e para outros bairros.",
+    "text_en": "To school. the city center. and other neighborhoods.",
+    "audio_en_storage_path": "798_to_school_the_city_center_and_other_neighborhoods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110799",
+    "text_pt": "Quando eles costumam pegar o ônibus?",
+    "text_en": "When do they usually take the bus?",
+    "audio_en_storage_path": "799_when_do_they_usually_take_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110800",
+    "text_pt": "Durante a semana — nunca nos fins de semana.",
+    "text_en": "During weekdays — never on weekends.",
+    "audio_en_storage_path": "800_during_weekdays_never_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110801",
+    "text_pt": "Por que ela perdeu o ônibus hoje?",
+    "text_en": "Why did she miss the bus today?",
+    "audio_en_storage_path": "801_why_did_she_miss_the_bus_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110802",
+    "text_pt": "Porque ela acordou tarde.",
+    "text_en": "Because she woke up late.",
+    "audio_en_storage_path": "802_because_she_woke_up_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110803",
+    "text_pt": "Ele usa o ônibus cinco dias por semana.",
+    "text_en": "He uses the bus five days a week.",
+    "audio_en_storage_path": "803_he_uses_the_bus_five_days_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110804",
+    "text_pt": "É rápido e barato.",
+    "text_en": "It’s fast and cheap.",
+    "audio_en_storage_path": "804_its_fast_and_cheap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110805",
+    "text_pt": "Amanhã não esqueceremos mais nossos ingressos.",
+    "text_en": "Tomorrow. we will not forget our tickets again.",
+    "audio_en_storage_path": "805_tomorrow_we_will_not_forget_our_tickets_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110806",
+    "text_pt": "Nós os guardaremos em nossos bolsos.",
+    "text_en": "We’ll keep them in our pockets.",
+    "audio_en_storage_path": "806_well_keep_them_in_our_pockets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110807",
+    "text_pt": "Tenha uma viagem segura!",
+    "text_en": "Have a safe trip!",
+    "audio_en_storage_path": "807_have_a_safe_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110808",
+    "text_pt": "Vejo você em breve!",
+    "text_en": "See you soon!",
+    "audio_en_storage_path": "808_see_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110809",
+    "text_pt": "Carro",
+    "text_en": "Car",
+    "audio_en_storage_path": "809_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110810",
+    "text_pt": "Ela dirige seu carro para o trabalho.",
+    "text_en": "She drives her car to work.",
+    "audio_en_storage_path": "810_she_drives_her_car_to_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110811",
+    "text_pt": "Ela sai de casa às 8:00 da manhã.",
+    "text_en": "She leaves home at 8:00 AM.",
+    "audio_en_storage_path": "811_she_leaves_home_at_800_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110812",
+    "text_pt": "O carro é branco e pequeno.",
+    "text_en": "The car is white and small.",
+    "audio_en_storage_path": "812_the_car_is_white_and_small.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110813",
+    "text_pt": "Ela toca uma música suave enquanto dirige.",
+    "text_en": "It plays soft music when she drives.",
+    "audio_en_storage_path": "813_it_plays_soft_music_when_she_drives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110814",
+    "text_pt": "Nós limpamos o carro todo fim de semana.",
+    "text_en": "We clean the car every weekend.",
+    "audio_en_storage_path": "814_we_clean_the_car_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110815",
+    "text_pt": "Lavamos as janelas e passamos aspirador por dentro.",
+    "text_en": "We wash the windows and vacuum inside.",
+    "audio_en_storage_path": "815_we_wash_the_windows_and_vacuum_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110816",
+    "text_pt": "Eles usam o carro para visitar a família.",
+    "text_en": "They use the car to visit family.",
+    "audio_en_storage_path": "816_they_use_the_car_to_visit_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110817",
+    "text_pt": "Às vezes eles vão acampar ou à praia.",
+    "text_en": "Sometimes they go camping or to the beach.",
+    "audio_en_storage_path": "817_sometimes_they_go_camping_or_to_the_beach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110818",
+    "text_pt": "Ele ouve podcasts enquanto dirige.",
+    "text_en": "He listens to podcasts while driving.",
+    "audio_en_storage_path": "818_he_listens_to_podcasts_while_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110819",
+    "text_pt": "Ou ele canta junto suas músicas favoritas.",
+    "text_en": "Or he sings along to his favorite songs.",
+    "audio_en_storage_path": "819_or_he_sings_along_to_his_favorite_songs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110820",
+    "text_pt": "O carro tem quatro portas e um porta-malas grande.",
+    "text_en": "The car has four doors and a big trunk.",
+    "audio_en_storage_path": "820_the_car_has_four_doors_and_a_big_trunk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110821",
+    "text_pt": "Há espaço para sacolas e compras.",
+    "text_en": "There's space for bags and groceries.",
+    "audio_en_storage_path": "821_theres_space_for_bags_and_groceries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110822",
+    "text_pt": "Qual é a cor do seu carro?",
+    "text_en": "What color is your car?",
+    "audio_en_storage_path": "822_what_color_is_your_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110823",
+    "text_pt": "É preto com assentos cinza.",
+    "text_en": "It's black with gray seats.",
+    "audio_en_storage_path": "823_its_black_with_gray_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110824",
+    "text_pt": "Onde está o carro agora?",
+    "text_en": "Where is the car now?",
+    "audio_en_storage_path": "824_where_is_the_car_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110825",
+    "text_pt": "Está estacionado em frente à casa.",
+    "text_en": "It’s parked in front of the house.",
+    "audio_en_storage_path": "825_its_parked_in_front_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110826",
+    "text_pt": "Quando você dirige mais?",
+    "text_en": "When do you drive the most?",
+    "audio_en_storage_path": "826_when_do_you_drive_the_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110827",
+    "text_pt": "Nos fins de semana e feriados.",
+    "text_en": "On weekends and holidays.",
+    "audio_en_storage_path": "827_on_weekends_and_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110828",
+    "text_pt": "Por que você consertou o carro ontem?",
+    "text_en": "Why did you fix the car yesterday?",
+    "audio_en_storage_path": "828_why_did_you_fix_the_car_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110829",
+    "text_pt": "Porque o motor fazia barulhos estranhos.",
+    "text_en": "Because the engine made strange noises.",
+    "audio_en_storage_path": "829_because_the_engine_made_strange_noises.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110830",
+    "text_pt": "Gostamos de fazer longas viagens juntos.",
+    "text_en": "We enjoy long drives together.",
+    "audio_en_storage_path": "830_we_enjoy_long_drives_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110831",
+    "text_pt": "É relaxante e divertido.",
+    "text_en": "It’s relaxing and fun.",
+    "audio_en_storage_path": "831_its_relaxing_and_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110832",
+    "text_pt": "Amanhã. eles não vão esquecer de encher o tanque.",
+    "text_en": "Tomorrow. they will not forget to fill the tank.",
+    "audio_en_storage_path": "832_tomorrow_they_will_not_forget_to_fill_the_tank.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110833",
+    "text_pt": "Eles vão parar no posto de gasolina.",
+    "text_en": "They’ll stop at the gas station.",
+    "audio_en_storage_path": "833_theyll_stop_at_the_gas_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110834",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "834_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110835",
+    "text_pt": "Mantenha as duas mãos no volante.",
+    "text_en": "Keep both hands on the wheel.",
+    "audio_en_storage_path": "835_keep_both_hands_on_the_wheel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110836",
+    "text_pt": "Táxi / Uber",
+    "text_en": "Taxi / Uber",
+    "audio_en_storage_path": "836_taxi_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110837",
+    "text_pt": "Ele chama um táxi quando está com pressa.",
+    "text_en": "He calls a taxi when he's in a hurry.",
+    "audio_en_storage_path": "837_he_calls_a_taxi_when_hes_in_a_hurry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110838",
+    "text_pt": "Ele usa um aplicativo no telefone.",
+    "text_en": "He uses an app on his phone.",
+    "audio_en_storage_path": "838_he_uses_an_app_on_his_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110839",
+    "text_pt": "O Uber chega em cinco minutos.",
+    "text_en": "The Uber arrives in five minutes.",
+    "audio_en_storage_path": "839_the_uber_arrives_in_five_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110840",
+    "text_pt": "O motorista é simpático e conhece o caminho.",
+    "text_en": "The driver is friendly and knows the way.",
+    "audio_en_storage_path": "840_the_driver_is_friendly_and_knows_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110841",
+    "text_pt": "Ela viaja sozinha no banco de trás.",
+    "text_en": "She travels alone in the back seat.",
+    "audio_en_storage_path": "841_she_travels_alone_in_the_back_seat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110842",
+    "text_pt": "Ela manda mensagens para os amigos enquanto se muda.",
+    "text_en": "She texts friends while moving.",
+    "audio_en_storage_path": "842_she_texts_friends_while_moving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110843",
+    "text_pt": "Usamos o Uber para ir ao centro da cidade.",
+    "text_en": "We use Uber to go downtown.",
+    "audio_en_storage_path": "843_we_use_uber_to_go_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110844",
+    "text_pt": "É mais rápido do que esperar o ônibus.",
+    "text_en": "It's faster than waiting for the bus.",
+    "audio_en_storage_path": "844_its_faster_than_waiting_for_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110845",
+    "text_pt": "Eles pagam com o aplicativo depois da viagem.",
+    "text_en": "They pay with the app after the ride.",
+    "audio_en_storage_path": "845_they_pay_with_the_app_after_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110846",
+    "text_pt": "Não é necessário levar dinheiro.",
+    "text_en": "No need to carry cash.",
+    "audio_en_storage_path": "846_no_need_to_carry_cash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110847",
+    "text_pt": "O táxi tem janelas escuras e ar frio.",
+    "text_en": "The taxi has dark windows and cold air.",
+    "audio_en_storage_path": "847_the_taxi_has_dark_windows_and_cold_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110848",
+    "text_pt": "Parece um espaço privado.",
+    "text_en": "It feels like a private space.",
+    "audio_en_storage_path": "848_it_feels_like_a_private_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110849",
+    "text_pt": "Quem dirige o Uber?",
+    "text_en": "Who drives the Uber?",
+    "audio_en_storage_path": "849_who_drives_the_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110850",
+    "text_pt": "Um homem ou uma mulher que trabalha em período integral.",
+    "text_en": "A man or woman who works full time.",
+    "audio_en_storage_path": "850_a_man_or_woman_who_works_full_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110851",
+    "text_pt": "De onde você pode chamar um táxi?",
+    "text_en": "Where can you call a taxi from?",
+    "audio_en_storage_path": "851_where_can_you_call_a_taxi_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110852",
+    "text_pt": "De qualquer lugar com internet e GPS.",
+    "text_en": "From anywhere with internet and GPS.",
+    "audio_en_storage_path": "852_from_anywhere_with_internet_and_gps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110853",
+    "text_pt": "Quando você prefere um táxi?",
+    "text_en": "When do you prefer a taxi?",
+    "audio_en_storage_path": "853_when_do_you_prefer_a_taxi.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110854",
+    "text_pt": "À noite ou ao carregar coisas pesadas.",
+    "text_en": "At night or when carrying heavy things.",
+    "audio_en_storage_path": "854_at_night_or_when_carrying_heavy_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110855",
+    "text_pt": "Por que ela deu gorjeta ao motorista?",
+    "text_en": "Why did she tip the driver?",
+    "audio_en_storage_path": "855_why_did_she_tip_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110856",
+    "text_pt": "Porque ele foi educado e ajudou com as malas.",
+    "text_en": "Because he was polite and helped with bags.",
+    "audio_en_storage_path": "856_because_he_was_polite_and_helped_with_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110857",
+    "text_pt": "Usamos o Uber quando estamos cansados.",
+    "text_en": "We use Uber when we're tired.",
+    "audio_en_storage_path": "857_we_use_uber_when_were_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110858",
+    "text_pt": "Traz conforto e economiza tempo.",
+    "text_en": "It brings comfort and saves time.",
+    "audio_en_storage_path": "858_it_brings_comfort_and_saves_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110859",
+    "text_pt": "Amanhã. eles não vão esquecer de avaliar o passeio.",
+    "text_en": "Tomorrow. they will not forget to rate the ride.",
+    "audio_en_storage_path": "859_tomorrow_they_will_not_forget_to_rate_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110860",
+    "text_pt": "Eles darão cinco estrelas se for bom.",
+    "text_en": "They'll give five stars if it was good.",
+    "audio_en_storage_path": "860_theyll_give_five_stars_if_it_was_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110861",
+    "text_pt": "Obrigado pela carona!",
+    "text_en": "Thank you for the ride!",
+    "audio_en_storage_path": "861_thank_you_for_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110862",
+    "text_pt": "Tenha um ótimo dia!",
+    "text_en": "Have a great day!",
+    "audio_en_storage_path": "862_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110863",
+    "text_pt": "Metrô / Trem",
+    "text_en": "Subway / Train",
+    "audio_en_storage_path": "863_subway_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110864",
+    "text_pt": "Ele pega o metrô para o centro da cidade.",
+    "text_en": "He takes the subway to the city center.",
+    "audio_en_storage_path": "864_he_takes_the_subway_to_the_city_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110865",
+    "text_pt": "Ela passa por baixo das ruas e prédios.",
+    "text_en": "It runs under the streets and buildings.",
+    "audio_en_storage_path": "865_it_runs_under_the_streets_and_buildings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110866",
+    "text_pt": "O trem para em estações diferentes.",
+    "text_en": "The train stops at different stations.",
+    "audio_en_storage_path": "866_the_train_stops_at_different_stations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110867",
+    "text_pt": "Cada um tem um nome e um mapa.",
+    "text_en": "Each one has a name and a map.",
+    "audio_en_storage_path": "867_each_one_has_a_name_and_a_map.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110868",
+    "text_pt": "Ela mostra seu ingresso ao portão.",
+    "text_en": "She shows her ticket to the gate.",
+    "audio_en_storage_path": "868_she_shows_her_ticket_to_the_gate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110869",
+    "text_pt": "Então ela caminha até a plataforma.",
+    "text_en": "Then she walks to the platform.",
+    "audio_en_storage_path": "869_then_she_walks_to_the_platform.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110870",
+    "text_pt": "Esperamos o trem juntos.",
+    "text_en": "We wait for the train together.",
+    "audio_en_storage_path": "870_we_wait_for_the_train_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110871",
+    "text_pt": "Conversamos ou ouvimos música enquanto esperamos.",
+    "text_en": "We talk or listen to music while waiting.",
+    "audio_en_storage_path": "871_we_talk_or_listen_to_music_while_waiting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110872",
+    "text_pt": "Eles sentam ou seguram as barras quando ele se move.",
+    "text_en": "They sit or hold the bars when it moves.",
+    "audio_en_storage_path": "872_they_sit_or_hold_the_bars_when_it_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110873",
+    "text_pt": "Fica lotado na hora do rush.",
+    "text_en": "It gets crowded during rush hour.",
+    "audio_en_storage_path": "873_it_gets_crowded_during_rush_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110874",
+    "text_pt": "O metrô é rápido e conecta muitos lugares.",
+    "text_en": "The subway is fast and connects many places.",
+    "audio_en_storage_path": "874_the_subway_is_fast_and_connects_many_places.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110875",
+    "text_pt": "Ajuda as pessoas a se movimentarem com facilidade.",
+    "text_en": "It helps people move easily.",
+    "audio_en_storage_path": "875_it_helps_people_move_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110876",
+    "text_pt": "A que horas o trem chega?",
+    "text_en": "What time does the train come?",
+    "audio_en_storage_path": "876_what_time_does_the_train_come.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110877",
+    "text_pt": "Em cerca de dois minutos — verifique a tela.",
+    "text_en": "In about two minutes — check the screen.",
+    "audio_en_storage_path": "877_in_about_two_minutes_check_the_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110878",
+    "text_pt": "Para onde vai o trem?",
+    "text_en": "Where does the train go?",
+    "audio_en_storage_path": "878_where_does_the_train_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110879",
+    "text_pt": "Para escolas, escritórios e centros comerciais.",
+    "text_en": "To schools. offices. and shopping centers.",
+    "audio_en_storage_path": "879_to_schools_offices_and_shopping_centers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110880",
+    "text_pt": "Quando você usa o metrô?",
+    "text_en": "When do you use the subway?",
+    "audio_en_storage_path": "880_when_do_you_use_the_subway.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110881",
+    "text_pt": "Todos os dias da semana — faz parte da minha rotina.",
+    "text_en": "Every weekday — it's part of my routine.",
+    "audio_en_storage_path": "881_every_weekday_its_part_of_my_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110882",
+    "text_pt": "Por que você prefere o trem?",
+    "text_en": "Why do you prefer the train?",
+    "audio_en_storage_path": "882_why_do_you_prefer_the_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110883",
+    "text_pt": "Porque é mais barato e menos estressante.",
+    "text_en": "Because it's cheaper and less stressful.",
+    "audio_en_storage_path": "883_because_its_cheaper_and_less_stressful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110884",
+    "text_pt": "Ele usa o metrô para explorar novas partes da cidade.",
+    "text_en": "He uses the metro to explore new parts of town.",
+    "audio_en_storage_path": "884_he_uses_the_metro_to_explore_new_parts_of_town.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110885",
+    "text_pt": "Isso o faz sentir como um viajante.",
+    "text_en": "It makes him feel like a traveler.",
+    "audio_en_storage_path": "885_it_makes_him_feel_like_a_traveler.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110886",
+    "text_pt": "Amanhã não perderemos o último trem.",
+    "text_en": "Tomorrow. we will not miss the last train.",
+    "audio_en_storage_path": "886_tomorrow_we_will_not_miss_the_last_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110887",
+    "text_pt": "Desta vez sairemos mais cedo.",
+    "text_en": "We’ll leave earlier this time.",
+    "audio_en_storage_path": "887_well_leave_earlier_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110888",
+    "text_pt": "Cuidado com onde pisa!",
+    "text_en": "Watch your step!",
+    "audio_en_storage_path": "888_watch_your_step.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110889",
+    "text_pt": "Fique atrás da linha amarela.",
+    "text_en": "Stay behind the yellow line.",
+    "audio_en_storage_path": "889_stay_behind_the_yellow_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110890",
+    "text_pt": "Balsa / Barco",
+    "text_en": "Ferry / Boat",
+    "audio_en_storage_path": "890_ferry_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110891",
+    "text_pt": "Ela pega a balsa para a ilha.",
+    "text_en": "She takes the ferry to the island.",
+    "audio_en_storage_path": "891_she_takes_the_ferry_to_the_island.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110892",
+    "text_pt": "Ele sai cedo de manhã.",
+    "text_en": "It leaves early in the morning.",
+    "audio_en_storage_path": "892_it_leaves_early_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110893",
+    "text_pt": "O barco balança lentamente na água.",
+    "text_en": "The boat rocks slowly on the water.",
+    "audio_en_storage_path": "893_the_boat_rocks_slowly_on_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110894",
+    "text_pt": "As pessoas andam por aí e tiram fotos.",
+    "text_en": "People walk around and take pictures.",
+    "audio_en_storage_path": "894_people_walk_around_and_take_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110895",
+    "text_pt": "Levamos lanches e bebidas a bordo.",
+    "text_en": "We bring snacks and drinks onboard.",
+    "audio_en_storage_path": "895_we_bring_snacks_and_drinks_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110896",
+    "text_pt": "A viagem dura uma hora ou mais.",
+    "text_en": "The trip lasts one hour or more.",
+    "audio_en_storage_path": "896_the_trip_lasts_one_hour_or_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110897",
+    "text_pt": "Eles sentam-se perto da janela e olham para fora.",
+    "text_en": "They sit by the window and look outside.",
+    "audio_en_storage_path": "897_they_sit_by_the_window_and_look_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110898",
+    "text_pt": "Eles veem pássaros voando acima do mar.",
+    "text_en": "They see birds flying above the sea.",
+    "audio_en_storage_path": "898_they_see_birds_flying_above_the_sea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110899",
+    "text_pt": "Às vezes ele observa golfinhos.",
+    "text_en": "He watches dolphins sometimes.",
+    "audio_en_storage_path": "899_he_watches_dolphins_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110900",
+    "text_pt": "Eles nadam perto do barco.",
+    "text_en": "They swim near the boat.",
+    "audio_en_storage_path": "900_they_swim_near_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110901",
+    "text_pt": "A balsa é grande e tem dois andares.",
+    "text_en": "The ferry is large and has two floors.",
+    "audio_en_storage_path": "901_the_ferry_is_large_and_has_two_floors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110902",
+    "text_pt": "Uma para carros. outra para passageiros.",
+    "text_en": "One for cars. another for passengers.",
+    "audio_en_storage_path": "902_one_for_cars_another_for_passengers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110903",
+    "text_pt": "Quanto tempo dura o passeio de barco?",
+    "text_en": "How long is the boat ride?",
+    "audio_en_storage_path": "903_how_long_is_the_boat_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110904",
+    "text_pt": "Cerca de 45 minutos a uma hora.",
+    "text_en": "About 45 minutes to an hour.",
+    "audio_en_storage_path": "904_about_45_minutes_to_an_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110905",
+    "text_pt": "Onde você pode pegar a balsa?",
+    "text_en": "Where can you catch the ferry?",
+    "audio_en_storage_path": "905_where_can_you_catch_the_ferry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110906",
+    "text_pt": "No porto principal do centro da cidade.",
+    "text_en": "At the main port downtown.",
+    "audio_en_storage_path": "906_at_the_main_port_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110907",
+    "text_pt": "Quando você viaja de barco?",
+    "text_en": "When do you travel by boat?",
+    "audio_en_storage_path": "907_when_do_you_travel_by_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110908",
+    "text_pt": "Durante férias ou viagens especiais.",
+    "text_en": "During vacations or special trips.",
+    "audio_en_storage_path": "908_during_vacations_or_special_trips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110909",
+    "text_pt": "Por que você ama a balsa?",
+    "text_en": "Why do you love the ferry?",
+    "audio_en_storage_path": "909_why_do_you_love_the_ferry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110910",
+    "text_pt": "Porque a vista é linda e relaxante.",
+    "text_en": "Because the view is beautiful and calming.",
+    "audio_en_storage_path": "910_because_the_view_is_beautiful_and_calming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110911",
+    "text_pt": "Gostamos de assistir ao pôr do sol do barco.",
+    "text_en": "We enjoy watching the sunset from the boat.",
+    "audio_en_storage_path": "911_we_enjoy_watching_the_sunset_from_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110912",
+    "text_pt": "É tranquilo e inesquecível.",
+    "text_en": "It's peaceful and unforgettable.",
+    "audio_en_storage_path": "912_its_peaceful_and_unforgettable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110913",
+    "text_pt": "Da próxima vez, eles não esquecerão os coletes salva-vidas.",
+    "text_en": "Next time. they will not forget life jackets.",
+    "audio_en_storage_path": "913_next_time_they_will_not_forget_life_jackets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110914",
+    "text_pt": "A segurança vem em primeiro lugar na água.",
+    "text_en": "Safety comes first on the water.",
+    "audio_en_storage_path": "914_safety_comes_first_on_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110915",
+    "text_pt": "Aproveite a viagem!",
+    "text_en": "Enjoy the journey!",
+    "audio_en_storage_path": "915_enjoy_the_journey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110916",
+    "text_pt": "O mar está chamando seu nome.",
+    "text_en": "The sea is calling your name.",
+    "audio_en_storage_path": "916_the_sea_is_calling_your_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110917",
+    "text_pt": "Metrô / Trem",
+    "text_en": "Subway / Train",
+    "audio_en_storage_path": "917_subway_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110918",
+    "text_pt": "O trem é subterrâneo na cidade.",
+    "text_en": "The train is underground in the city.",
+    "audio_en_storage_path": "918_the_train_is_underground_in_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110919",
+    "text_pt": "Ele se move rápido e para em muitas estações.",
+    "text_en": "It moves fast and stops at many stations.",
+    "audio_en_storage_path": "919_it_moves_fast_and_stops_at_many_stations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110920",
+    "text_pt": "As pessoas o usam para ir ao trabalho e à escola.",
+    "text_en": "People use it to go to work and school.",
+    "audio_en_storage_path": "920_people_use_it_to_go_to_work_and_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110921",
+    "text_pt": "Alguns dormem. Outros leem ou mandam mensagens.",
+    "text_en": "Some sleep. others read or text.",
+    "audio_en_storage_path": "921_some_sleep_others_read_or_text.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110922",
+    "text_pt": "É longo, vermelho e tem muitas portas.",
+    "text_en": "It's long. red. and has many doors.",
+    "audio_en_storage_path": "922_its_long_red_and_has_many_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110923",
+    "text_pt": "No interior, há assentos e maçanetas.",
+    "text_en": "Inside. there are seats and handles.",
+    "audio_en_storage_path": "923_inside_there_are_seats_and_handles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110924",
+    "text_pt": "Há mochilas, guarda-chuvas e celulares dentro.",
+    "text_en": "There are backpacks. Umbrellas. and phones inside.",
+    "audio_en_storage_path": "924_there_are_backpacks_umbrellas_and_phones_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110925",
+    "text_pt": "E às vezes flores ou lanches.",
+    "text_en": "And sometimes flowers or snacks.",
+    "audio_en_storage_path": "925_and_sometimes_flowers_or_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110926",
+    "text_pt": "A que horas sai o metrô?",
+    "text_en": "What time does the subway leave?",
+    "audio_en_storage_path": "926_what_time_does_the_subway_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110927",
+    "text_pt": "Em cinco minutos — olhe para a tela.",
+    "text_en": "In five minutes — look at the screen.",
+    "audio_en_storage_path": "927_in_five_minutes_look_at_the_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110928",
+    "text_pt": "Ele sai da Estação Central.",
+    "text_en": "It leaves from Central Station.",
+    "audio_en_storage_path": "928_it_leaves_from_central_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110929",
+    "text_pt": "E vai para Northside a cada 10 minutos.",
+    "text_en": "And goes to Northside every 10 minutes.",
+    "audio_en_storage_path": "929_and_goes_to_northside_every_10_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110930",
+    "text_pt": "Às vezes atrasa por causa de atrasos.",
+    "text_en": "Sometimes it's late because of delays.",
+    "audio_en_storage_path": "930_sometimes_its_late_because_of_delays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110931",
+    "text_pt": "Ou quando alguém aperta o botão de emergência.",
+    "text_en": "Or when someone presses the emergency button.",
+    "audio_en_storage_path": "931_or_when_someone_presses_the_emergency_button.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110932",
+    "text_pt": "Para onde o trem vai hoje?",
+    "text_en": "Where does the train go today?",
+    "audio_en_storage_path": "932_where_does_the_train_go_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110933",
+    "text_pt": "Para o centro da cidade e depois para o aeroporto.",
+    "text_en": "To downtown and then to the airport.",
+    "audio_en_storage_path": "933_to_downtown_and_then_to_the_airport.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110934",
+    "text_pt": "Quando você pegará o trem novamente?",
+    "text_en": "When will you take the train again?",
+    "audio_en_storage_path": "934_when_will_you_take_the_train_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110935",
+    "text_pt": "Provavelmente na próxima segunda-feira de manhã.",
+    "text_en": "Probably next Monday morning.",
+    "audio_en_storage_path": "935_probably_next_monday_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110936",
+    "text_pt": "Por que você perdeu o trem ontem?",
+    "text_en": "Why did you miss the train yesterday?",
+    "audio_en_storage_path": "936_why_did_you_miss_the_train_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110937",
+    "text_pt": "Porque perdi a noção do tempo.",
+    "text_en": "Because I lost track of time.",
+    "audio_en_storage_path": "937_because_i_lost_track_of_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110938",
+    "text_pt": "Pegamos o trem todos os dias da semana.",
+    "text_en": "We take the train every weekday.",
+    "audio_en_storage_path": "938_we_take_the_train_every_weekday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110939",
+    "text_pt": "Economiza tempo e dinheiro.",
+    "text_en": "It saves money and time.",
+    "audio_en_storage_path": "939_it_saves_money_and_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110940",
+    "text_pt": "Amanhã não esqueceremos nossos ingressos.",
+    "text_en": "Tomorrow. we will not forget our tickets.",
+    "audio_en_storage_path": "940_tomorrow_we_will_not_forget_our_tickets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110941",
+    "text_pt": "Nós os guardaremos em nossas carteiras.",
+    "text_en": "We will keep them in our wallets.",
+    "audio_en_storage_path": "941_we_will_keep_them_in_our_wallets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110942",
+    "text_pt": "Fique seguro e aproveite seu passeio!",
+    "text_en": "Be safe and enjoy your ride!",
+    "audio_en_storage_path": "942_be_safe_and_enjoy_your_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110943",
+    "text_pt": "Tenha um ótimo dia!",
+    "text_en": "Have a great day!",
+    "audio_en_storage_path": "943_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110944",
+    "text_pt": "Táxi / Uber",
+    "text_en": "Taxi / Uber",
+    "audio_en_storage_path": "944_taxi_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110945",
+    "text_pt": "O táxi está na porta da minha casa agora.",
+    "text_en": "The taxi is outside my house now.",
+    "audio_en_storage_path": "945_the_taxi_is_outside_my_house_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110946",
+    "text_pt": "O motorista acabou de enviar uma mensagem dizendo que está aqui.",
+    "text_en": "The driver just sent a message saying he's here.",
+    "audio_en_storage_path": "946_the_driver_just_sent_a_message_saying_hes_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110947",
+    "text_pt": "Eu o uso quando estou cansado ou com pressa.",
+    "text_en": "I use it when I'm tired or in a hurry.",
+    "audio_en_storage_path": "947_i_use_it_when_im_tired_or_in_a_hurry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110948",
+    "text_pt": "Ou quando preciso carregar coisas pesadas.",
+    "text_en": "Or when I need to carry heavy things.",
+    "audio_en_storage_path": "948_or_when_i_need_to_carry_heavy_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110949",
+    "text_pt": "É preto com luzes brancas e janelas limpas.",
+    "text_en": "It is black with white lights and clean windows.",
+    "audio_en_storage_path": "949_it_is_black_with_white_lights_and_clean_windows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110950",
+    "text_pt": "O carro cheira a purificador de ar.",
+    "text_en": "The car smells like air freshener.",
+    "audio_en_storage_path": "950_the_car_smells_like_air_freshener.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110951",
+    "text_pt": "Há garrafas de água, lenços de papel e carregadores de telefone.",
+    "text_en": "There are water bottles. tissues. and phone chargers.",
+    "audio_en_storage_path": "951_there_are_water_bottles_tissues_and_phone_chargers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110952",
+    "text_pt": "E uma pequena placa com o nome do motorista.",
+    "text_en": "And a small sign with the driver’s name.",
+    "audio_en_storage_path": "952_and_a_small_sign_with_the_drivers_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110953",
+    "text_pt": "Quanto custa o Uber?",
+    "text_en": "How much does Uber cost?",
+    "audio_en_storage_path": "953_how_much_does_uber_cost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110954",
+    "text_pt": "Cerca de US$ 15 até a estação.",
+    "text_en": "Around $15 to the station.",
+    "audio_en_storage_path": "954_around_15_to_the_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110955",
+    "text_pt": "O preço muda dependendo do tráfego.",
+    "text_en": "The price changes depending on traffic.",
+    "audio_en_storage_path": "955_the_price_changes_depending_on_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110956",
+    "text_pt": "Durante os horários de pico, custa mais.",
+    "text_en": "During busy hours. it costs more.",
+    "audio_en_storage_path": "956_during_busy_hours_it_costs_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110957",
+    "text_pt": "Alguns motoristas falam muito. Outros são quietos.",
+    "text_en": "Some drivers talk a lot. others are quiet.",
+    "audio_en_storage_path": "957_some_drivers_talk_a_lot_others_are_quiet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110958",
+    "text_pt": "Mas todos eles são gentis e profissionais.",
+    "text_en": "But all of them are kind and professional.",
+    "audio_en_storage_path": "958_but_all_of_them_are_kind_and_professional.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110959",
+    "text_pt": "Onde você pode encontrar um táxi facilmente?",
+    "text_en": "Where can you find a taxi easily?",
+    "audio_en_storage_path": "959_where_can_you_find_a_taxi_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110960",
+    "text_pt": "Perto de hotéis, aeroportos e ruas grandes.",
+    "text_en": "Near hotels. airports. and big streets.",
+    "audio_en_storage_path": "960_near_hotels_airports_and_big_streets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110961",
+    "text_pt": "Quando você vai chamar um Uber novamente?",
+    "text_en": "When will you call an Uber again?",
+    "audio_en_storage_path": "961_when_will_you_call_an_uber_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110962",
+    "text_pt": "Talvez hoje à noite depois do jantar.",
+    "text_en": "Maybe tonight after dinner.",
+    "audio_en_storage_path": "962_maybe_tonight_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110963",
+    "text_pt": "Por que você deu gorjeta ao motorista?",
+    "text_en": "Why did you tip the driver?",
+    "audio_en_storage_path": "963_why_did_you_tip_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110964",
+    "text_pt": "Porque ele me ajudou com minhas malas.",
+    "text_en": "Because he helped me with my bags.",
+    "audio_en_storage_path": "964_because_he_helped_me_with_my_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110965",
+    "text_pt": "Ela usa o Uber quando viaja sozinha.",
+    "text_en": "She uses Uber when she travels alone.",
+    "audio_en_storage_path": "965_she_uses_uber_when_she_travels_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110966",
+    "text_pt": "Isso faz com que ela se sinta segura.",
+    "text_en": "It makes her feel safe.",
+    "audio_en_storage_path": "966_it_makes_her_feel_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110967",
+    "text_pt": "Na próxima semana, eles não esquecerão de avaliar o motorista.",
+    "text_en": "Next week. they will not forget to rate the driver.",
+    "audio_en_storage_path": "967_next_week_they_will_not_forget_to_rate_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110968",
+    "text_pt": "Eles deixarão uma boa avaliação se tudo correr bem.",
+    "text_en": "They’ll leave a good review if everything went well.",
+    "audio_en_storage_path": "968_theyll_leave_a_good_review_if_everything_went_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110969",
+    "text_pt": "Obrigado pela carona!",
+    "text_en": "Thank you for the ride!",
+    "audio_en_storage_path": "969_thank_you_for_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110970",
+    "text_pt": "Espero que você tenha um ótimo dia pela frente!",
+    "text_en": "Hope you have a great day ahead!",
+    "audio_en_storage_path": "970_hope_you_have_a_great_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

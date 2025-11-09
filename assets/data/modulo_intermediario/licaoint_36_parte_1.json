@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120859",
+    "text_pt": "Na Floricultura – Primeiras Impressões",
+    "text_en": "At the Flower Shop – First Impressions",
+    "audio_en_storage_path": "859_at_the_flower_shop_first_impressions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120860",
+    "text_pt": "Esta floricultura tem um cheiro incrível",
+    "text_en": "This flower shop smells amazing",
+    "audio_en_storage_path": "860_this_flower_shop_smells_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120861",
+    "text_pt": "Este lugar tem cheiro de paraíso — muito fresco e florido",
+    "text_en": "This place smells like heaven — real fresh and flowery",
+    "audio_en_storage_path": "861_this_place_smells_like_heaven_real_fresh_and_flowery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120862",
+    "text_pt": "Há flores por todo o lado — nas mesas, nas prateleiras e penduradas no teto.",
+    "text_en": "There are flowers everywhere — on tables. shelves. and hanging from the ceiling",
+    "audio_en_storage_path": "862_there_are_flowers_everywhere_on_tables_shelves_and_hanging_from_the_ceiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120863",
+    "text_pt": "Flores por todo lado — nos balcões, nas paredes, até penduradas acima de nós",
+    "text_en": "Flowers all over — on counters. walls. even hangin’ above us",
+    "audio_en_storage_path": "863_flowers_all_over_on_counters_walls_even_hangin_above_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120864",
+    "text_pt": "Eu vejo rosas, margaridas, lírios e tulipas",
+    "text_en": "I see roses. daisies. lilies. and tulips",
+    "audio_en_storage_path": "864_i_see_roses_daisies_lilies_and_tulips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120865",
+    "text_pt": "Tenho rosas, margaridas, lírios e aquelas lindas tulipas também.",
+    "text_en": "Got roses. daisies. lilies. and those pretty tulips too",
+    "audio_en_storage_path": "865_got_roses_daisies_lilies_and_those_pretty_tulips_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120866",
+    "text_pt": "As cores são tão brilhantes — vermelho, amarelo, rosa e branco",
+    "text_en": "The colors are so bright — red. yellow. pink. and white",
+    "audio_en_storage_path": "866_the_colors_are_so_bright_red_yellow_pink_and_white.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120867",
+    "text_pt": "As cores estão aparecendo — vermelhos, amarelos, rosas e brancos",
+    "text_en": "Colors poppin’ out — reds. yellows. pinks. and whites",
+    "audio_en_storage_path": "867_colors_poppin_out_reds_yellows_pinks_and_whites.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120868",
+    "text_pt": "Algumas flores estão em vasos. Algumas estão embrulhadas em papel.",
+    "text_en": "Some flowers are in vases. some are wrapped in paper",
+    "audio_en_storage_path": "868_some_flowers_are_in_vases_some_are_wrapped_in_paper.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120869",
+    "text_pt": "Adicione em potes, outros em embalagens — fica elegante",
+    "text_en": "Some in jars. others in wraps — looks fancy",
+    "audio_en_storage_path": "869_some_in_jars_others_in_wraps_looks_fancy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120870",
+    "text_pt": "Eles também vendem pequenas plantas e velas",
+    "text_en": "They also sell small plants and candles",
+    "audio_en_storage_path": "870_they_also_sell_small_plants_and_candles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120871",
+    "text_pt": "Eles também ganharam pequenas plantas verdes e velas perfumadas",
+    "text_en": "They got little green plants and scented candles too",
+    "audio_en_storage_path": "871_they_got_little_green_plants_and_scented_candles_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120872",
+    "text_pt": "Deixe-me perguntar se eles podem fazer um buquê personalizado",
+    "text_en": "Let me ask if they can make a custom bouquet",
+    "audio_en_storage_path": "872_let_me_ask_if_they_can_make_a_custom_bouquet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120873",
+    "text_pt": "Deixe-me verificar se eles podem criar uma mistura de flores personalizada para mim",
+    "text_en": "Lemme check if they can build a custom flower mix for me",
+    "audio_en_storage_path": "873_lemme_check_if_they_can_build_a_custom_flower_mix_for_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120874",
+    "text_pt": "Você poderia me ajudar a escolher algo legal?",
+    "text_en": "Could you help me pick something nice?",
+    "audio_en_storage_path": "874_could_you_help_me_pick_something_nice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120875",
+    "text_pt": "Você poderia me ajudar a encontrar algo que pareça bom?",
+    "text_en": "Couldja help me find somethin’ that looks good?",
+    "audio_en_storage_path": "875_couldja_help_me_find_somethin_that_looks_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120876",
+    "text_pt": "Quanto custam esses girassóis?",
+    "text_en": "How much are these sunflowers?",
+    "audio_en_storage_path": "876_how_much_are_these_sunflowers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120877",
+    "text_pt": "Quanto você cobra por esses grandes amarelos?",
+    "text_en": "Whaddya charge for those big yellow ones?",
+    "audio_en_storage_path": "877_whaddya_charge_for_those_big_yellow_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120878",
+    "text_pt": "Estes parecem mais frescos que os outros",
+    "text_en": "These ones look fresher than the others",
+    "audio_en_storage_path": "878_these_ones_look_fresher_than_the_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120879",
+    "text_pt": "Estes aqui parecem mais novos — não caídos como os outros",
+    "text_en": "These here look newer — not droopy like the rest",
+    "audio_en_storage_path": "879_these_here_look_newer_not_droopy_like_the_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120880",
+    "text_pt": "Vocês entregam ou eu mesmo devo retirar?",
+    "text_en": "Do you deliver or should I pick it up myself?",
+    "audio_en_storage_path": "880_do_you_deliver_or_should_i_pick_it_up_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120881",
+    "text_pt": "Você entrega ou eu tenho que ir depois?",
+    "text_en": "You deliver or do I gotta swing by later?",
+    "audio_en_storage_path": "881_you_deliver_or_do_i_gotta_swing_by_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120882",
+    "text_pt": "Este arranjo parece perfeito para um aniversário",
+    "text_en": "This arrangement looks perfect for a birthday",
+    "audio_en_storage_path": "882_this_arrangement_looks_perfect_for_a_birthday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120883",
+    "text_pt": "Este buquê é perfeito para o dia especial de alguém",
+    "text_en": "This bunch is just right for someone’s special day",
+    "audio_en_storage_path": "883_this_bunch_is_just_right_for_someones_special_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120884",
+    "text_pt": "Se você quer algo romântico, escolha rosas vermelhas",
+    "text_en": "If you want something romantic. go with red roses",
+    "audio_en_storage_path": "884_if_you_want_something_romantic_go_with_red_roses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120885",
+    "text_pt": "Para vibrações de amor, fique com os vermelhos — jogada clássica",
+    "text_en": "For love vibes. stick with the red ones — classic move",
+    "audio_en_storage_path": "885_for_love_vibes_stick_with_the_red_ones_classic_move.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120886",
+    "text_pt": "Deixe-me pensar sobre isso por um minuto",
+    "text_en": "Let me think about it for a minute",
+    "audio_en_storage_path": "886_let_me_think_about_it_for_a_minute.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120887",
+    "text_pt": "Deixe-me pensar um pouco antes de decidir",
+    "text_en": "Let me sit on it for a sec before decidin’",
+    "audio_en_storage_path": "887_let_me_sit_on_it_for_a_sec_before_decidin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120888",
+    "text_pt": "Obrigado pela ajuda. Tenha um ótimo dia.",
+    "text_en": "Thanks for your help. Have a great day",
+    "audio_en_storage_path": "888_thanks_for_your_help_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120889",
+    "text_pt": "Agradeço a ajuda. Espero que seu dia corra bem.",
+    "text_en": "Appreciate the help. Hope your day goes well",
+    "audio_en_storage_path": "889_appreciate_the_help_hope_your_day_goes_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

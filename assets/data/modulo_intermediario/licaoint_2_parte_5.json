@@ -1,0 +1,227 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110245",
+    "text_pt": "Terça-feira – Eles (Amigos)",
+    "text_en": "Tuesday – Them (Friends)",
+    "audio_en_storage_path": "245_tuesday_them_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110247",
+    "text_pt": "Eles acordam cedo de manhã.",
+    "text_en": "They wake up early in the morning.",
+    "audio_en_storage_path": "247_they_wake_up_early_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110248",
+    "text_pt": "Alguns têm empregos ou aulas para frequentar.",
+    "text_en": "Some have jobs or classes to attend.",
+    "audio_en_storage_path": "248_some_have_jobs_or_classes_to_attend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110249",
+    "text_pt": "Eles tomam café da manhã e se vestem rapidamente.",
+    "text_en": "They eat breakfast and get dressed quickly.",
+    "audio_en_storage_path": "249_they_eat_breakfast_and_get_dressed_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110250",
+    "text_pt": "Eles saem de casa por volta das 7h30.",
+    "text_en": "Then they leave home around 7:30.",
+    "audio_en_storage_path": "250_then_they_leave_home_around_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110251",
+    "text_pt": "Eles estudam na mesma escola.",
+    "text_en": "They study at the same school.",
+    "audio_en_storage_path": "251_they_study_at_the_same_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110252",
+    "text_pt": "E eles sentam juntos na maioria das aulas.",
+    "text_en": "And they sit together in most classes.",
+    "audio_en_storage_path": "252_and_they_sit_together_in_most_classes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110253",
+    "text_pt": "Depois do almoço, eles praticam esportes ao ar livre.",
+    "text_en": "After lunch. they play sports outside.",
+    "audio_en_storage_path": "253_after_lunch_they_play_sports_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110254",
+    "text_pt": "Eles gostam de correr, pular e jogar bola.",
+    "text_en": "They enjoy running. jumping. and playing ball.",
+    "audio_en_storage_path": "254_they_enjoy_running_jumping_and_playing_ball.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110255",
+    "text_pt": "À tarde, eles ouvem música.",
+    "text_en": "In the afternoon. they listen to music.",
+    "audio_en_storage_path": "255_in_the_afternoon_they_listen_to_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110256",
+    "text_pt": "Ou eles ficam perto do parque.",
+    "text_en": "Or they hang out near the park.",
+    "audio_en_storage_path": "256_or_they_hang_out_near_the_park.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110257",
+    "text_pt": "Às vezes eles ajudam um ao outro com a lição de casa.",
+    "text_en": "Sometimes they help each other with homework.",
+    "audio_en_storage_path": "257_sometimes_they_help_each_other_with_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110258",
+    "text_pt": "Eles explicam coisas e estudam juntos.",
+    "text_en": "They explain things and study together.",
+    "audio_en_storage_path": "258_they_explain_things_and_study_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110259",
+    "text_pt": "Quem são eles?",
+    "text_en": "Who are they?",
+    "audio_en_storage_path": "259_who_are_they.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110260",
+    "text_pt": "Eles são meus amigos da escola.",
+    "text_en": "They are my friends from school.",
+    "audio_en_storage_path": "260_they_are_my_friends_from_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110261",
+    "text_pt": "Para onde eles vão depois da aula?",
+    "text_en": "Where do they go after class?",
+    "audio_en_storage_path": "261_where_do_they_go_after_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110262",
+    "text_pt": "Alguns vão para casa. Outros se encontram em algum lugar divertido.",
+    "text_en": "Some go home. others meet somewhere fun.",
+    "audio_en_storage_path": "262_some_go_home_others_meet_somewhere_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110263",
+    "text_pt": "Quando eles relaxam?",
+    "text_en": "When do they relax?",
+    "audio_en_storage_path": "263_when_do_they_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110264",
+    "text_pt": "Somente em fins de semana ou feriados.",
+    "text_en": "Only on weekends or holidays.",
+    "audio_en_storage_path": "264_only_on_weekends_or_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110265",
+    "text_pt": "Eles sempre apoiam um ao outro.",
+    "text_en": "They always support each other.",
+    "audio_en_storage_path": "265_they_always_support_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110266",
+    "text_pt": "É isso que os torna bons amigos.",
+    "text_en": "That's what makes them good friends.",
+    "audio_en_storage_path": "266_thats_what_makes_them_good_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110267",
+    "text_pt": "Amanhã. eles não perderão o teste.",
+    "text_en": "Tomorrow. they will not miss the test.",
+    "audio_en_storage_path": "267_tomorrow_they_will_not_miss_the_test.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110268",
+    "text_pt": "Eles estudarão bastante esta noite.",
+    "text_en": "They will study hard tonight.",
+    "audio_en_storage_path": "268_they_will_study_hard_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110269",
+    "text_pt": "Boa sorte, rapazes!",
+    "text_en": "Good luck guys!",
+    "audio_en_storage_path": "269_good_luck_guys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110270",
+    "text_pt": "Espero que você tenha um ótimo dia!",
+    "text_en": "Hope you have a great day!",
+    "audio_en_storage_path": "270_hope_you_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

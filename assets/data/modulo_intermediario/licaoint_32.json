@@ -1,0 +1,1109 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120363",
+    "text_pt": "Envio de Pacotes e Correspondências – Processo Básico",
+    "text_en": "Sending Packages and Mail – Basic Process",
+    "audio_en_storage_path": "363_sending_packages_and_mail_basic_process.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120364",
+    "text_pt": "Preciso enviar este pacote para um amigo em outra cidade",
+    "text_en": "I need to send this package to my friend in another city",
+    "audio_en_storage_path": "364_i_need_to_send_this_package_to_my_friend_in_another_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120365",
+    "text_pt": "Tenho que enviar esta caixa para meu amigo do outro lado da cidade",
+    "text_en": "I gotta ship this box to my buddy across town",
+    "audio_en_storage_path": "365_i_gotta_ship_this_box_to_my_buddy_across_town.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120366",
+    "text_pt": "Esta é uma pequena caixa com alguns presentes dentro",
+    "text_en": "This is a small box with some gifts inside",
+    "audio_en_storage_path": "366_this_is_a_small_box_with_some_gifts_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120367",
+    "text_pt": "É uma pequena caixa com alguns presentes embalados",
+    "text_en": "It’s a tiny box with a few presents packed in",
+    "audio_en_storage_path": "367_its_a_tiny_box_with_a_few_presents_packed_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120368",
+    "text_pt": "Quero usar a opção de entrega mais rápida disponível",
+    "text_en": "I want to use the fastest delivery option available",
+    "audio_en_storage_path": "368_i_want_to_use_the_fastest_delivery_option_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120369",
+    "text_pt": "Procurando a maneira mais rápida de chegar lá",
+    "text_en": "Looking for the quickest way to get it there",
+    "audio_en_storage_path": "369_looking_for_the_quickest_way_to_get_it_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120370",
+    "text_pt": "Eles me pediram para preencher um formulário antes do envio",
+    "text_en": "They asked me to fill out a form before shipping",
+    "audio_en_storage_path": "370_they_asked_me_to_fill_out_a_form_before_shipping.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120371",
+    "text_pt": "Eles me fizeram preencher um formulário rápido antes de enviar",
+    "text_en": "They made me fill out a quick form before sending",
+    "audio_en_storage_path": "371_they_made_me_fill_out_a_quick_form_before_sending.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120372",
+    "text_pt": "Onde posso encontrar a agência dos correios mais próxima?",
+    "text_en": "Where can I find the nearest post office?",
+    "audio_en_storage_path": "372_where_can_i_find_the_nearest_post_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120373",
+    "text_pt": "O que você sabe — onde fica o correio mais próximo?",
+    "text_en": "Whaddya know — where’s the closest post office at?",
+    "audio_en_storage_path": "373_whaddya_know_wheres_the_closest_post_office_at.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120374",
+    "text_pt": "Posso rastrear meu pacote depois de enviá-lo?",
+    "text_en": "Can I track my package after I send it?",
+    "audio_en_storage_path": "374_can_i_track_my_package_after_i_send_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120375",
+    "text_pt": "Posso acompanhar para onde o pacote vai depois de enviado?",
+    "text_en": "Can I follow where the package goes after I mail it?",
+    "audio_en_storage_path": "375_can_i_follow_where_the_package_goes_after_i_mail_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120376",
+    "text_pt": "O funcionário disse que o pacote chegará em dois dias",
+    "text_en": "The clerk said the package will arrive in two days",
+    "audio_en_storage_path": "376_the_clerk_said_the_package_will_arrive_in_two_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120377",
+    "text_pt": "O cara atrás do balcão disse que chegará em dois dias",
+    "text_en": "Guy behind the counter said it’ll land there in two days",
+    "audio_en_storage_path": "377_guy_behind_the_counter_said_itll_land_there_in_two_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120378",
+    "text_pt": "Quero ter certeza de que chegará com segurança e no horário",
+    "text_en": "I want to make sure it gets there safely and on time",
+    "audio_en_storage_path": "378_i_want_to_make_sure_it_gets_there_safely_and_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120379",
+    "text_pt": "Espero que chegue seguro e dentro do prazo",
+    "text_en": "Hope it shows up safe and right on schedule",
+    "audio_en_storage_path": "379_hope_it_shows_up_safe_and_right_on_schedule.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120380",
+    "text_pt": "Você poderia embrulhar com mais cuidado? Algumas coisas são frágeis",
+    "text_en": "Could you wrap it extra carefully? Some things are fragile",
+    "audio_en_storage_path": "380_could_you_wrap_it_extra_carefully_some_things_are_fragile.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120381",
+    "text_pt": "Enrole bem — algumas coisas dentro podem quebrar facilmente",
+    "text_en": "Wrap it tight — some stuff inside might break easy",
+    "audio_en_storage_path": "381_wrap_it_tight_some_stuff_inside_might_break_easy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120382",
+    "text_pt": "Paguei pelo frete expresso, então deveria ser mais rápido",
+    "text_en": "I paid for express shipping so it should be faster",
+    "audio_en_storage_path": "382_i_paid_for_express_shipping_so_it_should_be_faster.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120383",
+    "text_pt": "Paguei mais por entrega rápida — deveria chegar mais rápido",
+    "text_en": "Paid extra for fast shipping — should show up quicker",
+    "audio_en_storage_path": "383_paid_extra_for_fast_shipping_should_show_up_quicker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120384",
+    "text_pt": "Existe seguro caso algo seja perdido ou quebrado?",
+    "text_en": "Is there insurance in case something gets lost or broken?",
+    "audio_en_storage_path": "384_is_there_insurance_in_case_something_gets_lost_or_broken.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120385",
+    "text_pt": "Existe alguma proteção caso ele quebre ou desapareça de alguma forma?",
+    "text_en": "Is there any protection if it breaks or disappears somehow?",
+    "audio_en_storage_path": "385_is_there_any_protection_if_it_breaks_or_disappears_somehow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120386",
+    "text_pt": "Deixe-me escrever o endereço claramente para que não haja erros",
+    "text_en": "Let me write the address clearly so there’s no mistake",
+    "audio_en_storage_path": "386_let_me_write_the_address_clearly_so_theres_no_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120387",
+    "text_pt": "Vou escrever o nome e o endereço bem claros para não haver confusão",
+    "text_en": "Gonna write the name and address real clear so no mix-up",
+    "audio_en_storage_path": "387_gonna_write_the_name_and_address_real_clear_so_no_mixup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120388",
+    "text_pt": "Acho que usei muita fita, mas é melhor prevenir do que remediar.",
+    "text_en": "I think I used too much tape. but better safe than sorry",
+    "audio_en_storage_path": "388_i_think_i_used_too_much_tape_but_better_safe_than_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120389",
+    "text_pt": "Provavelmente enlouqueceu com a fita. Mas é melhor prevenir do que remediar",
+    "text_en": "Probably went crazy with the tape. but better safe than sorry",
+    "audio_en_storage_path": "389_probably_went_crazy_with_the_tape_but_better_safe_than_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120390",
+    "text_pt": "Se precisar de ajuda para enviar algo, é só pedir.",
+    "text_en": "If you need help sending something. just ask",
+    "audio_en_storage_path": "390_if_you_need_help_sending_something_just_ask.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120391",
+    "text_pt": "Se precisar de ajuda para enviar algo, é só dizer",
+    "text_en": "If ya need help mailing somethin’. just say the word",
+    "audio_en_storage_path": "391_if_ya_need_help_mailing_somethin_just_say_the_word.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120392",
+    "text_pt": "Tenha um bom dia e obrigado por utilizar nosso serviço",
+    "text_en": "Have a good day and thank you for using our service",
+    "audio_en_storage_path": "392_have_a_good_day_and_thank_you_for_using_our_service.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120393",
+    "text_pt": "Obrigado pela visita. Tenha um ótimo dia!",
+    "text_en": "Thanks for stopping by. Have a great day!",
+    "audio_en_storage_path": "393_thanks_for_stopping_by_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120394",
+    "text_pt": "Recebendo e verificando pacotes",
+    "text_en": "Receiving and Checking Packages",
+    "audio_en_storage_path": "394_receiving_and_checking_packages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120395",
+    "text_pt": "O pacote acabou de chegar. Deixe-me abri-lo com cuidado.",
+    "text_en": "The package just arrived. Let me open it carefully",
+    "audio_en_storage_path": "395_the_package_just_arrived_let_me_open_it_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120396",
+    "text_pt": "A caixa finalmente chegou — vou abri-la bem devagar",
+    "text_en": "Box finally came — gonna rip it open real slow",
+    "audio_en_storage_path": "396_box_finally_came_gonna_rip_it_open_real_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120397",
+    "text_pt": "Parece que chegou aqui sem nenhum dano",
+    "text_en": "It looks like it got here without any damage",
+    "audio_en_storage_path": "397_it_looks_like_it_got_here_without_any_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120398",
+    "text_pt": "Parece intocado — sem amassados ​​ou arranhões em lugar nenhum",
+    "text_en": "Looks untouched — no dents or scratches anywhere",
+    "audio_en_storage_path": "398_looks_untouched_no_dents_or_scratches_anywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120399",
+    "text_pt": "Deixe-me verificar o que tem dentro e se está tudo lá",
+    "text_en": "Let me check what’s inside and if everything is there",
+    "audio_en_storage_path": "399_let_me_check_whats_inside_and_if_everything_is_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120400",
+    "text_pt": "Vou dar uma olhada lá dentro e ver se todas as coisas chegaram",
+    "text_en": "Gonna peek inside and see if all the stuff made it",
+    "audio_en_storage_path": "400_gonna_peek_inside_and_see_if_all_the_stuff_made_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120401",
+    "text_pt": "Eu estava esperando por isso ontem. Está um pouco tarde",
+    "text_en": "I was expecting it yesterday. It’s a little late",
+    "audio_en_storage_path": "401_i_was_expecting_it_yesterday_its_a_little_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120402",
+    "text_pt": "Era para ter chegado ontem — um pouco atrasado",
+    "text_en": "Supposed to come yesterday — running a bit behind",
+    "audio_en_storage_path": "402_supposed_to_come_yesterday_running_a_bit_behind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120403",
+    "text_pt": "Tem um número de rastreamento na etiqueta. Eu já verifiquei",
+    "text_en": "There’s a tracking number on the label. I already checked it",
+    "audio_en_storage_path": "403_theres_a_tracking_number_on_the_label_i_already_checked_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120404",
+    "text_pt": "Tenho um número de rastreamento no adesivo — já pesquisei",
+    "text_en": "Got a tracking number on the sticker — already looked it up",
+    "audio_en_storage_path": "404_got_a_tracking_number_on_the_sticker_already_looked_it_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120405",
+    "text_pt": "Alguém mais recebeu um pacote hoje?",
+    "text_en": "Did anyone else receive a package today?",
+    "audio_en_storage_path": "405_did_anyone_else_receive_a_package_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120406",
+    "text_pt": "Alguém mais ganhou uma caixa hoje além de mim?",
+    "text_en": "Anyone else get a box today besides me?",
+    "audio_en_storage_path": "406_anyone_else_get_a_box_today_besides_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120407",
+    "text_pt": "Alguns itens estavam faltando, então preciso ligar para o atendimento ao cliente",
+    "text_en": "Some items were missing. so I need to call customer service",
+    "audio_en_storage_path": "407_some_items_were_missing_so_i_need_to_call_customer_service.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120408",
+    "text_pt": "Poucas coisas não estavam lá. então liguei para a linha de suporte",
+    "text_en": "Few things weren’t there. so I called their support line",
+    "audio_en_storage_path": "408_few_things_werent_there_so_i_called_their_support_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120409",
+    "text_pt": "Deixe-me escanear o código de barras com meu telefone bem rápido",
+    "text_en": "Let me scan the barcode with my phone real quick",
+    "audio_en_storage_path": "409_let_me_scan_the_barcode_with_my_phone_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120410",
+    "text_pt": "Deixe-me apontar meu telefone para esse código e escaneá-lo",
+    "text_en": "Lemme point my phone at that code and scan it",
+    "audio_en_storage_path": "410_lemme_point_my_phone_at_that_code_and_scan_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120411",
+    "text_pt": "Se houver algum problema, podemos devolvê-lo ou trocá-lo.",
+    "text_en": "If there’s a problem. we can return it or exchange",
+    "audio_en_storage_path": "411_if_theres_a_problem_we_can_return_it_or_exchange.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120412",
+    "text_pt": "Se algo estiver errado, podemos devolvê-lo ou trocá-lo.",
+    "text_en": "If somethin’s wrong. we can bring it back or swap it",
+    "audio_en_storage_path": "412_if_somethins_wrong_we_can_bring_it_back_or_swap_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120413",
+    "text_pt": "O entregador deixou na porta da frente",
+    "text_en": "The delivery person left it at the front door",
+    "audio_en_storage_path": "413_the_delivery_person_left_it_at_the_front_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120414",
+    "text_pt": "O entregador deixou do lado de fora, perto da porta principal",
+    "text_en": "Delivery guy left it outside near the main door",
+    "audio_en_storage_path": "414_delivery_guy_left_it_outside_near_the_main_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120415",
+    "text_pt": "Espero que o próximo chegue na hora certa",
+    "text_en": "I hope the next one comes on time",
+    "audio_en_storage_path": "415_i_hope_the_next_one_comes_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120416",
+    "text_pt": "Espero que o próximo pacote chegue na porta quando for necessário",
+    "text_en": "Hope the next package hits the doorstep when it's supposed to",
+    "audio_en_storage_path": "416_hope_the_next_package_hits_the_doorstep_when_its_supposed_to.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120417",
+    "text_pt": "Se você encomendou algo, ele ainda pode estar a caminho",
+    "text_en": "If you ordered something. it might still be on the way",
+    "audio_en_storage_path": "417_if_you_ordered_something_it_might_still_be_on_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120418",
+    "text_pt": "Se você comprou algo online, provavelmente ainda está a caminho",
+    "text_en": "If ya bought somethin’ online. it’s probably still on its way",
+    "audio_en_storage_path": "418_if_ya_bought_somethin_online_its_probably_still_on_its_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120419",
+    "text_pt": "Deixe-me assinar e levar para dentro",
+    "text_en": "Let me sign for it and take it inside",
+    "audio_en_storage_path": "419_let_me_sign_for_it_and_take_it_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120420",
+    "text_pt": "Tenho que assinar bem rápido e depois trazer",
+    "text_en": "Gotta sign for it real quick then bring it in",
+    "audio_en_storage_path": "420_gotta_sign_for_it_real_quick_then_bring_it_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120421",
+    "text_pt": "Não se esqueça de guardar o recibo para o caso de problemas",
+    "text_en": "Make sure to keep the receipt in case of issues",
+    "audio_en_storage_path": "421_make_sure_to_keep_the_receipt_in_case_of_issues.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120422",
+    "text_pt": "Guarde o papel para o caso de algo dar errado",
+    "text_en": "Hold onto the paper just in case anything goes wrong",
+    "audio_en_storage_path": "422_hold_onto_the_paper_just_in_case_anything_goes_wrong.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120423",
+    "text_pt": "Obrigado pela sua paciência. Tenha um ótimo dia.",
+    "text_en": "Thanks for your patience. Have a great day",
+    "audio_en_storage_path": "423_thanks_for_your_patience_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120424",
+    "text_pt": "Aproveite o seu tempo. Aproveite o resto do seu dia.",
+    "text_en": "Appreciate your time. Enjoy the rest of your day",
+    "audio_en_storage_path": "424_appreciate_your_time_enjoy_the_rest_of_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120425",
+    "text_pt": "Compras e devoluções online",
+    "text_en": "Online Shopping and Returns",
+    "audio_en_storage_path": "425_online_shopping_and_returns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120426",
+    "text_pt": "Comprei online e mandei entregar em casa",
+    "text_en": "I bought this online and had it shipped to my house",
+    "audio_en_storage_path": "426_i_bought_this_online_and_had_it_shipped_to_my_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120427",
+    "text_pt": "Encomendei esta coisa online e recebi em casa",
+    "text_en": "Ordered this thing online and had it delivered home",
+    "audio_en_storage_path": "427_ordered_this_thing_online_and_had_it_delivered_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120428",
+    "text_pt": "Mudei de ideia e quero devolver",
+    "text_en": "I changed my mind and want to return it",
+    "audio_en_storage_path": "428_i_changed_my_mind_and_want_to_return_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120429",
+    "text_pt": "Mudei de ideia — quero devolver",
+    "text_en": "Changed my mind — wanna send it back",
+    "audio_en_storage_path": "429_changed_my_mind_wanna_send_it_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120430",
+    "text_pt": "Eles disseram que posso devolver em 30 dias",
+    "text_en": "They said I can return it within 30 days",
+    "audio_en_storage_path": "430_they_said_i_can_return_it_within_30_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120431",
+    "text_pt": "Disseram-me que tenho 30 dias para trazê-lo de volta",
+    "text_en": "They told me I’ve got 30 days to bring it back",
+    "audio_en_storage_path": "431_they_told_me_ive_got_30_days_to_bring_it_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120432",
+    "text_pt": "Deixe-me imprimir a etiqueta de devolução do site",
+    "text_en": "Let me print the return label from the website",
+    "audio_en_storage_path": "432_let_me_print_the_return_label_from_the_website.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120433",
+    "text_pt": "Vou imprimir a etiqueta de retorno do site deles",
+    "text_en": "Gonna print the return tag off their site",
+    "audio_en_storage_path": "433_gonna_print_the_return_tag_off_their_site.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120434",
+    "text_pt": "Preciso embalá-lo do mesmo jeito que veio",
+    "text_en": "I need to pack it the same way it came",
+    "audio_en_storage_path": "434_i_need_to_pack_it_the_same_way_it_came.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120435",
+    "text_pt": "É melhor embalar tudo como eles sentiram — sem atalhos",
+    "text_en": "Better pack it just like they sent it — no shortcuts",
+    "audio_en_storage_path": "435_better_pack_it_just_like_they_sent_it_no_shortcuts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120436",
+    "text_pt": "Este item não funcionou como eu esperava",
+    "text_en": "This item didn’t work the way I expected",
+    "audio_en_storage_path": "436_this_item_didnt_work_the_way_i_expected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120437",
+    "text_pt": "Não funcionou como eu esperava",
+    "text_en": "Didn’t work how I thought it would",
+    "audio_en_storage_path": "437_didnt_work_how_i_thought_it_would.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120438",
+    "text_pt": "Encontrei um negócio melhor em outro lugar",
+    "text_en": "I found a better deal somewhere else",
+    "audio_en_storage_path": "438_i_found_a_better_deal_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120439",
+    "text_pt": "Encontrou um preço mais barato em outro lugar",
+    "text_en": "Found a cheaper price somewhere else",
+    "audio_en_storage_path": "439_found_a_cheaper_price_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120440",
+    "text_pt": "Posso trocá-lo por um tamanho ou cor diferente?",
+    "text_en": "Can I exchange it for a different size or color?",
+    "audio_en_storage_path": "440_can_i_exchange_it_for_a_different_size_or_color.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120441",
+    "text_pt": "Posso trocá-lo por outro tamanho ou tom?",
+    "text_en": "Can I swap it for another size or shade?",
+    "audio_en_storage_path": "441_can_i_swap_it_for_another_size_or_shade.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120442",
+    "text_pt": "Eles ofereceram um reembolso ou crédito na loja",
+    "text_en": "They offered a refund or store credit",
+    "audio_en_storage_path": "442_they_offered_a_refund_or_store_credit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120443",
+    "text_pt": "Disse que poderia receber meu dinheiro de volta ou crédito na loja",
+    "text_en": "Said I could get my money back or store credit",
+    "audio_en_storage_path": "443_said_i_could_get_my_money_back_or_store_credit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120444",
+    "text_pt": "Deixe-me entrar em contato com o suporte e explicar o problema",
+    "text_en": "Let me contact support and explain the issue",
+    "audio_en_storage_path": "444_let_me_contact_support_and_explain_the_issue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120445",
+    "text_pt": "Precisa enviar uma mensagem para a equipe e contar o que aconteceu",
+    "text_en": "Need to message their team and tell them what happened",
+    "audio_en_storage_path": "445_need_to_message_their_team_and_tell_them_what_happened.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120446",
+    "text_pt": "Você pode deixá-lo nos correios ou em um ponto de coleta",
+    "text_en": "You can drop it off at the post office or a pickup point",
+    "audio_en_storage_path": "446_you_can_drop_it_off_at_the_post_office_or_a_pickup_point.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120447",
+    "text_pt": "Deixe-o nos correios ou em um ponto de coleta",
+    "text_en": "Drop it off at the post office or leave it at a pickup spot",
+    "audio_en_storage_path": "447_drop_it_off_at_the_post_office_or_leave_it_at_a_pickup_spot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120448",
+    "text_pt": "Assim que o receberem, eles processarão o reembolso",
+    "text_en": "Once they receive it. they’ll process the refund",
+    "audio_en_storage_path": "448_once_they_receive_it_theyll_process_the_refund.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120449",
+    "text_pt": "Assim que eles conseguirem, eles me devolverão o dinheiro.",
+    "text_en": "Once they get it. they’ll give me my cash back",
+    "audio_en_storage_path": "449_once_they_get_it_theyll_give_me_my_cash_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120450",
+    "text_pt": "Se você tiver alguma dúvida, sinta-se à vontade para perguntar.",
+    "text_en": "If you have any questions. feel free to ask",
+    "audio_en_storage_path": "450_if_you_have_any_questions_feel_free_to_ask.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120451",
+    "text_pt": "Se você tiver alguma dúvida, é só atirar.",
+    "text_en": "If ya got any questions. just shoot",
+    "audio_en_storage_path": "451_if_ya_got_any_questions_just_shoot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120452",
+    "text_pt": "Aproveite suas compras e fique seguro",
+    "text_en": "Enjoy your shopping and stay safe",
+    "audio_en_storage_path": "452_enjoy_your_shopping_and_stay_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120453",
+    "text_pt": "Boas compras e mantenha-as seguras",
+    "text_en": "Happy shopping and keep it safe",
+    "audio_en_storage_path": "453_happy_shopping_and_keep_it_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120454",
+    "text_pt": "Obrigado por nos escolher. Volte sempre!",
+    "text_en": "Thank you for choosing us. Come back soon",
+    "audio_en_storage_path": "454_thank_you_for_choosing_us_come_back_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120455",
+    "text_pt": "Obrigado pela preferência. Espero vê-lo novamente.",
+    "text_en": "Thanks for your business. Hope to see you again",
+    "audio_en_storage_path": "455_thanks_for_your_business_hope_to_see_you_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120456",
+    "text_pt": "Trabalhando com serviços de remessa e entrega",
+    "text_en": "Working with Shipping Services and Delivery",
+    "audio_en_storage_path": "456_working_with_shipping_services_and_delivery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120457",
+    "text_pt": "Oferecemos opções de entrega no mesmo dia e no dia seguinte",
+    "text_en": "We offer same-day and next-day delivery options",
+    "audio_en_storage_path": "457_we_offer_sameday_and_nextday_delivery_options.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120458",
+    "text_pt": "Temos entregas no mesmo dia e no dia seguinte prontas para serem enviadas",
+    "text_en": "We got same-day and next-day shipping ready to go",
+    "audio_en_storage_path": "458_we_got_sameday_and_nextday_shipping_ready_to_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120459",
+    "text_pt": "Nossos motoristas entregam pacotes de segunda a sábado",
+    "text_en": "Our drivers deliver packages Monday through Saturday",
+    "audio_en_storage_path": "459_our_drivers_deliver_packages_monday_through_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120460",
+    "text_pt": "Nossa equipe entrega caixas de segunda a sábado",
+    "text_en": "Our crew drops boxes from Monday to Saturday",
+    "audio_en_storage_path": "460_our_crew_drops_boxes_from_monday_to_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120461",
+    "text_pt": "Você pode escolher entre entrega em domicílio ou pontos de retirada",
+    "text_en": "You can choose between home delivery or pickup points",
+    "audio_en_storage_path": "461_you_can_choose_between_home_delivery_or_pickup_points.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120462",
+    "text_pt": "Escolha entre deixar para entregar ou retirar você mesmo",
+    "text_en": "Choose between having it dropped off or pick it up yourself",
+    "audio_en_storage_path": "462_choose_between_having_it_dropped_off_or_pick_it_up_yourself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120463",
+    "text_pt": "Todos os pacotes são escaneados e rastreados automaticamente",
+    "text_en": "All packages are scanned and tracked automatically",
+    "audio_en_storage_path": "463_all_packages_are_scanned_and_tracked_automatically.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120464",
+    "text_pt": "Cada caixa é escaneada e acompanhada do início ao fim",
+    "text_en": "Every box gets scanned and followed from start to finish",
+    "audio_en_storage_path": "464_every_box_gets_scanned_and_followed_from_start_to_finish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120465",
+    "text_pt": "Garantimos a entrega dentro do prazo estimado",
+    "text_en": "We guarantee delivery within the estimated time",
+    "audio_en_storage_path": "465_we_guarantee_delivery_within_the_estimated_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120466",
+    "text_pt": "Prometemos que chegará quando dissermos que chegará",
+    "text_en": "We promise it’ll arrive when we say it will",
+    "audio_en_storage_path": "466_we_promise_itll_arrive_when_we_say_it_will.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120467",
+    "text_pt": "Se não tiver ninguém em casa, podemos deixar com um vizinho.",
+    "text_en": "If no one is home. we can leave it with a neighbor",
+    "audio_en_storage_path": "467_if_no_one_is_home_we_can_leave_it_with_a_neighbor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120468",
+    "text_pt": "Se não tiver ninguém por perto, deixaremos com alguém próximo.",
+    "text_en": "If nobody’s around. we’ll leave it with someone close",
+    "audio_en_storage_path": "468_if_nobodys_around_well_leave_it_with_someone_close.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120469",
+    "text_pt": "Às vezes, atrasos acontecem devido ao clima ou ao trânsito",
+    "text_en": "Sometimes delays happen due to weather or traffic",
+    "audio_en_storage_path": "469_sometimes_delays_happen_due_to_weather_or_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120470",
+    "text_pt": "Às vezes as coisas atrasam por causa de tempestades ou estradas pesadas",
+    "text_en": "Sometimes things run late ‘cause of storms or heavy roads",
+    "audio_en_storage_path": "470_sometimes_things_run_late_cause_of_storms_or_heavy_roads.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120471",
+    "text_pt": "Você pode alterar o endereço de entrega antes do envio",
+    "text_en": "You can change the delivery address before it ships",
+    "audio_en_storage_path": "471_you_can_change_the_delivery_address_before_it_ships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120472",
+    "text_pt": "Mude para onde está indo, desde que ainda não tenha partido",
+    "text_en": "Change where it’s going as long as it hasn’t left yet",
+    "audio_en_storage_path": "472_change_where_its_going_as_long_as_it_hasnt_left_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120473",
+    "text_pt": "Também oferecemos serviços de transporte internacional",
+    "text_en": "We also provide international shipping services",
+    "audio_en_storage_path": "473_we_also_provide_international_shipping_services.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120474",
+    "text_pt": "Também enviamos para todo o mundo — não apenas para entregas locais",
+    "text_en": "We ship worldwide too — not just local",
+    "audio_en_storage_path": "474_we_ship_worldwide_too_not_just_local.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120475",
+    "text_pt": "Se você é um cliente regular, você ganha benefícios especiais",
+    "text_en": "If you’re a regular customer. you get special benefits",
+    "audio_en_storage_path": "475_if_youre_a_regular_customer_you_get_special_benefits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120476",
+    "text_pt": "Se você compra conosco com frequência, você ganha vantagens legais",
+    "text_en": "If you shop with us often. you get cool perks",
+    "audio_en_storage_path": "476_if_you_shop_with_us_often_you_get_cool_perks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120477",
+    "text_pt": "Basta nos avisar se precisar de ajuda com alguma coisa",
+    "text_en": "Just let us know if you need help with anything",
+    "audio_en_storage_path": "477_just_let_us_know_if_you_need_help_with_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120478",
+    "text_pt": "Não hesite em entrar em contato se precisar de ajuda",
+    "text_en": "Don’t hesitate to reach out if you need help",
+    "audio_en_storage_path": "478_dont_hesitate_to_reach_out_if_you_need_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120479",
+    "text_pt": "Sua satisfação é nossa maior prioridade",
+    "text_en": "Your satisfaction is our top priority",
+    "audio_en_storage_path": "479_your_satisfaction_is_our_top_priority.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120480",
+    "text_pt": "Sua felicidade é o que mais importa para nós",
+    "text_en": "Your happiness means the most to us",
+    "audio_en_storage_path": "480_your_happiness_means_the_most_to_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120481",
+    "text_pt": "Obrigado por confiar em nosso serviço de entrega",
+    "text_en": "Thank you for trusting our delivery service",
+    "audio_en_storage_path": "481_thank_you_for_trusting_our_delivery_service.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120482",
+    "text_pt": "Obrigado por contar conosco para fazer isso direito",
+    "text_en": "Thanks for counting on us to get it done right",
+    "audio_en_storage_path": "482_thanks_for_counting_on_us_to_get_it_done_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120483",
+    "text_pt": "Tome cuidado e tenha um ótimo dia",
+    "text_en": "Take care and have a great day",
+    "audio_en_storage_path": "483_take_care_and_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120484",
+    "text_pt": "Fique seguro e aproveite o seu dia",
+    "text_en": "Stay safe and enjoy your day",
+    "audio_en_storage_path": "484_stay_safe_and_enjoy_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120485",
+    "text_pt": "Adeus e até breve",
+    "text_en": "Goodbye and see you soon",
+    "audio_en_storage_path": "485_goodbye_and_see_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

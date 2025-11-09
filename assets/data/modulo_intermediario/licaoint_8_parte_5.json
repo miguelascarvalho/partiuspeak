@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111079",
+    "text_pt": "Táxi / Uber",
+    "text_en": "Taxi / Uber",
+    "audio_en_storage_path": "1079_taxi_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111080",
+    "text_pt": "O Uber está esperando lá fora agora.",
+    "text_en": "The Uber is waiting outside now.",
+    "audio_en_storage_path": "1080_the_uber_is_waiting_outside_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111081",
+    "text_pt": "O motorista acabou de enviar uma mensagem dizendo que está pronto.",
+    "text_en": "The driver just sent a message saying he's ready.",
+    "audio_en_storage_path": "1081_the_driver_just_sent_a_message_saying_hes_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111082",
+    "text_pt": "Eu o uso depois de eventos noturnos ou jantares.",
+    "text_en": "I use it after late-night events or dinners.",
+    "audio_en_storage_path": "1082_i_use_it_after_latenight_events_or_dinners.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111083",
+    "text_pt": "Ou quando estou carregando compras pesadas.",
+    "text_en": "Or when I'm carrying heavy groceries.",
+    "audio_en_storage_path": "1083_or_when_im_carrying_heavy_groceries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111084",
+    "text_pt": "É preto, com janelas escuras e luzes suaves no interior.",
+    "text_en": "It is black with tinted windows and soft lights inside.",
+    "audio_en_storage_path": "1084_it_is_black_with_tinted_windows_and_soft_lights_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111085",
+    "text_pt": "Os assentos têm um cheiro limpo e fresco.",
+    "text_en": "The seats smell clean and fresh.",
+    "audio_en_storage_path": "1085_the_seats_smell_clean_and_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111086",
+    "text_pt": "Há carregadores de telefone, garrafas de água e lenços de papel.",
+    "text_en": "There are phone chargers. water bottles. and tissues.",
+    "audio_en_storage_path": "1086_there_are_phone_chargers_water_bottles_and_tissues.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111088",
+    "text_pt": "Quanto tempo dura o passeio?",
+    "text_en": "How long does the ride take?",
+    "audio_en_storage_path": "1088_how_long_does_the_ride_take.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111089",
+    "text_pt": "Cerca de dez minutos — depende do trânsito.",
+    "text_en": "About ten minutes — depends on traffic.",
+    "audio_en_storage_path": "1089_about_ten_minutes_depends_on_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111090",
+    "text_pt": "Alguns motoristas tocam música. Outros ficam em silêncio.",
+    "text_en": "Add drivers play music. others stay quiet.",
+    "audio_en_storage_path": "1090_add_drivers_play_music_others_stay_quiet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111091",
+    "text_pt": "Mas todos eles são amigáveis ​​e prestativos.",
+    "text_en": "But all of them are friendly and helpful.",
+    "audio_en_storage_path": "1091_but_all_of_them_are_friendly_and_helpful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111092",
+    "text_pt": "Você pode avaliar seu motorista após a viagem.",
+    "text_en": "You can rate your driver after the trip.",
+    "audio_en_storage_path": "1092_you_can_rate_your_driver_after_the_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111093",
+    "text_pt": "Cinco estrelas se tudo estiver bem.",
+    "text_en": "Five stars if everything was good.",
+    "audio_en_storage_path": "1093_five_stars_if_everything_was_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111094",
+    "text_pt": "Onde a maioria dos Ubers começa?",
+    "text_en": "Where do most Ubers start?",
+    "audio_en_storage_path": "1094_where_do_most_ubers_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111095",
+    "text_pt": "Perto de escolas, restaurantes e grandes edifícios.",
+    "text_en": "Near schools. restaurants. and big buildings.",
+    "audio_en_storage_path": "1095_near_schools_restaurants_and_big_buildings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111096",
+    "text_pt": "Quando você vai chamar outro transporte hoje à noite?",
+    "text_en": "When will you call another ride tonight?",
+    "audio_en_storage_path": "1096_when_will_you_call_another_ride_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111097",
+    "text_pt": "Provavelmente depois que o filme terminar.",
+    "text_en": "Probably after the movie ends.",
+    "audio_en_storage_path": "1097_probably_after_the_movie_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111098",
+    "text_pt": "Por que você escolheu esse driver?",
+    "text_en": "Why did you choose this driver?",
+    "audio_en_storage_path": "1098_why_did_you_choose_this_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111099",
+    "text_pt": "Porque ele tinha uma classificação alta e um carro bonito.",
+    "text_en": "Because he had a high rating and a nice car.",
+    "audio_en_storage_path": "1099_because_he_had_a_high_rating_and_a_nice_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111100",
+    "text_pt": "Ela sempre usa o Uber quando viaja sozinha.",
+    "text_en": "She always uses Uber when traveling alone.",
+    "audio_en_storage_path": "1100_she_always_uses_uber_when_traveling_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111101",
+    "text_pt": "Isso faz com que ela se sinta mais segura à noite.",
+    "text_en": "It makes her feel safer at night.",
+    "audio_en_storage_path": "1101_it_makes_her_feel_safer_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111102",
+    "text_pt": "Da próxima vez, eles não vão esquecer de trancar as portas.",
+    "text_en": "Next time. they will not forget to lock the doors.",
+    "audio_en_storage_path": "1102_next_time_they_will_not_forget_to_lock_the_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111103",
+    "text_pt": "Eles vão verificar duas vezes antes de partir.",
+    "text_en": "They’ll double-check before driving off.",
+    "audio_en_storage_path": "1103_theyll_doublecheck_before_driving_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111104",
+    "text_pt": "Obrigado pela carona!",
+    "text_en": "Thank you for the ride!",
+    "audio_en_storage_path": "1104_thank_you_for_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111105",
+    "text_pt": "Espero que você tenha um ótimo dia pela frente!",
+    "text_en": "Hope you have a great day ahead!",
+    "audio_en_storage_path": "1105_hope_you_have_a_great_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

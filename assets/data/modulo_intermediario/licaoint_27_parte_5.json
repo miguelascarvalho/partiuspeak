@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114751",
+    "text_pt": "Janelas",
+    "text_en": "Windows",
+    "audio_en_storage_path": "4751_windows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114752",
+    "text_pt": "As janelas estão em todos os lados da casa.",
+    "text_en": "The windows are on all sides of the house.",
+    "audio_en_storage_path": "4752_the_windows_are_on_all_sides_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114753",
+    "text_pt": "Elas deixam a luz entrar e impedem a entrada de ar frio.",
+    "text_en": "They let light in and keep cold air out.",
+    "audio_en_storage_path": "4753_they_let_light_in_and_keep_cold_air_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114754",
+    "text_pt": "Nós os usamos para ver o exterior e tomar ar fresco.",
+    "text_en": "We use them to see outside and get fresh air.",
+    "audio_en_storage_path": "4754_we_use_them_to_see_outside_and_get_fresh_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114755",
+    "text_pt": "Às vezes, eles precisam de limpeza ou reparo.",
+    "text_en": "Sometimes they need cleaning or repair.",
+    "audio_en_storage_path": "4755_sometimes_they_need_cleaning_or_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114756",
+    "text_pt": "Eles são altos, de vidro e emoldurados em branco.",
+    "text_en": "They are tall. glass. and framed in white.",
+    "audio_en_storage_path": "4756_they_are_tall_glass_and_framed_in_white.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114757",
+    "text_pt": "Alguns têm cortinas, outros persianas.",
+    "text_en": "Some have curtains. other blinds.",
+    "audio_en_storage_path": "4757_some_have_curtains_other_blinds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114758",
+    "text_pt": "Há limpadores de janelas, trapos e escadas por perto.",
+    "text_en": "There are window cleaners. rags. and ladders nearby.",
+    "audio_en_storage_path": "4758_there_are_window_cleaners_rags_and_ladders_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114759",
+    "text_pt": "Pronto para fixação ou polimento.",
+    "text_en": "Ready for fixing or polishing.",
+    "audio_en_storage_path": "4759_ready_for_fixing_or_polishing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114760",
+    "text_pt": "Qual janela está quebrada?",
+    "text_en": "Which window is broken?",
+    "audio_en_storage_path": "4760_which_window_is_broken.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114761",
+    "text_pt": "O da sala de estar precisa de um novo painel.",
+    "text_en": "The one in the living room — needs a new pane.",
+    "audio_en_storage_path": "4761_the_one_in_the_living_room_needs_a_new_pane.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114762",
+    "text_pt": "Onde você armazena as peças extras das janelas?",
+    "text_en": "Where do you store extra window parts?",
+    "audio_en_storage_path": "4762_where_do_you_store_extra_window_parts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114763",
+    "text_pt": "Na garagem — etiquetada e organizada.",
+    "text_en": "In the garage — labeled and organized.",
+    "audio_en_storage_path": "4763_in_the_garage_labeled_and_organized.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114764",
+    "text_pt": "Às vezes substituímos o vidro.",
+    "text_en": "Sometimes we replace the glass.",
+    "audio_en_storage_path": "4764_sometimes_we_replace_the_glass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114765",
+    "text_pt": "Outras vezes, apenas lubrificamos as dobradiças.",
+    "text_en": "Other times we just oil the hinges.",
+    "audio_en_storage_path": "4765_other_times_we_just_oil_the_hinges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114766",
+    "text_pt": "Onde você deixou a chave de fenda?",
+    "text_en": "Where did you leave the screwdriver?",
+    "audio_en_storage_path": "4766_where_did_you_leave_the_screwdriver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114767",
+    "text_pt": "No parapeito da janela — provavelmente debaixo de um pano.",
+    "text_en": "On the windowsill — probably under a cloth.",
+    "audio_en_storage_path": "4767_on_the_windowsill_probably_under_a_cloth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114768",
+    "text_pt": "Quando você vai limpar as janelas novamente?",
+    "text_en": "When will you clean the windows again?",
+    "audio_en_storage_path": "4768_when_will_you_clean_the_windows_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114769",
+    "text_pt": "Semana que vem — depois que o vento parar.",
+    "text_en": "Next week — after the wind stops.",
+    "audio_en_storage_path": "4769_next_week_after_the_wind_stops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114770",
+    "text_pt": "Por que você abriu a janela hoje?",
+    "text_en": "Why did you open the window today?",
+    "audio_en_storage_path": "4770_why_did_you_open_the_window_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114771",
+    "text_pt": "Porque a casa parecia abafada e quente.",
+    "text_en": "Because the house felt stuffy and warm.",
+    "audio_en_storage_path": "4771_because_the_house_felt_stuffy_and_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114772",
+    "text_pt": "Ela limpa as janelas todo mês.",
+    "text_en": "She cleans the windows every month.",
+    "audio_en_storage_path": "4772_she_cleans_the_windows_every_month.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114773",
+    "text_pt": "Mantém tudo com aparência nova.",
+    "text_en": "Keeps everything looking fresh.",
+    "audio_en_storage_path": "4773_keeps_everything_looking_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114774",
+    "text_pt": "Amanhã. Não vou esquecer de trancá-lo novamente.",
+    "text_en": "Tomorrow. I will not forget to lock it again.",
+    "audio_en_storage_path": "4774_tomorrow_i_will_not_forget_to_lock_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114775",
+    "text_pt": "Esqueci ontem à noite — alguém deixou aberto.",
+    "text_en": "Forgot last night — someone left it open.",
+    "audio_en_storage_path": "4775_forgot_last_night_someone_left_it_open.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114776",
+    "text_pt": "Janelas limpas fazem a casa brilhar!",
+    "text_en": "Clean windows make the house shine!",
+    "audio_en_storage_path": "4776_clean_windows_make_the_house_shine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114777",
+    "text_pt": "Limpe-os com cuidado — sem deixar marcas.",
+    "text_en": "Wipe them gently — no streaks.",
+    "audio_en_storage_path": "4777_wipe_them_gently_no_streaks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

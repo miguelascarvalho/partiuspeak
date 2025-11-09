@@ -1,0 +1,227 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115237",
+    "text_pt": "Banheiro / Área de limpeza",
+    "text_en": "Restroom / Cleaning Area",
+    "audio_en_storage_path": "5237_restroom_cleaning_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115238",
+    "text_pt": "O banheiro fica atrás da loja.",
+    "text_en": "The restroom is behind the store.",
+    "audio_en_storage_path": "5238_the_restroom_is_behind_the_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115239",
+    "text_pt": "Você deve pedir a chave no balcão.",
+    "text_en": "You must ask for the key at the counter.",
+    "audio_en_storage_path": "5239_you_must_ask_for_the_key_at_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115240",
+    "text_pt": "Eu o uso quando viajo longas distâncias.",
+    "text_en": "I use it when traveling long distances.",
+    "audio_en_storage_path": "5240_i_use_it_when_traveling_long_distances.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115241",
+    "text_pt": "É limpo e tem um cheiro fresco.",
+    "text_en": "It’s clean and smells fresh.",
+    "audio_en_storage_path": "5241_its_clean_and_smells_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115242",
+    "text_pt": "As paredes são brancas e o chão é cinza.",
+    "text_en": "The walls are white and the floor is gray.",
+    "audio_en_storage_path": "5242_the_walls_are_white_and_the_floor_is_gray.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115243",
+    "text_pt": "Há sabão, toalhas de papel e espelhos.",
+    "text_en": "There's soap. paper towels. and mirrors.",
+    "audio_en_storage_path": "5243_theres_soap_paper_towels_and_mirrors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115244",
+    "text_pt": "Há desinfetantes para as mãos e lenços de papel na pia.",
+    "text_en": "There are hand sanitizers and tissues on the sink.",
+    "audio_en_storage_path": "5244_there_are_hand_sanitizers_and_tissues_on_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115245",
+    "text_pt": "E uma pequena lixeira embaixo da porta.",
+    "text_en": "And a small trash bin under the door.",
+    "audio_en_storage_path": "5245_and_a_small_trash_bin_under_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115246",
+    "text_pt": "O banheiro está aberto agora?",
+    "text_en": "Is the bathroom open now?",
+    "audio_en_storage_path": "5246_is_the_bathroom_open_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115247",
+    "text_pt": "Sim — basta bater e pedir a chave.",
+    "text_en": "Yes — just knock and ask for the key.",
+    "audio_en_storage_path": "5247_yes_just_knock_and_ask_for_the_key.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115248",
+    "text_pt": "Onde está o sabão?",
+    "text_en": "Where is the soap?",
+    "audio_en_storage_path": "5248_where_is_the_soap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115249",
+    "text_pt": "Na pia — às vezes líquido. às vezes barra.",
+    "text_en": "On the sink — sometimes liquid. sometimes bar.",
+    "audio_en_storage_path": "5249_on_the_sink_sometimes_liquid_sometimes_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115250",
+    "text_pt": "Às vezes uso a pia externa.",
+    "text_en": "Sometimes I use the outdoor sink.",
+    "audio_en_storage_path": "5250_sometimes_i_use_the_outdoor_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115251",
+    "text_pt": "Outras vezes, apenas lavo as mãos dentro de casa.",
+    "text_en": "Other times I just wash hands inside.",
+    "audio_en_storage_path": "5251_other_times_i_just_wash_hands_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115252",
+    "text_pt": "Onde você deixou sua carteira?",
+    "text_en": "Where did you leave your wallet?",
+    "audio_en_storage_path": "5252_where_did_you_leave_your_wallet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115253",
+    "text_pt": "No banco — perto da entrada.",
+    "text_en": "On the bench — near the entrance.",
+    "audio_en_storage_path": "5253_on_the_bench_near_the_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115254",
+    "text_pt": "Quando eles vão limpar o banheiro novamente?",
+    "text_en": "When will they clean the restroom again?",
+    "audio_en_storage_path": "5254_when_will_they_clean_the_restroom_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115255",
+    "text_pt": "A cada hora, eles mantêm tudo arrumado.",
+    "text_en": "Every hour — they keep it tidy.",
+    "audio_en_storage_path": "5255_every_hour_they_keep_it_tidy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115256",
+    "text_pt": "Por que você usou o banheiro hoje?",
+    "text_en": "Why did you use the restroom today?",
+    "audio_en_storage_path": "5256_why_did_you_use_the_restroom_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115257",
+    "text_pt": "Porque tínhamos uma longa viagem pela frente.",
+    "text_en": "Because we had a long drive ahead.",
+    "audio_en_storage_path": "5257_because_we_had_a_long_drive_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115258",
+    "text_pt": "Ela sempre usa o banheiro antes de sair.",
+    "text_en": "She always uses the restroom before leaving.",
+    "audio_en_storage_path": "5258_she_always_uses_the_restroom_before_leaving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115259",
+    "text_pt": "Economiza tempo na estrada.",
+    "text_en": "Saves time on the road.",
+    "audio_en_storage_path": "5259_saves_time_on_the_road.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115260",
+    "text_pt": "Amanhã. Não vou esquecer de levar lenços umedecidos de novo.",
+    "text_en": "Tomorrow. I will not forget to bring wipes again.",
+    "audio_en_storage_path": "5260_tomorrow_i_will_not_forget_to_bring_wipes_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115261",
+    "text_pt": "Não tinha nenhum — tive que usar papel.",
+    "text_en": "Didn’t have any — had to use paper.",
+    "audio_en_storage_path": "5261_didnt_have_any_had_to_use_paper.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

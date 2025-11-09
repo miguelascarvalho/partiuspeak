@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114184",
+    "text_pt": "Carro",
+    "text_en": "Car",
+    "audio_en_storage_path": "4184_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114185",
+    "text_pt": "O carro está estacionado na garagem.",
+    "text_en": "The car is parked in the garage.",
+    "audio_en_storage_path": "4185_the_car_is_parked_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114186",
+    "text_pt": "Está quieto e esperando pelo amanhã.",
+    "text_en": "It's quiet and waiting for tomorrow.",
+    "audio_en_storage_path": "4186_its_quiet_and_waiting_for_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114187",
+    "text_pt": "Eu o uso para ir ao trabalho, à escola e às lojas.",
+    "text_en": "I use it to go to work. school. and stores.",
+    "audio_en_storage_path": "4187_i_use_it_to_go_to_work_school_and_stores.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114188",
+    "text_pt": "Às vezes dirijo só por diversão.",
+    "text_en": "Sometimes I drive just for fun.",
+    "audio_en_storage_path": "4188_sometimes_i_drive_just_for_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114189",
+    "text_pt": "É prateado com assentos pretos e janelas escuras.",
+    "text_en": "It is silver with black seats and tinted windows.",
+    "audio_en_storage_path": "4189_it_is_silver_with_black_seats_and_tinted_windows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114190",
+    "text_pt": "Tem cheiro de spray de carro novo.",
+    "text_en": "It smells like new car spray.",
+    "audio_en_storage_path": "4190_it_smells_like_new_car_spray.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114191",
+    "text_pt": "Há tapetes, garrafas de água e óculos de sol lá dentro.",
+    "text_en": "There are floor mats. water bottles. and sunglasses inside.",
+    "audio_en_storage_path": "4191_there_are_floor_mats_water_bottles_and_sunglasses_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114192",
+    "text_pt": "E uma multa de estacionamento no painel.",
+    "text_en": "And a parking ticket on the dashboard.",
+    "audio_en_storage_path": "4192_and_a_parking_ticket_on_the_dashboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114193",
+    "text_pt": "Que tipo de carro você tem?",
+    "text_en": "What kind of car do you have?",
+    "audio_en_storage_path": "4193_what_kind_of_car_do_you_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114194",
+    "text_pt": "Um pequeno — fácil de estacionar no centro da cidade.",
+    "text_en": "A small one — easy to park downtown.",
+    "audio_en_storage_path": "4194_a_small_one_easy_to_park_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114195",
+    "text_pt": "Onde você guarda seu pneu reserva?",
+    "text_en": "Where do you keep your spare tire?",
+    "audio_en_storage_path": "4195_where_do_you_keep_your_spare_tire.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114196",
+    "text_pt": "No porta-malas — com ferramentas e kit de emergência.",
+    "text_en": "In the trunk — with tools and emergency kit.",
+    "audio_en_storage_path": "4196_in_the_trunk_with_tools_and_emergency_kit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114197",
+    "text_pt": "Às vezes dirijo rápido nas rodovias.",
+    "text_en": "Sometimes I drive fast on highways.",
+    "audio_en_storage_path": "4197_sometimes_i_drive_fast_on_highways.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114198",
+    "text_pt": "Outras vezes dirijo devagar na cidade.",
+    "text_en": "Other times I drive slowly in town.",
+    "audio_en_storage_path": "4198_other_times_i_drive_slowly_in_town.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114199",
+    "text_pt": "Onde você deixou as chaves do carro?",
+    "text_en": "Where did you leave the car keys?",
+    "audio_en_storage_path": "4199_where_did_you_leave_the_car_keys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114200",
+    "text_pt": "No balcão — talvez embaixo de papéis.",
+    "text_en": "On the counter — maybe under papers.",
+    "audio_en_storage_path": "4200_on_the_counter_maybe_under_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114201",
+    "text_pt": "Quando você vai dirigir novamente?",
+    "text_en": "When will you drive again?",
+    "audio_en_storage_path": "4201_when_will_you_drive_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114202",
+    "text_pt": "Amanhã de manhã — depois do café da manhã.",
+    "text_en": "Tomorrow morning — after breakfast.",
+    "audio_en_storage_path": "4202_tomorrow_morning_after_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114203",
+    "text_pt": "Por que você lavou o carro hoje?",
+    "text_en": "Why did you wash the car today?",
+    "audio_en_storage_path": "4203_why_did_you_wash_the_car_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114204",
+    "text_pt": "Porque parecia sujo depois da chuva.",
+    "text_en": "Because it looked dirty after the rain.",
+    "audio_en_storage_path": "4204_because_it_looked_dirty_after_the_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114205",
+    "text_pt": "Eu verifico meu carro antes de dirigir.",
+    "text_en": "I check my car before driving.",
+    "audio_en_storage_path": "4205_i_check_my_car_before_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114206",
+    "text_pt": "Pneus, luzes e óleo — tudo importante.",
+    "text_en": "Tires. lights. and oil — all important.",
+    "audio_en_storage_path": "4206_tires_lights_and_oil_all_important.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114207",
+    "text_pt": "Amanhã. Não vou esquecer de trancar o carro novamente.",
+    "text_en": "Tomorrow. I will not forget to lock the car again.",
+    "audio_en_storage_path": "4207_tomorrow_i_will_not_forget_to_lock_the_car_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114208",
+    "text_pt": "Deixei aberto por engano ontem à noite.",
+    "text_en": "Left it open last night by mistake.",
+    "audio_en_storage_path": "4208_left_it_open_last_night_by_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114209",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "4209_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114210",
+    "text_pt": "Mantenha os olhos na estrada.",
+    "text_en": "Keep your eyes on the road.",
+    "audio_en_storage_path": "4210_keep_your_eyes_on_the_road.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

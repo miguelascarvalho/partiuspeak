@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113536",
+    "text_pt": "Filha e Mãe – Assistir filmes",
+    "text_en": "Daughter and Mother – Watching movies",
+    "audio_en_storage_path": "3536_daughter_and_mother_watching_movies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113537",
+    "text_pt": "Ela assiste filmes com a filha no sofá.",
+    "text_en": "She watches movies with her daughter on the couch.",
+    "audio_en_storage_path": "3537_she_watches_movies_with_her_daughter_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113538",
+    "text_pt": "Eles compartilham pipoca e riem juntos.",
+    "text_en": "They share popcorn and laugh together.",
+    "audio_en_storage_path": "3538_they_share_popcorn_and_laugh_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113539",
+    "text_pt": "Eles escolhem comédias românticas ou filmes de animação.",
+    "text_en": "They choose romantic comedies or animated films.",
+    "audio_en_storage_path": "3539_they_choose_romantic_comedies_or_animated_films.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113540",
+    "text_pt": "Depende do que ela escolher.",
+    "text_en": "It depends on what she chooses.",
+    "audio_en_storage_path": "3540_it_depends_on_what_she_chooses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113541",
+    "text_pt": "As luzes estão apagadas e o cobertor está quente.",
+    "text_en": "The lights are off and the blanket is warm.",
+    "audio_en_storage_path": "3541_the_lights_are_off_and_the_blanket_is_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113542",
+    "text_pt": "A tela brilha suavemente no escuro.",
+    "text_en": "The screen glows softly in the dark.",
+    "audio_en_storage_path": "3542_the_screen_glows_softly_in_the_dark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113543",
+    "text_pt": "Há lenços de papel e copos vazios por perto.",
+    "text_en": "There are tissue papers and empty cups nearby.",
+    "audio_en_storage_path": "3543_there_are_tissue_papers_and_empty_cups_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113544",
+    "text_pt": "E um telefone carregando em cima da mesa.",
+    "text_en": "And a phone charging on the table.",
+    "audio_en_storage_path": "3544_and_a_phone_charging_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113545",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "3545_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113546",
+    "text_pt": "Um clássico da Disney — ela já viu centenas de vezes.",
+    "text_en": "A Disney classic — she’s seen it a hundred times.",
+    "audio_en_storage_path": "3546_a_disney_classic_shes_seen_it_a_hundred_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113547",
+    "text_pt": "Onde está a tigela de pipoca agora?",
+    "text_en": "Where is the popcorn bowl now?",
+    "audio_en_storage_path": "3547_where_is_the_popcorn_bowl_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113548",
+    "text_pt": "Na mesa de centro — quase vazia.",
+    "text_en": "On the coffee table — almost empty.",
+    "audio_en_storage_path": "3548_on_the_coffee_table_almost_empty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113549",
+    "text_pt": "Às vezes eles assistem dramas.",
+    "text_en": "Sometimes they watch dramas.",
+    "audio_en_storage_path": "3549_sometimes_they_watch_dramas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113550",
+    "text_pt": "Outras vezes, eles escolhem aventuras de fantasia.",
+    "text_en": "Other times they choose fantasy adventures.",
+    "audio_en_storage_path": "3550_other_times_they_choose_fantasy_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113551",
+    "text_pt": "Onde ela deixou o suéter?",
+    "text_en": "Where did she leave her sweater?",
+    "audio_en_storage_path": "3551_where_did_she_leave_her_sweater.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113552",
+    "text_pt": "No apoio de braço — ela o tirou cedo.",
+    "text_en": "On the armrest — she took it off early.",
+    "audio_en_storage_path": "3552_on_the_armrest_she_took_it_off_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113553",
+    "text_pt": "Quando o filme vai terminar?",
+    "text_en": "When will the movie end?",
+    "audio_en_storage_path": "3553_when_will_the_movie_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113554",
+    "text_pt": "Em cerca de uma hora — em breve será hora de dormir.",
+    "text_en": "In about an hour — bedtime soon.",
+    "audio_en_storage_path": "3554_in_about_an_hour_bedtime_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113555",
+    "text_pt": "Por que ela escolheu esse filme hoje à noite?",
+    "text_en": "Why did she pick this movie tonight?",
+    "audio_en_storage_path": "3555_why_did_she_pick_this_movie_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113556",
+    "text_pt": "Porque isso lhe lembra da infância.",
+    "text_en": "Because it reminds her of her childhood.",
+    "audio_en_storage_path": "3556_because_it_reminds_her_of_her_childhood.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113557",
+    "text_pt": "Eles assistem a um filme juntos toda sexta-feira.",
+    "text_en": "They watch a movie together every Friday.",
+    "audio_en_storage_path": "3557_they_watch_a_movie_together_every_friday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113558",
+    "text_pt": "É o momento favorito deles da semana.",
+    "text_en": "It's their favorite moment of the week.",
+    "audio_en_storage_path": "3558_its_their_favorite_moment_of_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113559",
+    "text_pt": "Amanhã ela não vai esquecer de limpar novamente.",
+    "text_en": "Tomorrow. she will not forget to clean up again.",
+    "audio_en_storage_path": "3559_tomorrow_she_will_not_forget_to_clean_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113560",
+    "text_pt": "Havia migalhas no sofá da última vez.",
+    "text_en": "There were crumbs on the couch last time.",
+    "audio_en_storage_path": "3560_there_were_crumbs_on_the_couch_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113561",
+    "text_pt": "Noite de cinema!",
+    "text_en": "Movie night!",
+    "audio_en_storage_path": "3561_movie_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113562",
+    "text_pt": "Aproveitem o tempo juntos.",
+    "text_en": "Enjoy your time together.",
+    "audio_en_storage_path": "3562_enjoy_your_time_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

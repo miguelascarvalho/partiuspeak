@@ -1,0 +1,2153 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132204",
+    "text_pt": "Resumo de notícias da Flórida – julho de 2025",
+    "text_en": "Florida News Summary – July 2025",
+    "audio_en_storage_path": "2204_florida_news_summary_july_2025.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132205",
+    "text_pt": "A Flórida esteve no centro das atenções nacionais esta semana.",
+    "text_en": "Florida has been at the center of national attention this week.",
+    "audio_en_storage_path": "2205_florida_has_been_at_the_center_of_national_attention_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132206",
+    "text_pt": "O estado abriu um novo e controverso centro de detenção de migrantes nos Everglades.",
+    "text_en": "The state opened a controversial new migrant detention center in the Everglades.",
+    "audio_en_storage_path": "2206_the_state_opened_a_controversial_new_migrant_detention_center_in_the_everglades.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132207",
+    "text_pt": "Apelidada de “Alligator Alcatraz”, a instalação está localizada na pista de pouso de Dade-Collier.",
+    "text_en": "Nicknamed “Alligator Alcatraz.” the facility is located at Dade-Collier airstrip.",
+    "audio_en_storage_path": "2207_nicknamed_alligator_alcatraz_the_facility_is_located_at_dadecollier_airstrip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132208",
+    "text_pt": "Ele foi projetado para abrigar até 5.000 migrantes aguardando deportação.",
+    "text_en": "It is designed to house up to 5.000 migrants awaiting deportation.",
+    "audio_en_storage_path": "2208_it_is_designed_to_house_up_to_5000_migrants_awaiting_deportation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132209",
+    "text_pt": "O presidente Donald Trump visitou o local em 1º de julho de 2025.",
+    "text_en": "President Donald Trump visited the site on July 1. 2025.",
+    "audio_en_storage_path": "2209_president_donald_trump_visited_the_site_on_july_1_2025.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132211",
+    "text_pt": "O governador Ron DeSantis se juntou a Trump para o tour pelas instalações.",
+    "text_en": "Governor Ron DeSantis joined Trump for the facility tour.",
+    "audio_en_storage_path": "2211_governor_ron_desantis_joined_trump_for_the_facility_tour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132212",
+    "text_pt": "O local gerou indignação entre grupos ambientalistas e tribais.",
+    "text_en": "The site has sparked outrage among environmental and tribal groups.",
+    "audio_en_storage_path": "2212_the_site_has_sparked_outrage_among_environmental_and_tribal_groups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132213",
+    "text_pt": "As tribos Miccosukee e Seminole afirmam que a terra é sagrada e está ameaçada.",
+    "text_en": "The Miccosukee and Seminole tribes claim the land is sacred and endangered.",
+    "audio_en_storage_path": "2213_the_miccosukee_and_seminole_tribes_claim_the_land_is_sacred_and_endangered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132214",
+    "text_pt": "Ativistas ambientais dizem que a área abriga espécies em risco, como a pantera da Flórida.",
+    "text_en": "Environmental activists say the area is home to at-risk species like the Florida panther.",
+    "audio_en_storage_path": "2214_environmental_activists_say_the_area_is_home_to_atrisk_species_like_the_florida_panther.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132215",
+    "text_pt": "Uma ação legal já está em andamento para interromper o uso da instalação.",
+    "text_en": "Legal action is already underway to halt the facility’s use.",
+    "audio_en_storage_path": "2215_legal_action_is_already_underway_to_halt_the_facilitys_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132216",
+    "text_pt": "Os defensores estão exigindo uma revisão ambiental sob a lei federal.",
+    "text_en": "Advocates are demanding an environmental review under federal law.",
+    "audio_en_storage_path": "2216_advocates_are_demanding_an_environmental_review_under_federal_law.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132217",
+    "text_pt": "Os oponentes argumentam que o projeto ignorou os principais processos de aprovação.",
+    "text_en": "Opponents argue the project bypassed key approval processes.",
+    "audio_en_storage_path": "2217_opponents_argue_the_project_bypassed_key_approval_processes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132219",
+    "text_pt": "Um segundo centro de detenção pode ser construído em Camp Blanding, no norte da Flórida.",
+    "text_en": "A second detention center may be built at Camp Blanding in North Florida.",
+    "audio_en_storage_path": "2219_a_second_detention_center_may_be_built_at_camp_blanding_in_north_florida.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132220",
+    "text_pt": "Mais de 150 novas leis entraram em vigor na Flórida em 1º de julho.",
+    "text_en": "More than 150 new laws went into effect in Florida on July 1.",
+    "audio_en_storage_path": "2220_more_than_150_new_laws_went_into_effect_in_florida_on_july_1.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132221",
+    "text_pt": "Uma medida controversa renomeia o Golfo do México para “Golfo da América”.",
+    "text_en": "One controversial measure renames the Gulf of Mexico to “Gulf of America.”",
+    "audio_en_storage_path": "2221_one_controversial_measure_renames_the_gulf_of_mexico_to_gulf_of_america.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132222",
+    "text_pt": "Outra proíbe o uso de flúor em sistemas públicos de água.",
+    "text_en": "Another bans the use of fluoride in public water systems.",
+    "audio_en_storage_path": "2222_another_bans_the_use_of_fluoride_in_public_water_systems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132223",
+    "text_pt": "A Lei de Liberdade de Navegação reduz o poder das autoridades policiais de parar embarcações aleatoriamente.",
+    "text_en": "The Boating Freedom Act reduces law enforcement's power to stop vessels randomly.",
+    "audio_en_storage_path": "2223_the_boating_freedom_act_reduces_law_enforcements_power_to_stop_vessels_randomly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132224",
+    "text_pt": "Novas leis também endurecem penalidades para corridas de rua e falsas chamadas de emergência.",
+    "text_en": "New laws also toughen penalties for street racing and false emergency calls.",
+    "audio_en_storage_path": "2224_new_laws_also_toughen_penalties_for_street_racing_and_false_emergency_calls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132225",
+    "text_pt": "O estado agora proíbe o desenvolvimento comercial dentro de parques estaduais.",
+    "text_en": "The state now prohibits commercial development inside state parks.",
+    "audio_en_storage_path": "2225_the_state_now_prohibits_commercial_development_inside_state_parks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132226",
+    "text_pt": "Campos de golfe, quadras de pickleball e hotéis agora estão proibidos em áreas de parques.",
+    "text_en": "Golf courses. pickleball courts. and hotels are now banned on park lands.",
+    "audio_en_storage_path": "2226_golf_courses_pickleball_courts_and_hotels_are_now_banned_on_park_lands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132227",
+    "text_pt": "Os defensores dos direitos dos animais obtiveram uma vitória com duas leis importantes.",
+    "text_en": "Animal rights advocates scored a win with two major laws.",
+    "audio_en_storage_path": "2227_animal_rights_advocates_scored_a_win_with_two_major_laws.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132228",
+    "text_pt": "A “Lei de Dexter” e a “Lei do Soldado” visam a crueldade contra animais com penalidades mais severas.",
+    "text_en": "“Dexter’s Law” and “Trooper’s Law” target animal cruelty with stricter penalties.",
+    "audio_en_storage_path": "2228_dexters_law_and_troopers_law_target_animal_cruelty_with_stricter_penalties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132229",
+    "text_pt": "Os infratores agora serão adicionados a um registro estadual de abuso de animais.",
+    "text_en": "Offenders will now be added to a statewide animal abuse registry.",
+    "audio_en_storage_path": "2229_offenders_will_now_be_added_to_a_statewide_animal_abuse_registry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132230",
+    "text_pt": "Uma das leis entrou em vigor em 1º de julho; a outra entrará em vigor em 1º de outubro.",
+    "text_en": "One of the laws took effect July 1; the other will begin October 1.",
+    "audio_en_storage_path": "2230_one_of_the_laws_took_effect_july_1_the_other_will_begin_october_1.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132231",
+    "text_pt": "A atividade de incêndios florestais aumentou em todo o estado em 2025.",
+    "text_en": "Wildfire activity has surged across the state in 2025.",
+    "audio_en_storage_path": "2231_wildfire_activity_has_surged_across_the_state_in_2025.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132232",
+    "text_pt": "Mais de 2.000 incêndios queimaram mais de 100.000 acres somente neste ano.",
+    "text_en": "Over 2.000 fires have burned more than 100.000 acres this year alone.",
+    "audio_en_storage_path": "2232_over_2000_fires_have_burned_more_than_100000_acres_this_year_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132233",
+    "text_pt": "As condições de seca e o calor extremo estão tornando a temporada de incêndios mais perigosa.",
+    "text_en": "Dry conditions and extreme heat are making fire season more dangerous.",
+    "audio_en_storage_path": "2233_dry_conditions_and_extreme_heat_are_making_fire_season_more_dangerous.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132234",
+    "text_pt": "Autoridades da Flórida continuam emitindo alertas de bandeira vermelha e proibições de incêndios.",
+    "text_en": "Florida officials continue issuing red flag warnings and fire bans.",
+    "audio_en_storage_path": "2234_florida_officials_continue_issuing_red_flag_warnings_and_fire_bans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132235",
+    "text_pt": "A insegurança alimentar está aumentando, de acordo com uma pesquisa recente.",
+    "text_en": "Food insecurity is rising. according to a recent poll.",
+    "audio_en_storage_path": "2235_food_insecurity_is_rising_according_to_a_recent_poll.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132236",
+    "text_pt": "Oitenta e cinco por cento dos moradores da Flórida dizem que os preços dos alimentos estão subindo.",
+    "text_en": "Eighty-five percent of Floridians say grocery prices are going up.",
+    "audio_en_storage_path": "2236_eightyfive_percent_of_floridians_say_grocery_prices_are_going_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132237",
+    "text_pt": "Mais da metade dos entrevistados usa crédito para comprar alimentos.",
+    "text_en": "More than half of respondents are using credit to buy food.",
+    "audio_en_storage_path": "2237_more_than_half_of_respondents_are_using_credit_to_buy_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132238",
+    "text_pt": "Algumas famílias recorreram a bancos de alimentos ou pularam refeições completamente.",
+    "text_en": "Some families have turned to food banks or skipped meals entirely.",
+    "audio_en_storage_path": "2238_some_families_have_turned_to_food_banks_or_skipped_meals_entirely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132239",
+    "text_pt": "A economia da Flórida mostrou sinais mistos em junho.",
+    "text_en": "Florida’s economy showed mixed signals in June.",
+    "audio_en_storage_path": "2239_floridas_economy_showed_mixed_signals_in_june.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132240",
+    "text_pt": "O sentimento do consumidor atingiu seu ponto mais alto desde 2021, em 84,1.",
+    "text_en": "Consumer sentiment reached its highest point since 2021. at 84.1.",
+    "audio_en_storage_path": "2240_consumer_sentiment_reached_its_highest_point_since_2021_at_841.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132241",
+    "text_pt": "Ao mesmo tempo, a Flórida perdeu uma licitação de US$ 500 milhões para um centro de dados de IA.",
+    "text_en": "At the same time. Florida lost a bid for a $500 million AI data center.",
+    "audio_en_storage_path": "2241_at_the_same_time_florida_lost_a_bid_for_a_500_million_ai_data_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132242",
+    "text_pt": "O centro planejado pela Jabil Inc. foi para a Carolina do Norte.",
+    "text_en": "The center. planned by Jabil Inc.. went to North Carolina instead.",
+    "audio_en_storage_path": "2242_the_center_planned_by_jabil_inc_went_to_north_carolina_instead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132243",
+    "text_pt": "Projetos de infraestrutura e trânsito estão avançando em todo o estado.",
+    "text_en": "Infrastructure and transit projects are moving forward statewide.",
+    "audio_en_storage_path": "2243_infrastructure_and_transit_projects_are_moving_forward_statewide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132244",
+    "text_pt": "A Fase 3 do SunRail conectará o aeroporto de Orlando à rede de transporte existente.",
+    "text_en": "SunRail’s Phase 3 will connect Orlando’s airport to the existing commuter network.",
+    "audio_en_storage_path": "2244_sunrails_phase_3_will_connect_orlandos_airport_to_the_existing_commuter_network.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132245",
+    "text_pt": "Esta expansão inclui a integração ferroviária da Brightline ao longo do novo Sunshine Corridor.",
+    "text_en": "This expansion includes Brightline rail integration along the new Sunshine Corridor.",
+    "audio_en_storage_path": "2245_this_expansion_includes_brightline_rail_integration_along_the_new_sunshine_corridor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132246",
+    "text_pt": "Os programas públicos também estão se expandindo neste verão.",
+    "text_en": "Public programs are also expanding this summer.",
+    "audio_en_storage_path": "2246_public_programs_are_also_expanding_this_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132247",
+    "text_pt": "O programa “My Safe Florida Home” foi retomado em 1º de julho.",
+    "text_en": "The “My Safe Florida Home” program resumed on July 1.",
+    "audio_en_storage_path": "2247_the_my_safe_florida_home_program_resumed_on_july_1.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132248",
+    "text_pt": "Ela oferece subsídios de até US$ 10.000 para que proprietários de imóveis façam melhorias na resistência a tempestades.",
+    "text_en": "It offers grants of up to $10.000 for homeowners to make storm-resistant upgrades.",
+    "audio_en_storage_path": "2248_it_offers_grants_of_up_to_10000_for_homeowners_to_make_stormresistant_upgrades.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132249",
+    "text_pt": "O Departamento de Eficiência Governamental da Flórida, ou DOGE, agora está operacional.",
+    "text_en": "Florida's Department of Government Efficiency. or DOGE. is now operational.",
+    "audio_en_storage_path": "2249_floridas_department_of_government_efficiency_or_doge_is_now_operational.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132250",
+    "text_pt": "A agência foi criada para cortar gastos estaduais e reduzir a burocracia.",
+    "text_en": "The agency was created to cut state spending and reduce bureaucracy.",
+    "audio_en_storage_path": "2250_the_agency_was_created_to_cut_state_spending_and_reduce_bureaucracy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132251",
+    "text_pt": "Já propôs eliminar mais de 200 cargos governamentais não preenchidos.",
+    "text_en": "It has already proposed eliminating over 200 unfilled government positions.",
+    "audio_en_storage_path": "2251_it_has_already_proposed_eliminating_over_200_unfilled_government_positions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132252",
+    "text_pt": "A SpaceX apresentou planos para uma nova instalação na Flórida.",
+    "text_en": "SpaceX has filed plans for a new Florida facility.",
+    "audio_en_storage_path": "2252_spacex_has_filed_plans_for_a_new_florida_facility.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132253",
+    "text_pt": "O local proposto na cidade de Myakka suportaria comunicações via satélite.",
+    "text_en": "The proposed site in Myakka City would support satellite communications.",
+    "audio_en_storage_path": "2253_the_proposed_site_in_myakka_city_would_support_satellite_communications.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132254",
+    "text_pt": "Representa o investimento contínuo da SpaceX no estado.",
+    "text_en": "It represents SpaceX’s continued investment in the state.",
+    "audio_en_storage_path": "2254_it_represents_spacexs_continued_investment_in_the_state.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132255",
+    "text_pt": "Enquanto isso, grandes eventos culturais estão preenchendo o calendário de verão da Flórida.",
+    "text_en": "Meanwhile. major cultural events are filling Florida’s summer calendar.",
+    "audio_en_storage_path": "2255_meanwhile_major_cultural_events_are_filling_floridas_summer_calendar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132256",
+    "text_pt": "Fogos de artifício para o 4 de julho estão planejados para Miami, Tampa, Orlando e Jacksonville.",
+    "text_en": "Fourth of July fireworks are planned for Miami. Tampa. Orlando. and Jacksonville.",
+    "audio_en_storage_path": "2256_fourth_of_july_fireworks_are_planned_for_miami_tampa_orlando_and_jacksonville.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132257",
+    "text_pt": "Espera-se que as praias atinjam a capacidade máxima com o grande movimento de turistas durante os feriados.",
+    "text_en": "Beaches are expected to reach capacity with heavy holiday travel.",
+    "audio_en_storage_path": "2257_beaches_are_expected_to_reach_capacity_with_heavy_holiday_travel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132258",
+    "text_pt": "A polícia aumentará as patrulhas de DUI e as verificações de segurança de embarcações.",
+    "text_en": "Law enforcement will increase DUI patrols and boating safety checks.",
+    "audio_en_storage_path": "2258_law_enforcement_will_increase_dui_patrols_and_boating_safety_checks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132259",
+    "text_pt": "Com o aumento das temperaturas, alertas de calor estão em vigor em todo o estado.",
+    "text_en": "As temperatures soar. heat advisories are in effect statewide.",
+    "audio_en_storage_path": "2259_as_temperatures_soar_heat_advisories_are_in_effect_statewide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132260",
+    "text_pt": "Centros de resfriamento estão abertos nas principais cidades para idosos e moradores vulneráveis.",
+    "text_en": "Cooling centers are open in major cities for seniors and vulnerable residents.",
+    "audio_en_storage_path": "2260_cooling_centers_are_open_in_major_cities_for_seniors_and_vulnerable_residents.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132261",
+    "text_pt": "As empresas de energia estão pedindo conservação durante os horários de pico.",
+    "text_en": "Power companies are urging conservation during peak hours.",
+    "audio_en_storage_path": "2261_power_companies_are_urging_conservation_during_peak_hours.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132262",
+    "text_pt": "A Flórida continua sendo um ponto focal de debates, mudanças e controvérsias nacionais.",
+    "text_en": "Florida remains a focal point of national debate. change. and controversy.",
+    "audio_en_storage_path": "2262_florida_remains_a_focal_point_of_national_debate_change_and_controversy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132263",
+    "text_pt": "Da imigração e meio ambiente às novas leis e ao calor do verão, o estado está em constante mudança.",
+    "text_en": "From immigration and environment to new laws and summer heat. the state is in flux.",
+    "audio_en_storage_path": "2263_from_immigration_and_environment_to_new_laws_and_summer_heat_the_state_is_in_flux.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132264",
+    "text_pt": "E como sempre, a Flórida está na linha de frente das batalhas culturais e políticas dos Estados Unidos.",
+    "text_en": "And as always. Florida stands at the front line of America’s cultural and political battles.",
+    "audio_en_storage_path": "2264_and_as_always_florida_stands_at_the_front_line_of_americas_cultural_and_political_battles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132265",
+    "text_pt": "Notícias de última hora: Principais acontecimentos na Flórida",
+    "text_en": "Breaking News: Major Developments in Florida",
+    "audio_en_storage_path": "2265_breaking_news_major_developments_in_florida.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132266",
+    "text_pt": "A Flórida continua a atrair atenção nacional e internacional com sua mistura única de desenvolvimentos políticos, ambientais e culturais.",
+    "text_en": "Florida continues to capture national and international attention with its unique blend of political. environmental. and cultural developments.",
+    "audio_en_storage_path": "2266_florida_continues_to_capture_national_and_international_attention_with_its_unique_blend_of_political_environmental_and_cultural_developments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132267",
+    "text_pt": "O rápido crescimento populacional do estado gerou discussões sobre infraestrutura e gestão de recursos.",
+    "text_en": "The state’s rapid population growth has sparked discussions about infrastructure and resource management.",
+    "audio_en_storage_path": "2267_the_states_rapid_population_growth_has_sparked_discussions_about_infrastructure_and_resource_management.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132268",
+    "text_pt": "Novos moradores estão migrando para cidades como Miami, Orlando e Tampa, atraídos pelo clima ensolarado e pelas oportunidades econômicas.",
+    "text_en": "New residents are flocking to cities like Miami. Orlando. and Tampa. drawn by the sunny weather and economic opportunities.",
+    "audio_en_storage_path": "2268_new_residents_are_flocking_to_cities_like_miami_orlando_and_tampa_drawn_by_the_sunny_weather_and_economic_opportunities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132269",
+    "text_pt": "No entanto, esse fluxo está pressionando os mercados imobiliários e os serviços públicos em toda a região.",
+    "text_en": "However. this influx is putting pressure on housing markets and public services across the region.",
+    "audio_en_storage_path": "2269_however_this_influx_is_putting_pressure_on_housing_markets_and_public_services_across_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132270",
+    "text_pt": "Nas notícias ambientais, a Flórida está lidando com as consequências de mais uma intensa temporada de furacões.",
+    "text_en": "In environmental news. Florida is grappling with the aftermath of another intense hurricane season.",
+    "audio_en_storage_path": "2270_in_environmental_news_florida_is_grappling_with_the_aftermath_of_another_intense_hurricane_season.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132271",
+    "text_pt": "O furacão Milton causou grandes cortes de energia e inundações ao longo da Costa do Golfo na semana passada.",
+    "text_en": "Hurricane Milton caused widespread power outages and flooding along the Gulf Coast last week.",
+    "audio_en_storage_path": "2271_hurricane_milton_caused_widespread_power_outages_and_flooding_along_the_gulf_coast_last_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132272",
+    "text_pt": "As equipes de resposta a emergências trabalharam incansavelmente para restaurar a eletricidade e fornecer ajuda às comunidades afetadas.",
+    "text_en": "Emergency response teams worked tirelessly to restore electricity and provide aid to affected communities.",
+    "audio_en_storage_path": "2272_emergency_response_teams_worked_tirelessly_to_restore_electricity_and_provide_aid_to_affected_communities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132273",
+    "text_pt": "Cientistas do clima alertam que o aumento do nível do mar agravará o impacto de futuras tempestades.",
+    "text_en": "Climate scientists warn that rising sea levels will exacerbate the impact of future storms.",
+    "audio_en_storage_path": "2273_climate_scientists_warn_that_rising_sea_levels_will_exacerbate_the_impact_of_future_storms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132274",
+    "text_pt": "Esforços para fortalecer as defesas costeiras e melhorar os sistemas de drenagem estão em andamento, mas enfrentam desafios de financiamento.",
+    "text_en": "Efforts to strengthen coastal defenses and improve drainage systems are underway but face funding challenges.",
+    "audio_en_storage_path": "2274_efforts_to_strengthen_coastal_defenses_and_improve_drainage_systems_are_underway_but_face_funding_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132275",
+    "text_pt": "A exploração espacial continua sendo um pilar da identidade da Flórida, graças ao Centro Espacial Kennedy da NASA.",
+    "text_en": "Space exploration remains a cornerstone of Florida’s identity. thanks to NASA’s Kennedy Space Center.",
+    "audio_en_storage_path": "2275_space_exploration_remains_a_cornerstone_of_floridas_identity_thanks_to_nasas_kennedy_space_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132276",
+    "text_pt": "O recente lançamento da Artemis II marcou um passo significativo para o retorno dos humanos à Lua.",
+    "text_en": "The recent launch of Artemis II marked a significant step toward returning humans to the moon.",
+    "audio_en_storage_path": "2276_the_recent_launch_of_artemis_ii_marked_a_significant_step_toward_returning_humans_to_the_moon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132277",
+    "text_pt": "Multidões se reuniram em Cabo Canaveral para testemunhar o evento histórico, comemorando enquanto o foguete subia ao espaço.",
+    "text_en": "Crowds gathered at Cape Canaveral to witness the historic event. cheering as the rocket soared into space.",
+    "audio_en_storage_path": "2277_crowds_gathered_at_cape_canaveral_to_witness_the_historic_event_cheering_as_the_rocket_soared_into_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132278",
+    "text_pt": "Esta missão representa não apenas um progresso científico, mas também um impulso para a indústria aeroespacial da Flórida.",
+    "text_en": "This mission represents not only scientific progress but also a boost for Florida’s aerospace industry.",
+    "audio_en_storage_path": "2278_this_mission_represents_not_only_scientific_progress_but_also_a_boost_for_floridas_aerospace_industry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132279",
+    "text_pt": "Empresas privadas como a SpaceX continuam a expandir suas operações, consolidando o papel do estado na inovação espacial.",
+    "text_en": "Private companies like SpaceX continue to expand operations. solidifying the state’s role in space innovation.",
+    "audio_en_storage_path": "2279_private_companies_like_spacex_continue_to_expand_operations_solidifying_the_states_role_in_space_innovation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132280",
+    "text_pt": "A política na Flórida está mais acirrada do que nunca, com o governador Ron DeSantis nas manchetes do país todo.",
+    "text_en": "Politics in Florida have been as fiery as ever. with Governor Ron DeSantis making headlines nationwide.",
+    "audio_en_storage_path": "2280_politics_in_florida_have_been_as_fiery_as_ever_with_governor_ron_desantis_making_headlines_nationwide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132281",
+    "text_pt": "As políticas de sua administração sobre imigração, educação e mudanças climáticas continuam profundamente polarizadas.",
+    "text_en": "His administration’s policies on immigration. education. and climate change remain deeply polarizing.",
+    "audio_en_storage_path": "2281_his_administrations_policies_on_immigration_education_and_climate_change_remain_deeply_polarizing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132282",
+    "text_pt": "Há debates acalorados sobre uma nova legislação que visa restringir certas discussões em sala de aula.",
+    "text_en": "Debates rage over new legislation aimed at restricting certain classroom discussions.",
+    "audio_en_storage_path": "2282_debates_rage_over_new_legislation_aimed_at_restricting_certain_classroom_discussions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132283",
+    "text_pt": "Os críticos argumentam que essas medidas limitam a liberdade de expressão, enquanto os defensores afirmam que elas protegem os direitos dos pais.",
+    "text_en": "Critics argue these measures limit free expression. while supporters claim they protect parental rights.",
+    "audio_en_storage_path": "2283_critics_argue_these_measures_limit_free_expression_while_supporters_claim_they_protect_parental_rights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132284",
+    "text_pt": "Enquanto isso, as campanhas de registro de eleitores estão aumentando antes das eleições do ano que vem.",
+    "text_en": "Meanwhile. voter registration drives are ramping up ahead of next year’s elections.",
+    "audio_en_storage_path": "2284_meanwhile_voter_registration_drives_are_ramping_up_ahead_of_next_years_elections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132285",
+    "text_pt": "O turismo continua sendo uma força motriz por trás da economia da Flórida, atraindo milhões anualmente.",
+    "text_en": "Tourism remains a driving force behind Florida’s economy. attracting millions annually.",
+    "audio_en_storage_path": "2285_tourism_remains_a_driving_force_behind_floridas_economy_attracting_millions_annually.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132286",
+    "text_pt": "O Disney World comemorou seu 50º aniversário com números recordes de público.",
+    "text_en": "Disney World celebrated its 50th anniversary with record-breaking attendance figures.",
+    "audio_en_storage_path": "2286_disney_world_celebrated_its_50th_anniversary_with_recordbreaking_attendance_figures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132287",
+    "text_pt": "A Universal Studios estreou uma nova expansão do Mundo Mágico, encantando os fãs de Harry Potter no mundo todo.",
+    "text_en": "Universal Studios debuted a new Wizarding World expansion. delighting Harry Potter fans worldwide.",
+    "audio_en_storage_path": "2287_universal_studios_debuted_a_new_wizarding_world_expansion_delighting_harry_potter_fans_worldwide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132288",
+    "text_pt": "Praias de Daytona a Key West ficaram lotadas durante as férias de primavera.",
+    "text_en": "Beaches from Daytona to Key West saw packed shorelines during spring break season.",
+    "audio_en_storage_path": "2288_beaches_from_daytona_to_key_west_saw_packed_shorelines_during_spring_break_season.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132289",
+    "text_pt": "Os navios de cruzeiro que partem de PortMiami e Port Canaveral relataram capacidade quase máxima durante todo o verão.",
+    "text_en": "Cruise ships departing from PortMiami and Port Canaveral reported near-full capacities all summer.",
+    "audio_en_storage_path": "2289_cruise_ships_departing_from_portmiami_and_port_canaveral_reported_nearfull_capacities_all_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132290",
+    "text_pt": "Os esforços de conservação da vida selvagem estão ganhando força em meio a crescentes preocupações ecológicas.",
+    "text_en": "Wildlife conservation efforts are gaining momentum amid growing ecological concerns.",
+    "audio_en_storage_path": "2290_wildlife_conservation_efforts_are_gaining_momentum_amid_growing_ecological_concerns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132291",
+    "text_pt": "Os peixes-boi, muitas vezes chamados de “vacas marinhas”, estão enfrentando ameaças críticas devido à perda de habitat e à poluição da água.",
+    "text_en": "Manatees. often called “sea cows.” are facing critical threats due to habitat loss and water pollution.",
+    "audio_en_storage_path": "2291_manatees_often_called_sea_cows_are_facing_critical_threats_due_to_habitat_loss_and_water_pollution.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132292",
+    "text_pt": "Uma iniciativa estadual busca restaurar bancos de ervas marinhas essenciais para sua sobrevivência.",
+    "text_en": "A statewide initiative seeks to restore seagrass beds essential for their survival.",
+    "audio_en_storage_path": "2292_a_statewide_initiative_seeks_to_restore_seagrass_beds_essential_for_their_survival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132293",
+    "text_pt": "Grupos ambientalistas elogiam essas ações, mas enfatizam a necessidade de uma fiscalização mais rigorosa contra poluidores.",
+    "text_en": "Environmental groups praise these actions but stress the need for stricter enforcement against polluters.",
+    "audio_en_storage_path": "2293_environmental_groups_praise_these_actions_but_stress_the_need_for_stricter_enforcement_against_polluters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132294",
+    "text_pt": "Da mesma forma, os esforços para proteger espécies ameaçadas de extinção, como a pantera da Flórida, estão mostrando resultados promissores.",
+    "text_en": "Similarly. efforts to protect endangered species like the Florida panther are showing promising results.",
+    "audio_en_storage_path": "2294_similarly_efforts_to_protect_endangered_species_like_the_florida_panther_are_showing_promising_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132295",
+    "text_pt": "A reforma educacional é uma questão polêmica em Tallahassee, onde os legisladores debatem programas de vales-escola.",
+    "text_en": "Education reform is a hot-button issue in Tallahassee. where lawmakers debate school voucher programs.",
+    "audio_en_storage_path": "2295_education_reform_is_a_hotbutton_issue_in_tallahassee_where_lawmakers_debate_school_voucher_programs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132296",
+    "text_pt": "Os proponentes argumentam que os vouchers dão mais opções às famílias, principalmente em áreas carentes.",
+    "text_en": "Proponents argue vouchers give families more choices. particularly in underserved areas.",
+    "audio_en_storage_path": "2296_proponents_argue_vouchers_give_families_more_choices_particularly_in_underserved_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132297",
+    "text_pt": "Os oponentes se preocupam com a redução do financiamento para escolas públicas tradicionais.",
+    "text_en": "Opponents worry about reduced funding for traditional public schools.",
+    "audio_en_storage_path": "2297_opponents_worry_about_reduced_funding_for_traditional_public_schools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132298",
+    "text_pt": "A escassez de professores persiste, o que gera pedidos por maiores salários e melhores condições de trabalho.",
+    "text_en": "Teacher shortages persist. prompting calls for higher salaries and improved working conditions.",
+    "audio_en_storage_path": "2298_teacher_shortages_persist_prompting_calls_for_higher_salaries_and_improved_working_conditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132299",
+    "text_pt": "As faculdades comunitárias estão se esforçando para preencher lacunas no treinamento da força de trabalho e no desenvolvimento de habilidades técnicas.",
+    "text_en": "Community colleges are stepping up to fill gaps in workforce training and technical skills development.",
+    "audio_en_storage_path": "2299_community_colleges_are_stepping_up_to_fill_gaps_in_workforce_training_and_technical_skills_development.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132300",
+    "text_pt": "As taxas de criminalidade nas principais cidades têm flutuado, gerando reações diversas de moradores e autoridades.",
+    "text_en": "Crime rates in major cities have fluctuated. drawing mixed reactions from residents and officials.",
+    "audio_en_storage_path": "2300_crime_rates_in_major_cities_have_fluctuated_drawing_mixed_reactions_from_residents_and_officials.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132301",
+    "text_pt": "As agências de segurança pública estão adotando novas tecnologias para aumentar a segurança pública.",
+    "text_en": "Law enforcement agencies are adopting new technologies to enhance public safety.",
+    "audio_en_storage_path": "2301_law_enforcement_agencies_are_adopting_new_technologies_to_enhance_public_safety.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132302",
+    "text_pt": "Câmeras corporais e análise de dados visam aumentar a transparência e a responsabilização.",
+    "text_en": "Body cameras and data analytics aim to increase transparency and accountability.",
+    "audio_en_storage_path": "2302_body_cameras_and_data_analytics_aim_to_increase_transparency_and_accountability.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132303",
+    "text_pt": "O controle de armas continua sendo um tópico controverso, com ativistas pressionando por regulamentações mais rígidas.",
+    "text_en": "Gun control remains a contentious topic. with activists pushing for stricter regulations.",
+    "audio_en_storage_path": "2303_gun_control_remains_a_contentious_topic_with_activists_pushing_for_stricter_regulations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132304",
+    "text_pt": "Outros defendem os direitos da Segunda Emenda, enfatizando a responsabilidade pessoal sobre mudanças legislativas.",
+    "text_en": "Others defend Second Amendment rights. emphasizing personal responsibility over legislative changes.",
+    "audio_en_storage_path": "2304_others_defend_second_amendment_rights_emphasizing_personal_responsibility_over_legislative_changes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132305",
+    "text_pt": "Os mercados imobiliários na Flórida estão crescendo, impulsionados pelas tendências de trabalho remoto e incentivos fiscais.",
+    "text_en": "Real estate markets in Florida are booming. fueled by remote work trends and tax incentives.",
+    "audio_en_storage_path": "2305_real_estate_markets_in_florida_are_booming_fueled_by_remote_work_trends_and_tax_incentives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132306",
+    "text_pt": "Condomínios de luxo em Miami Beach e casas à beira-mar em Naples estão vendendo mais rápido do que nunca.",
+    "text_en": "Luxury condos in Miami Beach and waterfront homes in Naples are selling faster than ever.",
+    "audio_en_storage_path": "2306_luxury_condos_in_miami_beach_and_waterfront_homes_in_naples_are_selling_faster_than_ever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132307",
+    "text_pt": "O aumento do valor dos imóveis gerou temores de desalojamento de moradores de longa data.",
+    "text_en": "Rising property values have sparked fears of displacing longtime residents.",
+    "audio_en_storage_path": "2307_rising_property_values_have_sparked_fears_of_displacing_longtime_residents.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132308",
+    "text_pt": "Os defensores de moradias populares estão incentivando os incorporadores a incluir mais unidades de baixa renda em novos projetos.",
+    "text_en": "Affordable housing advocates are urging developers to include more low-income units in new projects.",
+    "audio_en_storage_path": "2308_affordable_housing_advocates_are_urging_developers_to_include_more_lowincome_units_in_new_projects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132309",
+    "text_pt": "As leis de zoneamento estão sendo reavaliadas para acomodar arranjos de vida urbana mais densos.",
+    "text_en": "Zoning laws are being reevaluated to accommodate denser urban living arrangements.",
+    "audio_en_storage_path": "2309_zoning_laws_are_being_reevaluated_to_accommodate_denser_urban_living_arrangements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132310",
+    "text_pt": "A diversidade cultural define as comunidades vibrantes da Flórida, misturando influências da América Latina e de outros lugares.",
+    "text_en": "Cultural diversity defines Florida’s vibrant communities. blending influences from Latin America and beyond.",
+    "audio_en_storage_path": "2310_cultural_diversity_defines_floridas_vibrant_communities_blending_influences_from_latin_america_and_beyond.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132311",
+    "text_pt": "O bairro de Little Havana, em Miami, sedia festivais que celebram a herança cubana por meio de música, comida e arte.",
+    "text_en": "Miami’s Little Havana district hosts festivals celebrating Cuban heritage through music. food. and art.",
+    "audio_en_storage_path": "2311_miamis_little_havana_district_hosts_festivals_celebrating_cuban_heritage_through_music_food_and_art.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132312",
+    "text_pt": "O Festival Internacional de Comida de Orlando atraiu milhares de pessoas ansiosas para experimentar a culinária global.",
+    "text_en": "Orlando’s International Food Festival drew thousands eager to sample global cuisines.",
+    "audio_en_storage_path": "2312_orlandos_international_food_festival_drew_thousands_eager_to_sample_global_cuisines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132313",
+    "text_pt": "Artistas locais estão usando murais e instalações para destacar temas de justiça social.",
+    "text_en": "Local artists are using murals and installations to highlight social justice themes.",
+    "audio_en_storage_path": "2313_local_artists_are_using_murals_and_installations_to_highlight_social_justice_themes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132314",
+    "text_pt": "Essas expressões criativas refletem a rica coleção de tradições e histórias do estado.",
+    "text_en": "These creative expressions reflect the state’s rich tapestry of traditions and stories.",
+    "audio_en_storage_path": "2314_these_creative_expressions_reflect_the_states_rich_tapestry_of_traditions_and_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132315",
+    "text_pt": "Os fãs de esportes têm muitos motivos para comemorar, com times da Flórida se destacando em diversas ligas.",
+    "text_en": "Sports fans have plenty to cheer about. with Florida teams excelling in multiple leagues.",
+    "audio_en_storage_path": "2315_sports_fans_have_plenty_to_cheer_about_with_florida_teams_excelling_in_multiple_leagues.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132316",
+    "text_pt": "O Miami Dolphins começou sua temporada na NFL com uma sequência de vitórias impressionante.",
+    "text_en": "The Miami Dolphins kicked off their NFL season with an impressive win streak.",
+    "audio_en_storage_path": "2316_the_miami_dolphins_kicked_off_their_nfl_season_with_an_impressive_win_streak.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132317",
+    "text_pt": "Os fãs do Tampa Bay Rays estão esperançosos por outra participação nos playoffs após o bom desempenho do ano passado.",
+    "text_en": "Tampa Bay Rays fans are hopeful for another playoff run after last year’s strong performance.",
+    "audio_en_storage_path": "2317_tampa_bay_rays_fans_are_hopeful_for_another_playoff_run_after_last_years_strong_performance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132318",
+    "text_pt": "As rivalidades do futebol universitário aumentam quando os Florida Gators enfrentam os FSU Seminoles.",
+    "text_en": "College football rivalries heat up as the Florida Gators face off against the FSU Seminoles.",
+    "audio_en_storage_path": "2318_college_football_rivalries_heat_up_as_the_florida_gators_face_off_against_the_fsu_seminoles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132319",
+    "text_pt": "Enquanto isso, os entusiastas do golfe se aglomeram em campos projetados por lendas como Arnold Palmer e Jack Nicklaus.",
+    "text_en": "Meanwhile. golf enthusiasts flock to courses designed by legends like Arnold Palmer and Jack Nicklaus.",
+    "audio_en_storage_path": "2319_meanwhile_golf_enthusiasts_flock_to_courses_designed_by_legends_like_arnold_palmer_and_jack_nicklaus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132320",
+    "text_pt": "Enquanto a Flórida navega em seu complexo cenário de desafios e oportunidades, uma coisa é clara: a resiliência define este estado.",
+    "text_en": "As Florida navigates its complex landscape of challenges and opportunities. one thing is clear: resilience defines this state.",
+    "audio_en_storage_path": "2320_as_florida_navigates_its_complex_landscape_of_challenges_and_opportunities_one_thing_is_clear_resilience_defines_this_state.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132321",
+    "text_pt": "Sua capacidade de se adaptar a furacões, mudanças políticas e mudanças demográficas demonstra uma determinação inigualável.",
+    "text_en": "Its ability to adapt to hurricanes. policy shifts. and demographic changes showcases unparalleled determination.",
+    "audio_en_storage_path": "2321_its_ability_to_adapt_to_hurricanes_policy_shifts_and_demographic_changes_showcases_unparalleled_determination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132322",
+    "text_pt": "De praias arenosas a paisagens urbanas agitadas, a Flórida personifica um espírito de reinvenção e esperança.",
+    "text_en": "From sandy beaches to bustling cityscapes. Florida embodies a spirit of reinvention and hope.",
+    "audio_en_storage_path": "2322_from_sandy_beaches_to_bustling_cityscapes_florida_embodies_a_spirit_of_reinvention_and_hope.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132323",
+    "text_pt": "Cada dia traz novas histórias de inovação, perseverança e comunidade.",
+    "text_en": "Every day brings new stories of innovation. perseverance. and community.",
+    "audio_en_storage_path": "2323_every_day_brings_new_stories_of_innovation_perseverance_and_community.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132324",
+    "text_pt": "O futuro da Flórida parece tão brilhante — e dinâmico — quanto seu passado.",
+    "text_en": "Florida’s future looks as bright—and dynamic—as its past.",
+    "audio_en_storage_path": "2324_floridas_future_looks_as_brightand_dynamicas_its_past.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132325",
+    "text_pt": "Notícias de última hora: Principais acontecimentos na Califórnia",
+    "text_en": "Breaking News: Major Developments in California",
+    "audio_en_storage_path": "2325_breaking_news_major_developments_in_california.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132326",
+    "text_pt": "Califórnia, conhecida por sua inovação, diversidade e beleza natural, continua a ser manchete com uma série de eventos impactantes que moldam sua paisagem.",
+    "text_en": "California. known for its innovation. diversity. and natural beauty. continues to make headlines with a series of impactful events shaping its landscape.",
+    "audio_en_storage_path": "2326_california_known_for_its_innovation_diversity_and_natural_beauty_continues_to_make_headlines_with_a_series_of_impactful_events_shaping_its_landscape.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132327",
+    "text_pt": "A batalha contínua do estado contra as mudanças climáticas se intensificou à medida que incêndios florestais devastam o norte e o sul da Califórnia.",
+    "text_en": "The state’s ongoing battle against climate change has intensified as wildfires rage across Northern and Southern California.",
+    "audio_en_storage_path": "2327_the_states_ongoing_battle_against_climate_change_has_intensified_as_wildfires_rage_across_northern_and_southern_california.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132328",
+    "text_pt": "Os bombeiros estão trabalhando 24 horas por dia para conter os incêndios provocados pela seca e pelos ventos fortes.",
+    "text_en": "Firefighters are working around the clock to contain blazes fueled by drought and high winds.",
+    "audio_en_storage_path": "2328_firefighters_are_working_around_the_clock_to_contain_blazes_fueled_by_drought_and_high_winds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132329",
+    "text_pt": "Comunidades em áreas como Santa Rosa e Malibu foram evacuadas, deixando milhares de desabrigados.",
+    "text_en": "Communities in areas like Santa Rosa and Malibu have been evacuated. leaving thousands displaced.",
+    "audio_en_storage_path": "2329_communities_in_areas_like_santa_rosa_and_malibu_have_been_evacuated_leaving_thousands_displaced.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132330",
+    "text_pt": "Especialistas alertam que estações secas prolongadas estão se tornando o novo normal, pedindo ações imediatas para mitigar os riscos.",
+    "text_en": "Experts warn that prolonged dry seasons are becoming the new normal. urging immediate action to mitigate risks.",
+    "audio_en_storage_path": "2330_experts_warn_that_prolonged_dry_seasons_are_becoming_the_new_normal_urging_immediate_action_to_mitigate_risks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132331",
+    "text_pt": "No Vale do Silício, gigantes da tecnologia estão ultrapassando limites com avanços inovadores.",
+    "text_en": "In Silicon Valley. tech giants are pushing boundaries with groundbreaking advancements.",
+    "audio_en_storage_path": "2331_in_silicon_valley_tech_giants_are_pushing_boundaries_with_groundbreaking_advancements.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132332",
+    "text_pt": "A Apple revelou seu mais recente modelo de iPhone, com recursos aprimorados de IA e medidas de sustentabilidade.",
+    "text_en": "Apple unveiled its latest iPhone model. featuring enhanced AI capabilities and sustainability measures.",
+    "audio_en_storage_path": "2332_apple_unveiled_its_latest_iphone_model_featuring_enhanced_ai_capabilities_and_sustainability_measures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132333",
+    "text_pt": "O Google anunciou planos para expandir seus data centers em San Jose, criando milhares de empregos.",
+    "text_en": "Google announced plans to expand its data centers in San Jose. creating thousands of jobs.",
+    "audio_en_storage_path": "2333_google_announced_plans_to_expand_its_data_centers_in_san_jose_creating_thousands_of_jobs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132334",
+    "text_pt": "A Tesla continua a dominar o mercado de veículos elétricos, com números de produção disparando neste trimestre.",
+    "text_en": "Tesla continues to dominate the electric vehicle market. with production numbers soaring this quarter.",
+    "audio_en_storage_path": "2334_tesla_continues_to_dominate_the_electric_vehicle_market_with_production_numbers_soaring_this_quarter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132335",
+    "text_pt": "Entretanto, preocupações sobre práticas trabalhistas e impactos ambientais persistem entre os críticos.",
+    "text_en": "However. concerns about labor practices and environmental impacts persist among critics.",
+    "audio_en_storage_path": "2335_however_concerns_about_labor_practices_and_environmental_impacts_persist_among_critics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132336",
+    "text_pt": "Hollywood continua sendo uma potência global do entretenimento, apesar dos desafios das plataformas de streaming.",
+    "text_en": "Hollywood remains a global entertainment powerhouse. despite challenges from streaming platforms.",
+    "audio_en_storage_path": "2336_hollywood_remains_a_global_entertainment_powerhouse_despite_challenges_from_streaming_platforms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132337",
+    "text_pt": "A greve do Writers Guild of America terminou no mês passado após meses de negociações.",
+    "text_en": "The Writers Guild of America strike ended last month after months of negotiations.",
+    "audio_en_storage_path": "2337_the_writers_guild_of_america_strike_ended_last_month_after_months_of_negotiations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132338",
+    "text_pt": "Atores e escritores comemoraram o acordo, que inclui resíduos mais altos e proteções para uso de IA.",
+    "text_en": "Actors and writers celebrated the agreement. which includes higher residuals and protections for AI use.",
+    "audio_en_storage_path": "2338_actors_and_writers_celebrated_the_agreement_which_includes_higher_residuals_and_protections_for_ai_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132339",
+    "text_pt": "Filmes de sucesso como Oppenheimer e Barbie foram filmados em Los Angeles, impulsionando as economias locais.",
+    "text_en": "Blockbuster films like Oppenheimer and Barbie were shot in Los Angeles. boosting local economies.",
+    "audio_en_storage_path": "2339_blockbuster_films_like_oppenheimer_and_barbie_were_shot_in_los_angeles_boosting_local_economies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132340",
+    "text_pt": "Festivais de cinema em San Diego e Santa Monica exibiram projetos independentes que ganharam aclamação da crítica.",
+    "text_en": "Film festivals in San Diego and Santa Monica showcased independent projects gaining critical acclaim.",
+    "audio_en_storage_path": "2340_film_festivals_in_san_diego_and_santa_monica_showcased_independent_projects_gaining_critical_acclaim.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132341",
+    "text_pt": "A reforma educacional é uma das principais prioridades enquanto a Califórnia luta contra a queda nas notas dos testes e a escassez de professores.",
+    "text_en": "Education reform is a top priority as California grapples with declining test scores and teacher shortages.",
+    "audio_en_storage_path": "2341_education_reform_is_a_top_priority_as_california_grapples_with_declining_test_scores_and_teacher_shortages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132342",
+    "text_pt": "O governador Gavin Newsom propôs um plano de US$ 10 bilhões para melhorar a educação STEM em todo o estado.",
+    "text_en": "Governor Gavin Newsom proposed a $10 billion plan to improve STEM education statewide.",
+    "audio_en_storage_path": "2342_governor_gavin_newsom_proposed_a_10_billion_plan_to_improve_stem_education_statewide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132343",
+    "text_pt": "Os programas gratuitos de faculdades comunitárias visam equipar os alunos com as habilidades necessárias para as indústrias modernas.",
+    "text_en": "Free community college programs aim to equip students with skills needed for modern industries.",
+    "audio_en_storage_path": "2343_free_community_college_programs_aim_to_equip_students_with_skills_needed_for_modern_industries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132344",
+    "text_pt": "Pais e educadores estão defendendo recursos de saúde mental para atender às crescentes necessidades dos alunos.",
+    "text_en": "Parents and educators are advocating for mental health resources to address growing student needs.",
+    "audio_en_storage_path": "2344_parents_and_educators_are_advocating_for_mental_health_resources_to_address_growing_student_needs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132345",
+    "text_pt": "Distritos escolares em Oakland e Sacramento estão testando currículos inovadores focados na criatividade.",
+    "text_en": "School districts in Oakland and Sacramento are piloting innovative curricula focused on creativity.",
+    "audio_en_storage_path": "2345_school_districts_in_oakland_and_sacramento_are_piloting_innovative_curricula_focused_on_creativity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132346",
+    "text_pt": "As políticas ambientais continuam sendo essenciais na agenda legislativa da Califórnia.",
+    "text_en": "Environmental policies remain central to California’s legislative agenda.",
+    "audio_en_storage_path": "2346_environmental_policies_remain_central_to_californias_legislative_agenda.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132347",
+    "text_pt": "Uma nova lei determina que todas as casas novas sejam equipadas com painéis solares a partir do ano que vem.",
+    "text_en": "A new law mandates that all new homes be equipped with solar panels starting next year.",
+    "audio_en_storage_path": "2347_a_new_law_mandates_that_all_new_homes_be_equipped_with_solar_panels_starting_next_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132348",
+    "text_pt": "Os incentivos para veículos elétricos estão encorajando os motoristas a mudar para opções de transporte mais limpas.",
+    "text_en": "Electric vehicle incentives are encouraging drivers to switch to cleaner transportation options.",
+    "audio_en_storage_path": "2348_electric_vehicle_incentives_are_encouraging_drivers_to_switch_to_cleaner_transportation_options.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132349",
+    "text_pt": "Os esforços para restaurar as áreas úmidas ao longo do Rio Sacramento visam proteger espécies ameaçadas de extinção.",
+    "text_en": "Efforts to restore wetlands along the Sacramento River aim to protect endangered species.",
+    "audio_en_storage_path": "2349_efforts_to_restore_wetlands_along_the_sacramento_river_aim_to_protect_endangered_species.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132350",
+    "text_pt": "Iniciativas de limpeza de praias em San Diego e Santa Bárbara estão atraindo ampla participação.",
+    "text_en": "Beach clean-up initiatives in San Diego and Santa Barbara are drawing widespread participation.",
+    "audio_en_storage_path": "2350_beach_cleanup_initiatives_in_san_diego_and_santa_barbara_are_drawing_widespread_participation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132351",
+    "text_pt": "O turismo na Califórnia está prosperando, com visitantes migrando para destinos icônicos o ano todo.",
+    "text_en": "Tourism in California is thriving. with visitors flocking to iconic destinations year-round.",
+    "audio_en_storage_path": "2351_tourism_in_california_is_thriving_with_visitors_flocking_to_iconic_destinations_yearround.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132352",
+    "text_pt": "O Parque Nacional de Yosemite registrou público recorde no fim de semana do Dia do Trabalho.",
+    "text_en": "Yosemite National Park saw record-breaking attendance during Labor Day weekend.",
+    "audio_en_storage_path": "2352_yosemite_national_park_saw_recordbreaking_attendance_during_labor_day_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132353",
+    "text_pt": "As vinícolas do Vale de Napa organizaram eventos com ingressos esgotados para celebrar a colheita anual de uvas.",
+    "text_en": "Napa Valley wineries hosted sold-out events celebrating the annual grape harvest.",
+    "audio_en_storage_path": "2353_napa_valley_wineries_hosted_soldout_events_celebrating_the_annual_grape_harvest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132354",
+    "text_pt": "O Disneyland Resort em Anaheim relatou sua temporada mais movimentada desde a reabertura pós-pandemia.",
+    "text_en": "Disneyland Resort in Anaheim reported its busiest season since reopening post-pandemic.",
+    "audio_en_storage_path": "2354_disneyland_resort_in_anaheim_reported_its_busiest_season_since_reopening_postpandemic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132355",
+    "text_pt": "As competições de surfe em Huntington Beach atraíram atletas e espectadores do mundo todo.",
+    "text_en": "Surfing competitions in Huntington Beach attracted athletes and spectators from around the globe.",
+    "audio_en_storage_path": "2355_surfing_competitions_in_huntington_beach_attracted_athletes_and_spectators_from_around_the_globe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132356",
+    "text_pt": "A falta de moradia continua sendo um dos problemas mais urgentes da Califórnia, sem soluções fáceis à vista.",
+    "text_en": "Homelessness remains one of California’s most pressing issues. with no easy solutions in sight.",
+    "audio_en_storage_path": "2356_homelessness_remains_one_of_californias_most_pressing_issues_with_no_easy_solutions_in_sight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132357",
+    "text_pt": "Acampamentos em tendas em Los Angeles e São Francisco ressaltam a gravidade da crise.",
+    "text_en": "Tent encampments in Los Angeles and San Francisco highlight the severity of the crisis.",
+    "audio_en_storage_path": "2357_tent_encampments_in_los_angeles_and_san_francisco_highlight_the_severity_of_the_crisis.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132358",
+    "text_pt": "Organizações sem fins lucrativos estão fazendo parcerias com governos locais para construir unidades habitacionais acessíveis.",
+    "text_en": "Nonprofits are partnering with local governments to build affordable housing units.",
+    "audio_en_storage_path": "2358_nonprofits_are_partnering_with_local_governments_to_build_affordable_housing_units.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132359",
+    "text_pt": "Medidas de controle de aluguéis aprovadas em diversas cidades visam aliviar a pressão financeira dos inquilinos.",
+    "text_en": "Rent control measures passed in several cities aim to alleviate financial strain on tenants.",
+    "audio_en_storage_path": "2359_rent_control_measures_passed_in_several_cities_aim_to_alleviate_financial_strain_on_tenants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132360",
+    "text_pt": "Os defensores enfatizam a necessidade de programas abrangentes de assistência médica e treinamento profissional.",
+    "text_en": "Advocates emphasize the need for comprehensive healthcare and job training programs.",
+    "audio_en_storage_path": "2360_advocates_emphasize_the_need_for_comprehensive_healthcare_and_job_training_programs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132361",
+    "text_pt": "As taxas de criminalidade variam significativamente em todo o estado, gerando debates sobre estratégias de segurança pública.",
+    "text_en": "Crime rates vary significantly across the state. sparking debates about public safety strategies.",
+    "audio_en_storage_path": "2361_crime_rates_vary_significantly_across_the_state_sparking_debates_about_public_safety_strategies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132362",
+    "text_pt": "O promotor público de São Francisco enfrentou reações negativas por causa de reformas progressistas percebidas como brandas.",
+    "text_en": "San Francisco’s District Attorney faced backlash over progressive reforms perceived as lenient.",
+    "audio_en_storage_path": "2362_san_franciscos_district_attorney_faced_backlash_over_progressive_reforms_perceived_as_lenient.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132363",
+    "text_pt": "As agências de segurança pública estão adotando ferramentas de policiamento preditivo para reduzir crimes violentos.",
+    "text_en": "Law enforcement agencies are adopting predictive policing tools to reduce violent crime.",
+    "audio_en_storage_path": "2363_law_enforcement_agencies_are_adopting_predictive_policing_tools_to_reduce_violent_crime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132364",
+    "text_pt": "Programas de extensão comunitária se concentram na redução da tensão e na resolução de conflitos.",
+    "text_en": "Community outreach programs focus on de-escalation and conflict resolution.",
+    "audio_en_storage_path": "2364_community_outreach_programs_focus_on_deescalation_and_conflict_resolution.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132365",
+    "text_pt": "Os moradores continuam divididos sobre se as abordagens atuais abordam efetivamente as causas raiz.",
+    "text_en": "Residents remain divided over whether current approaches effectively address root causes.",
+    "audio_en_storage_path": "2365_residents_remain_divided_over_whether_current_approaches_effectively_address_root_causes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132366",
+    "text_pt": "A diversidade cultural define a identidade da Califórnia, influenciando tudo, da culinária à arte.",
+    "text_en": "Cultural diversity defines California’s identity. influencing everything from cuisine to art.",
+    "audio_en_storage_path": "2366_cultural_diversity_defines_californias_identity_influencing_everything_from_cuisine_to_art.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132367",
+    "text_pt": "O bairro Koreatown de Los Angeles celebrou sua vibrante herança com festivais gastronômicos e desfiles.",
+    "text_en": "Los Angeles’ Koreatown district celebrated its vibrant heritage with food festivals and parades.",
+    "audio_en_storage_path": "2367_los_angeles_koreatown_district_celebrated_its_vibrant_heritage_with_food_festivals_and_parades.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132368",
+    "text_pt": "O projeto de mural do Chicano Park de San Diego homenageia a história e o ativismo latino.",
+    "text_en": "San Diego’s Chicano Park mural project honors Latino history and activism.",
+    "audio_en_storage_path": "2368_san_diegos_chicano_park_mural_project_honors_latino_history_and_activism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132369",
+    "text_pt": "Locais de música em Berkeley e Oakland exibem talentos emergentes nos gêneros hip-hop e indie.",
+    "text_en": "Music venues in Berkeley and Oakland showcase emerging talent in hip-hop and indie genres.",
+    "audio_en_storage_path": "2369_music_venues_in_berkeley_and_oakland_showcase_emerging_talent_in_hiphop_and_indie_genres.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132370",
+    "text_pt": "Galerias de arte em Palm Springs estão ganhando reconhecimento por suas exposições de vanguarda.",
+    "text_en": "Art galleries in Palm Springs are gaining recognition for their avant-garde exhibitions.",
+    "audio_en_storage_path": "2370_art_galleries_in_palm_springs_are_gaining_recognition_for_their_avantgarde_exhibitions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132371",
+    "text_pt": "Os fãs de esportes na Califórnia têm muito o que comemorar, já que os times locais se destacam em várias ligas.",
+    "text_en": "Sports fans in California have much to celebrate as local teams excel in various leagues.",
+    "audio_en_storage_path": "2371_sports_fans_in_california_have_much_to_celebrate_as_local_teams_excel_in_various_leagues.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132372",
+    "text_pt": "O Los Angeles Dodgers garantiu mais uma vaga nos playoffs, emocionando os fãs de beisebol.",
+    "text_en": "The Los Angeles Dodgers clinched another playoff spot. thrilling baseball enthusiasts.",
+    "audio_en_storage_path": "2372_the_los_angeles_dodgers_clinched_another_playoff_spot_thrilling_baseball_enthusiasts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132373",
+    "text_pt": "A estrela do Golden State Warriors, Stephen Curry, levou seu time à vitória em uma emocionante revanche nas finais da NBA.",
+    "text_en": "Golden State Warriors star Stephen Curry led his team to victory in a nail-biting NBA finals rematch.",
+    "audio_en_storage_path": "2373_golden_state_warriors_star_stephen_curry_led_his_team_to_victory_in_a_nailbiting_nba_finals_rematch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132374",
+    "text_pt": "As rivalidades do futebol universitário esquentam quando a USC enfrenta a UCLA no Crosstown Clash anual.",
+    "text_en": "College football rivalries heat up as USC faces off against UCLA in the annual Crosstown Clash.",
+    "audio_en_storage_path": "2374_college_football_rivalries_heat_up_as_usc_faces_off_against_ucla_in_the_annual_crosstown_clash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132375",
+    "text_pt": "Entusiastas de atividades ao ar livre gostam de surfar, fazer caminhadas e andar de bicicleta nas paisagens pitorescas do estado.",
+    "text_en": "Outdoor enthusiasts enjoy surfing. hiking. and cycling in the state’s picturesque landscapes.",
+    "audio_en_storage_path": "2375_outdoor_enthusiasts_enjoy_surfing_hiking_and_cycling_in_the_states_picturesque_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132376",
+    "text_pt": "Tecnologia e sustentabilidade convergem nos ambiciosos projetos de infraestrutura da Califórnia.",
+    "text_en": "Technology and sustainability converge in California’s ambitious infrastructure projects.",
+    "audio_en_storage_path": "2376_technology_and_sustainability_converge_in_californias_ambitious_infrastructure_projects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132377",
+    "text_pt": "A construção de uma ferrovia de alta velocidade entre Los Angeles e São Francisco avança de forma constante.",
+    "text_en": "High-speed rail construction between Los Angeles and San Francisco progresses steadily.",
+    "audio_en_storage_path": "2377_highspeed_rail_construction_between_los_angeles_and_san_francisco_progresses_steadily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132378",
+    "text_pt": "Fazendas solares no Deserto de Mojave geram energia renovável para milhões de lares.",
+    "text_en": "Solar farms in the Mojave Desert generate renewable energy for millions of households.",
+    "audio_en_storage_path": "2378_solar_farms_in_the_mojave_desert_generate_renewable_energy_for_millions_of_households.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132379",
+    "text_pt": "Estações de reciclagem de água visam combater a escassez agravada por anos de seca.",
+    "text_en": "Water recycling plants aim to combat shortages exacerbated by years of drought.",
+    "audio_en_storage_path": "2379_water_recycling_plants_aim_to_combat_shortages_exacerbated_by_years_of_drought.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132380",
+    "text_pt": "Os planejadores urbanos priorizam espaços verdes para melhorar a qualidade de vida em áreas densamente povoadas.",
+    "text_en": "Urban planners prioritize green spaces to enhance quality of life in densely populated areas.",
+    "audio_en_storage_path": "2380_urban_planners_prioritize_green_spaces_to_enhance_quality_of_life_in_densely_populated_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132381",
+    "text_pt": "À medida que a Califórnia navega em sua complexa mistura de desafios e oportunidades, a resiliência define seu espírito.",
+    "text_en": "As California navigates its complex blend of challenges and opportunities. resilience defines its spirit.",
+    "audio_en_storage_path": "2381_as_california_navigates_its_complex_blend_of_challenges_and_opportunities_resilience_defines_its_spirit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132382",
+    "text_pt": "Sua capacidade de inovar e se adaptar serve de exemplo para estados e nações no mundo todo.",
+    "text_en": "Its ability to innovate and adapt sets an example for states and nations worldwide.",
+    "audio_en_storage_path": "2382_its_ability_to_innovate_and_adapt_sets_an_example_for_states_and_nations_worldwide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132383",
+    "text_pt": "Das florestas de sequoias às praias ensolaradas, a Califórnia representa um potencial ilimitado.",
+    "text_en": "From the redwood forests to the sun-soaked beaches. California embodies boundless potential.",
+    "audio_en_storage_path": "2383_from_the_redwood_forests_to_the_sunsoaked_beaches_california_embodies_boundless_potential.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132384",
+    "text_pt": "Cada canto do Golden State conta uma história de perseverança, criatividade e esperança.",
+    "text_en": "Every corner of the Golden State tells a story of perseverance. creativity. and hope.",
+    "audio_en_storage_path": "2384_every_corner_of_the_golden_state_tells_a_story_of_perseverance_creativity_and_hope.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132385",
+    "text_pt": "O futuro parece promissor, impulsionado pelo compromisso com o progresso e a inclusão.",
+    "text_en": "The future looks promising. driven by a commitment to progress and inclusivity.",
+    "audio_en_storage_path": "2385_the_future_looks_promising_driven_by_a_commitment_to_progress_and_inclusivity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132386",
+    "text_pt": "Resumo de notícias da Califórnia – julho de 2025",
+    "text_en": "California News Summary – July 2025",
+    "audio_en_storage_path": "2386_california_news_summary_july_2025.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132387",
+    "text_pt": "A Califórnia está passando por grandes transformações políticas, ambientais e sociais neste verão.",
+    "text_en": "California is undergoing major political. environmental. and social transformations this summer.",
+    "audio_en_storage_path": "2387_california_is_undergoing_major_political_environmental_and_social_transformations_this_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132388",
+    "text_pt": "O governador Gavin Newsom assinou uma reforma abrangente da Lei de Qualidade Ambiental da Califórnia (CEQA).",
+    "text_en": "Governor Gavin Newsom has signed a sweeping reform of the California Environmental Quality Act (CEQA).",
+    "audio_en_storage_path": "2388_governor_gavin_newsom_has_signed_a_sweeping_reform_of_the_california_environmental_quality_act_ceqa.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132389",
+    "text_pt": "A reforma isenta muitos projetos habitacionais urbanos de longas avaliações ambientais.",
+    "text_en": "The reform exempts many urban housing projects from lengthy environmental reviews.",
+    "audio_en_storage_path": "2389_the_reform_exempts_many_urban_housing_projects_from_lengthy_environmental_reviews.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132390",
+    "text_pt": "Os defensores argumentam que isso ajudará a resolver a profunda crise imobiliária da Califórnia.",
+    "text_en": "Supporters argue this will help solve California’s deep housing crisis.",
+    "audio_en_storage_path": "2390_supporters_argue_this_will_help_solve_californias_deep_housing_crisis.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132391",
+    "text_pt": "Desenvolvedores em todo o estado elogiaram a revogação das restrições do CEQA.",
+    "text_en": "Developers across the state praised the rollback of CEQA restrictions.",
+    "audio_en_storage_path": "2391_developers_across_the_state_praised_the_rollback_of_ceqa_restrictions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132392",
+    "text_pt": "Os críticos temem que isso enfraqueça as proteções ambientais e prejudique comunidades vulneráveis.",
+    "text_en": "Critics fear it will weaken environmental protections and harm vulnerable communities.",
+    "audio_en_storage_path": "2392_critics_fear_it_will_weaken_environmental_protections_and_harm_vulnerable_communities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132393",
+    "text_pt": "Newsom insiste que isso permitirá uma construção mais rápida de moradias populares.",
+    "text_en": "Newsom insists it will allow faster construction of affordable housing.",
+    "audio_en_storage_path": "2393_newsom_insists_it_will_allow_faster_construction_of_affordable_housing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132394",
+    "text_pt": "Os preços médios de casas em cidades como San Jose já ultrapassaram US$ 2 milhões.",
+    "text_en": "Median home prices in cities like San Jose have now surpassed $2 million.",
+    "audio_en_storage_path": "2394_median_home_prices_in_cities_like_san_jose_have_now_surpassed_2_million.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132395",
+    "text_pt": "Os opositores chamaram a reforma de uma abordagem do tipo “queijo suíço” que deixa lacunas.",
+    "text_en": "Opponents have called the reform a “Swiss cheese” approach that leaves gaps.",
+    "audio_en_storage_path": "2395_opponents_have_called_the_reform_a_swiss_cheese_approach_that_leaves_gaps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132396",
+    "text_pt": "Desafios legais podem surgir nos próximos meses.",
+    "text_en": "Legal challenges may emerge in the coming months.",
+    "audio_en_storage_path": "2396_legal_challenges_may_emerge_in_the_coming_months.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132397",
+    "text_pt": "Ao mesmo tempo, a Califórnia enfrenta um calor intenso no verão.",
+    "text_en": "At the same time. California faces intensifying summer heat.",
+    "audio_en_storage_path": "2397_at_the_same_time_california_faces_intensifying_summer_heat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132398",
+    "text_pt": "Meteorologistas preveem um julho mais quente que a média em todo o estado.",
+    "text_en": "Meteorologists predict a hotter-than-average July across the entire state.",
+    "audio_en_storage_path": "2398_meteorologists_predict_a_hotterthanaverage_july_across_the_entire_state.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132399",
+    "text_pt": "Noites excepcionalmente quentes podem representar riscos à saúde pública de idosos.",
+    "text_en": "Unusually warm nights could pose public health risks for elderly residents.",
+    "audio_en_storage_path": "2399_unusually_warm_nights_could_pose_public_health_risks_for_elderly_residents.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132400",
+    "text_pt": "O Serviço Nacional de Meteorologia emitiu alertas de calor em vários condados.",
+    "text_en": "The National Weather Service has issued heat advisories in multiple counties.",
+    "audio_en_storage_path": "2400_the_national_weather_service_has_issued_heat_advisories_in_multiple_counties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132401",
+    "text_pt": "As mudanças climáticas estão aumentando a gravidade e a duração das ondas de calor na Califórnia.",
+    "text_en": "Climate change is increasing the severity and duration of California’s heatwaves.",
+    "audio_en_storage_path": "2401_climate_change_is_increasing_the_severity_and_duration_of_californias_heatwaves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132402",
+    "text_pt": "As condições de seca também estão aumentando os riscos de incêndios florestais nesta temporada.",
+    "text_en": "Dry conditions are also heightening wildfire risks this season.",
+    "audio_en_storage_path": "2402_dry_conditions_are_also_heightening_wildfire_risks_this_season.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132403",
+    "text_pt": "Incêndios florestais já atingiram grandes áreas do sul da Califórnia.",
+    "text_en": "Wildfires have already impacted large areas of Southern California.",
+    "audio_en_storage_path": "2403_wildfires_have_already_impacted_large_areas_of_southern_california.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132404",
+    "text_pt": "Em janeiro de 2025, incêndios destruíram mais de 18.000 estruturas no Condado de Los Angeles.",
+    "text_en": "In January 2025. fires destroyed over 18.000 structures in Los Angeles County.",
+    "audio_en_storage_path": "2404_in_january_2025_fires_destroyed_over_18000_structures_in_los_angeles_county.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132405",
+    "text_pt": "Trinta pessoas perderam a vida nos incêndios de Palisades e Eaton.",
+    "text_en": "Thirty people lost their lives in the Palisades and Eaton Fires.",
+    "audio_en_storage_path": "2405_thirty_people_lost_their_lives_in_the_palisades_and_eaton_fires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132406",
+    "text_pt": "Os incêndios queimaram mais de 58.000 acres de terra.",
+    "text_en": "The fires burned more than 58.000 acres of land.",
+    "audio_en_storage_path": "2406_the_fires_burned_more_than_58000_acres_of_land.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132407",
+    "text_pt": "A fumaça dos incêndios desencadeou alertas sobre a qualidade do ar em todo o estado.",
+    "text_en": "Smoke from the blazes triggered air quality warnings statewide.",
+    "audio_en_storage_path": "2407_smoke_from_the_blazes_triggered_air_quality_warnings_statewide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132408",
+    "text_pt": "As autoridades estão se preparando para mais incêndios florestais em julho e agosto.",
+    "text_en": "Officials are bracing for more wildfires in July and August.",
+    "audio_en_storage_path": "2408_officials_are_bracing_for_more_wildfires_in_july_and_august.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132409",
+    "text_pt": "Os bombeiros estão sobrecarregados devido ao início precoce da temporada de incêndios.",
+    "text_en": "Firefighters are stretched thin due to the early start of fire season.",
+    "audio_en_storage_path": "2409_firefighters_are_stretched_thin_due_to_the_early_start_of_fire_season.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132410",
+    "text_pt": "Um novo relatório descobriu que a capacidade de abrigo foi insuficiente durante os incêndios de janeiro.",
+    "text_en": "A new report found shelter capacity was insufficient during the January fires.",
+    "audio_en_storage_path": "2410_a_new_report_found_shelter_capacity_was_insufficient_during_the_january_fires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132411",
+    "text_pt": "Centros de evacuação ficaram sobrecarregados em vários bairros do sul da Califórnia.",
+    "text_en": "Evacuation centers were overwhelmed in several Southern California neighborhoods.",
+    "audio_en_storage_path": "2411_evacuation_centers_were_overwhelmed_in_several_southern_california_neighborhoods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132412",
+    "text_pt": "Uma recente explosão em um depósito de fogos de artifício no norte da Califórnia causou pânico.",
+    "text_en": "A recent fireworks warehouse explosion in Northern California caused panic.",
+    "audio_en_storage_path": "2412_a_recent_fireworks_warehouse_explosion_in_northern_california_caused_panic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132413",
+    "text_pt": "A explosão ocorreu perto de Esparto e Madison, abalando casas por quilômetros.",
+    "text_en": "The blast occurred near Esparto and Madison. shaking homes for miles.",
+    "audio_en_storage_path": "2413_the_blast_occurred_near_esparto_and_madison_shaking_homes_for_miles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132414",
+    "text_pt": "Incêndios pontuais ocorreram em 80 acres ao redor da instalação.",
+    "text_en": "Spot fires broke out across 80 acres surrounding the facility.",
+    "audio_en_storage_path": "2414_spot_fires_broke_out_across_80_acres_surrounding_the_facility.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132415",
+    "text_pt": "Foram ordenadas evacuações para moradores num raio de 1,6 km.",
+    "text_en": "Evacuations were ordered for residents within a one-mile radius.",
+    "audio_en_storage_path": "2415_evacuations_were_ordered_for_residents_within_a_onemile_radius.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132416",
+    "text_pt": "Não houve feridos e as investigações estão em andamento.",
+    "text_en": "No injuries were reported. and investigations are ongoing.",
+    "audio_en_storage_path": "2416_no_injuries_were_reported_and_investigations_are_ongoing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132417",
+    "text_pt": "Em Los Angeles, protestos eclodiram após batidas federais de imigração.",
+    "text_en": "In Los Angeles. protests erupted following federal immigration raids.",
+    "audio_en_storage_path": "2417_in_los_angeles_protests_erupted_following_federal_immigration_raids.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132418",
+    "text_pt": "As manifestações começaram no início de junho e continuaram até julho.",
+    "text_en": "Demonstrations began in early June and have continued into July.",
+    "audio_en_storage_path": "2418_demonstrations_began_in_early_june_and_have_continued_into_july.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132419",
+    "text_pt": "Mais de 4.000 soldados da Guarda Nacional da Califórnia foram mobilizados para manter a ordem.",
+    "text_en": "More than 4.000 California National Guard troops were deployed to maintain order.",
+    "audio_en_storage_path": "2419_more_than_4000_california_national_guard_troops_were_deployed_to_maintain_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132420",
+    "text_pt": "Manifestantes entraram em confronto com a polícia no centro de Los Angeles e na prefeitura.",
+    "text_en": "Protesters clashed with police in downtown LA and at city hall.",
+    "audio_en_storage_path": "2420_protesters_clashed_with_police_in_downtown_la_and_at_city_hall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132421",
+    "text_pt": "O governador Newsom entrou com uma ação judicial questionando a legalidade das mobilizações federais.",
+    "text_en": "Governor Newsom filed a lawsuit challenging the legality of federal deployments.",
+    "audio_en_storage_path": "2421_governor_newsom_filed_a_lawsuit_challenging_the_legality_of_federal_deployments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132422",
+    "text_pt": "Algumas unidades da Guarda Nacional estão sendo realocadas para responder a incêndios florestais.",
+    "text_en": "Some National Guard units are now being reassigned to wildfire response.",
+    "audio_en_storage_path": "2422_some_national_guard_units_are_now_being_reassigned_to_wildfire_response.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132423",
+    "text_pt": "O Pentágono liberou 150 soldados para ajudar em emergências de incêndio no estado.",
+    "text_en": "The Pentagon released 150 troops to help with fire emergencies in the state.",
+    "audio_en_storage_path": "2423_the_pentagon_released_150_troops_to_help_with_fire_emergencies_in_the_state.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132424",
+    "text_pt": "A Califórnia promulgou mais de uma dúzia de novas leis em 1º de julho.",
+    "text_en": "California enacted over a dozen new laws on July 1.",
+    "audio_en_storage_path": "2424_california_enacted_over_a_dozen_new_laws_on_july_1.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132425",
+    "text_pt": "O salário mínimo agora ultrapassa US$ 16,50 em todo o estado.",
+    "text_en": "Minimum wage now exceeds $16.50 across the state.",
+    "audio_en_storage_path": "2425_minimum_wage_now_exceeds_1650_across_the_state.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132426",
+    "text_pt": "Em cidades como São Francisco e Emeryville, o valor chega a US$ 19 por hora.",
+    "text_en": "In cities like San Francisco and Emeryville. it approaches $19 per hour.",
+    "audio_en_storage_path": "2426_in_cities_like_san_francisco_and_emeryville_it_approaches_19_per_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132427",
+    "text_pt": "Uma nova lei sobre distração ao dirigir proíbe segurar celulares ao dirigir um veículo.",
+    "text_en": "A new distracted driving law bans holding cell phones while operating a vehicle.",
+    "audio_en_storage_path": "2427_a_new_distracted_driving_law_bans_holding_cell_phones_while_operating_a_vehicle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132428",
+    "text_pt": "As empresas de aluguel de curto prazo agora devem incluir todas as taxas no preço inicial.",
+    "text_en": "Short-term rental companies must now include all fees in the initial price.",
+    "audio_en_storage_path": "2428_shortterm_rental_companies_must_now_include_all_fees_in_the_initial_price.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132429",
+    "text_pt": "Os benefícios de fertilização in vitro e fertilidade foram expandidos pelo Projeto de Lei do Senado 729.",
+    "text_en": "IVF and fertility benefits were expanded under Senate Bill 729.",
+    "audio_en_storage_path": "2429_ivf_and_fertility_benefits_were_expanded_under_senate_bill_729.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132430",
+    "text_pt": "Agora, os bares são obrigados a fornecer tampas para bebidas para ajudar a prevenir o consumo de drogas.",
+    "text_en": "Bars are now required to provide lids for drinks to help prevent drugging.",
+    "audio_en_storage_path": "2430_bars_are_now_required_to_provide_lids_for_drinks_to_help_prevent_drugging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132431",
+    "text_pt": "O turismo está crescendo em cidades como Long Beach.",
+    "text_en": "Tourism is booming in cities like Long Beach.",
+    "audio_en_storage_path": "2431_tourism_is_booming_in_cities_like_long_beach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132432",
+    "text_pt": "Em 2023, Long Beach gerou US$ 2 bilhões em receita de visitantes.",
+    "text_en": "In 2023. Long Beach generated $2 billion in visitor revenue.",
+    "audio_en_storage_path": "2432_in_2023_long_beach_generated_2_billion_in_visitor_revenue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132433",
+    "text_pt": "Os históricos Queen Mary e Fairmont Breakers foram reabertos.",
+    "text_en": "The historic Queen Mary and Fairmont Breakers have reopened.",
+    "audio_en_storage_path": "2433_the_historic_queen_mary_and_fairmont_breakers_have_reopened.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132434",
+    "text_pt": "O Aeroporto de Long Beach foi classificado como o segundo melhor dos EUA.",
+    "text_en": "Long Beach Airport was ranked the second-best in the U.S.",
+    "audio_en_storage_path": "2434_long_beach_airport_was_ranked_the_secondbest_in_the_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132435",
+    "text_pt": "A cidade está se preparando para um papel de destaque nas Olimpíadas de 2028.",
+    "text_en": "The city is preparing for a spotlight role in the 2028 Olympics.",
+    "audio_en_storage_path": "2435_the_city_is_preparing_for_a_spotlight_role_in_the_2028_olympics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132436",
+    "text_pt": "A Califórnia continua enfrentando a ameaça do terrorismo doméstico.",
+    "text_en": "California continues to face the threat of domestic terrorism.",
+    "audio_en_storage_path": "2436_california_continues_to_face_the_threat_of_domestic_terrorism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132437",
+    "text_pt": "Um atentado com carro-bomba em maio de 2025 em uma clínica de fertilidade em Palm Springs feriu quatro pessoas.",
+    "text_en": "A May 2025 car bombing at a Palm Springs fertility clinic injured four.",
+    "audio_en_storage_path": "2437_a_may_2025_car_bombing_at_a_palm_springs_fertility_clinic_injured_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132438",
+    "text_pt": "O agressor morreu na explosão, e o FBI classificou o ato como terrorismo doméstico.",
+    "text_en": "The attacker died in the blast. and the FBI labeled it domestic terrorism.",
+    "audio_en_storage_path": "2438_the_attacker_died_in_the_blast_and_the_fbi_labeled_it_domestic_terrorism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132439",
+    "text_pt": "O atentado foi ligado à ideologia extremista anti-fertilização in vitro.",
+    "text_en": "The bombing was linked to anti-IVF extremist ideology.",
+    "audio_en_storage_path": "2439_the_bombing_was_linked_to_antiivf_extremist_ideology.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132440",
+    "text_pt": "Um suspeito morreu sob custódia enquanto aguardava julgamento em junho.",
+    "text_en": "One suspect died in custody while awaiting trial in June.",
+    "audio_en_storage_path": "2440_one_suspect_died_in_custody_while_awaiting_trial_in_june.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132441",
+    "text_pt": "A Califórnia está enfrentando um verão desafiador, moldado por crises e mudanças.",
+    "text_en": "California is navigating a challenging summer shaped by crisis and change.",
+    "audio_en_storage_path": "2441_california_is_navigating_a_challenging_summer_shaped_by_crisis_and_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132442",
+    "text_pt": "Com reformas habitacionais, ameaças ambientais e tensões políticas, o estado continua em fluxo.",
+    "text_en": "With housing reforms. environmental threats. and political tensions. the state remains in flux.",
+    "audio_en_storage_path": "2442_with_housing_reforms_environmental_threats_and_political_tensions_the_state_remains_in_flux.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132443",
+    "text_pt": "Das ruas de Los Angeles às florestas da Sierra Nevada. A Califórnia continua a evoluir.",
+    "text_en": "From the streets of LA to the forests of the Sierras. California continues to evolve.",
+    "audio_en_storage_path": "2443_from_the_streets_of_la_to_the_forests_of_the_sierras_california_continues_to_evolve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132444",
+    "text_pt": "E como sempre, o Golden State dita o ritmo dos debates nacionais sobre clima, moradia e liberdade.",
+    "text_en": "And as always. the Golden State sets the pace for national debates on climate. housing. and freedom.",
+    "audio_en_storage_path": "2444_and_as_always_the_golden_state_sets_the_pace_for_national_debates_on_climate_housing_and_freedom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

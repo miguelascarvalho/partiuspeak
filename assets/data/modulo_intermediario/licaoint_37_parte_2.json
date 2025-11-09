@@ -1,0 +1,569 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121044",
+    "text_pt": "Bom trabalho hoje — mantenha suas coisas organizadas e prontas",
+    "text_en": "Nice job today — keep your stuff neat and ready",
+    "audio_en_storage_path": "1044_nice_job_today_keep_your_stuff_neat_and_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121045",
+    "text_pt": "Falando sobre seus pertences",
+    "text_en": "Talking About Your Belongings",
+    "audio_en_storage_path": "1045_talking_about_your_belongings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121046",
+    "text_pt": "Onde você conseguiu esse lindo anel?",
+    "text_en": "Where did you get this beautiful ring?",
+    "audio_en_storage_path": "1046_where_did_you_get_this_beautiful_ring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121047",
+    "text_pt": "O que você disse — onde você conseguiu esse anel bonito?",
+    "text_en": "Whaddya say — where’d ya score that nice ring?",
+    "audio_en_storage_path": "1047_whaddya_say_whered_ya_score_that_nice_ring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121048",
+    "text_pt": "Eu encontrei meu telefone debaixo do travesseiro mais cedo",
+    "text_en": "I found my phone under the pillow earlier",
+    "audio_en_storage_path": "1048_i_found_my_phone_under_the_pillow_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121049",
+    "text_pt": "Encontrei meu telefone escondido debaixo do travesseiro hoje mais cedo",
+    "text_en": "Found my phone hidden under the pillow earlier today",
+    "audio_en_storage_path": "1049_found_my_phone_hidden_under_the_pillow_earlier_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121050",
+    "text_pt": "Essa é sua mochila nova ou você a pegou emprestada?",
+    "text_en": "Is that your new backpack or just borrowed?",
+    "audio_en_storage_path": "1050_is_that_your_new_backpack_or_just_borrowed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121051",
+    "text_pt": "Esse pacote é novo ou você o pegou emprestado de alguém?",
+    "text_en": "That your fresh pack or you borrowin’ it from someone?",
+    "audio_en_storage_path": "1051_that_your_fresh_pack_or_you_borrowin_it_from_someone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121052",
+    "text_pt": "Deixei minha carteira no restaurante por engano",
+    "text_en": "I left my wallet at the restaurant by mistake",
+    "audio_en_storage_path": "1052_i_left_my_wallet_at_the_restaurant_by_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121053",
+    "text_pt": "Deixei minha carteira no restaurante — esqueci-a lá",
+    "text_en": "Left my wallet behind at the diner — forgot it there",
+    "audio_en_storage_path": "1053_left_my_wallet_behind_at_the_diner_forgot_it_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121054",
+    "text_pt": "Você perdeu suas chaves novamente?",
+    "text_en": "Did you lose your keys again?",
+    "audio_en_storage_path": "1054_did_you_lose_your_keys_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121055",
+    "text_pt": "Perdeu as chaves de novo? De novo, não...",
+    "text_en": "Didja lose your keys again? Not again…",
+    "audio_en_storage_path": "1055_didja_lose_your_keys_again_not_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121056",
+    "text_pt": "Acho que deixei meu brinco cair perto do espelho",
+    "text_en": "I think I dropped my earring near the mirror",
+    "audio_en_storage_path": "1056_i_think_i_dropped_my_earring_near_the_mirror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121057",
+    "text_pt": "Tenho quase certeza de que perdi meu brinco perto do espelho do banheiro",
+    "text_en": "Pretty sure I lost my earring near the bathroom mirror",
+    "audio_en_storage_path": "1057_pretty_sure_i_lost_my_earring_near_the_bathroom_mirror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121058",
+    "text_pt": "Onde devo colocar meus óculos de sol quando entro em ambientes fechados?",
+    "text_en": "Where should I put my sunglasses when I go inside?",
+    "audio_en_storage_path": "1058_where_should_i_put_my_sunglasses_when_i_go_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121059",
+    "text_pt": "Onde devo guardar meus óculos escuros quando entrarmos em casa?",
+    "text_en": "Where should I stash my shades once we step indoors?",
+    "audio_en_storage_path": "1059_where_should_i_stash_my_shades_once_we_step_indoors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121060",
+    "text_pt": "Você pode me emprestar sua caneta por um segundo?",
+    "text_en": "Could I borrow your pen for a second?",
+    "audio_en_storage_path": "1060_could_i_borrow_your_pen_for_a_second.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121061",
+    "text_pt": "Você poderia me emprestar sua caneta rapidinho?",
+    "text_en": "Couldja lend me your pen real quick?",
+    "audio_en_storage_path": "1061_couldja_lend_me_your_pen_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121062",
+    "text_pt": "Comprei esta bolsa online e chegou ontem",
+    "text_en": "I bought this bag online and it arrived yesterday",
+    "audio_en_storage_path": "1062_i_bought_this_bag_online_and_it_arrived_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121063",
+    "text_pt": "Encomendei esta bolsa online e ela chegou ontem",
+    "text_en": "Ordered this bag online and it showed up yesterday",
+    "audio_en_storage_path": "1063_ordered_this_bag_online_and_it_showed_up_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121064",
+    "text_pt": "Eu arrumei tudo, mas esqueci meu carregador",
+    "text_en": "I packed everything but forgot my charger",
+    "audio_en_storage_path": "1064_i_packed_everything_but_forgot_my_charger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121065",
+    "text_pt": "Coloquei tudo, exceto meu cabo de carregamento — esqueci",
+    "text_en": "Threw in everything except my charging cable — forgot it",
+    "audio_en_storage_path": "1065_threw_in_everything_except_my_charging_cable_forgot_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121066",
+    "text_pt": "Deixe-me verificar minha bolsa para ver se eu tenho",
+    "text_en": "Let me check my bag to see if I have it",
+    "audio_en_storage_path": "1066_let_me_check_my_bag_to_see_if_i_have_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121067",
+    "text_pt": "Deixe-me dar uma olhada rápida na minha bolsa para ver se entendi",
+    "text_en": "Let me peek in my bag real quick to see if I got it",
+    "audio_en_storage_path": "1067_let_me_peek_in_my_bag_real_quick_to_see_if_i_got_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121068",
+    "text_pt": "Você se importa se eu pegar emprestado seus fones de ouvido?",
+    "text_en": "Do you mind if I borrow your headphones?",
+    "audio_en_storage_path": "1068_do_you_mind_if_i_borrow_your_headphones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121069",
+    "text_pt": "Você se importa se eu pegar emprestados esses fones de ouvido por um tempo?",
+    "text_en": "Mind if I borrow those earbuds for a bit?",
+    "audio_en_storage_path": "1069_mind_if_i_borrow_those_earbuds_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121070",
+    "text_pt": "Deixei meu colar no carro esta manhã",
+    "text_en": "I left my necklace in the car this morning",
+    "audio_en_storage_path": "1070_i_left_my_necklace_in_the_car_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121071",
+    "text_pt": "O colar ficou no carro quando cheguei esta manhã",
+    "text_en": "Necklace stayed in the car when I walked in this morning",
+    "audio_en_storage_path": "1071_necklace_stayed_in_the_car_when_i_walked_in_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121072",
+    "text_pt": "Você poderia me ajudar a encontrar minha outra luva?",
+    "text_en": "Could you help me find my other glove?",
+    "audio_en_storage_path": "1072_could_you_help_me_find_my_other_glove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121073",
+    "text_pt": "Você poderia me ajudar a encontrar a segunda luva? Não consigo encontrar.",
+    "text_en": "Couldja help me find the second glove? Can’t find it",
+    "audio_en_storage_path": "1073_couldja_help_me_find_the_second_glove_cant_find_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121074",
+    "text_pt": "Obrigado por me ajudar a encontrar minhas coisas",
+    "text_en": "Thanks for helping me find my stuff",
+    "audio_en_storage_path": "1074_thanks_for_helping_me_find_my_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121075",
+    "text_pt": "Agradeço a ajuda para encontrar minhas coisas — muito obrigado",
+    "text_en": "Appreciate the help finding my things — thanks a lot",
+    "audio_en_storage_path": "1075_appreciate_the_help_finding_my_things_thanks_a_lot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121076",
+    "text_pt": "Cuidando das suas coisas",
+    "text_en": "Taking Care of Your Things",
+    "audio_en_storage_path": "1076_taking_care_of_your_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121077",
+    "text_pt": "Não se esqueça de carregar seu telefone esta noite",
+    "text_en": "Don’t forget to charge your phone tonight",
+    "audio_en_storage_path": "1077_dont_forget_to_charge_your_phone_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121078",
+    "text_pt": "Certifique-se de conectar seu telefone antes de dormir",
+    "text_en": "Make sure to plug in your phone before sleepin’",
+    "audio_en_storage_path": "1078_make_sure_to_plug_in_your_phone_before_sleepin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121079",
+    "text_pt": "Mantenha sempre sua carteira em um lugar seguro",
+    "text_en": "Always keep your wallet in a safe place",
+    "audio_en_storage_path": "1079_always_keep_your_wallet_in_a_safe_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121080",
+    "text_pt": "Mantenha sua carteira em algum lugar seguro — não a perca",
+    "text_en": "Keep that wallet somewhere secure — don’t lose it",
+    "audio_en_storage_path": "1080_keep_that_wallet_somewhere_secure_dont_lose_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121081",
+    "text_pt": "Se você deixar sua mochila aqui, alguém pode levá-la.",
+    "text_en": "If you leave your backpack here. someone might take it",
+    "audio_en_storage_path": "1081_if_you_leave_your_backpack_here_someone_might_take_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121082",
+    "text_pt": "Deixe essa bolsa aqui e alguém pode levá-la embora",
+    "text_en": "Leave that bag here and someone might walk off with it",
+    "audio_en_storage_path": "1082_leave_that_bag_here_and_someone_might_walk_off_with_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121083",
+    "text_pt": "Certifique-se de que seus fones de ouvido estejam desligados quando não estiverem em uso",
+    "text_en": "Make sure your headphones are turned off when not using",
+    "audio_en_storage_path": "1083_make_sure_your_headphones_are_turned_off_when_not_using.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121084",
+    "text_pt": "Desligue os fones de ouvido quando terminar — economiza bateria",
+    "text_en": "Turn off the earbuds when you’re done — saves battery",
+    "audio_en_storage_path": "1084_turn_off_the_earbuds_when_youre_done_saves_battery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121085",
+    "text_pt": "Não jogue seu relógio na mesa — ele pode quebrar",
+    "text_en": "Don’t throw your watch on the table — it might break",
+    "audio_en_storage_path": "1085_dont_throw_your_watch_on_the_table_it_might_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121086",
+    "text_pt": "Não jogue seu relógio fora — ele pode rachar ou arranhar",
+    "text_en": "Don’t toss your watch around — could crack or scratch it",
+    "audio_en_storage_path": "1086_dont_toss_your_watch_around_could_crack_or_scratch_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121087",
+    "text_pt": "Mantenha suas joias na caixa para que não se percam",
+    "text_en": "Keep your jewelry in the box so it doesn’t get lost",
+    "audio_en_storage_path": "1087_keep_your_jewelry_in_the_box_so_it_doesnt_get_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121088",
+    "text_pt": "Coloque seu bling no estojo para que nada desapareça",
+    "text_en": "Put your bling in the case so nothing disappears",
+    "audio_en_storage_path": "1088_put_your_bling_in_the_case_so_nothing_disappears.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121089",
+    "text_pt": "Verifique seus bolsos antes de jogar as roupas na máquina de lavar",
+    "text_en": "Check your pockets before throwing clothes in the washer",
+    "audio_en_storage_path": "1089_check_your_pockets_before_throwing_clothes_in_the_washer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121090",
+    "text_pt": "Esvazie suas calças antes de jogá-las na máquina",
+    "text_en": "Empty your pants before tossing ‘em into the machine",
+    "audio_en_storage_path": "1090_empty_your_pants_before_tossing_em_into_the_machine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121091",
+    "text_pt": "Não deixe seus óculos de sol expostos à luz solar direta",
+    "text_en": "Don’t leave your sunglasses in direct sunlight",
+    "audio_en_storage_path": "1091_dont_leave_your_sunglasses_in_direct_sunlight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121092",
+    "text_pt": "Não deixe seus óculos de sol assarem no sol — eles podem derreter",
+    "text_en": "Don’t let your shades bake in the sun — might melt",
+    "audio_en_storage_path": "1092_dont_let_your_shades_bake_in_the_sun_might_melt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121093",
+    "text_pt": "Guarde seu telefone em um local seco quando chover",
+    "text_en": "Store your phone in a dry place when it rains",
+    "audio_en_storage_path": "1093_store_your_phone_in_a_dry_place_when_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121094",
+    "text_pt": "Quando estiver chovendo lá fora, mantenha seu telefone seco e seguro",
+    "text_en": "When it’s wet outside. keep your phone dry and safe",
+    "audio_en_storage_path": "1094_when_its_wet_outside_keep_your_phone_dry_and_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121095",
+    "text_pt": "Não se esqueça de desligar o aplicativo da lanterna",
+    "text_en": "Don’t forget to turn off your flashlight app",
+    "audio_en_storage_path": "1095_dont_forget_to_turn_off_your_flashlight_app.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121096",
+    "text_pt": "Não deixe a lanterna ligada — ela consome a bateria rapidamente",
+    "text_en": "Don’t leave the flashlight on — eats up the battery fast",
+    "audio_en_storage_path": "1096_dont_leave_the_flashlight_on_eats_up_the_battery_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121097",
+    "text_pt": "Se você deixar cair seus fones de ouvido, pegue-os imediatamente",
+    "text_en": "If you drop your earbuds. pick them up right away",
+    "audio_en_storage_path": "1097_if_you_drop_your_earbuds_pick_them_up_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121098",
+    "text_pt": "Se eles caírem, agarre-os rápido — não quero perdê-los",
+    "text_en": "If they fall. grab ‘em quick — don’t wanna lose ‘em",
+    "audio_en_storage_path": "1098_if_they_fall_grab_em_quick_dont_wanna_lose_em.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121099",
+    "text_pt": "Certifique-se de que o zíper da sua mochila esteja bem fechado",
+    "text_en": "Make sure your backpack zipper is closed tight",
+    "audio_en_storage_path": "1099_make_sure_your_backpack_zipper_is_closed_tight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121100",
+    "text_pt": "Feche bem a bolsa — não deixe nada cair",
+    "text_en": "Zip up your bag all the way — don’t want stuff falling out",
+    "audio_en_storage_path": "1100_zip_up_your_bag_all_the_way_dont_want_stuff_falling_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121101",
+    "text_pt": "Mantenha seu cinto limpo e ele durará mais",
+    "text_en": "Keep your belt clean and it’ll last longer",
+    "audio_en_storage_path": "1101_keep_your_belt_clean_and_itll_last_longer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121102",
+    "text_pt": "Limpe seu cinto de vez em quando — faça-o durar",
+    "text_en": "Wipe off your belt now and then — makes it last",
+    "audio_en_storage_path": "1102_wipe_off_your_belt_now_and_then_makes_it_last.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121103",
+    "text_pt": "Não fique sentado em cima do seu telefone — a tela pode rachar",
+    "text_en": "Don’t sit on your phone — it might crack the screen",
+    "audio_en_storage_path": "1103_dont_sit_on_your_phone_it_might_crack_the_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121104",
+    "text_pt": "Não deixe o telefone cair sobre a mesa — a tela pode quebrar",
+    "text_en": "Don’t plop down on your phone — screen might break",
+    "audio_en_storage_path": "1104_dont_plop_down_on_your_phone_screen_might_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121105",
+    "text_pt": "Tome cuidado e mantenha suas coisas seguras",
+    "text_en": "Take care and keep your things safe",
+    "audio_en_storage_path": "1105_take_care_and_keep_your_things_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121106",
+    "text_pt": "Mantenha-se atento e certifique-se de que suas coisas permaneçam com você",
+    "text_en": "Stay sharp and make sure your stuff stays with you",
+    "audio_en_storage_path": "1106_stay_sharp_and_make_sure_your_stuff_stays_with_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

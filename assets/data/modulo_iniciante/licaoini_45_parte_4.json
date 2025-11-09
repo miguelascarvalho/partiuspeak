@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102703",
+    "text_pt": "Medicina / Remédios",
+    "text_en": "Medicine / Remedies",
+    "audio_en_storage_path": "1803_medicine_remedies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102704",
+    "text_pt": "O remédio está no armário.",
+    "text_en": "The medicine is in the cabinet.",
+    "audio_en_storage_path": "1804_the_medicine_is_in_the_cabinet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102705",
+    "text_pt": "Analgésico. xarope para tosse e comprimidos para alergia.",
+    "text_en": "Painkiller. cough syrup. and allergy tablets.",
+    "audio_en_storage_path": "1805_painkiller_cough_syrup_and_allergy_tablets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102706",
+    "text_pt": "Eu os uso quando me sinto doente ou com dor.",
+    "text_en": "I use them when I feel sick or in pain.",
+    "audio_en_storage_path": "1806_i_use_them_when_i_feel_sick_or_in_pain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102707",
+    "text_pt": "Ou quando não consigo dormir à noite.",
+    "text_en": "Or when I can't sleep at night.",
+    "audio_en_storage_path": "1807_or_when_i_cant_sleep_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102708",
+    "text_pt": "Os comprimidos são brancos e pequenos.",
+    "text_en": "The pills are white and small.",
+    "audio_en_storage_path": "1808_the_pills_are_white_and_small.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102709",
+    "text_pt": "Alguns vêm em garrafas. outros em caixas.",
+    "text_en": "Some come in bottles. others in boxes.",
+    "audio_en_storage_path": "1809_some_come_in_bottles_others_in_boxes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102710",
+    "text_pt": "Há instruções. colheres e água por perto.",
+    "text_en": "There are instructions. spoons. and water nearby.",
+    "audio_en_storage_path": "1810_there_are_instructions_spoons_and_water_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102711",
+    "text_pt": "E um bilhete dizendo Tome um a cada 8 horas.",
+    "text_en": "And a note saying. Take one every 8 hours.",
+    "audio_en_storage_path": "1811_and_a_note_saying_take_one_every_8_hours.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102712",
+    "text_pt": "Que tipo de medicamento você precisa?",
+    "text_en": "What kind of medicine do you need?",
+    "audio_en_storage_path": "1812_what_kind_of_medicine_do_you_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102713",
+    "text_pt": "Para febre — sinto calor e fraqueza.",
+    "text_en": "For fever — I feel hot and weak.",
+    "audio_en_storage_path": "1813_for_fever_i_feel_hot_and_weak.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102714",
+    "text_pt": "Onde você guarda suas vitaminas?",
+    "text_en": "Where do you keep your vitamins?",
+    "audio_en_storage_path": "1814_where_do_you_keep_your_vitamins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102715",
+    "text_pt": "Na geladeira — dizem que dura mais.",
+    "text_en": "In the fridge — they say it lasts longer.",
+    "audio_en_storage_path": "1815_in_the_fridge_they_say_it_lasts_longer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102716",
+    "text_pt": "Às vezes leio os rótulos com atenção.",
+    "text_en": "Sometimes I read labels carefully.",
+    "audio_en_storage_path": "1816_sometimes_i_read_labels_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102717",
+    "text_pt": "Outras vezes eu simplesmente confio no pacote.",
+    "text_en": "Other times I just trust the package.",
+    "audio_en_storage_path": "1817_other_times_i_just_trust_the_package.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102718",
+    "text_pt": "Onde você deixou seu xarope para tosse?",
+    "text_en": "Where did you leave your cough syrup?",
+    "audio_en_storage_path": "1818_where_did_you_leave_your_cough_syrup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102719",
+    "text_pt": "No balcão — quase vazio agora.",
+    "text_en": "On the counter — almost empty now.",
+    "audio_en_storage_path": "1819_on_the_counter_almost_empty_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102720",
+    "text_pt": "Quando você comprará mais?",
+    "text_en": "When will you buy more?",
+    "audio_en_storage_path": "1820_when_will_you_buy_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102721",
+    "text_pt": "Mais tarde hoje — a farmácia estará aberta o dia todo.",
+    "text_en": "Later today — pharmacy is open all day.",
+    "audio_en_storage_path": "1821_later_today_pharmacy_is_open_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102722",
+    "text_pt": "Por que você tomou o remédio cedo?",
+    "text_en": "Why did you take medicine early?",
+    "audio_en_storage_path": "1822_why_did_you_take_medicine_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102723",
+    "text_pt": "Porque a dor começou à meia-noite.",
+    "text_en": "Because the pain started at midnight.",
+    "audio_en_storage_path": "1823_because_the_pain_started_at_midnight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102724",
+    "text_pt": "Ela verifica as datas de validade antes de tomar qualquer coisa.",
+    "text_en": "She checks expiration dates before taking anything.",
+    "audio_en_storage_path": "1824_she_checks_expiration_dates_before_taking_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102725",
+    "text_pt": "Não quer medicamentos velhos ou vencidos.",
+    "text_en": "Doesn’t want old or expired drugs.",
+    "audio_en_storage_path": "1825_doesnt_want_old_or_expired_drugs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102726",
+    "text_pt": "Amanhã não vou esquecer de jogar fora os remédios velhos novamente.",
+    "text_en": "Tomorrow. I will not forget to throw away old meds again.",
+    "audio_en_storage_path": "1826_tomorrow_i_will_not_forget_to_throw_away_old_meds_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102727",
+    "text_pt": "Encontrei alguns do ano passado — não são mais seguros.",
+    "text_en": "Found some from last year — not safe anymore.",
+    "audio_en_storage_path": "1827_found_some_from_last_year_not_safe_anymore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102728",
+    "text_pt": "Leia o rótulo!",
+    "text_en": "Read the label!",
+    "audio_en_storage_path": "1828_read_the_label.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102729",
+    "text_pt": "Saiba o que você está tomando e por quê.",
+    "text_en": "Know what you're taking and why.",
+    "audio_en_storage_path": "1829_know_what_youre_taking_and_why.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

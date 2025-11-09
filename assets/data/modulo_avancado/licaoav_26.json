@@ -1,0 +1,407 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132718",
+    "text_pt": "A Região Sul do Brasil é uma das áreas mais desenvolvidas e culturalmente ricas do país.",
+    "text_en": "The South Region of Brazil is one of the most developed and culturally rich areas in the country.",
+    "audio_en_storage_path": "096_the_south_region_of_brazil_is_one_of_the_most_developed_and_culturally_rich_areas_in_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132719",
+    "text_pt": "Inclui três estados: Paraná. Santa Catarina. e Rio Grande do Sul.",
+    "text_en": "It includes three states: Paraná. Santa Catarina. and Rio Grande do Sul.",
+    "audio_en_storage_path": "097_it_includes_three_states_parana_santa_catarina_and_rio_grande_do_sul.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132720",
+    "text_pt": "Esta região é conhecida por sua forte influência europeia, especialmente de alemães, italianos e imigrantes poloneses.",
+    "text_en": "This region is known for its strong European influence. especially from Germans. Italians. and Polish immigrants.",
+    "audio_en_storage_path": "098_this_region_is_known_for_its_strong_european_influence_especially_from_germans_italians_and_polish_immigrants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132721",
+    "text_pt": "Curitiba é a capital do Paraná e famosa por seu planejamento urbano e espaços verdes.",
+    "text_en": "Curitiba is the capital of Paraná and famous for its urban planning and green spaces.",
+    "audio_en_storage_path": "099_curitiba_is_the_capital_of_parana_and_famous_for_its_urban_planning_and_green_spaces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132722",
+    "text_pt": "Florianópolis, capital de Santa Catarina, está localizada em uma ilha e é conhecida por suas praias e setor de tecnologia.",
+    "text_en": "Florianópolis. the capital of Santa Catarina. is located on an island and is known for its beaches and technology sector.",
+    "audio_en_storage_path": "100_florianopolis_the_capital_of_santa_catarina_is_located_on_an_island_and_is_known_for_its_beaches_and_technology_sector.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132723",
+    "text_pt": "Porto Alegre, no Rio Grande do Sul, é um centro cultural e econômico no sul do Brasil.",
+    "text_en": "Porto Alegre. in Rio Grande do Sul. is a cultural and economic center in southern Brazil.",
+    "audio_en_storage_path": "101_porto_alegre_in_rio_grande_do_sul_is_a_cultural_and_economic_center_in_southern_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132724",
+    "text_pt": "O Sul tem um clima temperado com estações bem definidas, incluindo invernos frios.",
+    "text_en": "The South has a temperate climate with well-defined seasons. including cold winters.",
+    "audio_en_storage_path": "102_the_south_has_a_temperate_climate_with_welldefined_seasons_including_cold_winters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132725",
+    "text_pt": "A agricultura desempenha um papel importante na economia regional, especialmente soja, milho e tabaco.",
+    "text_en": "Agriculture plays a major role in the regional economy. especially soybeans. corn. and tobacco.",
+    "audio_en_storage_path": "103_agriculture_plays_a_major_role_in_the_regional_economy_especially_soybeans_corn_and_tobacco.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132726",
+    "text_pt": "A região também abriga indústrias importantes como a automotiva, de processamento de alimentos e têxtil.",
+    "text_en": "The region is also home to important industries like automotive. food processing. and textiles.",
+    "audio_en_storage_path": "104_the_region_is_also_home_to_important_industries_like_automotive_food_processing_and_textiles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132727",
+    "text_pt": "As tradições alemãs e italianas ainda estão muito presentes nos festivais, na comida e na arquitetura.",
+    "text_en": "German and Italian traditions are still very present in festivals. food. and architecture.",
+    "audio_en_storage_path": "105_german_and_italian_traditions_are_still_very_present_in_festivals_food_and_architecture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132728",
+    "text_pt": "A Festa Junina é muito comemorada no Sul, principalmente nas áreas rurais.",
+    "text_en": "Festa Junina is widely celebrated in the South. especially in rural areas.",
+    "audio_en_storage_path": "106_festa_junina_is_widely_celebrated_in_the_south_especially_in_rural_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132729",
+    "text_pt": "A culinária italiana é popular em muitas cidades, com pratos como polenta, risoto e massas artesanais.",
+    "text_en": "Italian cuisine is popular in many cities. with dishes like polenta. risotto. and handmade pasta.",
+    "audio_en_storage_path": "107_italian_cuisine_is_popular_in_many_cities_with_dishes_like_polenta_risotto_and_handmade_pasta.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132730",
+    "text_pt": "A colônia alemã de Pomerode, Santa Catarina, é conhecida por ser uma das cidades mais tradicionais do Brasil.",
+    "text_en": "The German colony in Pomerode. Santa Catarina. is known for being one of the most traditional towns in Brazil.",
+    "audio_en_storage_path": "108_the_german_colony_in_pomerode_santa_catarina_is_known_for_being_one_of_the_most_traditional_towns_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132731",
+    "text_pt": "A cultura gaúcha é mais forte no Rio Grande do Sul, com tradições ligadas à pecuária e aos rodeios.",
+    "text_en": "The Gaucho culture is strongest in Rio Grande do Sul. with traditions linked to cattle herding and rodeos.",
+    "audio_en_storage_path": "109_the_gaucho_culture_is_strongest_in_rio_grande_do_sul_with_traditions_linked_to_cattle_herding_and_rodeos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132732",
+    "text_pt": "O churrasco é um prato típico do Sul e é apreciado tanto por moradores quanto por turistas.",
+    "text_en": "Churrasco (Brazilian barbecue) is a typical dish in the South and is loved by locals and tourists alike.",
+    "audio_en_storage_path": "110_churrasco_brazilian_barbecue_is_a_typical_dish_in_the_south_and_is_loved_by_locals_and_tourists_alike.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132733",
+    "text_pt": "As atrações naturais incluem o Parque Nacional do Superagui, as dunas de Florianópolis e os pampas do sul.",
+    "text_en": "Natural attractions include the National Park of Superagui. the dunes of Florianópolis. and the pampas of the south.",
+    "audio_en_storage_path": "111_natural_attractions_include_the_national_park_of_superagui_the_dunes_of_florianopolis_and_the_pampas_of_the_south.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132734",
+    "text_pt": "A região da Serra Gaúcha é conhecida pela produção de vinhos e belas paisagens.",
+    "text_en": "The Serra Gaúcha region is known for its wine production and beautiful landscapes.",
+    "audio_en_storage_path": "112_the_serra_gaucha_region_is_known_for_its_wine_production_and_beautiful_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132735",
+    "text_pt": "Gramado e Canela, no Rio Grande do Sul, são famosas por suas luzes de Natal e charme alpino.",
+    "text_en": "Gramado and Canela. in Rio Grande do Sul. are famous for their Christmas lights and alpine charm.",
+    "audio_en_storage_path": "113_gramado_and_canela_in_rio_grande_do_sul_are_famous_for_their_christmas_lights_and_alpine_charm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132736",
+    "text_pt": "A região conta com sistemas educacionais e de saúde de alta qualidade.",
+    "text_en": "The region has high-quality education and healthcare systems.",
+    "audio_en_storage_path": "114_the_region_has_highquality_education_and_healthcare_systems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132737",
+    "text_pt": "Muitas pessoas do Sul têm ascendência europeia, o que influencia a língua, os costumes e até a aparência física.",
+    "text_en": "Many people from the South have European ancestry. which influences language. customs. and even physical appearance.",
+    "audio_en_storage_path": "115_many_people_from_the_south_have_european_ancestry_which_influences_language_customs_and_even_physical_appearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132738",
+    "text_pt": "Inglês e espanhol são frequentemente ensinados nas escolas devido à proximidade com a Argentina e o Uruguai.",
+    "text_en": "English and Spanish are often taught in schools due to the proximity to Argentina and Uruguay.",
+    "audio_en_storage_path": "116_english_and_spanish_are_often_taught_in_schools_due_to_the_proximity_to_argentina_and_uruguay.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132739",
+    "text_pt": "O Sul tem uma forte presença de universidades e instituições de pesquisa.",
+    "text_en": "The South has a strong presence of universities and research institutions.",
+    "audio_en_storage_path": "117_the_south_has_a_strong_presence_of_universities_and_research_institutions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132740",
+    "text_pt": "A densidade populacional é moderada, com grandes cidades e áreas rurais tranquilas.",
+    "text_en": "The population density is moderate. with both large cities and quiet rural areas.",
+    "audio_en_storage_path": "118_the_population_density_is_moderate_with_both_large_cities_and_quiet_rural_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132741",
+    "text_pt": "Ônibus e rodovias conectam as principais cidades de forma eficiente.",
+    "text_en": "Buses and highways connect the main cities efficiently.",
+    "audio_en_storage_path": "119_buses_and_highways_connect_the_main_cities_efficiently.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132742",
+    "text_pt": "O turismo está crescendo graças às belezas naturais, à gastronomia e aos eventos culturais.",
+    "text_en": "Tourism is growing thanks to natural beauty. gastronomy. and cultural events.",
+    "audio_en_storage_path": "120_tourism_is_growing_thanks_to_natural_beauty_gastronomy_and_cultural_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132743",
+    "text_pt": "A música da região inclui estilos folclóricos como a música caipira e danças regionais como a dança dos colonos.",
+    "text_en": "The region's music includes folk styles like música caipira and regional dances like dança dos colonos.",
+    "audio_en_storage_path": "121_the_regions_music_includes_folk_styles_like_musica_caipira_and_regional_dances_like_danca_dos_colonos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132744",
+    "text_pt": "Trajes tradicionais podem ser vistos durante festivais, especialmente no Rio Grande do Sul.",
+    "text_en": "Traditional clothing can be seen during festivals. especially in Rio Grande do Sul.",
+    "audio_en_storage_path": "122_traditional_clothing_can_be_seen_during_festivals_especially_in_rio_grande_do_sul.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132745",
+    "text_pt": "O Sul produz alguns dos melhores vinhos do Brasil, especialmente em Bento Gonçalves.",
+    "text_en": "The South produces some of the best wines in Brazil. especially in Bento Gonçalves.",
+    "audio_en_storage_path": "123_the_south_produces_some_of_the_best_wines_in_brazil_especially_in_bento_goncalves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132746",
+    "text_pt": "O artesanato local reflete a herança europeia da região.",
+    "text_en": "Local handicrafts reflect the region’s European heritage.",
+    "audio_en_storage_path": "124_local_handicrafts_reflect_the_regions_european_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132747",
+    "text_pt": "A Mata Atlântica cobre parte da região, oferecendo reservas ecológicas e biodiversidade.",
+    "text_en": "The Atlantic Forest covers part of the region. offering ecological reserves and biodiversity.",
+    "audio_en_storage_path": "125_the_atlantic_forest_covers_part_of_the_region_offering_ecological_reserves_and_biodiversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132748",
+    "text_pt": "A região experimenta nevascas ocasionais em áreas de maior altitude. especialmente em Urupema e São Joaquim.",
+    "text_en": "The region experiences occasional snowfall in higher altitude areas. especially in Urupema and São Joaquim.",
+    "audio_en_storage_path": "126_the_region_experiences_occasional_snowfall_in_higher_altitude_areas_especially_in_urupema_and_sao_joaquim.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132749",
+    "text_pt": "Paranaguá, no Paraná, é uma importante cidade portuária e porta de entrada para o oceano.",
+    "text_en": "Paranaguá. in Paraná. is an important port city and gateway to the ocean.",
+    "audio_en_storage_path": "127_paranagua_in_parana_is_an_important_port_city_and_gateway_to_the_ocean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132750",
+    "text_pt": "A região é conhecida por sua segurança em comparação a outras partes do Brasil.",
+    "text_en": "The region is known for its safety compared to other parts of Brazil.",
+    "audio_en_storage_path": "128_the_region_is_known_for_its_safety_compared_to_other_parts_of_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132751",
+    "text_pt": "A qualidade de vida no Sul está entre as mais altas do país.",
+    "text_en": "The quality of life in the South is among the highest in the country.",
+    "audio_en_storage_path": "129_the_quality_of_life_in_the_south_is_among_the_highest_in_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132752",
+    "text_pt": "Há uma forte tradição no futebol, com clubes populares como Grêmio e Internacional.",
+    "text_en": "There is a strong tradition of football. with popular clubs like Grêmio and Internacional.",
+    "audio_en_storage_path": "130_there_is_a_strong_tradition_of_football_with_popular_clubs_like_gremio_and_internacional.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132753",
+    "text_pt": "A culinária também reflete influências indígenas, especialmente o uso da mandioca e da erva-mate.",
+    "text_en": "The cuisine also reflects indigenous influences. especially the use of cassava and yerba mate.",
+    "audio_en_storage_path": "131_the_cuisine_also_reflects_indigenous_influences_especially_the_use_of_cassava_and_yerba_mate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132754",
+    "text_pt": "O chá mate é um hábito diário de muitas pessoas na região.",
+    "text_en": "Mate tea is a daily habit for many people in the region.",
+    "audio_en_storage_path": "132_mate_tea_is_a_daily_habit_for_many_people_in_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132755",
+    "text_pt": "O Sul faz fronteira com a Argentina e o Uruguai, facilitando o comércio internacional e o turismo.",
+    "text_en": "The South shares borders with Argentina and Uruguay. facilitating international trade and tourism.",
+    "audio_en_storage_path": "133_the_south_shares_borders_with_argentina_and_uruguay_facilitating_international_trade_and_tourism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132756",
+    "text_pt": "A região preservou muitas florestas nativas e áreas naturais protegidas.",
+    "text_en": "The region has preserved many native forests and protected natural areas.",
+    "audio_en_storage_path": "134_the_region_has_preserved_many_native_forests_and_protected_natural_areas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132757",
+    "text_pt": "O turismo sustentável é incentivado por meio de ecoparques e programas de educação ambiental.",
+    "text_en": "Sustainable tourism is encouraged through eco-parks and environmental education programs.",
+    "audio_en_storage_path": "135_sustainable_tourism_is_encouraged_through_ecoparks_and_environmental_education_programs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132758",
+    "text_pt": "O Sul é um destino que combina natureza, história, modernidade e hospitalidade calorosa.",
+    "text_en": "The South is a destination that combines nature. history. modernity. and warm hospitality.",
+    "audio_en_storage_path": "136_the_south_is_a_destination_that_combines_nature_history_modernity_and_warm_hospitality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132759",
+    "text_pt": "Visitar o Sul do Brasil significa descobrir uma mistura única de culturas e paisagens.",
+    "text_en": "Visiting the South of Brazil means discovering a unique blend of cultures and landscapes.",
+    "audio_en_storage_path": "137_visiting_the_south_of_brazil_means_discovering_a_unique_blend_of_cultures_and_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132760",
+    "text_pt": "A região oferece turismo de aventura, passeios culturais e escapadas relaxantes.",
+    "text_en": "The region offers adventure tourism. cultural tours. and relaxing getaways.",
+    "audio_en_storage_path": "138_the_region_offers_adventure_tourism_cultural_tours_and_relaxing_getaways.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132761",
+    "text_pt": "O Sul do Brasil é um lugar onde a Europa encontra o Brasil em harmonia, criando um estilo de vida especial.",
+    "text_en": "The South of Brazil is a place where Europe meets Brazil in harmony. creating a special way of life.",
+    "audio_en_storage_path": "139_the_south_of_brazil_is_a_place_where_europe_meets_brazil_in_harmony_creating_a_special_way_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132762",
+    "text_pt": "Explorar esta região é vivenciar tradição, inovação e beleza natural ao mesmo tempo.",
+    "text_en": "Exploring this region is experiencing tradition. innovation. and natural beauty all together.",
+    "audio_en_storage_path": "140_exploring_this_region_is_experiencing_tradition_innovation_and_natural_beauty_all_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

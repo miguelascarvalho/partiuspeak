@@ -1,0 +1,362 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100024",
+    "text_pt": "A tigela está sobre a mesa.",
+    "text_en": "The bowl is on the table.",
+    "audio_en_storage_path": "025_the_bowl_is_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100025",
+    "text_pt": "Nós o usamos para comer cereal ou sopa.",
+    "text_en": "We use it to eat cereal or soup.",
+    "audio_en_storage_path": "026_we_use_it_to_eat_cereal_or_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100026",
+    "text_pt": "É redondo e azul com estrelas amarelas.",
+    "text_en": "It is round and blue with yellow stars.",
+    "audio_en_storage_path": "027_it_is_round_and_blue_with_yellow_stars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100027",
+    "text_pt": "Há cereal e leite na tigela.",
+    "text_en": "There is cereal and milk in the bowl.",
+    "audio_en_storage_path": "028_there_is_cereal_and_milk_in_the_bowl.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100028",
+    "text_pt": "Tem mais cereal?",
+    "text_en": "Is there more cereal?",
+    "audio_en_storage_path": "029_is_there_more_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100029",
+    "text_pt": "Sim, há mais uma caixa.",
+    "text_en": "Yes, there is one more box.",
+    "audio_en_storage_path": "030_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100030",
+    "text_pt": "Não, precisamos ir às compras logo.",
+    "text_en": "No, we need to go shopping soon.",
+    "audio_en_storage_path": "031_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100031",
+    "text_pt": "Onde está a colher?",
+    "text_en": "Where is the spoon?",
+    "audio_en_storage_path": "032_where_is_the_spoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100032",
+    "text_pt": "A colher está na tigela.",
+    "text_en": "The spoon is in the bowl.",
+    "audio_en_storage_path": "033_the_spoon_is_in_the_bowl.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100033",
+    "text_pt": "Quando você vai comer de novo?",
+    "text_en": "When will you eat again?",
+    "audio_en_storage_path": "034_when_will_you_eat_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100034",
+    "text_pt": "Vou comer de novo na hora do almoço.",
+    "text_en": "I’ll eat again at lunchtime.",
+    "audio_en_storage_path": "035_ill_eat_again_at_lunchtime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100035",
+    "text_pt": "Por que você comeu tão rápido?",
+    "text_en": "Why did you eat so fast?",
+    "audio_en_storage_path": "036_why_did_you_eat_so_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100036",
+    "text_pt": "Eu estava com fome e atrasado para a escola.",
+    "text_en": "I was hungry and late for school.",
+    "audio_en_storage_path": "037_i_was_hungry_and_late_for_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100037",
+    "text_pt": "Ela come cereal todas as manhãs.",
+    "text_en": "She eats cereal every morning.",
+    "audio_en_storage_path": "038_she_eats_cereal_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100038",
+    "text_pt": "Ele não comerá a mesma coisa amanhã.",
+    "text_en": "He won’t eat the same thing tomorrow.",
+    "audio_en_storage_path": "039_he_wont_eat_the_same_thing_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100039",
+    "text_pt": "Bom trabalho na limpeza!",
+    "text_en": "Good job cleaning up!",
+    "audio_en_storage_path": "040_good_job_cleaning_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100040",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "041_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100041",
+    "text_pt": "Ela come cereal todas as manhãs.",
+    "text_en": "She eats cereal every morning.",
+    "audio_en_storage_path": "042_she_eats_cereal_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100042",
+    "text_pt": "Ela come cereal todas as manhãs.",
+    "text_en": "She has cereal every mornin’.",
+    "audio_en_storage_path": "043_she_has_cereal_every_mornin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100043",
+    "text_pt": "Todas as manhãs = todas as manhãs",
+    "text_en": "Every mornin' = every morning",
+    "audio_en_storage_path": "044_every_mornin_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100044",
+    "text_pt": "Ele não comerá a mesma coisa amanhã.",
+    "text_en": "He won’t eat the same thing tomorrow.",
+    "audio_en_storage_path": "045_he_wont_eat_the_same_thing_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100045",
+    "text_pt": "Ele não terá a mesma coisa amanhã.",
+    "text_en": "He ain't havin’ the same thing tomorrow.",
+    "audio_en_storage_path": "046_he_aint_havin_the_same_thing_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100046",
+    "text_pt": "Bom trabalho na limpeza!",
+    "text_en": "Good job cleaning up!",
+    "audio_en_storage_path": "047_good_job_cleaning_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100047",
+    "text_pt": "Bom trabalho de limpeza!",
+    "text_en": "Nice clean-up work!",
+    "audio_en_storage_path": "048_nice_cleanup_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100048",
+    "text_pt": "A pia fica perto da janela.",
+    "text_en": "The sink is near the window.",
+    "audio_en_storage_path": "049_the_sink_is_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100049",
+    "text_pt": "Nós o usamos para lavar pratos e mãos.",
+    "text_en": "We use it to wash dishes and hands.",
+    "audio_en_storage_path": "050_we_use_it_to_wash_dishes_and_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100050",
+    "text_pt": "É feito de aço inoxidável.",
+    "text_en": "It is made of stainless steel.",
+    "audio_en_storage_path": "051_it_is_made_of_stainless_steel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100051",
+    "text_pt": "Há sabão e uma esponja ao lado.",
+    "text_en": "There are soap and a sponge next to it.",
+    "audio_en_storage_path": "052_there_are_soap_and_a_sponge_next_to_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100052",
+    "text_pt": "Você gosta de lavar louça?",
+    "text_en": "Do you like washing dishes?",
+    "audio_en_storage_path": "053_do_you_like_washing_dishes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100053",
+    "text_pt": "Às vezes sim, às vezes não.",
+    "text_en": "Sometimes I do, sometimes I don’t.",
+    "audio_en_storage_path": "054_sometimes_i_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100054",
+    "text_pt": "Gosto quando alguém me ajuda.",
+    "text_en": "I like it when someone helps me.",
+    "audio_en_storage_path": "055_i_like_it_when_someone_helps_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100055",
+    "text_pt": "Onde está a toalha?",
+    "text_en": "Where is the towel?",
+    "audio_en_storage_path": "056_where_is_the_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100056",
+    "text_pt": "A toalha está no gancho.",
+    "text_en": "The towel is on the hook.",
+    "audio_en_storage_path": "057_the_towel_is_on_the_hook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100057",
+    "text_pt": "Quando você vai terminar de lavar a louça?",
+    "text_en": "When will you finish washing dishes?",
+    "audio_en_storage_path": "058_when_will_you_finish_washing_dishes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100058",
+    "text_pt": "Eu termino depois do jantar.",
+    "text_en": "I’ll finish after dinner.",
+    "audio_en_storage_path": "059_ill_finish_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100059",
+    "text_pt": "Por que você abriu a água?",
+    "text_en": "Why did you turn on the water?",
+    "audio_en_storage_path": "060_why_did_you_turn_on_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100060",
+    "text_pt": "Eu queria enxaguar minhas mãos.",
+    "text_en": "I wanted to rinse my hands.",
+    "audio_en_storage_path": "061_i_wanted_to_rinse_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100061",
+    "text_pt": "Ele abre a água lentamente.",
+    "text_en": "He turns on the water slowly.",
+    "audio_en_storage_path": "062_he_turns_on_the_water_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100062",
+    "text_pt": "Não vou esquecer de secar as mãos.",
+    "text_en": "I won’t forget to dry my hands.",
+    "audio_en_storage_path": "063_i_wont_forget_to_dry_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100063",
+    "text_pt": "Lave as mãos antes de comer.",
+    "text_en": "Wash your hands before eating.",
+    "audio_en_storage_path": "064_wash_your_hands_before_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

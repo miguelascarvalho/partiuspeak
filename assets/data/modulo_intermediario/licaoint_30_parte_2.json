@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115102",
+    "text_pt": "Caixa / Atendente",
+    "text_en": "Cashier / Attendant",
+    "audio_en_storage_path": "5102_cashier_attendant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115103",
+    "text_pt": "O caixa fica dentro da loja.",
+    "text_en": "The cashier is inside the store.",
+    "audio_en_storage_path": "5103_the_cashier_is_inside_the_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115104",
+    "text_pt": "Ela ajuda as pessoas com gasolina e lanches.",
+    "text_en": "She helps people with gas and snacks.",
+    "audio_en_storage_path": "5104_she_helps_people_with_gas_and_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115105",
+    "text_pt": "Eu compro bebidas, doces e ar para pneus aqui.",
+    "text_en": "I buy drinks. candy. and air for tires here.",
+    "audio_en_storage_path": "5105_i_buy_drinks_candy_and_air_for_tires_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115106",
+    "text_pt": "Também mapas e carregadores de telefone.",
+    "text_en": "Also maps and phone chargers.",
+    "audio_en_storage_path": "5106_also_maps_and_phone_chargers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115107",
+    "text_pt": "O balcão é branco com azulejos azuis ao redor.",
+    "text_en": "The counter is white with blue tiles around it.",
+    "audio_en_storage_path": "5107_the_counter_is_white_with_blue_tiles_around_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115108",
+    "text_pt": "Há recibos, pense, e chicletes em exposição.",
+    "text_en": "There are receipts. think. and gum on display.",
+    "audio_en_storage_path": "5108_there_are_receipts_think_and_gum_on_display.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115109",
+    "text_pt": "Há salgadinhos, doces e bebidas atrás dela.",
+    "text_en": "There are chips. candy. and drinks behind her.",
+    "audio_en_storage_path": "5109_there_are_chips_candy_and_drinks_behind_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115110",
+    "text_pt": "E uma pequena TV tocando música.",
+    "text_en": "And a small TV playing music.",
+    "audio_en_storage_path": "5110_and_a_small_tv_playing_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115111",
+    "text_pt": "O que mais o caixa vende?",
+    "text_en": "What else does the cashier sell?",
+    "audio_en_storage_path": "5111_what_else_does_the_cashier_sell.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115112",
+    "text_pt": "Sabão para carro, fluido para limpador de para-brisa e gelo.",
+    "text_en": "Car soap. windshield wiper fluid. and ice.",
+    "audio_en_storage_path": "5112_car_soap_windshield_wiper_fluid_and_ice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115113",
+    "text_pt": "Onde fica a chave do banheiro?",
+    "text_en": "Where is the restroom key kept?",
+    "audio_en_storage_path": "5113_where_is_the_restroom_key_kept.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115114",
+    "text_pt": "Atrás do balcão — somente para clientes.",
+    "text_en": "Behind the counter — only for customers.",
+    "audio_en_storage_path": "5114_behind_the_counter_only_for_customers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115115",
+    "text_pt": "Às vezes ele dá descontos.",
+    "text_en": "Sometimes he gives discounts.",
+    "audio_en_storage_path": "5115_sometimes_he_gives_discounts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115116",
+    "text_pt": "Outras vezes ele apenas diz não.",
+    "text_en": "Other times he just says no.",
+    "audio_en_storage_path": "5116_other_times_he_just_says_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115117",
+    "text_pt": "Onde você deixou suas chaves?",
+    "text_en": "Where did you leave your keys?",
+    "audio_en_storage_path": "5117_where_did_you_leave_your_keys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115118",
+    "text_pt": "No balcão — esqueci ao sair.",
+    "text_en": "On the counter — forgot when leaving.",
+    "audio_en_storage_path": "5118_on_the_counter_forgot_when_leaving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115119",
+    "text_pt": "Quando o novo trabalhador chegará?",
+    "text_en": "When will the new worker arrive?",
+    "audio_en_storage_path": "5119_when_will_the_new_worker_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115120",
+    "text_pt": "Segunda-feira de manhã — ela começa a treinar.",
+    "text_en": "Monday morning — she starts training.",
+    "audio_en_storage_path": "5120_monday_morning_she_starts_training.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115121",
+    "text_pt": "Por que você pediu guardanapos extras hoje?",
+    "text_en": "Why did you ask for extra napkins today?",
+    "audio_en_storage_path": "5121_why_did_you_ask_for_extra_napkins_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115122",
+    "text_pt": "Porque comprei comida quente na loja.",
+    "text_en": "Because I bought hot food from the store.",
+    "audio_en_storage_path": "5122_because_i_bought_hot_food_from_the_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115123",
+    "text_pt": "Ela cumprimenta a todos com um sorriso.",
+    "text_en": "She greets everyone with a smile.",
+    "audio_en_storage_path": "5123_she_greets_everyone_with_a_smile.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115124",
+    "text_pt": "Faz com que o lugar pareça amigável.",
+    "text_en": "Makes the place feel friendly.",
+    "audio_en_storage_path": "5124_makes_the_place_feel_friendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115125",
+    "text_pt": "Amanhã. Não esquecerei de pegar meu troco novamente.",
+    "text_en": "Tomorrow. I will not forget to take my change again.",
+    "audio_en_storage_path": "5125_tomorrow_i_will_not_forget_to_take_my_change_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115126",
+    "text_pt": "Deixei algumas moedas da última vez — não muitas, mas ainda assim.",
+    "text_en": "Left some coins last time — not much. but still.",
+    "audio_en_storage_path": "5126_left_some_coins_last_time_not_much_but_still.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115127",
+    "text_pt": "Seja gentil e paciente!",
+    "text_en": "Be kind and patient!",
+    "audio_en_storage_path": "5127_be_kind_and_patient.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115128",
+    "text_pt": "Eles estão fazendo o melhor que podem.",
+    "text_en": "They’re doing their best.",
+    "audio_en_storage_path": "5128_theyre_doing_their_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

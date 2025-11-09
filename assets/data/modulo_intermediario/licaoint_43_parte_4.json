@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122036",
+    "text_pt": "Privacidade e segurança online",
+    "text_en": "Privacy and Safety Online",
+    "audio_en_storage_path": "2036_privacy_and_safety_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122037",
+    "text_pt": "Você pode definir sua conta como privada se quiser",
+    "text_en": "You can set your account to private if you want",
+    "audio_en_storage_path": "2037_you_can_set_your_account_to_private_if_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122038",
+    "text_pt": "Torne sua página privada se quiser controlar quem vê as coisas",
+    "text_en": "Make your page private if ya wanna control who sees stuff",
+    "audio_en_storage_path": "2038_make_your_page_private_if_ya_wanna_control_who_sees_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122039",
+    "text_pt": "Somente seguidores aprovados podem ver suas postagens",
+    "text_en": "Only approved followers can see your posts then",
+    "audio_en_storage_path": "2039_only_approved_followers_can_see_your_posts_then.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122040",
+    "text_pt": "Somente as pessoas que você aceita veem o que você posta",
+    "text_en": "Only people you accept see what you post",
+    "audio_en_storage_path": "2040_only_people_you_accept_see_what_you_post.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122041",
+    "text_pt": "É importante proteger suas informações pessoais",
+    "text_en": "It’s important to protect your personal information",
+    "audio_en_storage_path": "2041_its_important_to_protect_your_personal_information.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122042",
+    "text_pt": "Mantenha suas informações seguras — não as divulgue facilmente",
+    "text_en": "Keep your info safe — don’t give it out easy",
+    "audio_en_storage_path": "2042_keep_your_info_safe_dont_give_it_out_easy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122043",
+    "text_pt": "Você pode denunciar comentários prejudiciais ou contas falsas",
+    "text_en": "You can report harmful comments or fake accounts",
+    "audio_en_storage_path": "2043_you_can_report_harmful_comments_or_fake_accounts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122044",
+    "text_pt": "Se alguém for suspeito, denuncie imediatamente.",
+    "text_en": "If someone’s shady. just report ‘em right away",
+    "audio_en_storage_path": "2044_if_someones_shady_just_report_em_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122045",
+    "text_pt": "Suas postagens são públicas ou privadas?",
+    "text_en": "Are your posts public or private?",
+    "audio_en_storage_path": "2045_are_your_posts_public_or_private.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122046",
+    "text_pt": "Suas coisas estão abertas para todos ou bloqueadas?",
+    "text_en": "Your stuff open for everyone or locked down?",
+    "audio_en_storage_path": "2046_your_stuff_open_for_everyone_or_locked_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122047",
+    "text_pt": "A maioria deles é pública, mas alguns são ocultos",
+    "text_en": "Most of them are public. but some are hidden",
+    "audio_en_storage_path": "2047_most_of_them_are_public_but_some_are_hidden.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122048",
+    "text_pt": "A maioria está aberta, mas consegui algumas apenas para amigos próximos.",
+    "text_en": "Most are open. but I got some only for close friends",
+    "audio_en_storage_path": "2048_most_are_open_but_i_got_some_only_for_close_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122049",
+    "text_pt": "Ou alterne entre ambos dependendo da postagem",
+    "text_en": "Or switch between both depending on the post",
+    "audio_en_storage_path": "2049_or_switch_between_both_depending_on_the_post.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122050",
+    "text_pt": "Ou misture-os — alguns abertos, alguns fechados",
+    "text_en": "Or mix it up — some open. some closed",
+    "audio_en_storage_path": "2050_or_mix_it_up_some_open_some_closed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122051",
+    "text_pt": "Onde posso alterar minhas configurações de privacidade?",
+    "text_en": "Where can I change my privacy settings?",
+    "audio_en_storage_path": "2051_where_can_i_change_my_privacy_settings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122052",
+    "text_pt": "Onde estão as configurações de privacidade — no menu?",
+    "text_en": "Where’s the settings for privacy — in the menu?",
+    "audio_en_storage_path": "2052_wheres_the_settings_for_privacy_in_the_menu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122053",
+    "text_pt": "Quando você atualizará sua biografia?",
+    "text_en": "When will you update your bio?",
+    "audio_en_storage_path": "2053_when_will_you_update_your_bio.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122054",
+    "text_pt": "Quando você vai mudar o texto do seu perfil — agora ou mais tarde?",
+    "text_en": "When ya gonna change your profile text — now or later?",
+    "audio_en_storage_path": "2054_when_ya_gonna_change_your_profile_text_now_or_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122055",
+    "text_pt": "Por que você bloqueou essa pessoa?",
+    "text_en": "Why did you block that person?",
+    "audio_en_storage_path": "2055_why_did_you_block_that_person.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122056",
+    "text_pt": "O que fez você cortar esse usuário — más vibrações?",
+    "text_en": "What made ya cut that user off — bad vibes?",
+    "audio_en_storage_path": "2056_what_made_ya_cut_that_user_off_bad_vibes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122057",
+    "text_pt": "Ela esconde sua localização e aniversário online",
+    "text_en": "She hides her location and birthday online",
+    "audio_en_storage_path": "2057_she_hides_her_location_and_birthday_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122058",
+    "text_pt": "Ela mantém seu lugar e envelhece fora da rede",
+    "text_en": "She keeps her spot and age off the grid",
+    "audio_en_storage_path": "2058_she_keeps_her_spot_and_age_off_the_grid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122059",
+    "text_pt": "Não compartilharei dados pessoais online",
+    "text_en": "I won’t share personal details online",
+    "audio_en_storage_path": "2059_i_wont_share_personal_details_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122060",
+    "text_pt": "De jeito nenhum vou dar minhas informações para estranhos",
+    "text_en": "No way I’m givin’ my info to strangers",
+    "audio_en_storage_path": "2060_no_way_im_givin_my_info_to_strangers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122061",
+    "text_pt": "Mantenha-se inteligente e mantenha seus dados seguros",
+    "text_en": "Stay smart and keep your data safe",
+    "audio_en_storage_path": "2061_stay_smart_and_keep_your_data_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122062",
+    "text_pt": "Fique tranquilo e guarde suas coisas pessoais",
+    "text_en": "Play it cool and guard your personal stuff",
+    "audio_en_storage_path": "2062_play_it_cool_and_guard_your_personal_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122063",
+    "text_pt": "Tome cuidado e pense antes de postar",
+    "text_en": "Take care and think before posting",
+    "audio_en_storage_path": "2063_take_care_and_think_before_posting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122064",
+    "text_pt": "Pense duas vezes antes de compartilhar algo",
+    "text_en": "Think twice before you share somethin’",
+    "audio_en_storage_path": "2064_think_twice_before_you_share_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122065",
+    "text_pt": "Vejo você online — fique seguro",
+    "text_en": "See you online — be safe",
+    "audio_en_storage_path": "2065_see_you_online_be_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122066",
+    "text_pt": "Vejo vocês no feed — fiquem seguros",
+    "text_en": "Catch ya on the feed — stay secure",
+    "audio_en_storage_path": "2066_catch_ya_on_the_feed_stay_secure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

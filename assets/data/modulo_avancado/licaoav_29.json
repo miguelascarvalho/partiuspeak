@@ -1,0 +1,407 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132853",
+    "text_pt": "O Brasil é conhecido mundialmente por sua paixão pelo futebol e forte cultura futebolística.",
+    "text_en": "Brazil is known worldwide for its passion for football and strong football culture.",
+    "audio_en_storage_path": "231_brazil_is_known_worldwide_for_its_passion_for_football_and_strong_football_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132854",
+    "text_pt": "O país tem alguns dos maiores clubes de futebol da América do Sul.",
+    "text_en": "The country has some of the largest football clubs in South America.",
+    "audio_en_storage_path": "232_the_country_has_some_of_the_largest_football_clubs_in_south_america.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132855",
+    "text_pt": "Esses clubes têm milhões de fãs em todo o Brasil e além.",
+    "text_en": "These clubs have millions of fans across Brazil and beyond.",
+    "audio_en_storage_path": "233_these_clubs_have_millions_of_fans_across_brazil_and_beyond.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132856",
+    "text_pt": "O futebol no Brasil é mais que um esporte — é um modo de vida para muitas pessoas.",
+    "text_en": "Soccer in Brazil is more than a sport — it's a way of life for many people.",
+    "audio_en_storage_path": "234_soccer_in_brazil_is_more_than_a_sport_its_a_way_of_life_for_many_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132857",
+    "text_pt": "Os maiores times têm histórias ricas, tradições e carreiras de sucesso.",
+    "text_en": "The biggest teams have rich histories. traditions. and successful careers.",
+    "audio_en_storage_path": "235_the_biggest_teams_have_rich_histories_traditions_and_successful_careers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132858",
+    "text_pt": "O Flamengo é um dos clubes de futebol mais populares do Brasil.",
+    "text_en": "Flamengo is one of the most popular football clubs in Brazil.",
+    "audio_en_storage_path": "236_flamengo_is_one_of_the_most_popular_football_clubs_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132859",
+    "text_pt": "Ela tem sede no Rio de Janeiro e tem a maior torcida do país.",
+    "text_en": "It is based in Rio de Janeiro and has the largest fan base in the country.",
+    "audio_en_storage_path": "237_it_is_based_in_rio_de_janeiro_and_has_the_largest_fan_base_in_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132860",
+    "text_pt": "O Corinthians de São Paulo também tem muitos seguidores.",
+    "text_en": "Corinthians from São Paulo also has a massive following.",
+    "audio_en_storage_path": "238_corinthians_from_sao_paulo_also_has_a_massive_following.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132861",
+    "text_pt": "Palmeiras e São Paulo são outros grandes clubes da maior cidade do Brasil.",
+    "text_en": "Palmeiras and São Paulo are other major clubs from Brazil’s biggest city.",
+    "audio_en_storage_path": "239_palmeiras_and_sao_paulo_are_other_major_clubs_from_brazils_biggest_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132862",
+    "text_pt": "Internacional e Grêmio são dois dos times mais importantes do Sul.",
+    "text_en": "Internacional and Grêmio are two of the most important teams from the south.",
+    "audio_en_storage_path": "240_internacional_and_gremio_are_two_of_the_most_important_teams_from_the_south.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132863",
+    "text_pt": "No Nordeste, Bahia e Vitória têm torcidas grandes e apaixonadas.",
+    "text_en": "In the northeast. Bahia and Vitória have large and passionate fanbases.",
+    "audio_en_storage_path": "241_in_the_northeast_bahia_and_vitoria_have_large_and_passionate_fanbases.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132864",
+    "text_pt": "Cruzeiro e Atlético Mineiro dominam o futebol mineiro.",
+    "text_en": "Cruzeiro and Atlético Mineiro dominate football in Minas Gerais.",
+    "audio_en_storage_path": "242_cruzeiro_and_atletico_mineiro_dominate_football_in_minas_gerais.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132865",
+    "text_pt": "Atlético Paranaense e Coritiba representam o Paraná com forte apoio.",
+    "text_en": "Atlético Paranaense and Coritiba represent Paraná with strong support.",
+    "audio_en_storage_path": "243_atletico_paranaense_and_coritiba_represent_parana_with_strong_support.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132866",
+    "text_pt": "Santos, casa de Pelé, tem importância histórica no futebol brasileiro.",
+    "text_en": "Santos. home to Pelé. has historical importance in Brazilian football.",
+    "audio_en_storage_path": "244_santos_home_to_pele_has_historical_importance_in_brazilian_football.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132867",
+    "text_pt": "O Flamengo conquistou muitos títulos nacionais e internacionais, incluindo a Copa Libertadores.",
+    "text_en": "Flamengo has won many national and international titles. including the Copa Libertadores.",
+    "audio_en_storage_path": "245_flamengo_has_won_many_national_and_international_titles_including_the_copa_libertadores.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132868",
+    "text_pt": "O Corinthians também conquistou a Copa Libertadores e o Mundial de Clubes da FIFA.",
+    "text_en": "Corinthians also won the Copa Libertadores and the FIFA Club World Cup.",
+    "audio_en_storage_path": "246_corinthians_also_won_the_copa_libertadores_and_the_fifa_club_world_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132869",
+    "text_pt": "O Palmeiras foi campeão sul-americano diversas vezes nos últimos anos.",
+    "text_en": "Palmeiras has been champion of South America multiple times in recent years.",
+    "audio_en_storage_path": "247_palmeiras_has_been_champion_of_south_america_multiple_times_in_recent_years.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132873",
+    "text_pt": "As rivalidades no futebol são intensas e cheias de história e emoção.",
+    "text_en": "Football rivalries are intense and full of history and emotion.",
+    "audio_en_storage_path": "251_football_rivalries_are_intense_and_full_of_history_and_emotion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132874",
+    "text_pt": "Cada time tem cores, símbolos e cânticos únicos que identificam seus torcedores.",
+    "text_en": "Each team has unique colors. symbols. and chants that identify its supporters.",
+    "audio_en_storage_path": "252_each_team_has_unique_colors_symbols_and_chants_that_identify_its_supporters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132875",
+    "text_pt": "Os estádios de futebol geralmente ficam lotados com milhares de torcedores vestindo as cores do time.",
+    "text_en": "Football stadiums often fill with thousands of fans wearing team colors.",
+    "audio_en_storage_path": "253_football_stadiums_often_fill_with_thousands_of_fans_wearing_team_colors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132876",
+    "text_pt": "Alguns clubes têm mais de 20 milhões de torcedores cada.",
+    "text_en": "Some clubs have over 20 million supporters each.",
+    "audio_en_storage_path": "254_some_clubs_have_over_20_million_supporters_each.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132877",
+    "text_pt": "Acredita-se que somente o Flamengo tenha mais de 40 milhões de torcedores.",
+    "text_en": "Flamengo alone is believed to have more than 40 million fans.",
+    "audio_en_storage_path": "255_flamengo_alone_is_believed_to_have_more_than_40_million_fans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132878",
+    "text_pt": "O Corinthians tem cerca de 30 milhões de torcedores ou mais.",
+    "text_en": "Corinthians has around 30 million fans or more.",
+    "audio_en_storage_path": "256_corinthians_has_around_30_million_fans_or_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132879",
+    "text_pt": "Palmeiras e São Paulo também contam com dezenas de milhões de torcedores.",
+    "text_en": "Palmeiras and São Paulo also have tens of millions of supporters.",
+    "audio_en_storage_path": "257_palmeiras_and_sao_paulo_also_have_tens_of_millions_of_supporters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132880",
+    "text_pt": "Santos continua sendo um dos nomes mais reconhecidos da história do futebol brasileiro.",
+    "text_en": "Santos remains one of the most recognized names in Brazilian football history.",
+    "audio_en_storage_path": "258_santos_remains_one_of_the_most_recognized_names_in_brazilian_football_history.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132881",
+    "text_pt": "A seleção brasileira se beneficia por ter jogadores desses grandes clubes.",
+    "text_en": "The Brazilian national team benefits from having players from these top clubs.",
+    "audio_en_storage_path": "259_the_brazilian_national_team_benefits_from_having_players_from_these_top_clubs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132882",
+    "text_pt": "Muitos jogadores brasileiros famosos começaram suas carreiras nesses grandes clubes.",
+    "text_en": "Many famous Brazilian players started their careers in these big clubs.",
+    "audio_en_storage_path": "260_many_famous_brazilian_players_started_their_careers_in_these_big_clubs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132883",
+    "text_pt": "Neymar começou no Santos. enquanto Éder Militão veio de São Paulo.",
+    "text_en": "Neymar began at Santos. while Éder Militão came from São Paulo.",
+    "audio_en_storage_path": "261_neymar_began_at_santos_while_eder_militao_came_from_sao_paulo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132884",
+    "text_pt": "Os clubes investem em academias de jovens para desenvolver futuras estrelas.",
+    "text_en": "Clubs invest in youth academies to develop future stars.",
+    "audio_en_storage_path": "262_clubs_invest_in_youth_academies_to_develop_future_stars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132885",
+    "text_pt": "Os torcedores acompanham seus times nas vitórias e derrotas.",
+    "text_en": "Supporters follow their teams through victories and defeats.",
+    "audio_en_storage_path": "263_supporters_follow_their_teams_through_victories_and_defeats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132886",
+    "text_pt": "A cultura do futebol inclui samba, coreografias e faixas nas arquibancadas.",
+    "text_en": "Football culture includes samba music. choreographies. and banners in the stands.",
+    "audio_en_storage_path": "264_football_culture_includes_samba_music_choreographies_and_banners_in_the_stands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132887",
+    "text_pt": "As mídias sociais desempenham um papel importante na conexão dos fãs com seus clubes favoritos.",
+    "text_en": "Social media plays an important role in connecting fans to their favorite clubs.",
+    "audio_en_storage_path": "265_social_media_plays_an_important_role_in_connecting_fans_to_their_favorite_clubs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132888",
+    "text_pt": "Partidas entre os principais times atraem milhões de telespectadores.",
+    "text_en": "Matches between top teams attract millions of TV viewers.",
+    "audio_en_storage_path": "266_matches_between_top_teams_attract_millions_of_tv_viewers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132889",
+    "text_pt": "Plataformas de streaming agora transmitem jogos para fãs do mundo todo.",
+    "text_en": "Streaming platforms now broadcast games to fans worldwide.",
+    "audio_en_storage_path": "267_streaming_platforms_now_broadcast_games_to_fans_worldwide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132890",
+    "text_pt": "Os clubes também têm lojas online que vendem camisas, acessórios e recordações.",
+    "text_en": "Clubs also have online stores selling jerseys. accessories. and memorabilia.",
+    "audio_en_storage_path": "268_clubs_also_have_online_stores_selling_jerseys_accessories_and_memorabilia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132891",
+    "text_pt": "O futebol feminino está crescendo, com cada vez mais apoio e investimento.",
+    "text_en": "Women's football is growing. with increasing support and investment.",
+    "audio_en_storage_path": "269_womens_football_is_growing_with_increasing_support_and_investment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132892",
+    "text_pt": "As categorias de base também contam com o apoio de torcedores e dirigentes do clube.",
+    "text_en": "Youth categories are also supported by fans and club officials.",
+    "audio_en_storage_path": "270_youth_categories_are_also_supported_by_fans_and_club_officials.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132893",
+    "text_pt": "Os clubes têm museus onde os fãs podem aprender sobre sua história.",
+    "text_en": "Clubs have museums where fans can learn about their history.",
+    "audio_en_storage_path": "271_clubs_have_museums_where_fans_can_learn_about_their_history.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132894",
+    "text_pt": "Troféus, fotos e lendas são exibidos para homenagear o passado.",
+    "text_en": "Trophies. photos. and legends are displayed to honor the past.",
+    "audio_en_storage_path": "272_trophies_photos_and_legends_are_displayed_to_honor_the_past.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132895",
+    "text_pt": "Os fãs transmitem seu amor pelo time de geração para geração.",
+    "text_en": "Fans pass down their love for the team from generation to generation.",
+    "audio_en_storage_path": "273_fans_pass_down_their_love_for_the_team_from_generation_to_generation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132896",
+    "text_pt": "O futebol é motivo de orgulho, identidade e união para milhões de brasileiros.",
+    "text_en": "Football is a source of pride. identity. and unity for millions of Brazilians.",
+    "audio_en_storage_path": "274_football_is_a_source_of_pride_identity_and_unity_for_millions_of_brazilians.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132897",
+    "text_pt": "A emoção durante as partidas une pessoas de todas as origens.",
+    "text_en": "The excitement during matches unites people from all backgrounds.",
+    "audio_en_storage_path": "275_the_excitement_during_matches_unites_people_from_all_backgrounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132898",
+    "text_pt": "Mesmo fora do Brasil, esses clubes têm torcedores em outros países.",
+    "text_en": "Even outside Brazil. these clubs have fans in other countries.",
+    "audio_en_storage_path": "276_even_outside_brazil_these_clubs_have_fans_in_other_countries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132899",
+    "text_pt": "O futebol brasileiro vive graças aos seus grandes clubes e milhões de torcedores apaixonados.",
+    "text_en": "Brazilian football is alive thanks to its big clubs and millions of passionate fans.",
+    "audio_en_storage_path": "277_brazilian_football_is_alive_thanks_to_its_big_clubs_and_millions_of_passionate_fans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132900",
+    "text_pt": "Os maiores times e suas enormes torcidas fazem do futebol brasileiro um dos mais poderosos do mundo.",
+    "text_en": "The largest teams and their huge fanbases make Brazilian football one of the most powerful in the world.",
+    "audio_en_storage_path": "278_the_largest_teams_and_their_huge_fanbases_make_brazilian_football_one_of_the_most_powerful_in_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

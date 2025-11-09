@@ -1,0 +1,227 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110298",
+    "text_pt": "Foco: A rotina do meu filho durante a semana",
+    "text_en": "Focus: My son's routine during the week",
+    "audio_en_storage_path": "298_focus_my_sons_routine_during_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110299",
+    "text_pt": "Ele acorda às 7:00 da manhã.",
+    "text_en": "He wakes up at 7:00 AM.",
+    "audio_en_storage_path": "299_he_wakes_up_at_700_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110300",
+    "text_pt": "Eu o ajudo a se vestir e a escovar os dentes.",
+    "text_en": "I help him get dressed and brush his teeth.",
+    "audio_en_storage_path": "300_i_help_him_get_dressed_and_brush_his_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110301",
+    "text_pt": "Ele toma café da manhã comigo.",
+    "text_en": "He eats breakfast with me.",
+    "audio_en_storage_path": "301_he_eats_breakfast_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110302",
+    "text_pt": "Ele gosta de cereais e sucos de frutas.",
+    "text_en": "He likes cereal and fruit juice.",
+    "audio_en_storage_path": "302_he_likes_cereal_and_fruit_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110303",
+    "text_pt": "Ele vai para a escola às 8:00.",
+    "text_en": "He goes to school at 8:00.",
+    "audio_en_storage_path": "303_he_goes_to_school_at_800.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110304",
+    "text_pt": "Eu o levo de carro ou ele caminha com amigos.",
+    "text_en": "I take him by car or he walks with friends.",
+    "audio_en_storage_path": "304_i_take_him_by_car_or_he_walks_with_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110305",
+    "text_pt": "Ele aprende números e letras.",
+    "text_en": "He learns numbers and letters.",
+    "audio_en_storage_path": "305_he_learns_numbers_and_letters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110306",
+    "text_pt": "Ele também desenha e canta músicas.",
+    "text_en": "He also draws pictures and sings songs.",
+    "audio_en_storage_path": "306_he_also_draws_pictures_and_sings_songs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110307",
+    "text_pt": "No almoço, ele come o que levamos.",
+    "text_en": "At lunch. he eats what we pack.",
+    "audio_en_storage_path": "307_at_lunch_he_eats_what_we_pack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110308",
+    "text_pt": "Sanduíches, frutas e água.",
+    "text_en": "Sandwiches. fruits. and water.",
+    "audio_en_storage_path": "308_sandwiches_fruits_and_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110309",
+    "text_pt": "Depois da escola, ele brinca lá fora.",
+    "text_en": "After school. he plays outside.",
+    "audio_en_storage_path": "309_after_school_he_plays_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110310",
+    "text_pt": "Ou ele lê livros comigo.",
+    "text_en": "Or he reads books with me.",
+    "audio_en_storage_path": "310_or_he_reads_books_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110311",
+    "text_pt": "O que seu filho gosta de fazer?",
+    "text_en": "What does your son like to do?",
+    "audio_en_storage_path": "311_what_does_your_son_like_to_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110312",
+    "text_pt": "Ele adora brincar com brinquedos e assistir desenhos animados.",
+    "text_en": "He loves playing with toys and watching cartoons.",
+    "audio_en_storage_path": "312_he_loves_playing_with_toys_and_watching_cartoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110313",
+    "text_pt": "Onde está seu filho agora?",
+    "text_en": "Where is your son now?",
+    "audio_en_storage_path": "313_where_is_your_son_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110314",
+    "text_pt": "Ele está na escola, aprendendo coisas novas.",
+    "text_en": "He's in school. learning new things.",
+    "audio_en_storage_path": "314_hes_in_school_learning_new_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110315",
+    "text_pt": "Por que ele dorme cedo?",
+    "text_en": "Why does he sleep early?",
+    "audio_en_storage_path": "315_why_does_he_sleep_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110316",
+    "text_pt": "Porque ele precisa de descanso para crescer forte.",
+    "text_en": "Because he needs rest to grow strong.",
+    "audio_en_storage_path": "316_because_he_needs_rest_to_grow_strong.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110317",
+    "text_pt": "Ele vai à escola todos os dias da semana.",
+    "text_en": "He goes to school every weekday.",
+    "audio_en_storage_path": "317_he_goes_to_school_every_weekday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110318",
+    "text_pt": "Ele gosta de fazer novos amigos.",
+    "text_en": "He enjoys making new friends.",
+    "audio_en_storage_path": "318_he_enjoys_making_new_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110319",
+    "text_pt": "Amanhã. ele não vai esquecer seu estojo.",
+    "text_en": "Tomorrow. he will not forget his pencil case.",
+    "audio_en_storage_path": "319_tomorrow_he_will_not_forget_his_pencil_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110320",
+    "text_pt": "Ele vai colocá-lo na bolsa esta noite.",
+    "text_en": "He will put it in his bag tonight.",
+    "audio_en_storage_path": "320_he_will_put_it_in_his_bag_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110321",
+    "text_pt": "Tenha orgulho do seu pequeno!",
+    "text_en": "Be proud of your little one!",
+    "audio_en_storage_path": "321_be_proud_of_your_little_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110322",
+    "text_pt": "Ele está indo muito bem — continue incentivando-o!",
+    "text_en": "He’s doing great — keep encouraging him!",
+    "audio_en_storage_path": "322_hes_doing_great_keep_encouraging_him.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

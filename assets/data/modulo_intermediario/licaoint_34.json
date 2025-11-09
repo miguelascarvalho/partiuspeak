@@ -1,0 +1,1118 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120611",
+    "text_pt": "Descrevendo Pessoas – Aparência Física",
+    "text_en": "Describing People – Physical Appearance",
+    "audio_en_storage_path": "611_describing_people_physical_appearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120612",
+    "text_pt": "Ela tem longos cabelos castanhos e olhos verdes",
+    "text_en": "She has long brown hair and green eyes",
+    "audio_en_storage_path": "612_she_has_long_brown_hair_and_green_eyes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120613",
+    "text_pt": "Ela tem longos cabelos castanhos e olhos que parecem meio verdes",
+    "text_en": "She’s got long brown hair and eyes that look kinda green",
+    "audio_en_storage_path": "613_shes_got_long_brown_hair_and_eyes_that_look_kinda_green.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120614",
+    "text_pt": "Ele é alto e joga basquete todo fim de semana",
+    "text_en": "He is tall and plays basketball every weekend",
+    "audio_en_storage_path": "614_he_is_tall_and_plays_basketball_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120615",
+    "text_pt": "Ele é super alto e entra na quadra para jogar bola todos os sábados",
+    "text_en": "He’s super tall and hits the court for ball every Saturday",
+    "audio_en_storage_path": "615_hes_super_tall_and_hits_the_court_for_ball_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120616",
+    "text_pt": "O menino usa óculos e sempre sorri",
+    "text_en": "The boy wears glasses and always smiles",
+    "audio_en_storage_path": "616_the_boy_wears_glasses_and_always_smiles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120617",
+    "text_pt": "O garoto usa óculos e nunca para de sorrir",
+    "text_en": "Kid wears specs and never stops smilin’",
+    "audio_en_storage_path": "617_kid_wears_specs_and_never_stops_smilin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120618",
+    "text_pt": "Ela tem cabelos cacheados e adora dançar",
+    "text_en": "She has curly hair and loves to dance",
+    "audio_en_storage_path": "618_she_has_curly_hair_and_loves_to_dance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120619",
+    "text_pt": "O cabelo dela é todo cacheado e ela está sempre dançando",
+    "text_en": "Her hair’s all curly and she’s always dancin’",
+    "audio_en_storage_path": "619_her_hairs_all_curly_and_shes_always_dancin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120620",
+    "text_pt": "Ele está vestindo uma jaqueta preta e jeans azul",
+    "text_en": "He is wearing a black jacket and blue jeans",
+    "audio_en_storage_path": "620_he_is_wearing_a_black_jacket_and_blue_jeans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120621",
+    "text_pt": "Vesti uma jaqueta preta e uma calça jeans azul desbotada",
+    "text_en": "Got on a black jacket and some faded blue jeans",
+    "audio_en_storage_path": "621_got_on_a_black_jacket_and_some_faded_blue_jeans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120622",
+    "text_pt": "A pele dela é clara e ela tem sardas no nariz",
+    "text_en": "Her skin is fair and she has freckles on her nose",
+    "audio_en_storage_path": "622_her_skin_is_fair_and_she_has_freckles_on_her_nose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120623",
+    "text_pt": "Ela tem pele clara e pequenas manchas no nariz",
+    "text_en": "She’s got light skin and little spots across her nose",
+    "audio_en_storage_path": "623_shes_got_light_skin_and_little_spots_across_her_nose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120624",
+    "text_pt": "Ele tem cabelo curto e sempre parece muito limpo",
+    "text_en": "He has short hair and always looks very clean",
+    "audio_en_storage_path": "624_he_has_short_hair_and_always_looks_very_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120625",
+    "text_pt": "O cabelo é bem curto e ele está sempre com uma aparência elegante",
+    "text_en": "Hair’s cut real short and he’s always looking sharp",
+    "audio_en_storage_path": "625_hairs_cut_real_short_and_hes_always_looking_sharp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120626",
+    "text_pt": "Ela tem altura média e se comporta bem",
+    "text_en": "She is about average height and carries herself well",
+    "audio_en_storage_path": "626_she_is_about_average_height_and_carries_herself_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120627",
+    "text_pt": "Ela tem altura média e anda como se fosse dona do lugar",
+    "text_en": "She’s around medium height and walks like she owns it",
+    "audio_en_storage_path": "627_shes_around_medium_height_and_walks_like_she_owns_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120628",
+    "text_pt": "Ambos usam roupas semelhantes e parecem gêmeos",
+    "text_en": "They both wear similar clothes and look like twins",
+    "audio_en_storage_path": "628_they_both_wear_similar_clothes_and_look_like_twins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120629",
+    "text_pt": "Ambas vestidas quase da mesma forma — podem ser gêmeas com certeza",
+    "text_en": "Both dressed almost the same — could be twins for sure",
+    "audio_en_storage_path": "629_both_dressed_almost_the_same_could_be_twins_for_sure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120630",
+    "text_pt": "Ele tem barba e geralmente usa chapéu",
+    "text_en": "He has a beard and usually wears a hat",
+    "audio_en_storage_path": "630_he_has_a_beard_and_usually_wears_a_hat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120631",
+    "text_pt": "Tem barba e você o verá com um boné na maioria dos dias",
+    "text_en": "Got a beard and you’ll see him with a cap most days",
+    "audio_en_storage_path": "631_got_a_beard_and_youll_see_him_with_a_cap_most_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120632",
+    "text_pt": "Ela tem um nariz pequeno e dentes brancos e brilhantes",
+    "text_en": "She has a small nose and bright white teeth",
+    "audio_en_storage_path": "632_she_has_a_small_nose_and_bright_white_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120633",
+    "text_pt": "Nariz pequeno e aqueles dentes brancos perolados quando ela sorri",
+    "text_en": "Petite nose and those pearly whites when she grins",
+    "audio_en_storage_path": "633_petite_nose_and_those_pearly_whites_when_she_grins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120634",
+    "text_pt": "Ele é forte e treina na academia todos os dias",
+    "text_en": "He is strong and works out at the gym every day",
+    "audio_en_storage_path": "634_he_is_strong_and_works_out_at_the_gym_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120635",
+    "text_pt": "Construído de forma sólida — vai duro na academia todos os dias",
+    "text_en": "Built solid — goes hard at the gym daily",
+    "audio_en_storage_path": "635_built_solid_goes_hard_at_the_gym_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120636",
+    "text_pt": "Ela usa maquiagem, mas não muita",
+    "text_en": "She wears makeup but not too much",
+    "audio_en_storage_path": "636_she_wears_makeup_but_not_too_much.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120637",
+    "text_pt": "Coloca um pouco de maquiagem, só o suficiente para estourar.",
+    "text_en": "Puts on some makeup. just enough to pop",
+    "audio_en_storage_path": "637_puts_on_some_makeup_just_enough_to_pop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120638",
+    "text_pt": "Ele tem tatuagens nos braços e uma expressão calma",
+    "text_en": "He has tattoos on his arms and a calm expression",
+    "audio_en_storage_path": "638_he_has_tattoos_on_his_arms_and_a_calm_expression.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120639",
+    "text_pt": "Os braços estão tatuados e ele tem aquela vibe relaxada",
+    "text_en": "Arms are inked up and he’s got that chill vibe",
+    "audio_en_storage_path": "639_arms_are_inked_up_and_hes_got_that_chill_vibe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120640",
+    "text_pt": "Tenha um bom dia e continue sorrindo",
+    "text_en": "Have a good day and keep smiling",
+    "audio_en_storage_path": "640_have_a_good_day_and_keep_smiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120641",
+    "text_pt": "Continue sorrindo — tenha um ótimo dia",
+    "text_en": "Keep that smile goin’ — have a great one",
+    "audio_en_storage_path": "641_keep_that_smile_goin_have_a_great_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120642",
+    "text_pt": "Descrevendo Pessoas – Personalidade e Maneira",
+    "text_en": "Describing People – Personality and Manner",
+    "audio_en_storage_path": "642_describing_people_personality_and_manner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120643",
+    "text_pt": "Ela é gentil e sempre ajuda os outros",
+    "text_en": "She is kind and always helps others",
+    "audio_en_storage_path": "643_she_is_kind_and_always_helps_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120644",
+    "text_pt": "Ela é muito legal e sempre dá uma mãozinha",
+    "text_en": "She’s really nice and always lendin’ a hand",
+    "audio_en_storage_path": "644_shes_really_nice_and_always_lendin_a_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120645",
+    "text_pt": "Ele é tímido e não fala muito em grupos",
+    "text_en": "He is shy and doesn’t talk much in groups",
+    "audio_en_storage_path": "645_he_is_shy_and_doesnt_talk_much_in_groups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120646",
+    "text_pt": "Um pouco quieto, especialmente quando tem muita gente.",
+    "text_en": "Kinda quiet. especially when there’s a crowd",
+    "audio_en_storage_path": "646_kinda_quiet_especially_when_theres_a_crowd.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120647",
+    "text_pt": "Ela é muito enérgica e adora estar ao ar livre",
+    "text_en": "She is very energetic and loves being outdoors",
+    "audio_en_storage_path": "647_she_is_very_energetic_and_loves_being_outdoors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120648",
+    "text_pt": "Cheio de energia e vive em busca de ar fresco e sol",
+    "text_en": "Full of energy and lives for fresh air and sunshine",
+    "audio_en_storage_path": "648_full_of_energy_and_lives_for_fresh_air_and_sunshine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120649",
+    "text_pt": "Ele é sério na maior parte do tempo, mas tem um bom senso de humor",
+    "text_en": "He is serious most of the time but has a good sense of humor",
+    "audio_en_storage_path": "649_he_is_serious_most_of_the_time_but_has_a_good_sense_of_humor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120650",
+    "text_pt": "Geralmente sério, mas às vezes faz piadas",
+    "text_en": "Mostly serious but cracks jokes sometimes",
+    "audio_en_storage_path": "650_mostly_serious_but_cracks_jokes_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120651",
+    "text_pt": "Ela é inteligente e aprende as coisas rapidamente",
+    "text_en": "She is smart and learns things quickly",
+    "audio_en_storage_path": "651_she_is_smart_and_learns_things_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120652",
+    "text_pt": "Aprendiz muito rápido — aprende rápido",
+    "text_en": "Real quick learner — catches on fast",
+    "audio_en_storage_path": "652_real_quick_learner_catches_on_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120653",
+    "text_pt": "Ele é engraçado e faz as pessoas rirem muito",
+    "text_en": "He is funny and makes people laugh a lot",
+    "audio_en_storage_path": "653_he_is_funny_and_makes_people_laugh_a_lot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120654",
+    "text_pt": "O cara é hilário — sempre trazendo risadas",
+    "text_en": "Dude’s hilarious — always bringin’ the laughs",
+    "audio_en_storage_path": "654_dudes_hilarious_always_bringin_the_laughs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120655",
+    "text_pt": "Ela é paciente e nunca fica brava facilmente",
+    "text_en": "She is patient and never gets angry easily",
+    "audio_en_storage_path": "655_she_is_patient_and_never_gets_angry_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120656",
+    "text_pt": "Super calma — acho que nunca a vi brava",
+    "text_en": "Super calm — don’t think I’ve ever seen her mad",
+    "audio_en_storage_path": "656_super_calm_dont_think_ive_ever_seen_her_mad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120657",
+    "text_pt": "Ele é confiante e fala claramente na frente das pessoas",
+    "text_en": "He is confident and speaks clearly in front of people",
+    "audio_en_storage_path": "657_he_is_confident_and_speaks_clearly_in_front_of_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120658",
+    "text_pt": "Fala como se soubesse o que está dizendo - tem essa confiança",
+    "text_en": "Talks like he knows what he’s sayin’ — got that confidence",
+    "audio_en_storage_path": "658_talks_like_he_knows_what_hes_sayin_got_that_confidence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120659",
+    "text_pt": "Ela é criativa e gosta de desenhar e pintar",
+    "text_en": "She is creative and enjoys drawing and painting",
+    "audio_en_storage_path": "659_she_is_creative_and_enjoys_drawing_and_painting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120660",
+    "text_pt": "Tenho esse lado artístico — sempre desenhando ou pintando",
+    "text_en": "Got that artistic side — always sketchin’ or paintin’",
+    "audio_en_storage_path": "660_got_that_artistic_side_always_sketchin_or_paintin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120661",
+    "text_pt": "Ele é responsável e sempre termina seu trabalho",
+    "text_en": "He is responsible and always finishes his work",
+    "audio_en_storage_path": "661_he_is_responsible_and_always_finishes_his_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120662",
+    "text_pt": "Faz as coisas acontecerem — não deixa nada para depois",
+    "text_en": "Gets stuff done — doesn’t leave things hanging",
+    "audio_en_storage_path": "662_gets_stuff_done_doesnt_leave_things_hanging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120663",
+    "text_pt": "Ela é corajosa e não tem medo de tentar coisas novas",
+    "text_en": "She is brave and isn’t afraid to try new things",
+    "audio_en_storage_path": "663_she_is_brave_and_isnt_afraid_to_try_new_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120664",
+    "text_pt": "Destemido — sempre mergulhando em novas aventuras",
+    "text_en": "Fearless — always jumpin’ into new adventures",
+    "audio_en_storage_path": "664_fearless_always_jumpin_into_new_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120665",
+    "text_pt": "Ele é gentil e trata a todos com respeito",
+    "text_en": "He is gentle and treats everyone with respect",
+    "audio_en_storage_path": "665_he_is_gentle_and_treats_everyone_with_respect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120666",
+    "text_pt": "Fala manso e trata as pessoas bem",
+    "text_en": "Soft spoken and treats folks right",
+    "audio_en_storage_path": "666_soft_spoken_and_treats_folks_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120667",
+    "text_pt": "Ela é honesta e nunca conta mentiras",
+    "text_en": "She is honest and never tells lies",
+    "audio_en_storage_path": "667_she_is_honest_and_never_tells_lies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120668",
+    "text_pt": "Sempre direto — sem brincadeiras com ela",
+    "text_en": "Always straight up — no games with her",
+    "audio_en_storage_path": "668_always_straight_up_no_games_with_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120669",
+    "text_pt": "Ele é generoso e gosta de ajudar os outros",
+    "text_en": "He is generous and likes to help others",
+    "audio_en_storage_path": "669_he_is_generous_and_likes_to_help_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120670",
+    "text_pt": "Dá mais do que recebe — cara de grande coração",
+    "text_en": "Gives more than he takes — big-hearted guy",
+    "audio_en_storage_path": "670_gives_more_than_he_takes_bighearted_guy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120671",
+    "text_pt": "Cuide-se e seja você mesmo",
+    "text_en": "Take care and be yourself",
+    "audio_en_storage_path": "671_take_care_and_be_yourself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120672",
+    "text_pt": "Seja fiel a quem você é — tenha um ótimo dia",
+    "text_en": "Stay true to who you are — have a great day",
+    "audio_en_storage_path": "672_stay_true_to_who_you_are_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120673",
+    "text_pt": "Conhecendo e conversando sobre pessoas",
+    "text_en": "Meeting and Talking About People",
+    "audio_en_storage_path": "673_meeting_and_talking_about_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120674",
+    "text_pt": "Conheci alguém nova hoje. Ela parece amigável",
+    "text_en": "I met someone new today. She seems friendly",
+    "audio_en_storage_path": "674_i_met_someone_new_today_she_seems_friendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120675",
+    "text_pt": "Encontrei um rosto novo hoje — pareceu bem legal",
+    "text_en": "Ran into a new face today — seemed pretty cool",
+    "audio_en_storage_path": "675_ran_into_a_new_face_today_seemed_pretty_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120676",
+    "text_pt": "Ele trabalha na loja e está sempre sorrindo",
+    "text_en": "He works at the store and is always smiling",
+    "audio_en_storage_path": "676_he_works_at_the_store_and_is_always_smiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120677",
+    "text_pt": "Trabalha na loja e sempre tem aquele sorriso",
+    "text_en": "Works over at the shop and always got that grin",
+    "audio_en_storage_path": "677_works_over_at_the_shop_and_always_got_that_grin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120678",
+    "text_pt": "Ela é minha vizinha e costumamos dizer olá",
+    "text_en": "She is my neighbor and we often say hello",
+    "audio_en_storage_path": "678_she_is_my_neighbor_and_we_often_say_hello.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120679",
+    "text_pt": "Mora ao lado e nos esbarramos o tempo todo",
+    "text_en": "Lives next door and we bump into each other all the time",
+    "audio_en_storage_path": "679_lives_next_door_and_we_bump_into_each_other_all_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120680",
+    "text_pt": "Ele é meu professor e explica as coisas claramente",
+    "text_en": "He is my teacher and explains things clearly",
+    "audio_en_storage_path": "680_he_is_my_teacher_and_explains_things_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120681",
+    "text_pt": "Meu instrutor — explica as coisas de forma fácil de entender",
+    "text_en": "My instructor — breaks things down easy to get",
+    "audio_en_storage_path": "681_my_instructor_breaks_things_down_easy_to_get.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120682",
+    "text_pt": "Ela é minha prima e nós crescemos juntos",
+    "text_en": "She is my cousin and we grew up together",
+    "audio_en_storage_path": "682_she_is_my_cousin_and_we_grew_up_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120683",
+    "text_pt": "Ela é família — cresceram correndo juntos",
+    "text_en": "She’s family — grew up runnin’ around together",
+    "audio_en_storage_path": "683_shes_family_grew_up_runnin_around_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120684",
+    "text_pt": "Ele é um amigo da escola e toca violão",
+    "text_en": "He is a friend from school and plays guitar",
+    "audio_en_storage_path": "684_he_is_a_friend_from_school_and_plays_guitar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120685",
+    "text_pt": "Colega de escola — toca violão como um louco",
+    "text_en": "School buddy — can play the guitar like crazy",
+    "audio_en_storage_path": "685_school_buddy_can_play_the_guitar_like_crazy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120686",
+    "text_pt": "Ela é a gerente e administra bem o lugar",
+    "text_en": "She is the manager and runs the place well",
+    "audio_en_storage_path": "686_she_is_the_manager_and_runs_the_place_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120687",
+    "text_pt": "Ela comanda esse lugar como uma chefe — essa é a chefe",
+    "text_en": "Runs this joint like a boss — that’s the boss lady",
+    "audio_en_storage_path": "687_runs_this_joint_like_a_boss_thats_the_boss_lady.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120688",
+    "text_pt": "Ele é médico e ajuda muitas pessoas",
+    "text_en": "He is a doctor and helps many people",
+    "audio_en_storage_path": "688_he_is_a_doctor_and_helps_many_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120689",
+    "text_pt": "Salva vidas — um verdadeiro médico",
+    "text_en": "Saves lives — real deal medical guy",
+    "audio_en_storage_path": "689_saves_lives_real_deal_medical_guy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120690",
+    "text_pt": "Ela é uma artista e pinta quadros incríveis",
+    "text_en": "She is an artist and paints amazing pictures",
+    "audio_en_storage_path": "690_she_is_an_artist_and_paints_amazing_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120691",
+    "text_pt": "Cria arte selvagem — as cores ganham vida na tela",
+    "text_en": "Creates wild art — colors come alive on canvas",
+    "audio_en_storage_path": "691_creates_wild_art_colors_come_alive_on_canvas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120692",
+    "text_pt": "Ele é escritor e publica livros todos os anos",
+    "text_en": "He is a writer and publishes books every year",
+    "audio_en_storage_path": "692_he_is_a_writer_and_publishes_books_every_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120693",
+    "text_pt": "Coloca a caneta no papel e deixa cair os livros todos os anos",
+    "text_en": "Puts pen to paper and drops books every year",
+    "audio_en_storage_path": "693_puts_pen_to_paper_and_drops_books_every_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120694",
+    "text_pt": "Ela é dançarina e se apresenta no palco",
+    "text_en": "She is a dancer and performs on stage",
+    "audio_en_storage_path": "694_she_is_a_dancer_and_performs_on_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120695",
+    "text_pt": "Adora os holofotes — move-se como mágica no palco",
+    "text_en": "Loves the spotlight — moves like magic onstage",
+    "audio_en_storage_path": "695_loves_the_spotlight_moves_like_magic_onstage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120696",
+    "text_pt": "Ele é estudante e estuda todos os dias",
+    "text_en": "He is a student and studies every day",
+    "audio_en_storage_path": "696_he_is_a_student_and_studies_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120697",
+    "text_pt": "Bate forte nos livros — futuro acadêmico ali mesmo",
+    "text_en": "Hits the books hard — future scholar right there",
+    "audio_en_storage_path": "697_hits_the_books_hard_future_scholar_right_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120698",
+    "text_pt": "Ela é uma chef e cozinha comidas deliciosas",
+    "text_en": "She is a chef and cooks delicious food",
+    "audio_en_storage_path": "698_she_is_a_chef_and_cooks_delicious_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120699",
+    "text_pt": "Mago da cozinha — faz comida com gosto de paraíso",
+    "text_en": "Kitchen wizard — makes food that tastes like heaven",
+    "audio_en_storage_path": "699_kitchen_wizard_makes_food_that_tastes_like_heaven.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120700",
+    "text_pt": "Ele é músico e toca em uma banda",
+    "text_en": "He is a musician and plays in a band",
+    "audio_en_storage_path": "700_he_is_a_musician_and_plays_in_a_band.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120701",
+    "text_pt": "Parte de uma banda — vive pela música e pelo ritmo",
+    "text_en": "Part of a band — lives for music and rhythm",
+    "audio_en_storage_path": "701_part_of_a_band_lives_for_music_and_rhythm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120702",
+    "text_pt": "Aproveite seu tempo e conheça novas pessoas",
+    "text_en": "Enjoy your time and meet new people",
+    "audio_en_storage_path": "702_enjoy_your_time_and_meet_new_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120703",
+    "text_pt": "Saia e faça novos amigos",
+    "text_en": "Get out there and make some new friends",
+    "audio_en_storage_path": "703_get_out_there_and_make_some_new_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120704",
+    "text_pt": "Conhecendo alguém melhor",
+    "text_en": "Getting to Know Someone Better",
+    "audio_en_storage_path": "704_getting_to_know_someone_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120705",
+    "text_pt": "O que ela faz para viver?",
+    "text_en": "What does she do for a living?",
+    "audio_en_storage_path": "705_what_does_she_do_for_a_living.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120706",
+    "text_pt": "Qual é a profissão dela? O que você sabe sobre a área de atuação dela?",
+    "text_en": "What’s her job? Whaddya know ‘bout her line of work?",
+    "audio_en_storage_path": "706_whats_her_job_whaddya_know_bout_her_line_of_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120707",
+    "text_pt": "De onde ele veio originalmente?",
+    "text_en": "Where does he come from originally?",
+    "audio_en_storage_path": "707_where_does_he_come_from_originally.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120708",
+    "text_pt": "De onde ele é? Tipo... da cidade natal?",
+    "text_en": "Where’s he from? Like. hometown kinda thing?",
+    "audio_en_storage_path": "708_wheres_he_from_like_hometown_kinda_thing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120709",
+    "text_pt": "Quantos anos ela tem? Você sabe?",
+    "text_en": "How old is she? Do you know?",
+    "audio_en_storage_path": "709_how_old_is_she_do_you_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120710",
+    "text_pt": "Quantos anos ela tem? Você sabe?",
+    "text_en": "How old’s she? You happen to know?",
+    "audio_en_storage_path": "710_how_olds_she_you_happen_to_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120711",
+    "text_pt": "Por que ele é sempre tão sério?",
+    "text_en": "Why is he always so serious?",
+    "audio_en_storage_path": "711_why_is_he_always_so_serious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120712",
+    "text_pt": "Por que ele está sempre olhando tão fundo? Imagino o que se passa na cabeça dele",
+    "text_en": "Why’s he always lookin’ so deep? Wonder what’s on his mind",
+    "audio_en_storage_path": "712_whys_he_always_lookin_so_deep_wonder_whats_on_his_mind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120713",
+    "text_pt": "Quando você a conheceu?",
+    "text_en": "When did you first meet her?",
+    "audio_en_storage_path": "713_when_did_you_first_meet_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120714",
+    "text_pt": "Quando vocês dois se cruzaram pela primeira vez?",
+    "text_en": "When’d ya two first cross paths?",
+    "audio_en_storage_path": "714_whend_ya_two_first_cross_paths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120715",
+    "text_pt": "Eles moram aqui ou em algum outro lugar?",
+    "text_en": "Do they live around here or somewhere else?",
+    "audio_en_storage_path": "715_do_they_live_around_here_or_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120716",
+    "text_pt": "Eles moram perto ou mais longe?",
+    "text_en": "They live nearby or further out?",
+    "audio_en_storage_path": "716_they_live_nearby_or_further_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120717",
+    "text_pt": "Ela é casada ou solteira?",
+    "text_en": "Is she married or single?",
+    "audio_en_storage_path": "717_is_she_married_or_single.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120718",
+    "text_pt": "Ela está comprometida ou livre para se misturar?",
+    "text_en": "Is she taken or free to mingle?",
+    "audio_en_storage_path": "718_is_she_taken_or_free_to_mingle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120719",
+    "text_pt": "Ele tem irmãos ou irmãs?",
+    "text_en": "Does he have any brothers or sisters?",
+    "audio_en_storage_path": "719_does_he_have_any_brothers_or_sisters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120720",
+    "text_pt": "Tem irmãos? Família assim?",
+    "text_en": "Got any siblings? Family like that?",
+    "audio_en_storage_path": "720_got_any_siblings_family_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120721",
+    "text_pt": "Que tipo de música ela gosta?",
+    "text_en": "What kind of music does she like?",
+    "audio_en_storage_path": "721_what_kind_of_music_does_she_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120722",
+    "text_pt": "Que tipo de música ela curte? Tem alguma favorita?",
+    "text_en": "What kind of tunes she into? Any favorites?",
+    "audio_en_storage_path": "722_what_kind_of_tunes_she_into_any_favorites.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120723",
+    "text_pt": "Quais são os hobbies dele?",
+    "text_en": "What hobbies does he have?",
+    "audio_en_storage_path": "723_what_hobbies_does_he_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120724",
+    "text_pt": "O que ele faz fora do trabalho? Hobbies ou algo assim?",
+    "text_en": "What’s he into outside of work? Hobbies or somethin’?",
+    "audio_en_storage_path": "724_whats_he_into_outside_of_work_hobbies_or_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120725",
+    "text_pt": "Há quanto tempo eles se conhecem?",
+    "text_en": "How long have they known each other?",
+    "audio_en_storage_path": "725_how_long_have_they_known_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120726",
+    "text_pt": "Por quanto tempo elas ficaram apertadas desse jeito?",
+    "text_en": "How long they been tight like that?",
+    "audio_en_storage_path": "726_how_long_they_been_tight_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120727",
+    "text_pt": "Ela é extrovertida ou mais quieta?",
+    "text_en": "Is she outgoing or more of a quiet person?",
+    "audio_en_storage_path": "727_is_she_outgoing_or_more_of_a_quiet_person.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120728",
+    "text_pt": "Ela é uma daquelas pessoas sociáveis ​​ou mais discreta?",
+    "text_en": "She’s one of those social butterflies or more low-key?",
+    "audio_en_storage_path": "728_shes_one_of_those_social_butterflies_or_more_lowkey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120729",
+    "text_pt": "O que fez com que eles se tornassem amigos?",
+    "text_en": "What made them become friends?",
+    "audio_en_storage_path": "729_what_made_them_become_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120730",
+    "text_pt": "O que os uniu como amigos?",
+    "text_en": "What brought ‘em together as friends?",
+    "audio_en_storage_path": "730_what_brought_em_together_as_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120731",
+    "text_pt": "Você os vê com frequência?",
+    "text_en": "Do you see them often?",
+    "audio_en_storage_path": "731_do_you_see_them_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120732",
+    "text_pt": "Você os encontra com frequência ultimamente?",
+    "text_en": "You bump into ‘em often these days?",
+    "audio_en_storage_path": "732_you_bump_into_em_often_these_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120733",
+    "text_pt": "Obrigado por compartilhar. Tenha um ótimo dia.",
+    "text_en": "Thanks for sharing. Have a great day",
+    "audio_en_storage_path": "733_thanks_for_sharing_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120734",
+    "text_pt": "Aproveite o bate-papo — aproveite o seu dia",
+    "text_en": "Appreciate the chat — enjoy your day",
+    "audio_en_storage_path": "734_appreciate_the_chat_enjoy_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

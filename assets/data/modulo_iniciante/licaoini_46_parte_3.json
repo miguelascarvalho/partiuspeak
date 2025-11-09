@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102784",
+    "text_pt": "Testes médicos",
+    "text_en": "Medical Tests",
+    "audio_en_storage_path": "1884_medical_tests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102785",
+    "text_pt": "O laboratório fica no porão do hospital.",
+    "text_en": "The lab is in the hospital basement.",
+    "audio_en_storage_path": "1885_the_lab_is_in_the_hospital_basement.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102786",
+    "text_pt": "Foi lá que fiz meu exame de sangue.",
+    "text_en": "That’s where I did my blood test.",
+    "audio_en_storage_path": "1886_thats_where_i_did_my_blood_test.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102787",
+    "text_pt": "Fui lá para fazer exames de sangue e tomografias.",
+    "text_en": "I went there for blood work and scans.",
+    "audio_en_storage_path": "1887_i_went_there_for_blood_work_and_scans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102788",
+    "text_pt": "Ou para verificar os níveis de colesterol e açúcar.",
+    "text_en": "Or to check cholesterol and sugar levels.",
+    "audio_en_storage_path": "1888_or_to_check_cholesterol_and_sugar_levels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102789",
+    "text_pt": "O quarto é claro e cheira a álcool.",
+    "text_en": "The room is bright and smells like alcohol.",
+    "audio_en_storage_path": "1889_the_room_is_bright_and_smells_like_alcohol.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102790",
+    "text_pt": "Cadeiras de metal frio e vestidos de papel.",
+    "text_en": "Cold metal chairs and paper gowns.",
+    "audio_en_storage_path": "1890_cold_metal_chairs_and_paper_gowns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102791",
+    "text_pt": "Há agulhas. luvas e copos por perto.",
+    "text_en": "There are needles. gloves. and cups nearby.",
+    "audio_en_storage_path": "1891_there_are_needles_gloves_and_cups_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102792",
+    "text_pt": "E formulários com perguntas pessoais.",
+    "text_en": "And forms asking personal questions.",
+    "audio_en_storage_path": "1892_and_forms_asking_personal_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102793",
+    "text_pt": "Que tipo de exame você fez?",
+    "text_en": "What kind of exam did you do?",
+    "audio_en_storage_path": "1893_what_kind_of_exam_did_you_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102794",
+    "text_pt": "Teste de pressão arterial e glicose.",
+    "text_en": "Blood pressure and glucose test.",
+    "audio_en_storage_path": "1894_blood_pressure_and_glucose_test.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102795",
+    "text_pt": "Onde fica a sala de raio X?",
+    "text_en": "Where is the X-ray room?",
+    "audio_en_storage_path": "1895_where_is_the_xray_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102796",
+    "text_pt": "No final do corredor — depois do laboratório.",
+    "text_en": "Down the hall — past the lab.",
+    "audio_en_storage_path": "1896_down_the_hall_past_the_lab.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102797",
+    "text_pt": "Às vezes faço exames de urina.",
+    "text_en": "Sometimes I do urine tests.",
+    "audio_en_storage_path": "1897_sometimes_i_do_urine_tests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102798",
+    "text_pt": "Outras vezes. apenas exames de sangue ou cardíacos.",
+    "text_en": "Other times just blood or heart check.",
+    "audio_en_storage_path": "1898_other_times_just_blood_or_heart_check.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102799",
+    "text_pt": "Onde você deixou seus resultados?",
+    "text_en": "Where did you leave your results?",
+    "audio_en_storage_path": "1899_where_did_you_leave_your_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102800",
+    "text_pt": "Na minha bolsa — debaixo da garrafa de água.",
+    "text_en": "In my bag — under the water bottle.",
+    "audio_en_storage_path": "1900_in_my_bag_under_the_water_bottle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102801",
+    "text_pt": "Quando você receberá seus resultados?",
+    "text_en": "When will you get your results?",
+    "audio_en_storage_path": "1901_when_will_you_get_your_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102802",
+    "text_pt": "Em dois dias — eles enviarão por e-mail.",
+    "text_en": "In two days — they’ll send it by email.",
+    "audio_en_storage_path": "1902_in_two_days_theyll_send_it_by_email.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102803",
+    "text_pt": "Por que você fez o teste hoje?",
+    "text_en": "Why did you do the test today?",
+    "audio_en_storage_path": "1903_why_did_you_do_the_test_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102804",
+    "text_pt": "Porque eu sentia que algo estava errado.",
+    "text_en": "Because I felt something was off.",
+    "audio_en_storage_path": "1904_because_i_felt_something_was_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102805",
+    "text_pt": "Ele faz testes regularmente.",
+    "text_en": "He does tests regularly.",
+    "audio_en_storage_path": "1905_he_does_tests_regularly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102806",
+    "text_pt": "É melhor prevenir do que remediar.",
+    "text_en": "Better safe than sorry.",
+    "audio_en_storage_path": "1906_better_safe_than_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102807",
+    "text_pt": "Amanhã não vou esquecer de jejuar antes do teste novamente.",
+    "text_en": "Tomorrow. I will not forget to fast before the test again.",
+    "audio_en_storage_path": "1907_tomorrow_i_will_not_forget_to_fast_before_the_test_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102808",
+    "text_pt": "Estragou o teste de açúcar no sangue da última vez.",
+    "text_en": "Ruined the blood sugar test last time.",
+    "audio_en_storage_path": "1908_ruined_the_blood_sugar_test_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102809",
+    "text_pt": "Prepare-se bem!",
+    "text_en": "Prepare well!",
+    "audio_en_storage_path": "1909_prepare_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102810",
+    "text_pt": "O jejum ajuda a obter resultados claros.",
+    "text_en": "Fasting helps get clear results.",
+    "audio_en_storage_path": "1910_fasting_helps_get_clear_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

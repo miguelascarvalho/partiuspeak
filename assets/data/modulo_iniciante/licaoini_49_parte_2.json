@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103189",
+    "text_pt": "Cuidados Domiciliares / Repouso na Cama",
+    "text_en": "Home Care / Bed Rest",
+    "audio_en_storage_path": "2289_home_care_bed_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103190",
+    "text_pt": "Ela está descansando em casa hoje.",
+    "text_en": "She is resting at home today.",
+    "audio_en_storage_path": "2290_she_is_resting_at_home_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103191",
+    "text_pt": "Não sair — precisa de tempo para se curar.",
+    "text_en": "Not going out — needs time to heal.",
+    "audio_en_storage_path": "2291_not_going_out_needs_time_to_heal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103192",
+    "text_pt": "Ela bebe água e dorme cedo.",
+    "text_en": "She drinks water and sleeps early.",
+    "audio_en_storage_path": "2292_she_drinks_water_and_sleeps_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103193",
+    "text_pt": "Às vezes lê ou assiste a programas relaxantes.",
+    "text_en": "Sometimes reads or watches calming shows.",
+    "audio_en_storage_path": "2293_sometimes_reads_or_watches_calming_shows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103194",
+    "text_pt": "Seu cobertor é quente e seu quarto é escuro.",
+    "text_en": "Her blanket is warm and her room is dark.",
+    "audio_en_storage_path": "2294_her_blanket_is_warm_and_her_room_is_dark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103195",
+    "text_pt": "As luzes estão apagadas para ajudá-la a descansar.",
+    "text_en": "Lights are off to help her rest.",
+    "audio_en_storage_path": "2295_lights_are_off_to_help_her_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103196",
+    "text_pt": "Há lenços de papel. suco e analgésicos por perto.",
+    "text_en": "There are tissues. juice. and painkillers nearby.",
+    "audio_en_storage_path": "2296_there_are_tissues_juice_and_painkillers_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103197",
+    "text_pt": "E um bilhete dizendo “Beba mais água”.",
+    "text_en": "And a note saying “Drink more water.”",
+    "audio_en_storage_path": "2297_and_a_note_saying_drink_more_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103198",
+    "text_pt": "O que há de errado com ela?",
+    "text_en": "What’s wrong with her?",
+    "audio_en_storage_path": "2298_whats_wrong_with_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103199",
+    "text_pt": "Febre e dor de cabeça — talvez gripe.",
+    "text_en": "Fever and headache — maybe flu.",
+    "audio_en_storage_path": "2299_fever_and_headache_maybe_flu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103200",
+    "text_pt": "Onde ela está agora?",
+    "text_en": "Where is she now?",
+    "audio_en_storage_path": "2300_where_is_she_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103201",
+    "text_pt": "Na cama — coberto e descansando.",
+    "text_en": "In bed — covered and resting.",
+    "audio_en_storage_path": "2301_in_bed_covered_and_resting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103202",
+    "text_pt": "Às vezes ela anda devagar.",
+    "text_en": "Sometimes she walks slowly.",
+    "audio_en_storage_path": "2302_sometimes_she_walks_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103203",
+    "text_pt": "Outras vezes fica na cama o dia todo.",
+    "text_en": "Other times stays in bed all day.",
+    "audio_en_storage_path": "2303_other_times_stays_in_bed_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103204",
+    "text_pt": "Onde ela deixou o telefone?",
+    "text_en": "Where did she leave her phone?",
+    "audio_en_storage_path": "2304_where_did_she_leave_her_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103205",
+    "text_pt": "No criado-mudo — ao lado do abajur.",
+    "text_en": "On the nightstand — next to the lamp.",
+    "audio_en_storage_path": "2305_on_the_nightstand_next_to_the_lamp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103206",
+    "text_pt": "Quando ela vai se levantar novamente?",
+    "text_en": "When will she get up again?",
+    "audio_en_storage_path": "2306_when_will_she_get_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103207",
+    "text_pt": "Depois do almoço — se ela se sentir melhor.",
+    "text_en": "After lunch — if she feels better.",
+    "audio_en_storage_path": "2307_after_lunch_if_she_feels_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103208",
+    "text_pt": "Por que ela ficou em casa hoje?",
+    "text_en": "Why did she stay home today?",
+    "audio_en_storage_path": "2308_why_did_she_stay_home_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103209",
+    "text_pt": "Porque ela não conseguia parar de tossir.",
+    "text_en": "Because she couldn’t stop coughing.",
+    "audio_en_storage_path": "2309_because_she_couldnt_stop_coughing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103210",
+    "text_pt": "Ele descansa quando não está bem.",
+    "text_en": "He rests when he’s not well.",
+    "audio_en_storage_path": "2310_he_rests_when_hes_not_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103211",
+    "text_pt": "Nunca se impõe diante de uma doença.",
+    "text_en": "Never forces himself through sickness.",
+    "audio_en_storage_path": "2311_never_forces_himself_through_sickness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103212",
+    "text_pt": "Amanhã não vou mais esquecer de tomar os remédios na hora certa.",
+    "text_en": "Tomorrow. I will not forget to take medicine on time again.",
+    "audio_en_storage_path": "2312_tomorrow_i_will_not_forget_to_take_medicine_on_time_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103213",
+    "text_pt": "Perdi uma dose ontem — piorou as coisas.",
+    "text_en": "Missed a dose yesterday — made things worse.",
+    "audio_en_storage_path": "2313_missed_a_dose_yesterday_made_things_worse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103214",
+    "text_pt": "Cure suavemente!",
+    "text_en": "Heal gently!",
+    "audio_en_storage_path": "2314_heal_gently.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103215",
+    "text_pt": "Seu corpo precisa de tempo e cuidado.",
+    "text_en": "Your body needs time and care.",
+    "audio_en_storage_path": "2315_your_body_needs_time_and_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

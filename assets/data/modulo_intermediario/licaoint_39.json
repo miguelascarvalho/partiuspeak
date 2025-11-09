@@ -1,0 +1,1379 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121231",
+    "text_pt": "As pessoas estão dançando e se divertindo na festa",
+    "text_en": "People are dancing and having fun at the party",
+    "audio_en_storage_path": "1231_people_are_dancing_and_having_fun_at_the_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121232",
+    "text_pt": "As pessoas estão dançando e se divertindo muito por lá",
+    "text_en": "Folks are dancin’ and havin’ a blast over there",
+    "audio_en_storage_path": "1232_folks_are_dancin_and_havin_a_blast_over_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121233",
+    "text_pt": "A música é alta, mas todo mundo parece gostar",
+    "text_en": "The music is loud but everyone seems to enjoy it",
+    "audio_en_storage_path": "1233_the_music_is_loud_but_everyone_seems_to_enjoy_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121234",
+    "text_pt": "As batidas estão bombando, mas todo mundo está adorando",
+    "text_en": "Beats are bumpin’ but everyone’s lovin’ it",
+    "audio_en_storage_path": "1234_beats_are_bumpin_but_everyones_lovin_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121235",
+    "text_pt": "Há lanches e bebidas na mesa perto da janela",
+    "text_en": "There are snacks and drinks on the table near the window",
+    "audio_en_storage_path": "1235_there_are_snacks_and_drinks_on_the_table_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121236",
+    "text_pt": "Tenho batatas fritas, molhos e bebidas, todos alinhados perto da janela",
+    "text_en": "Got chips. dips. and drinks all lined up by the window",
+    "audio_en_storage_path": "1236_got_chips_dips_and_drinks_all_lined_up_by_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121237",
+    "text_pt": "Algumas pessoas estão sentadas lá fora conversando enquanto outras estão dançando",
+    "text_en": "Some people are sitting outside talking while others are dancing",
+    "audio_en_storage_path": "1237_some_people_are_sitting_outside_talking_while_others_are_dancing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121238",
+    "text_pt": "Poucas pessoas relaxando e conversando. Outras dançando intensamente",
+    "text_en": "Few folks chillin’ out back chat’n. others dancin’ hard",
+    "audio_en_storage_path": "1238_few_folks_chillin_out_back_chatn_others_dancin_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121239",
+    "text_pt": "Conheci alguém novo e conversamos por um tempo",
+    "text_en": "I met someone new and we talked for a while",
+    "audio_en_storage_path": "1239_i_met_someone_new_and_we_talked_for_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121240",
+    "text_pt": "Encontrei essa pessoa legal e conversamos um pouco",
+    "text_en": "Ran into this cool person and chatted for a bit",
+    "audio_en_storage_path": "1240_ran_into_this_cool_person_and_chatted_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121241",
+    "text_pt": "Você poderia me dizer onde fica o banheiro?",
+    "text_en": "Could you tell me where the bathroom is?",
+    "audio_en_storage_path": "1241_could_you_tell_me_where_the_bathroom_is.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121242",
+    "text_pt": "Você poderia me mostrar o banheiro rapidinho?",
+    "text_en": "Couldja point me to the restroom real quick?",
+    "audio_en_storage_path": "1242_couldja_point_me_to_the_restroom_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121243",
+    "text_pt": "Essa é a primeira vez que venho a uma festa como essa",
+    "text_en": "This is my first time coming to a party like this",
+    "audio_en_storage_path": "1243_this_is_my_first_time_coming_to_a_party_like_this.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121244",
+    "text_pt": "Primeira vez em uma festa como essa — bem selvagem",
+    "text_en": "First time at a shindig like this — pretty wild",
+    "audio_en_storage_path": "1244_first_time_at_a_shindig_like_this_pretty_wild.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121245",
+    "text_pt": "Ela trouxe seu violão e tocou algumas músicas",
+    "text_en": "She brought her guitar and played a few songs",
+    "audio_en_storage_path": "1245_she_brought_her_guitar_and_played_a_few_songs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121246",
+    "text_pt": "Ela apareceu com seu violão e lançou algumas músicas",
+    "text_en": "She showed up with her guitar and dropped a few tunes",
+    "audio_en_storage_path": "1246_she_showed_up_with_her_guitar_and_dropped_a_few_tunes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121247",
+    "text_pt": "Deixe-me pegar algo para comer antes que eu esqueça",
+    "text_en": "Let me grab something to eat before I forget",
+    "audio_en_storage_path": "1247_let_me_grab_something_to_eat_before_i_forget.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121248",
+    "text_pt": "Deixe-me dar uma mordida antes que eu esqueça que estou com fome",
+    "text_en": "Lemme snag a bite ‘fore I forget I’m hungry",
+    "audio_en_storage_path": "1248_lemme_snag_a_bite_fore_i_forget_im_hungry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121249",
+    "text_pt": "Ele me ofereceu uma bebida e perguntou se eu estava me divertindo",
+    "text_en": "He offered me a drink and asked if I was having fun",
+    "audio_en_storage_path": "1249_he_offered_me_a_drink_and_asked_if_i_was_having_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121250",
+    "text_pt": "O cara me deu uma bebida e verificou se eu estava me divertindo",
+    "text_en": "Dude handed me a drink and checked if I was enjoyin’ myself",
+    "audio_en_storage_path": "1250_dude_handed_me_a_drink_and_checked_if_i_was_enjoyin_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121251",
+    "text_pt": "Há luzes penduradas em todos os lugares, o que faz com que pareça mágico",
+    "text_en": "There are lights hanging everywhere making it look magical",
+    "audio_en_storage_path": "1251_there_are_lights_hanging_everywhere_making_it_look_magical.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121252",
+    "text_pt": "Luzes espalhadas por todo lugar — faz parecer um mundo de sonho",
+    "text_en": "Lights strung all over — makes it feel like a dream world",
+    "audio_en_storage_path": "1252_lights_strung_all_over_makes_it_feel_like_a_dream_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121253",
+    "text_pt": "Se você quiser mais comida, é só me avisar.",
+    "text_en": "If you want more food. just let me know",
+    "audio_en_storage_path": "1253_if_you_want_more_food_just_let_me_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121254",
+    "text_pt": "Se precisar de mais petiscos, é só gritar",
+    "text_en": "If ya need more munchies. just shout",
+    "audio_en_storage_path": "1254_if_ya_need_more_munchies_just_shout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121255",
+    "text_pt": "Deveríamos dançar juntos mais tarde",
+    "text_en": "We should dance together later",
+    "audio_en_storage_path": "1255_we_should_dance_together_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121256",
+    "text_pt": "Temos que ir para a pista juntos mais tarde",
+    "text_en": "We gotta hit the floor together later",
+    "audio_en_storage_path": "1256_we_gotta_hit_the_floor_together_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121257",
+    "text_pt": "Obrigado por me convidar. Estou gostando muito.",
+    "text_en": "Thanks for inviting me. I’m really enjoying it",
+    "audio_en_storage_path": "1257_thanks_for_inviting_me_im_really_enjoying_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121258",
+    "text_pt": "Agradeço o convite — estou me divertindo muito",
+    "text_en": "Appreciate the invite — havin’ a great time",
+    "audio_en_storage_path": "1258_appreciate_the_invite_havin_a_great_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121259",
+    "text_pt": "Tenha uma boa noite e mantenha a energia alta",
+    "text_en": "Have a good night and keep the energy high",
+    "audio_en_storage_path": "1259_have_a_good_night_and_keep_the_energy_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121540",
+    "text_pt": "Festivais e Eventos",
+    "text_en": "Festivals and Events",
+    "audio_en_storage_path": "1540_festivals_and_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121541",
+    "text_pt": "Há um grande festival de música acontecendo neste fim de semana",
+    "text_en": "There’s a big music festival happening this weekend",
+    "audio_en_storage_path": "1541_theres_a_big_music_festival_happening_this_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121542",
+    "text_pt": "Um grande show está acontecendo neste fim de semana - a cidade inteira está animada",
+    "text_en": "Big show’s goin’ down this weekend — whole city’s excited",
+    "audio_en_storage_path": "1542_big_shows_goin_down_this_weekend_whole_citys_excited.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121543",
+    "text_pt": "Pessoas vêm de todos os lugares para curtir a música e a comida",
+    "text_en": "People come from all over to enjoy the music and food",
+    "audio_en_storage_path": "1543_people_come_from_all_over_to_enjoy_the_music_and_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121544",
+    "text_pt": "Pessoas vêm de todos os lugares só para curtir as músicas e as mordidas",
+    "text_en": "Folks fly in from everywhere just for the tunes and bites",
+    "audio_en_storage_path": "1544_folks_fly_in_from_everywhere_just_for_the_tunes_and_bites.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121545",
+    "text_pt": "O palco é enorme e há luzes por todo lado",
+    "text_en": "The stage is huge and there are lights everywhere",
+    "audio_en_storage_path": "1545_the_stage_is_huge_and_there_are_lights_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121546",
+    "text_pt": "O palco é enorme com luzes piscando por todo lado",
+    "text_en": "Stage’s massive with lights flashin’ all around",
+    "audio_en_storage_path": "1546_stages_massive_with_lights_flashin_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121547",
+    "text_pt": "Você pode comprar bebidas, lanches e produtos oficiais",
+    "text_en": "You can buy drinks. snacks. and official merchandise",
+    "audio_en_storage_path": "1547_you_can_buy_drinks_snacks_and_official_merchandise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121548",
+    "text_pt": "Temos barracas com bebidas, comidas e camisetas que você pode levar para casa",
+    "text_en": "Got stands with drinks. food. and shirts you can take home",
+    "audio_en_storage_path": "1548_got_stands_with_drinks_food_and_shirts_you_can_take_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121549",
+    "text_pt": "Você vai ao festival ou vai ficar em casa?",
+    "text_en": "Are you going to the festival or staying home?",
+    "audio_en_storage_path": "1549_are_you_going_to_the_festival_or_staying_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121550",
+    "text_pt": "Você vai assistir ao show ou relaxar em casa?",
+    "text_en": "You gonna hit up the show or chill at home?",
+    "audio_en_storage_path": "1550_you_gonna_hit_up_the_show_or_chill_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121551",
+    "text_pt": "Comprei meu ingresso online na semana passada",
+    "text_en": "I bought my ticket online last week",
+    "audio_en_storage_path": "1551_i_bought_my_ticket_online_last_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121552",
+    "text_pt": "Comprei meu passe online há pouco tempo",
+    "text_en": "Got my pass online not too long ago",
+    "audio_en_storage_path": "1552_got_my_pass_online_not_too_long_ago.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121553",
+    "text_pt": "Ouvi dizer que algumas bandas famosas estão se apresentando ao vivo",
+    "text_en": "I heard some famous bands are performing live",
+    "audio_en_storage_path": "1553_i_heard_some_famous_bands_are_performing_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121554",
+    "text_pt": "Dizem por aí que grandes nomes estão tocando ao vivo",
+    "text_en": "Word on the street is big names are playin’ live",
+    "audio_en_storage_path": "1554_word_on_the_street_is_big_names_are_playin_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121555",
+    "text_pt": "Onde o festival acontece?",
+    "text_en": "Where is the festival taking place?",
+    "audio_en_storage_path": "1555_where_is_the_festival_taking_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121556",
+    "text_pt": "O que você disse — onde essa coisa está instalada?",
+    "text_en": "Whaddya say — where’s this thing set up?",
+    "audio_en_storage_path": "1556_whaddya_say_wheres_this_thing_set_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121557",
+    "text_pt": "Quando começará amanhã?",
+    "text_en": "When will it start tomorrow?",
+    "audio_en_storage_path": "1557_when_will_it_start_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121558",
+    "text_pt": "Quando eles começarão as coisas amanhã de manhã?",
+    "text_en": "When they kick things off tomorrow morning?",
+    "audio_en_storage_path": "1558_when_they_kick_things_off_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121559",
+    "text_pt": "Por que você perdeu o evento do ano passado?",
+    "text_en": "Why did you miss last year’s event?",
+    "audio_en_storage_path": "1559_why_did_you_miss_last_years_event.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121560",
+    "text_pt": "O que fez você pular o show do ano passado — o que estava acontecendo?",
+    "text_en": "What made ya skip last year’s gig — what was goin’ on?",
+    "audio_en_storage_path": "1560_what_made_ya_skip_last_years_gig_what_was_goin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121561",
+    "text_pt": "Ele trabalha no festival ajudando na segurança",
+    "text_en": "He works at the festival helping with security",
+    "audio_en_storage_path": "1561_he_works_at_the_festival_helping_with_security.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121562",
+    "text_pt": "Ele faz parte da equipe que mantém as coisas seguras e tranquilas",
+    "text_en": "He’s part of the crew keepin’ things safe and smooth",
+    "audio_en_storage_path": "1562_hes_part_of_the_crew_keepin_things_safe_and_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121563",
+    "text_pt": "Não vou sentir falta mesmo que chova",
+    "text_en": "I won’t miss it even if it rains",
+    "audio_en_storage_path": "1563_i_wont_miss_it_even_if_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121564",
+    "text_pt": "Mesmo que chova, eu não vou ficar longe",
+    "text_en": "Even if it pours. I’m not stayin’ away",
+    "audio_en_storage_path": "1564_even_if_it_pours_im_not_stayin_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121565",
+    "text_pt": "Aproveite a energia e divirta-se",
+    "text_en": "Enjoy the energy and have fun",
+    "audio_en_storage_path": "1565_enjoy_the_energy_and_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121566",
+    "text_pt": "Solte-se e aproveite cada minuto",
+    "text_en": "Let loose and enjoy every minute",
+    "audio_en_storage_path": "1566_let_loose_and_enjoy_every_minute.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121567",
+    "text_pt": "Tome cuidado e observe suas coisas",
+    "text_en": "Take care and watch your stuff",
+    "audio_en_storage_path": "1567_take_care_and_watch_your_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121568",
+    "text_pt": "Fique de olho nas suas coisas — não perca nada",
+    "text_en": "Keep an eye on your things — don’t lose anything",
+    "audio_en_storage_path": "1568_keep_an_eye_on_your_things_dont_lose_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121569",
+    "text_pt": "Vejo você lá — vista algo legal",
+    "text_en": "See you there — wear something cool",
+    "audio_en_storage_path": "1569_see_you_there_wear_something_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121570",
+    "text_pt": "Te vejo lá — vista-se para impressionar",
+    "text_en": "Catch ya there — dress to impress",
+    "audio_en_storage_path": "1570_catch_ya_there_dress_to_impress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121571",
+    "text_pt": "Festivais e Eventos",
+    "text_en": "Festivals and Events",
+    "audio_en_storage_path": "1571_festivals_and_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121572",
+    "text_pt": "Há um grande festival de música acontecendo neste fim de semana",
+    "text_en": "There’s a big music festival happening this weekend",
+    "audio_en_storage_path": "1572_theres_a_big_music_festival_happening_this_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121573",
+    "text_pt": "Um grande show está acontecendo neste fim de semana - a cidade inteira está animada",
+    "text_en": "Big show’s goin’ down this weekend — whole city’s excited",
+    "audio_en_storage_path": "1573_big_shows_goin_down_this_weekend_whole_citys_excited.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121574",
+    "text_pt": "Pessoas vêm de todos os lugares para curtir a música e a comida",
+    "text_en": "People come from all over to enjoy the music and food",
+    "audio_en_storage_path": "1574_people_come_from_all_over_to_enjoy_the_music_and_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121575",
+    "text_pt": "Pessoas vêm de todos os lugares só para curtir as músicas e as mordidas",
+    "text_en": "Folks fly in from everywhere just for the tunes and bites",
+    "audio_en_storage_path": "1575_folks_fly_in_from_everywhere_just_for_the_tunes_and_bites.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121576",
+    "text_pt": "O palco é enorme e há luzes por todo lado",
+    "text_en": "The stage is huge and there are lights everywhere",
+    "audio_en_storage_path": "1576_the_stage_is_huge_and_there_are_lights_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121577",
+    "text_pt": "O palco é enorme com luzes piscando por todo lado",
+    "text_en": "Stage’s massive with lights flashin’ all around",
+    "audio_en_storage_path": "1577_stages_massive_with_lights_flashin_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121578",
+    "text_pt": "Você pode comprar bebidas, lanches e produtos oficiais",
+    "text_en": "You can buy drinks. snacks. and official merchandise",
+    "audio_en_storage_path": "1578_you_can_buy_drinks_snacks_and_official_merchandise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121579",
+    "text_pt": "Temos barracas com bebidas, comidas e camisetas que você pode levar para casa",
+    "text_en": "Got stands with drinks. food. and shirts you can take home",
+    "audio_en_storage_path": "1579_got_stands_with_drinks_food_and_shirts_you_can_take_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121580",
+    "text_pt": "Você vai ao festival ou vai ficar em casa?",
+    "text_en": "Are you going to the festival or staying home?",
+    "audio_en_storage_path": "1580_are_you_going_to_the_festival_or_staying_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121581",
+    "text_pt": "Você vai assistir ao show ou relaxar em casa?",
+    "text_en": "You gonna hit up the show or chill at home?",
+    "audio_en_storage_path": "1581_you_gonna_hit_up_the_show_or_chill_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121582",
+    "text_pt": "Comprei meu ingresso online na semana passada",
+    "text_en": "I bought my ticket online last week",
+    "audio_en_storage_path": "1582_i_bought_my_ticket_online_last_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121583",
+    "text_pt": "Comprei meu passe online há pouco tempo",
+    "text_en": "Got my pass online not too long ago",
+    "audio_en_storage_path": "1583_got_my_pass_online_not_too_long_ago.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121584",
+    "text_pt": "Ouvi dizer que algumas bandas famosas estão se apresentando ao vivo",
+    "text_en": "I heard some famous bands are performing live",
+    "audio_en_storage_path": "1584_i_heard_some_famous_bands_are_performing_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121585",
+    "text_pt": "Dizem por aí que grandes nomes estão tocando ao vivo",
+    "text_en": "Word on the street is big names are playin’ live",
+    "audio_en_storage_path": "1585_word_on_the_street_is_big_names_are_playin_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121586",
+    "text_pt": "Onde o festival acontece?",
+    "text_en": "Where is the festival taking place?",
+    "audio_en_storage_path": "1586_where_is_the_festival_taking_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121587",
+    "text_pt": "O que você disse — onde essa coisa está instalada?",
+    "text_en": "Whaddya say — where’s this thing set up?",
+    "audio_en_storage_path": "1587_whaddya_say_wheres_this_thing_set_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121588",
+    "text_pt": "Quando começará amanhã?",
+    "text_en": "When will it start tomorrow?",
+    "audio_en_storage_path": "1588_when_will_it_start_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121589",
+    "text_pt": "Quando eles começarão as coisas amanhã de manhã?",
+    "text_en": "When they kick things off tomorrow morning?",
+    "audio_en_storage_path": "1589_when_they_kick_things_off_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121590",
+    "text_pt": "Por que você perdeu o evento do ano passado?",
+    "text_en": "Why did you miss last year’s event?",
+    "audio_en_storage_path": "1590_why_did_you_miss_last_years_event.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121591",
+    "text_pt": "O que fez você pular o show do ano passado — o que estava acontecendo?",
+    "text_en": "What made ya skip last year’s gig — what was goin’ on?",
+    "audio_en_storage_path": "1591_what_made_ya_skip_last_years_gig_what_was_goin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121592",
+    "text_pt": "Ele trabalha no festival ajudando na segurança",
+    "text_en": "He works at the festival helping with security",
+    "audio_en_storage_path": "1592_he_works_at_the_festival_helping_with_security.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121593",
+    "text_pt": "Ele faz parte da equipe que mantém as coisas seguras e tranquilas",
+    "text_en": "He’s part of the crew keepin’ things safe and smooth",
+    "audio_en_storage_path": "1593_hes_part_of_the_crew_keepin_things_safe_and_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121594",
+    "text_pt": "Não vou sentir falta mesmo que chova",
+    "text_en": "I won’t miss it even if it rains",
+    "audio_en_storage_path": "1594_i_wont_miss_it_even_if_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121595",
+    "text_pt": "Mesmo que chova, eu não vou ficar longe",
+    "text_en": "Even if it pours. I’m not stayin’ away",
+    "audio_en_storage_path": "1595_even_if_it_pours_im_not_stayin_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121596",
+    "text_pt": "Aproveite a energia e divirta-se",
+    "text_en": "Enjoy the energy and have fun",
+    "audio_en_storage_path": "1596_enjoy_the_energy_and_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121597",
+    "text_pt": "Solte-se e aproveite cada minuto",
+    "text_en": "Let loose and enjoy every minute",
+    "audio_en_storage_path": "1597_let_loose_and_enjoy_every_minute.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121598",
+    "text_pt": "Tome cuidado e observe suas coisas",
+    "text_en": "Take care and watch your stuff",
+    "audio_en_storage_path": "1598_take_care_and_watch_your_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121599",
+    "text_pt": "Fique de olho nas suas coisas — não perca nada",
+    "text_en": "Keep an eye on your things — don’t lose anything",
+    "audio_en_storage_path": "1599_keep_an_eye_on_your_things_dont_lose_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121600",
+    "text_pt": "Vejo você lá — vista algo legal",
+    "text_en": "See you there — wear something cool",
+    "audio_en_storage_path": "1600_see_you_there_wear_something_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121601",
+    "text_pt": "Te vejo lá — vista-se para impressionar",
+    "text_en": "Catch ya there — dress to impress",
+    "audio_en_storage_path": "1601_catch_ya_there_dress_to_impress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121602",
+    "text_pt": "Festivais e eventos de música",
+    "text_en": "Music Festivals and Events",
+    "audio_en_storage_path": "1602_music_festivals_and_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121603",
+    "text_pt": "Há um grande festival de música neste fim de semana no centro da cidade",
+    "text_en": "There’s a big music festival this weekend downtown",
+    "audio_en_storage_path": "1603_theres_a_big_music_festival_this_weekend_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121604",
+    "text_pt": "A cidade inteira está agitada — grande show acontecendo neste fim de semana",
+    "text_en": "Whole city’s buzzin’ — big show happening this weekend",
+    "audio_en_storage_path": "1604_whole_citys_buzzin_big_show_happening_this_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121605",
+    "text_pt": "Pessoas vêm de todos os lugares para ver suas bandas favoritas",
+    "text_en": "People come from everywhere to see their favorite bands",
+    "audio_en_storage_path": "1605_people_come_from_everywhere_to_see_their_favorite_bands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121606",
+    "text_pt": "Pessoas vêm de todos os lugares só para ouvir as músicas",
+    "text_en": "Folks fly in from all over just for the tunes",
+    "audio_en_storage_path": "1606_folks_fly_in_from_all_over_just_for_the_tunes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121607",
+    "text_pt": "O palco principal é enorme, com luzes e alto-falantes por todo lado",
+    "text_en": "The main stage is huge with lights and speakers everywhere",
+    "audio_en_storage_path": "1607_the_main_stage_is_huge_with_lights_and_speakers_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121608",
+    "text_pt": "O palco principal é enorme — tem luzes e som por todo lado",
+    "text_en": "Main stage’s massive — got lights and sound all around",
+    "audio_en_storage_path": "1608_main_stages_massive_got_lights_and_sound_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121609",
+    "text_pt": "Você pode comprar bebidas, comidas e produtos oficiais no evento",
+    "text_en": "You can buy drinks. food. and official merch at the event",
+    "audio_en_storage_path": "1609_you_can_buy_drinks_food_and_official_merch_at_the_event.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121610",
+    "text_pt": "Temos barracas com lanches, bebidas e camisetas que você pode levar para casa",
+    "text_en": "Got stands with snacks. drinks. and shirts you can take home",
+    "audio_en_storage_path": "1610_got_stands_with_snacks_drinks_and_shirts_you_can_take_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121611",
+    "text_pt": "Você vai ao show ou vai ficar em casa?",
+    "text_en": "Are you going to the concert or staying home?",
+    "audio_en_storage_path": "1611_are_you_going_to_the_concert_or_staying_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121612",
+    "text_pt": "Você vai assistir ao show ou relaxar em casa?",
+    "text_en": "You gonna hit up the show or chill at home?",
+    "audio_en_storage_path": "1612_you_gonna_hit_up_the_show_or_chill_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121613",
+    "text_pt": "Já comprei meu ingresso online na semana passada",
+    "text_en": "I already bought my ticket online last week",
+    "audio_en_storage_path": "1613_i_already_bought_my_ticket_online_last_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121614",
+    "text_pt": "Comprei meu passe online há pouco tempo",
+    "text_en": "Got my pass online not too long ago",
+    "audio_en_storage_path": "1614_got_my_pass_online_not_too_long_ago.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121615",
+    "text_pt": "Alguns artistas famosos se apresentarão ao vivo amanhã à noite",
+    "text_en": "Some famous artists are performing live tomorrow night",
+    "audio_en_storage_path": "1615_some_famous_artists_are_performing_live_tomorrow_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121616",
+    "text_pt": "Grandes nomes no palco amanhã — não quero perder",
+    "text_en": "Big names takin’ the stage tomorrow — don’t wanna miss it",
+    "audio_en_storage_path": "1616_big_names_takin_the_stage_tomorrow_dont_wanna_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121617",
+    "text_pt": "Onde devemos nos encontrar antes do início do festival?",
+    "text_en": "Where should we meet before the festival starts?",
+    "audio_en_storage_path": "1617_where_should_we_meet_before_the_festival_starts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121618",
+    "text_pt": "Onde nos encontramos antes do show começar?",
+    "text_en": "Where we link up before the show kicks off?",
+    "audio_en_storage_path": "1618_where_we_link_up_before_the_show_kicks_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121619",
+    "text_pt": "Quando a atração principal subirá ao palco?",
+    "text_en": "When will the headliner go on stage?",
+    "audio_en_storage_path": "1619_when_will_the_headliner_go_on_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121620",
+    "text_pt": "Quando é que o grande número vai começar a tocar?",
+    "text_en": "When’s the big act supposed to start playin’?",
+    "audio_en_storage_path": "1620_whens_the_big_act_supposed_to_start_playin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121621",
+    "text_pt": "Por que você perdeu o show do ano passado?",
+    "text_en": "Why did you miss last year’s show?",
+    "audio_en_storage_path": "1621_why_did_you_miss_last_years_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121622",
+    "text_pt": "O que fez você pular o show do ano passado — o que estava acontecendo?",
+    "text_en": "What made ya skip last year’s gig — what was goin’ on?",
+    "audio_en_storage_path": "1622_what_made_ya_skip_last_years_gig_what_was_goin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121623",
+    "text_pt": "Ele trabalha no festival ajudando com segurança e controle de multidões",
+    "text_en": "He works at the festival helping with security and crowd control",
+    "audio_en_storage_path": "1623_he_works_at_the_festival_helping_with_security_and_crowd_control.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121624",
+    "text_pt": "Ele faz parte da equipe que mantém as coisas seguras e tranquilas",
+    "text_en": "He’s part of the crew keepin’ things safe and smooth",
+    "audio_en_storage_path": "1624_hes_part_of_the_crew_keepin_things_safe_and_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121625",
+    "text_pt": "Não vou sentir falta mesmo que chova",
+    "text_en": "I won’t miss it even if it rains",
+    "audio_en_storage_path": "1625_i_wont_miss_it_even_if_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121626",
+    "text_pt": "Mesmo que chova, eu não vou ficar longe",
+    "text_en": "Even if it pours. I’m not stayin’ away",
+    "audio_en_storage_path": "1626_even_if_it_pours_im_not_stayin_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121627",
+    "text_pt": "Aproveite a energia e divirta-se",
+    "text_en": "Enjoy the energy and have fun",
+    "audio_en_storage_path": "1627_enjoy_the_energy_and_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121628",
+    "text_pt": "Solte-se e aproveite cada minuto",
+    "text_en": "Let loose and enjoy every minute",
+    "audio_en_storage_path": "1628_let_loose_and_enjoy_every_minute.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121629",
+    "text_pt": "Tome cuidado e observe suas coisas",
+    "text_en": "Take care and watch your stuff",
+    "audio_en_storage_path": "1629_take_care_and_watch_your_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121630",
+    "text_pt": "Fique de olho nas suas coisas — não perca nada",
+    "text_en": "Keep an eye on your things — don’t lose anything",
+    "audio_en_storage_path": "1630_keep_an_eye_on_your_things_dont_lose_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121631",
+    "text_pt": "Vejo você lá — vista algo legal",
+    "text_en": "See you there — wear something cool",
+    "audio_en_storage_path": "1631_see_you_there_wear_something_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121632",
+    "text_pt": "Te vejo lá — vista-se para impressionar",
+    "text_en": "Catch ya there — dress to impress",
+    "audio_en_storage_path": "1632_catch_ya_there_dress_to_impress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121633",
+    "text_pt": "Festivais e eventos de música",
+    "text_en": "Music Festivals and Events",
+    "audio_en_storage_path": "1633_music_festivals_and_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121634",
+    "text_pt": "Há um grande festival de música neste fim de semana no centro da cidade",
+    "text_en": "There’s a big music festival this weekend downtown",
+    "audio_en_storage_path": "1634_theres_a_big_music_festival_this_weekend_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121635",
+    "text_pt": "A cidade inteira está agitada — grande show acontecendo neste fim de semana",
+    "text_en": "Whole city’s buzzin’ — big show happening this weekend",
+    "audio_en_storage_path": "1635_whole_citys_buzzin_big_show_happening_this_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121636",
+    "text_pt": "Pessoas vêm de todos os lugares para ver suas bandas favoritas",
+    "text_en": "People come from everywhere to see their favorite bands",
+    "audio_en_storage_path": "1636_people_come_from_everywhere_to_see_their_favorite_bands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121637",
+    "text_pt": "Pessoas vêm de todos os lugares só para ouvir as músicas",
+    "text_en": "Folks fly in from all over just for the tunes",
+    "audio_en_storage_path": "1637_folks_fly_in_from_all_over_just_for_the_tunes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121638",
+    "text_pt": "O palco principal é enorme, com luzes e alto-falantes por todo lado",
+    "text_en": "The main stage is huge with lights and speakers everywhere",
+    "audio_en_storage_path": "1638_the_main_stage_is_huge_with_lights_and_speakers_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121639",
+    "text_pt": "O palco principal é enorme — tem luzes e som por todo lado",
+    "text_en": "Main stage’s massive — got lights and sound all around",
+    "audio_en_storage_path": "1639_main_stages_massive_got_lights_and_sound_all_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121640",
+    "text_pt": "Você pode comprar bebidas, comidas e produtos oficiais no evento",
+    "text_en": "You can buy drinks. food. and official merch at the event",
+    "audio_en_storage_path": "1640_you_can_buy_drinks_food_and_official_merch_at_the_event.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121641",
+    "text_pt": "Temos barracas com lanches, bebidas e camisetas que você pode levar para casa",
+    "text_en": "Got stands with snacks. drinks. and shirts you can take home",
+    "audio_en_storage_path": "1641_got_stands_with_snacks_drinks_and_shirts_you_can_take_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121642",
+    "text_pt": "Você vai ao show ou vai ficar em casa?",
+    "text_en": "Are you going to the concert or staying home?",
+    "audio_en_storage_path": "1642_are_you_going_to_the_concert_or_staying_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121643",
+    "text_pt": "Você vai assistir ao show ou relaxar em casa?",
+    "text_en": "You gonna hit up the show or chill at home?",
+    "audio_en_storage_path": "1643_you_gonna_hit_up_the_show_or_chill_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121644",
+    "text_pt": "Já comprei meu ingresso online na semana passada",
+    "text_en": "I already bought my ticket online last week",
+    "audio_en_storage_path": "1644_i_already_bought_my_ticket_online_last_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121645",
+    "text_pt": "Comprei meu passe online há pouco tempo",
+    "text_en": "Got my pass online not too long ago",
+    "audio_en_storage_path": "1645_got_my_pass_online_not_too_long_ago.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121646",
+    "text_pt": "Alguns artistas famosos se apresentarão ao vivo amanhã à noite",
+    "text_en": "Some famous artists are performing live tomorrow night",
+    "audio_en_storage_path": "1646_some_famous_artists_are_performing_live_tomorrow_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121647",
+    "text_pt": "Grandes nomes no palco amanhã — não quero perder",
+    "text_en": "Big names takin’ the stage tomorrow — don’t wanna miss it",
+    "audio_en_storage_path": "1647_big_names_takin_the_stage_tomorrow_dont_wanna_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121648",
+    "text_pt": "Onde devemos nos encontrar antes do início do festival?",
+    "text_en": "Where should we meet before the festival starts?",
+    "audio_en_storage_path": "1648_where_should_we_meet_before_the_festival_starts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121649",
+    "text_pt": "Onde nos encontramos antes do show começar?",
+    "text_en": "Where we link up before the show kicks off?",
+    "audio_en_storage_path": "1649_where_we_link_up_before_the_show_kicks_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121650",
+    "text_pt": "Quando a atração principal subirá ao palco?",
+    "text_en": "When will the headliner go on stage?",
+    "audio_en_storage_path": "1650_when_will_the_headliner_go_on_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121651",
+    "text_pt": "Quando é que o grande número vai começar a tocar?",
+    "text_en": "When’s the big act supposed to start playin’?",
+    "audio_en_storage_path": "1651_whens_the_big_act_supposed_to_start_playin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121652",
+    "text_pt": "Por que você perdeu o show do ano passado?",
+    "text_en": "Why did you miss last year’s show?",
+    "audio_en_storage_path": "1652_why_did_you_miss_last_years_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121653",
+    "text_pt": "O que fez você pular o show do ano passado — o que estava acontecendo?",
+    "text_en": "What made ya skip last year’s gig — what was goin’ on?",
+    "audio_en_storage_path": "1653_what_made_ya_skip_last_years_gig_what_was_goin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121654",
+    "text_pt": "Ele trabalha no festival ajudando com segurança e controle de multidões",
+    "text_en": "He works at the festival helping with security and crowd control",
+    "audio_en_storage_path": "1654_he_works_at_the_festival_helping_with_security_and_crowd_control.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121655",
+    "text_pt": "Ele faz parte da equipe que mantém as coisas seguras e tranquilas",
+    "text_en": "He’s part of the crew keepin’ things safe and smooth",
+    "audio_en_storage_path": "1655_hes_part_of_the_crew_keepin_things_safe_and_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121656",
+    "text_pt": "Não vou sentir falta mesmo que chova",
+    "text_en": "I won’t miss it even if it rains",
+    "audio_en_storage_path": "1656_i_wont_miss_it_even_if_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121657",
+    "text_pt": "Mesmo que chova, eu não vou ficar longe",
+    "text_en": "Even if it pours. I’m not stayin’ away",
+    "audio_en_storage_path": "1657_even_if_it_pours_im_not_stayin_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121658",
+    "text_pt": "Aproveite a energia e divirta-se",
+    "text_en": "Enjoy the energy and have fun",
+    "audio_en_storage_path": "1658_enjoy_the_energy_and_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121659",
+    "text_pt": "Solte-se e aproveite cada minuto",
+    "text_en": "Let loose and enjoy every minute",
+    "audio_en_storage_path": "1659_let_loose_and_enjoy_every_minute.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121660",
+    "text_pt": "Tome cuidado e observe suas coisas",
+    "text_en": "Take care and watch your stuff",
+    "audio_en_storage_path": "1660_take_care_and_watch_your_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121661",
+    "text_pt": "Fique de olho nas suas coisas — não perca nada",
+    "text_en": "Keep an eye on your things — don’t lose anything",
+    "audio_en_storage_path": "1661_keep_an_eye_on_your_things_dont_lose_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121662",
+    "text_pt": "Vejo você lá — vista algo legal",
+    "text_en": "See you there — wear something cool",
+    "audio_en_storage_path": "1662_see_you_there_wear_something_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121663",
+    "text_pt": "Te vejo lá — vista-se para impressionar",
+    "text_en": "Catch ya there — dress to impress",
+    "audio_en_storage_path": "1663_catch_ya_there_dress_to_impress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

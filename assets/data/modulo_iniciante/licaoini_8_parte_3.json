@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101060",
+    "text_pt": "Como chegar ao shopping – Ônibus",
+    "text_en": "How to get to the mall – Bus",
+    "audio_en_storage_path": "160_how_to_get_to_the_mall_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101061",
+    "text_pt": "Pegue o ônibus na estação principal no centro da cidade.",
+    "text_en": "Catch the bus at the main station downtown.",
+    "audio_en_storage_path": "161_catch_the_bus_at_the_main_station_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101062",
+    "text_pt": "A linha 21 vai diretamente para o shopping.",
+    "text_en": "Line 21 goes directly to the mall.",
+    "audio_en_storage_path": "162_line_21_goes_directly_to_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101063",
+    "text_pt": "O passeio dura cerca de 25 minutos.",
+    "text_en": "The ride takes about 25 minutes.",
+    "audio_en_storage_path": "163_the_ride_takes_about_25_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101064",
+    "text_pt": "Passa por dois bairros.",
+    "text_en": "Passes through two neighborhoods.",
+    "audio_en_storage_path": "164_passes_through_two_neighborhoods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101065",
+    "text_pt": "Desça na quarta parada depois do hospital.",
+    "text_en": "Get off at the fourth stop after the hospital.",
+    "audio_en_storage_path": "165_get_off_at_the_fourth_stop_after_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101066",
+    "text_pt": "Você verá o shopping do outro lado da rua.",
+    "text_en": "You’ll see the mall across the street.",
+    "audio_en_storage_path": "166_youll_see_the_mall_across_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101067",
+    "text_pt": "O ônibus sai a cada 15 minutos durante o dia.",
+    "text_en": "The bus leaves every 15 minutes during the day.",
+    "audio_en_storage_path": "167_the_bus_leaves_every_15_minutes_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101068",
+    "text_pt": "O primeiro é às 7:00 da manhã.",
+    "text_en": "First one is at 7:00 AM.",
+    "audio_en_storage_path": "168_first_one_is_at_700_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101069",
+    "text_pt": "Qual linha vai para o shopping center?",
+    "text_en": "Which line goes to the shopping center?",
+    "audio_en_storage_path": "169_which_line_goes_to_the_shopping_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101070",
+    "text_pt": "Linha 21 — para em frente ao shopping.",
+    "text_en": "Line 21 — stops in front of the mall.",
+    "audio_en_storage_path": "170_line_21_stops_in_front_of_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101071",
+    "text_pt": "Onde posso comprar o ingresso?",
+    "text_en": "Where can I buy the ticket?",
+    "audio_en_storage_path": "171_where_can_i_buy_the_ticket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101072",
+    "text_pt": "No ônibus ou na cabine da estação.",
+    "text_en": "On the bus or at the station booth.",
+    "audio_en_storage_path": "172_on_the_bus_or_at_the_station_booth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101073",
+    "text_pt": "Às vezes eu sento perto da janela.",
+    "text_en": "Sometimes I sit by the window.",
+    "audio_en_storage_path": "173_sometimes_i_sit_by_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101074",
+    "text_pt": "Outras vezes fico de pé se estiver cheio.",
+    "text_en": "Other times I stand if it’s busy.",
+    "audio_en_storage_path": "174_other_times_i_stand_if_its_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101075",
+    "text_pt": "Onde eu desço?",
+    "text_en": "Where do I get off?",
+    "audio_en_storage_path": "175_where_do_i_get_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101076",
+    "text_pt": "Na quarta parada — perto da grande árvore.",
+    "text_en": "At the fourth stop — near the big tree.",
+    "audio_en_storage_path": "176_at_the_fourth_stop_near_the_big_tree.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101077",
+    "text_pt": "Quando sai o último ônibus?",
+    "text_en": "When does the last bus leave?",
+    "audio_en_storage_path": "177_when_does_the_last_bus_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101078",
+    "text_pt": "Às 21h30 — não se atrase.",
+    "text_en": "At 9:30 PM — don’t be late.",
+    "audio_en_storage_path": "178_at_930_pm_dont_be_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101079",
+    "text_pt": "Por que você pegou o ônibus hoje?",
+    "text_en": "Why did you take the bus today?",
+    "audio_en_storage_path": "179_why_did_you_take_the_bus_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101080",
+    "text_pt": "Porque eu não queria dirigir no trânsito pesado.",
+    "text_en": "Because I didn't want to drive in heavy traffic.",
+    "audio_en_storage_path": "180_because_i_didnt_want_to_drive_in_heavy_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101081",
+    "text_pt": "Ele pega o ônibus todo sábado.",
+    "text_en": "He takes the bus every Saturday.",
+    "audio_en_storage_path": "181_he_takes_the_bus_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101082",
+    "text_pt": "Chega sempre cedo e tranquilo.",
+    "text_en": "Always arrives early and relaxed.",
+    "audio_en_storage_path": "182_always_arrives_early_and_relaxed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101083",
+    "text_pt": "Amanhã. Não esquecerei de conferir a programação novamente.",
+    "text_en": "Tomorrow. I will not forget to check the schedule again.",
+    "audio_en_storage_path": "183_tomorrow_i_will_not_forget_to_check_the_schedule_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101084",
+    "text_pt": "Perdi o ônibus ontem — péssimo momento.",
+    "text_en": "Missed the bus yesterday — bad timing.",
+    "audio_en_storage_path": "184_missed_the_bus_yesterday_bad_timing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101085",
+    "text_pt": "Aproveite sua viagem!",
+    "text_en": "Enjoy your trip!",
+    "audio_en_storage_path": "185_enjoy_your_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101086",
+    "text_pt": "O ônibus é uma ótima maneira de relaxar e viajar.",
+    "text_en": "Bus is a great way to relax and travel.",
+    "audio_en_storage_path": "186_bus_is_a_great_way_to_relax_and_travel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

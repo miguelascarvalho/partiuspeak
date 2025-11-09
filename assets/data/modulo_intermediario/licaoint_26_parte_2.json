@@ -1,0 +1,443 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120270",
+    "text_pt": "Dentro do quarto do hotel",
+    "text_en": "Inside the Hotel Room",
+    "audio_en_storage_path": "270_inside_the_hotel_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120271",
+    "text_pt": "O quarto é maior do que eu esperava",
+    "text_en": "The room is bigger than I expected",
+    "audio_en_storage_path": "271_the_room_is_bigger_than_i_expected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120272",
+    "text_pt": "O quarto é maior do que eu pensava que seria",
+    "text_en": "Room’s bigger than I thought it’d be",
+    "audio_en_storage_path": "272_rooms_bigger_than_i_thought_itd_be.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120273",
+    "text_pt": "Há uma cama, uma escrivaninha, uma cadeira e um pequeno armário.",
+    "text_en": "There’s a bed. a desk. a chair. and a small closet",
+    "audio_en_storage_path": "273_theres_a_bed_a_desk_a_chair_and_a_small_closet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120274",
+    "text_pt": "Tenho uma cama, uma escrivaninha, uma cadeira e um mini armário.",
+    "text_en": "Got a bed. desk. chair. and a mini closet",
+    "audio_en_storage_path": "274_got_a_bed_desk_chair_and_a_mini_closet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120275",
+    "text_pt": "O banheiro tem um chuveiro e um espelho grande",
+    "text_en": "The bathroom has a shower and a big mirror",
+    "audio_en_storage_path": "275_the_bathroom_has_a_shower_and_a_big_mirror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120276",
+    "text_pt": "O banheiro tem um chuveiro e um espelho enorme",
+    "text_en": "Bathroom got a shower and a huge mirror",
+    "audio_en_storage_path": "276_bathroom_got_a_shower_and_a_huge_mirror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120277",
+    "text_pt": "Há toalhas, sabonete, xampu e secador de cabelo.",
+    "text_en": "There are towels. soap. shampoo. and a hair dryer",
+    "audio_en_storage_path": "277_there_are_towels_soap_shampoo_and_a_hair_dryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120278",
+    "text_pt": "Todos os itens básicos — toalhas, sabonete, xampu e secador de cabelo",
+    "text_en": "All the basics — towels. soap. shampoo. and a hairdryer",
+    "audio_en_storage_path": "278_all_the_basics_towels_soap_shampoo_and_a_hairdryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120279",
+    "text_pt": "Você pode fazer café ou chá usando esta máquina",
+    "text_en": "You can make coffee or tea using this machine",
+    "audio_en_storage_path": "279_you_can_make_coffee_or_tea_using_this_machine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120280",
+    "text_pt": "Máquina aqui para fazer café ou chá sempre que quiser",
+    "text_en": "Machine here to make coffee or tea whenever",
+    "audio_en_storage_path": "280_machine_here_to_make_coffee_or_tea_whenever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120281",
+    "text_pt": "A TV tem muitos canais e funciona bem",
+    "text_en": "The TV has many channels and works well",
+    "audio_en_storage_path": "281_the_tv_has_many_channels_and_works_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120282",
+    "text_pt": "A TV tem muitos canais e funciona perfeitamente",
+    "text_en": "TV’s got tons of channels and it runs smooth",
+    "audio_en_storage_path": "282_tvs_got_tons_of_channels_and_it_runs_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120283",
+    "text_pt": "Há uma geladeira com bebidas e lanches dentro",
+    "text_en": "There’s a fridge with drinks and snacks inside",
+    "audio_en_storage_path": "283_theres_a_fridge_with_drinks_and_snacks_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120284",
+    "text_pt": "O frigobar tem bebidas e lanches — alguns com custo extra",
+    "text_en": "Mini fridge has drinks and snacks — some cost extra",
+    "audio_en_storage_path": "284_mini_fridge_has_drinks_and_snacks_some_cost_extra.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120285",
+    "text_pt": "Por favor, pendure a toalha se quiser limpá-la novamente",
+    "text_en": "Please hang the towel if you want it cleaned again",
+    "audio_en_storage_path": "285_please_hang_the_towel_if_you_want_it_cleaned_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120286",
+    "text_pt": "Se você quiser uma toalha nova, basta deixá-la pendurada no banheiro.",
+    "text_en": "If ya want a new towel. just leave it hanging in the bathroom",
+    "audio_en_storage_path": "286_if_ya_want_a_new_towel_just_leave_it_hanging_in_the_bathroom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120287",
+    "text_pt": "Apague as luzes e tranque a porta ao sair",
+    "text_en": "Turn off the lights and lock the door when leaving",
+    "audio_en_storage_path": "287_turn_off_the_lights_and_lock_the_door_when_leaving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120288",
+    "text_pt": "Apague as luzes e certifique-se de que a porta esteja trancada quando sair",
+    "text_en": "Turn off the lights and make sure the door’s locked when you go",
+    "audio_en_storage_path": "288_turn_off_the_lights_and_make_sure_the_doors_locked_when_you_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120289",
+    "text_pt": "Não se esqueça de levar o seu cartão-chave consigo",
+    "text_en": "Don’t forget to take your key card with you",
+    "audio_en_storage_path": "289_dont_forget_to_take_your_key_card_with_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120290",
+    "text_pt": "Não saia sem o seu cartão-chave — você não entrará novamente",
+    "text_en": "Don’t walk out without your key card — you won’t get back in",
+    "audio_en_storage_path": "290_dont_walk_out_without_your_key_card_you_wont_get_back_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120291",
+    "text_pt": "Se precisar de mais travesseiros, basta perguntar na recepção.",
+    "text_en": "If you need more pillows. just ask at the front desk",
+    "audio_en_storage_path": "291_if_you_need_more_pillows_just_ask_at_the_front_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120292",
+    "text_pt": "Precisa de travesseiros extras? Basta ir à recepção.",
+    "text_en": "Need extra pillows? Just hit up the front desk",
+    "audio_en_storage_path": "292_need_extra_pillows_just_hit_up_the_front_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120293",
+    "text_pt": "O ar condicionado funciona, mas é um pouco barulhento",
+    "text_en": "The air conditioning works but it’s a bit noisy",
+    "audio_en_storage_path": "293_the_air_conditioning_works_but_its_a_bit_noisy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120294",
+    "text_pt": "O ar condicionado funciona, mas às vezes faz um barulho estranho",
+    "text_en": "AC works. but makes a weird sound sometimes",
+    "audio_en_storage_path": "294_ac_works_but_makes_a_weird_sound_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120295",
+    "text_pt": "Há um cofre onde você pode guardar seu passaporte e dinheiro",
+    "text_en": "There’s a safe where you can keep your passport and money",
+    "audio_en_storage_path": "295_theres_a_safe_where_you_can_keep_your_passport_and_money.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120296",
+    "text_pt": "Tenho um cofre para guardar passaporte, dinheiro e outras coisas",
+    "text_en": "Got a safe to store passport. cash. and other stuff",
+    "audio_en_storage_path": "296_got_a_safe_to_store_passport_cash_and_other_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120297",
+    "text_pt": "Certifique-se de que tudo esteja pronto antes do horário de check-out",
+    "text_en": "Make sure everything is ready before check-out time",
+    "audio_en_storage_path": "297_make_sure_everything_is_ready_before_checkout_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120298",
+    "text_pt": "Faça as malas cedo para estar bem antes do check-out",
+    "text_en": "Pack up early so you’re good before check-out",
+    "audio_en_storage_path": "298_pack_up_early_so_youre_good_before_checkout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120299",
+    "text_pt": "Aproveite seu tempo aqui e descanse bem",
+    "text_en": "Enjoy your time here and rest well",
+    "audio_en_storage_path": "299_enjoy_your_time_here_and_rest_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120300",
+    "text_pt": "Fique tranquilo e durma bem esta noite",
+    "text_en": "Take it easy and get some good sleep tonight",
+    "audio_en_storage_path": "300_take_it_easy_and_get_some_good_sleep_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120301",
+    "text_pt": "Serviços e atividades do hotel",
+    "text_en": "Hotel Services and Activities",
+    "audio_en_storage_path": "301_hotel_services_and_activities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120302",
+    "text_pt": "Há um buffet de café da manhã no andar de baixo das 7h às 10h",
+    "text_en": "There’s a breakfast buffet downstairs from 7 to 10",
+    "audio_en_storage_path": "302_theres_a_breakfast_buffet_downstairs_from_7_to_10.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120303",
+    "text_pt": "O café da manhã começa às 7 e vai até às 10 no andar de baixo",
+    "text_en": "Breakfast starts at 7 and goes till 10 downstairs",
+    "audio_en_storage_path": "303_breakfast_starts_at_7_and_goes_till_10_downstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120304",
+    "text_pt": "Eles oferecem serviço de quarto durante todo o dia e noite",
+    "text_en": "They offer room service all day and night",
+    "audio_en_storage_path": "304_they_offer_room_service_all_day_and_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120305",
+    "text_pt": "O serviço de quarto funciona 24 horas por dia, 7 dias por semana — basta ligar para eles",
+    "text_en": "Room service runs 24/7 — just give ‘em a call",
+    "audio_en_storage_path": "305_room_service_runs_247_just_give_em_a_call.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120306",
+    "text_pt": "Há uma academia e uma piscina no segundo andar",
+    "text_en": "There’s a gym and a swimming pool on the second floor",
+    "audio_en_storage_path": "306_theres_a_gym_and_a_swimming_pool_on_the_second_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120307",
+    "text_pt": "Academia e piscina ficam no segundo andar — abertas o dia todo",
+    "text_en": "Gym and pool are on the second floor — open all day",
+    "audio_en_storage_path": "307_gym_and_pool_are_on_the_second_floor_open_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120308",
+    "text_pt": "O restaurante serve jantar até às 23h",
+    "text_en": "The restaurant serves dinner until 11 PM",
+    "audio_en_storage_path": "308_the_restaurant_serves_dinner_until_11_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120309",
+    "text_pt": "Jantar servido até às 11h — refeições tardias são possíveis",
+    "text_en": "Dinner served till 11 — late eats are possible",
+    "audio_en_storage_path": "309_dinner_served_till_11_late_eats_are_possible.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120310",
+    "text_pt": "Você pode reservar passeios e ingressos na recepção",
+    "text_en": "You can book tours and tickets at the front desk",
+    "audio_en_storage_path": "310_you_can_book_tours_and_tickets_at_the_front_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120311",
+    "text_pt": "Passeios e ingressos estão disponíveis na frente",
+    "text_en": "Tours and tickets are available at the front",
+    "audio_en_storage_path": "311_tours_and_tickets_are_available_at_the_front.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120312",
+    "text_pt": "Existe um serviço de lavanderia se você precisar lavar roupas",
+    "text_en": "There’s a laundry service if you need clean clothes",
+    "audio_en_storage_path": "312_theres_a_laundry_service_if_you_need_clean_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120313",
+    "text_pt": "A equipe de lavanderia pode lavar suas roupas — basta deixá-las",
+    "text_en": "Laundry team can wash your clothes — just drop them off",
+    "audio_en_storage_path": "313_laundry_team_can_wash_your_clothes_just_drop_them_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120314",
+    "text_pt": "Eles têm um centro de negócios para impressão e reuniões",
+    "text_en": "They have a business center for printing and meetings",
+    "audio_en_storage_path": "314_they_have_a_business_center_for_printing_and_meetings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120315",
+    "text_pt": "O business spot possui impressoras e salas de reunião",
+    "text_en": "Business spot has printers and meeting rooms",
+    "audio_en_storage_path": "315_business_spot_has_printers_and_meeting_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120316",
+    "text_pt": "A limpeza vem todos os dias, a menos que você diga não",
+    "text_en": "Housekeeping comes every day unless you say no",
+    "audio_en_storage_path": "316_housekeeping_comes_every_day_unless_you_say_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120317",
+    "text_pt": "A empregada aparece todos os dias, a menos que você coloque aquela placa de “não perturbe”",
+    "text_en": "Maid stops by daily unless you put that “do not disturb” sign",
+    "audio_en_storage_path": "317_maid_stops_by_daily_unless_you_put_that_do_not_disturb_sign.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120318",
+    "text_pt": "Há um bar onde você pode relaxar e conhecer pessoas",
+    "text_en": "There’s a bar where you can relax and meet people",
+    "audio_en_storage_path": "318_theres_a_bar_where_you_can_relax_and_meet_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

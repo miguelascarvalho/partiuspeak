@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111565",
+    "text_pt": "Café da manhã",
+    "text_en": "Breakfast",
+    "audio_en_storage_path": "1565_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111566",
+    "text_pt": "O sol nasceu e o café da manhã está pronto.",
+    "text_en": "The sun is up and breakfast is ready.",
+    "audio_en_storage_path": "1566_the_sun_is_up_and_breakfast_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111567",
+    "text_pt": "Sinto cheiro de torrada e café vindo da cozinha.",
+    "text_en": "I smell toast and coffee from the kitchen.",
+    "audio_en_storage_path": "1567_i_smell_toast_and_coffee_from_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111568",
+    "text_pt": "Eu como ovos ou cereais pela manhã.",
+    "text_en": "I eat eggs or cereal in the morning.",
+    "audio_en_storage_path": "1568_i_eat_eggs_or_cereal_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111569",
+    "text_pt": "Às vezes como panquecas com mel.",
+    "text_en": "Sometimes I have pancakes with honey.",
+    "audio_en_storage_path": "1569_sometimes_i_have_pancakes_with_honey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111570",
+    "text_pt": "Meu prato tem frutas, pão e manteiga.",
+    "text_en": "My plate has fruit. bread. and butter.",
+    "audio_en_storage_path": "1570_my_plate_has_fruit_bread_and_butter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111571",
+    "text_pt": "Há também um copo de suco de laranja.",
+    "text_en": "There’s also a glass of orange juice.",
+    "audio_en_storage_path": "1571_theres_also_a_glass_of_orange_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111572",
+    "text_pt": "Sento-me à mesa e leio meu livro.",
+    "text_en": "I sit at the table and read my book.",
+    "audio_en_storage_path": "1572_i_sit_at_the_table_and_read_my_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111573",
+    "text_pt": "Ou assisto ao noticiário enquanto como.",
+    "text_en": "Or I watch the news while eating.",
+    "audio_en_storage_path": "1573_or_i_watch_the_news_while_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111574",
+    "text_pt": "A que horas você costuma acordar?",
+    "text_en": "What time do you usually wake up?",
+    "audio_en_storage_path": "1574_what_time_do_you_usually_wake_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111575",
+    "text_pt": "Por volta das 7:00 — então eu faço o café da manhã.",
+    "text_en": "Around 7:00 — then I make breakfast.",
+    "audio_en_storage_path": "1575_around_700_then_i_make_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111576",
+    "text_pt": "Onde você guarda seus grãos de café?",
+    "text_en": "Where do you keep your coffee beans?",
+    "audio_en_storage_path": "1576_where_do_you_keep_your_coffee_beans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111577",
+    "text_pt": "No armário — ao lado das canecas.",
+    "text_en": "In the cupboard — next to the mugs.",
+    "audio_en_storage_path": "1577_in_the_cupboard_next_to_the_mugs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111578",
+    "text_pt": "Alguns dias eu como rápido. Desapareço lentamente.",
+    "text_en": "Some days I eat fast. disappear slowly.",
+    "audio_en_storage_path": "1578_some_days_i_eat_fast_disappear_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111579",
+    "text_pt": "Depende de quão ocupado estou.",
+    "text_en": "It depends on how busy I am.",
+    "audio_en_storage_path": "1579_it_depends_on_how_busy_i_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111580",
+    "text_pt": "Onde você deixou sua xícara?",
+    "text_en": "Where did you leave your cup?",
+    "audio_en_storage_path": "1580_where_did_you_leave_your_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111581",
+    "text_pt": "No balcão — ainda cheio de chá.",
+    "text_en": "On the counter — still full of tea.",
+    "audio_en_storage_path": "1581_on_the_counter_still_full_of_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111582",
+    "text_pt": "Quando você vai comer amanhã de manhã?",
+    "text_en": "When will you eat tomorrow morning?",
+    "audio_en_storage_path": "1582_when_will_you_eat_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111583",
+    "text_pt": "Depois de me vestir — talvez por volta das 7h30.",
+    "text_en": "After getting dressed — maybe around 7:30.",
+    "audio_en_storage_path": "1583_after_getting_dressed_maybe_around_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111584",
+    "text_pt": "Por que você cozinhou hoje?",
+    "text_en": "Why did you cook today?",
+    "audio_en_storage_path": "1584_why_did_you_cook_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111585",
+    "text_pt": "Porque eu queria algo quente.",
+    "text_en": "Because I wanted something warm.",
+    "audio_en_storage_path": "1585_because_i_wanted_something_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111586",
+    "text_pt": "Eu sempre como alguma coisa antes de começar a trabalhar.",
+    "text_en": "I always eat something before starting work.",
+    "audio_en_storage_path": "1586_i_always_eat_something_before_starting_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111587",
+    "text_pt": "Isso me dá energia para o dia todo.",
+    "text_en": "It gives me energy for the day.",
+    "audio_en_storage_path": "1587_it_gives_me_energy_for_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111588",
+    "text_pt": "Amanhã. Não vou esquecer meu café da manhã novamente.",
+    "text_en": "Tomorrow. I will not forget my breakfast again.",
+    "audio_en_storage_path": "1588_tomorrow_i_will_not_forget_my_breakfast_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111589",
+    "text_pt": "Vou prepará-lo na noite anterior.",
+    "text_en": "I’ll prepare it the night before.",
+    "audio_en_storage_path": "1589_ill_prepare_it_the_night_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111590",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "1590_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111591",
+    "text_pt": "Espero que você aproveite sua refeição.",
+    "text_en": "Hope you enjoy your meal.",
+    "audio_en_storage_path": "1591_hope_you_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111484",
+    "text_pt": "Jantar",
+    "text_en": "Dinner",
+    "audio_en_storage_path": "1484_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111485",
+    "text_pt": "O jantar está pronto e com um cheiro delicioso.",
+    "text_en": "Dinner is ready and smells delicious.",
+    "audio_en_storage_path": "1485_dinner_is_ready_and_smells_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111486",
+    "text_pt": "Hoje à noite, vamos comer frango grelhado e macarrão.",
+    "text_en": "Tonight. we’re having grilled chicken and pasta.",
+    "audio_en_storage_path": "1486_tonight_were_having_grilled_chicken_and_pasta.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111487",
+    "text_pt": "Nós nos sentamos juntos à mesa de jantar.",
+    "text_en": "We sit at the dining table together.",
+    "audio_en_storage_path": "1487_we_sit_at_the_dining_table_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111488",
+    "text_pt": "Ou comemos em frente à TV.",
+    "text_en": "Or we eat in front of the TV.",
+    "audio_en_storage_path": "1488_or_we_eat_in_front_of_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111489",
+    "text_pt": "Os pratos estão cheios e coloridos.",
+    "text_en": "The plates are full and colorful.",
+    "audio_en_storage_path": "1489_the_plates_are_full_and_colorful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111490",
+    "text_pt": "Tem arroz, feijão e vegetais.",
+    "text_en": "There's rice. beans. and vegetables.",
+    "audio_en_storage_path": "1490_theres_rice_beans_and_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111491",
+    "text_pt": "Eu uso garfo e faca para cortar a carne.",
+    "text_en": "I use a fork and knife to cut the meat.",
+    "audio_en_storage_path": "1491_i_use_a_fork_and_knife_to_cut_the_meat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111492",
+    "text_pt": "E uma colher para a sopa.",
+    "text_en": "And a spoon for the soup.",
+    "audio_en_storage_path": "1492_and_a_spoon_for_the_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111493",
+    "text_pt": "O que você comeu no jantar hoje à noite?",
+    "text_en": "What did you have for dinner tonight?",
+    "audio_en_storage_path": "1493_what_did_you_have_for_dinner_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111494",
+    "text_pt": "Legumes salteados e tofu — estilo vegano.",
+    "text_en": "Stir-fried vegetables and tofu — vegan style.",
+    "audio_en_storage_path": "1494_stirfried_vegetables_and_tofu_vegan_style.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111495",
+    "text_pt": "Onde você janta na maioria das noites?",
+    "text_en": "Where do you eat dinner most nights?",
+    "audio_en_storage_path": "1495_where_do_you_eat_dinner_most_nights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111496",
+    "text_pt": "Em casa — com a família ou colegas de quarto.",
+    "text_en": "At home — with family or roommates.",
+    "audio_en_storage_path": "1496_at_home_with_family_or_roommates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111497",
+    "text_pt": "Às vezes eu cozinho. Às vezes outra pessoa cozinha.",
+    "text_en": "Sometimes I cook. sometimes someone else does.",
+    "audio_en_storage_path": "1497_sometimes_i_cook_sometimes_someone_else_does.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111498",
+    "text_pt": "Mas eu sempre ajudo a pôr a mesa.",
+    "text_en": "But I always help set the table.",
+    "audio_en_storage_path": "1498_but_i_always_help_set_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111499",
+    "text_pt": "Onde está o cardápio do jantar hoje à noite?",
+    "text_en": "Where is the dinner menu tonight?",
+    "audio_en_storage_path": "1499_where_is_the_dinner_menu_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111500",
+    "text_pt": "Na geladeira — escrito com ímãs.",
+    "text_en": "On the fridge — written with magnets.",
+    "audio_en_storage_path": "1500_on_the_fridge_written_with_magnets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111501",
+    "text_pt": "Quando você costuma jantar?",
+    "text_en": "When do you usually eat dinner?",
+    "audio_en_storage_path": "1501_when_do_you_usually_eat_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111502",
+    "text_pt": "Por volta das 18h30 — depois do dever de casa ou do trabalho.",
+    "text_en": "Around 6:30 PM — after homework or work.",
+    "audio_en_storage_path": "1502_around_630_pm_after_homework_or_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111503",
+    "text_pt": "Por que você pediu mais?",
+    "text_en": "Why did you ask for seconds?",
+    "audio_en_storage_path": "1503_why_did_you_ask_for_seconds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111504",
+    "text_pt": "Porque tudo tinha um sabor incrível.",
+    "text_en": "Because everything tasted amazing.",
+    "audio_en_storage_path": "1504_because_everything_tasted_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111505",
+    "text_pt": "Jantamos juntos quase todas as noites.",
+    "text_en": "We eat dinner together almost every night.",
+    "audio_en_storage_path": "1505_we_eat_dinner_together_almost_every_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111506",
+    "text_pt": "É um bom momento para conversar e compartilhar histórias.",
+    "text_en": "It's a good time to talk and share stories.",
+    "audio_en_storage_path": "1506_its_a_good_time_to_talk_and_share_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111507",
+    "text_pt": "Amanhã. Não comerei tão rápido novamente.",
+    "text_en": "Tomorrow. I will not eat too fast again.",
+    "audio_en_storage_path": "1507_tomorrow_i_will_not_eat_too_fast_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111508",
+    "text_pt": "Vou mastigar devagar e aproveitar cada mordida.",
+    "text_en": "I’ll chew slowly and enjoy every bite.",
+    "audio_en_storage_path": "1508_ill_chew_slowly_and_enjoy_every_bite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111509",
+    "text_pt": "Boa noite!",
+    "text_en": "Goodnight!",
+    "audio_en_storage_path": "1509_goodnight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111510",
+    "text_pt": "Espero que você tenha gostado do seu jantar.",
+    "text_en": "Hope you enjoyed your dinner.",
+    "audio_en_storage_path": "1510_hope_you_enjoyed_your_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

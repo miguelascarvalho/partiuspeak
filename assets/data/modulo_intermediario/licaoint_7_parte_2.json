@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110809",
+    "text_pt": "Carro",
+    "text_en": "Car",
+    "audio_en_storage_path": "809_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110810",
+    "text_pt": "Ela dirige seu carro para o trabalho.",
+    "text_en": "She drives her car to work.",
+    "audio_en_storage_path": "810_she_drives_her_car_to_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110811",
+    "text_pt": "Ela sai de casa às 8:00 da manhã.",
+    "text_en": "She leaves home at 8:00 AM.",
+    "audio_en_storage_path": "811_she_leaves_home_at_800_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110812",
+    "text_pt": "O carro é branco e pequeno.",
+    "text_en": "The car is white and small.",
+    "audio_en_storage_path": "812_the_car_is_white_and_small.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110813",
+    "text_pt": "Ela toca uma música suave enquanto dirige.",
+    "text_en": "It plays soft music when she drives.",
+    "audio_en_storage_path": "813_it_plays_soft_music_when_she_drives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110814",
+    "text_pt": "Nós limpamos o carro todo fim de semana.",
+    "text_en": "We clean the car every weekend.",
+    "audio_en_storage_path": "814_we_clean_the_car_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110815",
+    "text_pt": "Lavamos as janelas e passamos aspirador por dentro.",
+    "text_en": "We wash the windows and vacuum inside.",
+    "audio_en_storage_path": "815_we_wash_the_windows_and_vacuum_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110816",
+    "text_pt": "Eles usam o carro para visitar a família.",
+    "text_en": "They use the car to visit family.",
+    "audio_en_storage_path": "816_they_use_the_car_to_visit_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110817",
+    "text_pt": "Às vezes eles vão acampar ou à praia.",
+    "text_en": "Sometimes they go camping or to the beach.",
+    "audio_en_storage_path": "817_sometimes_they_go_camping_or_to_the_beach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110818",
+    "text_pt": "Ele ouve podcasts enquanto dirige.",
+    "text_en": "He listens to podcasts while driving.",
+    "audio_en_storage_path": "818_he_listens_to_podcasts_while_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110819",
+    "text_pt": "Ou ele canta junto suas músicas favoritas.",
+    "text_en": "Or he sings along to his favorite songs.",
+    "audio_en_storage_path": "819_or_he_sings_along_to_his_favorite_songs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110820",
+    "text_pt": "O carro tem quatro portas e um porta-malas grande.",
+    "text_en": "The car has four doors and a big trunk.",
+    "audio_en_storage_path": "820_the_car_has_four_doors_and_a_big_trunk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110821",
+    "text_pt": "Há espaço para sacolas e compras.",
+    "text_en": "There's space for bags and groceries.",
+    "audio_en_storage_path": "821_theres_space_for_bags_and_groceries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110822",
+    "text_pt": "Qual é a cor do seu carro?",
+    "text_en": "What color is your car?",
+    "audio_en_storage_path": "822_what_color_is_your_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110823",
+    "text_pt": "É preto com assentos cinza.",
+    "text_en": "It's black with gray seats.",
+    "audio_en_storage_path": "823_its_black_with_gray_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110824",
+    "text_pt": "Onde está o carro agora?",
+    "text_en": "Where is the car now?",
+    "audio_en_storage_path": "824_where_is_the_car_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110825",
+    "text_pt": "Está estacionado em frente à casa.",
+    "text_en": "It’s parked in front of the house.",
+    "audio_en_storage_path": "825_its_parked_in_front_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110826",
+    "text_pt": "Quando você dirige mais?",
+    "text_en": "When do you drive the most?",
+    "audio_en_storage_path": "826_when_do_you_drive_the_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110827",
+    "text_pt": "Nos fins de semana e feriados.",
+    "text_en": "On weekends and holidays.",
+    "audio_en_storage_path": "827_on_weekends_and_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110828",
+    "text_pt": "Por que você consertou o carro ontem?",
+    "text_en": "Why did you fix the car yesterday?",
+    "audio_en_storage_path": "828_why_did_you_fix_the_car_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110829",
+    "text_pt": "Porque o motor fazia barulhos estranhos.",
+    "text_en": "Because the engine made strange noises.",
+    "audio_en_storage_path": "829_because_the_engine_made_strange_noises.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110830",
+    "text_pt": "Gostamos de fazer longas viagens juntos.",
+    "text_en": "We enjoy long drives together.",
+    "audio_en_storage_path": "830_we_enjoy_long_drives_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110831",
+    "text_pt": "É relaxante e divertido.",
+    "text_en": "It’s relaxing and fun.",
+    "audio_en_storage_path": "831_its_relaxing_and_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110832",
+    "text_pt": "Amanhã. eles não vão esquecer de encher o tanque.",
+    "text_en": "Tomorrow. they will not forget to fill the tank.",
+    "audio_en_storage_path": "832_tomorrow_they_will_not_forget_to_fill_the_tank.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110833",
+    "text_pt": "Eles vão parar no posto de gasolina.",
+    "text_en": "They’ll stop at the gas station.",
+    "audio_en_storage_path": "833_theyll_stop_at_the_gas_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110834",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "834_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110835",
+    "text_pt": "Mantenha as duas mãos no volante.",
+    "text_en": "Keep both hands on the wheel.",
+    "audio_en_storage_path": "835_keep_both_hands_on_the_wheel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

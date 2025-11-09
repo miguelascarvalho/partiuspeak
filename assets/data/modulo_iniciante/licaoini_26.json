@@ -1,0 +1,2189 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102380",
+    "text_pt": "👕 Loja de Roupas",
+    "text_en": "👕 Clothing Store",
+    "audio_en_storage_path": "1480_clothing_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102381",
+    "text_pt": "A loja de roupas fica perto do elevador do segundo andar.",
+    "text_en": "The clothing store is near the second-floor elevator.",
+    "audio_en_storage_path": "1481_the_clothing_store_is_near_the_secondfloor_elevator.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102382",
+    "text_pt": "Ela vende roupas para homens. mulheres e crianças.",
+    "text_en": "It sells clothes for men. women. and kids.",
+    "audio_en_storage_path": "1482_it_sells_clothes_for_men_women_and_kids.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102383",
+    "text_pt": "Procuro camisas. jeans ou jaquetas aqui.",
+    "text_en": "I look for shirts. jeans. or jackets here.",
+    "audio_en_storage_path": "1483_i_look_for_shirts_jeans_or_jackets_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102384",
+    "text_pt": "Às vezes eu apenas dou uma olhada e vou embora.",
+    "text_en": "Sometimes I just browse and leave.",
+    "audio_en_storage_path": "1484_sometimes_i_just_browse_and_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102385",
+    "text_pt": "A prateleira de ofertas tem itens vermelhos. verdes e pretos.",
+    "text_en": "The sale rack has red. green. and black items.",
+    "audio_en_storage_path": "1485_the_sale_rack_has_red_green_and_black_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102386",
+    "text_pt": "Tudo por menos de US$ 20 — ótimas ofertas!",
+    "text_en": "All under $20 — great deals!",
+    "audio_en_storage_path": "1486_all_under_20_great_deals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102387",
+    "text_pt": "De que cor você gostou?",
+    "text_en": "What color did you like?",
+    "audio_en_storage_path": "1487_what_color_did_you_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102388",
+    "text_pt": "Azul claro — mas eles só tinham os escuros.",
+    "text_en": "Light blue — but they only had dark ones.",
+    "audio_en_storage_path": "1488_light_blue_but_they_only_had_dark_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102389",
+    "text_pt": "Quanto custa esse moletom?",
+    "text_en": "How much is that hoodie?",
+    "audio_en_storage_path": "1489_how_much_is_that_hoodie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102390",
+    "text_pt": "US$ 35 — talvez amanhã esteja mais barato.",
+    "text_en": "$35 — maybe tomorrow it will be cheaper.",
+    "audio_en_storage_path": "1490_35_maybe_tomorrow_it_will_be_cheaper.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102391",
+    "text_pt": "Onde posso encontrar tamanhos grandes?",
+    "text_en": "Where can I find big sizes?",
+    "audio_en_storage_path": "1491_where_can_i_find_big_sizes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102392",
+    "text_pt": "Atrás — pergunte a alguém se não tiver certeza.",
+    "text_en": "In the back — ask someone if unsure.",
+    "audio_en_storage_path": "1492_in_the_back_ask_someone_if_unsure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102393",
+    "text_pt": "Não comprei nada hoje.",
+    "text_en": "I didn't buy anything today.",
+    "audio_en_storage_path": "1493_i_didnt_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102394",
+    "text_pt": "Só vim conferir os preços — estão altos demais no momento.",
+    "text_en": "Just came to check prices — too high for now.",
+    "audio_en_storage_path": "1494_just_came_to_check_prices_too_high_for_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102395",
+    "text_pt": "Quando terão novidades?",
+    "text_en": "When will they have new arrivals?",
+    "audio_en_storage_path": "1495_when_will_they_have_new_arrivals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102396",
+    "text_pt": "Semana que vem — eu volto então.",
+    "text_en": "Next week — I’ll come back then.",
+    "audio_en_storage_path": "1496_next_week_ill_come_back_then.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102397",
+    "text_pt": "Por que você devolveu aquela camisa?",
+    "text_en": "Why did you return that shirt?",
+    "audio_en_storage_path": "1497_why_did_you_return_that_shirt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102398",
+    "text_pt": "Porque a gola era apertada e desconfortável.",
+    "text_en": "Because the collar was tight and uncomfortable.",
+    "audio_en_storage_path": "1498_because_the_collar_was_tight_and_uncomfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102399",
+    "text_pt": "Ela sempre verifica os rótulos antes de comprar.",
+    "text_en": "She always checks labels before buying.",
+    "audio_en_storage_path": "1499_she_always_checks_labels_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102400",
+    "text_pt": "Não quer nada sintético ou difícil de lavar.",
+    "text_en": "Doesn’t want anything synthetic or hard to wash.",
+    "audio_en_storage_path": "1500_doesnt_want_anything_synthetic_or_hard_to_wash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102401",
+    "text_pt": "Amanhã. Não esquecerei de trazer minha própria bolsa novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my own bag again.",
+    "audio_en_storage_path": "1501_tomorrow_i_will_not_forget_to_bring_my_own_bag_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102402",
+    "text_pt": "Eles me cobraram um valor extra da última vez.",
+    "text_en": "They charged me extra last time.",
+    "audio_en_storage_path": "1502_they_charged_me_extra_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102403",
+    "text_pt": "As roupas devem ser confortáveis!",
+    "text_en": "Clothes should feel good!",
+    "audio_en_storage_path": "1503_clothes_should_feel_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102404",
+    "text_pt": "Não compre algo que não sirva.",
+    "text_en": "Don’t buy something that doesn’t fit.",
+    "audio_en_storage_path": "1504_dont_buy_something_that_doesnt_fit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102405",
+    "text_pt": "Tenha um ótimo dia!",
+    "text_en": "Have a great day!",
+    "audio_en_storage_path": "1505_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102406",
+    "text_pt": "Espero que você encontre o que procura.",
+    "text_en": "Hope you find what you're looking for.",
+    "audio_en_storage_path": "1506_hope_you_find_what_youre_looking_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102407",
+    "text_pt": "👟 Loja de Tênis",
+    "text_en": "👟 Sneaker Store",
+    "audio_en_storage_path": "1507_sneaker_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102408",
+    "text_pt": "A loja de tênis fica perto do cinema.",
+    "text_en": "The sneaker shop is close to the cinema.",
+    "audio_en_storage_path": "1508_the_sneaker_shop_is_close_to_the_cinema.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102409",
+    "text_pt": "Cheio de cores brilhantes e edições especiais.",
+    "text_en": "Full of bright colors and special editions.",
+    "audio_en_storage_path": "1509_full_of_bright_colors_and_special_editions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102410",
+    "text_pt": "Eu experimento os sapatos antes de comprar.",
+    "text_en": "I try on shoes before buying.",
+    "audio_en_storage_path": "1510_i_try_on_shoes_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102411",
+    "text_pt": "Ou assista a vídeos on-line para comparar.",
+    "text_en": "Or watch videos online to compare.",
+    "audio_en_storage_path": "1511_or_watch_videos_online_to_compare.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102412",
+    "text_pt": "O especial de hoje é tênis branco com listras laranja.",
+    "text_en": "Today’s special is white sneakers with orange stripes.",
+    "audio_en_storage_path": "1512_todays_special_is_white_sneakers_with_orange_stripes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102413",
+    "text_pt": "À venda por US$ 60 — geralmente US$ 90.",
+    "text_en": "On sale for $60 — usually $90.",
+    "audio_en_storage_path": "1513_on_sale_for_60_usually_90.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102414",
+    "text_pt": "Qual par fica melhor?",
+    "text_en": "Which pair looks best?",
+    "audio_en_storage_path": "1514_which_pair_looks_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102415",
+    "text_pt": "Os vermelhos combinam com minha mochila.",
+    "text_en": "The red ones — match my backpack.",
+    "audio_en_storage_path": "1515_the_red_ones_match_my_backpack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102416",
+    "text_pt": "Tem algum desconto hoje?",
+    "text_en": "Is there any discount today?",
+    "audio_en_storage_path": "1516_is_there_any_discount_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102417",
+    "text_pt": "Não — todos os preços são normais.",
+    "text_en": "No — all prices are normal.",
+    "audio_en_storage_path": "1517_no_all_prices_are_normal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102418",
+    "text_pt": "Onde estão as opções mais baratas?",
+    "text_en": "Where are the cheapest options?",
+    "audio_en_storage_path": "1518_where_are_the_cheapest_options.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102419",
+    "text_pt": "Na prateleira de baixo — procure pelas etiquetas de liquidação.",
+    "text_en": "On the lower shelf — look for clearance tags.",
+    "audio_en_storage_path": "1519_on_the_lower_shelf_look_for_clearance_tags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102420",
+    "text_pt": "Não comprarei nada hoje.",
+    "text_en": "I won't buy anything today.",
+    "audio_en_storage_path": "1520_i_wont_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102421",
+    "text_pt": "Os preços estavam muito altos — ainda não estava pronto.",
+    "text_en": "Prices were too high — not ready yet.",
+    "audio_en_storage_path": "1521_prices_were_too_high_not_ready_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102422",
+    "text_pt": "Quando chegará o próximo modelo?",
+    "text_en": "When will the next model arrive?",
+    "audio_en_storage_path": "1522_when_will_the_next_model_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102423",
+    "text_pt": "Em um mês — a pré-encomenda começa em breve.",
+    "text_en": "In one month — pre-order starts soon.",
+    "audio_en_storage_path": "1523_in_one_month_preorder_starts_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102424",
+    "text_pt": "Por que você mudou de ideia sobre isso?",
+    "text_en": "Why did you change your mind about those?",
+    "audio_en_storage_path": "1524_why_did_you_change_your_mind_about_those.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102425",
+    "text_pt": "Porque vi uma avaliação dizendo que eles machucam os pés.",
+    "text_en": "Because I saw a review saying they hurt feet.",
+    "audio_en_storage_path": "1525_because_i_saw_a_review_saying_they_hurt_feet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102426",
+    "text_pt": "Ele sempre anda pela loja com sapatos novos.",
+    "text_en": "He always walks around the store in new shoes.",
+    "audio_en_storage_path": "1526_he_always_walks_around_the_store_in_new_shoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102427",
+    "text_pt": "Quer saber como eles se sentem depois de 10 minutos.",
+    "text_en": "Wants to know how they feel after 10 minutes.",
+    "audio_en_storage_path": "1527_wants_to_know_how_they_feel_after_10_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102428",
+    "text_pt": "Amanhã. Não esquecerei de perguntar novamente sobre a garantia.",
+    "text_en": "Tomorrow. I will not forget to ask about warranty again.",
+    "audio_en_storage_path": "1528_tomorrow_i_will_not_forget_to_ask_about_warranty_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102429",
+    "text_pt": "Ficar sem uma última vez — azar.",
+    "text_en": "Left without one last time — bad luck.",
+    "audio_en_storage_path": "1529_left_without_one_last_time_bad_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102430",
+    "text_pt": "O conforto é mais importante que o estilo!",
+    "text_en": "Comfort matters more than style!",
+    "audio_en_storage_path": "1530_comfort_matters_more_than_style.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102431",
+    "text_pt": "Não ignore a dor ao experimentar.",
+    "text_en": "Don’t ignore pain when trying on.",
+    "audio_en_storage_path": "1531_dont_ignore_pain_when_trying_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102432",
+    "text_pt": "Aguarde as promoções!",
+    "text_en": "Wait for sales!",
+    "audio_en_storage_path": "1532_wait_for_sales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102433",
+    "text_pt": "Em breve teremos melhores preços.",
+    "text_en": "Better prices come soon.",
+    "audio_en_storage_path": "1533_better_prices_come_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102434",
+    "text_pt": "💍 Loja de Acessórios",
+    "text_en": "💍 Accessories Store",
+    "audio_en_storage_path": "1534_accessories_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102435",
+    "text_pt": "A loja de acessórios fica ao lado da praça de alimentação.",
+    "text_en": "The accessories shop is next to the food court.",
+    "audio_en_storage_path": "1535_the_accessories_shop_is_next_to_the_food_court.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102436",
+    "text_pt": "Você verá óculos de sol. carteiras e anéis.",
+    "text_en": "You’ll see sunglasses. wallets. and rings.",
+    "audio_en_storage_path": "1536_youll_see_sunglasses_wallets_and_rings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102437",
+    "text_pt": "Eu compro capas de celular. pulseiras ou chapéus aqui.",
+    "text_en": "I buy phone cases. bracelets. or hats here.",
+    "audio_en_storage_path": "1537_i_buy_phone_cases_bracelets_or_hats_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102438",
+    "text_pt": "Ou simplesmente ande por aí enquanto espera pelos amigos.",
+    "text_en": "Or just walk around while waiting for friends.",
+    "audio_en_storage_path": "1538_or_just_walk_around_while_waiting_for_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102439",
+    "text_pt": "Os brincos são de ouro. prata e ouro rosa.",
+    "text_en": "The earrings are gold. silver. and rose gold.",
+    "audio_en_storage_path": "1539_the_earrings_are_gold_silver_and_rose_gold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102440",
+    "text_pt": "Algumas brilham — outras são simples.",
+    "text_en": "Some sparkle — others are simple.",
+    "audio_en_storage_path": "1540_some_sparkle_others_are_simple.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102441",
+    "text_pt": "Qual é a cor do seu chapéu favorito?",
+    "text_en": "What color is your favorite hat?",
+    "audio_en_storage_path": "1541_what_color_is_your_favorite_hat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102442",
+    "text_pt": "Preto — mas também gosto de cinza e branco.",
+    "text_en": "Black — but I also like gray and white.",
+    "audio_en_storage_path": "1542_black_but_i_also_like_gray_and_white.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102443",
+    "text_pt": "Quanto custa esse cinto?",
+    "text_en": "How much is this belt?",
+    "audio_en_storage_path": "1543_how_much_is_this_belt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102444",
+    "text_pt": "US$ 18 — talvez seja muito para o que é.",
+    "text_en": "$18 — maybe too much for what it is.",
+    "audio_en_storage_path": "1544_18_maybe_too_much_for_what_it_is.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102445",
+    "text_pt": "Onde posso encontrar fones de ouvido?",
+    "text_en": "Where can I find earbuds?",
+    "audio_en_storage_path": "1545_where_can_i_find_earbuds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102446",
+    "text_pt": "Perto dos óculos de sol — pequeno display à esquerda.",
+    "text_en": "Near the sunglasses — small display on the left.",
+    "audio_en_storage_path": "1546_near_the_sunglasses_small_display_on_the_left.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102447",
+    "text_pt": "Não comprei nada hoje.",
+    "text_en": "I didn't buy anything today.",
+    "audio_en_storage_path": "1547_i_didnt_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102448",
+    "text_pt": "Nada me chamou a atenção — talvez na próxima vez.",
+    "text_en": "Nothing caught my eye — maybe next time.",
+    "audio_en_storage_path": "1548_nothing_caught_my_eye_maybe_next_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102449",
+    "text_pt": "Quando eles terão novos relógios em estoque?",
+    "text_en": "When will they get new watches in stock?",
+    "audio_en_storage_path": "1549_when_will_they_get_new_watches_in_stock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102450",
+    "text_pt": "Não tenho certeza — previsto para a semana que vem.",
+    "text_en": "Not sure — expected next week.",
+    "audio_en_storage_path": "1550_not_sure_expected_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102451",
+    "text_pt": "Por que você foi a esta loja primeiro?",
+    "text_en": "Why did you go to this store first?",
+    "audio_en_storage_path": "1551_why_did_you_go_to_this_store_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102452",
+    "text_pt": "Para encontrar um presente — parada rápida e fácil.",
+    "text_en": "To find a gift — quick and easy stop.",
+    "audio_en_storage_path": "1552_to_find_a_gift_quick_and_easy_stop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102453",
+    "text_pt": "Ela compra algo pequeno a cada visita.",
+    "text_en": "She buys something small every visit.",
+    "audio_en_storage_path": "1553_she_buys_something_small_every_visit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102454",
+    "text_pt": "Chapéus. broches ou adesivos — coisas fofas.",
+    "text_en": "Hats. pins. or stickers — cute stuff.",
+    "audio_en_storage_path": "1554_hats_pins_or_stickers_cute_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102455",
+    "text_pt": "Amanhã. Não esquecerei de perguntar novamente sobre devoluções.",
+    "text_en": "Tomorrow. I will not forget to ask about returns again.",
+    "audio_en_storage_path": "1555_tomorrow_i_will_not_forget_to_ask_about_returns_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102456",
+    "text_pt": "Não é possível devolver sem o comprovante de compra.",
+    "text_en": "Can't return without proof of purchase.",
+    "audio_en_storage_path": "1556_cant_return_without_proof_of_purchase.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102457",
+    "text_pt": "Acessórios completam seu visual!",
+    "text_en": "Accessories finish your look!",
+    "audio_en_storage_path": "1557_accessories_finish_your_look.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102458",
+    "text_pt": "Escolha algo divertido e leve.",
+    "text_en": "Pick something fun and light.",
+    "audio_en_storage_path": "1558_pick_something_fun_and_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102459",
+    "text_pt": "Confira o preço!",
+    "text_en": "Check the price tag!",
+    "audio_en_storage_path": "1559_check_the_price_tag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102460",
+    "text_pt": "Algumas coisas parecem baratas. mas não são.",
+    "text_en": "Some things look cheap but aren’t.",
+    "audio_en_storage_path": "1560_some_things_look_cheap_but_arent.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102461",
+    "text_pt": "📱 Loja de Celular",
+    "text_en": "📱 Cellphone Store",
+    "audio_en_storage_path": "1561_cellphone_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102462",
+    "text_pt": "A loja de celulares fica entre eletrônicos e jogos.",
+    "text_en": "The cellphone store is between electronics and games.",
+    "audio_en_storage_path": "1562_the_cellphone_store_is_between_electronics_and_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102463",
+    "text_pt": "Grandes placas dizem “Novos telefones aqui dentro”.",
+    "text_en": "Big signs say “New phones inside”.",
+    "audio_en_storage_path": "1563_big_signs_say_new_phones_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102464",
+    "text_pt": "Eu testo câmeras. baterias e som antes de comprar.",
+    "text_en": "I test cameras. battery. and sound before buying.",
+    "audio_en_storage_path": "1564_i_test_cameras_battery_and_sound_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102465",
+    "text_pt": "Ou simplesmente carregar meu telefone enquanto passo.",
+    "text_en": "Or just charge my phone while passing.",
+    "audio_en_storage_path": "1565_or_just_charge_my_phone_while_passing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102466",
+    "text_pt": "Os modelos mais novos são preto. branco e azul marinho.",
+    "text_en": "The newest models are black. white. and navy blue.",
+    "audio_en_storage_path": "1566_the_newest_models_are_black_white_and_navy_blue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102467",
+    "text_pt": "Uma delas tem uma opção de capa rosa — bonitinha. mas cara.",
+    "text_en": "One has a pink case option — cute but expensive.",
+    "audio_en_storage_path": "1567_one_has_a_pink_case_option_cute_but_expensive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102468",
+    "text_pt": "Este telefone tira boas fotos?",
+    "text_en": "Does this phone take good photos?",
+    "audio_en_storage_path": "1568_does_this_phone_take_good_photos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102469",
+    "text_pt": "Sim. mesmo com pouca luz e à noite.",
+    "text_en": "Yes — even in low light and night.",
+    "audio_en_storage_path": "1569_yes_even_in_low_light_and_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102470",
+    "text_pt": "Quanto custa esse carregador?",
+    "text_en": "How much is this charger?",
+    "audio_en_storage_path": "1570_how_much_is_this_charger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102471",
+    "text_pt": "US$ 25 — nada mal para carregamento rápido.",
+    "text_en": "$25 — not bad for fast charging.",
+    "audio_en_storage_path": "1571_25_not_bad_for_fast_charging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102472",
+    "text_pt": "Onde posso obter ajuda com reparos?",
+    "text_en": "Where can I get help with repairs?",
+    "audio_en_storage_path": "1572_where_can_i_get_help_with_repairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102473",
+    "text_pt": "No balcão — alguém chamará seu nome.",
+    "text_en": "At the counter — someone will call your name.",
+    "audio_en_storage_path": "1573_at_the_counter_someone_will_call_your_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102474",
+    "text_pt": "Não vou atualizar meu telefone hoje.",
+    "text_en": "I won’t upgrade my phone today.",
+    "audio_en_storage_path": "1574_i_wont_upgrade_my_phone_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102475",
+    "text_pt": "O meu ainda funciona bem — sem pressa.",
+    "text_en": "Mine still works fine — no rush.",
+    "audio_en_storage_path": "1575_mine_still_works_fine_no_rush.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102476",
+    "text_pt": "Quando os novos fones de ouvido estarão disponíveis?",
+    "text_en": "When will the new headphones be available?",
+    "audio_en_storage_path": "1576_when_will_the_new_headphones_be_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102477",
+    "text_pt": "Em duas semanas — faça a pré-encomenda agora se quiser.",
+    "text_en": "In two weeks — pre-order now if you want.",
+    "audio_en_storage_path": "1577_in_two_weeks_preorder_now_if_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102478",
+    "text_pt": "Por que você devolveu o caso?",
+    "text_en": "Why did you return that case?",
+    "audio_en_storage_path": "1578_why_did_you_return_that_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102479",
+    "text_pt": "Porque não protegia contra quedas.",
+    "text_en": "Because it didn’t protect from drops.",
+    "audio_en_storage_path": "1579_because_it_didnt_protect_from_drops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102480",
+    "text_pt": "Ele sempre lê o contrato antes de assinar.",
+    "text_en": "He always reads the contract before signing.",
+    "audio_en_storage_path": "1580_he_always_reads_the_contract_before_signing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102481",
+    "text_pt": "Odeia taxas ocultas ou cobranças surpresa.",
+    "text_en": "Hates hidden fees or surprise charges.",
+    "audio_en_storage_path": "1581_hates_hidden_fees_or_surprise_charges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102482",
+    "text_pt": "Amanhã. Não esquecerei de comparar preços novamente.",
+    "text_en": "Tomorrow. I will not forget to compare prices again.",
+    "audio_en_storage_path": "1582_tomorrow_i_will_not_forget_to_compare_prices_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102483",
+    "text_pt": "Paguei mais do que o necessário da última vez.",
+    "text_en": "Paid more than needed last time.",
+    "audio_en_storage_path": "1583_paid_more_than_needed_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102484",
+    "text_pt": "Pergunte antes de comprar!",
+    "text_en": "Ask questions before buying!",
+    "audio_en_storage_path": "1584_ask_questions_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102485",
+    "text_pt": "Certifique-se de que você entendeu tudo.",
+    "text_en": "Make sure you understand everything.",
+    "audio_en_storage_path": "1585_make_sure_you_understand_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102486",
+    "text_pt": "Tecnologia é legal. mas pense duas vezes!",
+    "text_en": "Tech is cool. but think twice!",
+    "audio_en_storage_path": "1586_tech_is_cool_but_think_twice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102487",
+    "text_pt": "Compre somente se realmente precisar.",
+    "text_en": "Buy only if you really need it.",
+    "audio_en_storage_path": "1587_buy_only_if_you_really_need_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102488",
+    "text_pt": "🎮 Loja de Eletrônicos",
+    "text_en": "🎮 Electronics Store",
+    "audio_en_storage_path": "1588_electronics_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102489",
+    "text_pt": "A loja de eletrônicos fica em frente à praça de alimentação.",
+    "text_en": "The electronics store is across from the food court.",
+    "audio_en_storage_path": "1589_the_electronics_store_is_across_from_the_food_court.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102490",
+    "text_pt": "Cheio de luzes. sons e testadores.",
+    "text_en": "Full of lights. sounds. and testers.",
+    "audio_en_storage_path": "1590_full_of_lights_sounds_and_testers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102491",
+    "text_pt": "Eu compro alto-falantes. controles remotos ou aparelhos domésticos inteligentes aqui.",
+    "text_en": "I buy speakers. remotes. or smart home gadgets here.",
+    "audio_en_storage_path": "1591_i_buy_speakers_remotes_or_smart_home_gadgets_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102492",
+    "text_pt": "Ou apenas observe como as coisas funcionam.",
+    "text_en": "Or just watch how things work.",
+    "audio_en_storage_path": "1592_or_just_watch_how_things_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102493",
+    "text_pt": "As TVs de demonstração mostram natureza. esportes e filmes de ação.",
+    "text_en": "The demo TVs show nature. sports. and action films.",
+    "audio_en_storage_path": "1593_the_demo_tvs_show_nature_sports_and_action_films.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102494",
+    "text_pt": "Telas verde. azul e preta — tudo limpo.",
+    "text_en": "Green. blue. and black screens — all clear.",
+    "audio_en_storage_path": "1594_green_blue_and_black_screens_all_clear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102495",
+    "text_pt": "Que tipo de alto-falante você viu?",
+    "text_en": "What kind of speaker did you see?",
+    "audio_en_storage_path": "1595_what_kind_of_speaker_did_you_see.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102496",
+    "text_pt": "Um redondo — alto e portátil.",
+    "text_en": "A round one — loud and portable.",
+    "audio_en_storage_path": "1596_a_round_one_loud_and_portable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102497",
+    "text_pt": "Quanto custa esse tablet?",
+    "text_en": "How much is this tablet?",
+    "audio_en_storage_path": "1597_how_much_is_this_tablet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102498",
+    "text_pt": "US$ 300 — talvez seja muito para mim.",
+    "text_en": "$300 — maybe too much for me.",
+    "audio_en_storage_path": "1598_300_maybe_too_much_for_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102499",
+    "text_pt": "Onde fica o balcão de atendimento ao cliente?",
+    "text_en": "Where is the customer service desk?",
+    "audio_en_storage_path": "1599_where_is_the_customer_service_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102500",
+    "text_pt": "Perto da saída — atrás do posto de carregamento.",
+    "text_en": "Near the exit — behind the charging station.",
+    "audio_en_storage_path": "1600_near_the_exit_behind_the_charging_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102501",
+    "text_pt": "Não comprei nada hoje.",
+    "text_en": "I didn't buy anything today.",
+    "audio_en_storage_path": "1601_i_didnt_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102502",
+    "text_pt": "Só vim dar uma olhada e comparar.",
+    "text_en": "Just come to look and compare.",
+    "audio_en_storage_path": "1602_just_come_to_look_and_compare.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102503",
+    "text_pt": "Quando eles vão consertar a demo quebrada?",
+    "text_en": "When will they fix the broken demo?",
+    "audio_en_storage_path": "1603_when_will_they_fix_the_broken_demo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102504",
+    "text_pt": "Em breve — alguém disse que eles virão.",
+    "text_en": "Soon — someone said they’re coming.",
+    "audio_en_storage_path": "1604_soon_someone_said_theyre_coming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102505",
+    "text_pt": "Por que você devolveu o controle remoto?",
+    "text_en": "Why did you return that remote?",
+    "audio_en_storage_path": "1605_why_did_you_return_that_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102506",
+    "text_pt": "Porque não funcionou com minha TV.",
+    "text_en": "Because it didn't work with my TV.",
+    "audio_en_storage_path": "1606_because_it_didnt_work_with_my_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102507",
+    "text_pt": "Eles adoram ver novas tecnologias de perto.",
+    "text_en": "They love seeing new tech up close.",
+    "audio_en_storage_path": "1607_they_love_seeing_new_tech_up_close.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102508",
+    "text_pt": "Vá sempre lá antes de qualquer grande decisão.",
+    "text_en": "Always go there before any big decision.",
+    "audio_en_storage_path": "1608_always_go_there_before_any_big_decision.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102509",
+    "text_pt": "Amanhã. Não esquecerei de ler as avaliações novamente.",
+    "text_en": "Tomorrow. I will not forget to read reviews again.",
+    "audio_en_storage_path": "1609_tomorrow_i_will_not_forget_to_read_reviews_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102510",
+    "text_pt": "Comprei algo quebrado da última vez.",
+    "text_en": "Bought something broken last time.",
+    "audio_en_storage_path": "1610_bought_something_broken_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102511",
+    "text_pt": "Teste antes de confiar!",
+    "text_en": "Test before you trust!",
+    "audio_en_storage_path": "1611_test_before_you_trust.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102512",
+    "text_pt": "Nunca compre às cegas — verifique tudo.",
+    "text_en": "Never buy blind — check everything.",
+    "audio_en_storage_path": "1612_never_buy_blind_check_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102513",
+    "text_pt": "O conhecimento ajuda você a escolher melhor!",
+    "text_en": "Knowledge helps you choose better!",
+    "audio_en_storage_path": "1613_knowledge_helps_you_choose_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102514",
+    "text_pt": "Pergunte. Toque. E decida.",
+    "text_en": "Ask. touch. and decide.",
+    "audio_en_storage_path": "1614_ask_touch_and_decide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102515",
+    "text_pt": "📚 Loja de Livros",
+    "text_en": "📚 Bookstore",
+    "audio_en_storage_path": "1615_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102516",
+    "text_pt": "A livraria fica ao lado da cafeteria.",
+    "text_en": "The bookstore is next to the coffee shop.",
+    "audio_en_storage_path": "1616_the_bookstore_is_next_to_the_coffee_shop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102517",
+    "text_pt": "Cheira a papel e croissants de chocolate.",
+    "text_en": "Smells like paper and chocolate croissants.",
+    "audio_en_storage_path": "1617_smells_like_paper_and_chocolate_croissants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102518",
+    "text_pt": "Eu compro romances. livros escolares e histórias em quadrinhos aqui.",
+    "text_en": "I buy novels. schoolbooks. and comics here.",
+    "audio_en_storage_path": "1618_i_buy_novels_schoolbooks_and_comics_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102519",
+    "text_pt": "Ou simplesmente sente-se e leia um pouco.",
+    "text_en": "Or just sit and read for a bit.",
+    "audio_en_storage_path": "1619_or_just_sit_and_read_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102520",
+    "text_pt": "As capas são coloridas e convidativas.",
+    "text_en": "The covers are colorful and inviting.",
+    "audio_en_storage_path": "1620_the_covers_are_colorful_and_inviting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102521",
+    "text_pt": "Alguns são brochuras. outros de capa dura.",
+    "text_en": "Some are soft. others hardcover.",
+    "audio_en_storage_path": "1621_some_are_soft_others_hardcover.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102522",
+    "text_pt": "De qual livro você mais gostou?",
+    "text_en": "What book did you like most?",
+    "audio_en_storage_path": "1622_what_book_did_you_like_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102523",
+    "text_pt": "Este aqui — capa roxa e histórias de viagem.",
+    "text_en": "This one — purple cover and travel stories.",
+    "audio_en_storage_path": "1623_this_one_purple_cover_and_travel_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102524",
+    "text_pt": "Quanto custa esse romance?",
+    "text_en": "How much is that novel?",
+    "audio_en_storage_path": "1624_how_much_is_that_novel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102525",
+    "text_pt": "US$ 12 — bom pelo que oferece.",
+    "text_en": "$12 — okay for what it offers.",
+    "audio_en_storage_path": "1625_12_okay_for_what_it_offers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102526",
+    "text_pt": "Onde estão os livros de gramática inglesa?",
+    "text_en": "Where are the English grammar books?",
+    "audio_en_storage_path": "1626_where_are_the_english_grammar_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102527",
+    "text_pt": "Atrás da seção de ficção — perto da área infantil.",
+    "text_en": "Behind the fiction section — near the kids’ area.",
+    "audio_en_storage_path": "1627_behind_the_fiction_section_near_the_kids_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102528",
+    "text_pt": "Não comprei nada hoje.",
+    "text_en": "I didn't buy anything today.",
+    "audio_en_storage_path": "1628_i_didnt_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102529",
+    "text_pt": "Todos os livros estavam acima do meu orçamento.",
+    "text_en": "All books were over my budget.",
+    "audio_en_storage_path": "1629_all_books_were_over_my_budget.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102530",
+    "text_pt": "Quando eles receberão novos quadrinhos?",
+    "text_en": "When will they get new comics?",
+    "audio_en_storage_path": "1630_when_will_they_get_new_comics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102531",
+    "text_pt": "Talvez amanhã — previsto para esta semana.",
+    "text_en": "Maybe tomorrow — expected this week.",
+    "audio_en_storage_path": "1631_maybe_tomorrow_expected_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102532",
+    "text_pt": "Por que você trouxe sua bolsa para dentro?",
+    "text_en": "Why did you bring your bag inside?",
+    "audio_en_storage_path": "1632_why_did_you_bring_your_bag_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102533",
+    "text_pt": "Para que eu pudesse carregar meu novo caderno.",
+    "text_en": "So I could carry my new notebook.",
+    "audio_en_storage_path": "1633_so_i_could_carry_my_new_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102534",
+    "text_pt": "Ela lê antes de comprar qualquer coisa.",
+    "text_en": "She reads before buying anything.",
+    "audio_en_storage_path": "1634_she_reads_before_buying_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102535",
+    "text_pt": "Se ela gosta da primeira página. ela compra.",
+    "text_en": "If she likes page one. she buys it.",
+    "audio_en_storage_path": "1635_if_she_likes_page_one_she_buys_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102536",
+    "text_pt": "Amanhã. Não vou esquecer de escrever meu nome lá dentro de novo.",
+    "text_en": "Tomorrow. I will not forget to write my name inside again.",
+    "audio_en_storage_path": "1636_tomorrow_i_will_not_forget_to_write_my_name_inside_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102537",
+    "text_pt": "Alguém pegou o meu da última vez — a mesma cópia.",
+    "text_en": "Someone took mine last time — same copy.",
+    "audio_en_storage_path": "1637_someone_took_mine_last_time_same_copy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102538",
+    "text_pt": "Leia devagar!",
+    "text_en": "Read slowly!",
+    "audio_en_storage_path": "1638_read_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102539",
+    "text_pt": "Aproveite cada palavra e linha.",
+    "text_en": "Enjoy every word and line.",
+    "audio_en_storage_path": "1639_enjoy_every_word_and_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102540",
+    "text_pt": "Os livros trazem paz e alegria!",
+    "text_en": "Books bring peace and joy!",
+    "audio_en_storage_path": "1640_books_bring_peace_and_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102541",
+    "text_pt": "Encontre o seu hoje mesmo.",
+    "text_en": "Find yours today.",
+    "audio_en_storage_path": "1641_find_yours_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102542",
+    "text_pt": "🎬 Cinema e Pipoca (Cinema e Petiscos)",
+    "text_en": "🎬 Movie Theater & Snacks",
+    "audio_en_filename": "",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102543",
+    "text_pt": "O cinema fica no último andar.",
+    "text_en": "The cinema is on the top floor.",
+    "audio_en_storage_path": "1643_the_cinema_is_on_the_top_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102544",
+    "text_pt": "Você verá cartazes e máquinas de lanches do lado de fora.",
+    "text_en": "You’ll see posters and snack machines outside.",
+    "audio_en_storage_path": "1644_youll_see_posters_and_snack_machines_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102545",
+    "text_pt": "Compramos ingressos e bebidas antes de entrar.",
+    "text_en": "We buy tickets and drinks before going in.",
+    "audio_en_storage_path": "1645_we_buy_tickets_and_drinks_before_going_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102546",
+    "text_pt": "A pipoca faz parte da experiência do cinema.",
+    "text_en": "Popcorn is part of the movie experience.",
+    "audio_en_storage_path": "1646_popcorn_is_part_of_the_movie_experience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102547",
+    "text_pt": "O saguão tem cadeiras vermelhas e luzes amarelas.",
+    "text_en": "The lobby has red chairs and yellow lights.",
+    "audio_en_storage_path": "1647_the_lobby_has_red_chairs_and_yellow_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102548",
+    "text_pt": "Os alto-falantes reproduzem prévias e músicas.",
+    "text_en": "Speakers play previews and music.",
+    "audio_en_storage_path": "1648_speakers_play_previews_and_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102549",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "1649_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102550",
+    "text_pt": "O de terror — ouvi dizer que é assustador e bom.",
+    "text_en": "The horror one — heard it’s scary and good.",
+    "audio_en_storage_path": "1650_the_horror_one_heard_its_scary_and_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102551",
+    "text_pt": "Quanto custa o combo?",
+    "text_en": "How much is the combo?",
+    "audio_en_storage_path": "1651_how_much_is_the_combo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102552",
+    "text_pt": "US$ 18 — pipoca. bebida e doces.",
+    "text_en": "$18 — popcorn. drink. and candy.",
+    "audio_en_storage_path": "1652_18_popcorn_drink_and_candy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102553",
+    "text_pt": "Qual é o melhor assento?",
+    "text_en": "Where is the best seat?",
+    "audio_en_storage_path": "1653_where_is_the_best_seat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102554",
+    "text_pt": "Fileira do meio — visão e som perfeitos.",
+    "text_en": "Middle row — perfect view and sound.",
+    "audio_en_storage_path": "1654_middle_row_perfect_view_and_sound.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102555",
+    "text_pt": "Não comi nada durante o filme.",
+    "text_en": "I didn’t eat anything during the film.",
+    "audio_en_storage_path": "1655_i_didnt_eat_anything_during_the_film.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102556",
+    "text_pt": "Trouxe água e pulei os lanches.",
+    "text_en": "Brought water and skipped snacks.",
+    "audio_en_storage_path": "1656_brought_water_and_skipped_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102557",
+    "text_pt": "Quando começa o último filme?",
+    "text_en": "When does the last movie start?",
+    "audio_en_storage_path": "1657_when_does_the_last_movie_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102558",
+    "text_pt": "Às 22h — não é para quem dorme cedo.",
+    "text_en": "At 10 PM — not for early sleepers.",
+    "audio_en_storage_path": "1658_at_10_pm_not_for_early_sleepers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102559",
+    "text_pt": "Por que você chegou atrasado hoje?",
+    "text_en": "Why did you arrive late today?",
+    "audio_en_storage_path": "1659_why_did_you_arrive_late_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102560",
+    "text_pt": "Esqueci de verificar as horas — me distraí.",
+    "text_en": "Forgot to check the time — got distracted.",
+    "audio_en_storage_path": "1660_forgot_to_check_the_time_got_distracted.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102561",
+    "text_pt": "Ele sempre compra pipoca extra com manteiga.",
+    "text_en": "He always buys extra buttered popcorn.",
+    "audio_en_storage_path": "1661_he_always_buys_extra_buttered_popcorn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102562",
+    "text_pt": "Adora o sabor — mesmo que seja bagunçado.",
+    "text_en": "Loves the taste — even if it's messy.",
+    "audio_en_storage_path": "1662_loves_the_taste_even_if_its_messy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102563",
+    "text_pt": "Amanhã. Não vou esquecer de desligar o modo flash novamente.",
+    "text_en": "Tomorrow. I will not forget to turn off flash mode again.",
+    "audio_en_storage_path": "1663_tomorrow_i_will_not_forget_to_turn_off_flash_mode_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102564",
+    "text_pt": "Estraguei a foto do ingresso da última vez.",
+    "text_en": "Ruined the ticket photo last time.",
+    "audio_en_storage_path": "1664_ruined_the_ticket_photo_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102565",
+    "text_pt": "Luzes apagadas. Volume alto!",
+    "text_en": "Lights out. volume up!",
+    "audio_en_storage_path": "1665_lights_out_volume_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102566",
+    "text_pt": "Relaxe e aproveite o show.",
+    "text_en": "Sit back and enjoy the show.",
+    "audio_en_storage_path": "1666_sit_back_and_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102567",
+    "text_pt": "A noite do cinema é a melhor noite!",
+    "text_en": "Movie night is the best night!",
+    "audio_en_storage_path": "1667_movie_night_is_the_best_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102568",
+    "text_pt": "Divirta-se assistindo.",
+    "text_en": "Have a great time watching.",
+    "audio_en_storage_path": "1668_have_a_great_time_watching.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102569",
+    "text_pt": "🍔 Alimentação e Lanchonete (Praça de Alimentação/Snack Bar)",
+    "text_en": "🍔 Food Court / Snack Bar",
+    "audio_en_storage_path": "1669_food_court_snack_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102570",
+    "text_pt": "A praça de alimentação fica no segundo andar.",
+    "text_en": "The food court is on the second floor.",
+    "audio_en_storage_path": "1670_the_food_court_is_on_the_second_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102571",
+    "text_pt": "Muitas mesas e cheiros enchem o ar.",
+    "text_en": "Many tables and smells fill the air.",
+    "audio_en_storage_path": "1671_many_tables_and_smells_fill_the_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102572",
+    "text_pt": "Eu compro hambúrgueres. sushi ou smoothies aqui.",
+    "text_en": "I buy burgers. sushi. or smoothies here.",
+    "audio_en_storage_path": "1672_i_buy_burgers_sushi_or_smoothies_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102573",
+    "text_pt": "Às vezes levo para casa batatas fritas ou sopa.",
+    "text_en": "Sometimes I take home fries or soup.",
+    "audio_en_storage_path": "1673_sometimes_i_take_home_fries_or_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102574",
+    "text_pt": "O menu mostra preços e fotos claramente.",
+    "text_en": "The menu shows prices and photos clearly.",
+    "audio_en_storage_path": "1674_the_menu_shows_prices_and_photos_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102575",
+    "text_pt": "Números vermelhos significam “Oferta especial!”",
+    "text_en": "Red numbers mean “Special Deal!”",
+    "audio_en_storage_path": "1675_red_numbers_mean_special_deal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102576",
+    "text_pt": "O que você comeu hoje?",
+    "text_en": "What did you eat today?",
+    "audio_en_storage_path": "1676_what_did_you_eat_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102577",
+    "text_pt": "Frango e arroz — não picante. apenas doce.",
+    "text_en": "Chicken and rice — not spicy. just sweet.",
+    "audio_en_storage_path": "1677_chicken_and_rice_not_spicy_just_sweet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102578",
+    "text_pt": "Quanto custa esse suco?",
+    "text_en": "How much is this juice?",
+    "audio_en_storage_path": "1678_how_much_is_this_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102579",
+    "text_pt": "US$ 4 — mais barato que refrigerante.",
+    "text_en": "$4 — cheaper than soda.",
+    "audio_en_storage_path": "1679_4_cheaper_than_soda.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102580",
+    "text_pt": "Onde está a opção vegana?",
+    "text_en": "Where is the vegan option?",
+    "audio_en_storage_path": "1680_where_is_the_vegan_option.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102581",
+    "text_pt": "No final — ao lado do lugar de macarrão.",
+    "text_en": "At the end — next to the noodle place.",
+    "audio_en_storage_path": "1681_at_the_end_next_to_the_noodle_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102582",
+    "text_pt": "Não pedi nada pesado.",
+    "text_en": "I didn't order anything heavy.",
+    "audio_en_storage_path": "1682_i_didnt_order_anything_heavy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102583",
+    "text_pt": "Apenas uma salada — leve e fresca.",
+    "text_en": "Just a salad — light and fresh.",
+    "audio_en_storage_path": "1683_just_a_salad_light_and_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102584",
+    "text_pt": "Quando a barraca de sobremesas abrirá novamente?",
+    "text_en": "When will the dessert stand open again?",
+    "audio_en_storage_path": "1684_when_will_the_dessert_stand_open_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102585",
+    "text_pt": "Depois do almoço — eles vendem cupcakes e biscoitos.",
+    "text_en": "After lunch — they sell cupcakes and cookies.",
+    "audio_en_storage_path": "1685_after_lunch_they_sell_cupcakes_and_cookies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102586",
+    "text_pt": "Por que você pulou a sobremesa hoje?",
+    "text_en": "Why did you skip dessert today?",
+    "audio_en_storage_path": "1686_why_did_you_skip_dessert_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102587",
+    "text_pt": "Queria economizar dinheiro e permanecer saudável.",
+    "text_en": "Wanted to save money and stay healthy.",
+    "audio_en_storage_path": "1687_wanted_to_save_money_and_stay_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102588",
+    "text_pt": "Ela come aqui sempre que nos visita.",
+    "text_en": "She eats here every time she visits.",
+    "audio_en_storage_path": "1688_she_eats_here_every_time_she_visits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102589",
+    "text_pt": "Gosta do serviço rápido e das mesas limpas.",
+    "text_en": "Likes the fast service and clean tables.",
+    "audio_en_storage_path": "1689_likes_the_fast_service_and_clean_tables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102590",
+    "text_pt": "Amanhã. Não esquecerei de trazer minha própria xícara novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my own cup again.",
+    "audio_en_storage_path": "1690_tomorrow_i_will_not_forget_to_bring_my_own_cup_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102591",
+    "text_pt": "Usei plástico da última vez — não é ecológico.",
+    "text_en": "Used plastic last time — not eco-friendly.",
+    "audio_en_storage_path": "1691_used_plastic_last_time_not_ecofriendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102592",
+    "text_pt": "A comida une as pessoas!",
+    "text_en": "Food brings people together!",
+    "audio_en_storage_path": "1692_food_brings_people_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102593",
+    "text_pt": "Coma bem e sorria sempre.",
+    "text_en": "Eat well and smile often.",
+    "audio_en_storage_path": "1693_eat_well_and_smile_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102594",
+    "text_pt": "Experimente algo novo!",
+    "text_en": "Try something new!",
+    "audio_en_storage_path": "1694_try_something_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102595",
+    "text_pt": "Você pode descobrir um favorito.",
+    "text_en": "You might discover a favorite.",
+    "audio_en_storage_path": "1695_you_might_discover_a_favorite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102596",
+    "text_pt": "🅿️ Estacionamento (área de estacionamento)",
+    "text_en": "🅿️ Parking Area",
+    "audio_en_storage_path": "1696_parking_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102597",
+    "text_pt": "O estacionamento fica dois níveis abaixo do shopping.",
+    "text_en": "The parking is two levels below the mall.",
+    "audio_en_storage_path": "1697_the_parking_is_two_levels_below_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102598",
+    "text_pt": "As placas indicam o caminho — siga as setas verdes.",
+    "text_en": "Signs point the way — follow green arrows.",
+    "audio_en_storage_path": "1698_signs_point_the_way_follow_green_arrows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102599",
+    "text_pt": "Estaciono perto do elevador para facilitar o acesso.",
+    "text_en": "I park near the elevator for easy access.",
+    "audio_en_storage_path": "1699_i_park_near_the_elevator_for_easy_access.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102600",
+    "text_pt": "Ou procure por vagas de curto prazo.",
+    "text_en": "Or look for short-term spots.",
+    "audio_en_storage_path": "1700_or_look_for_shortterm_spots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102601",
+    "text_pt": "A garagem tem seções vermelha e azul.",
+    "text_en": "The garage has red and blue sections.",
+    "audio_en_storage_path": "1701_the_garage_has_red_and_blue_sections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102602",
+    "text_pt": "E botões de emergência em cada parede.",
+    "text_en": "And emergency buttons on each wall.",
+    "audio_en_storage_path": "1702_and_emergency_buttons_on_each_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102603",
+    "text_pt": "Em que nível você está?",
+    "text_en": "What level are you on?",
+    "audio_en_storage_path": "1703_what_level_are_you_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102604",
+    "text_pt": "Nível B2 — quase lotado aqui embaixo.",
+    "text_en": "Level B2 — almost full down here.",
+    "audio_en_storage_path": "1704_level_b2_almost_full_down_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102605",
+    "text_pt": "Quanto tempo demora para chegar ao elevador?",
+    "text_en": "How long does it take to reach the elevator?",
+    "audio_en_storage_path": "1705_how_long_does_it_take_to_reach_the_elevator.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102606",
+    "text_pt": "Cerca de 2 minutos — não muito longe.",
+    "text_en": "About 2 minutes — not far at all.",
+    "audio_en_storage_path": "1706_about_2_minutes_not_far_at_all.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102607",
+    "text_pt": "Onde você deixou seu carro?",
+    "text_en": "Where did you leave your car?",
+    "audio_en_storage_path": "1707_where_did_you_leave_your_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102608",
+    "text_pt": "Seção F — terceira fileira a partir da rampa.",
+    "text_en": "Section F — third row from the ramp.",
+    "audio_en_storage_path": "1708_section_f_third_row_from_the_ramp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102609",
+    "text_pt": "Não encontrei um lugar próximo hoje.",
+    "text_en": "I didn’t find a close spot today.",
+    "audio_en_storage_path": "1709_i_didnt_find_a_close_spot_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102610",
+    "text_pt": "Tive que estacionar longe e caminhar um pouco.",
+    "text_en": "Had to park far and walk a bit.",
+    "audio_en_storage_path": "1710_had_to_park_far_and_walk_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102611",
+    "text_pt": "Quando a equipe me ajudará a encontrar meu carro?",
+    "text_en": "When will the staff help me find my car?",
+    "audio_en_storage_path": "1711_when_will_the_staff_help_me_find_my_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102612",
+    "text_pt": "Somente se você o perder. use o aplicativo.",
+    "text_en": "Only if it’s lost — use the app instead.",
+    "audio_en_storage_path": "1712_only_if_its_lost_use_the_app_instead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102613",
+    "text_pt": "Por que você estacionou tão longe?",
+    "text_en": "Why did you park so far?",
+    "audio_en_storage_path": "1713_why_did_you_park_so_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102614",
+    "text_pt": "Chegou atrasado e perdeu o espaço.",
+    "text_en": "Arrived late and missed the space.",
+    "audio_en_storage_path": "1714_arrived_late_and_missed_the_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102615",
+    "text_pt": "Ele estaciona sempre no mesmo canto.",
+    "text_en": "He parks in the same corner every time.",
+    "audio_en_storage_path": "1715_he_parks_in_the_same_corner_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102616",
+    "text_pt": "Nunca se perde — conhece bem o layout.",
+    "text_en": "Never gets lost — knows the layout well.",
+    "audio_en_storage_path": "1716_never_gets_lost_knows_the_layout_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102617",
+    "text_pt": "Amanhã. Não esquecerei de marcar meu lugar novamente.",
+    "text_en": "Tomorrow. I will not forget to mark my spot again.",
+    "audio_en_storage_path": "1717_tomorrow_i_will_not_forget_to_mark_my_spot_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102618",
+    "text_pt": "Levei 10 minutos para encontrar meu carro da última vez.",
+    "text_en": "Take me 10 minutes to find my car last time.",
+    "audio_en_storage_path": "1718_take_me_10_minutes_to_find_my_car_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102619",
+    "text_pt": "Estacione com inteligência!",
+    "text_en": "Park smart!",
+    "audio_en_storage_path": "1719_park_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102620",
+    "text_pt": "Deixe espaço para os outros.",
+    "text_en": "Leave space for others.",
+    "audio_en_storage_path": "1720_leave_space_for_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102621",
+    "text_pt": "Use o aplicativo!",
+    "text_en": "Use the app!",
+    "audio_en_storage_path": "1721_use_the_app.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102622",
+    "text_pt": "Economiza tempo e estresse.",
+    "text_en": "It saves time and stress.",
+    "audio_en_storage_path": "1722_it_saves_time_and_stress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

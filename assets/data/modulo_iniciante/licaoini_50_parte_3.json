@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103378",
+    "text_pt": "Farmácia",
+    "text_en": "Pharmacy",
+    "audio_en_storage_path": "2478_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103379",
+    "text_pt": "O hospital fica a dez minutos daqui.",
+    "text_en": "The hospital is ten minutes away.",
+    "audio_en_storage_path": "2479_the_hospital_is_ten_minutes_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103380",
+    "text_pt": "Grande edifício com luzes azuis do lado de fora.",
+    "text_en": "Big building with blue lights outside.",
+    "audio_en_storage_path": "2480_big_building_with_blue_lights_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103381",
+    "text_pt": "Nós vamos lá por causa de ossos quebrados e febres altas.",
+    "text_en": "We go there for broken bones and high fevers.",
+    "audio_en_storage_path": "2481_we_go_there_for_broken_bones_and_high_fevers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103382",
+    "text_pt": "Ou quando não podemos esperar por uma clínica.",
+    "text_en": "Or when we can’t wait for a clinic.",
+    "audio_en_storage_path": "2482_or_when_we_cant_wait_for_a_clinic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103383",
+    "text_pt": "A sala de espera está cheia e barulhenta.",
+    "text_en": "The waiting room is full and noisy.",
+    "audio_en_storage_path": "2483_the_waiting_room_is_full_and_noisy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103384",
+    "text_pt": "As pessoas falam baixo e parecem cansadas.",
+    "text_en": "People talk quietly and look tired.",
+    "audio_en_storage_path": "2484_people_talk_quietly_and_look_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103385",
+    "text_pt": "Há camas. telas e suportes para soro lá dentro.",
+    "text_en": "There are beds. screens. and IV poles inside.",
+    "audio_en_storage_path": "2485_there_are_beds_screens_and_iv_poles_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103386",
+    "text_pt": "E médicos com jalecos brancos e telefones.",
+    "text_en": "And doctors with white coats and phones.",
+    "audio_en_storage_path": "2486_and_doctors_with_white_coats_and_phones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103387",
+    "text_pt": "Por que você veio ao hospital?",
+    "text_en": "Why did you come to the hospital?",
+    "audio_en_storage_path": "2487_why_did_you_come_to_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103388",
+    "text_pt": "Porque meu peito estava apertado e pesado.",
+    "text_en": "Because my chest felt tight and heavy.",
+    "audio_en_storage_path": "2488_because_my_chest_felt_tight_and_heavy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103389",
+    "text_pt": "Onde fica o pronto-socorro mais próximo?",
+    "text_en": "Where is the nearest ER?",
+    "audio_en_storage_path": "2489_where_is_the_nearest_er.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103390",
+    "text_pt": "Cinco quarteirões à frente — depois do semáforo.",
+    "text_en": "Five blocks ahead — past the traffic light.",
+    "audio_en_storage_path": "2490_five_blocks_ahead_past_the_traffic_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103391",
+    "text_pt": "Às vezes nós mesmos dirigimos.",
+    "text_en": "Sometimes we drive ourselves.",
+    "audio_en_storage_path": "2491_sometimes_we_drive_ourselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103392",
+    "text_pt": "Outras vezes chamamos uma ambulância.",
+    "text_en": "Other times we call an ambulance.",
+    "audio_en_storage_path": "2492_other_times_we_call_an_ambulance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103393",
+    "text_pt": "Onde você deixou seu cartão de seguro?",
+    "text_en": "Where did you leave your insurance card?",
+    "audio_en_storage_path": "2493_where_did_you_leave_your_insurance_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103394",
+    "text_pt": "Na sua mala — pronta para o check-in.",
+    "text_en": "In your bag — ready for check-in.",
+    "audio_en_storage_path": "2494_in_your_bag_ready_for_checkin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103395",
+    "text_pt": "Quando eles lhe darão resultados?",
+    "text_en": "When will they give you results?",
+    "audio_en_storage_path": "2495_when_will_they_give_you_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103396",
+    "text_pt": "Em dois dias — por e-mail ou mensagem de texto.",
+    "text_en": "In two days — by email or text.",
+    "audio_en_storage_path": "2496_in_two_days_by_email_or_text.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103397",
+    "text_pt": "Por que você esperou tanto hoje?",
+    "text_en": "Why did you wait so long today?",
+    "audio_en_storage_path": "2497_why_did_you_wait_so_long_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103398",
+    "text_pt": "Porque eles tinham poucos funcionários e estavam ocupados.",
+    "text_en": "Because they were short-staffed and busy.",
+    "audio_en_storage_path": "2498_because_they_were_shortstaffed_and_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103399",
+    "text_pt": "Ela vai ao hospital uma vez por ano.",
+    "text_en": "She goes to the hospital once a year.",
+    "audio_en_storage_path": "2499_she_goes_to_the_hospital_once_a_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103400",
+    "text_pt": "Para exames de sangue e check-ups anuais.",
+    "text_en": "For blood tests and yearly check-ups.",
+    "audio_en_storage_path": "2500_for_blood_tests_and_yearly_checkups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103401",
+    "text_pt": "Amanhã não esquecerei de trazer meus documentos novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my documents again.",
+    "audio_en_storage_path": "2501_tomorrow_i_will_not_forget_to_bring_my_documents_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103402",
+    "text_pt": "Deixei-os em casa da última vez — tempo perdido.",
+    "text_en": "Left them at home last time — wasted time.",
+    "audio_en_storage_path": "2502_left_them_at_home_last_time_wasted_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103403",
+    "text_pt": "Fique calmo!",
+    "text_en": "Stay calm!",
+    "audio_en_storage_path": "2503_stay_calm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103404",
+    "text_pt": "Eles vão ligar para você em breve — é só esperar.",
+    "text_en": "They’ll call you soon — just wait.",
+    "audio_en_storage_path": "2504_theyll_call_you_soon_just_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

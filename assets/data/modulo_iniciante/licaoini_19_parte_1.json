@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100655",
+    "text_pt": "Conjunto de frases – Procurando livros",
+    "text_en": "Sentence Set – Looking for Books",
+    "audio_en_storage_path": "656_sentence_set_looking_for_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100656",
+    "text_pt": "Esta é a biblioteca pública.",
+    "text_en": "This is the public library.",
+    "audio_en_storage_path": "657_this_is_the_public_library.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100657",
+    "text_pt": "Viemos aqui para ler e pegar livros emprestados.",
+    "text_en": "We come here to read and borrow books.",
+    "audio_en_storage_path": "658_we_come_here_to_read_and_borrow_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100658",
+    "text_pt": "Há muitos gêneros e seções.",
+    "text_en": "There are many genres and sections.",
+    "audio_en_storage_path": "659_there_are_many_genres_and_sections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100659",
+    "text_pt": "Há ficção, ciência e história.",
+    "text_en": "There are fiction, science, and history.",
+    "audio_en_storage_path": "660_there_are_fiction.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100660",
+    "text_pt": "Posso pegar esse livro emprestado?",
+    "text_en": "Can I borrow this book?",
+    "audio_en_storage_path": "661_can_i_borrow_this_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100661",
+    "text_pt": "Sim, basta mostrar seu cartão da biblioteca.",
+    "text_en": "Yes, just show your library card.",
+    "audio_en_storage_path": "662_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100662",
+    "text_pt": "Não, é só para leitura aqui.",
+    "text_en": "No, it’s only for reading here.",
+    "audio_en_storage_path": "663_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100663",
+    "text_pt": "Onde fica a seção infantil?",
+    "text_en": "Where is the children’s section?",
+    "audio_en_storage_path": "664_where_is_the_childrens_section.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100664",
+    "text_pt": "Fica perto da frente, perto da escada.",
+    "text_en": "It’s near the front, by the stairs.",
+    "audio_en_storage_path": "665_its_near_the_front.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100665",
+    "text_pt": "Quando este livro estará disponível?",
+    "text_en": "When will this book be available?",
+    "audio_en_storage_path": "666_when_will_this_book_be_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100666",
+    "text_pt": "Será devolvido amanhã de manhã.",
+    "text_en": "It’ll be returned tomorrow morning.",
+    "audio_en_storage_path": "667_itll_be_returned_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100667",
+    "text_pt": "Por que você trouxe sua própria bolsa?",
+    "text_en": "Why did you bring your own bag?",
+    "audio_en_storage_path": "668_why_did_you_bring_your_own_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100668",
+    "text_pt": "Esqueci o meu em casa.",
+    "text_en": "I forgot mine at home.",
+    "audio_en_storage_path": "669_i_forgot_mine_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100669",
+    "text_pt": "Ela devolve os livros no prazo.",
+    "text_en": "She returns books on time.",
+    "audio_en_storage_path": "670_she_returns_books_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100670",
+    "text_pt": "Ele não perderá mais nenhum livro.",
+    "text_en": "He won’t lose any more books.",
+    "audio_en_storage_path": "671_he_wont_lose_any_more_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100672",
+    "text_pt": "Será devolvido amanhã de manhã.",
+    "text_en": "It’ll be returned tomorrow morning.",
+    "audio_en_storage_path": "673_itll_be_returned_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100673",
+    "text_pt": "Deve voltar amanhã de manhã.",
+    "text_en": "It’s due back tomorrow mornin’.",
+    "audio_en_storage_path": "674_its_due_back_tomorrow_mornin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100674",
+    "text_pt": "Ele não perderá mais nenhum livro.",
+    "text_en": "He won’t lose any more books.",
+    "audio_en_storage_path": "675_he_wont_lose_any_more_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100675",
+    "text_pt": "Ele não vai perder mais nenhum livro.",
+    "text_en": "He ain't losin’ no more books.",
+    "audio_en_storage_path": "676_he_aint_losin_no_more_books.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100676",
+    "text_pt": "Ela devolve os livros no prazo.",
+    "text_en": "She returns books on time.",
+    "audio_en_storage_path": "677_she_returns_books_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100677",
+    "text_pt": "Ela traz os livros de volta no prazo.",
+    "text_en": "She brings books back on time.",
+    "audio_en_storage_path": "678_she_brings_books_back_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,200 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100119",
+    "text_pt": "A cama fica no canto.",
+    "text_en": "The bed is in the corner.",
+    "audio_en_storage_path": "120_the_bed_is_in_the_corner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100120",
+    "text_pt": "Nós o usamos para dormir e descansar.",
+    "text_en": "We use it to sleep and rest.",
+    "audio_en_storage_path": "121_we_use_it_to_sleep_and_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100121",
+    "text_pt": "É grande e tem almofadas macias.",
+    "text_en": "It is big with soft pillows.",
+    "audio_en_storage_path": "122_it_is_big_with_soft_pillows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100122",
+    "text_pt": "Há livros e um ursinho de pelúcia nele.",
+    "text_en": "There are books and a teddy bear on it.",
+    "audio_en_storage_path": "123_there_are_books_and_a_teddy_bear_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100123",
+    "text_pt": "Você gosta da sua cama?",
+    "text_en": "Do you like your bed?",
+    "audio_en_storage_path": "124_do_you_like_your_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100124",
+    "text_pt": "Sim, é muito confortável.",
+    "text_en": "Yes, it’s very comfortable.",
+    "audio_en_storage_path": "125_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100125",
+    "text_pt": "Não, eu quero um novo.",
+    "text_en": "No, I want a new one.",
+    "audio_en_storage_path": "126_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100126",
+    "text_pt": "Onde estão seus sapatos?",
+    "text_en": "Where are your shoes?",
+    "audio_en_storage_path": "127_where_are_your_shoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100127",
+    "text_pt": "Meus sapatos estão debaixo da cama.",
+    "text_en": "My shoes are under the bed.",
+    "audio_en_storage_path": "128_my_shoes_are_under_the_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100128",
+    "text_pt": "Quando você vai dormir?",
+    "text_en": "When will you go to sleep?",
+    "audio_en_storage_path": "129_when_will_you_go_to_sleep.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100129",
+    "text_pt": "Vou dormir às nove.",
+    "text_en": "I’ll go to sleep at nine.",
+    "audio_en_storage_path": "130_ill_go_to_sleep_at_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100130",
+    "text_pt": "Por que você acordou cedo?",
+    "text_en": "Why did you wake up early?",
+    "audio_en_storage_path": "131_why_did_you_wake_up_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100131",
+    "text_pt": "Ouvi o cachorro latindo lá fora.",
+    "text_en": "I heard the dog barking outside.",
+    "audio_en_storage_path": "132_i_heard_the_dog_barking_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100132",
+    "text_pt": "Ele arruma a cama todas as manhãs.",
+    "text_en": "He makes his bed every morning.",
+    "audio_en_storage_path": "133_he_makes_his_bed_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100133",
+    "text_pt": "Não vou dormir sem escovar os dentes.",
+    "text_en": "I won’t sleep without brushing teeth.",
+    "audio_en_storage_path": "134_i_wont_sleep_without_brushing_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100134",
+    "text_pt": "Tenha uma boa noite de sono.",
+    "text_en": "Have a good night’s sleep.",
+    "audio_en_storage_path": "135_have_a_good_nights_sleep.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100136",
+    "text_pt": "Vou dormir às nove.",
+    "text_en": "I’ll go to sleep at nine.",
+    "audio_en_storage_path": "137_ill_go_to_sleep_at_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100137",
+    "text_pt": "Vou dormir às nove.",
+    "text_en": "I’m gonna sleep at nine.",
+    "audio_en_storage_path": "138_im_gonna_sleep_at_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100138",
+    "text_pt": "Não vou dormir sem escovar os dentes.",
+    "text_en": "I won’t sleep without brushing teeth.",
+    "audio_en_storage_path": "139_i_wont_sleep_without_brushing_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100139",
+    "text_pt": "Não durmo sem escovar os dentes.",
+    "text_en": "I ain’t sleepin’ without brushin’ teeth.",
+    "audio_en_storage_path": "140_i_aint_sleepin_without_brushin_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100140",
+    "text_pt": "Tenha uma boa noite de sono.",
+    "text_en": "Have a good night’s sleep.",
+    "audio_en_storage_path": "141_have_a_good_nights_sleep.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100141",
+    "text_pt": "Durma bem, amigo.",
+    "text_en": "Sleep tight, buddy.",
+    "audio_en_storage_path": "142_sleep_tight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

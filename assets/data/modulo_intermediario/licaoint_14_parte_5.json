@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112294",
+    "text_pt": "Fritadeira a ar",
+    "text_en": "Air Fryer",
+    "audio_en_storage_path": "2294_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112295",
+    "text_pt": "A fritadeira a ar fica na prateleira da cozinha.",
+    "text_en": "The air fryer is on the kitchen shelf.",
+    "audio_en_storage_path": "2295_the_air_fryer_is_on_the_kitchen_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112296",
+    "text_pt": "Cozinha alimentos com pouco óleo.",
+    "text_en": "It cooks food with little oil.",
+    "audio_en_storage_path": "2296_it_cooks_food_with_little_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112297",
+    "text_pt": "Eu uso para fazer batatas fritas, frango e vegetais.",
+    "text_en": "I use it to make fries. chicken. and vegetables.",
+    "audio_en_storage_path": "2297_i_use_it_to_make_fries_chicken_and_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112298",
+    "text_pt": "Isso os torna crocantes e deliciosos.",
+    "text_en": "It makes them crispy and delicious.",
+    "audio_en_storage_path": "2298_it_makes_them_crispy_and_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112299",
+    "text_pt": "É branco com uma cesta e tela digital.",
+    "text_en": "It is white with a basket and digital screen.",
+    "audio_en_storage_path": "2299_it_is_white_with_a_basket_and_digital_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112300",
+    "text_pt": "Esquenta rápido e tem um cheiro bom.",
+    "text_en": "It heats up fast and smells good.",
+    "audio_en_storage_path": "2300_it_heats_up_fast_and_smells_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112301",
+    "text_pt": "Há batatas fritas congeladas e temperos dentro.",
+    "text_en": "There are frozen fries and seasoning inside.",
+    "audio_en_storage_path": "2301_there_are_frozen_fries_and_seasoning_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112302",
+    "text_pt": "Pronto para cozinhar em 15 minutos.",
+    "text_en": "Ready to cook in 15 minutes.",
+    "audio_en_storage_path": "2302_ready_to_cook_in_15_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112303",
+    "text_pt": "O que você cozinha na air fryer?",
+    "text_en": "What do you cook in the air fryer?",
+    "audio_en_storage_path": "2303_what_do_you_cook_in_the_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112304",
+    "text_pt": "Nuggets de frango, batata-doce frita e palitos de peixe.",
+    "text_en": "Chicken nuggets. sweet potato fries. and fish sticks.",
+    "audio_en_storage_path": "2304_chicken_nuggets_sweet_potato_fries_and_fish_sticks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112305",
+    "text_pt": "Onde você guarda quando não está em uso?",
+    "text_en": "Where do you keep it when not in use?",
+    "audio_en_storage_path": "2305_where_do_you_keep_it_when_not_in_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112306",
+    "text_pt": "Na prateleira — ao lado do micro-ondas.",
+    "text_en": "On the shelf — next to the microwave.",
+    "audio_en_storage_path": "2306_on_the_shelf_next_to_the_microwave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112307",
+    "text_pt": "Às vezes eu uso para lanches.",
+    "text_en": "Sometimes I use it for snacks.",
+    "audio_en_storage_path": "2307_sometimes_i_use_it_for_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112308",
+    "text_pt": "Outros horários para refeições completas.",
+    "text_en": "Other times for full meals.",
+    "audio_en_storage_path": "2308_other_times_for_full_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112309",
+    "text_pt": "Onde você colocou a fritadeira a ar?",
+    "text_en": "Where did you put the air fryer?",
+    "audio_en_storage_path": "2309_where_did_you_put_the_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112310",
+    "text_pt": "No balcão — fácil de alcançar.",
+    "text_en": "On the counter — easy to reach.",
+    "audio_en_storage_path": "2310_on_the_counter_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112311",
+    "text_pt": "Quando você vai usá-lo novamente?",
+    "text_en": "When will you use it again?",
+    "audio_en_storage_path": "2311_when_will_you_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112312",
+    "text_pt": "Hoje à noite — para um jantar rápido e saudável.",
+    "text_en": "Tonight — for a quick and healthy dinner.",
+    "audio_en_storage_path": "2312_tonight_for_a_quick_and_healthy_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112313",
+    "text_pt": "Por que você escolheu a fritadeira a ar hoje?",
+    "text_en": "Why did you choose the air fryer today?",
+    "audio_en_storage_path": "2313_why_did_you_choose_the_air_fryer_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112314",
+    "text_pt": "Porque eu queria algo crocante sem óleo.",
+    "text_en": "Because I wanted something crunchy without oil.",
+    "audio_en_storage_path": "2314_because_i_wanted_something_crunchy_without_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112315",
+    "text_pt": "Eu uso a air fryer pelo menos três vezes por semana.",
+    "text_en": "I use the air fryer at least three times a week.",
+    "audio_en_storage_path": "2315_i_use_the_air_fryer_at_least_three_times_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112316",
+    "text_pt": "É mais rápido do que assar.",
+    "text_en": "It’s faster than baking.",
+    "audio_en_storage_path": "2316_its_faster_than_baking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112317",
+    "text_pt": "Amanhã. Não vou esquecer de limpar a cesta novamente.",
+    "text_en": "Tomorrow. I will not forget to clean the basket again.",
+    "audio_en_storage_path": "2317_tomorrow_i_will_not_forget_to_clean_the_basket_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112318",
+    "text_pt": "Deixei-o sujo ontem à noite.",
+    "text_en": "I left it dirty last night.",
+    "audio_en_storage_path": "2318_i_left_it_dirty_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112319",
+    "text_pt": "Desfrute de sua refeição!",
+    "text_en": "Enjoy your meal!",
+    "audio_en_storage_path": "2319_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112320",
+    "text_pt": "Crocante e delicioso — não precisa de óleo.",
+    "text_en": "Crispy and delicious — no oil needed.",
+    "audio_en_storage_path": "2320_crispy_and_delicious_no_oil_needed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

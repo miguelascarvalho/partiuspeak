@@ -1,0 +1,371 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132811",
+    "text_pt": "A Floresta Amazônica desempenha um papel vital na regulação do clima e da biodiversidade da Terra.",
+    "text_en": "The Amazon Rainforest plays a vital role in regulating the Earth's climate and biodiversity.",
+    "audio_en_storage_path": "189_the_amazon_rainforest_plays_a_vital_role_in_regulating_the_earths_climate_and_biodiversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132812",
+    "text_pt": "Cerca de 60% da floresta tropical está localizada no Brasil.",
+    "text_en": "About 60% of the rainforest is located in Brazil.",
+    "audio_en_storage_path": "190_about_60_of_the_rainforest_is_located_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132813",
+    "text_pt": "Manaus é a maior cidade da Amazônia brasileira e um importante centro econômico.",
+    "text_en": "Manaus is the largest city in the Brazilian Amazon and an important economic center.",
+    "audio_en_storage_path": "191_manaus_is_the_largest_city_in_the_brazilian_amazon_and_an_important_economic_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132814",
+    "text_pt": "Belém é outra cidade importante e capital do estado do Pará.",
+    "text_en": "Belém is another major city and the capital of the state of Pará.",
+    "audio_en_storage_path": "192_belem_is_another_major_city_and_the_capital_of_the_state_of_para.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132815",
+    "text_pt": "Ambas as cidades são portas de entrada para a região amazônica e têm profundas raízes culturais.",
+    "text_en": "Both cities are gateways to the Amazon region and have deep cultural roots.",
+    "audio_en_storage_path": "193_both_cities_are_gateways_to_the_amazon_region_and_have_deep_cultural_roots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132816",
+    "text_pt": "A Amazônia tem um clima tropical com altas temperaturas e chuvas intensas durante todo o ano.",
+    "text_en": "The Amazon has a tropical climate with high temperatures and heavy rainfall throughout the year.",
+    "audio_en_storage_path": "194_the_amazon_has_a_tropical_climate_with_high_temperatures_and_heavy_rainfall_throughout_the_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132817",
+    "text_pt": "O Rio Amazonas é um dos rios mais longos e poderosos do mundo.",
+    "text_en": "The Amazon River is one of the longest and most powerful rivers in the world.",
+    "audio_en_storage_path": "195_the_amazon_river_is_one_of_the_longest_and_most_powerful_rivers_in_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132818",
+    "text_pt": "Belém está localizada perto da foz do Rio Amazonas, onde ele encontra o Oceano Atlântico.",
+    "text_en": "Belém is located near the mouth of the Amazon River. where it meets the Atlantic Ocean.",
+    "audio_en_storage_path": "196_belem_is_located_near_the_mouth_of_the_amazon_river_where_it_meets_the_atlantic_ocean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132819",
+    "text_pt": "Manaus está localizada na confluência dos rios Negro e Solimões, formando o Rio Amazonas.",
+    "text_en": "Manaus is located at the confluence of the Negro and Solimões rivers. forming the Amazon River.",
+    "audio_en_storage_path": "197_manaus_is_located_at_the_confluence_of_the_negro_and_solimoes_rivers_forming_the_amazon_river.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132820",
+    "text_pt": "O Encontro das Águas é um fenômeno natural próximo a Manaus, onde as águas negras do Rio Negro e as águas arenosas do Solimões correm lado a lado sem se misturar.",
+    "text_en": "The Meeting of the Waters is a natural phenomenon near Manaus where the black waters of the Rio Negro and the sandy-colored waters of the Solimões flow side by side without mixing.",
+    "audio_en_storage_path": "198_the_meeting_of_the_waters_is_a_natural_phenomenon_near_manaus_where_the_black_waters_of_the_rio_negro_and_the_sandycolored_waters_of_the_solimoes_flow_side_by_side_without_mixing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132821",
+    "text_pt": "A região amazônica abriga milhares de espécies de plantas, animais e insetos.",
+    "text_en": "The Amazon region is home to thousands of species of plants. animals. and insects.",
+    "audio_en_storage_path": "199_the_amazon_region_is_home_to_thousands_of_species_of_plants_animals_and_insects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132822",
+    "text_pt": "Muitas dessas espécies não são encontradas em nenhum outro lugar da Terra.",
+    "text_en": "Many of these species are found nowhere else on Earth.",
+    "audio_en_storage_path": "200_many_of_these_species_are_found_nowhere_else_on_earth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132823",
+    "text_pt": "As comunidades indígenas da Amazônia vivem em harmonia com a natureza há séculos.",
+    "text_en": "The indigenous communities in the Amazon have lived in harmony with nature for centuries.",
+    "audio_en_storage_path": "201_the_indigenous_communities_in_the_amazon_have_lived_in_harmony_with_nature_for_centuries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132824",
+    "text_pt": "Há mais de 400 grupos indígenas vivendo na região.",
+    "text_en": "There are more than 400 indigenous groups living in the region.",
+    "audio_en_storage_path": "202_there_are_more_than_400_indigenous_groups_living_in_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132825",
+    "text_pt": "Belém é conhecida por sua arquitetura histórica, mercados e culinária tradicional.",
+    "text_en": "Belém is known for its historic architecture. markets. and traditional cuisine.",
+    "audio_en_storage_path": "203_belem_is_known_for_its_historic_architecture_markets_and_traditional_cuisine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132826",
+    "text_pt": "O Mercado Ver-o-Peso é um dos mais famosos de Belém, vendendo frutas, ervas e artesanatos locais.",
+    "text_en": "The Ver-o-Peso Market is one of the most famous in Belém. selling local fruits. herbs. and handicrafts.",
+    "audio_en_storage_path": "204_the_veropeso_market_is_one_of_the_most_famous_in_belem_selling_local_fruits_herbs_and_handicrafts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132827",
+    "text_pt": "Guaraná, açaí, cupuaçu e castanha-do-pará são alguns dos produtos nativos comumente usados ​​na região.",
+    "text_en": "Guaraná. açaí. cupuaçu. and Brazil nuts are some of the native products commonly used in the region.",
+    "audio_en_storage_path": "205_guarana_acai_cupuacu_and_brazil_nuts_are_some_of_the_native_products_commonly_used_in_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132828",
+    "text_pt": "Açaí é uma fruta popular consumida em smoothies ou tigelas, especialmente na região Norte do Brasil.",
+    "text_en": "Açaí is a popular fruit consumed as a smoothie or bowl. especially in the North of Brazil.",
+    "audio_en_storage_path": "206_acai_is_a_popular_fruit_consumed_as_a_smoothie_or_bowl_especially_in_the_north_of_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132829",
+    "text_pt": "Manaus é conhecida pelo majestoso Teatro Amazonas, construído durante o ciclo da borracha.",
+    "text_en": "Manaus is known for the majestic Teatro Amazonas. built during the rubber boom.",
+    "audio_en_storage_path": "207_manaus_is_known_for_the_majestic_teatro_amazonas_built_during_the_rubber_boom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132830",
+    "text_pt": "O teatro é feito com materiais trazidos da Europa e é um símbolo da história da região.",
+    "text_en": "The theater is made with materials brought from Europe and is a symbol of the region’s history.",
+    "audio_en_storage_path": "208_the_theater_is_made_with_materials_brought_from_europe_and_is_a_symbol_of_the_regions_history.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132831",
+    "text_pt": "A Zona Franca de Manaus é um projeto econômico que promove o desenvolvimento industrial da região.",
+    "text_en": "The Free Trade Zone of Manaus is an economic project that promotes industrial development in the region.",
+    "audio_en_storage_path": "209_the_free_trade_zone_of_manaus_is_an_economic_project_that_promotes_industrial_development_in_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132832",
+    "text_pt": "Esta zona ajuda a reduzir a pobreza e apoia a criação de empregos na Amazônia.",
+    "text_en": "This zone helps reduce poverty and supports job creation in the Amazon.",
+    "audio_en_storage_path": "210_this_zone_helps_reduce_poverty_and_supports_job_creation_in_the_amazon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132833",
+    "text_pt": "A região amazônica enfrenta muitos desafios ambientais, incluindo desmatamento e mineração ilegal.",
+    "text_en": "The Amazon region faces many environmental challenges. including deforestation and illegal mining.",
+    "audio_en_storage_path": "211_the_amazon_region_faces_many_environmental_challenges_including_deforestation_and_illegal_mining.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132834",
+    "text_pt": "Apesar disso, continua sendo um dos lugares mais ricos em biodiversidade do planeta.",
+    "text_en": "Despite this. it remains one of the most biologically rich places on the planet.",
+    "audio_en_storage_path": "212_despite_this_it_remains_one_of_the_most_biologically_rich_places_on_the_planet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132836",
+    "text_pt": "O ecoturismo está crescendo na região, oferecendo aos visitantes a oportunidade de explorar a floresta e os rios.",
+    "text_en": "Eco-tourism is growing in the region. offering visitors the chance to explore the forest and rivers.",
+    "audio_en_storage_path": "214_ecotourism_is_growing_in_the_region_offering_visitors_the_chance_to_explore_the_forest_and_rivers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132837",
+    "text_pt": "Alojamentos na selva, cruzeiros fluviais e visitas guiadas são experiências comuns para turistas.",
+    "text_en": "Jungle lodges. river cruises. and guided tours are common experiences for tourists.",
+    "audio_en_storage_path": "215_jungle_lodges_river_cruises_and_guided_tours_are_common_experiences_for_tourists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132838",
+    "text_pt": "Visitar a Amazônia permite que os viajantes vejam botos cor-de-rosa, ariranhas e pássaros exóticos.",
+    "text_en": "Visiting the Amazon allows travelers to see pink river dolphins. giant otters. and exotic birds.",
+    "audio_en_storage_path": "216_visiting_the_amazon_allows_travelers_to_see_pink_river_dolphins_giant_otters_and_exotic_birds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132839",
+    "text_pt": "O Arquipélago de Anavilhanas, perto de Manaus, é um dos maiores arquipélagos de água doce do mundo.",
+    "text_en": "The Anavilhanas Archipelago near Manaus is one of the largest freshwater archipelagos in the world.",
+    "audio_en_storage_path": "217_the_anavilhanas_archipelago_near_manaus_is_one_of_the_largest_freshwater_archipelagos_in_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132840",
+    "text_pt": "Em Belém, os visitantes podem explorar o Museu Emílio Goeldi, uma das instituições científicas mais antigas do Brasil.",
+    "text_en": "In Belém. visitors can explore the Emílio Goeldi Museum. one of the oldest scientific institutions in Brazil.",
+    "audio_en_storage_path": "218_in_belem_visitors_can_explore_the_emilio_goeldi_museum_one_of_the_oldest_scientific_institutions_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132841",
+    "text_pt": "A cidade também sedia o Círio de Nazaré, uma das maiores procissões religiosas do país.",
+    "text_en": "The city also hosts the Círio de Nazaré. one of the largest religious processions in the country.",
+    "audio_en_storage_path": "219_the_city_also_hosts_the_cirio_de_nazare_one_of_the_largest_religious_processions_in_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132842",
+    "text_pt": "A região amazônica possui um folclore rico, repleto de mitos como o do Boto, do Curupira e da Matinta Pereira.",
+    "text_en": "The Amazon region has a rich folklore filled with myths like the Boto. Curupiras. and Matinta Pereira.",
+    "audio_en_storage_path": "220_the_amazon_region_has_a_rich_folklore_filled_with_myths_like_the_boto_curupiras_and_matinta_pereira.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132843",
+    "text_pt": "A música e as danças folclóricas refletem a mistura de influências indígenas, africanas e portuguesas.",
+    "text_en": "Folk music and dances reflect the mixture of indigenous. African. and Portuguese influences.",
+    "audio_en_storage_path": "221_folk_music_and_dances_reflect_the_mixture_of_indigenous_african_and_portuguese_influences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132844",
+    "text_pt": "Os pratos locais incluem o tambaqui. pato no tucupi. e maniçoba.",
+    "text_en": "Local dishes include tambaqui. pato no tucupi. and maniçoba.",
+    "audio_en_storage_path": "222_local_dishes_include_tambaqui_pato_no_tucupi_and_manicoba.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132845",
+    "text_pt": "Tapioca e beiju (pão de mandioca) são lanches típicos consumidos diariamente.",
+    "text_en": "Tapioca and beiju (cassava bread) are typical snacks eaten daily.",
+    "audio_en_storage_path": "223_tapioca_and_beiju_cassava_bread_are_typical_snacks_eaten_daily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132846",
+    "text_pt": "A região amazônica abrange nove estados brasileiros, mas a maior parte se concentra na região Norte.",
+    "text_en": "The Amazon region covers nine Brazilian states. but the majority is concentrated in the North.",
+    "audio_en_storage_path": "224_the_amazon_region_covers_nine_brazilian_states_but_the_majority_is_concentrated_in_the_north.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132847",
+    "text_pt": "A região ainda é relativamente isolada, com muitas comunidades acessíveis apenas por barco ou avião.",
+    "text_en": "The region is still relatively isolated. with many communities accessible only by boat or plane.",
+    "audio_en_storage_path": "225_the_region_is_still_relatively_isolated_with_many_communities_accessible_only_by_boat_or_plane.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132848",
+    "text_pt": "Projetos de desenvolvimento sustentável visam proteger a floresta e, ao mesmo tempo, melhorar a qualidade de vida da população local.",
+    "text_en": "Sustainable development projects aim to protect the forest while improving quality of life for local people.",
+    "audio_en_storage_path": "226_sustainable_development_projects_aim_to_protect_the_forest_while_improving_quality_of_life_for_local_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132849",
+    "text_pt": "Belém e Manaus são centros importantes de pesquisa, educação e conservação na Amazônia.",
+    "text_en": "Belém and Manaus are key centers for research. education. and conservation in the Amazon.",
+    "audio_en_storage_path": "227_belem_and_manaus_are_key_centers_for_research_education_and_conservation_in_the_amazon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132850",
+    "text_pt": "A Amazônia não é apenas um lugar — é um modo de vida, cultura e patrimônio.",
+    "text_en": "The Amazon is not just a place — it’s a way of life. culture. and heritage.",
+    "audio_en_storage_path": "228_the_amazon_is_not_just_a_place_its_a_way_of_life_culture_and_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132851",
+    "text_pt": "Explorar a Amazônia é descobrir o coração da natureza e a riqueza da biodiversidade brasileira",
+    "text_en": "Exploring the Amazon region means discovering the heart of nature and the richness of Brazil’s biodiversity",
+    "audio_en_storage_path": "229_exploring_the_amazon_region_means_discovering_the_heart_of_nature_and_the_richness_of_brazils_biodiversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132852",
+    "text_pt": "Belém e Manaus são duas cidades essenciais que mostram a alma, a história e o futuro da Amazônia.",
+    "text_en": "Belém and Manaus are two essential cities that show the soul. history. and future of the Amazon.",
+    "audio_en_storage_path": "230_belem_and_manaus_are_two_essential_cities_that_show_the_soul_history_and_future_of_the_amazon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

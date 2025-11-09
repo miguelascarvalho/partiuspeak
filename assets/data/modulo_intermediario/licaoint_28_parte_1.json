@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114805",
+    "text_pt": "Beirais / Calha",
+    "text_en": "Eaves / Gutter",
+    "audio_en_storage_path": "4805_eaves_gutter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114806",
+    "text_pt": "A calha corre ao longo do beiral.",
+    "text_en": "The gutter runs along the eaves.",
+    "audio_en_storage_path": "4806_the_gutter_runs_along_the_eaves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114807",
+    "text_pt": "Ela direciona a água para longe da casa.",
+    "text_en": "It directs water away from the house.",
+    "audio_en_storage_path": "4807_it_directs_water_away_from_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114808",
+    "text_pt": "Nós limpamos para evitar bloqueios e vazamentos.",
+    "text_en": "We clean it to avoid blockage and leaks.",
+    "audio_en_storage_path": "4808_we_clean_it_to_avoid_blockage_and_leaks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114809",
+    "text_pt": "Às vezes adicionamos mais suporte.",
+    "text_en": "Sometimes we add more support.",
+    "audio_en_storage_path": "4809_sometimes_we_add_more_support.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114810",
+    "text_pt": "É de metal, curvado e cheio de folhas.",
+    "text_en": "It is metal. curved. and full of leaves.",
+    "audio_en_storage_path": "4810_it_is_metal_curved_and_full_of_leaves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114811",
+    "text_pt": "Parece sujo, mas ainda funciona.",
+    "text_en": "Looks dirty but still works.",
+    "audio_en_storage_path": "4811_looks_dirty_but_still_works.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114812",
+    "text_pt": "Há luvas, escovas e um balde por perto.",
+    "text_en": "There are gloves. brushes. and a bucket nearby.",
+    "audio_en_storage_path": "4812_there_are_gloves_brushes_and_a_bucket_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114813",
+    "text_pt": "Pronto para o dia da limpeza.",
+    "text_en": "Ready for cleaning day.",
+    "audio_en_storage_path": "4813_ready_for_cleaning_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114814",
+    "text_pt": "O que está bloqueando a calha?",
+    "text_en": "What’s blocking the gutter?",
+    "audio_en_storage_path": "4814_whats_blocking_the_gutter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114815",
+    "text_pt": "Folhas mortas e pequenos galhos.",
+    "text_en": "Dead leaves and small branches.",
+    "audio_en_storage_path": "4815_dead_leaves_and_small_branches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114816",
+    "text_pt": "Por onde você começa a limpeza?",
+    "text_en": "Where do you start cleaning?",
+    "audio_en_storage_path": "4816_where_do_you_start_cleaning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114817",
+    "text_pt": "Da frente — depois vá para trás.",
+    "text_en": "From the front — then move to the back.",
+    "audio_en_storage_path": "4817_from_the_front_then_move_to_the_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114818",
+    "text_pt": "Às vezes usamos uma lavadora de alta pressão.",
+    "text_en": "Sometimes we use a pressure washer.",
+    "audio_en_storage_path": "4818_sometimes_we_use_a_pressure_washer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114819",
+    "text_pt": "Outras vezes, apenas mãos e ferramentas.",
+    "text_en": "Other times just hands and tools.",
+    "audio_en_storage_path": "4819_other_times_just_hands_and_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114820",
+    "text_pt": "Onde você deixou a escada?",
+    "text_en": "Where did you leave the ladder?",
+    "audio_en_storage_path": "4820_where_did_you_leave_the_ladder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114821",
+    "text_pt": "Contra a árvore — fácil de alcançar.",
+    "text_en": "Against the tree — easy to reach.",
+    "audio_en_storage_path": "4821_against_the_tree_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114822",
+    "text_pt": "Quando vocês vão limpar as calhas novamente?",
+    "text_en": "When will you clean the gutters again?",
+    "audio_en_storage_path": "4822_when_will_you_clean_the_gutters_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114823",
+    "text_pt": "Antes do próximo inverno — é melhor prevenir do que remediar.",
+    "text_en": "Before next winter — better safe than sorry.",
+    "audio_en_storage_path": "4823_before_next_winter_better_safe_than_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114824",
+    "text_pt": "Por que você usou luvas hoje?",
+    "text_en": "Why did you wear gloves today?",
+    "audio_en_storage_path": "4824_why_did_you_wear_gloves_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114825",
+    "text_pt": "Porque a terra era velha e úmida.",
+    "text_en": "Because the dirt was old and wet.",
+    "audio_en_storage_path": "4825_because_the_dirt_was_old_and_wet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114826",
+    "text_pt": "Ele sempre verifica as calhas depois das tempestades.",
+    "text_en": "He always checks the gutters after storms.",
+    "audio_en_storage_path": "4826_he_always_checks_the_gutters_after_storms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114827",
+    "text_pt": "A água pode causar grandes danos.",
+    "text_en": "Water can cause big damage.",
+    "audio_en_storage_path": "4827_water_can_cause_big_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114828",
+    "text_pt": "Amanhã. Não vou esquecer de enxaguar a calha de novo.",
+    "text_en": "Tomorrow. I will not forget to rinse the gutter again.",
+    "audio_en_storage_path": "4828_tomorrow_i_will_not_forget_to_rinse_the_gutter_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114829",
+    "text_pt": "Deixei um pouco de sujeira grudada na última vez.",
+    "text_en": "Left some dirt stuck last time.",
+    "audio_en_storage_path": "4829_left_some_dirt_stuck_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114830",
+    "text_pt": "Cuidado com onde pisa!",
+    "text_en": "Watch your step!",
+    "audio_en_storage_path": "4830_watch_your_step.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114831",
+    "text_pt": "A escada pode escorregar.",
+    "text_en": "The ladder might slip.",
+    "audio_en_storage_path": "4831_the_ladder_might_slip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

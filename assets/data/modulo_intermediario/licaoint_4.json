@@ -1,0 +1,1172 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110401",
+    "text_pt": "Quinta-feira – Preparando-se para o fim de semana",
+    "text_en": "Thursday – Preparing for the Weekend",
+    "audio_en_storage_path": "401_thursday_preparing_for_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110402",
+    "text_pt": "Foco: Organização. Energia para o fim de semana",
+    "text_en": "Focus: Organization. Energy for the weekend",
+    "audio_en_storage_path": "402_focus_organization_energy_for_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110403",
+    "text_pt": "Acordo cedo novamente.",
+    "text_en": "I wake up early again.",
+    "audio_en_storage_path": "403_i_wake_up_early_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110404",
+    "text_pt": "Quero terminar minhas tarefas antes do fim de semana.",
+    "text_en": "I want to finish my tasks before the weekend.",
+    "audio_en_storage_path": "404_i_want_to_finish_my_tasks_before_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110405",
+    "text_pt": "Tomo café e torrada.",
+    "text_en": "I have coffee and toast.",
+    "audio_en_storage_path": "405_i_have_coffee_and_toast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110406",
+    "text_pt": "Café da manhã rápido. Grande dia pela frente.",
+    "text_en": "Quick breakfast. big day ahead.",
+    "audio_en_storage_path": "406_quick_breakfast_big_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110407",
+    "text_pt": "No trabalho. Terminei um projeto que comecei na segunda-feira.",
+    "text_en": "At work. I finished a project I started on Monday.",
+    "audio_en_storage_path": "407_at_work_i_finished_a_project_i_started_on_monday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110408",
+    "text_pt": "Sinto orgulho quando concluo as coisas.",
+    "text_en": "I feel proud when I complete things.",
+    "audio_en_storage_path": "408_i_feel_proud_when_i_complete_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110409",
+    "text_pt": "Ajudar a treinar um novo funcionário.",
+    "text_en": "I help train a new employee.",
+    "audio_en_storage_path": "409_i_help_train_a_new_employee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110410",
+    "text_pt": "Compartilhar conhecimento é importante.",
+    "text_en": "Sharing knowledge is important.",
+    "audio_en_storage_path": "410_sharing_knowledge_is_important.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110411",
+    "text_pt": "Durante o almoço. Ligo para minha mãe.",
+    "text_en": "During lunch. I call my mom.",
+    "audio_en_storage_path": "411_during_lunch_i_call_my_mom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110412",
+    "text_pt": "Conversamos sobre os planos para o fim de semana.",
+    "text_en": "We talk about the weekend plans.",
+    "audio_en_storage_path": "412_we_talk_about_the_weekend_plans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110413",
+    "text_pt": "À tarde, envio os e-mails finais.",
+    "text_en": "In the afternoon. I send final emails.",
+    "audio_en_storage_path": "413_in_the_afternoon_i_send_final_emails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110414",
+    "text_pt": "Eu também me preparo para amanhã.",
+    "text_en": "I prepare for tomorrow too.",
+    "audio_en_storage_path": "414_i_prepare_for_tomorrow_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110415",
+    "text_pt": "Quem trabalha ao seu lado?",
+    "text_en": "Who works next to you?",
+    "audio_en_storage_path": "415_who_works_next_to_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110416",
+    "text_pt": "Mark — ele se senta na mesa ao lado da minha.",
+    "text_en": "Mark — he sits at the desk beside mine.",
+    "audio_en_storage_path": "416_mark_he_sits_at_the_desk_beside_mine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110417",
+    "text_pt": "Quando você terminará esta tarefa?",
+    "text_en": "When will you finish this task?",
+    "audio_en_storage_path": "417_when_will_you_finish_this_task.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110418",
+    "text_pt": "Provavelmente hoje antes do almoço.",
+    "text_en": "Probably today before lunch.",
+    "audio_en_storage_path": "418_probably_today_before_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110419",
+    "text_pt": "Por que você trabalha tanto?",
+    "text_en": "Why do you work so hard?",
+    "audio_en_storage_path": "419_why_do_you_work_so_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110420",
+    "text_pt": "Porque gosto do que faço.",
+    "text_en": "Because I enjoy what I do.",
+    "audio_en_storage_path": "420_because_i_enjoy_what_i_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110421",
+    "text_pt": "Tento terminar meu trabalho antes de sexta-feira.",
+    "text_en": "I try to finish my work before Friday.",
+    "audio_en_storage_path": "421_i_try_to_finish_my_work_before_friday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110422",
+    "text_pt": "Para que eu possa relaxar no fim de semana.",
+    "text_en": "So I can relax on the weekend.",
+    "audio_en_storage_path": "422_so_i_can_relax_on_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110423",
+    "text_pt": "Amanhã. Não esquecerei de agradecer.",
+    "text_en": "Tomorrow. I will not forget to say thank you.",
+    "audio_en_storage_path": "423_tomorrow_i_will_not_forget_to_say_thank_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110424",
+    "text_pt": "Eu valorizo ​​minha equipe.",
+    "text_en": "I appreciate my team.",
+    "audio_en_storage_path": "424_i_appreciate_my_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110425",
+    "text_pt": "Quase lá!",
+    "text_en": "Almost there!",
+    "audio_en_storage_path": "425_almost_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110426",
+    "text_pt": "Mais um dia e depois o fim de semana!",
+    "text_en": "One more day and then the weekend!",
+    "audio_en_storage_path": "426_one_more_day_and_then_the_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110427",
+    "text_pt": "Quinta-feira – Ele (em geral)",
+    "text_en": "Thursday – Him (in general)",
+    "audio_en_storage_path": "427_thursday_him_in_general.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110428",
+    "text_pt": "Foco: Uso do pronome “ele” em diferentes contextos",
+    "text_en": "Focus: Use of the pronoun “he” in different contexts",
+    "audio_en_storage_path": "428_focus_use_of_the_pronoun_he_in_different_contexts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110429",
+    "text_pt": "Ele acorda cedo todos os dias.",
+    "text_en": "He wakes up early every day.",
+    "audio_en_storage_path": "429_he_wakes_up_early_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110430",
+    "text_pt": "Ele gosta de começar o dia com energia.",
+    "text_en": "He likes to start the day with energy.",
+    "audio_en_storage_path": "430_he_likes_to_start_the_day_with_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110431",
+    "text_pt": "Ele toma café e lê notícias.",
+    "text_en": "He drinks coffee and reads news.",
+    "audio_en_storage_path": "431_he_drinks_coffee_and_reads_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110432",
+    "text_pt": "Então ele se prepara para o trabalho.",
+    "text_en": "Then he gets ready for work.",
+    "audio_en_storage_path": "432_then_he_gets_ready_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110433",
+    "text_pt": "Ele trabalha em um escritório no centro da cidade.",
+    "text_en": "He works in an office downtown.",
+    "audio_en_storage_path": "433_he_works_in_an_office_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110434",
+    "text_pt": "Ele usa um computador o dia todo.",
+    "text_en": "He uses a computer all day.",
+    "audio_en_storage_path": "434_he_uses_a_computer_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110435",
+    "text_pt": "Ele fala com muitas pessoas durante o dia.",
+    "text_en": "He talks to many people during the day.",
+    "audio_en_storage_path": "435_he_talks_to_many_people_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110436",
+    "text_pt": "Alguns são clientes. Outros são colegas de trabalho.",
+    "text_en": "Some are clients. others are coworkers.",
+    "audio_en_storage_path": "436_some_are_clients_others_are_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110437",
+    "text_pt": "Ele almoça por volta do meio-dia.",
+    "text_en": "He eats lunch around noon.",
+    "audio_en_storage_path": "437_he_eats_lunch_around_noon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110438",
+    "text_pt": "Às vezes ele traz comida. às vezes ele compra.",
+    "text_en": "Sometimes he brings food. sometimes he buys.",
+    "audio_en_storage_path": "438_sometimes_he_brings_food_sometimes_he_buys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110439",
+    "text_pt": "À tarde, ele termina os relatórios.",
+    "text_en": "In the afternoon. he finishes reports.",
+    "audio_en_storage_path": "439_in_the_afternoon_he_finishes_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110440",
+    "text_pt": "E prepare-se para as tarefas de amanhã.",
+    "text_en": "And prepare for tomorrow’s tasks.",
+    "audio_en_storage_path": "440_and_prepare_for_tomorrows_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110441",
+    "text_pt": "Quem é ele?",
+    "text_en": "Who is he?",
+    "audio_en_storage_path": "441_who_is_he.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110442",
+    "text_pt": "Ele é um homem trabalhador.",
+    "text_en": "He is a hardworking man.",
+    "audio_en_storage_path": "442_he_is_a_hardworking_man.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110443",
+    "text_pt": "Onde ele mora?",
+    "text_en": "Where does he live?",
+    "audio_en_storage_path": "443_where_does_he_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110444",
+    "text_pt": "Ele mora em um pequeno apartamento perto da cidade.",
+    "text_en": "He lives in a small apartment near the city.",
+    "audio_en_storage_path": "444_he_lives_in_a_small_apartment_near_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110445",
+    "text_pt": "Quando ele costuma relaxar?",
+    "text_en": "When does he usually relax?",
+    "audio_en_storage_path": "445_when_does_he_usually_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110446",
+    "text_pt": "Somente depois do jantar, quando tudo estiver pronto.",
+    "text_en": "Only after dinner. when everything is done.",
+    "audio_en_storage_path": "446_only_after_dinner_when_everything_is_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110447",
+    "text_pt": "Ele tenta se manter saudável.",
+    "text_en": "He tries to stay healthy.",
+    "audio_en_storage_path": "447_he_tries_to_stay_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110448",
+    "text_pt": "Ele anda muito e bebe água.",
+    "text_en": "He walks a lot and drinks water.",
+    "audio_en_storage_path": "448_he_walks_a_lot_and_drinks_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110449",
+    "text_pt": "Amanhã. ele não esquecerá seu encontro.",
+    "text_en": "Tomorrow. he will not forget his meeting.",
+    "audio_en_storage_path": "449_tomorrow_he_will_not_forget_his_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110450",
+    "text_pt": "Ele colocará um lembrete no telefone.",
+    "text_en": "He will set a reminder on his phone.",
+    "audio_en_storage_path": "450_he_will_set_a_reminder_on_his_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110451",
+    "text_pt": "Você está indo bem!",
+    "text_en": "You're doing well!",
+    "audio_en_storage_path": "451_youre_doing_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110452",
+    "text_pt": "Continue — você também está inspirando outras pessoas!",
+    "text_en": "Keep going — you're inspiring others too!",
+    "audio_en_storage_path": "452_keep_going_youre_inspiring_others_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110453",
+    "text_pt": "Quinta-feira – Ela (em geral)",
+    "text_en": "Thursday – She (in general)",
+    "audio_en_storage_path": "453_thursday_she_in_general.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110454",
+    "text_pt": "Foco: Usando o pronome “ela” em diferentes contextos",
+    "text_en": "Focus: Using the pronoun “she” in different contexts",
+    "audio_en_storage_path": "454_focus_using_the_pronoun_she_in_different_contexts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110455",
+    "text_pt": "Ela acorda cedo todos os dias.",
+    "text_en": "She wakes up early every day.",
+    "audio_en_storage_path": "455_she_wakes_up_early_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110456",
+    "text_pt": "Ela gosta de começar o dia com energia.",
+    "text_en": "She likes to start the day with energy.",
+    "audio_en_storage_path": "456_she_likes_to_start_the_day_with_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110457",
+    "text_pt": "Ela bebe chá e lê notícias.",
+    "text_en": "She drinks tea and reads news.",
+    "audio_en_storage_path": "457_she_drinks_tea_and_reads_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110458",
+    "text_pt": "Então ela se prepara para o trabalho.",
+    "text_en": "Then she gets ready for work.",
+    "audio_en_storage_path": "458_then_she_gets_ready_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110459",
+    "text_pt": "Ela trabalha em uma clínica no centro da cidade.",
+    "text_en": "She works in a clinic downtown.",
+    "audio_en_storage_path": "459_she_works_in_a_clinic_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110460",
+    "text_pt": "Ela usa um computador e conversa com os pacientes.",
+    "text_en": "She uses a computer and talks to patients.",
+    "audio_en_storage_path": "460_she_uses_a_computer_and_talks_to_patients.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110461",
+    "text_pt": "Ela fala com muitas pessoas durante o dia.",
+    "text_en": "She talks to many people during the day.",
+    "audio_en_storage_path": "461_she_talks_to_many_people_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110462",
+    "text_pt": "Alguns são clientes. Outros são colegas de trabalho.",
+    "text_en": "Some are clients. others are coworkers.",
+    "audio_en_storage_path": "462_some_are_clients_others_are_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110463",
+    "text_pt": "Ela almoça por volta do meio-dia.",
+    "text_en": "She eats lunch around noon.",
+    "audio_en_storage_path": "463_she_eats_lunch_around_noon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110464",
+    "text_pt": "Às vezes ela traz comida. às vezes ela compra.",
+    "text_en": "Sometimes she brings food. sometimes she buys.",
+    "audio_en_storage_path": "464_sometimes_she_brings_food_sometimes_she_buys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110465",
+    "text_pt": "À tarde, ela termina os relatórios.",
+    "text_en": "In the afternoon. she finishes reports.",
+    "audio_en_storage_path": "465_in_the_afternoon_she_finishes_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110466",
+    "text_pt": "E prepare-se para as tarefas de amanhã.",
+    "text_en": "And prepare for tomorrow’s tasks.",
+    "audio_en_storage_path": "466_and_prepare_for_tomorrows_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110467",
+    "text_pt": "Quem é ela?",
+    "text_en": "Who is she?",
+    "audio_en_storage_path": "467_who_is_she.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110468",
+    "text_pt": "Ela é uma mulher gentil e trabalhadora.",
+    "text_en": "She is a kind and hardworking woman.",
+    "audio_en_storage_path": "468_she_is_a_kind_and_hardworking_woman.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110469",
+    "text_pt": "Onde ela mora?",
+    "text_en": "Where does she live?",
+    "audio_en_storage_path": "469_where_does_she_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110470",
+    "text_pt": "Ela mora em um pequeno apartamento perto da cidade.",
+    "text_en": "She lives in a small apartment near the city.",
+    "audio_en_storage_path": "470_she_lives_in_a_small_apartment_near_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110471",
+    "text_pt": "Quando ela costuma relaxar?",
+    "text_en": "When does she usually relax?",
+    "audio_en_storage_path": "471_when_does_she_usually_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110472",
+    "text_pt": "Somente depois do jantar, quando tudo estiver pronto.",
+    "text_en": "Only after dinner. when everything is done.",
+    "audio_en_storage_path": "472_only_after_dinner_when_everything_is_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110473",
+    "text_pt": "Ela tenta se manter saudável.",
+    "text_en": "She tries to stay healthy.",
+    "audio_en_storage_path": "473_she_tries_to_stay_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110474",
+    "text_pt": "Ela anda muito e bebe água.",
+    "text_en": "She walks a lot and drinks water.",
+    "audio_en_storage_path": "474_she_walks_a_lot_and_drinks_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110475",
+    "text_pt": "Amanhã. ela não esquecerá seu encontro.",
+    "text_en": "Tomorrow. she will not forget her meeting.",
+    "audio_en_storage_path": "475_tomorrow_she_will_not_forget_her_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110476",
+    "text_pt": "Ela colocará um lembrete no telefone.",
+    "text_en": "She will set a reminder on her phone.",
+    "audio_en_storage_path": "476_she_will_set_a_reminder_on_her_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110477",
+    "text_pt": "Você está indo bem!",
+    "text_en": "You're doing well!",
+    "audio_en_storage_path": "477_youre_doing_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110478",
+    "text_pt": "Continue — você também está inspirando outras pessoas!",
+    "text_en": "Keep going — you're inspiring others too!",
+    "audio_en_storage_path": "478_keep_going_youre_inspiring_others_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110479",
+    "text_pt": "Quinta-feira – Ela (em geral)",
+    "text_en": "Thursday – She (in general)",
+    "audio_en_storage_path": "479_thursday_she_in_general.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110480",
+    "text_pt": "Foco: Usando o pronome “ela” em diferentes contextos",
+    "text_en": "Focus: Using the pronoun “she” in different contexts",
+    "audio_en_storage_path": "480_focus_using_the_pronoun_she_in_different_contexts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110481",
+    "text_pt": "Ela acorda cedo todos os dias.",
+    "text_en": "She wakes up early every day.",
+    "audio_en_storage_path": "481_she_wakes_up_early_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110482",
+    "text_pt": "Ela gosta de começar o dia com energia.",
+    "text_en": "She likes to start the day with energy.",
+    "audio_en_storage_path": "482_she_likes_to_start_the_day_with_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110483",
+    "text_pt": "Ela bebe chá e lê notícias.",
+    "text_en": "She drinks tea and reads news.",
+    "audio_en_storage_path": "483_she_drinks_tea_and_reads_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110484",
+    "text_pt": "Então ela se prepara para o trabalho.",
+    "text_en": "Then she gets ready for work.",
+    "audio_en_storage_path": "484_then_she_gets_ready_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110485",
+    "text_pt": "Ela trabalha em uma clínica no centro da cidade.",
+    "text_en": "She works in a clinic downtown.",
+    "audio_en_storage_path": "485_she_works_in_a_clinic_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110486",
+    "text_pt": "Ela usa um computador e conversa com os pacientes.",
+    "text_en": "She uses a computer and talks to patients.",
+    "audio_en_storage_path": "486_she_uses_a_computer_and_talks_to_patients.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110487",
+    "text_pt": "Ela fala com muitas pessoas durante o dia.",
+    "text_en": "She talks to many people during the day.",
+    "audio_en_storage_path": "487_she_talks_to_many_people_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110488",
+    "text_pt": "Alguns são clientes. Outros são colegas de trabalho.",
+    "text_en": "Some are clients. others are coworkers.",
+    "audio_en_storage_path": "488_some_are_clients_others_are_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110489",
+    "text_pt": "Ela almoça por volta do meio-dia.",
+    "text_en": "She eats lunch around noon.",
+    "audio_en_storage_path": "489_she_eats_lunch_around_noon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110490",
+    "text_pt": "Às vezes ela traz comida. às vezes ela compra.",
+    "text_en": "Sometimes she brings food. sometimes she buys.",
+    "audio_en_storage_path": "490_sometimes_she_brings_food_sometimes_she_buys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110491",
+    "text_pt": "À tarde, ela termina os relatórios.",
+    "text_en": "In the afternoon. she finishes reports.",
+    "audio_en_storage_path": "491_in_the_afternoon_she_finishes_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110492",
+    "text_pt": "E prepare-se para as tarefas de amanhã.",
+    "text_en": "And prepare for tomorrow’s tasks.",
+    "audio_en_storage_path": "492_and_prepare_for_tomorrows_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110493",
+    "text_pt": "Quem é ela?",
+    "text_en": "Who is she?",
+    "audio_en_storage_path": "493_who_is_she.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110494",
+    "text_pt": "Ela é uma mulher gentil e trabalhadora.",
+    "text_en": "She is a kind and hardworking woman.",
+    "audio_en_storage_path": "494_she_is_a_kind_and_hardworking_woman.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110495",
+    "text_pt": "Onde ela mora?",
+    "text_en": "Where does she live?",
+    "audio_en_storage_path": "495_where_does_she_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110496",
+    "text_pt": "Ela mora em um pequeno apartamento perto da cidade.",
+    "text_en": "She lives in a small apartment near the city.",
+    "audio_en_storage_path": "496_she_lives_in_a_small_apartment_near_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110497",
+    "text_pt": "Quando ela costuma relaxar?",
+    "text_en": "When does she usually relax?",
+    "audio_en_storage_path": "497_when_does_she_usually_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110498",
+    "text_pt": "Somente depois do jantar, quando tudo estiver pronto.",
+    "text_en": "Only after dinner. when everything is done.",
+    "audio_en_storage_path": "498_only_after_dinner_when_everything_is_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110499",
+    "text_pt": "Ela tenta se manter saudável.",
+    "text_en": "She tries to stay healthy.",
+    "audio_en_storage_path": "499_she_tries_to_stay_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110500",
+    "text_pt": "Ela anda muito e bebe água.",
+    "text_en": "She walks a lot and drinks water.",
+    "audio_en_storage_path": "500_she_walks_a_lot_and_drinks_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110501",
+    "text_pt": "Amanhã. ela não esquecerá seu encontro.",
+    "text_en": "Tomorrow. she will not forget her meeting.",
+    "audio_en_storage_path": "501_tomorrow_she_will_not_forget_her_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110502",
+    "text_pt": "Ela colocará um lembrete no telefone.",
+    "text_en": "She will set a reminder on her phone.",
+    "audio_en_storage_path": "502_she_will_set_a_reminder_on_her_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110503",
+    "text_pt": "Você está indo bem!",
+    "text_en": "You're doing well!",
+    "audio_en_storage_path": "503_youre_doing_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110504",
+    "text_pt": "Continue — você também está inspirando outras pessoas!",
+    "text_en": "Keep going — you're inspiring others too!",
+    "audio_en_storage_path": "504_keep_going_youre_inspiring_others_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110505",
+    "text_pt": "Quinta-feira – Eles (Colegas ou vizinhos)",
+    "text_en": "Thursday – They (Colleagues or neighbors)",
+    "audio_en_storage_path": "505_thursday_they_colleagues_or_neighbors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110506",
+    "text_pt": "Foco: Ações de uma pessoa (colegas ou vizinhos)",
+    "text_en": "Focus: Actions of one person (colleagues or neighbors)",
+    "audio_en_storage_path": "506_focus_actions_of_one_person_colleagues_or_neighbors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110507",
+    "text_pt": "Eles chegam cedo ao trabalho.",
+    "text_en": "They arrive at work early.",
+    "audio_en_storage_path": "507_they_arrive_at_work_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110508",
+    "text_pt": "Alguns comem de carro. Outros pegam o ônibus.",
+    "text_en": "Some eat by car. others take the bus.",
+    "audio_en_storage_path": "508_some_eat_by_car_others_take_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110509",
+    "text_pt": "Eles começam o dia com café e bate-papo.",
+    "text_en": "They start the day with coffee and chat.",
+    "audio_en_storage_path": "509_they_start_the_day_with_coffee_and_chat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110510",
+    "text_pt": "Então eles começam suas tarefas diárias.",
+    "text_en": "Then they begin their daily tasks.",
+    "audio_en_storage_path": "510_then_they_begin_their_daily_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110511",
+    "text_pt": "Eles trabalham no mesmo departamento.",
+    "text_en": "They work in the same department.",
+    "audio_en_storage_path": "511_they_work_in_the_same_department.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110512",
+    "text_pt": "E muitas vezes compartilham ideias e opiniões.",
+    "text_en": "And they often share ideas and opinions.",
+    "audio_en_storage_path": "512_and_they_often_share_ideas_and_opinions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110513",
+    "text_pt": "Durante o almoço, eles falam sobre suas vidas.",
+    "text_en": "During lunch. they talk about their lives.",
+    "audio_en_storage_path": "513_during_lunch_they_talk_about_their_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110514",
+    "text_pt": "Alguns trazem comida. Outros compram lanches.",
+    "text_en": "Some bring food. others buy snacks.",
+    "audio_en_storage_path": "514_some_bring_food_others_buy_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110515",
+    "text_pt": "À tarde, eles terminam o que começaram.",
+    "text_en": "In the afternoon. they finish what they started.",
+    "audio_en_storage_path": "515_in_the_afternoon_they_finish_what_they_started.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110516",
+    "text_pt": "E prepare-se para o trabalho de amanhã.",
+    "text_en": "And prepare for tomorrow’s work.",
+    "audio_en_storage_path": "516_and_prepare_for_tomorrows_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110517",
+    "text_pt": "Às vezes eles saem depois do trabalho.",
+    "text_en": "They sometimes go out after work.",
+    "audio_en_storage_path": "517_they_sometimes_go_out_after_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110518",
+    "text_pt": "Para jantar ou simplesmente para relaxar.",
+    "text_en": "For dinner or just to relax.",
+    "audio_en_storage_path": "518_for_dinner_or_just_to_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110519",
+    "text_pt": "Quem são eles?",
+    "text_en": "Who are they?",
+    "audio_en_storage_path": "519_who_are_they.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110520",
+    "text_pt": "Eles são colegas de trabalho ou vizinhos.",
+    "text_en": "They are coworkers or neighbors.",
+    "audio_en_storage_path": "520_they_are_coworkers_or_neighbors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110521",
+    "text_pt": "Onde eles costumam se encontrar?",
+    "text_en": "Where do they usually meet?",
+    "audio_en_storage_path": "521_where_do_they_usually_meet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110522",
+    "text_pt": "No escritório, no mercado ou na academia.",
+    "text_en": "At the office. the market. or the gym.",
+    "audio_en_storage_path": "522_at_the_office_the_market_or_the_gym.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110523",
+    "text_pt": "Por que eles trabalham tanto?",
+    "text_en": "Why do they work so hard?",
+    "audio_en_storage_path": "523_why_do_they_work_so_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110524",
+    "text_pt": "Porque eles querem crescer e melhorar.",
+    "text_en": "Because they want to grow and improve.",
+    "audio_en_storage_path": "524_because_they_want_to_grow_and_improve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110525",
+    "text_pt": "Eles gostam de trabalhar juntos.",
+    "text_en": "They enjoy working together.",
+    "audio_en_storage_path": "525_they_enjoy_working_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110526",
+    "text_pt": "Isso torna o dia mais agradável.",
+    "text_en": "It makes the day more enjoyable.",
+    "audio_en_storage_path": "526_it_makes_the_day_more_enjoyable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110527",
+    "text_pt": "Amanhã. eles não vão se atrasar novamente.",
+    "text_en": "Tomorrow. they will not be late again.",
+    "audio_en_storage_path": "527_tomorrow_they_will_not_be_late_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110528",
+    "text_pt": "Eles sairão de casa mais cedo.",
+    "text_en": "They will leave home earlier.",
+    "audio_en_storage_path": "528_they_will_leave_home_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110529",
+    "text_pt": "Tenham um bom dia a todos!",
+    "text_en": "Have a good day everyone!",
+    "audio_en_storage_path": "529_have_a_good_day_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110530",
+    "text_pt": "Obrigado por fazer parte da equipe!",
+    "text_en": "Thank you for being part of the team!",
+    "audio_en_storage_path": "530_thank_you_for_being_part_of_the_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

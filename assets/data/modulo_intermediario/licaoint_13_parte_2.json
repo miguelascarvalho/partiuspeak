@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112024",
+    "text_pt": "Sucos Naturais",
+    "text_en": "Natural Juices",
+    "audio_en_storage_path": "2024_natural_juices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112025",
+    "text_pt": "O suco está na jarra sobre a mesa.",
+    "text_en": "The juice is in the pitcher on the table.",
+    "audio_en_storage_path": "2025_the_juice_is_in_the_pitcher_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112026",
+    "text_pt": "É laranja e parece recém-espremido.",
+    "text_en": "It’s orange and looks freshly squeezed.",
+    "audio_en_storage_path": "2026_its_orange_and_looks_freshly_squeezed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112027",
+    "text_pt": "Eu bebo suco no café da manhã ou depois da escola.",
+    "text_en": "I drink juice with breakfast or after school.",
+    "audio_en_storage_path": "2027_i_drink_juice_with_breakfast_or_after_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112028",
+    "text_pt": "É doce e cheio de vitaminas.",
+    "text_en": "It’s sweet and full of vitamins.",
+    "audio_en_storage_path": "2028_its_sweet_and_full_of_vitamins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112029",
+    "text_pt": "O copo é alto e tem cubos de gelo dentro.",
+    "text_en": "The glass is tall and has ice cubes inside.",
+    "audio_en_storage_path": "2029_the_glass_is_tall_and_has_ice_cubes_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112030",
+    "text_pt": "A condensação escorre pelas laterais.",
+    "text_en": "Condensation runs down the sides.",
+    "audio_en_storage_path": "2030_condensation_runs_down_the_sides.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112031",
+    "text_pt": "Fiz isso com frutas de verdade esta manhã.",
+    "text_en": "I made it from real fruit this morning.",
+    "audio_en_storage_path": "2031_i_made_it_from_real_fruit_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112032",
+    "text_pt": "Sem adição de açúcar — apenas sabor puro.",
+    "text_en": "No sugar added — just pure flavor.",
+    "audio_en_storage_path": "2032_no_sugar_added_just_pure_flavor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112033",
+    "text_pt": "Que tipo de suco você mais gosta?",
+    "text_en": "What kind of juice do you like most?",
+    "audio_en_storage_path": "2033_what_kind_of_juice_do_you_like_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112034",
+    "text_pt": "Abacaxi — é tropical e refrescante.",
+    "text_en": "Pineapple — it’s tropical and refreshing.",
+    "audio_en_storage_path": "2034_pineapple_its_tropical_and_refreshing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112035",
+    "text_pt": "Onde você armazena frutas para fazer suco?",
+    "text_en": "Where do you store fruits for juicing?",
+    "audio_en_storage_path": "2035_where_do_you_store_fruits_for_juicing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112036",
+    "text_pt": "Na geladeira — lavado e pronto para uso.",
+    "text_en": "In the fridge — washed and ready to use.",
+    "audio_en_storage_path": "2036_in_the_fridge_washed_and_ready_to_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112037",
+    "text_pt": "Às vezes eu misturo maçã e cenoura.",
+    "text_en": "Sometimes I mix apple and carrot.",
+    "audio_en_storage_path": "2037_sometimes_i_mix_apple_and_carrot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112038",
+    "text_pt": "Outras vezes opto pelo suco verde.",
+    "text_en": "Other times I go for green juice.",
+    "audio_en_storage_path": "2038_other_times_i_go_for_green_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112039",
+    "text_pt": "Onde você deixou o liquidificador?",
+    "text_en": "Where did you leave the blender?",
+    "audio_en_storage_path": "2039_where_did_you_leave_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112040",
+    "text_pt": "No balcão — ainda coberto de polpa.",
+    "text_en": "On the counter — still covered in pulp.",
+    "audio_en_storage_path": "2040_on_the_counter_still_covered_in_pulp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112041",
+    "text_pt": "Quando você costuma beber suco?",
+    "text_en": "When do you usually drink juice?",
+    "audio_en_storage_path": "2041_when_do_you_usually_drink_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112042",
+    "text_pt": "Durante o café da manhã ou após o treino.",
+    "text_en": "During breakfast or after a workout.",
+    "audio_en_storage_path": "2042_during_breakfast_or_after_a_workout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112043",
+    "text_pt": "Por que você fez suco hoje?",
+    "text_en": "Why did you make juice today?",
+    "audio_en_storage_path": "2043_why_did_you_make_juice_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112044",
+    "text_pt": "Porque eu queria algo natural e energizante.",
+    "text_en": "Because I wanted something natural and energizing.",
+    "audio_en_storage_path": "2044_because_i_wanted_something_natural_and_energizing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112045",
+    "text_pt": "Adoro beber suco caseiro.",
+    "text_en": "I love drinking homemade juice.",
+    "audio_en_storage_path": "2045_i_love_drinking_homemade_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112046",
+    "text_pt": "O sabor é melhor do que o comprado na loja.",
+    "text_en": "It tastes better than store-bought.",
+    "audio_en_storage_path": "2046_it_tastes_better_than_storebought.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112047",
+    "text_pt": "Amanhã. Não vou esquecer de lavar o liquidificador de novo.",
+    "text_en": "Tomorrow. I will not forget to wash the blender again.",
+    "audio_en_storage_path": "2047_tomorrow_i_will_not_forget_to_wash_the_blender_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112048",
+    "text_pt": "Vou limpá-lo logo depois de fazer o suco.",
+    "text_en": "I’ll clean it right after making juice.",
+    "audio_en_storage_path": "2048_ill_clean_it_right_after_making_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112049",
+    "text_pt": "Aproveite sua bebida!",
+    "text_en": "Enjoy your drink!",
+    "audio_en_storage_path": "2049_enjoy_your_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112050",
+    "text_pt": "O suco natural é cheio de vida!",
+    "text_en": "Natural juice is full of life!",
+    "audio_en_storage_path": "2050_natural_juice_is_full_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

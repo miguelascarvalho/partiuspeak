@@ -1,0 +1,227 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120066",
+    "text_pt": "O copiloto apoia o capitão durante todo o voo",
+    "text_en": "Co-pilot backs up the captain all flight long",
+    "audio_en_storage_path": "066_copilot_backs_up_the_captain_all_flight_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120067",
+    "text_pt": "A equipe de solo garante que tudo esteja pronto antes da decolagem",
+    "text_en": "Ground crew makes sure everything’s ready before takeoff",
+    "audio_en_storage_path": "067_ground_crew_makes_sure_everythings_ready_before_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120068",
+    "text_pt": "A equipe de solo prepara tudo antes de partirmos",
+    "text_en": "Ground team gets everything set before we roll out",
+    "audio_en_storage_path": "068_ground_team_gets_everything_set_before_we_roll_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120069",
+    "text_pt": "O controle de tráfego aéreo nos informou que temos que esperar pela autorização",
+    "text_en": "Air traffic control told us we have to wait for clearance",
+    "audio_en_storage_path": "069_air_traffic_control_told_us_we_have_to_wait_for_clearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120070",
+    "text_pt": "O ATC disse que temos que aguardar a autorização de decolagem",
+    "text_en": "ATC said we gotta hold for takeoff clearance",
+    "audio_en_storage_path": "070_atc_said_we_gotta_hold_for_takeoff_clearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120071",
+    "text_pt": "Ele era mecânico antes de se tornar comissário de bordo",
+    "text_en": "He used to be a mechanic before he became a flight attendant",
+    "audio_en_storage_path": "071_he_used_to_be_a_mechanic_before_he_became_a_flight_attendant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120072",
+    "text_pt": "Ele consertou aviões antes de começar a trabalhar a bordo",
+    "text_en": "He fixed planes before he started workin’ onboard",
+    "audio_en_storage_path": "072_he_fixed_planes_before_he_started_workin_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120073",
+    "text_pt": "Ela me ofereceu um cobertor e perguntou se eu estava confortável",
+    "text_en": "She offered me a blanket and asked if I was comfortable",
+    "audio_en_storage_path": "073_she_offered_me_a_blanket_and_asked_if_i_was_comfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120074",
+    "text_pt": "Ela me entregou um cobertor e verificou se eu estava confortável",
+    "text_en": "She handed me a blanket and checked if I was comfy",
+    "audio_en_storage_path": "074_she_handed_me_a_blanket_and_checked_if_i_was_comfy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120075",
+    "text_pt": "A tripulação acabou de desligar o sinal do cinto de segurança",
+    "text_en": "The crew just turned off the seatbelt sign",
+    "audio_en_storage_path": "075_the_crew_just_turned_off_the_seatbelt_sign.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120076",
+    "text_pt": "Eles simplesmente apagaram a luz do cinto de segurança acima",
+    "text_en": "They just shut off the seatbelt light above",
+    "audio_en_storage_path": "076_they_just_shut_off_the_seatbelt_light_above.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120077",
+    "text_pt": "Você ouviu o que o piloto disse sobre o clima?",
+    "text_en": "Did you hear what the pilot said about the weather?",
+    "audio_en_storage_path": "077_did_you_hear_what_the_pilot_said_about_the_weather.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120078",
+    "text_pt": "Ouviu o que o capitão disse sobre a tempestade?",
+    "text_en": "Hear what the captain said ‘bout the storm?",
+    "audio_en_storage_path": "078_hear_what_the_captain_said_bout_the_storm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120079",
+    "text_pt": "Eles cancelaram o voo por problemas técnicos",
+    "text_en": "They canceled the flight because of technical problems",
+    "audio_en_storage_path": "079_they_canceled_the_flight_because_of_technical_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120080",
+    "text_pt": "O voo foi cancelado porque algo quebrou no avião",
+    "text_en": "Flight got canceled ‘cause something broke on the plane",
+    "audio_en_storage_path": "080_flight_got_canceled_cause_something_broke_on_the_plane.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120081",
+    "text_pt": "Alguns passageiros ficaram chateados quando o atraso piorou",
+    "text_en": "Some passengers were upset when the delay got worse",
+    "audio_en_storage_path": "081_some_passengers_were_upset_when_the_delay_got_worse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120082",
+    "text_pt": "Algumas pessoas ficaram bravas quando o atraso aumentou",
+    "text_en": "A few folks got mad when the delay got longer",
+    "audio_en_storage_path": "082_a_few_folks_got_mad_when_the_delay_got_longer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120083",
+    "text_pt": "A tripulação está verificando os documentos de cada passageiro agora",
+    "text_en": "The crew is checking each passenger’s documents now",
+    "audio_en_storage_path": "083_the_crew_is_checking_each_passengers_documents_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120084",
+    "text_pt": "A equipe está por aí verificando os papéis de todos",
+    "text_en": "Crew’s goin’ around checkin’ everyone’s papers",
+    "audio_en_storage_path": "084_crews_goin_around_checkin_everyones_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120085",
+    "text_pt": "Eles anunciaram que seremos divertidos em outro aeroporto",
+    "text_en": "They announced we’ll be diverted to another airport",
+    "audio_en_storage_path": "085_they_announced_well_be_diverted_to_another_airport.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120086",
+    "text_pt": "Anunciamos que estamos indo para um aeroporto diferente",
+    "text_en": "Announced we’re headin’ to a different airport instead",
+    "audio_en_storage_path": "086_announced_were_headin_to_a_different_airport_instead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120087",
+    "text_pt": "Ele é o comissário de bordo líder e cuida da equipe",
+    "text_en": "He’s the lead flight attendant and takes care of the team",
+    "audio_en_storage_path": "087_hes_the_lead_flight_attendant_and_takes_care_of_the_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120088",
+    "text_pt": "Ele é o cara principal. Ele comanda a equipe como um chefe.",
+    "text_en": "He’s the head guy. runs the crew like a boss",
+    "audio_en_storage_path": "088_hes_the_head_guy_runs_the_crew_like_a_boss.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120089",
+    "text_pt": "Você foi uma ótima companhia. Espero que sua viagem corra bem.",
+    "text_en": "You’ve been great company. Hope your trip goes well",
+    "audio_en_storage_path": "089_youve_been_great_company_hope_your_trip_goes_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120090",
+    "text_pt": "Gostei muito de conversar. Espero que sua viagem seja tranquila.",
+    "text_en": "Really enjoyed talkin’. Hope your trip’s smooth",
+    "audio_en_storage_path": "090_really_enjoyed_talkin_hope_your_trips_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

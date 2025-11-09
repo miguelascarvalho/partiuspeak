@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101840",
+    "text_pt": "🍔 Alimentação e Lanchonete (Praça de Alimentação/Snack Bar)",
+    "text_en": "🍔 Food Court / Snack Bar",
+    "audio_en_storage_path": "940_food_court_snack_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101841",
+    "text_pt": "A praça de alimentação fica no meio do shopping.",
+    "text_en": "The food court is in the middle of the mall.",
+    "audio_en_storage_path": "941_the_food_court_is_in_the_middle_of_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101842",
+    "text_pt": "Muitos restaurantes e lugares para sentar.",
+    "text_en": "Many restaurants and places to sit.",
+    "audio_en_storage_path": "942_many_restaurants_and_places_to_sit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101843",
+    "text_pt": "Eu compro hambúrgueres. macarrão ou smoothies aqui.",
+    "text_en": "I buy burgers. noodles. or smoothies here.",
+    "audio_en_storage_path": "943_i_buy_burgers_noodles_or_smoothies_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101844",
+    "text_pt": "Às vezes eu apenas tomo chá e descanso.",
+    "text_en": "Sometimes I just drink tea and rest.",
+    "audio_en_storage_path": "944_sometimes_i_just_drink_tea_and_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101845",
+    "text_pt": "As mesas são de plástico e fáceis de limpar.",
+    "text_en": "The tables are plastic and easy to clean.",
+    "audio_en_storage_path": "945_the_tables_are_plastic_and_easy_to_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101846",
+    "text_pt": "As cadeiras são vermelhas e empilháveis.",
+    "text_en": "The chairs are red and stackable.",
+    "audio_en_storage_path": "946_the_chairs_are_red_and_stackable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101847",
+    "text_pt": "Há cardápios. guardanapos e condimentos em cada mesa.",
+    "text_en": "There are menus. napkins. and condiments on each table.",
+    "audio_en_storage_path": "947_there_are_menus_napkins_and_condiments_on_each_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101848",
+    "text_pt": "E lixeiras perto das saídas.",
+    "text_en": "And trash bins near the exits.",
+    "audio_en_storage_path": "948_and_trash_bins_near_the_exits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101849",
+    "text_pt": "O que você pediu hoje?",
+    "text_en": "What did you order today?",
+    "audio_en_storage_path": "949_what_did_you_order_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101850",
+    "text_pt": "Wrap de frango e suco de laranja — refeição leve.",
+    "text_en": "Chicken wrap and orange juice — light meal.",
+    "audio_en_storage_path": "950_chicken_wrap_and_orange_juice_light_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101851",
+    "text_pt": "Onde fica o buffet de saladas?",
+    "text_en": "Where is the salad bar?",
+    "audio_en_storage_path": "951_where_is_the_salad_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101852",
+    "text_pt": "Extrema direita — atrás da barraca de sushi.",
+    "text_en": "Far right — behind the sushi stand.",
+    "audio_en_storage_path": "952_far_right_behind_the_sushi_stand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101853",
+    "text_pt": "Às vezes eu como rápido.",
+    "text_en": "Sometimes I eat fast.",
+    "audio_en_storage_path": "953_sometimes_i_eat_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101854",
+    "text_pt": "Outras vezes. sento e converso com amigos.",
+    "text_en": "Other times I sit and talk with friends.",
+    "audio_en_storage_path": "954_other_times_i_sit_and_talk_with_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101855",
+    "text_pt": "Onde você deixou sua colher?",
+    "text_en": "Where did you leave your spoon?",
+    "audio_en_storage_path": "955_where_did_you_leave_your_spoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101856",
+    "text_pt": "No copo — esqueci de jogar fora.",
+    "text_en": "In the cup — forgot to throw it away.",
+    "audio_en_storage_path": "956_in_the_cup_forgot_to_throw_it_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101857",
+    "text_pt": "Quando você comerá aqui novamente?",
+    "text_en": "When will you eat here again?",
+    "audio_en_storage_path": "957_when_will_you_eat_here_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101858",
+    "text_pt": "Depois do filme — talvez pizza dessa vez.",
+    "text_en": "After the movie — maybe pizza this time.",
+    "audio_en_storage_path": "958_after_the_movie_maybe_pizza_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101859",
+    "text_pt": "Por que você trouxe água hoje?",
+    "text_en": "Why did you bring water today?",
+    "audio_en_storage_path": "959_why_did_you_bring_water_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101860",
+    "text_pt": "Porque eu sabia que a comida seria apimentada.",
+    "text_en": "Because I knew the food would be spicy.",
+    "audio_en_storage_path": "960_because_i_knew_the_food_would_be_spicy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101861",
+    "text_pt": "Ele come aqui sempre que vem.",
+    "text_en": "He eats here every time he eats.",
+    "audio_en_storage_path": "961_he_eats_here_every_time_he_eats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101862",
+    "text_pt": "Gosta da vista e da variedade.",
+    "text_en": "Likes the view and variety.",
+    "audio_en_storage_path": "962_likes_the_view_and_variety.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101863",
+    "text_pt": "Amanhã. Não vou esquecer de levar lenços umedecidos novamente.",
+    "text_en": "Tomorrow. I will not forget to carry wipes again.",
+    "audio_en_storage_path": "963_tomorrow_i_will_not_forget_to_carry_wipes_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101864",
+    "text_pt": "Meus dedos ficaram pegajosos da última vez.",
+    "text_en": "My fingers got sticky last time.",
+    "audio_en_storage_path": "964_my_fingers_got_sticky_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101865",
+    "text_pt": "Faça uma pausa e aproveite!",
+    "text_en": "Take a break and enjoy!",
+    "audio_en_storage_path": "965_take_a_break_and_enjoy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101866",
+    "text_pt": "A comida fica mais saborosa com companhia.",
+    "text_en": "Food tastes better with company.",
+    "audio_en_storage_path": "966_food_tastes_better_with_company.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

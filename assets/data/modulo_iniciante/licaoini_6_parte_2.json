@@ -1,0 +1,164 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101188",
+    "text_pt": "🧭 Exemplo de diálogo – Confirmação de direção",
+    "text_en": "🧭 Example dialog – Direction confirmation",
+    "audio_en_storage_path": "288_example_dialog_direction_confirmation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101189",
+    "text_pt": "Olá. Você pode me ajudar a encontrar o shopping?",
+    "text_en": "Hey. can you help me find the mall?",
+    "audio_en_storage_path": "289_hey_can_you_help_me_find_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101190",
+    "text_pt": "Claro!",
+    "text_en": "Of course!",
+    "audio_en_storage_path": "290_of_course.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101191",
+    "text_pt": "Siga em frente pela Maple Avenue.",
+    "text_en": "Go straight on Maple Avenue.",
+    "audio_en_storage_path": "291_go_straight_on_maple_avenue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101192",
+    "text_pt": "Vire à esquerda depois do posto de gasolina.",
+    "text_en": "Turn left after the gas station.",
+    "audio_en_storage_path": "292_turn_left_after_the_gas_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101193",
+    "text_pt": "Siga as placas para o shopping center.",
+    "text_en": "Follow signs for the shopping center.",
+    "audio_en_storage_path": "293_follow_signs_for_the_shopping_center.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101194",
+    "text_pt": "Deixe-me ver se entendi direito…",
+    "text_en": "Let me see if I got this right…",
+    "audio_en_storage_path": "294_let_me_see_if_i_got_this_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101195",
+    "text_pt": "Vou direto pela Maple Avenue.",
+    "text_en": "I go straight on Maple Avenue.",
+    "audio_en_storage_path": "295_i_go_straight_on_maple_avenue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101196",
+    "text_pt": "Vire à esquerda depois do posto de gasolina.",
+    "text_en": "Left turn after the gas station.",
+    "audio_en_storage_path": "296_left_turn_after_the_gas_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101197",
+    "text_pt": "E então siga as placas para o shopping.",
+    "text_en": "And then follow signs to the mall.",
+    "audio_en_storage_path": "297_and_then_follow_signs_to_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101198",
+    "text_pt": "Isso está correto?",
+    "text_en": "Is that correct?",
+    "audio_en_storage_path": "298_is_that_correct.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101199",
+    "text_pt": "Sim!",
+    "text_en": "Yes!",
+    "audio_en_storage_path": "299_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101200",
+    "text_pt": "Mas se você passar pela sorveteria. você está indo longe demais.",
+    "text_en": "But if you pass the ice cream shop. you're going too far.",
+    "audio_en_storage_path": "300_but_if_you_pass_the_ice_cream_shop_youre_going_too_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101201",
+    "text_pt": "Amanhã. Não esquecerei de seguir as placas novamente.",
+    "text_en": "Tomorrow. I will not forget to follow the signs again.",
+    "audio_en_storage_path": "301_tomorrow_i_will_not_forget_to_follow_the_signs_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101202",
+    "text_pt": "Da última vez fui pelo caminho errado.",
+    "text_en": "Last time I went the wrong way.",
+    "audio_en_storage_path": "302_last_time_i_went_the_wrong_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101203",
+    "text_pt": "Conselho final:",
+    "text_en": "Final advice:",
+    "audio_en_storage_path": "303_final_advice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101204",
+    "text_pt": "Está tudo pronto!",
+    "text_en": "You’re all set!",
+    "audio_en_storage_path": "304_youre_all_set.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101205",
+    "text_pt": "Aproveite sua viagem de compras — divirta-se!",
+    "text_en": "Enjoy your shopping trip — have fun!",
+    "audio_en_storage_path": "305_enjoy_your_shopping_trip_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

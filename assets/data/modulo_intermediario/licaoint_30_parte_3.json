@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115129",
+    "text_pt": "Lava-jato",
+    "text_en": "Car Wash",
+    "audio_en_storage_path": "5129_car_wash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115130",
+    "text_pt": "O lava-rápido fica ao lado das bombas de gasolina.",
+    "text_en": "The car wash is next to the gas pumps.",
+    "audio_en_storage_path": "5130_the_car_wash_is_next_to_the_gas_pumps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115131",
+    "text_pt": "Possui opções de lavagem automática e manual.",
+    "text_en": "It has automatic and hand-wash options.",
+    "audio_en_storage_path": "5131_it_has_automatic_and_handwash_options.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115132",
+    "text_pt": "Eu o uso para limpar meu carro uma vez por mês.",
+    "text_en": "I use it to clean my car once a month.",
+    "audio_en_storage_path": "5132_i_use_it_to_clean_my_car_once_a_month.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115133",
+    "text_pt": "Ou simplesmente enxágue a poeira depois de dirigir.",
+    "text_en": "Or just rinse off dust after driving.",
+    "audio_en_storage_path": "5133_or_just_rinse_off_dust_after_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115134",
+    "text_pt": "As máquinas são vermelhas e prateadas.",
+    "text_en": "The machines are red and silver.",
+    "audio_en_storage_path": "5134_the_machines_are_red_and_silver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115135",
+    "text_pt": "Uma tem espuma. outra, água de alta pressão.",
+    "text_en": "One has foam. another high-pressure water.",
+    "audio_en_storage_path": "5135_one_has_foam_another_highpressure_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115136",
+    "text_pt": "Há escovas, toalhas e aspiradores de pó por perto.",
+    "text_en": "There are brushes. towels. and vacuum machines nearby.",
+    "audio_en_storage_path": "5136_there_are_brushes_towels_and_vacuum_machines_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115137",
+    "text_pt": "Pronto para limpeza completa.",
+    "text_en": "Ready for full cleaning.",
+    "audio_en_storage_path": "5137_ready_for_full_cleaning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115138",
+    "text_pt": "Você prefere a lavagem automática ou manual?",
+    "text_en": "Do you prefer the automatic or manual wash?",
+    "audio_en_storage_path": "5138_do_you_prefer_the_automatic_or_manual_wash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115139",
+    "text_pt": "Automático — economiza tempo e energia.",
+    "text_en": "Automatic — saves time and energy.",
+    "audio_en_storage_path": "5139_automatic_saves_time_and_energy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115140",
+    "text_pt": "Onde você seca seu carro depois de lavá-lo?",
+    "text_en": "Where do you dry your car after washing?",
+    "audio_en_storage_path": "5140_where_do_you_dry_your_car_after_washing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115141",
+    "text_pt": "Sob o toldo — seguro e na sombra.",
+    "text_en": "Under the awning — safe and shaded.",
+    "audio_en_storage_path": "5141_under_the_awning_safe_and_shaded.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115142",
+    "text_pt": "Às vezes lavo só a frente.",
+    "text_en": "Sometimes I wash just the front.",
+    "audio_en_storage_path": "5142_sometimes_i_wash_just_the_front.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115143",
+    "text_pt": "Outras vezes eu faço o carro todo.",
+    "text_en": "Other times I do the whole car.",
+    "audio_en_storage_path": "5143_other_times_i_do_the_whole_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115144",
+    "text_pt": "Onde você deixou a toalha?",
+    "text_en": "Where did you leave the towel?",
+    "audio_en_storage_path": "5144_where_did_you_leave_the_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115145",
+    "text_pt": "No banco de trás — esqueci de tirá-lo.",
+    "text_en": "In the back seat — forgot to take it out.",
+    "audio_en_storage_path": "5145_in_the_back_seat_forgot_to_take_it_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115146",
+    "text_pt": "Quando eles vão consertar o aspirador de pó?",
+    "text_en": "When will they fix the vacuum cleaner?",
+    "audio_en_storage_path": "5146_when_will_they_fix_the_vacuum_cleaner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115147",
+    "text_pt": "Amanhã — quebrou esta tarde.",
+    "text_en": "Tomorrow — it broke this afternoon.",
+    "audio_en_storage_path": "5147_tomorrow_it_broke_this_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115148",
+    "text_pt": "Por que você escolheu esta estação hoje?",
+    "text_en": "Why did you choose this station today?",
+    "audio_en_storage_path": "5148_why_did_you_choose_this_station_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115149",
+    "text_pt": "Porque eles dão ar de graça para os pneus.",
+    "text_en": "Because they give free air for tires.",
+    "audio_en_storage_path": "5149_because_they_give_free_air_for_tires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115150",
+    "text_pt": "Ele sempre lava o carro neste posto.",
+    "text_en": "He always washes his car at this station.",
+    "audio_en_storage_path": "5150_he_always_washes_his_car_at_this_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115151",
+    "text_pt": "Gosta de como ele brilha depois.",
+    "text_en": "Likes how it shines after.",
+    "audio_en_storage_path": "5151_likes_how_it_shines_after.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115152",
+    "text_pt": "Amanhã. Não esquecerei de devolver a mangueira novamente.",
+    "text_en": "Tomorrow. I will not forget to return the hose again.",
+    "audio_en_storage_path": "5152_tomorrow_i_will_not_forget_to_return_the_hose_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115153",
+    "text_pt": "Deixei do lado de fora da última vez — alguém usou.",
+    "text_en": "Left it outside last time — someone used it.",
+    "audio_en_storage_path": "5153_left_it_outside_last_time_someone_used_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115154",
+    "text_pt": "Carro limpo. Motorista feliz!",
+    "text_en": "Clean car. happy driver!",
+    "audio_en_storage_path": "5154_clean_car_happy_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115155",
+    "text_pt": "Aproveite o visual novo.",
+    "text_en": "Enjoy the fresh look.",
+    "audio_en_storage_path": "5155_enjoy_the_fresh_look.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

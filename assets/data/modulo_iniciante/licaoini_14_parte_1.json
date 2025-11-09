@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100305",
+    "text_pt": "O chuveiro fica no banheiro.",
+    "text_en": "The shower is in the bathroom.",
+    "audio_en_storage_path": "306_the_shower_is_in_the_bathroom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100306",
+    "text_pt": "Nós o usamos para tomar banho.",
+    "text_en": "We use it to take a bath.",
+    "audio_en_storage_path": "307_we_use_it_to_take_a_bath.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100307",
+    "text_pt": "Possui uma cortina e uma pequena prateleira.",
+    "text_en": "It has a curtain and a small shelf.",
+    "audio_en_storage_path": "308_it_has_a_curtain_and_a_small_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100308",
+    "text_pt": "Há xampu, sabonete e uma toalha por perto.",
+    "text_en": "There is shampoo, soap, and a towel nearby.",
+    "audio_en_storage_path": "309_there_is_shampoo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100309",
+    "text_pt": "Posso tomar banho agora?",
+    "text_en": "Can I take a shower now?",
+    "audio_en_storage_path": "310_can_i_take_a_shower_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100310",
+    "text_pt": "Sim, a água está morna.",
+    "text_en": "Yes, the water is warm.",
+    "audio_en_storage_path": "311_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100311",
+    "text_pt": "Não, espere mais cinco minutos.",
+    "text_en": "No, wait five more minutes.",
+    "audio_en_storage_path": "312_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100312",
+    "text_pt": "Onde está a toalha?",
+    "text_en": "Where is the towel?",
+    "audio_en_storage_path": "313_where_is_the_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100313",
+    "text_pt": "A toalha está no varal.",
+    "text_en": "The towel is on the rack.",
+    "audio_en_storage_path": "314_the_towel_is_on_the_rack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100314",
+    "text_pt": "Quando você vai tomar banho?",
+    "text_en": "When will you take a shower?",
+    "audio_en_storage_path": "315_when_will_you_take_a_shower.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100315",
+    "text_pt": "Vou tomar um depois do café da manhã.",
+    "text_en": "I’ll take one after breakfast.",
+    "audio_en_storage_path": "316_ill_take_one_after_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100316",
+    "text_pt": "Por que você usou água quente?",
+    "text_en": "Why did you use hot water?",
+    "audio_en_storage_path": "317_why_did_you_use_hot_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100317",
+    "text_pt": "Eu estava com frio e queria me aquecer.",
+    "text_en": "I was cold and wanted to warm up.",
+    "audio_en_storage_path": "318_i_was_cold_and_wanted_to_warm_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100318",
+    "text_pt": "Ela toma banho todas as manhãs.",
+    "text_en": "She takes a shower every morning.",
+    "audio_en_storage_path": "319_she_takes_a_shower_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100319",
+    "text_pt": "Ele não vai tomar nenhuma hoje, ele está ocupado.",
+    "text_en": "He won’t take one today — he’s busy.",
+    "audio_en_storage_path": "320_he_wont_take_one_today_hes_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100320",
+    "text_pt": "Não se esqueça de desligar a água.",
+    "text_en": "Don’t forget to turn off the water.",
+    "audio_en_storage_path": "321_dont_forget_to_turn_off_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100322",
+    "text_pt": "Vou tomar um depois do café da manhã.",
+    "text_en": "I’ll take one after breakfast.",
+    "audio_en_storage_path": "323_ill_take_one_after_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100323",
+    "text_pt": "Vou tomar um depois do café da manhã.",
+    "text_en": "I’m gonna take one after brekkie.",
+    "audio_en_storage_path": "324_im_gonna_take_one_after_brekkie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100324",
+    "text_pt": "Ele não vai tomar nenhuma hoje, ele está ocupado.",
+    "text_en": "He won’t take one today — he’s busy.",
+    "audio_en_storage_path": "325_he_wont_take_one_today_hes_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100325",
+    "text_pt": "Ele não vai tomar nenhuma hoje, ele está ocupado.",
+    "text_en": "He ain't takin’ one today — he’s busy.",
+    "audio_en_storage_path": "326_he_aint_takin_one_today_hes_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100326",
+    "text_pt": "Não se esqueça de desligar a água.",
+    "text_en": "Don’t forget to turn off the water.",
+    "audio_en_storage_path": "327_dont_forget_to_turn_off_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100327",
+    "text_pt": "Não esqueça de desligar a água, ok?",
+    "text_en": "Don’t forget to turn off the water, okay?",
+    "audio_en_storage_path": "328_dont_forget_to_turn_off_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100328",
+    "text_pt": "A toalha está pendurada na parede.",
+    "text_en": "The towel is hanging on the wall.",
+    "audio_en_storage_path": "329_the_towel_is_hanging_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100329",
+    "text_pt": "Nós o usamos para nos secar depois do banho.",
+    "text_en": "We use it to dry off after a shower.",
+    "audio_en_storage_path": "330_we_use_it_to_dry_off_after_a_shower.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100330",
+    "text_pt": "É branco com listras azuis.",
+    "text_en": "It is white with blue stripes.",
+    "audio_en_storage_path": "331_it_is_white_with_blue_stripes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100331",
+    "text_pt": "Há uma barra de sabão e uma bucha vegetal ao lado.",
+    "text_en": "There is a bar of soap and a loofah beside it.",
+    "audio_en_storage_path": "332_there_is_a_bar_of_soap_and_a_loofah_beside_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100332",
+    "text_pt": "Posso usar esta toalha?",
+    "text_en": "Can I use this towel?",
+    "audio_en_storage_path": "333_can_i_use_this_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100333",
+    "text_pt": "Sim, é limpo e fresco.",
+    "text_en": "Yes, it’s clean and fresh.",
+    "audio_en_storage_path": "334_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100334",
+    "text_pt": "Não, use o pequeno.",
+    "text_en": "No, use the small one instead.",
+    "audio_en_storage_path": "335_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100335",
+    "text_pt": "Onde está a toalha limpa?",
+    "text_en": "Where is the clean towel?",
+    "audio_en_storage_path": "336_where_is_the_clean_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100336",
+    "text_pt": "O limpo está no armário.",
+    "text_en": "The clean one is in the closet.",
+    "audio_en_storage_path": "337_the_clean_one_is_in_the_closet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

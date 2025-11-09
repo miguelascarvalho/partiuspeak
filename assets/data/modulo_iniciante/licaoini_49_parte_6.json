@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103297",
+    "text_pt": "Lesões / Hematomas",
+    "text_en": "Injuries / Bruises",
+    "audio_en_storage_path": "2397_injuries_bruises.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103298",
+    "text_pt": "O ferimento aconteceu enquanto caminhava.",
+    "text_en": "The injury happened while walking.",
+    "audio_en_storage_path": "2398_the_injury_happened_while_walking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103299",
+    "text_pt": "Pisei em falso e torci o tornozelo.",
+    "text_en": "I stepped wrong and twisted my ankle.",
+    "audio_en_storage_path": "2399_i_stepped_wrong_and_twisted_my_ankle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103300",
+    "text_pt": "Usei desinfetante e embrulhei bem.",
+    "text_en": "I used disinfectant and wrapped it well.",
+    "audio_en_storage_path": "2400_i_used_disinfectant_and_wrapped_it_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103301",
+    "text_pt": "Coloque também gelo por cima para reduzir o inchaço.",
+    "text_en": "Also put ice on top to reduce swelling.",
+    "audio_en_storage_path": "2401_also_put_ice_on_top_to_reduce_swelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103302",
+    "text_pt": "O joelho dele parece vermelho. inchado e dolorido.",
+    "text_en": "His knee looks red. swollen. and painful.",
+    "audio_en_storage_path": "2402_his_knee_looks_red_swollen_and_painful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103303",
+    "text_pt": "Ele precisa de cuidados antes de sair.",
+    "text_en": "He needs care before going out.",
+    "audio_en_storage_path": "2403_he_needs_care_before_going_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103304",
+    "text_pt": "Há curativos. bandagens e lenços antissépticos por perto.",
+    "text_en": "There are plasters. bandages. and antiseptic wipes nearby.",
+    "audio_en_storage_path": "2404_there_are_plasters_bandages_and_antiseptic_wipes_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103305",
+    "text_pt": "Pronto para tratamento rápido em casa.",
+    "text_en": "Ready for quick home treatment.",
+    "audio_en_storage_path": "2405_ready_for_quick_home_treatment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103306",
+    "text_pt": "Como você se machucou?",
+    "text_en": "How did you get hurt?",
+    "audio_en_storage_path": "2406_how_did_you_get_hurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103307",
+    "text_pt": "Enquanto cozinhava — bati na minha mão com a faca.",
+    "text_en": "While cooking — hit my hand with the knife.",
+    "audio_en_storage_path": "2407_while_cooking_hit_my_hand_with_the_knife.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103308",
+    "text_pt": "Onde você caiu?",
+    "text_en": "Where did you fall?",
+    "audio_en_storage_path": "2408_where_did_you_fall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103309",
+    "text_pt": "Nas escadas — quase cheguei ao fundo.",
+    "text_en": "On the stairs — almost reached the bottom.",
+    "audio_en_storage_path": "2409_on_the_stairs_almost_reached_the_bottom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103310",
+    "text_pt": "Às vezes ele usa fita para apoiar o pulso.",
+    "text_en": "Sometimes he uses tape to support his wrist.",
+    "audio_en_storage_path": "2410_sometimes_he_uses_tape_to_support_his_wrist.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103311",
+    "text_pt": "Outras vezes apenas descansa e eleva.",
+    "text_en": "Other times just rests and elevates.",
+    "audio_en_storage_path": "2411_other_times_just_rests_and_elevates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103312",
+    "text_pt": "Onde você deixou a bolsa de gelo?",
+    "text_en": "Where did you leave the cold pack?",
+    "audio_en_storage_path": "2412_where_did_you_leave_the_cold_pack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103313",
+    "text_pt": "Na geladeira — ainda lá de antes.",
+    "text_en": "In the fridge — still there from earlier.",
+    "audio_en_storage_path": "2413_in_the_fridge_still_there_from_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103314",
+    "text_pt": "Quando você irá à clínica novamente?",
+    "text_en": "When will you go to the clinic again?",
+    "audio_en_storage_path": "2414_when_will_you_go_to_the_clinic_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103315",
+    "text_pt": "Se não sarar até a semana que vem.",
+    "text_en": "If it doesn’t heal by next week.",
+    "audio_en_storage_path": "2415_if_it_doesnt_heal_by_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103316",
+    "text_pt": "Por que você limpou o ferimento com tanto cuidado?",
+    "text_en": "Why did you clean the wound so carefully?",
+    "audio_en_storage_path": "2416_why_did_you_clean_the_wound_so_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103317",
+    "text_pt": "Porque era profundo e sujo.",
+    "text_en": "Because it was deep and dirty.",
+    "audio_en_storage_path": "2417_because_it_was_deep_and_dirty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103318",
+    "text_pt": "Ela trata ferimentos imediatamente.",
+    "text_en": "She treats injuries right away.",
+    "audio_en_storage_path": "2418_she_treats_injuries_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103319",
+    "text_pt": "Nunca deixe que pequenos cortes se transformem em grandes problemas.",
+    "text_en": "Never lets small cuts turn into big problems.",
+    "audio_en_storage_path": "2419_never_lets_small_cuts_turn_into_big_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103320",
+    "text_pt": "Amanhã não vou esquecer de usar luvas novamente.",
+    "text_en": "Tomorrow. I will not forget to wear gloves again.",
+    "audio_en_storage_path": "2420_tomorrow_i_will_not_forget_to_wear_gloves_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103321",
+    "text_pt": "Cortei minha mão da última vez que trabalhei com as mãos vazias.",
+    "text_en": "Cut my hand last time working barehanded.",
+    "audio_en_storage_path": "2421_cut_my_hand_last_time_working_barehanded.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103322",
+    "text_pt": "Cuide de pequenos ferimentos agora!",
+    "text_en": "Take care of small wounds now!",
+    "audio_en_storage_path": "2422_take_care_of_small_wounds_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103323",
+    "text_pt": "Eles podem causar problemas maiores mais tarde.",
+    "text_en": "They can cause bigger issues later.",
+    "audio_en_storage_path": "2423_they_can_cause_bigger_issues_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

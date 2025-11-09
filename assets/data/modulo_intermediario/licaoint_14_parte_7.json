@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112348",
+    "text_pt": "Filha – Geladeira",
+    "text_en": "Daughter – Refrigerator",
+    "audio_en_storage_path": "2348_daughter_refrigerator.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112349",
+    "text_pt": "Ela abre a geladeira em busca de salgadinhos.",
+    "text_en": "She opens the fridge looking for snacks.",
+    "audio_en_storage_path": "2349_she_opens_the_fridge_looking_for_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112350",
+    "text_pt": "Seus olhos procuram suco e queijo.",
+    "text_en": "Her eyes look for juice and cheese.",
+    "audio_en_storage_path": "2350_her_eyes_look_for_juice_and_cheese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112351",
+    "text_pt": "Ela bebe leite direto da caixa.",
+    "text_en": "She drinks milk straight from the carton.",
+    "audio_en_storage_path": "2351_she_drinks_milk_straight_from_the_carton.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112352",
+    "text_pt": "Ou come fruta em pé.",
+    "text_en": "Or eats fruit while standing.",
+    "audio_en_storage_path": "2352_or_eats_fruit_while_standing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112353",
+    "text_pt": "O pijama dela é rosa e as meias não combinam.",
+    "text_en": "Her pajamas are pink and her socks mismatched.",
+    "audio_en_storage_path": "2353_her_pajamas_are_pink_and_her_socks_mismatched.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112354",
+    "text_pt": "Ela esqueceu de fechar a porta novamente.",
+    "text_en": "She forgot to close the door again.",
+    "audio_en_storage_path": "2354_she_forgot_to_close_the_door_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112355",
+    "text_pt": "Tem sobras, frutas e iogurte lá dentro.",
+    "text_en": "There are leftovers. fruits. and yogurt inside.",
+    "audio_en_storage_path": "2355_there_are_leftovers_fruits_and_yogurt_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112356",
+    "text_pt": "E uma garrafa de refrigerante ao lado.",
+    "text_en": "And a bottle of soda on the side.",
+    "audio_en_storage_path": "2356_and_a_bottle_of_soda_on_the_side.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112357",
+    "text_pt": "O que ela costuma comer à noite?",
+    "text_en": "What does she usually eat at night?",
+    "audio_en_storage_path": "2357_what_does_she_usually_eat_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112358",
+    "text_pt": "Um pequeno sanduíche ou fatias de maçã.",
+    "text_en": "A small sandwich or apple slices.",
+    "audio_en_storage_path": "2358_a_small_sandwich_or_apple_slices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112359",
+    "text_pt": "Onde ela coloca a lancheira depois da escola?",
+    "text_en": "Where does she put her lunchbox after school?",
+    "audio_en_storage_path": "2359_where_does_she_put_her_lunchbox_after_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112360",
+    "text_pt": "Na geladeira — até amanhã.",
+    "text_en": "In the fridge — until tomorrow.",
+    "audio_en_storage_path": "2360_in_the_fridge_until_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112361",
+    "text_pt": "Às vezes ela deixa a porta aberta por muito tempo.",
+    "text_en": "Sometimes she leaves the door open too long.",
+    "audio_en_storage_path": "2361_sometimes_she_leaves_the_door_open_too_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112362",
+    "text_pt": "Outras vezes ela fecha imediatamente.",
+    "text_en": "Other times she closes it right away.",
+    "audio_en_storage_path": "2362_other_times_she_closes_it_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112363",
+    "text_pt": "Onde ela deixou o suco?",
+    "text_en": "Where did she leave her juice?",
+    "audio_en_storage_path": "2363_where_did_she_leave_her_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112364",
+    "text_pt": "Na geladeira — na segunda prateleira.",
+    "text_en": "In the fridge — on the second shelf.",
+    "audio_en_storage_path": "2364_in_the_fridge_on_the_second_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112365",
+    "text_pt": "Quando ela vai verificar a geladeira novamente?",
+    "text_en": "When will she check the fridge again?",
+    "audio_en_storage_path": "2365_when_will_she_check_the_fridge_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112366",
+    "text_pt": "Depois do dever de casa, ela vai querer um lanche.",
+    "text_en": "After homework — she’ll want a snack.",
+    "audio_en_storage_path": "2366_after_homework_shell_want_a_snack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112367",
+    "text_pt": "Por que ela limpou a geladeira hoje?",
+    "text_en": "Why did she clean the fridge today?",
+    "audio_en_storage_path": "2367_why_did_she_clean_the_fridge_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112368",
+    "text_pt": "Porque cheirava mal e tinha comida velha.",
+    "text_en": "Because it smelled bad and had old food.",
+    "audio_en_storage_path": "2368_because_it_smelled_bad_and_had_old_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112369",
+    "text_pt": "Ela verifica a geladeira muitas vezes ao dia.",
+    "text_en": "She checks the fridge many times a day.",
+    "audio_en_storage_path": "2369_she_checks_the_fridge_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112370",
+    "text_pt": "Só para ver o que ela consegue comer.",
+    "text_en": "Just to see what she can eat.",
+    "audio_en_storage_path": "2370_just_to_see_what_she_can_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112371",
+    "text_pt": "Amanhã ela não vai esquecer de fechar a geladeira novamente.",
+    "text_en": "Tomorrow. she will not forget to close the fridge again.",
+    "audio_en_storage_path": "2371_tomorrow_she_will_not_forget_to_close_the_fridge_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112372",
+    "text_pt": "Vou lembrá-la antes que ela esqueça.",
+    "text_en": "I’ll remind her before she forgets.",
+    "audio_en_storage_path": "2372_ill_remind_her_before_she_forgets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112373",
+    "text_pt": "Feche a porta!",
+    "text_en": "Close the door!",
+    "audio_en_storage_path": "2373_close_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112374",
+    "text_pt": "Vamos economizar energia e manter as coisas frias.",
+    "text_en": "Let's save energy and keep things cold.",
+    "audio_en_storage_path": "2374_lets_save_energy_and_keep_things_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

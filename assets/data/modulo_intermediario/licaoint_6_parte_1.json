@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110652",
+    "text_pt": "Domingo – Preparação para a Semana",
+    "text_en": "Sunday – Preparation for the Week",
+    "audio_en_storage_path": "652_sunday_preparation_for_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110653",
+    "text_pt": "Foco: Organização, reflexão e preparação",
+    "text_en": "Focus: Organization, reflection and preparation",
+    "audio_en_storage_path": "653_focus_organization.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110654",
+    "text_pt": "Eu acordo às 9h30.",
+    "text_en": "I wake up at 9:30 AM.",
+    "audio_en_storage_path": "654_i_wake_up_at_930_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110655",
+    "text_pt": "Ainda lento e tranquilo.",
+    "text_en": "Still slow and peaceful.",
+    "audio_en_storage_path": "655_still_slow_and_peaceful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110656",
+    "text_pt": "Eu faço panquecas e bebo suco.",
+    "text_en": "I make pancakes and drink juice.",
+    "audio_en_storage_path": "656_i_make_pancakes_and_drink_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110657",
+    "text_pt": "Um café da manhã especial para domingo.",
+    "text_en": "A special breakfast for Sunday.",
+    "audio_en_storage_path": "657_a_special_breakfast_for_sunday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110658",
+    "text_pt": "Eu limpo meu quarto e dobro roupas.",
+    "text_en": "I clean my room and fold clothes.",
+    "audio_en_storage_path": "658_i_clean_my_room_and_fold_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110659",
+    "text_pt": "Preparo minhas roupas para segunda-feira.",
+    "text_en": "I prepare my clothes for Monday.",
+    "audio_en_storage_path": "659_i_prepare_my_clothes_for_monday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110660",
+    "text_pt": "Eu cozinho ou ajudo minha mãe com o jantar.",
+    "text_en": "I cook or help my mom with dinner.",
+    "audio_en_storage_path": "660_i_cook_or_help_my_mom_with_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110661",
+    "text_pt": "Falamos sobre a semana que vem.",
+    "text_en": "We talk about the week ahead.",
+    "audio_en_storage_path": "661_we_talk_about_the_week_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110662",
+    "text_pt": "Mais tarde. Verifico meu calendário.",
+    "text_en": "Later. I check my calendar.",
+    "audio_en_storage_path": "662_later_i_check_my_calendar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110663",
+    "text_pt": "Anoto datas importantes.",
+    "text_en": "I write down important dates.",
+    "audio_en_storage_path": "663_i_write_down_important_dates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110664",
+    "text_pt": "Eu também leio ou ouço música.",
+    "text_en": "I also read or listen to music.",
+    "audio_en_storage_path": "664_i_also_read_or_listen_to_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110665",
+    "text_pt": "Só para relaxar antes da semana começar.",
+    "text_en": "Just to relax before the week starts.",
+    "audio_en_storage_path": "665_just_to_relax_before_the_week_starts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110666",
+    "text_pt": "O que você faz aos domingos?",
+    "text_en": "What do you do on Sundays?",
+    "audio_en_storage_path": "666_what_do_you_do_on_sundays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110667",
+    "text_pt": "Eu me preparo para a nova semana.",
+    "text_en": "I get ready for the new week.",
+    "audio_en_storage_path": "667_i_get_ready_for_the_new_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110668",
+    "text_pt": "Para onde você planeja ir na semana que vem?",
+    "text_en": "Where do you plan to go next week?",
+    "audio_en_storage_path": "668_where_do_you_plan_to_go_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110669",
+    "text_pt": "Talvez para a biblioteca ou livraria.",
+    "text_en": "Maybe to the library or bookstore.",
+    "audio_en_storage_path": "669_maybe_to_the_library_or_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110670",
+    "text_pt": "Por que você organiza as coisas hoje?",
+    "text_en": "Why do you organize things today?",
+    "audio_en_storage_path": "670_why_do_you_organize_things_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110671",
+    "text_pt": "Então não me sinto estressado amanhã.",
+    "text_en": "So I don’t feel stressed tomorrow.",
+    "audio_en_storage_path": "671_so_i_dont_feel_stressed_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110672",
+    "text_pt": "Tento dormir cedo aos domingos.",
+    "text_en": "I try to sleep early on Sundays.",
+    "audio_en_storage_path": "672_i_try_to_sleep_early_on_sundays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110673",
+    "text_pt": "Isso me ajuda a me sentir revigorado na segunda-feira.",
+    "text_en": "It helps me feel fresh on Monday.",
+    "audio_en_storage_path": "673_it_helps_me_feel_fresh_on_monday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110674",
+    "text_pt": "Amanhã. Não vou me atrasar novamente.",
+    "text_en": "Tomorrow. I will not be late again.",
+    "audio_en_storage_path": "674_tomorrow_i_will_not_be_late_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110675",
+    "text_pt": "Eu vou acordar na hora certa.",
+    "text_en": "I will wake up on time.",
+    "audio_en_storage_path": "675_i_will_wake_up_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110676",
+    "text_pt": "Boa noite e bons sonhos!",
+    "text_en": "Good night and sweet dreams!",
+    "audio_en_storage_path": "676_good_night_and_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110677",
+    "text_pt": "Tenha uma ótima semana!",
+    "text_en": "Have a great week ahead!",
+    "audio_en_storage_path": "677_have_a_great_week_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

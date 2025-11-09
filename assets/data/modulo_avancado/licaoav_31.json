@@ -1,0 +1,425 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132949",
+    "text_pt": "Central do Brasil - é um dos filmes brasileiros mais famosos da década de 1990.",
+    "text_en": "Central do Brasil - is one of the most famous Brazilian films of the 1990s.",
+    "audio_en_storage_path": "327_central_do_brasil_is_one_of_the_most_famous_brazilian_films_of_the_1990s.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132950",
+    "text_pt": "Foi lançado em 1998 e dirigido por Walter Salles.",
+    "text_en": "It was released in 1998 and directed by Walter Salles.",
+    "audio_en_storage_path": "328_it_was_released_in_1998_and_directed_by_walter_salles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132951",
+    "text_pt": "O filme conta a história de uma mulher e um menino viajando pelo Brasil.",
+    "text_en": "The film follows the story of a woman and a young boy traveling across Brazil.",
+    "audio_en_storage_path": "329_the_film_follows_the_story_of_a_woman_and_a_young_boy_traveling_across_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132952",
+    "text_pt": "Dora, interpretada por Fernanda Montenegro, escreve cartas para as pessoas na Central do Rio de Janeiro.",
+    "text_en": "Dora. played by Fernanda Montenegro. writes letters for people at Central Station in Rio de Janeiro.",
+    "audio_en_storage_path": "330_dora_played_by_fernanda_montenegro_writes_letters_for_people_at_central_station_in_rio_de_janeiro.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132953",
+    "text_pt": "Ela decide fazer uma viagem com um menino que acabou de perder a mãe.",
+    "text_en": "She decides to go on a journey with a boy who has just lost his mother.",
+    "audio_en_storage_path": "331_she_decides_to_go_on_a_journey_with_a_boy_who_has_just_lost_his_mother.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132954",
+    "text_pt": "O filme mostra diferentes partes do Brasil e a vida de pessoas comuns.",
+    "text_en": "The film shows different parts of Brazil and the lives of ordinary people.",
+    "audio_en_storage_path": "332_the_film_shows_different_parts_of_brazil_and_the_lives_of_ordinary_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132955",
+    "text_pt": "A atuação de Fernanda Montenegro lhe rendeu reconhecimento internacional e uma indicação ao Oscar.",
+    "text_en": "Fernanda Montenegro’s performance earned her international recognition and an Oscar nomination.",
+    "audio_en_storage_path": "333_fernanda_montenegros_performance_earned_her_international_recognition_and_an_oscar_nomination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132956",
+    "text_pt": "O filme ganhou vários prêmios, incluindo o Urso de Ouro no Festival de Cinema de Berlim.",
+    "text_en": "The movie won several awards. including the Golden Bear at the Berlin Film Festival.",
+    "audio_en_storage_path": "334_the_movie_won_several_awards_including_the_golden_bear_at_the_berlin_film_festival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132957",
+    "text_pt": "Ajudou a recolocar o cinema brasileiro no mapa mundial.",
+    "text_en": "It helped put Brazilian cinema back on the world map.",
+    "audio_en_storage_path": "335_it_helped_put_brazilian_cinema_back_on_the_world_map.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132958",
+    "text_pt": "O filme usa um estilo realista, com iluminação natural e tomadas longas.",
+    "text_en": "The film uses a realistic style. with natural lighting and long takes.",
+    "audio_en_storage_path": "336_the_film_uses_a_realistic_style_with_natural_lighting_and_long_takes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132959",
+    "text_pt": "O relacionamento entre os dois personagens principais se desenvolve lenta e profundamente.",
+    "text_en": "The relationship between the two main characters develops slowly and deeply.",
+    "audio_en_storage_path": "337_the_relationship_between_the_two_main_characters_develops_slowly_and_deeply.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132960",
+    "text_pt": "As paisagens refletem tanto a beleza quanto os desafios da vida no Brasil.",
+    "text_en": "The landscapes reflect both the beauty and challenges of life in Brazil.",
+    "audio_en_storage_path": "338_the_landscapes_reflect_both_the_beauty_and_challenges_of_life_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132961",
+    "text_pt": "A trilha sonora. composta por João Botelho. adiciona emoção à história.",
+    "text_en": "The soundtrack. composed by João Botelho. adds emotion to the story.",
+    "audio_en_storage_path": "339_the_soundtrack_composed_by_joao_botelho_adds_emotion_to_the_story.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132962",
+    "text_pt": "O filme explora temas como esperança, solidão e transformação pessoal.",
+    "text_en": "The movie explores themes like hope. loneliness. and personal transformation.",
+    "audio_en_storage_path": "340_the_movie_explores_themes_like_hope_loneliness_and_personal_transformation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132963",
+    "text_pt": "É considerado um clássico do cinema latino-americano.",
+    "text_en": "It is considered a classic of Latin American cinema.",
+    "audio_en_storage_path": "341_it_is_considered_a_classic_of_latin_american_cinema.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132964",
+    "text_pt": "Auto da Compadecida - é outro importante filme brasileiro.",
+    "text_en": "Auto da Compadecida  - is another important Brazilian film.",
+    "audio_en_storage_path": "342_auto_da_compadecida_is_another_important_brazilian_film.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132965",
+    "text_pt": "Foi lançado em 2000 e dirigido por Guel Arraes.",
+    "text_en": "It was released in 2000 and directed by Guel Arraes.",
+    "audio_en_storage_path": "343_it_was_released_in_2000_and_directed_by_guel_arraes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132966",
+    "text_pt": "O filme é baseado em uma peça escrita por Ariano Suassuna.",
+    "text_en": "The film is based on a play written by Ariano Suassuna.",
+    "audio_en_storage_path": "344_the_film_is_based_on_a_play_written_by_ariano_suassuna.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132967",
+    "text_pt": "Ela reúne humor, folclore e simbolismo religioso.",
+    "text_en": "It brings together humor. folklore. and religious symbolism.",
+    "audio_en_storage_path": "345_it_brings_together_humor_folklore_and_religious_symbolism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132968",
+    "text_pt": "A história se passa no Nordeste do Brasil durante o período colonial.",
+    "text_en": "The story takes place in the Northeast of Brazil during the colonial period.",
+    "audio_en_storage_path": "346_the_story_takes_place_in_the_northeast_of_brazil_during_the_colonial_period.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132969",
+    "text_pt": "Dois amigos pobres viajam por pequenas cidades, envolvendo-se em situações engraçadas e mágicas.",
+    "text_en": "Two poor friends travel through small towns. getting into funny and magical situations.",
+    "audio_en_storage_path": "347_two_poor_friends_travel_through_small_towns_getting_into_funny_and_magical_situations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132970",
+    "text_pt": "Eles encontram santos, demônios e outros personagens do folclore brasileiro.",
+    "text_en": "They meet saints. devils. and other characters from Brazilian folklore.",
+    "audio_en_storage_path": "348_they_meet_saints_devils_and_other_characters_from_brazilian_folklore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132971",
+    "text_pt": "O filme mistura comédia com mensagens mais profundas sobre o bem e o mal.",
+    "text_en": "The film mixes comedy with deeper messages about good and evil.",
+    "audio_en_storage_path": "349_the_film_mixes_comedy_with_deeper_messages_about_good_and_evil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132972",
+    "text_pt": "Também comenta sobre desigualdade social e justiça.",
+    "text_en": "It also comments on social inequality and justice.",
+    "audio_en_storage_path": "350_it_also_comments_on_social_inequality_and_justice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132973",
+    "text_pt": "O elenco inclui atores brasileiros famosos como Matheus Nachtergaele e Selton Mello.",
+    "text_en": "The cast includes well-known Brazilian actors like Matheus Nachtergaele and Selton Mello.",
+    "audio_en_storage_path": "351_the_cast_includes_wellknown_brazilian_actors_like_matheus_nachtergaele_and_selton_mello.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132974",
+    "text_pt": "O diálogo é cheio de expressões regionais e humor.",
+    "text_en": "The dialogue is full of regional expressions and humor.",
+    "audio_en_storage_path": "352_the_dialogue_is_full_of_regional_expressions_and_humor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132975",
+    "text_pt": "O estilo visual é colorido e teatral.",
+    "text_en": "The visual style is colorful and theatrical.",
+    "audio_en_storage_path": "353_the_visual_style_is_colorful_and_theatrical.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132976",
+    "text_pt": "Os trajes e cenários refletem a cultura tradicional do Nordeste.",
+    "text_en": "The costumes and settings reflect traditional Northeastern culture.",
+    "audio_en_storage_path": "354_the_costumes_and_settings_reflect_traditional_northeastern_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132977",
+    "text_pt": "O filme foi adorado pelo público e se tornou um sucesso de bilheteria.",
+    "text_en": "The film was loved by audiences and became a box office hit.",
+    "audio_en_storage_path": "355_the_film_was_loved_by_audiences_and_became_a_box_office_hit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132978",
+    "text_pt": "Ela apresentou o folclore brasileiro a muitas pessoas de uma forma moderna.",
+    "text_en": "It introduced many people to Brazilian folklore in a modern way.",
+    "audio_en_storage_path": "356_it_introduced_many_people_to_brazilian_folklore_in_a_modern_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132979",
+    "text_pt": "O filme mistura tradições católicas com crenças populares.",
+    "text_en": "The movie blends Catholic traditions with popular beliefs.",
+    "audio_en_storage_path": "357_the_movie_blends_catholic_traditions_with_popular_beliefs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132980",
+    "text_pt": "É frequentemente estudado em escolas e universidades por seu valor cultural e literário.",
+    "text_en": "It is often studied in schools and universities for its cultural and literary value.",
+    "audio_en_storage_path": "358_it_is_often_studied_in_schools_and_universities_for_its_cultural_and_literary_value.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132981",
+    "text_pt": "O humor é acessível, mas também traz profundas lições morais.",
+    "text_en": "The humor is accessible but also carries deep moral lessons.",
+    "audio_en_storage_path": "359_the_humor_is_accessible_but_also_carries_deep_moral_lessons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132982",
+    "text_pt": "A música desempenha um papel importante na definição do tom do filme.",
+    "text_en": "The music plays an important role in setting the tone of the film.",
+    "audio_en_storage_path": "360_the_music_plays_an_important_role_in_setting_the_tone_of_the_film.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132983",
+    "text_pt": "Cada cena reflete uma mistura de realismo e fantasia.",
+    "text_en": "Each scene reflects a mix of realism and fantasy.",
+    "audio_en_storage_path": "361_each_scene_reflects_a_mix_of_realism_and_fantasy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132984",
+    "text_pt": "A narrativa é episódica, mostrando diferentes aventuras ao longo da jornada.",
+    "text_en": "The storytelling is episodic. showing different adventures along the journey.",
+    "audio_en_storage_path": "362_the_storytelling_is_episodic_showing_different_adventures_along_the_journey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132985",
+    "text_pt": "O filme foi adaptado de uma peça de teatro, o que explica seu caráter dramático e teatral.",
+    "text_en": "The film was adapted from a stage play. which explains its dramatic and theatrical feel.",
+    "audio_en_storage_path": "363_the_film_was_adapted_from_a_stage_play_which_explains_its_dramatic_and_theatrical_feel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132986",
+    "text_pt": "Tanto Central do Brasil quanto Auto da Compadecida fazem parte de uma nova onda do cinema brasileiro.",
+    "text_en": "Both Central do Brasil and Auto da Compadecida are part of a new wave of Brazilian cinema.",
+    "audio_en_storage_path": "364_both_central_do_brasil_and_auto_da_compadecida_are_part_of_a_new_wave_of_brazilian_cinema.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132987",
+    "text_pt": "Esse movimento começou na década de 1990 e continuou até a década de 2000.",
+    "text_en": "This movement started in the 1990s and continued into the 2000s.",
+    "audio_en_storage_path": "365_this_movement_started_in_the_1990s_and_continued_into_the_2000s.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132988",
+    "text_pt": "Esses filmes mostraram que o cinema brasileiro pode ser tanto artístico quanto popular.",
+    "text_en": "These films showed that Brazilian cinema could be both artistic and popular.",
+    "audio_en_storage_path": "366_these_films_showed_that_brazilian_cinema_could_be_both_artistic_and_popular.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132989",
+    "text_pt": "Eles também celebraram culturas e identidades regionais.",
+    "text_en": "They also celebrated regional cultures and identities.",
+    "audio_en_storage_path": "367_they_also_celebrated_regional_cultures_and_identities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132990",
+    "text_pt": "Muitas cenas foram filmadas em locais reais, acrescentando autenticidade.",
+    "text_en": "Many scenes were filmed in real locations. adding authenticity.",
+    "audio_en_storage_path": "368_many_scenes_were_filmed_in_real_locations_adding_authenticity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132991",
+    "text_pt": "Os diretores se concentraram em contar histórias exclusivamente brasileiras.",
+    "text_en": "The directors focused on telling uniquely Brazilian stories.",
+    "audio_en_storage_path": "369_the_directors_focused_on_telling_uniquely_brazilian_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132992",
+    "text_pt": "O sucesso desses filmes incentivou mais investimentos em produções nacionais.",
+    "text_en": "The success of these films encouraged more investment in national productions.",
+    "audio_en_storage_path": "370_the_success_of_these_films_encouraged_more_investment_in_national_productions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132993",
+    "text_pt": "Eles continuam sendo referências para cineastas e estudantes hoje.",
+    "text_en": "They remain references for filmmakers and students today.",
+    "audio_en_storage_path": "371_they_remain_references_for_filmmakers_and_students_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132994",
+    "text_pt": "Esses dois filmes representam a riqueza e a diversidade da narrativa brasileira por meio do cinema.",
+    "text_en": "These two films represent the richness and diversity of Brazilian storytelling through cinema.",
+    "audio_en_storage_path": "372_these_two_films_represent_the_richness_and_diversity_of_brazilian_storytelling_through_cinema.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132995",
+    "text_pt": "Juntos, eles mostram como o cinema brasileiro pode misturar tradição, emoção e mensagens poderosas.",
+    "text_en": "Together. they show how Brazilian cinema can mix tradition. emotion. and powerful messages.",
+    "audio_en_storage_path": "373_together_they_show_how_brazilian_cinema_can_mix_tradition_emotion_and_powerful_messages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

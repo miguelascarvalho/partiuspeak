@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120394",
+    "text_pt": "Recebendo e verificando pacotes",
+    "text_en": "Receiving and Checking Packages",
+    "audio_en_storage_path": "394_receiving_and_checking_packages.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120395",
+    "text_pt": "O pacote acabou de chegar. Deixe-me abri-lo com cuidado.",
+    "text_en": "The package just arrived. Let me open it carefully",
+    "audio_en_storage_path": "395_the_package_just_arrived_let_me_open_it_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120396",
+    "text_pt": "A caixa finalmente chegou — vou abri-la bem devagar",
+    "text_en": "Box finally came — gonna rip it open real slow",
+    "audio_en_storage_path": "396_box_finally_came_gonna_rip_it_open_real_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120397",
+    "text_pt": "Parece que chegou aqui sem nenhum dano",
+    "text_en": "It looks like it got here without any damage",
+    "audio_en_storage_path": "397_it_looks_like_it_got_here_without_any_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120398",
+    "text_pt": "Parece intocado — sem amassados ​​ou arranhões em lugar nenhum",
+    "text_en": "Looks untouched — no dents or scratches anywhere",
+    "audio_en_storage_path": "398_looks_untouched_no_dents_or_scratches_anywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120399",
+    "text_pt": "Deixe-me verificar o que tem dentro e se está tudo lá",
+    "text_en": "Let me check what’s inside and if everything is there",
+    "audio_en_storage_path": "399_let_me_check_whats_inside_and_if_everything_is_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120400",
+    "text_pt": "Vou dar uma olhada lá dentro e ver se todas as coisas chegaram",
+    "text_en": "Gonna peek inside and see if all the stuff made it",
+    "audio_en_storage_path": "400_gonna_peek_inside_and_see_if_all_the_stuff_made_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120401",
+    "text_pt": "Eu estava esperando por isso ontem. Está um pouco tarde",
+    "text_en": "I was expecting it yesterday. It’s a little late",
+    "audio_en_storage_path": "401_i_was_expecting_it_yesterday_its_a_little_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120402",
+    "text_pt": "Era para ter chegado ontem — um pouco atrasado",
+    "text_en": "Supposed to come yesterday — running a bit behind",
+    "audio_en_storage_path": "402_supposed_to_come_yesterday_running_a_bit_behind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120403",
+    "text_pt": "Tem um número de rastreamento na etiqueta. Eu já verifiquei",
+    "text_en": "There’s a tracking number on the label. I already checked it",
+    "audio_en_storage_path": "403_theres_a_tracking_number_on_the_label_i_already_checked_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120404",
+    "text_pt": "Tenho um número de rastreamento no adesivo — já pesquisei",
+    "text_en": "Got a tracking number on the sticker — already looked it up",
+    "audio_en_storage_path": "404_got_a_tracking_number_on_the_sticker_already_looked_it_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120405",
+    "text_pt": "Alguém mais recebeu um pacote hoje?",
+    "text_en": "Did anyone else receive a package today?",
+    "audio_en_storage_path": "405_did_anyone_else_receive_a_package_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120406",
+    "text_pt": "Alguém mais ganhou uma caixa hoje além de mim?",
+    "text_en": "Anyone else get a box today besides me?",
+    "audio_en_storage_path": "406_anyone_else_get_a_box_today_besides_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120407",
+    "text_pt": "Alguns itens estavam faltando, então preciso ligar para o atendimento ao cliente",
+    "text_en": "Some items were missing. so I need to call customer service",
+    "audio_en_storage_path": "407_some_items_were_missing_so_i_need_to_call_customer_service.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120408",
+    "text_pt": "Poucas coisas não estavam lá. então liguei para a linha de suporte",
+    "text_en": "Few things weren’t there. so I called their support line",
+    "audio_en_storage_path": "408_few_things_werent_there_so_i_called_their_support_line.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120409",
+    "text_pt": "Deixe-me escanear o código de barras com meu telefone bem rápido",
+    "text_en": "Let me scan the barcode with my phone real quick",
+    "audio_en_storage_path": "409_let_me_scan_the_barcode_with_my_phone_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120410",
+    "text_pt": "Deixe-me apontar meu telefone para esse código e escaneá-lo",
+    "text_en": "Lemme point my phone at that code and scan it",
+    "audio_en_storage_path": "410_lemme_point_my_phone_at_that_code_and_scan_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120411",
+    "text_pt": "Se houver algum problema, podemos devolvê-lo ou trocá-lo.",
+    "text_en": "If there’s a problem. we can return it or exchange",
+    "audio_en_storage_path": "411_if_theres_a_problem_we_can_return_it_or_exchange.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120412",
+    "text_pt": "Se algo estiver errado, podemos devolvê-lo ou trocá-lo.",
+    "text_en": "If somethin’s wrong. we can bring it back or swap it",
+    "audio_en_storage_path": "412_if_somethins_wrong_we_can_bring_it_back_or_swap_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120413",
+    "text_pt": "O entregador deixou na porta da frente",
+    "text_en": "The delivery person left it at the front door",
+    "audio_en_storage_path": "413_the_delivery_person_left_it_at_the_front_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120414",
+    "text_pt": "O entregador deixou do lado de fora, perto da porta principal",
+    "text_en": "Delivery guy left it outside near the main door",
+    "audio_en_storage_path": "414_delivery_guy_left_it_outside_near_the_main_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120415",
+    "text_pt": "Espero que o próximo chegue na hora certa",
+    "text_en": "I hope the next one comes on time",
+    "audio_en_storage_path": "415_i_hope_the_next_one_comes_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120416",
+    "text_pt": "Espero que o próximo pacote chegue na porta quando for necessário",
+    "text_en": "Hope the next package hits the doorstep when it's supposed to",
+    "audio_en_storage_path": "416_hope_the_next_package_hits_the_doorstep_when_its_supposed_to.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120417",
+    "text_pt": "Se você encomendou algo, ele ainda pode estar a caminho",
+    "text_en": "If you ordered something. it might still be on the way",
+    "audio_en_storage_path": "417_if_you_ordered_something_it_might_still_be_on_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120418",
+    "text_pt": "Se você comprou algo online, provavelmente ainda está a caminho",
+    "text_en": "If ya bought somethin’ online. it’s probably still on its way",
+    "audio_en_storage_path": "418_if_ya_bought_somethin_online_its_probably_still_on_its_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120419",
+    "text_pt": "Deixe-me assinar e levar para dentro",
+    "text_en": "Let me sign for it and take it inside",
+    "audio_en_storage_path": "419_let_me_sign_for_it_and_take_it_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120420",
+    "text_pt": "Tenho que assinar bem rápido e depois trazer",
+    "text_en": "Gotta sign for it real quick then bring it in",
+    "audio_en_storage_path": "420_gotta_sign_for_it_real_quick_then_bring_it_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120421",
+    "text_pt": "Não se esqueça de guardar o recibo para o caso de problemas",
+    "text_en": "Make sure to keep the receipt in case of issues",
+    "audio_en_storage_path": "421_make_sure_to_keep_the_receipt_in_case_of_issues.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120422",
+    "text_pt": "Guarde o papel para o caso de algo dar errado",
+    "text_en": "Hold onto the paper just in case anything goes wrong",
+    "audio_en_storage_path": "422_hold_onto_the_paper_just_in_case_anything_goes_wrong.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120423",
+    "text_pt": "Obrigado pela sua paciência. Tenha um ótimo dia.",
+    "text_en": "Thanks for your patience. Have a great day",
+    "audio_en_storage_path": "423_thanks_for_your_patience_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120424",
+    "text_pt": "Aproveite o seu tempo. Aproveite o resto do seu dia.",
+    "text_en": "Appreciate your time. Enjoy the rest of your day",
+    "audio_en_storage_path": "424_appreciate_your_time_enjoy_the_rest_of_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

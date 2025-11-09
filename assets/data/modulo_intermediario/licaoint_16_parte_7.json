@@ -1,0 +1,308 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112620",
+    "text_pt": "O liquidificador faz um barulho alto.",
+    "text_en": "The blender makes a loud noise.",
+    "audio_en_storage_path": "2620_the_blender_makes_a_loud_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112621",
+    "text_pt": "Eles misturam bananas, morangos e iogurte.",
+    "text_en": "They mix bananas. strawberries. and yogurt.",
+    "audio_en_storage_path": "2621_they_mix_bananas_strawberries_and_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112622",
+    "text_pt": "Transforma-se numa bebida doce e roxa.",
+    "text_en": "It turns into a sweet purple drink.",
+    "audio_en_storage_path": "2622_it_turns_into_a_sweet_purple_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112623",
+    "text_pt": "O liquidificador é branco com tampa vermelha.",
+    "text_en": "The blender is white with a red lid.",
+    "audio_en_storage_path": "2623_the_blender_is_white_with_a_red_lid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112624",
+    "text_pt": "Ela gira rápido e mistura tudo.",
+    "text_en": "It spins fast and blends everything.",
+    "audio_en_storage_path": "2624_it_spins_fast_and_blends_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112625",
+    "text_pt": "Há frutas congeladas, mel e gelo dentro.",
+    "text_en": "There are frozen fruits. honey. and ice inside.",
+    "audio_en_storage_path": "2625_there_are_frozen_fruits_honey_and_ice_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112626",
+    "text_pt": "Pronto para um reforço matinal.",
+    "text_en": "Ready for a morning boost.",
+    "audio_en_storage_path": "2626_ready_for_a_morning_boost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112627",
+    "text_pt": "O que eles fazem no liquidificador?",
+    "text_en": "What do they do in the blender?",
+    "audio_en_storage_path": "2627_what_do_they_do_in_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112628",
+    "text_pt": "Smoothies, molhos e comida para bebês.",
+    "text_en": "Smoothies. sauces. and baby food.",
+    "audio_en_storage_path": "2628_smoothies_sauces_and_baby_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112629",
+    "text_pt": "Onde eles guardam a tampa do liquidificador?",
+    "text_en": "Where do they keep the blender lid?",
+    "audio_en_storage_path": "2629_where_do_they_keep_the_blender_lid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112630",
+    "text_pt": "Em cima — sempre com o pote.",
+    "text_en": "On top — always with the jar.",
+    "audio_en_storage_path": "2630_on_top_always_with_the_jar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112631",
+    "text_pt": "Às vezes eles acrescentam espinafre ou aveia.",
+    "text_en": "Sometimes they add spinach or oats.",
+    "audio_en_storage_path": "2631_sometimes_they_add_spinach_or_oats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112632",
+    "text_pt": "Outras vezes, apenas frutas e leite.",
+    "text_en": "Other times just fruit and milk.",
+    "audio_en_storage_path": "2632_other_times_just_fruit_and_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112633",
+    "text_pt": "Onde eles deixaram o liquidificador?",
+    "text_en": "Where did they leave the blender?",
+    "audio_en_storage_path": "2633_where_did_they_leave_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112634",
+    "text_pt": "No balcão — vazio e limpo.",
+    "text_en": "On the counter — empty and clean.",
+    "audio_en_storage_path": "2634_on_the_counter_empty_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112635",
+    "text_pt": "Quando eles usarão isso novamente?",
+    "text_en": "When will they use it again?",
+    "audio_en_storage_path": "2635_when_will_they_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112636",
+    "text_pt": "Amanhã — para smoothies de café da manhã.",
+    "text_en": "Tomorrow — for breakfast smoothies.",
+    "audio_en_storage_path": "2636_tomorrow_for_breakfast_smoothies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112637",
+    "text_pt": "Por que lavaram o liquidificador hoje?",
+    "text_en": "Why did they wash the blender today?",
+    "audio_en_storage_path": "2637_why_did_they_wash_the_blender_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112638",
+    "text_pt": "Porque estava cheio de smoothie velho.",
+    "text_en": "Because it was full of old smoothie.",
+    "audio_en_storage_path": "2638_because_it_was_full_of_old_smoothie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112639",
+    "text_pt": "Eles usam o liquidificador pelo menos duas vezes por semana.",
+    "text_en": "They use the blender at least twice a week.",
+    "audio_en_storage_path": "2639_they_use_the_blender_at_least_twice_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112640",
+    "text_pt": "Ajuda-os a comer de forma saudável.",
+    "text_en": "It helps them eat healthy.",
+    "audio_en_storage_path": "2640_it_helps_them_eat_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112641",
+    "text_pt": "Amanhã eles não vão esquecer de fechar a tampa novamente.",
+    "text_en": "Tomorrow. they will not forget to close the lid again.",
+    "audio_en_storage_path": "2641_tomorrow_they_will_not_forget_to_close_the_lid_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112642",
+    "text_pt": "Da última vez, derramou para todo lado.",
+    "text_en": "Last time. it spilled everywhere.",
+    "audio_en_storage_path": "2642_last_time_it_spilled_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112643",
+    "text_pt": "Misture bem!",
+    "text_en": "Blend well!",
+    "audio_en_storage_path": "2643_blend_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112644",
+    "text_pt": "Faça algo saboroso hoje.",
+    "text_en": "Make something tasty today.",
+    "audio_en_storage_path": "2644_make_something_tasty_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112646",
+    "text_pt": "Eles estão fazendo café na cozinha.",
+    "text_en": "They are making coffee in the kitchen.",
+    "audio_en_storage_path": "2646_they_are_making_coffee_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112647",
+    "text_pt": "O cheiro acorda todo mundo.",
+    "text_en": "The smell wakes everyone up.",
+    "audio_en_storage_path": "2647_the_smell_wakes_everyone_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112648",
+    "text_pt": "Eles enchem o filtro com café moído.",
+    "text_en": "They fill the filter with ground coffee.",
+    "audio_en_storage_path": "2648_they_fill_the_filter_with_ground_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112649",
+    "text_pt": "Em seguida, pressione “iniciar” e aguarde.",
+    "text_en": "Then press “start” and wait.",
+    "audio_en_storage_path": "2649_then_press_start_and_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112650",
+    "text_pt": "A cafeteira é preta e tem bule de vidro.",
+    "text_en": "The coffee maker is black with a glass pot.",
+    "audio_en_storage_path": "2650_the_coffee_maker_is_black_with_a_glass_pot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112651",
+    "text_pt": "Faz um som borbulhante quando pronto.",
+    "text_en": "It makes a bubbling sound when done.",
+    "audio_en_storage_path": "2651_it_makes_a_bubbling_sound_when_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112652",
+    "text_pt": "Há canecas, canecas e leite em cima da mesa.",
+    "text_en": "There are mugs. suck. and creamer on the table.",
+    "audio_en_storage_path": "2652_there_are_mugs_suck_and_creamer_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112653",
+    "text_pt": "Pronto para o café da manhã.",
+    "text_en": "Ready for breakfast.",
+    "audio_en_storage_path": "2653_ready_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112654",
+    "text_pt": "Quem toma café de manhã?",
+    "text_en": "Who drinks coffee in the morning?",
+    "audio_en_storage_path": "2654_who_drinks_coffee_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

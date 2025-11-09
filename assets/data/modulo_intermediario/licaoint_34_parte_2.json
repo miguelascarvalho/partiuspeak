@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120642",
+    "text_pt": "Descrevendo Pessoas – Personalidade e Maneira",
+    "text_en": "Describing People – Personality and Manner",
+    "audio_en_storage_path": "642_describing_people_personality_and_manner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120643",
+    "text_pt": "Ela é gentil e sempre ajuda os outros",
+    "text_en": "She is kind and always helps others",
+    "audio_en_storage_path": "643_she_is_kind_and_always_helps_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120644",
+    "text_pt": "Ela é muito legal e sempre dá uma mãozinha",
+    "text_en": "She’s really nice and always lendin’ a hand",
+    "audio_en_storage_path": "644_shes_really_nice_and_always_lendin_a_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120645",
+    "text_pt": "Ele é tímido e não fala muito em grupos",
+    "text_en": "He is shy and doesn’t talk much in groups",
+    "audio_en_storage_path": "645_he_is_shy_and_doesnt_talk_much_in_groups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120646",
+    "text_pt": "Um pouco quieto, especialmente quando tem muita gente.",
+    "text_en": "Kinda quiet. especially when there’s a crowd",
+    "audio_en_storage_path": "646_kinda_quiet_especially_when_theres_a_crowd.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120647",
+    "text_pt": "Ela é muito enérgica e adora estar ao ar livre",
+    "text_en": "She is very energetic and loves being outdoors",
+    "audio_en_storage_path": "647_she_is_very_energetic_and_loves_being_outdoors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120648",
+    "text_pt": "Cheio de energia e vive em busca de ar fresco e sol",
+    "text_en": "Full of energy and lives for fresh air and sunshine",
+    "audio_en_storage_path": "648_full_of_energy_and_lives_for_fresh_air_and_sunshine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120649",
+    "text_pt": "Ele é sério na maior parte do tempo, mas tem um bom senso de humor",
+    "text_en": "He is serious most of the time but has a good sense of humor",
+    "audio_en_storage_path": "649_he_is_serious_most_of_the_time_but_has_a_good_sense_of_humor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120650",
+    "text_pt": "Geralmente sério, mas às vezes faz piadas",
+    "text_en": "Mostly serious but cracks jokes sometimes",
+    "audio_en_storage_path": "650_mostly_serious_but_cracks_jokes_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120651",
+    "text_pt": "Ela é inteligente e aprende as coisas rapidamente",
+    "text_en": "She is smart and learns things quickly",
+    "audio_en_storage_path": "651_she_is_smart_and_learns_things_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120652",
+    "text_pt": "Aprendiz muito rápido — aprende rápido",
+    "text_en": "Real quick learner — catches on fast",
+    "audio_en_storage_path": "652_real_quick_learner_catches_on_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120653",
+    "text_pt": "Ele é engraçado e faz as pessoas rirem muito",
+    "text_en": "He is funny and makes people laugh a lot",
+    "audio_en_storage_path": "653_he_is_funny_and_makes_people_laugh_a_lot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120654",
+    "text_pt": "O cara é hilário — sempre trazendo risadas",
+    "text_en": "Dude’s hilarious — always bringin’ the laughs",
+    "audio_en_storage_path": "654_dudes_hilarious_always_bringin_the_laughs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120655",
+    "text_pt": "Ela é paciente e nunca fica brava facilmente",
+    "text_en": "She is patient and never gets angry easily",
+    "audio_en_storage_path": "655_she_is_patient_and_never_gets_angry_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120656",
+    "text_pt": "Super calma — acho que nunca a vi brava",
+    "text_en": "Super calm — don’t think I’ve ever seen her mad",
+    "audio_en_storage_path": "656_super_calm_dont_think_ive_ever_seen_her_mad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120657",
+    "text_pt": "Ele é confiante e fala claramente na frente das pessoas",
+    "text_en": "He is confident and speaks clearly in front of people",
+    "audio_en_storage_path": "657_he_is_confident_and_speaks_clearly_in_front_of_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120658",
+    "text_pt": "Fala como se soubesse o que está dizendo - tem essa confiança",
+    "text_en": "Talks like he knows what he’s sayin’ — got that confidence",
+    "audio_en_storage_path": "658_talks_like_he_knows_what_hes_sayin_got_that_confidence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120659",
+    "text_pt": "Ela é criativa e gosta de desenhar e pintar",
+    "text_en": "She is creative and enjoys drawing and painting",
+    "audio_en_storage_path": "659_she_is_creative_and_enjoys_drawing_and_painting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120660",
+    "text_pt": "Tenho esse lado artístico — sempre desenhando ou pintando",
+    "text_en": "Got that artistic side — always sketchin’ or paintin’",
+    "audio_en_storage_path": "660_got_that_artistic_side_always_sketchin_or_paintin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120661",
+    "text_pt": "Ele é responsável e sempre termina seu trabalho",
+    "text_en": "He is responsible and always finishes his work",
+    "audio_en_storage_path": "661_he_is_responsible_and_always_finishes_his_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120662",
+    "text_pt": "Faz as coisas acontecerem — não deixa nada para depois",
+    "text_en": "Gets stuff done — doesn’t leave things hanging",
+    "audio_en_storage_path": "662_gets_stuff_done_doesnt_leave_things_hanging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120663",
+    "text_pt": "Ela é corajosa e não tem medo de tentar coisas novas",
+    "text_en": "She is brave and isn’t afraid to try new things",
+    "audio_en_storage_path": "663_she_is_brave_and_isnt_afraid_to_try_new_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120664",
+    "text_pt": "Destemido — sempre mergulhando em novas aventuras",
+    "text_en": "Fearless — always jumpin’ into new adventures",
+    "audio_en_storage_path": "664_fearless_always_jumpin_into_new_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120665",
+    "text_pt": "Ele é gentil e trata a todos com respeito",
+    "text_en": "He is gentle and treats everyone with respect",
+    "audio_en_storage_path": "665_he_is_gentle_and_treats_everyone_with_respect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120666",
+    "text_pt": "Fala manso e trata as pessoas bem",
+    "text_en": "Soft spoken and treats folks right",
+    "audio_en_storage_path": "666_soft_spoken_and_treats_folks_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120667",
+    "text_pt": "Ela é honesta e nunca conta mentiras",
+    "text_en": "She is honest and never tells lies",
+    "audio_en_storage_path": "667_she_is_honest_and_never_tells_lies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120668",
+    "text_pt": "Sempre direto — sem brincadeiras com ela",
+    "text_en": "Always straight up — no games with her",
+    "audio_en_storage_path": "668_always_straight_up_no_games_with_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120669",
+    "text_pt": "Ele é generoso e gosta de ajudar os outros",
+    "text_en": "He is generous and likes to help others",
+    "audio_en_storage_path": "669_he_is_generous_and_likes_to_help_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120670",
+    "text_pt": "Dá mais do que recebe — cara de grande coração",
+    "text_en": "Gives more than he takes — big-hearted guy",
+    "audio_en_storage_path": "670_gives_more_than_he_takes_bighearted_guy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120671",
+    "text_pt": "Cuide-se e seja você mesmo",
+    "text_en": "Take care and be yourself",
+    "audio_en_storage_path": "671_take_care_and_be_yourself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120672",
+    "text_pt": "Seja fiel a quem você é — tenha um ótimo dia",
+    "text_en": "Stay true to who you are — have a great day",
+    "audio_en_storage_path": "672_stay_true_to_who_you_are_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

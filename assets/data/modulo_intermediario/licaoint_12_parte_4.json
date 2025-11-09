@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111943",
+    "text_pt": "Água",
+    "text_en": "Water",
+    "audio_en_storage_path": "1943_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111944",
+    "text_pt": "A água está na geladeira.",
+    "text_en": "The water is in the fridge.",
+    "audio_en_storage_path": "1944_the_water_is_in_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111945",
+    "text_pt": "Está frio e pronto para beber.",
+    "text_en": "It’s cold and ready to drink.",
+    "audio_en_storage_path": "1945_its_cold_and_ready_to_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111946",
+    "text_pt": "Eu bebo água todos os dias.",
+    "text_en": "I drink water every day.",
+    "audio_en_storage_path": "1946_i_drink_water_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111947",
+    "text_pt": "Isso me mantém saudável e hidratado.",
+    "text_en": "It keeps me healthy and hydrated.",
+    "audio_en_storage_path": "1947_it_keeps_me_healthy_and_hydrated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111948",
+    "text_pt": "O frasco é transparente e tem uma tampa azul.",
+    "text_en": "The bottle is clear and has a blue cap.",
+    "audio_en_storage_path": "1948_the_bottle_is_clear_and_has_a_blue_cap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111949",
+    "text_pt": "Há gotas do lado de fora.",
+    "text_en": "There are drops on the outside.",
+    "audio_en_storage_path": "1949_there_are_drops_on_the_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111950",
+    "text_pt": "Coloquei fatias de limão dentro esta manhã.",
+    "text_en": "I put lemon slices inside this morning.",
+    "audio_en_storage_path": "1950_i_put_lemon_slices_inside_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111951",
+    "text_pt": "Tem um cheiro fresco e um sabor agradável.",
+    "text_en": "It smells fresh and tastes good.",
+    "audio_en_storage_path": "1951_it_smells_fresh_and_tastes_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111952",
+    "text_pt": "Que tipo de água você gosta?",
+    "text_en": "What kind of water do you like?",
+    "audio_en_storage_path": "1952_what_kind_of_water_do_you_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111953",
+    "text_pt": "Água sem gás — não com gás.",
+    "text_en": "Still water — not fizzy.",
+    "audio_en_storage_path": "1953_still_water_not_fizzy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111954",
+    "text_pt": "Onde você guarda suas garrafas de água?",
+    "text_en": "Where do you keep your water bottles?",
+    "audio_en_storage_path": "1954_where_do_you_keep_your_water_bottles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111955",
+    "text_pt": "Na geladeira ou na mesa.",
+    "text_en": "In the fridge or on the table.",
+    "audio_en_storage_path": "1955_in_the_fridge_or_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111956",
+    "text_pt": "Às vezes eu bebo de um copo.",
+    "text_en": "Sometimes I drink from a glass.",
+    "audio_en_storage_path": "1956_sometimes_i_drink_from_a_glass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111957",
+    "text_pt": "Outras vezes uso um canudo.",
+    "text_en": "Other times I use a straw.",
+    "audio_en_storage_path": "1957_other_times_i_use_a_straw.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111958",
+    "text_pt": "Onde você deixou sua xícara?",
+    "text_en": "Where did you leave your cup?",
+    "audio_en_storage_path": "1958_where_did_you_leave_your_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111959",
+    "text_pt": "No balcão da cozinha — perto da pia.",
+    "text_en": "On the kitchen counter — near the sink.",
+    "audio_en_storage_path": "1959_on_the_kitchen_counter_near_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111960",
+    "text_pt": "Quando você vai beber mais água hoje?",
+    "text_en": "When will you drink more water today?",
+    "audio_en_storage_path": "1960_when_will_you_drink_more_water_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111961",
+    "text_pt": "Depois do almoço — preciso encher minha garrafa novamente.",
+    "text_en": "After lunch — I need to refill my bottle.",
+    "audio_en_storage_path": "1961_after_lunch_i_need_to_refill_my_bottle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111962",
+    "text_pt": "Por que você trouxe água para a escola?",
+    "text_en": "Why did you bring water to school?",
+    "audio_en_storage_path": "1962_why_did_you_bring_water_to_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111963",
+    "text_pt": "Porque me ajuda a manter o foco.",
+    "text_en": "Because it helps me stay focused.",
+    "audio_en_storage_path": "1963_because_it_helps_me_stay_focused.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111964",
+    "text_pt": "Eu sempre carrego água comigo.",
+    "text_en": "I always carry water with me.",
+    "audio_en_storage_path": "1964_i_always_carry_water_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111965",
+    "text_pt": "Isso me lembra de beber com frequência.",
+    "text_en": "It reminds me to drink often.",
+    "audio_en_storage_path": "1965_it_reminds_me_to_drink_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111966",
+    "text_pt": "Amanhã. Não vou esquecer minha garrafa de água novamente.",
+    "text_en": "Tomorrow. I will not forget my water bottle again.",
+    "audio_en_storage_path": "1966_tomorrow_i_will_not_forget_my_water_bottle_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111967",
+    "text_pt": "Vou fazer as malas antes de sair de casa.",
+    "text_en": "I’ll pack it before leaving home.",
+    "audio_en_storage_path": "1967_ill_pack_it_before_leaving_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111968",
+    "text_pt": "Mantenha-se hidratado!",
+    "text_en": "Stay hydrated!",
+    "audio_en_storage_path": "1968_stay_hydrated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111969",
+    "text_pt": "Beba bastante água hoje.",
+    "text_en": "Drink plenty of water today.",
+    "audio_en_storage_path": "1969_drink_plenty_of_water_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

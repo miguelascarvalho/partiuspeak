@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102056",
+    "text_pt": "🎬 Cinema e Pipoca (Cinema e Petiscos)",
+    "text_en": "🎬 Movie Theater & Snacks",
+    "audio_en_storage_path": "",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102057",
+    "text_pt": "O cinema fica no último andar.",
+    "text_en": "The cinema is on the top floor.",
+    "audio_en_storage_path": "1157_the_cinema_is_on_the_top_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102058",
+    "text_pt": "Placas indicam o caminho a partir da escada rolante.",
+    "text_en": "Signs point the way from the climber.",
+    "audio_en_storage_path": "1158_signs_point_the_way_from_the_climber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102059",
+    "text_pt": "Compramos ingressos e lanches antes de entrar.",
+    "text_en": "We buy tickets and snacks before going in.",
+    "audio_en_storage_path": "1159_we_buy_tickets_and_snacks_before_going_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102060",
+    "text_pt": "Pipoca e bebidas fazem parte da diversão.",
+    "text_en": "Popcorn and drinks are part of the fun.",
+    "audio_en_storage_path": "1160_popcorn_and_drinks_are_part_of_the_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102061",
+    "text_pt": "O lobby tem grandes pôsteres e iluminação suave.",
+    "text_en": "The lobby has big posters and soft lighting.",
+    "audio_en_storage_path": "1161_the_lobby_has_big_posters_and_soft_lighting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102062",
+    "text_pt": "Os palestrantes reproduzem prévias e trailers.",
+    "text_en": "Speakers play previews and trailers.",
+    "audio_en_storage_path": "1162_speakers_play_previews_and_trailers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102063",
+    "text_pt": "Há bares de doces. bebidas e nachos por perto.",
+    "text_en": "There are candy bars. drinks. and nachos nearby.",
+    "audio_en_storage_path": "1163_there_are_candy_bars_drinks_and_nachos_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102064",
+    "text_pt": "E um menu com opções combinadas.",
+    "text_en": "And a menu with combo options.",
+    "audio_en_storage_path": "1164_and_a_menu_with_combo_options.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102065",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "1165_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102066",
+    "text_pt": "O de ação — cheio de explosões e perseguições.",
+    "text_en": "The action one — full of explosions and chases.",
+    "audio_en_storage_path": "1166_the_action_one_full_of_explosions_and_chases.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102067",
+    "text_pt": "Onde vocês podem sentar juntos?",
+    "text_en": "Where can you sit together?",
+    "audio_en_storage_path": "1167_where_can_you_sit_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102068",
+    "text_pt": "Fileira do meio — vista e espaço perfeitos.",
+    "text_en": "Middle row — perfect view and space.",
+    "audio_en_storage_path": "1168_middle_row_perfect_view_and_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102069",
+    "text_pt": "Às vezes dividimos pipoca.",
+    "text_en": "Sometimes we share popcorn.",
+    "audio_en_storage_path": "1169_sometimes_we_share_popcorn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102070",
+    "text_pt": "Outras vezes cada um tem o seu.",
+    "text_en": "Other times each person gets their own.",
+    "audio_en_storage_path": "1170_other_times_each_person_gets_their_own.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102071",
+    "text_pt": "Onde você deixou seu ingresso?",
+    "text_en": "Where did you leave your ticket?",
+    "audio_en_storage_path": "1171_where_did_you_leave_your_ticket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102072",
+    "text_pt": "No meu bolso — quase o perdi novamente.",
+    "text_en": "In my pocket — almost lost it again.",
+    "audio_en_storage_path": "1172_in_my_pocket_almost_lost_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102073",
+    "text_pt": "Quando começa o próximo filme?",
+    "text_en": "When does the next movie start?",
+    "audio_en_storage_path": "1173_when_does_the_next_movie_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102074",
+    "text_pt": "Em 20 minutos — ainda dá tempo de comer.",
+    "text_en": "In 20 minutes — still time to eat.",
+    "audio_en_storage_path": "1174_in_20_minutes_still_time_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102075",
+    "text_pt": "Por que você comprou mais pipoca com manteiga hoje?",
+    "text_en": "Why did you buy extra buttered popcorn today?",
+    "audio_en_storage_path": "1175_why_did_you_buy_extra_buttered_popcorn_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102076",
+    "text_pt": "Porque era uma oferta especial: dois por um.",
+    "text_en": "Because it was a special offer — two for one.",
+    "audio_en_storage_path": "1176_because_it_was_a_special_offer_two_for_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102077",
+    "text_pt": "Eles sempre assistem alguma coisa nos fins de semana.",
+    "text_en": "They always watch something on weekends.",
+    "audio_en_storage_path": "1177_they_always_watch_something_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102078",
+    "text_pt": "A noite de cinema é a tradição favorita deles.",
+    "text_en": "Movie night is their favorite tradition.",
+    "audio_en_storage_path": "1178_movie_night_is_their_favorite_tradition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102079",
+    "text_pt": "Amanhã. Não vou esquecer de desligar o modo flash novamente.",
+    "text_en": "Tomorrow. I will not forget to turn off flash mode again.",
+    "audio_en_storage_path": "1179_tomorrow_i_will_not_forget_to_turn_off_flash_mode_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102080",
+    "text_pt": "Minha foto foi estragada durante o filme.",
+    "text_en": "My photo got ruined during the movie.",
+    "audio_en_storage_path": "1180_my_photo_got_ruined_during_the_movie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102081",
+    "text_pt": "Luzes apagadas. Volume alto!",
+    "text_en": "Lights down. volume up!",
+    "audio_en_storage_path": "1181_lights_down_volume_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102082",
+    "text_pt": "Aproveite cada momento na tela.",
+    "text_en": "Enjoy every moment on screen.",
+    "audio_en_storage_path": "1182_enjoy_every_moment_on_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

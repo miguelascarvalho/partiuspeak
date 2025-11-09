@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130618",
+    "text_pt": "Identidade cultural é um tema que celebra a diversidade e a herança.",
+    "text_en": "Cultural identity is a theme that celebrates diversity and heritage.",
+    "audio_en_storage_path": "618_cultural_identity_is_a_theme_that_celebrates_diversity_and_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130619",
+    "text_pt": "Os personagens exploram suas raízes e as tradições que os definem.",
+    "text_en": "Characters explore their roots and the traditions that define them.",
+    "audio_en_storage_path": "619_characters_explore_their_roots_and_the_traditions_that_define_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130620",
+    "text_pt": "A família desempenha um papel central na preservação dos costumes culturais.",
+    "text_en": "Family plays a central role in preserving cultural customs.",
+    "audio_en_storage_path": "620_family_plays_a_central_role_in_preserving_cultural_customs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130621",
+    "text_pt": "Os mais velhos transmitem histórias, rituais e valores para as gerações mais jovens.",
+    "text_en": "Elders pass down stories. rituals. and values to younger generations.",
+    "audio_en_storage_path": "621_elders_pass_down_stories_rituals_and_values_to_younger_generations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130622",
+    "text_pt": "Histórias de identidade cultural frequentemente retratam a tensão entre tradição e modernidade.",
+    "text_en": "Cultural identity stories often depict the tension between tradition and modernity.",
+    "audio_en_storage_path": "622_cultural_identity_stories_often_depict_the_tension_between_tradition_and_modernity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130623",
+    "text_pt": "Personagens lutam para equilibrar sua herança com influências contemporâneas.",
+    "text_en": "Characters struggle to balance their heritage with contemporary influences.",
+    "audio_en_storage_path": "623_characters_struggle_to_balance_their_heritage_with_contemporary_influences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130624",
+    "text_pt": "Migração e diáspora são cenários comuns em narrativas de identidade cultural.",
+    "text_en": "Migration and diaspora are common settings in cultural identity narratives.",
+    "audio_en_storage_path": "624_migration_and_diaspora_are_common_settings_in_cultural_identity_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130625",
+    "text_pt": "Os personagens enfrentam os desafios de adaptação a novos ambientes.",
+    "text_en": "Characters navigate the challenges of adapting to new environments.",
+    "audio_en_storage_path": "625_characters_navigate_the_challenges_of_adapting_to_new_environments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130626",
+    "text_pt": "A linguagem é um símbolo poderoso de identidade cultural.",
+    "text_en": "Language is a powerful symbol of cultural identity.",
+    "audio_en_storage_path": "626_language_is_a_powerful_symbol_of_cultural_identity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130627",
+    "text_pt": "Falar a língua nativa conecta os personagens às suas raízes.",
+    "text_en": "Speaking one’s native tongue connects characters to their roots.",
+    "audio_en_storage_path": "627_speaking_ones_native_tongue_connects_characters_to_their_roots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130628",
+    "text_pt": "A comida é outro elemento importante nas histórias de identidade cultural.",
+    "text_en": "Food is another important element in cultural identity stories.",
+    "audio_en_storage_path": "628_food_is_another_important_element_in_cultural_identity_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130629",
+    "text_pt": "Pratos tradicionais evocam memórias de reuniões familiares e caseiras.",
+    "text_en": "Traditional dishes evoke memories of home and family gatherings.",
+    "audio_en_storage_path": "629_traditional_dishes_evoke_memories_of_home_and_family_gatherings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130630",
+    "text_pt": "Festivais e celebrações culturais destacam a riqueza das tradições.",
+    "text_en": "Cultural festivals and celebrations highlight the richness of traditions.",
+    "audio_en_storage_path": "630_cultural_festivals_and_celebrations_highlight_the_richness_of_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130631",
+    "text_pt": "Eles unem comunidades e fortalecem laços.",
+    "text_en": "They bring communities together and strengthen bonds.",
+    "audio_en_storage_path": "631_they_bring_communities_together_and_strengthen_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130632",
+    "text_pt": "Narrativas de identidade cultural frequentemente exploram sentimentos de alienação.",
+    "text_en": "Cultural identity narratives often explore feelings of alienation.",
+    "audio_en_storage_path": "632_cultural_identity_narratives_often_explore_feelings_of_alienation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130633",
+    "text_pt": "Os personagens se sentem presos entre dois mundos, sem saber ao certo a que mundo pertencem.",
+    "text_en": "Characters feel caught between two worlds. unsure where they belong.",
+    "audio_en_storage_path": "633_characters_feel_caught_between_two_worlds_unsure_where_they_belong.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130634",
+    "text_pt": "Discriminação e estereótipos acrescentam complexidade a essas histórias.",
+    "text_en": "Discrimination and stereotypes add complexity to these stories.",
+    "audio_en_storage_path": "634_discrimination_and_stereotypes_add_complexity_to_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130635",
+    "text_pt": "Personagens enfrentam preconceito com base em sua origem cultural.",
+    "text_en": "Characters face prejudice based on their cultural background.",
+    "audio_en_storage_path": "635_characters_face_prejudice_based_on_their_cultural_background.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130636",
+    "text_pt": "Arte e música servem como expressões de orgulho cultural.",
+    "text_en": "Art and music serve as expressions of cultural pride.",
+    "audio_en_storage_path": "636_art_and_music_serve_as_expressions_of_cultural_pride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130637",
+    "text_pt": "Eles mostram a beleza e a singularidade de diferentes tradições.",
+    "text_en": "They showcase the beauty and uniqueness of different traditions.",
+    "audio_en_storage_path": "637_they_showcase_the_beauty_and_uniqueness_of_different_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130638",
+    "text_pt": "Histórias de identidade cultural enfatizam a importância da autoaceitação.",
+    "text_en": "Cultural identity stories emphasize the importance of self-acceptance.",
+    "audio_en_storage_path": "638_cultural_identity_stories_emphasize_the_importance_of_selfacceptance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130639",
+    "text_pt": "Personagens aprendem a abraçar sua herança sem vergonha.",
+    "text_en": "Characters learn to embrace their heritage without shame.",
+    "audio_en_storage_path": "639_characters_learn_to_embrace_their_heritage_without_shame.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130640",
+    "text_pt": "Conflitos intergeracionais surgem em narrativas de identidade cultural.",
+    "text_en": "Inter generational conflicts arise in cultural identity narratives.",
+    "audio_en_storage_path": "640_inter_generational_conflicts_arise_in_cultural_identity_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130641",
+    "text_pt": "As gerações mais velhas podem resistir à mudança, enquanto as mais jovens buscam o progresso.",
+    "text_en": "Older generations may resist change. while younger ones seek progress.",
+    "audio_en_storage_path": "641_older_generations_may_resist_change_while_younger_ones_seek_progress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130642",
+    "text_pt": "O intercâmbio cultural é um tema recorrente nessas histórias.",
+    "text_en": "Cultural exchange is a recurring theme in these stories.",
+    "audio_en_storage_path": "642_cultural_exchange_is_a_recurring_theme_in_these_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130643",
+    "text_pt": "Os personagens aprendem com as tradições dos outros, promovendo o entendimento mútuo.",
+    "text_en": "Characters learn from others’ traditions. fostering mutual understanding.",
+    "audio_en_storage_path": "643_characters_learn_from_others_traditions_fostering_mutual_understanding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130644",
+    "text_pt": "Narrativas de identidade cultural frequentemente celebram o multiculturalismo.",
+    "text_en": "Cultural identity narratives often celebrate multiculturalism.",
+    "audio_en_storage_path": "644_cultural_identity_narratives_often_celebrate_multiculturalism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130645",
+    "text_pt": "Eles destacam a força e a criatividade que vêm da diversidade.",
+    "text_en": "They highlight the strength and creativity that come from diversity.",
+    "audio_en_storage_path": "645_they_highlight_the_strength_and_creativity_that_come_from_diversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130646",
+    "text_pt": "Os personagens dessas histórias frequentemente redescobrem suas raízes.",
+    "text_en": "Characters in these stories often rediscover their roots.",
+    "audio_en_storage_path": "646_characters_in_these_stories_often_rediscover_their_roots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130647",
+    "text_pt": "Viagens às terras ancestrais proporcionam clareza e conexão.",
+    "text_en": "Journeys to ancestral homelands provide clarity and connection.",
+    "audio_en_storage_path": "647_journeys_to_ancestral_homelands_provide_clarity_and_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130648",
+    "text_pt": "Histórias de identidade cultural lembram o público do valor da preservação do patrimônio.",
+    "text_en": "Cultural identity stories remind audiences of the value of preserving heritage.",
+    "audio_en_storage_path": "648_cultural_identity_stories_remind_audiences_of_the_value_of_preserving_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

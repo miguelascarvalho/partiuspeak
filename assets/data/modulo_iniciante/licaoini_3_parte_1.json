@@ -1,0 +1,443 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104051",
+    "text_pt": "40 ÷ 10 = 4",
+    "text_en": "forty divided by ten equals four",
+    "audio_en_storage_path": "3151_forty_divided_by_ten_equals_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104052",
+    "text_pt": "1² = 1",
+    "text_en": "one squared is one",
+    "audio_en_storage_path": "3152_one_squared_is_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104053",
+    "text_pt": "2 x 0 = 0",
+    "text_en": "two times zero equals zero",
+    "audio_en_storage_path": "3153_two_times_zero_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104054",
+    "text_pt": "9 x 1 = 9",
+    "text_en": "nine times one equals nine",
+    "audio_en_storage_path": "3154_nine_times_one_equals_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104055",
+    "text_pt": "6 x 0 = 0",
+    "text_en": "six times zero equals zero",
+    "audio_en_storage_path": "3155_six_times_zero_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104056",
+    "text_pt": "0² = 0",
+    "text_en": "zero squared is zero",
+    "audio_en_storage_path": "3156_zero_squared_is_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104057",
+    "text_pt": "2 ÷ 1 = 2",
+    "text_en": "two divided by one equals two",
+    "audio_en_storage_path": "3157_two_divided_by_one_equals_two.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104058",
+    "text_pt": "80 ÷ 10 = 8",
+    "text_en": "eighty divided by ten equals eight",
+    "audio_en_storage_path": "3158_eighty_divided_by_ten_equals_eight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104059",
+    "text_pt": "9 ÷ 1 = 9",
+    "text_en": "nine divided by one equals nine",
+    "audio_en_storage_path": "3159_nine_divided_by_one_equals_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104060",
+    "text_pt": "2 + 6 = 8",
+    "text_en": "two plus six equals eight",
+    "audio_en_storage_path": "3160_two_plus_six_equals_eight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104061",
+    "text_pt": "100 ÷ 10 = 10",
+    "text_en": "one hundred divided by ten equals ten",
+    "audio_en_storage_path": "3161_one_hundred_divided_by_ten_equals_ten.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104062",
+    "text_pt": "√1 = 1",
+    "text_en": "square root of one equals one",
+    "audio_en_storage_path": "3162_square_root_of_one_equals_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104063",
+    "text_pt": "1 x 3 = 3",
+    "text_en": "one times three equals three",
+    "audio_en_storage_path": "3163_one_times_three_equals_three.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104064",
+    "text_pt": "4 - 3 = 1",
+    "text_en": "four minus three equals one",
+    "audio_en_storage_path": "3164_four_minus_three_equals_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104065",
+    "text_pt": "3 + 5 = 8",
+    "text_en": "three plus five equals eight",
+    "audio_en_storage_path": "3165_three_plus_five_equals_eight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104066",
+    "text_pt": "1 - 1 = 0",
+    "text_en": "one minus one equals zero",
+    "audio_en_storage_path": "3166_one_minus_one_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104067",
+    "text_pt": "32 ÷ 8 = 4",
+    "text_en": "thirty-two divided by eight equals four",
+    "audio_en_storage_path": "3167_thirtytwo_divided_by_eight_equals_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104068",
+    "text_pt": "2² = 4",
+    "text_en": "two squared is four",
+    "audio_en_storage_path": "3168_two_squared_is_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104069",
+    "text_pt": "4 ÷ 1 = 4",
+    "text_en": "four divided by one equals four",
+    "audio_en_storage_path": "3169_four_divided_by_one_equals_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104070",
+    "text_pt": "0 - 0 = 0",
+    "text_en": "zero minus zero equals zero",
+    "audio_en_storage_path": "3170_zero_minus_zero_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104071",
+    "text_pt": "13 + 0 = 13",
+    "text_en": "thirteen plus zero equals thirteen",
+    "audio_en_storage_path": "3171_thirteen_plus_zero_equals_thirteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104072",
+    "text_pt": "3 x 4 = 12",
+    "text_en": "three times four equals twelve",
+    "audio_en_storage_path": "3172_three_times_four_equals_twelve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104073",
+    "text_pt": "14 ÷ 7 = 2",
+    "text_en": "fourteen divided by seven equals two",
+    "audio_en_storage_path": "3173_fourteen_divided_by_seven_equals_two.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104074",
+    "text_pt": "0 + 5 = 5",
+    "text_en": "zero plus five equals five",
+    "audio_en_storage_path": "3174_zero_plus_five_equals_five.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104075",
+    "text_pt": "19 - 4 = 15",
+    "text_en": "nineteen minus four equals fifteen",
+    "audio_en_storage_path": "3175_nineteen_minus_four_equals_fifteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104076",
+    "text_pt": "28 ÷ 7 = 4",
+    "text_en": "twenty-eight divided by seven equals four",
+    "audio_en_storage_path": "3176_twentyeight_divided_by_seven_equals_four.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104077",
+    "text_pt": "18 ÷ 2 = 9",
+    "text_en": "eighteen divided by two equals nine",
+    "audio_en_storage_path": "3177_eighteen_divided_by_two_equals_nine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104078",
+    "text_pt": "2 x 8 = 16",
+    "text_en": "two times eight equals sixteen",
+    "audio_en_storage_path": "3178_two_times_eight_equals_sixteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104079",
+    "text_pt": "17 - 14 = 3",
+    "text_en": "seventeen minus fourteen equals three",
+    "audio_en_storage_path": "3179_seventeen_minus_fourteen_equals_three.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104080",
+    "text_pt": "4 + 1 = 5",
+    "text_en": "four plus one equals five",
+    "audio_en_storage_path": "3180_four_plus_one_equals_five.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104081",
+    "text_pt": "24 ÷ 8 = 3",
+    "text_en": "twenty four divided by eight equals three",
+    "audio_en_storage_path": "3181_twenty_four_divided_by_eight_equals_three.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104082",
+    "text_pt": "10 x 1 = 10",
+    "text_en": "ten times one equals ten",
+    "audio_en_storage_path": "3182_ten_times_one_equals_ten.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104083",
+    "text_pt": "49 ÷ 7 = 7",
+    "text_en": "forty-nine divided by seven equals seven",
+    "audio_en_storage_path": "3183_fortynine_divided_by_seven_equals_seven.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104084",
+    "text_pt": "6 x 1 = 6",
+    "text_en": "six times one equals six",
+    "audio_en_storage_path": "3184_six_times_one_equals_six.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104085",
+    "text_pt": "4 x 3 = 12",
+    "text_en": "four times three equals twelve",
+    "audio_en_storage_path": "3185_four_times_three_equals_twelve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104086",
+    "text_pt": "0 + 15 = 15",
+    "text_en": "zero plus fifteen equals fifteen",
+    "audio_en_storage_path": "3186_zero_plus_fifteen_equals_fifteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104087",
+    "text_pt": "40 ÷ 5 = 8",
+    "text_en": "forty divided by five equals eight",
+    "audio_en_storage_path": "3187_forty_divided_by_five_equals_eight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104088",
+    "text_pt": "0 ÷ 9 = 0",
+    "text_en": "zero divided by nine equals zero",
+    "audio_en_storage_path": "3188_zero_divided_by_nine_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104089",
+    "text_pt": "√0 = 0",
+    "text_en": "square root of zero equals zero",
+    "audio_en_storage_path": "3189_square_root_of_zero_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104090",
+    "text_pt": "1 x 7 = 7",
+    "text_en": "one times seven equals seven",
+    "audio_en_storage_path": "3190_one_times_seven_equals_seven.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104091",
+    "text_pt": "16 - 8 = 8",
+    "text_en": "sixteen minus eight equals eight",
+    "audio_en_storage_path": "3191_sixteen_minus_eight_equals_eight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104092",
+    "text_pt": "3 + 15 = 18",
+    "text_en": "three plus fifteen equals eighteen",
+    "audio_en_storage_path": "3192_three_plus_fifteen_equals_eighteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104093",
+    "text_pt": "7 x 0 = 0",
+    "text_en": "seven times zero equals zero",
+    "audio_en_storage_path": "3193_seven_times_zero_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104094",
+    "text_pt": "4 x 4 = 16",
+    "text_en": "four times four equals sixteen",
+    "audio_en_storage_path": "3194_four_times_four_equals_sixteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104095",
+    "text_pt": "4² = 16",
+    "text_en": "four squared is sixteen",
+    "audio_en_storage_path": "3195_four_squared_is_sixteen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104096",
+    "text_pt": "8 - 8 = 0",
+    "text_en": "eight minus eight equals zero",
+    "audio_en_storage_path": "3196_eight_minus_eight_equals_zero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104097",
+    "text_pt": "7 + 3 = 10",
+    "text_en": "seven plus three equals ten",
+    "audio_en_storage_path": "3197_seven_plus_three_equals_ten.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104098",
+    "text_pt": "7 - 6 = 1",
+    "text_en": "seven minus six equals one",
+    "audio_en_storage_path": "3198_seven_minus_six_equals_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase104099",
+    "text_pt": "48 ÷ 8 = 6",
+    "text_en": "forty-eight divided by eight equals six",
+    "audio_en_storage_path": "3199_fortyeight_divided_by_eight_equals_six.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

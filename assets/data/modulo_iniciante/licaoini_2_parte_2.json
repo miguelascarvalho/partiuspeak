@@ -1,0 +1,326 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103743",
+    "text_pt": "Carnaval",
+    "text_en": "Carnival",
+    "audio_en_storage_path": "2843_carnival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103744",
+    "text_pt": "Boa noite! O que você acha do Brasil até agora?",
+    "text_en": "Good evening! What do you think of Brazil so far?",
+    "audio_en_storage_path": "2844_good_evening_what_do_you_think_of_brazil_so_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103745",
+    "text_pt": "Incrível! As pessoas são tão simpáticas.",
+    "text_en": "Amazing! The people are so friendly.",
+    "audio_en_storage_path": "2845_amazing_the_people_are_so_friendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103746",
+    "text_pt": "Você já foi ao Carnaval antes?",
+    "text_en": "Have you been to Carnival before?",
+    "audio_en_storage_path": "2846_have_you_been_to_carnival_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103747",
+    "text_pt": "Não. mas vi vídeos online.",
+    "text_en": "No — but I’ve seen videos online.",
+    "audio_en_storage_path": "2847_no_but_ive_seen_videos_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103748",
+    "text_pt": "Se você vier nessa época. não perca!",
+    "text_en": "If you eat during that season. don’t miss it!",
+    "audio_en_storage_path": "2848_if_you_eat_during_that_season_dont_miss_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103749",
+    "text_pt": "Ouvi dizer que é selvagem — é divertido para turistas?",
+    "text_en": "I heard it’s wild — is it fun for tourists?",
+    "audio_en_storage_path": "2849_i_heard_its_wild_is_it_fun_for_tourists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103750",
+    "text_pt": "Com certeza! Só fique de olho nas suas coisas.",
+    "text_en": "Totally! Just keep an eye on your things.",
+    "audio_en_storage_path": "2850_totally_just_keep_an_eye_on_your_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103751",
+    "text_pt": "Entendi — voltarei ano que vem se possível!",
+    "text_en": "Got it — will come next year if possible!",
+    "audio_en_storage_path": "2851_got_it_will_come_next_year_if_possible.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103752",
+    "text_pt": "Caipirinha",
+    "text_en": "Caipirinha",
+    "audio_en_storage_path": "2852_caipirinha.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103753",
+    "text_pt": "Olá! Vi que você perguntou sobre bebidas antes.",
+    "text_en": "Hi! Saw you were asking about drinks earlier.",
+    "audio_en_storage_path": "2853_hi_saw_you_were_asking_about_drinks_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103754",
+    "text_pt": "Sim. quero experimentar algo local.",
+    "text_en": "Yeah — I want to try something local.",
+    "audio_en_storage_path": "2854_yeah_i_want_to_try_something_local.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103755",
+    "text_pt": "Experimente a caipirinha — o coquetel mais famoso do Brasil.",
+    "text_en": "Try caipirinha — Brazil’s most famous cocktail.",
+    "audio_en_storage_path": "2855_try_caipirinha_brazils_most_famous_cocktail.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103756",
+    "text_pt": "Eu vi alguém bebendo — parecia forte!",
+    "text_en": "I saw someone drinking it — looked strong!",
+    "audio_en_storage_path": "2856_i_saw_someone_drinking_it_looked_strong.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103757",
+    "text_pt": "É isso aí! Limão. açúcar. cachaça — misture bem.",
+    "text_en": "It is! Lime. sugar. cachaça — mix well.",
+    "audio_en_storage_path": "2857_it_is_lime_sugar_cachaca_mix_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103758",
+    "text_pt": "Parece divertido — onde posso encomendar?",
+    "text_en": "Sounds fun — where can I order it?",
+    "audio_en_storage_path": "2858_sounds_fun_where_can_i_order_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103759",
+    "text_pt": "Em qualquer bar do centro da cidade — posso te levar mais tarde.",
+    "text_en": "In any bar downtown — I can take you later.",
+    "audio_en_storage_path": "2859_in_any_bar_downtown_i_can_take_you_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103760",
+    "text_pt": "Perfeito — comerei meu primeiro hoje à noite!",
+    "text_en": "Perfect — I’ll have my first one tonight!",
+    "audio_en_storage_path": "2860_perfect_ill_have_my_first_one_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103761",
+    "text_pt": "Conhece feijoada?",
+    "text_en": "Do you know feijoada?",
+    "audio_en_storage_path": "2861_do_you_know_feijoada.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103762",
+    "text_pt": "Bom dia! Como foi seu dia ontem?",
+    "text_en": "Good morning! How was your day yesterday?",
+    "audio_en_storage_path": "2862_good_morning_how_was_your_day_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103763",
+    "text_pt": "Muito bom — experimentei comidas novas e tirei fotos.",
+    "text_en": "Very good — tried new food and took photos.",
+    "audio_en_storage_path": "2863_very_good_tried_new_food_and_took_photos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103764",
+    "text_pt": "Você já comeu feijoada?",
+    "text_en": "Have you eaten feijoada yet?",
+    "audio_en_storage_path": "2864_have_you_eaten_feijoada_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103765",
+    "text_pt": "Não. ouvi dizer que é pesado. mas estou curioso.",
+    "text_en": "No — heard it’s heavy. but I’m curious.",
+    "audio_en_storage_path": "2865_no_heard_its_heavy_but_im_curious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103766",
+    "text_pt": "É tradicional — feijão preto. carne de porco. arroz. couve.",
+    "text_en": "It’s traditional — black beans. pork. rice. collard greens.",
+    "audio_en_storage_path": "2866_its_traditional_black_beans_pork_rice_collard_greens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103767",
+    "text_pt": "Parece ótimo! Você recomenda algum lugar?",
+    "text_en": "Sounds rich! Any place you recommend?",
+    "audio_en_storage_path": "2867_sounds_rich_any_place_you_recommend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103768",
+    "text_pt": "Casa da Feijoada — aberta toda a semana.",
+    "text_en": "Feijoada House — open all week.",
+    "audio_en_storage_path": "2868_feijoada_house_open_all_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103769",
+    "text_pt": "Ótimo! Vou experimentar em breve — talvez no almoço de hoje.",
+    "text_en": "Great! I’ll try it soon — maybe lunch today.",
+    "audio_en_storage_path": "2869_great_ill_try_it_soon_maybe_lunch_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103770",
+    "text_pt": "Você gosta de pizza?",
+    "text_en": "Do you like pizza?",
+    "audio_en_storage_path": "2870_do_you_like_pizza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103771",
+    "text_pt": "Olá! Ainda está curtindo a viagem?",
+    "text_en": "Hello! Still enjoying your trip?",
+    "audio_en_storage_path": "2871_hello_still_enjoying_your_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103772",
+    "text_pt": "Sim! Comi tanto — adorei.",
+    "text_en": "Yes! I’ve eaten so much — loving it.",
+    "audio_en_storage_path": "2872_yes_ive_eaten_so_much_loving_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103773",
+    "text_pt": "Você já experimentou pizza brasileira?",
+    "text_en": "Did you try Brazilian pizza?",
+    "audio_en_storage_path": "2873_did_you_try_brazilian_pizza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103774",
+    "text_pt": "Eu fiz — pizza de mussarela e frango.",
+    "text_en": "I did — mozzarella and chicken pizza.",
+    "audio_en_storage_path": "2874_i_did_mozzarella_and_chicken_pizza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103775",
+    "text_pt": "Haha. sim! Adicionamos tudo por cima.",
+    "text_en": "Haha. yes! We add everything on top.",
+    "audio_en_storage_path": "2875_haha_yes_we_add_everything_on_top.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103776",
+    "text_pt": "O meu favorito era o de chocolate — doce e louco.",
+    "text_en": "My favorite was the chocolate one — sweet and crazy.",
+    "audio_en_storage_path": "2876_my_favorite_was_the_chocolate_one_sweet_and_crazy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103777",
+    "text_pt": "Esse é o estilo de São Paulo: aproveite a mistura.",
+    "text_en": "That’s São Paulo style — enjoy the mix.",
+    "audio_en_storage_path": "2877_thats_sao_paulo_style_enjoy_the_mix.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103778",
+    "text_pt": "Eu vou — nunca pensei que pizza pudesse ser tão criativa.",
+    "text_en": "I will — never thought pizza could be so creative.",
+    "audio_en_storage_path": "2878_i_will_never_thought_pizza_could_be_so_creative.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

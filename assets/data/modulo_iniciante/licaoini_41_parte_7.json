@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101732",
+    "text_pt": "📱 Loja de Celulares",
+    "text_en": "📱 Cellphone Store",
+    "audio_en_storage_path": "832_cellphone_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101733",
+    "text_pt": "A loja de celulares fica no meio do shopping.",
+    "text_en": "The cellphone shop is in the middle of the mall.",
+    "audio_en_storage_path": "833_the_cellphone_shop_is_in_the_middle_of_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101734",
+    "text_pt": "Grandes placas mostram os modelos mais recentes e as ofertas.",
+    "text_en": "Big signs show latest models and deals.",
+    "audio_en_storage_path": "834_big_signs_show_latest_models_and_deals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101735",
+    "text_pt": "Eu compro celulares. fones de ouvido ou protetores de tela aqui.",
+    "text_en": "I buy phones. headphones. or screen protectors here.",
+    "audio_en_storage_path": "835_i_buy_phones_headphones_or_screen_protectors_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101736",
+    "text_pt": "Também repare telas rachadas ou baterias quebradas.",
+    "text_en": "Also repair cracked screens or broken batteries.",
+    "audio_en_storage_path": "836_also_repair_cracked_screens_or_broken_batteries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101737",
+    "text_pt": "A loja está cheia de mesas de vidro e cabos de carregamento.",
+    "text_en": "The store is full of glass tables and charging cables.",
+    "audio_en_storage_path": "837_the_store_is_full_of_glass_tables_and_charging_cables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101738",
+    "text_pt": "Os telefones reproduzem vídeos e clipes de som.",
+    "text_en": "Phones play videos and sound clips.",
+    "audio_en_storage_path": "838_phones_play_videos_and_sound_clips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101739",
+    "text_pt": "Há carregadores. estojos e fones de ouvido em exposição.",
+    "text_en": "There are chargers. cases. and earbuds on display.",
+    "audio_en_storage_path": "839_there_are_chargers_cases_and_earbuds_on_display.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101740",
+    "text_pt": "E uma equipe pronta para ajudar.",
+    "text_en": "And staff ready to help.",
+    "audio_en_storage_path": "840_and_staff_ready_to_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101741",
+    "text_pt": "Que telefone você está olhando?",
+    "text_en": "What phone are you looking at?",
+    "audio_en_storage_path": "841_what_phone_are_you_looking_at.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101742",
+    "text_pt": "Aquele com a capa rosa — fofo e rápido.",
+    "text_en": "The one with the pink cover — cute and fast.",
+    "audio_en_storage_path": "842_the_one_with_the_pink_cover_cute_and_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101743",
+    "text_pt": "Onde você pode testar a câmera?",
+    "text_en": "Where can you test the camera?",
+    "audio_en_storage_path": "843_where_can_you_test_the_camera.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101744",
+    "text_pt": "Na mesa de demonstração — toque para tirar uma foto.",
+    "text_en": "At the demo table — tap to take a picture.",
+    "audio_en_storage_path": "844_at_the_demo_table_tap_to_take_a_picture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101745",
+    "text_pt": "Às vezes eu atualizo meu telefone.",
+    "text_en": "Sometimes I upgrade my phone.",
+    "audio_en_storage_path": "845_sometimes_i_upgrade_my_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101746",
+    "text_pt": "Outras vezes eu apenas conserto o que tenho.",
+    "text_en": "Other times I just fix what I have.",
+    "audio_en_storage_path": "846_other_times_i_just_fix_what_i_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101747",
+    "text_pt": "Onde você deixou seu carregador?",
+    "text_en": "Where did you leave your charger?",
+    "audio_en_storage_path": "847_where_did_you_leave_your_charger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101748",
+    "text_pt": "No balcão — esqueci de pegar.",
+    "text_en": "On the counter — forgot to pick it up.",
+    "audio_en_storage_path": "848_on_the_counter_forgot_to_pick_it_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101749",
+    "text_pt": "Quando o próximo modelo será lançado?",
+    "text_en": "When will the next model be out?",
+    "audio_en_storage_path": "849_when_will_the_next_model_be_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101750",
+    "text_pt": "Em seis meses — as pré-encomendas estarão abertas em breve.",
+    "text_en": "In six months — pre-orders open soon.",
+    "audio_en_storage_path": "850_in_six_months_preorders_open_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101751",
+    "text_pt": "Por que você mudou seu plano hoje?",
+    "text_en": "Why did you change your plan today?",
+    "audio_en_storage_path": "851_why_did_you_change_your_plan_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101752",
+    "text_pt": "Porque encontrei um negócio melhor.",
+    "text_en": "Because I found a better deal.",
+    "audio_en_storage_path": "852_because_i_found_a_better_deal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101753",
+    "text_pt": "Ele sempre faz perguntas antes de comprar.",
+    "text_en": "He always asks questions before buying.",
+    "audio_en_storage_path": "853_he_always_asks_questions_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101754",
+    "text_pt": "Quer saber exatamente o que ele ganha.",
+    "text_en": "Wants to know exactly what he gets.",
+    "audio_en_storage_path": "854_wants_to_know_exactly_what_he_gets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101755",
+    "text_pt": "Amanhã. Não vou esquecer de desligar o modo avião novamente.",
+    "text_en": "Tomorrow. I will not forget to turn off airplane mode again.",
+    "audio_en_storage_path": "855_tomorrow_i_will_not_forget_to_turn_off_airplane_mode_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101756",
+    "text_pt": "Quase perdi a reunião da última vez.",
+    "text_en": "Almost missed the meeting last time.",
+    "audio_en_storage_path": "856_almost_missed_the_meeting_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101757",
+    "text_pt": "Fique conectado!",
+    "text_en": "Stay connected!",
+    "audio_en_storage_path": "857_stay_connected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101758",
+    "text_pt": "Encontre o telefone que funciona para você.",
+    "text_en": "Find the phone that works for you.",
+    "audio_en_storage_path": "858_find_the_phone_that_works_for_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

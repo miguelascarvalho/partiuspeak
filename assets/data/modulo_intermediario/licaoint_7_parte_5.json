@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110890",
+    "text_pt": "Balsa / Barco",
+    "text_en": "Ferry / Boat",
+    "audio_en_storage_path": "890_ferry_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110891",
+    "text_pt": "Ela pega a balsa para a ilha.",
+    "text_en": "She takes the ferry to the island.",
+    "audio_en_storage_path": "891_she_takes_the_ferry_to_the_island.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110892",
+    "text_pt": "Ele sai cedo de manhã.",
+    "text_en": "It leaves early in the morning.",
+    "audio_en_storage_path": "892_it_leaves_early_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110893",
+    "text_pt": "O barco balança lentamente na água.",
+    "text_en": "The boat rocks slowly on the water.",
+    "audio_en_storage_path": "893_the_boat_rocks_slowly_on_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110894",
+    "text_pt": "As pessoas andam por aí e tiram fotos.",
+    "text_en": "People walk around and take pictures.",
+    "audio_en_storage_path": "894_people_walk_around_and_take_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110895",
+    "text_pt": "Levamos lanches e bebidas a bordo.",
+    "text_en": "We bring snacks and drinks onboard.",
+    "audio_en_storage_path": "895_we_bring_snacks_and_drinks_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110896",
+    "text_pt": "A viagem dura uma hora ou mais.",
+    "text_en": "The trip lasts one hour or more.",
+    "audio_en_storage_path": "896_the_trip_lasts_one_hour_or_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110897",
+    "text_pt": "Eles sentam-se perto da janela e olham para fora.",
+    "text_en": "They sit by the window and look outside.",
+    "audio_en_storage_path": "897_they_sit_by_the_window_and_look_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110898",
+    "text_pt": "Eles veem pássaros voando acima do mar.",
+    "text_en": "They see birds flying above the sea.",
+    "audio_en_storage_path": "898_they_see_birds_flying_above_the_sea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110899",
+    "text_pt": "Às vezes ele observa golfinhos.",
+    "text_en": "He watches dolphins sometimes.",
+    "audio_en_storage_path": "899_he_watches_dolphins_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110900",
+    "text_pt": "Eles nadam perto do barco.",
+    "text_en": "They swim near the boat.",
+    "audio_en_storage_path": "900_they_swim_near_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110901",
+    "text_pt": "A balsa é grande e tem dois andares.",
+    "text_en": "The ferry is large and has two floors.",
+    "audio_en_storage_path": "901_the_ferry_is_large_and_has_two_floors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110902",
+    "text_pt": "Uma para carros. outra para passageiros.",
+    "text_en": "One for cars. another for passengers.",
+    "audio_en_storage_path": "902_one_for_cars_another_for_passengers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110903",
+    "text_pt": "Quanto tempo dura o passeio de barco?",
+    "text_en": "How long is the boat ride?",
+    "audio_en_storage_path": "903_how_long_is_the_boat_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110904",
+    "text_pt": "Cerca de 45 minutos a uma hora.",
+    "text_en": "About 45 minutes to an hour.",
+    "audio_en_storage_path": "904_about_45_minutes_to_an_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110905",
+    "text_pt": "Onde você pode pegar a balsa?",
+    "text_en": "Where can you catch the ferry?",
+    "audio_en_storage_path": "905_where_can_you_catch_the_ferry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110906",
+    "text_pt": "No porto principal do centro da cidade.",
+    "text_en": "At the main port downtown.",
+    "audio_en_storage_path": "906_at_the_main_port_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110907",
+    "text_pt": "Quando você viaja de barco?",
+    "text_en": "When do you travel by boat?",
+    "audio_en_storage_path": "907_when_do_you_travel_by_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110908",
+    "text_pt": "Durante férias ou viagens especiais.",
+    "text_en": "During vacations or special trips.",
+    "audio_en_storage_path": "908_during_vacations_or_special_trips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110909",
+    "text_pt": "Por que você ama a balsa?",
+    "text_en": "Why do you love the ferry?",
+    "audio_en_storage_path": "909_why_do_you_love_the_ferry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110910",
+    "text_pt": "Porque a vista é linda e relaxante.",
+    "text_en": "Because the view is beautiful and calming.",
+    "audio_en_storage_path": "910_because_the_view_is_beautiful_and_calming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110911",
+    "text_pt": "Gostamos de assistir ao pôr do sol do barco.",
+    "text_en": "We enjoy watching the sunset from the boat.",
+    "audio_en_storage_path": "911_we_enjoy_watching_the_sunset_from_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110912",
+    "text_pt": "É tranquilo e inesquecível.",
+    "text_en": "It's peaceful and unforgettable.",
+    "audio_en_storage_path": "912_its_peaceful_and_unforgettable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110913",
+    "text_pt": "Da próxima vez, eles não esquecerão os coletes salva-vidas.",
+    "text_en": "Next time. they will not forget life jackets.",
+    "audio_en_storage_path": "913_next_time_they_will_not_forget_life_jackets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110914",
+    "text_pt": "A segurança vem em primeiro lugar na água.",
+    "text_en": "Safety comes first on the water.",
+    "audio_en_storage_path": "914_safety_comes_first_on_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110915",
+    "text_pt": "Aproveite a viagem!",
+    "text_en": "Enjoy the journey!",
+    "audio_en_storage_path": "915_enjoy_the_journey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110916",
+    "text_pt": "O mar está chamando seu nome.",
+    "text_en": "The sea is calling your name.",
+    "audio_en_storage_path": "916_the_sea_is_calling_your_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

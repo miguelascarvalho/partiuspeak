@@ -1,0 +1,812 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130966",
+    "text_pt": "Mundos Paralelos: Universos Mágicos, Mitológicos ou Alternativos",
+    "text_en": "Parallel Worlds: Magical. Mythological. or Alternate Universes",
+    "audio_en_storage_path": "966_parallel_worlds_magical_mythological_or_alternate_universes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130967",
+    "text_pt": "Mundos paralelos transportam o público para reinos além da imaginação.",
+    "text_en": "Parallel worlds transport audiences to realms beyond imagination.",
+    "audio_en_storage_path": "967_parallel_worlds_transport_audiences_to_realms_beyond_imagination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130968",
+    "text_pt": "Esses universos estão cheios de maravilhas, mistérios e possibilidades incalculáveis.",
+    "text_en": "These universes are filled with wonder. mystery. and untold possibilities.",
+    "audio_en_storage_path": "968_these_universes_are_filled_with_wonder_mystery_and_untold_possibilities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130969",
+    "text_pt": "Paisagens mágicas apresentam florestas encantadas, ilhas flutuantes e cidades brilhantes.",
+    "text_en": "Magical landscapes feature enchanted forests. floating islands. and shimmering cities.",
+    "audio_en_storage_path": "969_magical_landscapes_feature_enchanted_forests_floating_islands_and_shimmering_cities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130970",
+    "text_pt": "Cada canto desses mundos contém segredos esperando para serem descobertos.",
+    "text_en": "Every corner of these worlds holds secrets waiting to be uncovered.",
+    "audio_en_storage_path": "970_every_corner_of_these_worlds_holds_secrets_waiting_to_be_uncovered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130971",
+    "text_pt": "A mitologia serve de inspiração para muitas narrativas de mundos paralelos.",
+    "text_en": "Mythology serves as inspiration for many parallel world narratives.",
+    "audio_en_storage_path": "971_mythology_serves_as_inspiration_for_many_parallel_world_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130972",
+    "text_pt": "Deuses, lendas e profecias antigas moldam a estrutura desses reinos.",
+    "text_en": "Gods. legends. and ancient prophecies shape the fabric of these realms.",
+    "audio_en_storage_path": "972_gods_legends_and_ancient_prophecies_shape_the_fabric_of_these_realms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130973",
+    "text_pt": "Universos alternativos exploram o que poderia ter acontecido em diferentes linhas do tempo.",
+    "text_en": "Alternate universes explore what could have been in different timelines.",
+    "audio_en_storage_path": "973_alternate_universes_explore_what_could_have_been_in_different_timelines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130974",
+    "text_pt": "Os personagens encontram versões de si mesmos vivendo vidas muito diferentes.",
+    "text_en": "Characters encounter versions of themselves living vastly different lives.",
+    "audio_en_storage_path": "974_characters_encounter_versions_of_themselves_living_vastly_different_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130975",
+    "text_pt": "Os portais funcionam como passagens entre a realidade comum e as dimensões fantásticas.",
+    "text_en": "Portals act as gateways between ordinary reality and fantastical dimensions.",
+    "audio_en_storage_path": "975_portals_act_as_gateways_between_ordinary_reality_and_fantastical_dimensions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130976",
+    "text_pt": "Eles simbolizam a linha tênue que separa o mundano do extraordinário.",
+    "text_en": "They symbolize the thin line separating the mundane from the extraordinary.",
+    "audio_en_storage_path": "976_they_symbolize_the_thin_line_separating_the_mundane_from_the_extraordinary.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130977",
+    "text_pt": "As regras da física são frequentemente distorcidas ou quebradas em mundos mágicos.",
+    "text_en": "Rules of physics are often bent or broken in magical worlds.",
+    "audio_en_storage_path": "977_rules_of_physics_are_often_bent_or_broken_in_magical_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130978",
+    "text_pt": "A gravidade muda. O tempo flui de forma diferente. E a magia desafia a lógica.",
+    "text_en": "Gravity shifts. time flows differently. and magic defies logic.",
+    "audio_en_storage_path": "978_gravity_shifts_time_flows_differently_and_magic_defies_logic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130979",
+    "text_pt": "Criaturas como dragões, unicórnios e grifos habitam essas terras.",
+    "text_en": "Creatures like dragons. unicorns. and griffins inhabit these lands.",
+    "audio_en_storage_path": "979_creatures_like_dragons_unicorns_and_griffins_inhabit_these_lands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130980",
+    "text_pt": "A presença deles acrescenta profundidade e riqueza ao cenário fantástico.",
+    "text_en": "Their presence adds depth and richness to the fantastical setting.",
+    "audio_en_storage_path": "980_their_presence_adds_depth_and_richness_to_the_fantastical_setting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130981",
+    "text_pt": "Mapas guiam aventureiros por territórios desconhecidos em histórias de fantasia.",
+    "text_en": "Maps guide adventurers through uncharted territories in fantasy stories.",
+    "audio_en_storage_path": "981_maps_guide_adventurers_through_uncharted_territories_in_fantasy_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130982",
+    "text_pt": "Cada região revela culturas, perigos e tesouros únicos.",
+    "text_en": "Each region reveals unique cultures. dangers. and treasures.",
+    "audio_en_storage_path": "982_each_region_reveals_unique_cultures_dangers_and_treasures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130983",
+    "text_pt": "Idiomas e escritas exclusivos desses mundos acrescentam autenticidade.",
+    "text_en": "Languages and scripts unique to these worlds add authenticity.",
+    "audio_en_storage_path": "983_languages_and_scripts_unique_to_these_worlds_add_authenticity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130984",
+    "text_pt": "Personagens decifram runas ou aprendem línguas esquecidas para desvendar mistérios.",
+    "text_en": "Characters decipher runes or learn forgotten tongues to unlock mysteries.",
+    "audio_en_storage_path": "984_characters_decipher_runes_or_learn_forgotten_tongues_to_unlock_mysteries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130985",
+    "text_pt": "Os padrões climáticos refletem o humor dos reinos mágicos.",
+    "text_en": "Weather patterns reflect the mood of magical realms.",
+    "audio_en_storage_path": "985_weather_patterns_reflect_the_mood_of_magical_realms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130986",
+    "text_pt": "Tempestades assolam períodos de conflito; céus calmos sinalizam paz.",
+    "text_en": "Storms rage during times of conflict; calm skies signal peace.",
+    "audio_en_storage_path": "986_storms_rage_during_times_of_conflict_calm_skies_signal_peace.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130987",
+    "text_pt": "Reinos rivais competem pelo controle de recursos e territórios.",
+    "text_en": "Rival kingdoms vie for control over resources and territory.",
+    "audio_en_storage_path": "987_rival_kingdoms_vie_for_control_over_resources_and_territory.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130988",
+    "text_pt": "Guerras entre nações ecoam temas de poder, ganância e traição.",
+    "text_en": "Wars between nations echo themes of power. greed. and betrayal.",
+    "audio_en_storage_path": "988_wars_between_nations_echo_themes_of_power_greed_and_betrayal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130989",
+    "text_pt": "Os sistemas mágicos operam sob regras e limitações específicas.",
+    "text_en": "Magic systems operate under specific rules and limitations.",
+    "audio_en_storage_path": "989_magic_systems_operate_under_specific_rules_and_limitations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130990",
+    "text_pt": "Conjurar magias requer energia, foco ou materiais raros.",
+    "text_en": "Spellcasting requires energy. focus. or rare materials.",
+    "audio_en_storage_path": "990_spellcasting_requires_energy_focus_or_rare_materials.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130991",
+    "text_pt": "Civilizações ocultas prosperam em partes isoladas desses mundos.",
+    "text_en": "Hidden civilizations thrive in secluded parts of these worlds.",
+    "audio_en_storage_path": "991_hidden_civilizations_thrive_in_secluded_parts_of_these_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130992",
+    "text_pt": "Elfos, anões e outras raças coexistem em harmonia ou discórdia.",
+    "text_en": "Elves. dwarves. and other races coexist in harmony or discord.",
+    "audio_en_storage_path": "992_elves_dwarves_and_other_races_coexist_in_harmony_or_discord.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130993",
+    "text_pt": "Mundos paralelos desafiam os personagens a se adaptarem rapidamente.",
+    "text_en": "Parallel worlds challenge characters to adapt quickly.",
+    "audio_en_storage_path": "993_parallel_worlds_challenge_characters_to_adapt_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130994",
+    "text_pt": "A sobrevivência depende da compreensão dos costumes e perigos da terra.",
+    "text_en": "Survival depends on understanding the customs and perils of the land.",
+    "audio_en_storage_path": "994_survival_depends_on_understanding_the_customs_and_perils_of_the_land.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130995",
+    "text_pt": "Paisagens oníricas confundem os limites entre realidade e ilusão.",
+    "text_en": "Dreamscapes blur the boundary between reality and illusion.",
+    "audio_en_storage_path": "995_dreamscapes_blur_the_boundary_between_reality_and_illusion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130996",
+    "text_pt": "Os personagens questionam se suas experiências são reais ou imaginárias.",
+    "text_en": "Characters question whether their experiences are real or imagined.",
+    "audio_en_storage_path": "996_characters_question_whether_their_experiences_are_real_or_imagined.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130997",
+    "text_pt": "O tempo flui imprevisivelmente em alguns reinos mágicos.",
+    "text_en": "Time flows unpredictably in some magical realms.",
+    "audio_en_storage_path": "997_time_flows_unpredictably_in_some_magical_realms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130998",
+    "text_pt": "Um único dia pode equivaler a anos em outra dimensão.",
+    "text_en": "A single day might equal years in another dimension.",
+    "audio_en_storage_path": "998_a_single_day_might_equal_years_in_another_dimension.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130999",
+    "text_pt": "Mundos paralelos muitas vezes refletem as dificuldades do nosso próprio mundo.",
+    "text_en": "Parallel worlds often mirror the struggles of our own world.",
+    "audio_en_storage_path": "999_parallel_worlds_often_mirror_the_struggles_of_our_own_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131000",
+    "text_pt": "Eles abordam questões como desigualdade, corrupção e degradação ambiental.",
+    "text_en": "They tackle issues like inequality. corruption. and environmental decay.",
+    "audio_en_storage_path": "1000_they_tackle_issues_like_inequality_corruption_and_environmental_decay.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131001",
+    "text_pt": "Heróis embarcam em missões para proteger essas terras frágeis.",
+    "text_en": "Heroes embark on quests to protect these fragile lands.",
+    "audio_en_storage_path": "1001_heroes_embark_on_quests_to_protect_these_fragile_lands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131002",
+    "text_pt": "Suas jornadas destacam a interconexão de todos os seres vivos.",
+    "text_en": "Their journeys highlight the interconnectedness of all living things.",
+    "audio_en_storage_path": "1002_their_journeys_highlight_the_interconnectedness_of_all_living_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131003",
+    "text_pt": "Os vilões procuram explorar a magia desses mundos para ganho pessoal.",
+    "text_en": "Villains seek to exploit the magic of these worlds for personal gain.",
+    "audio_en_storage_path": "1003_villains_seek_to_exploit_the_magic_of_these_worlds_for_personal_gain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131004",
+    "text_pt": "Suas ações ameaçam destruir o delicado equilíbrio da natureza.",
+    "text_en": "Their actions threaten to destroy the delicate balance of nature.",
+    "audio_en_storage_path": "1004_their_actions_threaten_to_destroy_the_delicate_balance_of_nature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131005",
+    "text_pt": "Os festivais culturais celebram a diversidade das sociedades mágicas.",
+    "text_en": "Cultural festivals celebrate the diversity of magical societies.",
+    "audio_en_storage_path": "1005_cultural_festivals_celebrate_the_diversity_of_magical_societies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131006",
+    "text_pt": "Música, dança e rituais honram espíritos e tradições ancestrais.",
+    "text_en": "Music. dance. and rituals honor ancestral spirits and traditions.",
+    "audio_en_storage_path": "1006_music_dance_and_rituals_honor_ancestral_spirits_and_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131007",
+    "text_pt": "Os artefatos possuem um poder imenso dentro desses reinos.",
+    "text_en": "Artifacts hold immense power within these realms.",
+    "audio_en_storage_path": "1007_artifacts_hold_immense_power_within_these_realms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131008",
+    "text_pt": "Espadas, amuletos e relíquias servem como chaves para desvendar o destino.",
+    "text_en": "Swords. amulets. and relics serve as keys to unlocking destiny.",
+    "audio_en_storage_path": "1008_swords_amulets_and_relics_serve_as_keys_to_unlocking_destiny.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131009",
+    "text_pt": "Mundos paralelos inspiram o público a sonhar além dos limites da realidade.",
+    "text_en": "Parallel worlds inspire audiences to dream beyond the confines of reality.",
+    "audio_en_storage_path": "1009_parallel_worlds_inspire_audiences_to_dream_beyond_the_confines_of_reality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131010",
+    "text_pt": "Eles nos lembram que a imaginação não tem limites.",
+    "text_en": "They remind us that imagination knows no bounds.",
+    "audio_en_storage_path": "1010_they_remind_us_that_imagination_knows_no_bounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131011",
+    "text_pt": "Heróis e vilões arquetípicos: figuras lendárias como magos, guerreiros ou criaturas fantásticas.",
+    "text_en": "Archetypal Heroes and Villains: Legendary Figures Like Wizards. Warriors. or Fantastic Creatures",
+    "audio_en_storage_path": "1011_archetypal_heroes_and_villains_legendary_figures_like_wizards_warriors_or_fantastic_creatures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131012",
+    "text_pt": "Heróis arquetípicos personificam ideais atemporais de coragem e virtude.",
+    "text_en": "Archetypal heroes embody timeless ideals of courage and virtue.",
+    "audio_en_storage_path": "1012_archetypal_heroes_embody_timeless_ideals_of_courage_and_virtue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131013",
+    "text_pt": "Eles surgem de origens humildes para cumprir grandes destinos.",
+    "text_en": "They rise from humble beginnings to fulfill grand destinies.",
+    "audio_en_storage_path": "1013_they_rise_from_humble_beginnings_to_fulfill_grand_destinies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131014",
+    "text_pt": "Os magos possuem imensos poderes mágicos, mas carregam grandes responsabilidades.",
+    "text_en": "Wizards wield immense magical powers but bear great responsibility.",
+    "audio_en_storage_path": "1014_wizards_wield_immense_magical_powers_but_bear_great_responsibility.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131015",
+    "text_pt": "Sua sabedoria guia os aliados através de provações e tribulações.",
+    "text_en": "Their wisdom guides allies through trials and tribulations.",
+    "audio_en_storage_path": "1015_their_wisdom_guides_allies_through_trials_and_tribulations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131016",
+    "text_pt": "Guerreiros exemplificam força, honra e determinação inabalável.",
+    "text_en": "Warriors exemplify strength. honor. and unwavering determination.",
+    "audio_en_storage_path": "1016_warriors_exemplify_strength_honor_and_unwavering_determination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131017",
+    "text_pt": "Eles enfrentam obstáculos intransponíveis sem vacilar em sua determinação.",
+    "text_en": "They face insurmountable odds without faltering in their resolve.",
+    "audio_en_storage_path": "1017_they_face_insurmountable_odds_without_faltering_in_their_resolve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131018",
+    "text_pt": "Os vilões representam os aspectos mais sombrios da natureza humana.",
+    "text_en": "Villains represent the darker aspects of human nature.",
+    "audio_en_storage_path": "1018_villains_represent_the_darker_aspects_of_human_nature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131019",
+    "text_pt": "Ambição, ciúme e crueldade impulsionam sua sede de dominação.",
+    "text_en": "Ambition. jealousy. and cruelty drive their thirst for domination.",
+    "audio_en_storage_path": "1019_ambition_jealousy_and_cruelty_drive_their_thirst_for_domination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131020",
+    "text_pt": "Dragões simbolizam forças primordiais de destruição e renascimento.",
+    "text_en": "Dragons symbolize primal forces of destruction and rebirth.",
+    "audio_en_storage_path": "1020_dragons_symbolize_primal_forces_of_destruction_and_rebirth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131021",
+    "text_pt": "Alguns são adversários temíveis, enquanto outros se tornam aliados improváveis.",
+    "text_en": "Some are fearsome adversaries. while others become unlikely allies.",
+    "audio_en_storage_path": "1021_some_are_fearsome_adversaries_while_others_become_unlikely_allies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131022",
+    "text_pt": "Os cavaleiros defendem códigos de cavalheirismo, protegendo os inocentes e vulneráveis.",
+    "text_en": "Knights uphold codes of chivalry. protecting the innocent and vulnerable.",
+    "audio_en_storage_path": "1022_knights_uphold_codes_of_chivalry_protecting_the_innocent_and_vulnerable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131023",
+    "text_pt": "Sua lealdade e bravura lhes rendem status lendário.",
+    "text_en": "Their loyalty and bravery earn them legendary status.",
+    "audio_en_storage_path": "1023_their_loyalty_and_bravery_earn_them_legendary_status.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131024",
+    "text_pt": "Feiticeiros malignos manipulam forças obscuras para atingir seus objetivos.",
+    "text_en": "Evil sorcerers manipulate dark forces to achieve their goals.",
+    "audio_en_storage_path": "1024_evil_sorcerers_manipulate_dark_forces_to_achieve_their_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131025",
+    "text_pt": "Seus feitiços corrompem a terra e escravizam seus habitantes.",
+    "text_en": "Their spells corrupt the land and enslave its inhabitants.",
+    "audio_en_storage_path": "1025_their_spells_corrupt_the_land_and_enslave_its_inhabitants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131026",
+    "text_pt": "Os ajudantes proporcionam alívio cômico e apoio emocional aos protagonistas.",
+    "text_en": "Sidekicks provide comic relief and emotional support to protagonists.",
+    "audio_en_storage_path": "1026_sidekicks_provide_comic_relief_and_emotional_support_to_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131027",
+    "text_pt": "Eles provam que mesmo pequenas contribuições podem fazer uma grande diferença.",
+    "text_en": "They prove that even small contributions can make a big difference.",
+    "audio_en_storage_path": "1027_they_prove_that_even_small_contributions_can_make_a_big_difference.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131028",
+    "text_pt": "Mentores guiam jovens heróis em seus caminhos rumo à grandeza.",
+    "text_en": "Mentors guide young heroes on their paths to greatness.",
+    "audio_en_storage_path": "1028_mentors_guide_young_heroes_on_their_paths_to_greatness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131029",
+    "text_pt": "Seus ensinamentos preparam sucessores para enfrentar desafios futuros.",
+    "text_en": "Their teachings prepare successors to face future challenges.",
+    "audio_en_storage_path": "1029_their_teachings_prepare_successors_to_face_future_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131030",
+    "text_pt": "Os anti-heróis confundem a linha entre o bem e o mal.",
+    "text_en": "Anti-heroes blur the line between good and evil.",
+    "audio_en_storage_path": "1030_antiheroes_blur_the_line_between_good_and_evil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131031",
+    "text_pt": "Suas ações moralmente ambíguas desafiam noções tradicionais de heroísmo.",
+    "text_en": "Their morally ambiguous actions challenge traditional notions of heroism.",
+    "audio_en_storage_path": "1031_their_morally_ambiguous_actions_challenge_traditional_notions_of_heroism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131032",
+    "text_pt": "O destino desempenha um papel significativo na vida de figuras arquetípicas.",
+    "text_en": "Fate plays a significant role in the lives of archetypal figures.",
+    "audio_en_storage_path": "1032_fate_plays_a_significant_role_in_the_lives_of_archetypal_figures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131033",
+    "text_pt": "Profecias predizem seus triunfos e tragédias.",
+    "text_en": "Prophecies foretell their triumphs and tragedies.",
+    "audio_en_storage_path": "1033_prophecies_foretell_their_triumphs_and_tragedies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131034",
+    "text_pt": "Aliados formam laços de lealdade e confiança durante aventuras perigosas.",
+    "text_en": "Allies form bonds of loyalty and trust during perilous adventures.",
+    "audio_en_storage_path": "1034_allies_form_bonds_of_loyalty_and_trust_during_perilous_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131035",
+    "text_pt": "Juntos, eles superam obstáculos grandes demais para qualquer pessoa.",
+    "text_en": "Together. they overcome obstacles too great for any one person.",
+    "audio_en_storage_path": "1035_together_they_overcome_obstacles_too_great_for_any_one_person.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131036",
+    "text_pt": "A traição dói profundamente quando vem de companheiros confiáveis.",
+    "text_en": "Betrayal stings deeply when it comes from trusted companions.",
+    "audio_en_storage_path": "1036_betrayal_stings_deeply_when_it_comes_from_trusted_companions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131037",
+    "text_pt": "Alianças quebradas levam a consequências devastadoras para ambos os lados.",
+    "text_en": "Broken alliances lead to devastating consequences for both sides.",
+    "audio_en_storage_path": "1037_broken_alliances_lead_to_devastating_consequences_for_both_sides.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131038",
+    "text_pt": "Monstros testam os limites da coragem e engenhosidade de um herói.",
+    "text_en": "Monsters test the limits of a hero’s courage and ingenuity.",
+    "audio_en_storage_path": "1038_monsters_test_the_limits_of_a_heros_courage_and_ingenuity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131039",
+    "text_pt": "Derrotá-los exige estratégia, trabalho em equipe e perseverança.",
+    "text_en": "Defeating them requires strategy. teamwork. and perseverance.",
+    "audio_en_storage_path": "1039_defeating_them_requires_strategy_teamwork_and_perseverance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131040",
+    "text_pt": "Criaturas míticas como centauros, sereias e fênix enriquecem a narrativa.",
+    "text_en": "Mythical creatures like centaurs. mermaids. and phoenixes enrich the narrative.",
+    "audio_en_storage_path": "1040_mythical_creatures_like_centaurs_mermaids_and_phoenixes_enrich_the_narrative.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131041",
+    "text_pt": "Eles dão vida a elementos do folclore e da lenda.",
+    "text_en": "They bring elements of folklore and legend to life.",
+    "audio_en_storage_path": "1041_they_bring_elements_of_folklore_and_legend_to_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131042",
+    "text_pt": "Os vilões geralmente possuem histórias trágicas que explicam sua descida à escuridão.",
+    "text_en": "Villains often possess tragic backstories that explain their descent into darkness.",
+    "audio_en_storage_path": "1042_villains_often_possess_tragic_backstories_that_explain_their_descent_into_darkness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131043",
+    "text_pt": "Entender a dor deles os humaniza, mesmo que brevemente.",
+    "text_en": "Understanding their pain humanizes them. if only briefly.",
+    "audio_en_storage_path": "1043_understanding_their_pain_humanizes_them_if_only_briefly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131044",
+    "text_pt": "Os heróis passam por jornadas transformadoras que moldam seu caráter.",
+    "text_en": "Heroes undergo transformative journeys that shape their character.",
+    "audio_en_storage_path": "1044_heroes_undergo_transformative_journeys_that_shape_their_character.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131045",
+    "text_pt": "As provações os transformam em versões mais fortes e sábias de si mesmos.",
+    "text_en": "Trials forge them into stronger. wiser versions of themselves.",
+    "audio_en_storage_path": "1045_trials_forge_them_into_stronger_wiser_versions_of_themselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131046",
+    "text_pt": "O sacrifício é um tema recorrente entre os heróis arquetípicos.",
+    "text_en": "Sacrifice is a recurring theme among archetypal heroes.",
+    "audio_en_storage_path": "1046_sacrifice_is_a_recurring_theme_among_archetypal_heroes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131047",
+    "text_pt": "Eles desistem de tudo para proteger aqueles que amam e estimam.",
+    "text_en": "They give up everything to protect those they love and cherish.",
+    "audio_en_storage_path": "1047_they_give_up_everything_to_protect_those_they_love_and_cherish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131048",
+    "text_pt": "Arcos de redenção oferecem aos vilões uma chance de perdão e renovação.",
+    "text_en": "Redemption arcs offer villains a chance at forgiveness and renewal.",
+    "audio_en_storage_path": "1048_redemption_arcs_offer_villains_a_chance_at_forgiveness_and_renewal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131049",
+    "text_pt": "Escolher o caminho da luz redime até as almas mais irredimíveis.",
+    "text_en": "Choosing the path of light redeems even the most irredeemable souls.",
+    "audio_en_storage_path": "1049_choosing_the_path_of_light_redeems_even_the_most_irredeemable_souls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131050",
+    "text_pt": "Batalhas épicas colocam heróis contra vilões em confrontos decisivos.",
+    "text_en": "Epic battles pit heroes against villains in climactic showdowns.",
+    "audio_en_storage_path": "1050_epic_battles_pit_heroes_against_villains_in_climactic_showdowns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131051",
+    "text_pt": "O destino de mundos inteiros fica em jogo durante esses confrontos.",
+    "text_en": "The fate of entire worlds hangs in the balance during these confrontations.",
+    "audio_en_storage_path": "1051_the_fate_of_entire_worlds_hangs_in_the_balance_during_these_confrontations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131052",
+    "text_pt": "Imagens simbólicas reforçam os papéis de heróis e vilões.",
+    "text_en": "Symbolic imagery reinforces the roles of heroes and villains.",
+    "audio_en_storage_path": "1052_symbolic_imagery_reinforces_the_roles_of_heroes_and_villains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131053",
+    "text_pt": "A luz representa esperança e pureza, enquanto a sombra significa medo e corrupção.",
+    "text_en": "Light represents hope and purity. while shadow signifies fear and corruption.",
+    "audio_en_storage_path": "1053_light_represents_hope_and_purity_while_shadow_signifies_fear_and_corruption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131054",
+    "text_pt": "Os arquétipos ressoam porque recorrem a tradições universais de narrativa.",
+    "text_en": "Archetypes resonate because they tap into universal storytelling traditions.",
+    "audio_en_storage_path": "1054_archetypes_resonate_because_they_tap_into_universal_storytelling_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131055",
+    "text_pt": "Eles nos lembram da eterna luta entre o bem e o mal.",
+    "text_en": "They remind us of the eternal struggle between good and evil.",
+    "audio_en_storage_path": "1055_they_remind_us_of_the_eternal_struggle_between_good_and_evil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,839 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130120",
+    "text_pt": "Amizade: Exploração de laços profundos entre amigos",
+    "text_en": "Friendship: Exploration of Deep Bonds Between Friends",
+    "audio_en_storage_path": "120_friendship_exploration_of_deep_bonds_between_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130121",
+    "text_pt": "A amizade é um dos relacionamentos mais significativos na vida humana.",
+    "text_en": "Friendship is one of the most meaningful relationships in human life.",
+    "audio_en_storage_path": "121_friendship_is_one_of_the_most_meaningful_relationships_in_human_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130122",
+    "text_pt": "Ela é construída com base na confiança, no respeito mútuo e em experiências compartilhadas.",
+    "text_en": "It is built on trust. mutual respect. and shared experiences.",
+    "audio_en_storage_path": "122_it_is_built_on_trust_mutual_respect_and_shared_experiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130123",
+    "text_pt": "Nos filmes, a amizade é frequentemente retratada como uma fonte de força e apoio.",
+    "text_en": "In films. friendship is often portrayed as a source of strength and support.",
+    "audio_en_storage_path": "123_in_films_friendship_is_often_portrayed_as_a_source_of_strength_and_support.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130124",
+    "text_pt": "Os amigos estão lá uns para os outros nos momentos bons e ruins.",
+    "text_en": "Friends are there for each other during both good and bad times.",
+    "audio_en_storage_path": "124_friends_are_there_for_each_other_during_both_good_and_bad_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130125",
+    "text_pt": "A verdadeira amizade é definida pela lealdade e comprometimento inabalável.",
+    "text_en": "True friendship is defined by loyalty and unwavering commitment.",
+    "audio_en_storage_path": "125_true_friendship_is_defined_by_loyalty_and_unwavering_commitment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130126",
+    "text_pt": "É um vínculo que pode suportar até os desafios mais difíceis.",
+    "text_en": "It is a bond that can withstand even the toughest challenges.",
+    "audio_en_storage_path": "126_it_is_a_bond_that_can_withstand_even_the_toughest_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130127",
+    "text_pt": "Histórias de amizade geralmente começam com um encontro ou conexão inesperada.",
+    "text_en": "Friendship stories often begin with an unexpected meeting or connection.",
+    "audio_en_storage_path": "127_friendship_stories_often_begin_with_an_unexpected_meeting_or_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130128",
+    "text_pt": "Duas pessoas de mundos diferentes podem formar um vínculo inquebrável.",
+    "text_en": "Two people from different worlds can form an unbreakable bond.",
+    "audio_en_storage_path": "128_two_people_from_different_worlds_can_form_an_unbreakable_bond.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130129",
+    "text_pt": "Lutas compartilhadas muitas vezes aproximam os amigos.",
+    "text_en": "Shared struggles often bring friends closer together.",
+    "audio_en_storage_path": "129_shared_struggles_often_bring_friends_closer_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130130",
+    "text_pt": "Superar obstáculos fortalece o relacionamento e aprofunda a confiança.",
+    "text_en": "Overcoming obstacles strengthens their relationship and deepens trust.",
+    "audio_en_storage_path": "130_overcoming_obstacles_strengthens_their_relationship_and_deepens_trust.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130131",
+    "text_pt": "Os amigos muitas vezes servem como espelhos, refletindo os pontos fortes e fracos um do outro.",
+    "text_en": "Friends often serve as mirrors. reflecting each other’s strengths and flaws.",
+    "audio_en_storage_path": "131_friends_often_serve_as_mirrors_reflecting_each_others_strengths_and_flaws.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130132",
+    "text_pt": "Eles ajudam um ao outro a crescer e se tornar versões melhores de si mesmos.",
+    "text_en": "They help each other grow and become better versions of themselves.",
+    "audio_en_storage_path": "132_they_help_each_other_grow_and_become_better_versions_of_themselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130133",
+    "text_pt": "O humor é um elemento-chave em muitas histórias de amizade.",
+    "text_en": "Humor is a key element in many friendship stories.",
+    "audio_en_storage_path": "133_humor_is_a_key_element_in_many_friendship_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130134",
+    "text_pt": "O riso ajuda os amigos a superar situações difíceis e a permanecer unidos.",
+    "text_en": "Laughter helps friends navigate difficult situations and stay united.",
+    "audio_en_storage_path": "134_laughter_helps_friends_navigate_difficult_situations_and_stay_united.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130135",
+    "text_pt": "A traição é um conflito comum em narrativas de amizade.",
+    "text_en": "Betrayal is a common conflict in friendship narratives.",
+    "audio_en_storage_path": "135_betrayal_is_a_common_conflict_in_friendship_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130136",
+    "text_pt": "Uma confiança quebrada pode testar os limites até dos laços mais fortes.",
+    "text_en": "A broken trust can test the limits of even the strongest bonds.",
+    "audio_en_storage_path": "136_a_broken_trust_can_test_the_limits_of_even_the_strongest_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130137",
+    "text_pt": "A reconciliação é um momento poderoso nas histórias de amizade.",
+    "text_en": "Reconciliation is a powerful moment in friendship stories.",
+    "audio_en_storage_path": "137_reconciliation_is_a_powerful_moment_in_friendship_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130138",
+    "text_pt": "Ela mostra como o perdão e a compreensão podem curar feridas.",
+    "text_en": "It shows how forgiveness and understanding can heal wounds.",
+    "audio_en_storage_path": "138_it_shows_how_forgiveness_and_understanding_can_heal_wounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130139",
+    "text_pt": "A amizade muitas vezes envolve sacrifício e colocar os outros em primeiro lugar.",
+    "text_en": "Friendship often involves sacrifice and putting others first.",
+    "audio_en_storage_path": "139_friendship_often_involves_sacrifice_and_putting_others_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130140",
+    "text_pt": "Os personagens aprendem a priorizar as necessidades dos amigos em detrimento dos seus próprios desejos.",
+    "text_en": "Characters learn to prioritize their friends’ needs over their own desires.",
+    "audio_en_storage_path": "140_characters_learn_to_prioritize_their_friends_needs_over_their_own_desires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130141",
+    "text_pt": "Lealdade é um tema central em histórias sobre amizade.",
+    "text_en": "Loyalty is a central theme in stories about friendship.",
+    "audio_en_storage_path": "141_loyalty_is_a_central_theme_in_stories_about_friendship.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130142",
+    "text_pt": "Amigos apoiam uns aos outros mesmo quando é inconveniente ou arriscado.",
+    "text_en": "Friends stand by each other even when it’s inconvenient or risky.",
+    "audio_en_storage_path": "142_friends_stand_by_each_other_even_when_its_inconvenient_or_risky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130143",
+    "text_pt": "Algumas amizades são formadas por necessidade ou sobrevivência.",
+    "text_en": "Some friendships are formed out of necessity or survival.",
+    "audio_en_storage_path": "143_some_friendships_are_formed_out_of_necessity_or_survival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130144",
+    "text_pt": "Os personagens dependem uns dos outros para superar ameaças ou perigos externos.",
+    "text_en": "Characters rely on each other to overcome external threats or dangers.",
+    "audio_en_storage_path": "144_characters_rely_on_each_other_to_overcome_external_threats_or_dangers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130145",
+    "text_pt": "Amizades de infância são frequentemente retratadas como puras e inocentes.",
+    "text_en": "Childhood friendships are often depicted as pure and innocent.",
+    "audio_en_storage_path": "145_childhood_friendships_are_often_depicted_as_pure_and_innocent.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130146",
+    "text_pt": "Elas nos lembram da alegria e da simplicidade das primeiras conexões.",
+    "text_en": "They remind us of the joy and simplicity of early connections.",
+    "audio_en_storage_path": "146_they_remind_us_of_the_joy_and_simplicity_of_early_connections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130147",
+    "text_pt": "Amizades adultas enfrentam desafios e responsabilidades mais complexos.",
+    "text_en": "Adult friendships face more complex challenges and responsibilities.",
+    "audio_en_storage_path": "147_adult_friendships_face_more_complex_challenges_and_responsibilities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130148",
+    "text_pt": "Equilibrar trabalho, família e amizades pode ser difícil, mas gratificante.",
+    "text_en": "Balancing work. family. and friendship can be difficult but rewarding.",
+    "audio_en_storage_path": "148_balancing_work_family_and_friendship_can_be_difficult_but_rewarding.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130149",
+    "text_pt": "Histórias de amizade geralmente destacam a importância da comunicação.",
+    "text_en": "Friendship stories often highlight the importance of communication.",
+    "audio_en_storage_path": "149_friendship_stories_often_highlight_the_importance_of_communication.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130150",
+    "text_pt": "O diálogo aberto e honesto ajuda a resolver conflitos e mal-entendidos.",
+    "text_en": "Open and honest dialogue helps resolve conflicts and misunderstandings.",
+    "audio_en_storage_path": "150_open_and_honest_dialogue_helps_resolve_conflicts_and_misunderstandings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130151",
+    "text_pt": "Memórias compartilhadas são a base de amizades fortes.",
+    "text_en": "Shared memories are a cornerstone of strong friendships.",
+    "audio_en_storage_path": "151_shared_memories_are_a_cornerstone_of_strong_friendships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130152",
+    "text_pt": "Momentos passados ​​juntos criam laços que duram a vida toda.",
+    "text_en": "Moments spent together create bonds that last a lifetime.",
+    "audio_en_storage_path": "152_moments_spent_together_create_bonds_that_last_a_lifetime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130153",
+    "text_pt": "Filmes de amizade geralmente exploram a ideia de família escolhida.",
+    "text_en": "Friendship films often explore the idea of chosen family.",
+    "audio_en_storage_path": "153_friendship_films_often_explore_the_idea_of_chosen_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130154",
+    "text_pt": "Amigos se tornam a família que escolhemos, preenchendo vazios deixados por laços de sangue.",
+    "text_en": "Friends become the family we choose. filling voids left by blood ties.",
+    "audio_en_storage_path": "154_friends_become_the_family_we_choose_filling_voids_left_by_blood_ties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130155",
+    "text_pt": "Diferenças culturais podem enriquecer amizades e ampliar perspectivas.",
+    "text_en": "Cultural differences can enrich friendships and broaden perspectives.",
+    "audio_en_storage_path": "155_cultural_differences_can_enrich_friendships_and_broaden_perspectives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130156",
+    "text_pt": "Aprender com as experiências uns dos outros fortalece a conexão entre eles.",
+    "text_en": "Learning from each other’s backgrounds strengthens their connection.",
+    "audio_en_storage_path": "156_learning_from_each_others_backgrounds_strengthens_their_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130157",
+    "text_pt": "Histórias de amizade muitas vezes retratam a dor de se distanciar.",
+    "text_en": "Friendship stories often depict the pain of growing apart.",
+    "audio_en_storage_path": "157_friendship_stories_often_depict_the_pain_of_growing_apart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130158",
+    "text_pt": "Mudanças na vida podem desgastar até mesmo os relacionamentos mais próximos.",
+    "text_en": "Life changes can strain even the closest of relationships.",
+    "audio_en_storage_path": "158_life_changes_can_strain_even_the_closest_of_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130159",
+    "text_pt": "No entanto, os verdadeiros amigos sempre encontram o caminho de volta um para o outro.",
+    "text_en": "However. true friends always find their way back to each other.",
+    "audio_en_storage_path": "159_however_true_friends_always_find_their_way_back_to_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130160",
+    "text_pt": "Reconectar-se depois de anos separados parece que o tempo não passou.",
+    "text_en": "Reconnecting after years apart feels like no time has passed at all.",
+    "audio_en_storage_path": "160_reconnecting_after_years_apart_feels_like_no_time_has_passed_at_all.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130161",
+    "text_pt": "A amizade é frequentemente retratada como um espaço seguro para a vulnerabilidade.",
+    "text_en": "Friendship is often portrayed as a safe space for vulnerability.",
+    "audio_en_storage_path": "161_friendship_is_often_portrayed_as_a_safe_space_for_vulnerability.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130162",
+    "text_pt": "Amigos ouvem sem julgar e oferecem conforto em momentos de necessidade.",
+    "text_en": "Friends listen without judgment and offer comfort in times of need.",
+    "audio_en_storage_path": "162_friends_listen_without_judgment_and_offer_comfort_in_times_of_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130163",
+    "text_pt": "Aventuras e jornadas são cenários comuns em histórias de amizade.",
+    "text_en": "Adventures and journeys are common settings in friendship stories.",
+    "audio_en_storage_path": "163_adventures_and_journeys_are_common_settings_in_friendship_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130164",
+    "text_pt": "Explorar o mundo juntos cria memórias inesquecíveis.",
+    "text_en": "Exploring the world together creates unforgettable memories.",
+    "audio_en_storage_path": "164_exploring_the_world_together_creates_unforgettable_memories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130165",
+    "text_pt": "Os conflitos nas amizades muitas vezes têm sua origem em ciúmes ou insegurança.",
+    "text_en": "Conflict within friendships is often rooted in jealousy or insecurity.",
+    "audio_en_storage_path": "165_conflict_within_friendships_is_often_rooted_in_jealousy_or_insecurity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130166",
+    "text_pt": "Mal-entendidos podem levar a desentendimentos temporários entre amigos.",
+    "text_en": "Misunderstandings can lead to temporary rifts between friends.",
+    "audio_en_storage_path": "166_misunderstandings_can_lead_to_temporary_rifts_between_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130167",
+    "text_pt": "O perdão é um tema recorrente nas narrativas de amizade.",
+    "text_en": "Forgiveness is a recurring theme in friendship narratives.",
+    "audio_en_storage_path": "167_forgiveness_is_a_recurring_theme_in_friendship_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130168",
+    "text_pt": "Deixar de lado os ressentimentos permite que os amigos sigam em frente e reconstruam a confiança.",
+    "text_en": "Letting go of grudges allows friends to move forward and rebuild trust.",
+    "audio_en_storage_path": "168_letting_go_of_grudges_allows_friends_to_move_forward_and_rebuild_trust.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130169",
+    "text_pt": "Histórias de amizade geralmente enfatizam o valor da diversidade.",
+    "text_en": "Friendship stories often emphasize the value of diversity.",
+    "audio_en_storage_path": "169_friendship_stories_often_emphasize_the_value_of_diversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130170",
+    "text_pt": "Amigos de diferentes estilos de vida trazem perspectivas únicas ao vínculo.",
+    "text_en": "Friends from different walks of life bring unique perspectives to the bond.",
+    "audio_en_storage_path": "170_friends_from_different_walks_of_life_bring_unique_perspectives_to_the_bond.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130171",
+    "text_pt": "O trabalho em equipe é um elemento-chave em muitos filmes focados na amizade.",
+    "text_en": "Teamwork is a key element in many friendship-focused films.",
+    "audio_en_storage_path": "171_teamwork_is_a_key_element_in_many_friendshipfocused_films.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130172",
+    "text_pt": "Amigos combinam suas forças para atingir objetivos comuns.",
+    "text_en": "Friends combine their strengths to achieve common goals.",
+    "audio_en_storage_path": "172_friends_combine_their_strengths_to_achieve_common_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130173",
+    "text_pt": "A amizade ensina aos personagens a importância da empatia e da compaixão.",
+    "text_en": "Friendship teaches characters the importance of empathy and compassion.",
+    "audio_en_storage_path": "173_friendship_teaches_characters_the_importance_of_empathy_and_compassion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130174",
+    "text_pt": "Compreender as dificuldades de outra pessoa aprofunda a conexão emocional.",
+    "text_en": "Understanding someone else’s struggles deepens the emotional connection.",
+    "audio_en_storage_path": "174_understanding_someone_elses_struggles_deepens_the_emotional_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130175",
+    "text_pt": "Histórias de amizade geralmente celebram a alegria da aceitação incondicional.",
+    "text_en": "Friendship stories often celebrate the joy of unconditional acceptance.",
+    "audio_en_storage_path": "175_friendship_stories_often_celebrate_the_joy_of_unconditional_acceptance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130176",
+    "text_pt": "Os amigos se amam pelo que são, com defeitos e tudo.",
+    "text_en": "Friends love each other for who they are. flaws and all.",
+    "audio_en_storage_path": "176_friends_love_each_other_for_who_they_are_flaws_and_all.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130177",
+    "text_pt": "A amizade é uma fonte de inspiração e motivação.",
+    "text_en": "Friendship is a source of inspiration and motivation.",
+    "audio_en_storage_path": "177_friendship_is_a_source_of_inspiration_and_motivation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130178",
+    "text_pt": "Amigos encorajam uns aos outros a perseguir sonhos e correr riscos.",
+    "text_en": "Friends encourage each other to pursue dreams and take risks.",
+    "audio_en_storage_path": "178_friends_encourage_each_other_to_pursue_dreams_and_take_risks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130179",
+    "text_pt": "Algumas amizades são construídas diante da adversidade.",
+    "text_en": "Some friendships are forged in the face of adversity.",
+    "audio_en_storage_path": "179_some_friendships_are_forged_in_the_face_of_adversity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130180",
+    "text_pt": "Sobreviver às dificuldades juntos cria um vínculo inabalável.",
+    "text_en": "Surviving hardships together creates an unshakable bond.",
+    "audio_en_storage_path": "180_surviving_hardships_together_creates_an_unshakable_bond.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130181",
+    "text_pt": "Filmes de amizade geralmente usam o humor para amenizar momentos sérios.",
+    "text_en": "Friendship films often use humor to lighten serious moments.",
+    "audio_en_storage_path": "181_friendship_films_often_use_humor_to_lighten_serious_moments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130182",
+    "text_pt": "Brincadeiras engraçadas e provocações divertidas realçam o conforto entre amigos.",
+    "text_en": "Funny banter and playful teasing highlight the comfort between friends.",
+    "audio_en_storage_path": "182_funny_banter_and_playful_teasing_highlight_the_comfort_between_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130183",
+    "text_pt": "Gestos simbólicos, como presentes ou pequenos atos de gentileza, fortalecem laços.",
+    "text_en": "Symbolic gestures. like gifts or small acts of kindness. strengthen bonds.",
+    "audio_en_storage_path": "183_symbolic_gestures_like_gifts_or_small_acts_of_kindness_strengthen_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130184",
+    "text_pt": "Eles mostram o quanto os amigos se importam, mesmo de maneiras sutis.",
+    "text_en": "They show how much friends care. even in subtle ways.",
+    "audio_en_storage_path": "184_they_show_how_much_friends_care_even_in_subtle_ways.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130185",
+    "text_pt": "Histórias de amizade geralmente exploram o tema do altruísmo.",
+    "text_en": "Friendship stories often explore the theme of selflessness.",
+    "audio_en_storage_path": "185_friendship_stories_often_explore_the_theme_of_selflessness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130186",
+    "text_pt": "Os personagens colocam a felicidade dos amigos acima dos seus próprios interesses.",
+    "text_en": "Characters put their friends’ happiness above their own interests.",
+    "audio_en_storage_path": "186_characters_put_their_friends_happiness_above_their_own_interests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130187",
+    "text_pt": "A amizade é um lembrete de que ninguém deve enfrentar a vida sozinho.",
+    "text_en": "Friendship is a reminder that no one should face life alone.",
+    "audio_en_storage_path": "187_friendship_is_a_reminder_that_no_one_should_face_life_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130188",
+    "text_pt": "Ter alguém em quem se apoiar torna os desafios mais fáceis de suportar.",
+    "text_en": "Having someone to lean on makes challenges easier to bear.",
+    "audio_en_storage_path": "188_having_someone_to_lean_on_makes_challenges_easier_to_bear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130189",
+    "text_pt": "Filmes de amizade geralmente retratam a beleza de paixões compartilhadas.",
+    "text_en": "Friendship films often depict the beauty of shared passions.",
+    "audio_en_storage_path": "189_friendship_films_often_depict_the_beauty_of_shared_passions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130190",
+    "text_pt": "Hobbies e interesses unem os amigos e aprofundam sua conexão.",
+    "text_en": "Hobbies and interests bring friends together and deepen their connection.",
+    "audio_en_storage_path": "190_hobbies_and_interests_bring_friends_together_and_deepen_their_connection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130191",
+    "text_pt": "Histórias de amizade geralmente destacam a importância da paciência.",
+    "text_en": "Friendship stories often highlight the importance of patience.",
+    "audio_en_storage_path": "191_friendship_stories_often_highlight_the_importance_of_patience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130192",
+    "text_pt": "Entender e aceitar as diferenças leva tempo e esforço.",
+    "text_en": "Understanding and accepting differences takes time and effort.",
+    "audio_en_storage_path": "192_understanding_and_accepting_differences_takes_time_and_effort.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130193",
+    "text_pt": "A amizade é uma via de mão dupla que exige dar e receber.",
+    "text_en": "Friendship is a two-way street that requires give and take.",
+    "audio_en_storage_path": "193_friendship_is_a_twoway_street_that_requires_give_and_take.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130194",
+    "text_pt": "Ambas as partes devem investir igualmente para manter o relacionamento.",
+    "text_en": "Both parties must invest equally to maintain the relationship.",
+    "audio_en_storage_path": "194_both_parties_must_invest_equally_to_maintain_the_relationship.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130195",
+    "text_pt": "Filmes de amizade geralmente exploram o tema de lealdade versus traição.",
+    "text_en": "Friendship films often explore the theme of loyalty versus betrayal.",
+    "audio_en_storage_path": "195_friendship_films_often_explore_the_theme_of_loyalty_versus_betrayal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130196",
+    "text_pt": "Os personagens devem escolher entre permanecer fiéis ou ceder à tentação.",
+    "text_en": "Characters must choose between staying true or giving in to temptation.",
+    "audio_en_storage_path": "196_characters_must_choose_between_staying_true_or_giving_in_to_temptation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130197",
+    "text_pt": "Histórias de amizade muitas vezes retratam a magia de encontros fortuitos.",
+    "text_en": "Friendship stories often depict the magic of serendipitous encounters.",
+    "audio_en_storage_path": "197_friendship_stories_often_depict_the_magic_of_serendipitous_encounters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130198",
+    "text_pt": "Conhecer a pessoa certa na hora certa muda tudo.",
+    "text_en": "Meeting the right person at the right time changes everything.",
+    "audio_en_storage_path": "198_meeting_the_right_person_at_the_right_time_changes_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130199",
+    "text_pt": "A amizade ensina aos personagens o valor do apoio incondicional.",
+    "text_en": "Friendship teaches characters the value of unconditional support.",
+    "audio_en_storage_path": "199_friendship_teaches_characters_the_value_of_unconditional_support.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130200",
+    "text_pt": "Saber que alguém sempre estará ao seu lado é incrivelmente reconfortante.",
+    "text_en": "Knowing someone will always have your back is incredibly comforting.",
+    "audio_en_storage_path": "200_knowing_someone_will_always_have_your_back_is_incredibly_comforting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130201",
+    "text_pt": "Histórias de amizade geralmente enfatizam a importância da gratidão.",
+    "text_en": "Friendship stories often emphasize the importance of gratitude.",
+    "audio_en_storage_path": "201_friendship_stories_often_emphasize_the_importance_of_gratitude.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130202",
+    "text_pt": "Valorizar os amigos nos lembra o quanto somos sortudos por tê-los.",
+    "text_en": "Appreciating friends reminds us of how lucky we are to have them.",
+    "audio_en_storage_path": "202_appreciating_friends_reminds_us_of_how_lucky_we_are_to_have_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130203",
+    "text_pt": "Filmes de amizade geralmente terminam com uma sensação de esperança e renovação.",
+    "text_en": "Friendship films often end with a sense of hope and renewal.",
+    "audio_en_storage_path": "203_friendship_films_often_end_with_a_sense_of_hope_and_renewal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130204",
+    "text_pt": "Mesmo depois dos conflitos, os amigos encontram maneiras de se reconectar e reconstruir.",
+    "text_en": "Even after conflicts. friends find ways to reconnect and rebuild.",
+    "audio_en_storage_path": "204_even_after_conflicts_friends_find_ways_to_reconnect_and_rebuild.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130205",
+    "text_pt": "A amizade é um vínculo que transcende o tempo e a distância.",
+    "text_en": "Friendship is a bond that transcends time and distance.",
+    "audio_en_storage_path": "205_friendship_is_a_bond_that_transcends_time_and_distance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130206",
+    "text_pt": "Não importa a distância, os verdadeiros amigos sempre permanecem próximos no coração.",
+    "text_en": "No matter how far apart. true friends always remain close at heart.",
+    "audio_en_storage_path": "206_no_matter_how_far_apart_true_friends_always_remain_close_at_heart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130207",
+    "text_pt": "Histórias de amizade nos lembram que a vida é melhor com amigos ao nosso lado.",
+    "text_en": "Friendship stories remind us that life is better with friends by our side.",
+    "audio_en_storage_path": "207_friendship_stories_remind_us_that_life_is_better_with_friends_by_our_side.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130208",
+    "text_pt": "Eles celebram a alegria e a força que vêm de experiências compartilhadas.",
+    "text_en": "They celebrate the joy and strength that come from shared experiences.",
+    "audio_en_storage_path": "208_they_celebrate_the_joy_and_strength_that_come_from_shared_experiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130209",
+    "text_pt": "A amizade é um tema universal que repercute em públicos do mundo todo.",
+    "text_en": "Friendship is a universal theme that resonates with audiences worldwide.",
+    "audio_en_storage_path": "209_friendship_is_a_universal_theme_that_resonates_with_audiences_worldwide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130210",
+    "text_pt": "Todo mundo já sentiu o calor e o conforto de um verdadeiro amigo.",
+    "text_en": "Everyone has experienced the warmth and comfort of a true friend.",
+    "audio_en_storage_path": "210_everyone_has_experienced_the_warmth_and_comfort_of_a_true_friend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130211",
+    "text_pt": "Filmes sobre amizade geralmente inspiram os espectadores a valorizar suas próprias amizades.",
+    "text_en": "Friendship films often inspire viewers to cherish their own friendships.",
+    "audio_en_storage_path": "211_friendship_films_often_inspire_viewers_to_cherish_their_own_friendships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130212",
+    "text_pt": "Eles nos lembram de nutrir e valorizar os laços que temos.",
+    "text_en": "They remind us to nurture and appreciate the bonds we have.",
+    "audio_en_storage_path": "212_they_remind_us_to_nurture_and_appreciate_the_bonds_we_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

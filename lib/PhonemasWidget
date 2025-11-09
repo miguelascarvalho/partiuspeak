@@ -1,0 +1,82 @@
+import 'package:flutter/material.dart';
+import 'package:partiuspeak/models/phonema.dart'; // ajuste conforme o local real
+import 'package:partiuspeak/services/phonemas_dao.dart'; // ajuste conforme o local real
+
+class PhonemasWidget extends StatefulWidget {
+  const PhonemasWidget({super.key});
+
+  @override
+  State<PhonemasWidget> createState() => _PhonemasWidgetState();
+}
+
+class _PhonemasWidgetState extends State<PhonemasWidget> {
+  late Future<List<Phonema>> futurePhonemas;
+
+  @override
+  void initState() {
+    super.initState();
+    futurePhonemas = PhonemasDAO().carregarPhonemas();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(
+        title: const Text('Phonemas'),
+        backgroundColor: Colors.blue,
+      ),
+      body: FutureBuilder<List<Phonema>>(
+        future: futurePhonemas,
+        builder: (context, snapshot) {
+          if (snapshot.connectionState == ConnectionState.waiting) {
+            return const Center(child: CircularProgressIndicator());
+          }
+
+          if (snapshot.hasError) {
+            return Center(child: Text('Erro: ${snapshot.error}'));
+          }
+
+          if (!snapshot.hasData || snapshot.data!.isEmpty) {
+            return const Center(child: Text('Nenhum fonema encontrado.'));
+          }
+
+          return Padding(
+            padding: const EdgeInsets.all(12.0),
+            child: GridView.count(
+              crossAxisCount: 2,
+              crossAxisSpacing: 10,
+              mainAxisSpacing: 10,
+              children: snapshot.data!.map((ph) {
+                return _buildButton(ph.letra, Colors.indigo, () {
+                  Navigator.pushNamed(context, '/${ph.letra.toLowerCase()}');
+                });
+              }).toList(),
+            ),
+          );
+        },
+      ),
+    );
+  }
+
+  Widget _buildButton(String text, Color color, VoidCallback onPressed) {
+    return InkWell(
+      onTap: onPressed,
+      child: Container(
+        decoration: BoxDecoration(
+          color: color,
+          borderRadius: BorderRadius.circular(10),
+        ),
+        child: Center(
+          child: Text(
+            text,
+            style: const TextStyle(
+              fontSize: 24,
+              fontWeight: FontWeight.bold,
+              color: Colors.white,
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+}

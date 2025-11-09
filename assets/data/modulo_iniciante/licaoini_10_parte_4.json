@@ -1,0 +1,218 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100094",
+    "text_pt": "🪴 Conjunto de frases – Objeto de cozinha: A planta",
+    "text_en": "🪴 Sentence Set – Kitchen Object: The Plant",
+    "audio_en_storage_path": "095_sentence_set_kitchen_object_the_plant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100095",
+    "text_pt": "A planta está perto da janela.",
+    "text_en": "The plant is by the window.",
+    "audio_en_storage_path": "096_the_plant_is_by_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100096",
+    "text_pt": "Nós o usamos para deixar a casa bonita.",
+    "text_en": "We use it to make the house look nice.",
+    "audio_en_storage_path": "097_we_use_it_to_make_the_house_look_nice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100097",
+    "text_pt": "É verde com folhas grandes.",
+    "text_en": "It is green with big leaves.",
+    "audio_en_storage_path": "098_it_is_green_with_big_leaves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100098",
+    "text_pt": "Há terra e pequenas pedras no vaso.",
+    "text_en": "There is soil and small rocks in the pot.",
+    "audio_en_storage_path": "099_there_is_soil_and_small_rocks_in_the_pot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100099",
+    "text_pt": "Você rega a planta?",
+    "text_en": "Do you water the plant?",
+    "audio_en_storage_path": "100_do_you_water_the_plant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100100",
+    "text_pt": "Sim, eu rego todas as manhãs.",
+    "text_en": "Yes, I water it every morning.",
+    "audio_en_storage_path": "101_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100101",
+    "text_pt": "Não, minha mãe cuida disso.",
+    "text_en": "No, my mom takes care of it.",
+    "audio_en_storage_path": "102_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100102",
+    "text_pt": "Onde está o regador?",
+    "text_en": "Where is the watering can?",
+    "audio_en_storage_path": "103_where_is_the_watering_can.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100103",
+    "text_pt": "O regador fica atrás da geladeira.",
+    "text_en": "The watering can is behind the fridge.",
+    "audio_en_storage_path": "104_the_watering_can_is_behind_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100104",
+    "text_pt": "Quando a planta crescerá mais?",
+    "text_en": "When will the plant grow taller?",
+    "audio_en_storage_path": "105_when_will_the_plant_grow_taller.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100105",
+    "text_pt": "Crescerá mais na semana que vem.",
+    "text_en": "It’ll grow more next week.",
+    "audio_en_storage_path": "106_itll_grow_more_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100106",
+    "text_pt": "Por que você tocou nas folhas?",
+    "text_en": "Why did you touch the leaves?",
+    "audio_en_storage_path": "107_why_did_you_touch_the_leaves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100107",
+    "text_pt": "Gostei de como elas eram macias.",
+    "text_en": "I liked how soft they felt.",
+    "audio_en_storage_path": "108_i_liked_how_soft_they_felt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100108",
+    "text_pt": "Ele rega a planta todos os dias.",
+    "text_en": "He waters the plant every day.",
+    "audio_en_storage_path": "109_he_waters_the_plant_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100109",
+    "text_pt": "Eles não vão esquecer de regá-la.",
+    "text_en": "They won’t forget to water it.",
+    "audio_en_storage_path": "110_they_wont_forget_to_water_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100110",
+    "text_pt": "Cuide bem dele.",
+    "text_en": "Take good care of it.",
+    "audio_en_storage_path": "111_take_good_care_of_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100111",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "112_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100112",
+    "text_pt": "Crescerá mais na semana que vem.",
+    "text_en": "It’ll grow more next week.",
+    "audio_en_storage_path": "113_itll_grow_more_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100113",
+    "text_pt": "Vai crescer mais na semana que vem.",
+    "text_en": "It’s gonna grow more next week.",
+    "audio_en_storage_path": "114_its_gonna_grow_more_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100114",
+    "text_pt": "Eles não vão esquecer de regá-la.",
+    "text_en": "They won’t forget to water it.",
+    "audio_en_storage_path": "115_they_wont_forget_to_water_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100115",
+    "text_pt": "Eles não se esquecem de regá-la.",
+    "text_en": "They ain’t forgettin’ to water it.",
+    "audio_en_storage_path": "116_they_aint_forgettin_to_water_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100116",
+    "text_pt": "Cuide bem dele.",
+    "text_en": "Take good care of it.",
+    "audio_en_storage_path": "117_take_good_care_of_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100117",
+    "text_pt": "Tome cuidado, ok?",
+    "text_en": "Take good care, ‘kay?",
+    "audio_en_storage_path": "118_take_good_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

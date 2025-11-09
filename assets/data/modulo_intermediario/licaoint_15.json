@@ -1,0 +1,1055 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120001",
+    "text_pt": "O aeroporto está bem movimentado hoje. Tem uma longa fila no balcão",
+    "text_en": "The airport is pretty busy today. There’s a long line at the counter",
+    "audio_en_storage_path": "001_the_airport_is_pretty_busy_today_theres_a_long_line_at_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120002",
+    "text_pt": "O aeroporto está lotado hoje. As filas estão uma loucura.",
+    "text_en": "The airport’s packed today. Lines are crazy",
+    "audio_en_storage_path": "002_the_airports_packed_today_lines_are_crazy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120003",
+    "text_pt": "Preciso fazer o check-in para meu voo e pegar meu cartão de embarque",
+    "text_en": "I need to check in for my flight and get my boarding pass",
+    "audio_en_storage_path": "003_i_need_to_check_in_for_my_flight_and_get_my_boarding_pass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120004",
+    "text_pt": "Tenho que fazer o check-in rapidinho e pegar o cartão de embarque",
+    "text_en": "I gotta check in real quick and grab that boarding pass",
+    "audio_en_storage_path": "004_i_gotta_check_in_real_quick_and_grab_that_boarding_pass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120005",
+    "text_pt": "Você pode me ajudar a encontrar onde preciso ir?",
+    "text_en": "Can you help me find where I need to go?",
+    "audio_en_storage_path": "005_can_you_help_me_find_where_i_need_to_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120006",
+    "text_pt": "Você poderia me dizer onde eu deveria estar?",
+    "text_en": "Couldja tell me where I’m supposed to be?",
+    "audio_en_storage_path": "006_couldja_tell_me_where_im_supposed_to_be.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120007",
+    "text_pt": "Esta bolsa pode ser muito pesada para levar na bagagem de mão",
+    "text_en": "This bag might be too heavy for carry-on",
+    "audio_en_storage_path": "007_this_bag_might_be_too_heavy_for_carryon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120008",
+    "text_pt": "Acha que esta mala é muito pesada para levar a bordo?",
+    "text_en": "Think this bag’s too heavy to bring on board?",
+    "audio_en_storage_path": "008_think_this_bags_too_heavy_to_bring_on_board.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120009",
+    "text_pt": "Deixe-me imprimir meu bilhete naquela máquina ali",
+    "text_en": "Let me print my ticket at the machine over there",
+    "audio_en_storage_path": "009_let_me_print_my_ticket_at_the_machine_over_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120010",
+    "text_pt": "Deixe-me imprimir meu ingresso naquele quiosque",
+    "text_en": "Lemme just print my ticket at that kiosk",
+    "audio_en_storage_path": "010_lemme_just_print_my_ticket_at_that_kiosk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120011",
+    "text_pt": "Eles disseram que meu assento é do lado esquerdo, perto da janela",
+    "text_en": "They said my seat is on the left side near the window",
+    "audio_en_storage_path": "011_they_said_my_seat_is_on_the_left_side_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120012",
+    "text_pt": "Disseram-me que consegui um assento na janela à esquerda",
+    "text_en": "They told me I got a window seat on the left",
+    "audio_en_storage_path": "012_they_told_me_i_got_a_window_seat_on_the_left.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120013",
+    "text_pt": "Acho que deixei meu telefone cair perto da segurança",
+    "text_en": "I think I dropped my phone near security",
+    "audio_en_storage_path": "013_i_think_i_dropped_my_phone_near_security.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120014",
+    "text_pt": "Juro que deixei meu telefone na segurança",
+    "text_en": "I swear I left my phone back by security",
+    "audio_en_storage_path": "014_i_swear_i_left_my_phone_back_by_security.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120015",
+    "text_pt": "Alguém poderia verificar se minha bagagem chegou a tempo?",
+    "text_en": "Could someone check if my luggage made it on time?",
+    "audio_en_storage_path": "015_could_someone_check_if_my_luggage_made_it_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120016",
+    "text_pt": "Minhas malas já passaram?",
+    "text_en": "Did my bags make it through already?",
+    "audio_en_storage_path": "016_did_my_bags_make_it_through_already.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120017",
+    "text_pt": "Onde posso encontrar o Portão 23B novamente?",
+    "text_en": "Where can I find Gate 23B again?",
+    "audio_en_storage_path": "017_where_can_i_find_gate_23b_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120018",
+    "text_pt": "O que você disse — onde fica o Portão 23B?",
+    "text_en": "Whaddya say — where’s Gate 23B at?",
+    "audio_en_storage_path": "018_whaddya_say_wheres_gate_23b_at.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120019",
+    "text_pt": "A tela mostra que nosso voo está atrasado em uma hora",
+    "text_en": "The screen shows our flight is delayed by an hour",
+    "audio_en_storage_path": "019_the_screen_shows_our_flight_is_delayed_by_an_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120020",
+    "text_pt": "Parece que ficaremos presos aqui por mais uma hora",
+    "text_en": "Looks like we’re stuck here for another hour",
+    "audio_en_storage_path": "020_looks_like_were_stuck_here_for_another_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120021",
+    "text_pt": "Houve muita turbulência durante a decolagem",
+    "text_en": "There was a lot of turbulence during takeoff",
+    "audio_en_storage_path": "021_there_was_a_lot_of_turbulence_during_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120022",
+    "text_pt": "O avião tremia muito logo após a decolagem",
+    "text_en": "Plane was shaking hard right after takeoff",
+    "audio_en_storage_path": "022_plane_was_shaking_hard_right_after_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120023",
+    "text_pt": "A comissária de bordo me pediu para apertar o cinto de segurança",
+    "text_en": "The flight attendant asked me to fasten my seatbelt",
+    "audio_en_storage_path": "023_the_flight_attendant_asked_me_to_fasten_my_seatbelt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120024",
+    "text_pt": "Ela me deu um tapinha e disse para eu apertar o cinto",
+    "text_en": "She tapped me and said to buckle up",
+    "audio_en_storage_path": "024_she_tapped_me_and_said_to_buckle_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120025",
+    "text_pt": "Eu pedi o frango, mas me deram peixe por engano",
+    "text_en": "I ordered the chicken but they gave me fish by mistake",
+    "audio_en_storage_path": "025_i_ordered_the_chicken_but_they_gave_me_fish_by_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120026",
+    "text_pt": "Eu pedi frango, mas eles trouxeram peixe por acidente.",
+    "text_en": "I asked for chicken. but they brought fish by accident",
+    "audio_en_storage_path": "026_i_asked_for_chicken_but_they_brought_fish_by_accident.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120027",
+    "text_pt": "Se precisar de alguma coisa, basta tocar no botão acima",
+    "text_en": "If you need anything. just tap the button above",
+    "audio_en_storage_path": "027_if_you_need_anything_just_tap_the_button_above.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120028",
+    "text_pt": "Se precisar de alguma coisa, aperte o botão de chamada lá em cima",
+    "text_en": "If ya need somethin’. hit that call button up top",
+    "audio_en_storage_path": "028_if_ya_need_somethin_hit_that_call_button_up_top.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120029",
+    "text_pt": "Obrigado por me ajudar com as direções. Tenha uma ótima viagem.",
+    "text_en": "Thanks for helping me with directions. Have a great trip",
+    "audio_en_storage_path": "029_thanks_for_helping_me_with_directions_have_a_great_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120030",
+    "text_pt": "Agradeço a ajuda. Boa viagem!",
+    "text_en": "Appreciate the help. Safe travels!",
+    "audio_en_storage_path": "030_appreciate_the_help_safe_travels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120031",
+    "text_pt": "Os cartões de embarque devem ser escaneados antes de entrar na área do portão",
+    "text_en": "Boarding passes must be scanned before entering the gate area",
+    "audio_en_storage_path": "031_boarding_passes_must_be_scanned_before_entering_the_gate_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120032",
+    "text_pt": "Você tem que escanear seu passe antes de entrar",
+    "text_en": "You gotta scan your pass before walkin’ in",
+    "audio_en_storage_path": "032_you_gotta_scan_your_pass_before_walkin_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120033",
+    "text_pt": "Com licença. Essa é a fila correta para voos internacionais?",
+    "text_en": "Excuse me. is this the correct line for international flights?",
+    "audio_en_storage_path": "033_excuse_me_is_this_the_correct_line_for_international_flights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120034",
+    "text_pt": "Olá. Estou na fila certa para voos internacionais?",
+    "text_en": "Hey. am I in the right line for overseas flights?",
+    "audio_en_storage_path": "034_hey_am_i_in_the_right_line_for_overseas_flights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120035",
+    "text_pt": "Eles me pararam porque meu laptop teve que sair",
+    "text_en": "They stopped me because my laptop had to come out",
+    "audio_en_storage_path": "035_they_stopped_me_because_my_laptop_had_to_come_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120036",
+    "text_pt": "Meu laptop teve que sair, então eles me chamaram de lado",
+    "text_en": "My laptop had to come out. so they pulled me aside",
+    "audio_en_storage_path": "036_my_laptop_had_to_come_out_so_they_pulled_me_aside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120037",
+    "text_pt": "Esta é a minha primeira vez voando sozinho. Estou um pouco nervoso",
+    "text_en": "This is my first time flying alone. I feel a bit nervous",
+    "audio_en_storage_path": "037_this_is_my_first_time_flying_alone_i_feel_a_bit_nervous.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120038",
+    "text_pt": "Primeira vez voando sozinho. Meio que surtando um pouco",
+    "text_en": "First time flyin’ solo. Kinda freakin’ out a little",
+    "audio_en_storage_path": "038_first_time_flyin_solo_kinda_freakin_out_a_little.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120039",
+    "text_pt": "Esqueci que tinha uma garrafa de água na minha bolsa",
+    "text_en": "I forgot I had a bottle of water in my bag",
+    "audio_en_storage_path": "039_i_forgot_i_had_a_bottle_of_water_in_my_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120040",
+    "text_pt": "Esqueci completamente que tinha água na mochila",
+    "text_en": "Totally forgot I had water in my backpack",
+    "audio_en_storage_path": "040_totally_forgot_i_had_water_in_my_backpack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120041",
+    "text_pt": "Devemos pousar em breve. Consegue ver a cidade lá embaixo?",
+    "text_en": "We should be landing soon. Can you see the city below?",
+    "audio_en_storage_path": "041_we_should_be_landing_soon_can_you_see_the_city_below.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120042",
+    "text_pt": "Estamos prestes a pousar. Você vê a cidade lá embaixo?",
+    "text_en": "We’re about to land. You see the city down there?",
+    "audio_en_storage_path": "042_were_about_to_land_you_see_the_city_down_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120043",
+    "text_pt": "O piloto mencionou que pousaremos cedo",
+    "text_en": "The pilot mentioned we’ll be landing early",
+    "audio_en_storage_path": "043_the_pilot_mentioned_well_be_landing_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120044",
+    "text_pt": "O piloto disse que poderíamos pousar antes do previsto",
+    "text_en": "Pilot said we might land ahead of schedule",
+    "audio_en_storage_path": "044_pilot_said_we_might_land_ahead_of_schedule.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120045",
+    "text_pt": "Pedi um assento no corredor porque gosto de me alongar",
+    "text_en": "I asked for an aisle seat because I like to stretch",
+    "audio_en_storage_path": "045_i_asked_for_an_aisle_seat_because_i_like_to_stretch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120046",
+    "text_pt": "Tenho um corredor para poder esticar as pernas",
+    "text_en": "Got aisle so I can stretch my legs",
+    "audio_en_storage_path": "046_got_aisle_so_i_can_stretch_my_legs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120047",
+    "text_pt": "Guarde seus fones de ouvido antes de pousarmos",
+    "text_en": "Put your headphones away before we land",
+    "audio_en_storage_path": "047_put_your_headphones_away_before_we_land.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120048",
+    "text_pt": "Guarde os fones de ouvido antes de pousar",
+    "text_en": "Put those headphones away before landing",
+    "audio_en_storage_path": "048_put_those_headphones_away_before_landing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120049",
+    "text_pt": "Eles nos deram amendoim e suco no meio do caminho",
+    "text_en": "They gave us peanuts and juice halfway through",
+    "audio_en_storage_path": "049_they_gave_us_peanuts_and_juice_halfway_through.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120050",
+    "text_pt": "No meio do caminho eles passaram lanches e bebidas",
+    "text_en": "Halfway through they passed snacks and drinks",
+    "audio_en_storage_path": "050_halfway_through_they_passed_snacks_and_drinks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120051",
+    "text_pt": "Posso ficar com o casaco durante o voo?",
+    "text_en": "Is it okay if I keep my jacket on during the flight?",
+    "audio_en_storage_path": "051_is_it_okay_if_i_keep_my_jacket_on_during_the_flight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120052",
+    "text_pt": "Posso deixar meu casaco durante todo o passeio?",
+    "text_en": "Can I leave my jacket on the whole ride?",
+    "audio_en_storage_path": "052_can_i_leave_my_jacket_on_the_whole_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120053",
+    "text_pt": "A pessoa ao meu lado adormeceu assim que decolamos",
+    "text_en": "The person next to me fell asleep as soon as we took off",
+    "audio_en_storage_path": "053_the_person_next_to_me_fell_asleep_as_soon_as_we_took_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120054",
+    "text_pt": "O cara ao meu lado desmaiou logo após a decolagem",
+    "text_en": "Guy next to me zonked out right after takeoff",
+    "audio_en_storage_path": "054_guy_next_to_me_zonked_out_right_after_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120055",
+    "text_pt": "Espero que o próximo voo também não atrase",
+    "text_en": "I hope the next flight isn’t delayed too",
+    "audio_en_storage_path": "055_i_hope_the_next_flight_isnt_delayed_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120056",
+    "text_pt": "Espero que o próximo também não demore",
+    "text_en": "Hope the next one’s not late either",
+    "audio_en_storage_path": "056_hope_the_next_ones_not_late_either.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120057",
+    "text_pt": "Você se importaria de trocar de lugar comigo? Eu prefiro a janela.",
+    "text_en": "Would you mind switching seats with me? I’d prefer the window",
+    "audio_en_storage_path": "057_would_you_mind_switching_seats_with_me_id_prefer_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120058",
+    "text_pt": "Importa-se de trocar de lugar? Quero ver lá fora",
+    "text_en": "Mind switchin’ seats? I wanna see outside",
+    "audio_en_storage_path": "058_mind_switchin_seats_i_wanna_see_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120059",
+    "text_pt": "Você se saiu muito bem hoje. Tenha um bom descanso esta noite.",
+    "text_en": "You did great today. Have a good rest tonight",
+    "audio_en_storage_path": "059_you_did_great_today_have_a_good_rest_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120060",
+    "text_pt": "Você arrasou hoje. Durma bem até mais tarde.",
+    "text_en": "You crushed it today. Sleep tight later",
+    "audio_en_storage_path": "060_you_crushed_it_today_sleep_tight_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120061",
+    "text_pt": "Eu vi o capitão andando pela cabine mais cedo",
+    "text_en": "I saw the captain walking through the cabin earlier",
+    "audio_en_storage_path": "061_i_saw_the_captain_walking_through_the_cabin_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120062",
+    "text_pt": "O capitão passou por nós mais cedo. Verificou como as coisas estavam",
+    "text_en": "Captain walked past us earlier. checked how things were",
+    "audio_en_storage_path": "062_captain_walked_past_us_earlier_checked_how_things_were.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120063",
+    "text_pt": "Ela trabalha como comissária de bordo e está lá há anos",
+    "text_en": "She works as a flight attendant and has been for years",
+    "audio_en_storage_path": "063_she_works_as_a_flight_attendant_and_has_been_for_years.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120064",
+    "text_pt": "Ela trabalha como tripulante há muito tempo",
+    "text_en": "She’s been workin’ as crew for a long time now",
+    "audio_en_storage_path": "064_shes_been_workin_as_crew_for_a_long_time_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120065",
+    "text_pt": "O copiloto auxilia o piloto principal durante todo o voo",
+    "text_en": "The co-pilot helps the main pilot during the whole flight",
+    "audio_en_storage_path": "065_the_copilot_helps_the_main_pilot_during_the_whole_flight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120066",
+    "text_pt": "O copiloto apoia o capitão durante todo o voo",
+    "text_en": "Co-pilot backs up the captain all flight long",
+    "audio_en_storage_path": "066_copilot_backs_up_the_captain_all_flight_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120067",
+    "text_pt": "A equipe de solo garante que tudo esteja pronto antes da decolagem",
+    "text_en": "Ground crew makes sure everything’s ready before takeoff",
+    "audio_en_storage_path": "067_ground_crew_makes_sure_everythings_ready_before_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120068",
+    "text_pt": "A equipe de solo prepara tudo antes de partirmos",
+    "text_en": "Ground team gets everything set before we roll out",
+    "audio_en_storage_path": "068_ground_team_gets_everything_set_before_we_roll_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120069",
+    "text_pt": "O controle de tráfego aéreo nos informou que temos que esperar pela autorização",
+    "text_en": "Air traffic control told us we have to wait for clearance",
+    "audio_en_storage_path": "069_air_traffic_control_told_us_we_have_to_wait_for_clearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120070",
+    "text_pt": "O ATC disse que temos que aguardar a autorização de decolagem",
+    "text_en": "ATC said we gotta hold for takeoff clearance",
+    "audio_en_storage_path": "070_atc_said_we_gotta_hold_for_takeoff_clearance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120071",
+    "text_pt": "Ele era mecânico antes de se tornar comissário de bordo",
+    "text_en": "He used to be a mechanic before he became a flight attendant",
+    "audio_en_storage_path": "071_he_used_to_be_a_mechanic_before_he_became_a_flight_attendant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120072",
+    "text_pt": "Ele consertou aviões antes de começar a trabalhar a bordo",
+    "text_en": "He fixed planes before he started workin’ onboard",
+    "audio_en_storage_path": "072_he_fixed_planes_before_he_started_workin_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120073",
+    "text_pt": "Ela me ofereceu um cobertor e perguntou se eu estava confortável",
+    "text_en": "She offered me a blanket and asked if I was comfortable",
+    "audio_en_storage_path": "073_she_offered_me_a_blanket_and_asked_if_i_was_comfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120074",
+    "text_pt": "Ela me entregou um cobertor e verificou se eu estava confortável",
+    "text_en": "She handed me a blanket and checked if I was comfy",
+    "audio_en_storage_path": "074_she_handed_me_a_blanket_and_checked_if_i_was_comfy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120075",
+    "text_pt": "A tripulação acabou de desligar o sinal do cinto de segurança",
+    "text_en": "The crew just turned off the seatbelt sign",
+    "audio_en_storage_path": "075_the_crew_just_turned_off_the_seatbelt_sign.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120076",
+    "text_pt": "Eles simplesmente apagaram a luz do cinto de segurança acima",
+    "text_en": "They just shut off the seatbelt light above",
+    "audio_en_storage_path": "076_they_just_shut_off_the_seatbelt_light_above.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120077",
+    "text_pt": "Você ouviu o que o piloto disse sobre o clima?",
+    "text_en": "Did you hear what the pilot said about the weather?",
+    "audio_en_storage_path": "077_did_you_hear_what_the_pilot_said_about_the_weather.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120078",
+    "text_pt": "Ouviu o que o capitão disse sobre a tempestade?",
+    "text_en": "Hear what the captain said ‘bout the storm?",
+    "audio_en_storage_path": "078_hear_what_the_captain_said_bout_the_storm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120079",
+    "text_pt": "Eles cancelaram o voo por problemas técnicos",
+    "text_en": "They canceled the flight because of technical problems",
+    "audio_en_storage_path": "079_they_canceled_the_flight_because_of_technical_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120080",
+    "text_pt": "O voo foi cancelado porque algo quebrou no avião",
+    "text_en": "Flight got canceled ‘cause something broke on the plane",
+    "audio_en_storage_path": "080_flight_got_canceled_cause_something_broke_on_the_plane.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120081",
+    "text_pt": "Alguns passageiros ficaram chateados quando o atraso piorou",
+    "text_en": "Some passengers were upset when the delay got worse",
+    "audio_en_storage_path": "081_some_passengers_were_upset_when_the_delay_got_worse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120082",
+    "text_pt": "Algumas pessoas ficaram bravas quando o atraso aumentou",
+    "text_en": "A few folks got mad when the delay got longer",
+    "audio_en_storage_path": "082_a_few_folks_got_mad_when_the_delay_got_longer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120083",
+    "text_pt": "A tripulação está verificando os documentos de cada passageiro agora",
+    "text_en": "The crew is checking each passenger’s documents now",
+    "audio_en_storage_path": "083_the_crew_is_checking_each_passengers_documents_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120084",
+    "text_pt": "A equipe está por aí verificando os papéis de todos",
+    "text_en": "Crew’s goin’ around checkin’ everyone’s papers",
+    "audio_en_storage_path": "084_crews_goin_around_checkin_everyones_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120085",
+    "text_pt": "Eles anunciaram que seremos divertidos em outro aeroporto",
+    "text_en": "They announced we’ll be diverted to another airport",
+    "audio_en_storage_path": "085_they_announced_well_be_diverted_to_another_airport.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120086",
+    "text_pt": "Anunciamos que estamos indo para um aeroporto diferente",
+    "text_en": "Announced we’re headin’ to a different airport instead",
+    "audio_en_storage_path": "086_announced_were_headin_to_a_different_airport_instead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120087",
+    "text_pt": "Ele é o comissário de bordo líder e cuida da equipe",
+    "text_en": "He’s the lead flight attendant and takes care of the team",
+    "audio_en_storage_path": "087_hes_the_lead_flight_attendant_and_takes_care_of_the_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120088",
+    "text_pt": "Ele é o cara principal. Ele comanda a equipe como um chefe.",
+    "text_en": "He’s the head guy. runs the crew like a boss",
+    "audio_en_storage_path": "088_hes_the_head_guy_runs_the_crew_like_a_boss.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120089",
+    "text_pt": "Você foi uma ótima companhia. Espero que sua viagem corra bem.",
+    "text_en": "You’ve been great company. Hope your trip goes well",
+    "audio_en_storage_path": "089_youve_been_great_company_hope_your_trip_goes_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120090",
+    "text_pt": "Gostei muito de conversar. Espero que sua viagem seja tranquila.",
+    "text_en": "Really enjoyed talkin’. Hope your trip’s smooth",
+    "audio_en_storage_path": "090_really_enjoyed_talkin_hope_your_trips_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120091",
+    "text_pt": "A segurança me disse que eu não poderia levar isso na minha bagagem de mão",
+    "text_en": "Security told me I couldn’t bring this in my carry-on",
+    "audio_en_storage_path": "091_security_told_me_i_couldnt_bring_this_in_my_carryon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120092",
+    "text_pt": "A segurança disse que eu não poderia levar isso na minha bagagem de mão",
+    "text_en": "Security said I couldn’t pack that in my carry-on",
+    "audio_en_storage_path": "092_security_said_i_couldnt_pack_that_in_my_carryon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120093",
+    "text_pt": "Esqueci que meu carregador ainda estava na minha bolsa",
+    "text_en": "I forgot my charger was still in my bag",
+    "audio_en_storage_path": "093_i_forgot_my_charger_was_still_in_my_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120094",
+    "text_pt": "Esqueci completamente que o carregador do meu telefone estava lá",
+    "text_en": "Totally forgot my phone charger was in there",
+    "audio_en_storage_path": "094_totally_forgot_my_phone_charger_was_in_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120095",
+    "text_pt": "Certifique-se de manter seu passaporte à mão para a alfândega",
+    "text_en": "Make sure you keep your passport handy for customs",
+    "audio_en_storage_path": "095_make_sure_you_keep_your_passport_handy_for_customs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120096",
+    "text_pt": "Mantenha seu passaporte por perto para quando eles verificarem",
+    "text_en": "Keep your passport close for when they check",
+    "audio_en_storage_path": "096_keep_your_passport_close_for_when_they_check.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120097",
+    "text_pt": "Eles me perguntaram se eu estava carregando algum líquido ou gel",
+    "text_en": "They asked me if I was carrying any liquids or gels",
+    "audio_en_storage_path": "097_they_asked_me_if_i_was_carrying_any_liquids_or_gels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120098",
+    "text_pt": "Eles queriam saber se eu tinha algum líquido ou gel",
+    "text_en": "They wanted to know if I had any liquids or gel stuff",
+    "audio_en_storage_path": "098_they_wanted_to_know_if_i_had_any_liquids_or_gel_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120099",
+    "text_pt": "Tive que abrir minha mala para inspeção",
+    "text_en": "I had to open my suitcase for inspection",
+    "audio_en_storage_path": "099_i_had_to_open_my_suitcase_for_inspection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120100",
+    "text_pt": "Tive que abrir minha bolsa para dar uma olhada completa",
+    "text_en": "Had to pop my bag open for a full look",
+    "audio_en_storage_path": "100_had_to_pop_my_bag_open_for_a_full_look.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120101",
+    "text_pt": "O oficial me perguntou o que eu estava trazendo para o país",
+    "text_en": "The officer asked me what I was bringing into the country",
+    "audio_en_storage_path": "101_the_officer_asked_me_what_i_was_bringing_into_the_country.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120102",
+    "text_pt": "O cara da fronteira perguntou o que eu estava levando comigo",
+    "text_en": "Border guy asked what I was bringin’ in with me",
+    "audio_en_storage_path": "102_border_guy_asked_what_i_was_bringin_in_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120103",
+    "text_pt": "Você se lembrou de declarar seus alimentos?",
+    "text_en": "Did you remember to declare your food items?",
+    "audio_en_storage_path": "103_did_you_remember_to_declare_your_food_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120104",
+    "text_pt": "Você marcou sua comida no formulário?",
+    "text_en": "Did you mark your food on the form?",
+    "audio_en_storage_path": "104_did_you_mark_your_food_on_the_form.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120105",
+    "text_pt": "Eles me enviaram pelo scanner novamente",
+    "text_en": "They sent me through the scanner again",
+    "audio_en_storage_path": "105_they_sent_me_through_the_scanner_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120106",
+    "text_pt": "Me fez passar pelo detector de metais duas vezes",
+    "text_en": "Made me walk through the metal detector twice",
+    "audio_en_storage_path": "106_made_me_walk_through_the_metal_detector_twice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120107",
+    "text_pt": "Minha mala foi sinalizada e eles a revistaram manualmente",
+    "text_en": "My bag got flagged and they searched it manually",
+    "audio_en_storage_path": "107_my_bag_got_flagged_and_they_searched_it_manually.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120108",
+    "text_pt": "A sacola apitou e eles a examinaram manualmente",
+    "text_en": "Bag beeped and they went through it by hand",
+    "audio_en_storage_path": "108_bag_beeped_and_they_went_through_it_by_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120109",
+    "text_pt": "Quase perdi meu voo por causa da alfândega",
+    "text_en": "I almost missed my flight because of customs",
+    "audio_en_storage_path": "109_i_almost_missed_my_flight_because_of_customs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120110",
+    "text_pt": "Quase perdi meu avião porque a alfândega demorou uma eternidade",
+    "text_en": "Almost missed my plane ‘cause customs took forever",
+    "audio_en_storage_path": "110_almost_missed_my_plane_cause_customs_took_forever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120111",
+    "text_pt": "Após o pouso, tivemos que esperar a chegada das escadas",
+    "text_en": "After landing. we had to wait for the stairs to arrive",
+    "audio_en_storage_path": "111_after_landing_we_had_to_wait_for_the_stairs_to_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120112",
+    "text_pt": "Depois de pousar, esperamos os passos chegarem",
+    "text_en": "After touchin’ down. we waited for the steps to come",
+    "audio_en_storage_path": "112_after_touchin_down_we_waited_for_the_steps_to_come.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120113",
+    "text_pt": "Peguei minha mala na esteira de bagagens",
+    "text_en": "I picked up my suitcase from the baggage claim",
+    "audio_en_storage_path": "113_i_picked_up_my_suitcase_from_the_baggage_claim.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120114",
+    "text_pt": "Peguei minha bolsa no carrossel lá embaixo",
+    "text_en": "Grabbed my bag from the carousel downstairs",
+    "audio_en_storage_path": "114_grabbed_my_bag_from_the_carousel_downstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120115",
+    "text_pt": "As placas de saída ficam logo após os portões de desembarque",
+    "text_en": "The exit signs are right past the arrival gates",
+    "audio_en_storage_path": "115_the_exit_signs_are_right_past_the_arrival_gates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120116",
+    "text_pt": "A saída é logo depois daquelas grandes portas de chegada",
+    "text_en": "Way out’s just past those big arrival doors",
+    "audio_en_storage_path": "116_way_outs_just_past_those_big_arrival_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120117",
+    "text_pt": "Tome cuidado e aproveite seu tempo aqui",
+    "text_en": "Take care and enjoy your time here",
+    "audio_en_storage_path": "117_take_care_and_enjoy_your_time_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

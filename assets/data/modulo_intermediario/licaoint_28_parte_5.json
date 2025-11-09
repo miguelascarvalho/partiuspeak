@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114913",
+    "text_pt": "Portas",
+    "text_en": "Doors",
+    "audio_en_storage_path": "4913_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114914",
+    "text_pt": "As portas estão em todos os lados da casa.",
+    "text_en": "The doors are on every side of the house.",
+    "audio_en_storage_path": "4914_the_doors_are_on_every_side_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114915",
+    "text_pt": "Frente, trás e entre os cômodos.",
+    "text_en": "Front. back. and between rooms.",
+    "audio_en_storage_path": "4915_front_back_and_between_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114916",
+    "text_pt": "Nós os usamos para entrar, sair e separar espaços.",
+    "text_en": "We use them to enter. exit. and separate spaces.",
+    "audio_en_storage_path": "4916_we_use_them_to_enter_exit_and_separate_spaces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114917",
+    "text_pt": "Às vezes, eles precisam de óleo ou reparo.",
+    "text_en": "Sometimes they need oil or repair.",
+    "audio_en_storage_path": "4917_sometimes_they_need_oil_or_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114918",
+    "text_pt": "Eles são de madeira, altos e têm alças.",
+    "text_en": "They are wooden. tall. and have handles.",
+    "audio_en_storage_path": "4918_they_are_wooden_tall_and_have_handles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114919",
+    "text_pt": "Algumas abrem suavemente. Outras grudam.",
+    "text_en": "Some open smoothly. others stick.",
+    "audio_en_storage_path": "4919_some_open_smoothly_others_stick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114920",
+    "text_pt": "Há chaves, fechaduras e tapetes por perto.",
+    "text_en": "There are keys. locks. and mats nearby.",
+    "audio_en_storage_path": "4920_there_are_keys_locks_and_mats_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114921",
+    "text_pt": "E pequenos tapetes em cada entrada.",
+    "text_en": "And small rugs by each entrance.",
+    "audio_en_storage_path": "4921_and_small_rugs_by_each_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114922",
+    "text_pt": "Qual porta emperra mais?",
+    "text_en": "Which door sticks the most?",
+    "audio_en_storage_path": "4922_which_door_sticks_the_most.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114923",
+    "text_pt": "A do quarto — difícil de fechar.",
+    "text_en": "The one to the bedroom — hard to close.",
+    "audio_en_storage_path": "4923_the_one_to_the_bedroom_hard_to_close.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114924",
+    "text_pt": "Onde você guarda o óleo da porta?",
+    "text_en": "Where do you keep the door oil?",
+    "audio_en_storage_path": "4924_where_do_you_keep_the_door_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114925",
+    "text_pt": "Na gaveta — com outros utensílios domésticos.",
+    "text_en": "In the drawer — with other home supplies.",
+    "audio_en_storage_path": "4925_in_the_drawer_with_other_home_supplies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114926",
+    "text_pt": "Às vezes mudamos a maçaneta.",
+    "text_en": "Sometimes we change the handle.",
+    "audio_en_storage_path": "4926_sometimes_we_change_the_handle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114927",
+    "text_pt": "Outras vezes apenas apertamos os parafusos.",
+    "text_en": "Other times we just tighten the screws.",
+    "audio_en_storage_path": "4927_other_times_we_just_tighten_the_screws.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114928",
+    "text_pt": "Onde você deixou a chave?",
+    "text_en": "Where did you leave the key?",
+    "audio_en_storage_path": "4928_where_did_you_leave_the_key.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114929",
+    "text_pt": "Sobre a mesa — talvez debaixo dos papéis.",
+    "text_en": "On the table — maybe under papers.",
+    "audio_en_storage_path": "4929_on_the_table_maybe_under_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114930",
+    "text_pt": "Quando você vai consertar a porta novamente?",
+    "text_en": "When will you fix the door again?",
+    "audio_en_storage_path": "4930_when_will_you_fix_the_door_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114931",
+    "text_pt": "Mais tarde esta semana — depois do trabalho.",
+    "text_en": "Later this week — after work.",
+    "audio_en_storage_path": "4931_later_this_week_after_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114932",
+    "text_pt": "Por que você ajustou a dobradiça hoje?",
+    "text_en": "Why did you adjust the hinge today?",
+    "audio_en_storage_path": "4932_why_did_you_adjust_the_hinge_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114933",
+    "text_pt": "Porque começou a fazer barulho.",
+    "text_en": "Because it started making noise.",
+    "audio_en_storage_path": "4933_because_it_started_making_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114934",
+    "text_pt": "Ela abre a porta todas as manhãs.",
+    "text_en": "She opens the door every morning.",
+    "audio_en_storage_path": "4934_she_opens_the_door_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114935",
+    "text_pt": "Deixa entrar ar fresco e sair luz.",
+    "text_en": "Lets fresh air in and light out.",
+    "audio_en_storage_path": "4935_lets_fresh_air_in_and_light_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114936",
+    "text_pt": "Amanhã. Não esquecerei de testar a fechadura novamente.",
+    "text_en": "Tomorrow. I will not forget to test the lock again.",
+    "audio_en_storage_path": "4936_tomorrow_i_will_not_forget_to_test_the_lock_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114937",
+    "text_pt": "Deixei-a destrancada ontem à noite.",
+    "text_en": "Left it unlocked last night.",
+    "audio_en_storage_path": "4937_left_it_unlocked_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114938",
+    "text_pt": "Feche com cuidado!",
+    "text_en": "Close it gently!",
+    "audio_en_storage_path": "4938_close_it_gently.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114939",
+    "text_pt": "O vento pode fechá-la com força.",
+    "text_en": "Wind can slam it shut.",
+    "audio_en_storage_path": "4939_wind_can_slam_it_shut.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

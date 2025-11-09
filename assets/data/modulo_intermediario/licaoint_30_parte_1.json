@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115075",
+    "text_pt": "Bomba de gás",
+    "text_en": "Gas Pump",
+    "audio_en_storage_path": "5075_gas_pump.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115076",
+    "text_pt": "A bomba de gasolina fica perto da entrada do posto.",
+    "text_en": "The gas pump is near the entrance of the station.",
+    "audio_en_storage_path": "5076_the_gas_pump_is_near_the_entrance_of_the_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115077",
+    "text_pt": "É onde eu abasteço meu carro.",
+    "text_en": "It's where I fill my car with fuel.",
+    "audio_en_storage_path": "5077_its_where_i_fill_my_car_with_fuel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115078",
+    "text_pt": "Há cinco bombas em cores diferentes.",
+    "text_en": "There are five pumps in different colors.",
+    "audio_en_storage_path": "5078_there_are_five_pumps_in_different_colors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115079",
+    "text_pt": "Azul, vermelho, verde, amarelo e preto — fáceis de identificar.",
+    "text_en": "Blue. red. green. yellow. and black — easy to spot.",
+    "audio_en_storage_path": "5079_blue_red_green_yellow_and_black_easy_to_spot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115080",
+    "text_pt": "Cada máquina tem uma tela e um teclado.",
+    "text_en": "Each machine has a screen and keypad.",
+    "audio_en_storage_path": "5080_each_machine_has_a_screen_and_keypad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115081",
+    "text_pt": "E uma mangueira longa com um bico.",
+    "text_en": "And a long hose with a nozzle.",
+    "audio_en_storage_path": "5081_and_a_long_hose_with_a_nozzle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115082",
+    "text_pt": "Há placas indicando diesel, regular e premium nas proximidades.",
+    "text_en": "There are signs for diesel. regular. and premium nearby.",
+    "audio_en_storage_path": "5082_there_are_signs_for_diesel_regular_and_premium_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115083",
+    "text_pt": "E um pequeno mapa da área.",
+    "text_en": "And a small map of the area.",
+    "audio_en_storage_path": "5083_and_a_small_map_of_the_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115084",
+    "text_pt": "Qual bomba funciona com cartão de crédito?",
+    "text_en": "Which pump works with credit card?",
+    "audio_en_storage_path": "5084_which_pump_works_with_credit_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115085",
+    "text_pt": "Todos eles — basta inserir e começar.",
+    "text_en": "All of them — just insert and start.",
+    "audio_en_storage_path": "5085_all_of_them_just_insert_and_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115086",
+    "text_pt": "Onde você pode pagar antes de bombear?",
+    "text_en": "Where can you pay before pumping?",
+    "audio_en_storage_path": "5086_where_can_you_pay_before_pumping.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115087",
+    "text_pt": "Dentro da loja — pergunte ao caixa.",
+    "text_en": "Inside the store — ask the cashier.",
+    "audio_en_storage_path": "5087_inside_the_store_ask_the_cashier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115088",
+    "text_pt": "Às vezes eu uso o autoatendimento.",
+    "text_en": "Sometimes I use self-service.",
+    "audio_en_storage_path": "5088_sometimes_i_use_selfservice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115089",
+    "text_pt": "Outras vezes peço ajuda à equipe.",
+    "text_en": "Other times I ask for help from staff.",
+    "audio_en_storage_path": "5089_other_times_i_ask_for_help_from_staff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115090",
+    "text_pt": "Onde você deixou seu recibo?",
+    "text_en": "Where did you leave your receipt?",
+    "audio_en_storage_path": "5090_where_did_you_leave_your_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115091",
+    "text_pt": "No carro — sob os óculos de sol.",
+    "text_en": "In the car — under the sunglasses.",
+    "audio_en_storage_path": "5091_in_the_car_under_the_sunglasses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115092",
+    "text_pt": "Quando os preços subirão novamente?",
+    "text_en": "When will prices go up again?",
+    "audio_en_storage_path": "5092_when_will_prices_go_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115093",
+    "text_pt": "Provavelmente amanhã — ouvi no rádio.",
+    "text_en": "Probably tomorrow — heard on the radio.",
+    "audio_en_storage_path": "5093_probably_tomorrow_heard_on_the_radio.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115094",
+    "text_pt": "Por que você parou de encher hoje?",
+    "text_en": "Why did you stop filling today?",
+    "audio_en_storage_path": "5094_why_did_you_stop_filling_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115095",
+    "text_pt": "Porque o tanque estava cheio — fez um som de clique.",
+    "text_en": "Because the tank was full — made a click sound.",
+    "audio_en_storage_path": "5095_because_the_tank_was_full_made_a_click_sound.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115096",
+    "text_pt": "Ele enche o tanque toda semana.",
+    "text_en": "He fills his tank every week.",
+    "audio_en_storage_path": "5096_he_fills_his_tank_every_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115097",
+    "text_pt": "Verifique sempre o preço primeiro.",
+    "text_en": "Always check the price first.",
+    "audio_en_storage_path": "5097_always_check_the_price_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115098",
+    "text_pt": "Amanhã. Não vou esquecer de fechar a tampa do tanque de combustível novamente.",
+    "text_en": "Tomorrow. I will not forget to close the gas cap again.",
+    "audio_en_storage_path": "5098_tomorrow_i_will_not_forget_to_close_the_gas_cap_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115099",
+    "text_pt": "Deixei aberto da última vez — o carro deu um aviso.",
+    "text_en": "Left it open last time — car gave a warning.",
+    "audio_en_storage_path": "5099_left_it_open_last_time_car_gave_a_warning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115100",
+    "text_pt": "Encha com segurança!",
+    "text_en": "Fill up safely!",
+    "audio_en_storage_path": "5100_fill_up_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115101",
+    "text_pt": "Não fume perto da bomba.",
+    "text_en": "Don’t smoke near the pump.",
+    "audio_en_storage_path": "5101_dont_smoke_near_the_pump.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

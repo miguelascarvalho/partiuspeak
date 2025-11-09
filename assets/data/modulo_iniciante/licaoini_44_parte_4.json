@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102461",
+    "text_pt": "📱 Loja de Celular",
+    "text_en": "📱 Cellphone Store",
+    "audio_en_storage_path": "1561_cellphone_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102462",
+    "text_pt": "A loja de celulares fica entre eletrônicos e jogos.",
+    "text_en": "The cellphone store is between electronics and games.",
+    "audio_en_storage_path": "1562_the_cellphone_store_is_between_electronics_and_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102463",
+    "text_pt": "Grandes placas dizem “Novos telefones aqui dentro”.",
+    "text_en": "Big signs say “New phones inside”.",
+    "audio_en_storage_path": "1563_big_signs_say_new_phones_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102464",
+    "text_pt": "Eu testo câmeras. baterias e som antes de comprar.",
+    "text_en": "I test cameras. battery. and sound before buying.",
+    "audio_en_storage_path": "1564_i_test_cameras_battery_and_sound_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102465",
+    "text_pt": "Ou simplesmente carregar meu telefone enquanto passo.",
+    "text_en": "Or just charge my phone while passing.",
+    "audio_en_storage_path": "1565_or_just_charge_my_phone_while_passing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102466",
+    "text_pt": "Os modelos mais novos são preto. branco e azul marinho.",
+    "text_en": "The newest models are black. white. and navy blue.",
+    "audio_en_storage_path": "1566_the_newest_models_are_black_white_and_navy_blue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102467",
+    "text_pt": "Uma delas tem uma opção de capa rosa — bonitinha. mas cara.",
+    "text_en": "One has a pink case option — cute but expensive.",
+    "audio_en_storage_path": "1567_one_has_a_pink_case_option_cute_but_expensive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102468",
+    "text_pt": "Este telefone tira boas fotos?",
+    "text_en": "Does this phone take good photos?",
+    "audio_en_storage_path": "1568_does_this_phone_take_good_photos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102469",
+    "text_pt": "Sim. mesmo com pouca luz e à noite.",
+    "text_en": "Yes — even in low light and night.",
+    "audio_en_storage_path": "1569_yes_even_in_low_light_and_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102470",
+    "text_pt": "Quanto custa esse carregador?",
+    "text_en": "How much is this charger?",
+    "audio_en_storage_path": "1570_how_much_is_this_charger.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102471",
+    "text_pt": "US$ 25 — nada mal para carregamento rápido.",
+    "text_en": "$25 — not bad for fast charging.",
+    "audio_en_storage_path": "1571_25_not_bad_for_fast_charging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102472",
+    "text_pt": "Onde posso obter ajuda com reparos?",
+    "text_en": "Where can I get help with repairs?",
+    "audio_en_storage_path": "1572_where_can_i_get_help_with_repairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102473",
+    "text_pt": "No balcão — alguém chamará seu nome.",
+    "text_en": "At the counter — someone will call your name.",
+    "audio_en_storage_path": "1573_at_the_counter_someone_will_call_your_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102474",
+    "text_pt": "Não vou atualizar meu telefone hoje.",
+    "text_en": "I won’t upgrade my phone today.",
+    "audio_en_storage_path": "1574_i_wont_upgrade_my_phone_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102475",
+    "text_pt": "O meu ainda funciona bem — sem pressa.",
+    "text_en": "Mine still works fine — no rush.",
+    "audio_en_storage_path": "1575_mine_still_works_fine_no_rush.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102476",
+    "text_pt": "Quando os novos fones de ouvido estarão disponíveis?",
+    "text_en": "When will the new headphones be available?",
+    "audio_en_storage_path": "1576_when_will_the_new_headphones_be_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102477",
+    "text_pt": "Em duas semanas — faça a pré-encomenda agora se quiser.",
+    "text_en": "In two weeks — pre-order now if you want.",
+    "audio_en_storage_path": "1577_in_two_weeks_preorder_now_if_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102478",
+    "text_pt": "Por que você devolveu o caso?",
+    "text_en": "Why did you return that case?",
+    "audio_en_storage_path": "1578_why_did_you_return_that_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102479",
+    "text_pt": "Porque não protegia contra quedas.",
+    "text_en": "Because it didn’t protect from drops.",
+    "audio_en_storage_path": "1579_because_it_didnt_protect_from_drops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102480",
+    "text_pt": "Ele sempre lê o contrato antes de assinar.",
+    "text_en": "He always reads the contract before signing.",
+    "audio_en_storage_path": "1580_he_always_reads_the_contract_before_signing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102481",
+    "text_pt": "Odeia taxas ocultas ou cobranças surpresa.",
+    "text_en": "Hates hidden fees or surprise charges.",
+    "audio_en_storage_path": "1581_hates_hidden_fees_or_surprise_charges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102482",
+    "text_pt": "Amanhã. Não esquecerei de comparar preços novamente.",
+    "text_en": "Tomorrow. I will not forget to compare prices again.",
+    "audio_en_storage_path": "1582_tomorrow_i_will_not_forget_to_compare_prices_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102483",
+    "text_pt": "Paguei mais do que o necessário da última vez.",
+    "text_en": "Paid more than needed last time.",
+    "audio_en_storage_path": "1583_paid_more_than_needed_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102484",
+    "text_pt": "Pergunte antes de comprar!",
+    "text_en": "Ask questions before buying!",
+    "audio_en_storage_path": "1584_ask_questions_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102485",
+    "text_pt": "Certifique-se de que você entendeu tudo.",
+    "text_en": "Make sure you understand everything.",
+    "audio_en_storage_path": "1585_make_sure_you_understand_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102486",
+    "text_pt": "Tecnologia é legal. mas pense duas vezes!",
+    "text_en": "Tech is cool. but think twice!",
+    "audio_en_storage_path": "1586_tech_is_cool_but_think_twice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102487",
+    "text_pt": "Compre somente se realmente precisar.",
+    "text_en": "Buy only if you really need it.",
+    "audio_en_storage_path": "1587_buy_only_if_you_really_need_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

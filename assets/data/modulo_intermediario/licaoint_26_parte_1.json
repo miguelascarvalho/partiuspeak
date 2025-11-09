@@ -1,0 +1,290 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120238",
+    "text_pt": "Boa viagem na sua volta",
+    "text_en": "Safe travels on your way back",
+    "audio_en_storage_path": "238_safe_travels_on_your_way_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120239",
+    "text_pt": "Check-in no hotel e primeiras impressões",
+    "text_en": "Hotel Check-In and First Impressions",
+    "audio_en_storage_path": "239_hotel_checkin_and_first_impressions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120240",
+    "text_pt": "O lobby parece muito limpo e moderno",
+    "text_en": "The lobby looks very clean and modern",
+    "audio_en_storage_path": "240_the_lobby_looks_very_clean_and_modern.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120241",
+    "text_pt": "O lobby é super limpo e meio chique",
+    "text_en": "Lobby’s super clean and kinda fancy",
+    "audio_en_storage_path": "241_lobbys_super_clean_and_kinda_fancy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120242",
+    "text_pt": "Preciso fazer o check-in para minha reserva",
+    "text_en": "I need to check in for my reservation",
+    "audio_en_storage_path": "242_i_need_to_check_in_for_my_reservation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120243",
+    "text_pt": "Tenho que fazer o check-in — o nome está na lista",
+    "text_en": "I gotta check in — name’s on the list",
+    "audio_en_storage_path": "243_i_gotta_check_in_names_on_the_list.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120244",
+    "text_pt": "Você tem algum quarto disponível para esta noite?",
+    "text_en": "Do you have any rooms available for tonight?",
+    "audio_en_storage_path": "244_do_you_have_any_rooms_available_for_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120245",
+    "text_pt": "Ainda há algum quarto disponível para esta noite?",
+    "text_en": "Any rooms left for tonight?",
+    "audio_en_storage_path": "245_any_rooms_left_for_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120246",
+    "text_pt": "Esta é a primeira vez que fico neste hotel",
+    "text_en": "This is my first time staying at this hotel",
+    "audio_en_storage_path": "246_this_is_my_first_time_staying_at_this_hotel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120247",
+    "text_pt": "Primeira vez aqui — nunca fiquei antes",
+    "text_en": "First time here — never stayed before",
+    "audio_en_storage_path": "247_first_time_here_never_stayed_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120248",
+    "text_pt": "Deixe-me escanear meu documento de identidade e preencher este formulário",
+    "text_en": "Let me scan my ID and fill out this form",
+    "audio_en_storage_path": "248_let_me_scan_my_id_and_fill_out_this_form.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120249",
+    "text_pt": "Deixe-me escanear minha identidade real rapidamente e assinar este papel",
+    "text_en": "Lemme scan my ID real quick and sign this paper",
+    "audio_en_storage_path": "249_lemme_scan_my_id_real_quick_and_sign_this_paper.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120250",
+    "text_pt": "Eles me deram um cartão-chave e um mapa do hotel",
+    "text_en": "They gave me a key card and a map of the hotel",
+    "audio_en_storage_path": "250_they_gave_me_a_key_card_and_a_map_of_the_hotel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120251",
+    "text_pt": "Tenho um cartão-chave e um pequeno mapa para me orientar",
+    "text_en": "Got a key card and a little map to find my way around",
+    "audio_en_storage_path": "251_got_a_key_card_and_a_little_map_to_find_my_way_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120252",
+    "text_pt": "Há Wi-Fi gratuito no quarto?",
+    "text_en": "Is there free Wi-Fi in the room?",
+    "audio_en_storage_path": "252_is_there_free_wifi_in_the_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120253",
+    "text_pt": "O Wi-Fi é realmente gratuito no quarto?",
+    "text_en": "Is the Wi-Fi really free in the room?",
+    "audio_en_storage_path": "253_is_the_wifi_really_free_in_the_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120254",
+    "text_pt": "A recepcionista foi muito simpática e prestativa",
+    "text_en": "The receptionist was very friendly and helpful",
+    "audio_en_storage_path": "254_the_receptionist_was_very_friendly_and_helpful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120255",
+    "text_pt": "O recepcionista foi super simpático e fácil de conversar",
+    "text_en": "Front desk guy was super nice and easy to talk to",
+    "audio_en_storage_path": "255_front_desk_guy_was_super_nice_and_easy_to_talk_to.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120256",
+    "text_pt": "Posso deixar minha bagagem aqui antes de sair?",
+    "text_en": "Can I leave my luggage here before going out?",
+    "audio_en_storage_path": "256_can_i_leave_my_luggage_here_before_going_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120257",
+    "text_pt": "Posso guardar minhas malas aqui antes de sair?",
+    "text_en": "Can I stash my bags here before I head out?",
+    "audio_en_storage_path": "257_can_i_stash_my_bags_here_before_i_head_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120258",
+    "text_pt": "O elevador fica logo ali, perto do restaurante.",
+    "text_en": "The elevator is right over there near the restaurant",
+    "audio_en_storage_path": "258_the_elevator_is_right_over_there_near_the_restaurant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120259",
+    "text_pt": "O elevador fica logo ali, ao lado do restaurante",
+    "text_en": "Elevator’s just over there next to the food place",
+    "audio_en_storage_path": "259_elevators_just_over_there_next_to_the_food_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120260",
+    "text_pt": "Reservamos um quarto com duas camas e uma pequena varanda",
+    "text_en": "We booked a room with two beds and a small balcony",
+    "audio_en_storage_path": "260_we_booked_a_room_with_two_beds_and_a_small_balcony.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120261",
+    "text_pt": "O quarto tem duas camas e uma pequena varanda externa",
+    "text_en": "Room has two beds and a tiny balcony outside",
+    "audio_en_storage_path": "261_room_has_two_beds_and_a_tiny_balcony_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120262",
+    "text_pt": "Alguém poderia chamar um táxi para mim amanhã de manhã?",
+    "text_en": "Could someone call a taxi for me tomorrow morning?",
+    "audio_en_storage_path": "262_could_someone_call_a_taxi_for_me_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120263",
+    "text_pt": "Alguém pode me chamar um táxi amanhã cedo?",
+    "text_en": "Can someone call me a cab early tomorrow?",
+    "audio_en_storage_path": "263_can_someone_call_me_a_cab_early_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120264",
+    "text_pt": "A vista da janela é para a cidade e o rio",
+    "text_en": "The view from the window faces the city and the river",
+    "audio_en_storage_path": "264_the_view_from_the_window_faces_the_city_and_the_river.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120265",
+    "text_pt": "Da janela você vê a cidade e o rio",
+    "text_en": "From the window you see the city and the river",
+    "audio_en_storage_path": "265_from_the_window_you_see_the_city_and_the_river.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120266",
+    "text_pt": "Espero que o quarto seja silencioso e longe do barulho da rua",
+    "text_en": "I hope the room is quiet and away from the street noise",
+    "audio_en_storage_path": "266_i_hope_the_room_is_quiet_and_away_from_the_street_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120267",
+    "text_pt": "Espero que este quarto fique longe da rua — não quero ouvir o trânsito",
+    "text_en": "Hope this room’s far from the street — don’t wanna hear traffic",
+    "audio_en_storage_path": "267_hope_this_rooms_far_from_the_street_dont_wanna_hear_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120268",
+    "text_pt": "Tenha uma ótima estadia e sinta-se em casa",
+    "text_en": "Have a great stay and feel at home",
+    "audio_en_storage_path": "268_have_a_great_stay_and_feel_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120269",
+    "text_pt": "Fique à vontade e aproveite seu tempo aqui",
+    "text_en": "Make yourself comfortable and enjoy your time here",
+    "audio_en_storage_path": "269_make_yourself_comfortable_and_enjoy_your_time_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

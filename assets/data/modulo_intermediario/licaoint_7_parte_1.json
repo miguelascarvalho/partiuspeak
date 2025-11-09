@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110782",
+    "text_pt": "Ônibus",
+    "text_en": "Bus",
+    "audio_en_storage_path": "782_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110783",
+    "text_pt": "Ele pega o ônibus todas as manhãs.",
+    "text_en": "He takes the bus every morning.",
+    "audio_en_storage_path": "783_he_takes_the_bus_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110784",
+    "text_pt": "Ele vai à escola ou trabalha com ela.",
+    "text_en": "He goes to school or works with it.",
+    "audio_en_storage_path": "784_he_goes_to_school_or_works_with_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110785",
+    "text_pt": "O ônibus para perto de sua casa às 7:30.",
+    "text_en": "The bus stops near his house at 7:30.",
+    "audio_en_storage_path": "785_the_bus_stops_near_his_house_at_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110786",
+    "text_pt": "É sempre pontual.",
+    "text_en": "It’s always on time.",
+    "audio_en_storage_path": "786_its_always_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110787",
+    "text_pt": "Ela espera o ônibus na chuva.",
+    "text_en": "She waits for the bus in the rain.",
+    "audio_en_storage_path": "787_she_waits_for_the_bus_in_the_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110788",
+    "text_pt": "Ela carrega um guarda-chuva para qualquer eventualidade.",
+    "text_en": "She carries an umbrella just in case.",
+    "audio_en_storage_path": "788_she_carries_an_umbrella_just_in_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110789",
+    "text_pt": "Entramos no ônibus e encontramos assentos.",
+    "text_en": "We get on the bus and find seats.",
+    "audio_en_storage_path": "789_we_get_on_the_bus_and_find_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110790",
+    "text_pt": "Algumas pessoas ficam de pé na hora do rush.",
+    "text_en": "Some people stand during rush hour.",
+    "audio_en_storage_path": "790_some_people_stand_during_rush_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110791",
+    "text_pt": "Eles conversam ou ouvem música enquanto viajam.",
+    "text_en": "They talk or listen to music while traveling.",
+    "audio_en_storage_path": "791_they_talk_or_listen_to_music_while_traveling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110792",
+    "text_pt": "Outros leem livros ou assistem a vídeos.",
+    "text_en": "Others read books or watch videos.",
+    "audio_en_storage_path": "792_others_read_books_or_watch_videos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110793",
+    "text_pt": "O ônibus é grande e amarelo.",
+    "text_en": "The bus is big and yellow.",
+    "audio_en_storage_path": "793_the_bus_is_big_and_yellow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110794",
+    "text_pt": "Tem muitas janelas e assentos azuis.",
+    "text_en": "It has many windows and blue seats.",
+    "audio_en_storage_path": "794_it_has_many_windows_and_blue_seats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110795",
+    "text_pt": "O que ele carrega quando pega o ônibus?",
+    "text_en": "What does he carry when taking the bus?",
+    "audio_en_storage_path": "795_what_does_he_carry_when_taking_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110796",
+    "text_pt": "Uma mochila e seu almoço.",
+    "text_en": "A backpack and his lunch.",
+    "audio_en_storage_path": "796_a_backpack_and_his_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110797",
+    "text_pt": "Para onde vai o ônibus?",
+    "text_en": "Where does the bus go?",
+    "audio_en_storage_path": "797_where_does_the_bus_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110798",
+    "text_pt": "Para a escola, para o centro da cidade e para outros bairros.",
+    "text_en": "To school. the city center. and other neighborhoods.",
+    "audio_en_storage_path": "798_to_school_the_city_center_and_other_neighborhoods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110799",
+    "text_pt": "Quando eles costumam pegar o ônibus?",
+    "text_en": "When do they usually take the bus?",
+    "audio_en_storage_path": "799_when_do_they_usually_take_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110800",
+    "text_pt": "Durante a semana — nunca nos fins de semana.",
+    "text_en": "During weekdays — never on weekends.",
+    "audio_en_storage_path": "800_during_weekdays_never_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110801",
+    "text_pt": "Por que ela perdeu o ônibus hoje?",
+    "text_en": "Why did she miss the bus today?",
+    "audio_en_storage_path": "801_why_did_she_miss_the_bus_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110802",
+    "text_pt": "Porque ela acordou tarde.",
+    "text_en": "Because she woke up late.",
+    "audio_en_storage_path": "802_because_she_woke_up_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110803",
+    "text_pt": "Ele usa o ônibus cinco dias por semana.",
+    "text_en": "He uses the bus five days a week.",
+    "audio_en_storage_path": "803_he_uses_the_bus_five_days_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110804",
+    "text_pt": "É rápido e barato.",
+    "text_en": "It’s fast and cheap.",
+    "audio_en_storage_path": "804_its_fast_and_cheap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110805",
+    "text_pt": "Amanhã não esqueceremos mais nossos ingressos.",
+    "text_en": "Tomorrow. we will not forget our tickets again.",
+    "audio_en_storage_path": "805_tomorrow_we_will_not_forget_our_tickets_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110806",
+    "text_pt": "Nós os guardaremos em nossos bolsos.",
+    "text_en": "We’ll keep them in our pockets.",
+    "audio_en_storage_path": "806_well_keep_them_in_our_pockets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110807",
+    "text_pt": "Tenha uma viagem segura!",
+    "text_en": "Have a safe trip!",
+    "audio_en_storage_path": "807_have_a_safe_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110808",
+    "text_pt": "Vejo você em breve!",
+    "text_en": "See you soon!",
+    "audio_en_storage_path": "808_see_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

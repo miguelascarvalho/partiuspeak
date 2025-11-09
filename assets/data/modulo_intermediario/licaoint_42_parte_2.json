@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121819",
+    "text_pt": "Videogames e Personagens",
+    "text_en": "Video Games and Characters",
+    "audio_en_storage_path": "1819_video_games_and_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121820",
+    "text_pt": "Este jogo tem muitos personagens com habilidades diferentes",
+    "text_en": "This game has many characters with different skills",
+    "audio_en_storage_path": "1820_this_game_has_many_characters_with_different_skills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121821",
+    "text_pt": "Tem muitos jogadores neste jogo — cada um com seus próprios movimentos",
+    "text_en": "Got tons of players in this game — each one got their own moves",
+    "audio_en_storage_path": "1821_got_tons_of_players_in_this_game_each_one_got_their_own_moves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121822",
+    "text_pt": "Alguns heróis são rápidos. Outros são fortes ou inteligentes.",
+    "text_en": "Some heroes are fast. others are strong or smart",
+    "audio_en_storage_path": "1822_some_heroes_are_fast_others_are_strong_or_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121823",
+    "text_pt": "Alguns são rápidos. Alguns são durões. Alguns são realmente inteligentes.",
+    "text_en": "Some are quick. some are tough. some just really clever",
+    "audio_en_storage_path": "1823_some_are_quick_some_are_tough_some_just_really_clever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121824",
+    "text_pt": "Cada personagem tem movimentos e poderes especiais",
+    "text_en": "Each character has special moves and powers",
+    "audio_en_storage_path": "1824_each_character_has_special_moves_and_powers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121825",
+    "text_pt": "Todo herói tem truques legais que pode usar na batalha",
+    "text_en": "Every hero’s got cool tricks they can use in battle",
+    "audio_en_storage_path": "1825_every_heros_got_cool_tricks_they_can_use_in_battle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121826",
+    "text_pt": "Você pode escolher o seu favorito antes de começar a partida",
+    "text_en": "You can choose your favorite before starting the match",
+    "audio_en_storage_path": "1826_you_can_choose_your_favorite_before_starting_the_match.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121827",
+    "text_pt": "Escolha quem você mais gosta antes da luta começar",
+    "text_en": "Pick whoever you like best before the fight begins",
+    "audio_en_storage_path": "1827_pick_whoever_you_like_best_before_the_fight_begins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121828",
+    "text_pt": "Posso jogar como o mago do fogo?",
+    "text_en": "Can I play as the fire wizard?",
+    "audio_en_storage_path": "1828_can_i_play_as_the_fire_wizard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121829",
+    "text_pt": "Posso escolher aquele cara fogo para esta rodada?",
+    "text_en": "Can I pick that fire guy for this round?",
+    "audio_en_storage_path": "1829_can_i_pick_that_fire_guy_for_this_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121830",
+    "text_pt": "Sim, ele é bom para iniciantes",
+    "text_en": "Yes. he’s good for beginners",
+    "audio_en_storage_path": "1830_yes_hes_good_for_beginners.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121831",
+    "text_pt": "Sim, é fácil de aprender se você for novo",
+    "text_en": "Yeah. he’s easy to learn if you’re new",
+    "audio_en_storage_path": "1831_yeah_hes_easy_to_learn_if_youre_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121832",
+    "text_pt": "Ou você pode tentar o ninja se quiser velocidade",
+    "text_en": "Or you can try the ninja if you want speed",
+    "audio_en_storage_path": "1832_or_you_can_try_the_ninja_if_you_want_speed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121833",
+    "text_pt": "Ou vá com o cara das sombras se você gosta de se mover rápido",
+    "text_en": "Or go with the shadow dude if ya like movin’ fast",
+    "audio_en_storage_path": "1833_or_go_with_the_shadow_dude_if_ya_like_movin_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121834",
+    "text_pt": "Onde encontro o personagem mais forte?",
+    "text_en": "Where do I find the strongest character?",
+    "audio_en_storage_path": "1834_where_do_i_find_the_strongest_character.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121835",
+    "text_pt": "Onde posso desbloquear o melhor lutador?",
+    "text_en": "Where can I unlock the top fighter?",
+    "audio_en_storage_path": "1835_where_can_i_unlock_the_top_fighter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121836",
+    "text_pt": "Quando o próximo nível começará?",
+    "text_en": "When will the next level start?",
+    "audio_en_storage_path": "1836_when_will_the_next_level_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121837",
+    "text_pt": "Quando passamos para a próxima fase?",
+    "text_en": "When we jump into the next stage?",
+    "audio_en_storage_path": "1837_when_we_jump_into_the_next_stage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121838",
+    "text_pt": "Por que você escolheu o cavaleiro em vez do arqueiro?",
+    "text_en": "Why did you choose the knight instead of the archer?",
+    "audio_en_storage_path": "1838_why_did_you_choose_the_knight_instead_of_the_archer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121839",
+    "text_pt": "O que você fez com o cara da espada em vez do atirador de arco?",
+    "text_en": "What made ya go with the sword guy over the bow shooter?",
+    "audio_en_storage_path": "1839_what_made_ya_go_with_the_sword_guy_over_the_bow_shooter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121840",
+    "text_pt": "Ele sempre joga como o matador de dragões",
+    "text_en": "He always plays as the dragon slayer",
+    "audio_en_storage_path": "1840_he_always_plays_as_the_dragon_slayer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121841",
+    "text_pt": "O cara só usa aquele matador de dragões toda vez",
+    "text_en": "Dude only uses that dragon killer every time",
+    "audio_en_storage_path": "1841_dude_only_uses_that_dragon_killer_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121842",
+    "text_pt": "Não vou mudar meu personagem mesmo se estiver perdendo",
+    "text_en": "I won’t change my character even if I’m losing",
+    "audio_en_storage_path": "1842_i_wont_change_my_character_even_if_im_losing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121843",
+    "text_pt": "Continuando com minha escolha, mesmo que as coisas fiquem difíceis",
+    "text_en": "Stickin’ with my pick even if things get rough",
+    "audio_en_storage_path": "1843_stickin_with_my_pick_even_if_things_get_rough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121844",
+    "text_pt": "Bom trabalho escolhendo o herói certo",
+    "text_en": "Good job picking the right hero",
+    "audio_en_storage_path": "1844_good_job_picking_the_right_hero.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121845",
+    "text_pt": "Boa escolha — escolheu o lutador perfeito",
+    "text_en": "Nice choice — picked the perfect fighter",
+    "audio_en_storage_path": "1845_nice_choice_picked_the_perfect_fighter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121846",
+    "text_pt": "Tome cuidado e observe sua barra de saúde",
+    "text_en": "Take care and watch your health bar",
+    "audio_en_storage_path": "1846_take_care_and_watch_your_health_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121847",
+    "text_pt": "Fique de olho no seu medidor de vida — não o deixe cair",
+    "text_en": "Keep an eye on your life meter — don’t let it drop",
+    "audio_en_storage_path": "1847_keep_an_eye_on_your_life_meter_dont_let_it_drop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121848",
+    "text_pt": "Vejo vocês na próxima rodada — boa sorte",
+    "text_en": "See you in the next round — good luck",
+    "audio_en_storage_path": "1848_see_you_in_the_next_round_good_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121849",
+    "text_pt": "Te vejo na próxima luta — quebre uma perna",
+    "text_en": "Catch ya in the next fight — break a leg",
+    "audio_en_storage_path": "1849_catch_ya_in_the_next_fight_break_a_leg.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

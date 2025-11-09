@@ -1,0 +1,272 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120952",
+    "text_pt": "Dentro da Floricultura – Fazendo Perguntas",
+    "text_en": "Inside the Flower Shop – Asking Questions",
+    "audio_en_storage_path": "952_inside_the_flower_shop_asking_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120953",
+    "text_pt": "Que tipos de flores são mais fáceis de cultivar em casa?",
+    "text_en": "What kind of flowers are easiest to grow at home?",
+    "audio_en_storage_path": "953_what_kind_of_flowers_are_easiest_to_grow_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120954",
+    "text_pt": "Quais flores são fáceis de cultivar se eu tentar em casa?",
+    "text_en": "What blooms are easy to raise if I try at home?",
+    "audio_en_storage_path": "954_what_blooms_are_easy_to_raise_if_i_try_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120955",
+    "text_pt": "Quais duram mais depois de cortadas?",
+    "text_en": "Which ones last the longest after being cut?",
+    "audio_en_storage_path": "955_which_ones_last_the_longest_after_being_cut.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120956",
+    "text_pt": "Quais permanecem frescos por mais tempo depois de cortados?",
+    "text_en": "Which ones stay fresh the longest once they’re cut?",
+    "audio_en_storage_path": "956_which_ones_stay_fresh_the_longest_once_theyre_cut.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120957",
+    "text_pt": "Elas são cultivadas localmente ou importadas?",
+    "text_en": "Are these grown locally or imported?",
+    "audio_en_storage_path": "957_are_these_grown_locally_or_imported.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120958",
+    "text_pt": "Elas são cultivadas perto de você ou são enviadas de longe?",
+    "text_en": "Are these grown nearby or shipped in from far away?",
+    "audio_en_storage_path": "958_are_these_grown_nearby_or_shipped_in_from_far_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120959",
+    "text_pt": "Existe uma melhor época do ano para plantá-las?",
+    "text_en": "Is there a best time of year to plant them?",
+    "audio_en_storage_path": "959_is_there_a_best_time_of_year_to_plant_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120960",
+    "text_pt": "Qual é a melhor época para plantar esses caras?",
+    "text_en": "When’s the best season to plant these guys?",
+    "audio_en_storage_path": "960_whens_the_best_season_to_plant_these_guys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120961",
+    "text_pt": "Por que algumas flores são mais caras que outras?",
+    "text_en": "Why are some flowers more expensive than others?",
+    "audio_en_storage_path": "961_why_are_some_flowers_more_expensive_than_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120962",
+    "text_pt": "Por que certas flores custam mais que as outras?",
+    "text_en": "Why are certain blooms costin’ more than the rest?",
+    "audio_en_storage_path": "962_why_are_certain_blooms_costin_more_than_the_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120963",
+    "text_pt": "Cores diferentes significam coisas diferentes?",
+    "text_en": "Do different colors mean different things?",
+    "audio_en_storage_path": "963_do_different_colors_mean_different_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120964",
+    "text_pt": "As cores dizem algo diferente umas das outras?",
+    "text_en": "Do the colors say somethin’ different from each other?",
+    "audio_en_storage_path": "964_do_the_colors_say_somethin_different_from_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120965",
+    "text_pt": "Com que frequência devo regá-las?",
+    "text_en": "How often should I water them?",
+    "audio_en_storage_path": "965_how_often_should_i_water_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120966",
+    "text_pt": "Quanta quantidade e com que frequência devo dar-lhes água?",
+    "text_en": "How much and how often should I give ‘em water?",
+    "audio_en_storage_path": "966_how_much_and_how_often_should_i_give_em_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120967",
+    "text_pt": "Devo mantê-los sob luz solar direta ou na sombra?",
+    "text_en": "Should I keep them in direct sunlight or shade?",
+    "audio_en_storage_path": "967_should_i_keep_them_in_direct_sunlight_or_shade.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120968",
+    "text_pt": "Eles devem assar no sol ou ficar na sombra?",
+    "text_en": "Should they bake in the sun or stay in the shade?",
+    "audio_en_storage_path": "968_should_they_bake_in_the_sun_or_stay_in_the_shade.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120969",
+    "text_pt": "Posso misturar diferentes tipos de flores em um vaso?",
+    "text_en": "Can I mix different types of flowers in one vase?",
+    "audio_en_storage_path": "969_can_i_mix_different_types_of_flowers_in_one_vase.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120970",
+    "text_pt": "Posso colocar tipos diferentes no mesmo pote?",
+    "text_en": "Can I throw different kinds into the same jar?",
+    "audio_en_storage_path": "970_can_i_throw_different_kinds_into_the_same_jar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120971",
+    "text_pt": "O que devo evitar ao organizá-los?",
+    "text_en": "What should I avoid when arranging them?",
+    "audio_en_storage_path": "971_what_should_i_avoid_when_arranging_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120972",
+    "text_pt": "O que devo pular ao juntá-los?",
+    "text_en": "What should I skip when puttin’ them together?",
+    "audio_en_storage_path": "972_what_should_i_skip_when_puttin_them_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120973",
+    "text_pt": "Vocês dão aulas de arranjos florais aqui?",
+    "text_en": "Do you teach flower arranging classes here?",
+    "audio_en_storage_path": "973_do_you_teach_flower_arranging_classes_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120974",
+    "text_pt": "Vocês ensinam as pessoas a arranjar flores aqui?",
+    "text_en": "You teach folks how to arrange flowers in here?",
+    "audio_en_storage_path": "974_you_teach_folks_how_to_arrange_flowers_in_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120975",
+    "text_pt": "Posso encomendar algo semelhante on-line na próxima vez?",
+    "text_en": "Could I order something similar online next time?",
+    "audio_en_storage_path": "975_could_i_order_something_similar_online_next_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120976",
+    "text_pt": "Da próxima vez. Posso clicar e fazer o pedido online?",
+    "text_en": "Next time. could I just click and order online?",
+    "audio_en_storage_path": "976_next_time_could_i_just_click_and_order_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120977",
+    "text_pt": "Vocês vendem flores secas ou somente frescas?",
+    "text_en": "Do you sell dried flowers or only fresh ones?",
+    "audio_en_storage_path": "977_do_you_sell_dried_flowers_or_only_fresh_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120978",
+    "text_pt": "Você tem versões secas ou apenas frescas?",
+    "text_en": "Got dried versions or just the fresh stuff?",
+    "audio_en_storage_path": "978_got_dried_versions_or_just_the_fresh_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120979",
+    "text_pt": "Avise-me se tiver alguma promoção especial esta semana",
+    "text_en": "Let me know if you have any specials this week",
+    "audio_en_storage_path": "979_let_me_know_if_you_have_any_specials_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120980",
+    "text_pt": "Diga-me se você tem alguma promoção acontecendo esta semana",
+    "text_en": "Tell me if you got any deals runnin’ this week",
+    "audio_en_storage_path": "980_tell_me_if_you_got_any_deals_runnin_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120981",
+    "text_pt": "Obrigado pelo seu tempo. Tenha um ótimo dia.",
+    "text_en": "Thanks for your time. Have a great day",
+    "audio_en_storage_path": "981_thanks_for_your_time_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

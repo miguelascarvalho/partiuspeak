@@ -1,0 +1,1190 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131056",
+    "text_pt": "Busca por Artefatos: Missões Épicas para Encontrar Objetos Místicos ou Poderosos",
+    "text_en": "Quest for Artifacts: Epic Missions to Find Mystical or Powerful Objects",
+    "audio_en_storage_path": "1056_quest_for_artifacts_epic_missions_to_find_mystical_or_powerful_objects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131057",
+    "text_pt": "Buscas por artefatos impulsionam o enredo de inúmeros contos de fantasia.",
+    "text_en": "Quests for artifacts drive the plot of countless fantasy tales.",
+    "audio_en_storage_path": "1057_quests_for_artifacts_drive_the_plot_of_countless_fantasy_tales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131058",
+    "text_pt": "Esses objetos possuem um poder imenso, capaz de alterar destinos.",
+    "text_en": "These objects hold immense power capable of altering destinies.",
+    "audio_en_storage_path": "1058_these_objects_hold_immense_power_capable_of_altering_destinies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131059",
+    "text_pt": "Espadas lendárias simbolizam justiça e retidão.",
+    "text_en": "Legendary swords symbolize justice and righteousness.",
+    "audio_en_storage_path": "1059_legendary_swords_symbolize_justice_and_righteousness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131060",
+    "text_pt": "Empunhá-las concede aos heróis a força para derrotar o mal.",
+    "text_en": "Wielding them grants heroes the strength to vanquish evil.",
+    "audio_en_storage_path": "1060_wielding_them_grants_heroes_the_strength_to_vanquish_evil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131061",
+    "text_pt": "Amuletos e talismãs protegem quem os usa de danos ou concedem habilidades especiais.",
+    "text_en": "Amulets and talismans protect wearers from harm or grant special abilities.",
+    "audio_en_storage_path": "1061_amulets_and_talismans_protect_wearers_from_harm_or_grant_special_abilities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131062",
+    "text_pt": "Seus encantamentos protegem viajantes em jornadas perigosas.",
+    "text_en": "Their enchantments shield travelers on dangerous journeys.",
+    "audio_en_storage_path": "1062_their_enchantments_shield_travelers_on_dangerous_journeys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131063",
+    "text_pt": "Relíquias de civilizações antigas guardam segredos perdidos no tempo.",
+    "text_en": "Relics of ancient civilizations hold secrets lost to time.",
+    "audio_en_storage_path": "1063_relics_of_ancient_civilizations_hold_secrets_lost_to_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131064",
+    "text_pt": "Decifrar seu propósito exige habilidade e perseverança.",
+    "text_en": "Deciphering their purpose requires skill and perseverance.",
+    "audio_en_storage_path": "1064_deciphering_their_purpose_requires_skill_and_perseverance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131065",
+    "text_pt": "Mapas levam aventureiros a locais escondidos onde artefatos estão enterrados.",
+    "text_en": "Maps lead adventurers to hidden locations where artifacts lie buried.",
+    "audio_en_storage_path": "1065_maps_lead_adventurers_to_hidden_locations_where_artifacts_lie_buried.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131066",
+    "text_pt": "Terrenos traiçoeiros protegem esses tesouros de buscadores indignos.",
+    "text_en": "Treacherous terrains guard these treasures from unworthy seekers.",
+    "audio_en_storage_path": "1066_treacherous_terrains_guard_these_treasures_from_unworthy_seekers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131067",
+    "text_pt": "Guardiões vigiam relíquias sagradas, testando o valor dos intrusos.",
+    "text_en": "Guardians stand watch over sacred relics. testing intruders’ worthiness.",
+    "audio_en_storage_path": "1067_guardians_stand_watch_over_sacred_relics_testing_intruders_worthiness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131068",
+    "text_pt": "Derrotá-los prova a prontidão do herói para exercer tal poder.",
+    "text_en": "Defeating them proves the hero’s readiness to wield such power.",
+    "audio_en_storage_path": "1068_defeating_them_proves_the_heros_readiness_to_wield_such_power.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131069",
+    "text_pt": "Enigmas e quebra-cabeças bloqueiam o acesso às câmaras que contêm artefatos.",
+    "text_en": "Riddles and puzzles block access to chambers containing artifacts.",
+    "audio_en_storage_path": "1069_riddles_and_puzzles_block_access_to_chambers_containing_artifacts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131070",
+    "text_pt": "Resolvê-los demonstra inteligência e desenvoltura.",
+    "text_en": "Solving them demonstrates intelligence and resourcefulness.",
+    "audio_en_storage_path": "1070_solving_them_demonstrates_intelligence_and_resourcefulness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131071",
+    "text_pt": "Itens amaldiçoados tentam indivíduos gananciosos com promessas de riqueza ou domínio.",
+    "text_en": "Cursed items tempt greedy individuals with promises of wealth or dominance.",
+    "audio_en_storage_path": "1071_cursed_items_tempt_greedy_individuals_with_promises_of_wealth_or_dominance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131072",
+    "text_pt": "Reivindicá-los desencadeia caos e sofrimento no mundo.",
+    "text_en": "Claiming them unleashes chaos and suffering upon the world.",
+    "audio_en_storage_path": "1072_claiming_them_unleashes_chaos_and_suffering_upon_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131073",
+    "text_pt": "Equipes de aventureiros se unem para recuperar artefatos misteriosos.",
+    "text_en": "Teams of adventurers band together to retrieve elusive artifacts.",
+    "audio_en_storage_path": "1073_teams_of_adventurers_band_together_to_retrieve_elusive_artifacts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131074",
+    "text_pt": "Cada membro contribui com habilidades únicas essenciais para o sucesso.",
+    "text_en": "Each member contributes unique skills essential to success.",
+    "audio_en_storage_path": "1074_each_member_contributes_unique_skills_essential_to_success.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131075",
+    "text_pt": "A traição espreita nas sombras durante as caças aos artefatos.",
+    "text_en": "Betrayal lurks in the shadows during artifact hunts.",
+    "audio_en_storage_path": "1075_betrayal_lurks_in_the_shadows_during_artifact_hunts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131076",
+    "text_pt": "Aliados se voltam uns contra os outros em busca do poder supremo.",
+    "text_en": "Allies turn against each other in pursuit of ultimate power.",
+    "audio_en_storage_path": "1076_allies_turn_against_each_other_in_pursuit_of_ultimate_power.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131077",
+    "text_pt": "Bibliotecas místicas abrigam textos antigos detalhando as origens dos artefatos.",
+    "text_en": "Mystical libraries house ancient texts detailing artifact origins.",
+    "audio_en_storage_path": "1077_mystical_libraries_house_ancient_texts_detailing_artifact_origins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131078",
+    "text_pt": "Os estudiosos dedicam vidas inteiras ao estudo de suas propriedades.",
+    "text_en": "Scholars dedicate lifetimes to studying their properties.",
+    "audio_en_storage_path": "1078_scholars_dedicate_lifetimes_to_studying_their_properties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131079",
+    "text_pt": "Falsificações enganam caçadores de tesouros desavisados.",
+    "text_en": "Forgeries deceive unsuspecting treasure hunters.",
+    "audio_en_storage_path": "1079_forgeries_deceive_unsuspecting_treasure_hunters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131080",
+    "text_pt": "É preciso muita intuição para diferenciar artefatos genuínos de falsificações.",
+    "text_en": "Discerning genuine artifacts from fakes requires keen intuition.",
+    "audio_en_storage_path": "1080_discerning_genuine_artifacts_from_fakes_requires_keen_intuition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131081",
+    "text_pt": "Forças elementais conferem aos artefatos habilidades extraordinárias.",
+    "text_en": "Elemental forces imbue artifacts with extraordinary abilities.",
+    "audio_en_storage_path": "1081_elemental_forces_imbue_artifacts_with_extraordinary_abilities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131082",
+    "text_pt": "Fogo, água, terra e ar se manifestam como armas ou escudos.",
+    "text_en": "Fire. water. earth. and air manifest as weapons or shields.",
+    "audio_en_storage_path": "1082_fire_water_earth_and_air_manifest_as_weapons_or_shields.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131083",
+    "text_pt": "Profecias preveem a descoberta e o uso de certos artefatos.",
+    "text_en": "Prophecies predict the discovery and use of certain artifacts.",
+    "audio_en_storage_path": "1083_prophecies_predict_the_discovery_and_use_of_certain_artifacts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131084",
+    "text_pt": "Cumpri-los restaura o equilíbrio em mundos fragmentados.",
+    "text_en": "Fulfilling them restores balance to fractured worlds.",
+    "audio_en_storage_path": "1084_fulfilling_them_restores_balance_to_fractured_worlds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131085",
+    "text_pt": "Os artefatos muitas vezes carregam consigo fardos pesados, além de suas bênçãos.",
+    "text_en": "Artifacts often carry heavy burdens alongside their blessings.",
+    "audio_en_storage_path": "1085_artifacts_often_carry_heavy_burdens_alongside_their_blessings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131086",
+    "text_pt": "Os portadores devem avaliar os custos de exercer um poder tão imenso.",
+    "text_en": "Bearers must weigh the costs of wielding such immense power.",
+    "audio_en_storage_path": "1086_bearers_must_weigh_the_costs_of_wielding_such_immense_power.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131087",
+    "text_pt": "Civilizações perdidas deixaram pistas que levam a tesouros escondidos.",
+    "text_en": "Lost civilizations left behind clues leading to hidden treasures.",
+    "audio_en_storage_path": "1087_lost_civilizations_left_behind_clues_leading_to_hidden_treasures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131088",
+    "text_pt": "Exploradores juntam fragmentos da história para localizá-los.",
+    "text_en": "Explorers piece together fragments of history to locate them.",
+    "audio_en_storage_path": "1088_explorers_piece_together_fragments_of_history_to_locate_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131089",
+    "text_pt": "Facções concorrentes correm contra o tempo para reivindicar os artefatos primeiro.",
+    "text_en": "Competing factions race against time to claim artifacts first.",
+    "audio_en_storage_path": "1089_competing_factions_race_against_time_to_claim_artifacts_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131090",
+    "text_pt": "A vitória garante o domínio; o fracasso significa aniquilação.",
+    "text_en": "Victory ensures dominance; failure means annihilation.",
+    "audio_en_storage_path": "1090_victory_ensures_dominance_failure_means_annihilation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131091",
+    "text_pt": "Dilemas morais surgem ao decidir como usar artefatos.",
+    "text_en": "Moral dilemmas arise when deciding how to use artifacts.",
+    "audio_en_storage_path": "1091_moral_dilemmas_arise_when_deciding_how_to_use_artifacts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131092",
+    "text_pt": "Eles devem ser destruídos, escondidos ou compartilhados com o mundo?",
+    "text_en": "Should they be destroyed. hidden. or shared with the world?",
+    "audio_en_storage_path": "1092_should_they_be_destroyed_hidden_or_shared_with_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131093",
+    "text_pt": "Templos antigos servem como santuários para relíquias sagradas.",
+    "text_en": "Ancient temples serve as sanctuaries for sacred relics.",
+    "audio_en_storage_path": "1093_ancient_temples_serve_as_sanctuaries_for_sacred_relics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131094",
+    "text_pt": "Os peregrinos viajam até lá em busca de iluminação ou salvação.",
+    "text_en": "Pilgrims journey there seeking enlightenment or salvation.",
+    "audio_en_storage_path": "1094_pilgrims_journey_there_seeking_enlightenment_or_salvation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131095",
+    "text_pt": "Artefatos conectam o passado e o presente de maneiras significativas.",
+    "text_en": "Artifacts connect past and present in meaningful ways.",
+    "audio_en_storage_path": "1095_artifacts_connect_past_and_present_in_meaningful_ways.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131096",
+    "text_pt": "Eles unem gerações e preservam a herança cultural.",
+    "text_en": "They bridge generations and preserve cultural heritage.",
+    "audio_en_storage_path": "1096_they_bridge_generations_and_preserve_cultural_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131097",
+    "text_pt": "As buscas por artefatos enfatizam a importância do trabalho em equipe.",
+    "text_en": "Quests for artifacts emphasize the importance of teamwork.",
+    "audio_en_storage_path": "1097_quests_for_artifacts_emphasize_the_importance_of_teamwork.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131098",
+    "text_pt": "Nenhum indivíduo consegue recuperá-los sozinho.",
+    "text_en": "No single individual can succeed alone in retrieving them.",
+    "audio_en_storage_path": "1098_no_single_individual_can_succeed_alone_in_retrieving_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131099",
+    "text_pt": "As provações ao longo do caminho testam a determinação e a integridade dos buscadores.",
+    "text_en": "Trials along the way test the resolve and integrity of seekers.",
+    "audio_en_storage_path": "1099_trials_along_the_way_test_the_resolve_and_integrity_of_seekers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131100",
+    "text_pt": "Somente os puros de coração saem vitoriosos em seus esforços.",
+    "text_en": "Only the pure of heart emerge victorious in their endeavors.",
+    "audio_en_storage_path": "1100_only_the_pure_of_heart_emerge_victorious_in_their_endeavors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131101",
+    "text_pt": "Os artefatos inspiram admiração e reverência naqueles que os contemplam.",
+    "text_en": "Artifacts inspire awe and reverence in those who behold them.",
+    "audio_en_storage_path": "1101_artifacts_inspire_awe_and_reverence_in_those_who_behold_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131102",
+    "text_pt": "Sua beleza e habilidade refletem o ápice da realização artística.",
+    "text_en": "Their beauty and craftsmanship reflect the pinnacle of artistic achievement.",
+    "audio_en_storage_path": "1102_their_beauty_and_craftsmanship_reflect_the_pinnacle_of_artistic_achievement.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131103",
+    "text_pt": "As lendas que cercam os artefatos crescem a cada recontagem.",
+    "text_en": "Legends surrounding artifacts grow with each retelling.",
+    "audio_en_storage_path": "1103_legends_surrounding_artifacts_grow_with_each_retelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131104",
+    "text_pt": "As histórias exageram suas origens e amplificam seu significado.",
+    "text_en": "Stories exaggerate their origins and amplify their significance.",
+    "audio_en_storage_path": "1104_stories_exaggerate_their_origins_and_amplify_their_significance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131105",
+    "text_pt": "Encontrar um artefato marca o início de um novo capítulo.",
+    "text_en": "Finding an artifact marks the beginning of a new chapter.",
+    "audio_en_storage_path": "1105_finding_an_artifact_marks_the_beginning_of_a_new_chapter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131106",
+    "text_pt": "Seu verdadeiro potencial permanece revelado até ser colocado nas mãos certas.",
+    "text_en": "Its true potential remains unlocked until placed in the right hands.",
+    "audio_en_storage_path": "1106_its_true_potential_remains_unlocked_until_placed_in_the_right_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131107",
+    "text_pt": "Assassinatos e Investigação: Detetives ou Protagonistas Resolvendo Crimes",
+    "text_en": "Murders and Investigation: Detectives or Protagonists Solving Crimes",
+    "audio_en_storage_path": "1107_murders_and_investigation_detectives_or_protagonists_solving_crimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131108",
+    "text_pt": "Assassinatos e investigações estão no centro de uma narrativa de suspense.",
+    "text_en": "Murders and investigations lie at the heart of suspenseful storytelling.",
+    "audio_en_storage_path": "1108_murders_and_investigations_lie_at_the_heart_of_suspenseful_storytelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131109",
+    "text_pt": "Detetives juntam pistas para descobrir a verdade por trás de crimes hediondos.",
+    "text_en": "Detectives piece together clues to uncover the truth behind heinous crimes.",
+    "audio_en_storage_path": "1109_detectives_piece_together_clues_to_uncover_the_truth_behind_heinous_crimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131110",
+    "text_pt": "Cenas de crime servem como ponto de partida para desvendar mistérios.",
+    "text_en": "Crime scenes serve as the starting point for unraveling mysteries.",
+    "audio_en_storage_path": "1110_crime_scenes_serve_as_the_starting_point_for_unraveling_mysteries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131111",
+    "text_pt": "Cada detalhe, não importa quão pequeno, tem um significado potencial.",
+    "text_en": "Every detail. no matter how small. holds potential significance.",
+    "audio_en_storage_path": "1111_every_detail_no_matter_how_small_holds_potential_significance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131112",
+    "text_pt": "Os protagonistas muitas vezes enfrentam riscos pessoais em sua busca por justiça.",
+    "text_en": "Protagonists often face personal stakes in their pursuit of justice.",
+    "audio_en_storage_path": "1112_protagonists_often_face_personal_stakes_in_their_pursuit_of_justice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131113",
+    "text_pt": "Sua determinação é alimentada pela perda, vingança ou senso de dever.",
+    "text_en": "Their determination is fueled by loss. revenge. or a sense of duty.",
+    "audio_en_storage_path": "1113_their_determination_is_fueled_by_loss_revenge_or_a_sense_of_duty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131114",
+    "text_pt": "A ciência forense desempenha um papel crucial nas narrativas criminais modernas.",
+    "text_en": "Forensic science plays a crucial role in modern crime narratives.",
+    "audio_en_storage_path": "1114_forensic_science_plays_a_crucial_role_in_modern_crime_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131115",
+    "text_pt": "Análises de DNA, impressões digitais e balística fornecem evidências concretas.",
+    "text_en": "DNA analysis. fingerprints. and ballistics provide concrete evidence.",
+    "audio_en_storage_path": "1115_dna_analysis_fingerprints_and_ballistics_provide_concrete_evidence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131116",
+    "text_pt": "Depoimentos de testemunhas podem esclarecer ou complicar investigações.",
+    "text_en": "Witness testimonies can either clarify or complicate investigations.",
+    "audio_en_storage_path": "1116_witness_testimonies_can_either_clarify_or_complicate_investigations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131117",
+    "text_pt": "Narradores não confiáveis ​​acrescentam camadas de incerteza à história.",
+    "text_en": "Unreliable narrators add layers of uncertainty to the story.",
+    "audio_en_storage_path": "1117_unreliable_narrators_add_layers_of_uncertainty_to_the_story.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131118",
+    "text_pt": "As pistas falsas enganam tanto os personagens quanto o público.",
+    "text_en": "Red herrings mislead both characters and audiences alike.",
+    "audio_en_storage_path": "1118_red_herrings_mislead_both_characters_and_audiences_alike.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131119",
+    "text_pt": "Eles criam tensão e deixam todos na dúvida até o final.",
+    "text_en": "They create tension and keep everyone guessing until the end.",
+    "audio_en_storage_path": "1119_they_create_tension_and_keep_everyone_guessing_until_the_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131120",
+    "text_pt": "Os perfis psicológicos ajudam os investigadores a entender os motivos criminosos.",
+    "text_en": "Psychological profiles help investigators understand criminal motives.",
+    "audio_en_storage_path": "1120_psychological_profiles_help_investigators_understand_criminal_motives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131121",
+    "text_pt": "Entender a mente do agressor é fundamental para solucionar o caso.",
+    "text_en": "Understanding the mind of the perpetrator is key to solving the case.",
+    "audio_en_storage_path": "1121_understanding_the_mind_of_the_perpetrator_is_key_to_solving_the_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131122",
+    "text_pt": "Os interrogatórios revelam verdades ocultas por meio de pistas sutis e linguagem corporal.",
+    "text_en": "Interrogations reveal hidden truths through subtle cues and body language.",
+    "audio_en_storage_path": "1122_interrogations_reveal_hidden_truths_through_subtle_cues_and_body_language.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131123",
+    "text_pt": "As mentiras dos personagens são desvendadas sob intenso escrutínio e pressão.",
+    "text_en": "Characters’ lies unravel under intense scrutiny and pressure.",
+    "audio_en_storage_path": "1123_characters_lies_unravel_under_intense_scrutiny_and_pressure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131124",
+    "text_pt": "Parcerias entre detetives destacam abordagens contrastantes para solucionar crimes.",
+    "text_en": "Partnerships between detectives highlight contrasting approaches to solving crimes.",
+    "audio_en_storage_path": "1124_partnerships_between_detectives_highlight_contrasting_approaches_to_solving_crimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131125",
+    "text_pt": "Um pode confiar no instinto, enquanto o outro confia em fatos e lógica.",
+    "text_en": "One may rely on instinct. while the other trusts facts and logic.",
+    "audio_en_storage_path": "1125_one_may_rely_on_instinct_while_the_other_trusts_facts_and_logic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131126",
+    "text_pt": "Casos arquivados ressurgem com novas evidências, reacendendo antigas investigações.",
+    "text_en": "Cold cases resurface with new evidence. reigniting old investigations.",
+    "audio_en_storage_path": "1126_cold_cases_resurface_with_new_evidence_reigniting_old_investigations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131127",
+    "text_pt": "Mistérios não resolvidos assombram personagens muito depois de terem sido arquivados.",
+    "text_en": "Unsolved mysteries haunt characters long after they’ve been shelved.",
+    "audio_en_storage_path": "1127_unsolved_mysteries_haunt_characters_long_after_theyve_been_shelved.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131128",
+    "text_pt": "Assassinos em série personificam os medos mais sombrios nas narrativas criminais.",
+    "text_en": "Serial killers embody the darkest fears in crime narratives.",
+    "audio_en_storage_path": "1128_serial_killers_embody_the_darkest_fears_in_crime_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131129",
+    "text_pt": "Seus padrões e rituais desafiam até os investigadores mais experientes.",
+    "text_en": "Their patterns and rituals challenge even the most seasoned investigators.",
+    "audio_en_storage_path": "1129_their_patterns_and_rituals_challenge_even_the_most_seasoned_investigators.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131130",
+    "text_pt": "A ambiguidade moral complica a busca por justiça em algumas histórias.",
+    "text_en": "Moral ambiguity complicates the pursuit of justice in some stories.",
+    "audio_en_storage_path": "1130_moral_ambiguity_complicates_the_pursuit_of_justice_in_some_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131131",
+    "text_pt": "Os personagens questionam se os fins justificam os meios em seus métodos.",
+    "text_en": "Characters question whether the ends justify the means in their methods.",
+    "audio_en_storage_path": "1131_characters_question_whether_the_ends_justify_the_means_in_their_methods.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131132",
+    "text_pt": "Teorias da conspiração surgem quando explicações oficiais parecem inadequadas.",
+    "text_en": "Conspiracy theories emerge when official explanations seem inadequate.",
+    "audio_en_storage_path": "1132_conspiracy_theories_emerge_when_official_explanations_seem_inadequate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131133",
+    "text_pt": "Os protagonistas vão mais a fundo, descobrindo camadas de engano e corrupção.",
+    "text_en": "Protagonists dig deeper. uncovering layers of deception and corruption.",
+    "audio_en_storage_path": "1133_protagonists_dig_deeper_uncovering_layers_of_deception_and_corruption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131134",
+    "text_pt": "Os sistemas jurídicos são frequentemente retratados como falhos ou tendenciosos em histórias de crimes.",
+    "text_en": "Legal systems are often portrayed as flawed or biased in crime stories.",
+    "audio_en_storage_path": "1134_legal_systems_are_often_portrayed_as_flawed_or_biased_in_crime_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131135",
+    "text_pt": "Personagens superam obstáculos burocráticos para garantir que a justiça prevaleça.",
+    "text_en": "Characters navigate bureaucratic hurdles to ensure fairness prevails.",
+    "audio_en_storage_path": "1135_characters_navigate_bureaucratic_hurdles_to_ensure_fairness_prevails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131136",
+    "text_pt": "Operações secretas colocam os protagonistas em situações perigosas.",
+    "text_en": "Undercover operations place protagonists in dangerous situations.",
+    "audio_en_storage_path": "1136_undercover_operations_place_protagonists_in_dangerous_situations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131137",
+    "text_pt": "Desfocar a linha entre aliado e inimigo testa sua determinação.",
+    "text_en": "Blurring the line between ally and enemy tests their resolve.",
+    "audio_en_storage_path": "1137_blurring_the_line_between_ally_and_enemy_tests_their_resolve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131138",
+    "text_pt": "Pistas falsas desperdiçam tempo e recursos, mas aprofundam o mistério.",
+    "text_en": "False leads waste time and resources but deepen the mystery.",
+    "audio_en_storage_path": "1138_false_leads_waste_time_and_resources_but_deepen_the_mystery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131139",
+    "text_pt": "Cada beco sem saída força os personagens a repensar suas suposições.",
+    "text_en": "Each dead end forces characters to rethink their assumptions.",
+    "audio_en_storage_path": "1139_each_dead_end_forces_characters_to_rethink_their_assumptions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131140",
+    "text_pt": "As histórias das vítimas humanizam o impacto dos crimes violentos.",
+    "text_en": "Victims’ backstories humanize the impact of violent crimes.",
+    "audio_en_storage_path": "1140_victims_backstories_humanize_the_impact_of_violent_crimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131141",
+    "text_pt": "Suas vidas lembram ao público o que está em jogo na investigação.",
+    "text_en": "Their lives remind audiences of what’s at stake in the investigation.",
+    "audio_en_storage_path": "1141_their_lives_remind_audiences_of_whats_at_stake_in_the_investigation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131142",
+    "text_pt": "A tecnologia auxilia os detetives modernos a rastrear suspeitos e coletar dados.",
+    "text_en": "Technology aids modern detectives in tracking suspects and gathering data.",
+    "audio_en_storage_path": "1142_technology_aids_modern_detectives_in_tracking_suspects_and_gathering_data.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131143",
+    "text_pt": "Câmeras de vigilância e pegadas digitais deixam rastros a serem seguidos.",
+    "text_en": "Surveillance cameras and digital footprints leave trails to follow.",
+    "audio_en_storage_path": "1143_surveillance_cameras_and_digital_footprints_leave_trails_to_follow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131144",
+    "text_pt": "Elementos noir clássicos realçam a atmosfera das narrativas policiais.",
+    "text_en": "Classic noir elements enhance the atmosphere of crime narratives.",
+    "audio_en_storage_path": "1144_classic_noir_elements_enhance_the_atmosphere_of_crime_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131145",
+    "text_pt": "Ruas sombrias, fumaça de cigarro e personagens moralmente cinzentos evocam nostalgia.",
+    "text_en": "Shadowy streets. cigarette smoke. and morally gray characters evoke nostalgia.",
+    "audio_en_storage_path": "1145_shadowy_streets_cigarette_smoke_and_morally_gray_characters_evoke_nostalgia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131146",
+    "text_pt": "Dramas judiciais levam investigações a um clímax dramático.",
+    "text_en": "Courtroom dramas bring investigations to a dramatic climax.",
+    "audio_en_storage_path": "1146_courtroom_dramas_bring_investigations_to_a_dramatic_climax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131147",
+    "text_pt": "Advogados argumentam apaixonadamente, apresentando evidências para influenciar jurados.",
+    "text_en": "Lawyers argue passionately. presenting evidence to sway juries.",
+    "audio_en_storage_path": "1147_lawyers_argue_passionately_presenting_evidence_to_sway_juries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131148",
+    "text_pt": "Mistérios policiais prendem a atenção do público com reviravoltas inteligentes.",
+    "text_en": "Whodunit mysteries keep audiences engaged with clever twists.",
+    "audio_en_storage_path": "1148_whodunit_mysteries_keep_audiences_engaged_with_clever_twists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131149",
+    "text_pt": "A revelação do culpado muitas vezes choca e satisfaz ao mesmo tempo.",
+    "text_en": "The revelation of the culprit often shocks and satisfies simultaneously.",
+    "audio_en_storage_path": "1149_the_revelation_of_the_culprit_often_shocks_and_satisfies_simultaneously.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131150",
+    "text_pt": "Investigadores particulares operam fora dos canais tradicionais de aplicação da lei.",
+    "text_en": "Private investigators operate outside traditional law enforcement channels.",
+    "audio_en_storage_path": "1150_private_investigators_operate_outside_traditional_law_enforcement_channels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131151",
+    "text_pt": "Sua desenvoltura e independência os tornam protagonistas atraentes.",
+    "text_en": "Their resourcefulness and independence make them compelling protagonists.",
+    "audio_en_storage_path": "1151_their_resourcefulness_and_independence_make_them_compelling_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131152",
+    "text_pt": "A corrupção dentro das forças policiais acrescenta complexidade às histórias de crimes.",
+    "text_en": "Corruption within police forces adds complexity to crime stories.",
+    "audio_en_storage_path": "1152_corruption_within_police_forces_adds_complexity_to_crime_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131153",
+    "text_pt": "Os personagens devem decidir em quem confiar em uma teia de enganos.",
+    "text_en": "Characters must decide whom to trust in a web of deceit.",
+    "audio_en_storage_path": "1153_characters_must_decide_whom_to_trust_in_a_web_of_deceit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131154",
+    "text_pt": "Restrições de tempo aumentam a urgência na resolução de casos.",
+    "text_en": "Time constraints heighten the urgency of solving cases.",
+    "audio_en_storage_path": "1154_time_constraints_heighten_the_urgency_of_solving_cases.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131155",
+    "text_pt": "Prazos forçam os personagens a tomar decisões rápidas com informações limitadas.",
+    "text_en": "Deadlines force characters to make quick decisions with limited information.",
+    "audio_en_storage_path": "1155_deadlines_force_characters_to_make_quick_decisions_with_limited_information.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131156",
+    "text_pt": "Famílias criminosas exploram temas de lealdade, traição e lutas pelo poder.",
+    "text_en": "Crime families explore themes of loyalty. betrayal. and power struggles.",
+    "audio_en_storage_path": "1156_crime_families_explore_themes_of_loyalty_betrayal_and_power_struggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131157",
+    "text_pt": "Laços de sangue complicam relacionamentos e motivações.",
+    "text_en": "Blood ties complicate relationships and motivations.",
+    "audio_en_storage_path": "1157_blood_ties_complicate_relationships_and_motivations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131158",
+    "text_pt": "Jornalistas desempenham o papel de detetive em algumas narrativas criminais.",
+    "text_en": "Journalists play detective in some crime narratives.",
+    "audio_en_storage_path": "1158_journalists_play_detective_in_some_crime_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131159",
+    "text_pt": "A busca pela verdade os coloca em perigo.",
+    "text_en": "Their pursuit of the truth puts them in harm’s way.",
+    "audio_en_storage_path": "1159_their_pursuit_of_the_truth_puts_them_in_harms_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131160",
+    "text_pt": "Flashbacks revelam momentos críticos que antecederam o crime.",
+    "text_en": "Flashbacks reveal critical moments leading up to the crime.",
+    "audio_en_storage_path": "1160_flashbacks_reveal_critical_moments_leading_up_to_the_crime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131161",
+    "text_pt": "Juntar linhas do tempo ajuda a resolver quebra-cabeças que inicialmente pareciam insolúveis.",
+    "text_en": "Piecing together timelines helps solve puzzles that initially seemed unsolvable.",
+    "audio_en_storage_path": "1161_piecing_together_timelines_helps_solve_puzzles_that_initially_seemed_unsolvable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131162",
+    "text_pt": "A manipulação psicológica ocorre quando criminosos são mais espertos que os investigadores.",
+    "text_en": "Psychological manipulation occurs when criminals outsmart investigators.",
+    "audio_en_storage_path": "1162_psychological_manipulation_occurs_when_criminals_outsmart_investigators.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131163",
+    "text_pt": "Plantar evidências falsas desvia a suspeita do verdadeiro culpado.",
+    "text_en": "Planting false evidence shifts suspicion away from the real culprit.",
+    "audio_en_storage_path": "1163_planting_false_evidence_shifts_suspicion_away_from_the_real_culprit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131164",
+    "text_pt": "Identidades equivocadas levam a acusações injustas e encarceramentos.",
+    "text_en": "Mistaken identities lead to wrongful accusations and incarcerations.",
+    "audio_en_storage_path": "1164_mistaken_identities_lead_to_wrongful_accusations_and_incarcerations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131165",
+    "text_pt": "Personagens lutam para limpar seus nomes e provar sua inocência.",
+    "text_en": "Characters fight to clear their names and prove their innocence.",
+    "audio_en_storage_path": "1165_characters_fight_to_clear_their_names_and_prove_their_innocence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131166",
+    "text_pt": "Dilemas éticos surgem quando quebrar regras acelera as investigações.",
+    "text_en": "Ethical dilemmas arise when breaking rules speeds up investigations.",
+    "audio_en_storage_path": "1166_ethical_dilemmas_arise_when_breaking_rules_speeds_up_investigations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131167",
+    "text_pt": "Personagens avaliam o custo de comprometer seus valores em troca de resultados.",
+    "text_en": "Characters weigh the cost of compromising their values for results.",
+    "audio_en_storage_path": "1167_characters_weigh_the_cost_of_compromising_their_values_for_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131168",
+    "text_pt": "Cenários urbanos amplificam a coragem das histórias de crime.",
+    "text_en": "Urban settings amplify the grittiness of crime stories.",
+    "audio_en_storage_path": "1168_urban_settings_amplify_the_grittiness_of_crime_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131169",
+    "text_pt": "Becos escuros e ruas movimentadas se tornam palcos de perigos e intrigas.",
+    "text_en": "Dark alleys and crowded streets become stages for danger and intrigue.",
+    "audio_en_storage_path": "1169_dark_alleys_and_crowded_streets_become_stages_for_danger_and_intrigue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131170",
+    "text_pt": "Cenários rurais oferecem isolamento e um silêncio assustador em contos de crimes.",
+    "text_en": "Rural settings offer isolation and eerie silence in crime tales.",
+    "audio_en_storage_path": "1170_rural_settings_offer_isolation_and_eerie_silence_in_crime_tales.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131171",
+    "text_pt": "Locais remotos aumentam a sensação de vulnerabilidade e medo.",
+    "text_en": "Remote locations heighten the sense of vulnerability and dread.",
+    "audio_en_storage_path": "1171_remote_locations_heighten_the_sense_of_vulnerability_and_dread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131172",
+    "text_pt": "Assassinos de sangue frio contrastam com anti-heróis simpáticos.",
+    "text_en": "Cold-blooded killers contrast with sympathetic anti-heroes.",
+    "audio_en_storage_path": "1172_coldblooded_killers_contrast_with_sympathetic_antiheroes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131173",
+    "text_pt": "O público lida com emoções conflitantes em relação a personagens moralmente ambíguos.",
+    "text_en": "Audiences grapple with conflicting emotions toward morally ambiguous characters.",
+    "audio_en_storage_path": "1173_audiences_grapple_with_conflicting_emotions_toward_morally_ambiguous_characters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131174",
+    "text_pt": "O jornalismo investigativo expõe injustiças sistêmicas na sociedade.",
+    "text_en": "Investigative journalism exposes systemic injustices in society.",
+    "audio_en_storage_path": "1174_investigative_journalism_exposes_systemic_injustices_in_society.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131175",
+    "text_pt": "As histórias destacam o poder da verdade para desmantelar instituições corruptas.",
+    "text_en": "Stories highlight the power of truth to dismantle corrupt institutions.",
+    "audio_en_storage_path": "1175_stories_highlight_the_power_of_truth_to_dismantle_corrupt_institutions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131176",
+    "text_pt": "Psicopatas e sociopatas desafiam normas sociais em narrativas criminais.",
+    "text_en": "Psychopaths and sociopaths challenge societal norms in crime narratives.",
+    "audio_en_storage_path": "1176_psychopaths_and_sociopaths_challenge_societal_norms_in_crime_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131177",
+    "text_pt": "A falta de empatia os torna adversários imprevisíveis e aterrorizantes.",
+    "text_en": "Their lack of empathy makes them unpredictable and terrifying adversaries.",
+    "audio_en_storage_path": "1177_their_lack_of_empathy_makes_them_unpredictable_and_terrifying_adversaries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131178",
+    "text_pt": "A colaboração entre agências de segurança pública abrange fronteiras e jurisdições.",
+    "text_en": "Collaboration between law enforcement agencies spans borders and jurisdictions.",
+    "audio_en_storage_path": "1178_collaboration_between_law_enforcement_agencies_spans_borders_and_jurisdictions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131179",
+    "text_pt": "Caçadas internacionais demonstram o alcance global das organizações criminosas.",
+    "text_en": "International manhunts showcase the global reach of criminal enterprises.",
+    "audio_en_storage_path": "1179_international_manhunts_showcase_the_global_reach_of_criminal_enterprises.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131180",
+    "text_pt": "A adulteração de evidências sabota os esforços para alcançar justiça.",
+    "text_en": "Evidence tampering sabotages efforts to achieve justice.",
+    "audio_en_storage_path": "1180_evidence_tampering_sabotages_efforts_to_achieve_justice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131181",
+    "text_pt": "Os personagens devem encontrar maneiras criativas de recuperar provas perdidas ou destruídas.",
+    "text_en": "Characters must find creative ways to recover lost or destroyed proof.",
+    "audio_en_storage_path": "1181_characters_must_find_creative_ways_to_recover_lost_or_destroyed_proof.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131182",
+    "text_pt": "Histórias de crimes geralmente refletem problemas do mundo real, como racismo e desigualdade.",
+    "text_en": "Crime stories often reflect real-world issues like racism and inequality.",
+    "audio_en_storage_path": "1182_crime_stories_often_reflect_realworld_issues_like_racism_and_inequality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131183",
+    "text_pt": "Eles criticam sistemas que falham com comunidades marginalizadas.",
+    "text_en": "They critique systems that fail marginalized communities.",
+    "audio_en_storage_path": "1183_they_critique_systems_that_fail_marginalized_communities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131184",
+    "text_pt": "A vitória na resolução de crimes traz alívio temporário, mas deixa cicatrizes.",
+    "text_en": "Victory in solving crimes brings temporary relief but leaves scars.",
+    "audio_en_storage_path": "1184_victory_in_solving_crimes_brings_temporary_relief_but_leaves_scars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131185",
+    "text_pt": "Os personagens carregam o peso do que testemunharam e suportaram.",
+    "text_en": "Characters carry the weight of what they’ve witnessed and endured.",
+    "audio_en_storage_path": "1185_characters_carry_the_weight_of_what_theyve_witnessed_and_endured.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131186",
+    "text_pt": "As narrativas de crimes nos lembram que a justiça nem sempre é preta e branca.",
+    "text_en": "Crime narratives remind us that justice isn’t always black and white.",
+    "audio_en_storage_path": "1186_crime_narratives_remind_us_that_justice_isnt_always_black_and_white.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131187",
+    "text_pt": "Áreas cinzentas desafiam o público a pensar criticamente sobre moralidade.",
+    "text_en": "Gray areas challenge audiences to think critically about morality.",
+    "audio_en_storage_path": "1187_gray_areas_challenge_audiences_to_think_critically_about_morality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

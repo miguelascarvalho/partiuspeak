@@ -1,0 +1,254 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110029",
+    "text_pt": "Segunda-feira – Meu Pai",
+    "text_en": "Monday – My Father",
+    "audio_en_storage_path": "029_monday_my_father.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110030",
+    "text_pt": "Foco: As ações do meu pai em casa",
+    "text_en": "Focus: My father's actions at home",
+    "audio_en_storage_path": "030_focus_my_fathers_actions_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110031",
+    "text_pt": "Ele acorda às 6:00 da manhã.",
+    "text_en": "He wakes up at 6:00 AM.",
+    "audio_en_storage_path": "031_he_wakes_up_at_600_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110032",
+    "text_pt": "Meu pai começa o dia cedo.",
+    "text_en": "My dad starts his day early.",
+    "audio_en_storage_path": "032_my_dad_starts_his_day_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110033",
+    "text_pt": "Ele escova os dentes e toma café.",
+    "text_en": "He brushes his teeth and drinks coffee.",
+    "audio_en_storage_path": "033_he_brushes_his_teeth_and_drinks_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110034",
+    "text_pt": "Depois ele come torrada com manteiga.",
+    "text_en": "Then he eats toast with butter.",
+    "audio_en_storage_path": "034_then_he_eats_toast_with_butter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110035",
+    "text_pt": "Ele sai de casa às 7:00.",
+    "text_en": "He leaves home at 7:00.",
+    "audio_en_storage_path": "035_he_leaves_home_at_700.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110036",
+    "text_pt": "Ele vai para o trabalho de carro.",
+    "text_en": "He goes to work by car.",
+    "audio_en_storage_path": "036_he_goes_to_work_by_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110037",
+    "text_pt": "Ele trabalha em uma loja no centro da cidade.",
+    "text_en": "He works in a store downtown.",
+    "audio_en_storage_path": "037_he_works_in_a_store_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110038",
+    "text_pt": "Ele ajuda os clientes e organiza as prateleiras.",
+    "text_en": "He helps customers and organizes shelves.",
+    "audio_en_storage_path": "038_he_helps_customers_and_organizes_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110039",
+    "text_pt": "No almoço, ele come sozinho ou com colegas de trabalho.",
+    "text_en": "At lunch. he eats alone or with coworkers.",
+    "audio_en_storage_path": "039_at_lunch_he_eats_alone_or_with_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110040",
+    "text_pt": "Às vezes ele nos liga do trabalho.",
+    "text_en": "Sometimes he calls us from work.",
+    "audio_en_storage_path": "040_sometimes_he_calls_us_from_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110041",
+    "text_pt": "À tarde, ele termina suas tarefas.",
+    "text_en": "In the afternoon. he finishes his tasks.",
+    "audio_en_storage_path": "041_in_the_afternoon_he_finishes_his_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110042",
+    "text_pt": "Depois ele volta para casa.",
+    "text_en": "Then he comes back home.",
+    "audio_en_storage_path": "042_then_he_comes_back_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110043",
+    "text_pt": "O que ele faz para trabalhar?",
+    "text_en": "What does he do for work?",
+    "audio_en_storage_path": "043_what_does_he_do_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110044",
+    "text_pt": "Ele vende coisas e ajuda pessoas.",
+    "text_en": "He sells things and helps people.",
+    "audio_en_storage_path": "044_he_sells_things_and_helps_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110045",
+    "text_pt": "Onde está meu pai agora?",
+    "text_en": "Where is my dad now?",
+    "audio_en_storage_path": "045_where_is_my_dad_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110046",
+    "text_pt": "Ele está na loja, trabalhando.",
+    "text_en": "He is at the store. working.",
+    "audio_en_storage_path": "046_he_is_at_the_store_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110047",
+    "text_pt": "Quando ele descansa?",
+    "text_en": "When does he rest?",
+    "audio_en_storage_path": "047_when_does_he_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110048",
+    "text_pt": "Aos domingos e feriados.",
+    "text_en": "On Sundays and holidays.",
+    "audio_en_storage_path": "048_on_sundays_and_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110049",
+    "text_pt": "Por que ele saiu tão cedo hoje?",
+    "text_en": "Why did he leave so early today?",
+    "audio_en_storage_path": "049_why_did_he_leave_so_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110050",
+    "text_pt": "Porque ele tem um trabalho importante.",
+    "text_en": "Because he has an important job.",
+    "audio_en_storage_path": "050_because_he_has_an_important_job.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110051",
+    "text_pt": "Ele trabalha cinco dias por semana.",
+    "text_en": "He works five days a week.",
+    "audio_en_storage_path": "051_he_works_five_days_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110052",
+    "text_pt": "Hoje é o primeiro.",
+    "text_en": "Today is the first one.",
+    "audio_en_storage_path": "052_today_is_the_first_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110053",
+    "text_pt": "Amanhã ele não vai esquecer seu almoço.",
+    "text_en": "Tomorrow. he will not forget his lunch.",
+    "audio_en_storage_path": "053_tomorrow_he_will_not_forget_his_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110054",
+    "text_pt": "Ele trará isso em uma sacola.",
+    "text_en": "He will bring it in a bag.",
+    "audio_en_storage_path": "054_he_will_bring_it_in_a_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110055",
+    "text_pt": "Tenha um bom dia, pai!",
+    "text_en": "Have a good day. Dad!",
+    "audio_en_storage_path": "055_have_a_good_day_dad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110056",
+    "text_pt": "Obrigado por trabalhar duro!",
+    "text_en": "Thank you for working hard!",
+    "audio_en_storage_path": "056_thank_you_for_working_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102892",
+    "text_pt": "Enfermeira",
+    "text_en": "Nurse",
+    "audio_en_storage_path": "1992_nurse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102893",
+    "text_pt": "A enfermeira trabalha na clínica.",
+    "text_en": "The nurse works at the clinic.",
+    "audio_en_storage_path": "1993_the_nurse_works_at_the_clinic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102894",
+    "text_pt": "Ela examina pacientes e aplica injeções.",
+    "text_en": "She checks patients and gives injections.",
+    "audio_en_storage_path": "1994_she_checks_patients_and_gives_injections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102895",
+    "text_pt": "Ela usa uniforme e fala calmamente.",
+    "text_en": "She wears a uniform and speaks calmly.",
+    "audio_en_storage_path": "1995_she_wears_a_uniform_and_speaks_calmly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102896",
+    "text_pt": "Sempre sorrindo. mesmo quando ocupado.",
+    "text_en": "Always smiling even when busy.",
+    "audio_en_storage_path": "1996_always_smiling_even_when_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102897",
+    "text_pt": "Seu cabelo está preso para trás e ela usa luvas.",
+    "text_en": "Her hair is tied back and she wears gloves.",
+    "audio_en_storage_path": "1997_her_hair_is_tied_back_and_she_wears_gloves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102898",
+    "text_pt": "Sempre organizado e gentil.",
+    "text_en": "Always organized and gentle.",
+    "audio_en_storage_path": "1998_always_organized_and_gentle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102899",
+    "text_pt": "Há gráficos. termômetros e bandagens por perto.",
+    "text_en": "There are charts. thermometers. and bandages nearby.",
+    "audio_en_storage_path": "1999_there_are_charts_thermometers_and_bandages_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102900",
+    "text_pt": "E uma bandeja com desinfetante e lenços umedecidos.",
+    "text_en": "And a tray with disinfectant and wipes.",
+    "audio_en_storage_path": "2000_and_a_tray_with_disinfectant_and_wipes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102901",
+    "text_pt": "Quem te deu a injeção?",
+    "text_en": "Who gave you the shot?",
+    "audio_en_storage_path": "2001_who_gave_you_the_shot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102902",
+    "text_pt": "A enfermeira de óculos — muito gentil.",
+    "text_en": "The nurse with glasses — very kind.",
+    "audio_en_storage_path": "2002_the_nurse_with_glasses_very_kind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102903",
+    "text_pt": "Onde eles guardam as vacinas?",
+    "text_en": "Where do they keep the vaccines?",
+    "audio_en_storage_path": "2003_where_do_they_keep_the_vaccines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102904",
+    "text_pt": "Na geladeira — claramente etiquetada.",
+    "text_en": "In the fridge — labeled clearly.",
+    "audio_en_storage_path": "2004_in_the_fridge_labeled_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102905",
+    "text_pt": "Às vezes ela dá injeções.",
+    "text_en": "Sometimes she gives shots.",
+    "audio_en_storage_path": "2005_sometimes_she_gives_shots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102906",
+    "text_pt": "Outras vezes ela apenas verifica a temperatura.",
+    "text_en": "Other times she just checks temperature.",
+    "audio_en_storage_path": "2006_other_times_she_just_checks_temperature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102907",
+    "text_pt": "Onde você deixou sua máscara?",
+    "text_en": "Where did you leave your mask?",
+    "audio_en_storage_path": "2007_where_did_you_leave_your_mask.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102908",
+    "text_pt": "Na cadeira — perto da mesa.",
+    "text_en": "On the chair — near the table.",
+    "audio_en_storage_path": "2008_on_the_chair_near_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102909",
+    "text_pt": "Quando ela vai terminar seu turno?",
+    "text_en": "When will she finish her shift?",
+    "audio_en_storage_path": "2009_when_will_she_finish_her_shift.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102910",
+    "text_pt": "Às 18h — então ela vai para casa.",
+    "text_en": "At 6 PM — then she goes home.",
+    "audio_en_storage_path": "2010_at_6_pm_then_she_goes_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102911",
+    "text_pt": "Por que você pediu ajuda a ela?",
+    "text_en": "Why did you ask her for help?",
+    "audio_en_storage_path": "2011_why_did_you_ask_her_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102912",
+    "text_pt": "Porque eu não conseguia entender o formulário.",
+    "text_en": "Because I couldn’t understand the form.",
+    "audio_en_storage_path": "2012_because_i_couldnt_understand_the_form.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102913",
+    "text_pt": "A enfermeira sempre explica as coisas claramente.",
+    "text_en": "The nurse always explains things clearly.",
+    "audio_en_storage_path": "2013_the_nurse_always_explains_things_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102914",
+    "text_pt": "Garante que todos entendam.",
+    "text_en": "Makes sure everyone understands.",
+    "audio_en_storage_path": "2014_makes_sure_everyone_understands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102915",
+    "text_pt": "Amanhã não esquecerei de fazer perguntas novamente.",
+    "text_en": "Tomorrow. I will not forget to ask questions again.",
+    "audio_en_storage_path": "2015_tomorrow_i_will_not_forget_to_ask_questions_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102916",
+    "text_pt": "Saí da clínica confuso da última vez.",
+    "text_en": "Left the clinic confused last time.",
+    "audio_en_storage_path": "2016_left_the_clinic_confused_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102917",
+    "text_pt": "Obrigada. enfermeira!",
+    "text_en": "Thank you. nurse!",
+    "audio_en_storage_path": "2017_thank_you_nurse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102918",
+    "text_pt": "Vocês nos fazem sentir seguros e cuidados.",
+    "text_en": "You make us feel safe and cared for.",
+    "audio_en_storage_path": "2018_you_make_us_feel_safe_and_cared_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

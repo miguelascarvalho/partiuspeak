@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102137",
+    "text_pt": "👕 Loja de Roupas",
+    "text_en": "👕 Clothing Store",
+    "audio_en_storage_path": "1237_clothing_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102138",
+    "text_pt": "A loja de roupas fica no segundo andar.",
+    "text_en": "The clothing store is on the second floor.",
+    "audio_en_storage_path": "1238_the_clothing_store_is_on_the_second_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102139",
+    "text_pt": "Tem muitas cores e estilos para você escolher.",
+    "text_en": "It has many colors and styles to choose from.",
+    "audio_en_storage_path": "1239_it_has_many_colors_and_styles_to_choose_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102140",
+    "text_pt": "Procuro camisas. calças ou jaquetas aqui.",
+    "text_en": "I look for shirts. pants. or jackets here.",
+    "audio_en_storage_path": "1240_i_look_for_shirts_pants_or_jackets_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102141",
+    "text_pt": "Às vezes eu simplesmente ando por aí e vou embora.",
+    "text_en": "Sometimes I just walk around and leave.",
+    "audio_en_storage_path": "1241_sometimes_i_just_walk_around_and_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102142",
+    "text_pt": "Há roupas vermelhas. azuis e pretas em exposição.",
+    "text_en": "There are red. blue. and black clothes on display.",
+    "audio_en_storage_path": "1242_there_are_red_blue_and_black_clothes_on_display.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102143",
+    "text_pt": "Alguns itens têm etiquetas amarelas — isso significa promoção!",
+    "text_en": "Some items have yellow tags — that means sale!",
+    "audio_en_storage_path": "1243_some_items_have_yellow_tags_that_means_sale.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102144",
+    "text_pt": "Que cor você experimentou?",
+    "text_en": "What color did you try?",
+    "audio_en_storage_path": "1244_what_color_did_you_try.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102145",
+    "text_pt": "Cinza claro — mas parecia muito escuro pessoalmente.",
+    "text_en": "Light gray — but it looked too dark in person.",
+    "audio_en_storage_path": "1245_light_gray_but_it_looked_too_dark_in_person.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102146",
+    "text_pt": "Quanto custa essa jaqueta?",
+    "text_en": "How much is that jacket?",
+    "audio_en_storage_path": "1246_how_much_is_that_jacket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102147",
+    "text_pt": "US$ 45 — nada mal para essa qualidade.",
+    "text_en": "$45 — not bad for this quality.",
+    "audio_en_storage_path": "1247_45_not_bad_for_this_quality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102148",
+    "text_pt": "Onde ficam os vestiários?",
+    "text_en": "Where are the changing rooms?",
+    "audio_en_storage_path": "1248_where_are_the_changing_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102149",
+    "text_pt": "Do lado direito — siga as placas.",
+    "text_en": "On the right side — follow the signs.",
+    "audio_en_storage_path": "1249_on_the_right_side_follow_the_signs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102150",
+    "text_pt": "Não comprarei nada hoje.",
+    "text_en": "I will not buy anything today.",
+    "audio_en_storage_path": "1250_i_will_not_buy_anything_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102151",
+    "text_pt": "Só de olhar ao redor — os preços estavam altos.",
+    "text_en": "Just looking around — prices were high.",
+    "audio_en_storage_path": "1251_just_looking_around_prices_were_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102152",
+    "text_pt": "Quando eles receberão novo estoque novamente?",
+    "text_en": "When will they get new stock again?",
+    "audio_en_storage_path": "1252_when_will_they_get_new_stock_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102153",
+    "text_pt": "Semana que vem — eu volto então.",
+    "text_en": "Next week — I’ll come back then.",
+    "audio_en_storage_path": "1253_next_week_ill_come_back_then.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102154",
+    "text_pt": "Por que você devolveu aquele vestido?",
+    "text_en": "Why did you return that dress?",
+    "audio_en_storage_path": "1254_why_did_you_return_that_dress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102155",
+    "text_pt": "Porque o tamanho estava errado e o tecido coçava.",
+    "text_en": "Because the size was wrong and the fabric itched.",
+    "audio_en_storage_path": "1255_because_the_size_was_wrong_and_the_fabric_itched.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102156",
+    "text_pt": "Ela sempre verifica as etiquetas antes de experimentar as roupas.",
+    "text_en": "She always checks labels before trying on clothes.",
+    "audio_en_storage_path": "1256_she_always_checks_labels_before_trying_on_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102157",
+    "text_pt": "Procure por algodão. poliéster ou material elástico.",
+    "text_en": "Looks for cotton. polyester. or stretch material.",
+    "audio_en_storage_path": "1257_looks_for_cotton_polyester_or_stretch_material.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102158",
+    "text_pt": "Amanhã. Não vou gastar muito novamente.",
+    "text_en": "Tomorrow. I will not spend too much again.",
+    "audio_en_storage_path": "1258_tomorrow_i_will_not_spend_too_much_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102159",
+    "text_pt": "Comprei algo caro da última vez.",
+    "text_en": "Bought something expensive last time.",
+    "audio_en_storage_path": "1259_bought_something_expensive_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102160",
+    "text_pt": "As roupas ficam melhores sob luz natural.",
+    "text_en": "Clothes look better in natural light.",
+    "audio_en_storage_path": "1260_clothes_look_better_in_natural_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102161",
+    "text_pt": "Não confie em espelhos dentro de lojas.",
+    "text_en": "Don’t trust mirrors inside stores.",
+    "audio_en_storage_path": "1261_dont_trust_mirrors_inside_stores.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102162",
+    "text_pt": "Tenha um bom dia!",
+    "text_en": "Have a good day!",
+    "audio_en_storage_path": "1262_have_a_good_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102163",
+    "text_pt": "Espero que você encontre algo ótimo.",
+    "text_en": "Hope you find something great.",
+    "audio_en_storage_path": "1263_hope_you_find_something_great.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

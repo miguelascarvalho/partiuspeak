@@ -1,0 +1,488 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102973",
+    "text_pt": "Lesões / Hematomas",
+    "text_en": "Injuries / Bruises",
+    "audio_en_storage_path": "2073_injuries_bruises.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102974",
+    "text_pt": "O ferimento aconteceu enquanto andava de bicicleta.",
+    "text_en": "The injury happened while biking.",
+    "audio_en_storage_path": "2074_the_injury_happened_while_biking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102975",
+    "text_pt": "Eu caí e ralei feio o joelho.",
+    "text_en": "I fell and scraped my knee badly.",
+    "audio_en_storage_path": "2075_i_fell_and_scraped_my_knee_badly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102976",
+    "text_pt": "Usei desinfetante e cobri bem.",
+    "text_en": "I used disinfectant and covered it well.",
+    "audio_en_storage_path": "2076_i_used_disinfectant_and_covered_it_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102977",
+    "text_pt": "Coloque também creme antibiótico por cima.",
+    "text_en": "Also put antibiotic cream on top.",
+    "audio_en_storage_path": "2077_also_put_antibiotic_cream_on_top.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102978",
+    "text_pt": "Seu cotovelo parece vermelho. inchado e dolorido.",
+    "text_en": "His elbow looks red. swollen. and painful.",
+    "audio_en_storage_path": "2078_his_elbow_looks_red_swollen_and_painful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102979",
+    "text_pt": "Ele precisa de gelo e um curativo em breve.",
+    "text_en": "He needs ice and a bandage soon.",
+    "audio_en_storage_path": "2079_he_needs_ice_and_a_bandage_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102980",
+    "text_pt": "Há curativos. gazes e lenços antissépticos por perto.",
+    "text_en": "There are plasters. gauze. and antiseptic wipes nearby.",
+    "audio_en_storage_path": "2080_there_are_plasters_gauze_and_antiseptic_wipes_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102981",
+    "text_pt": "Pronto para atendimento rápido em casa.",
+    "text_en": "Ready for quick care at home.",
+    "audio_en_storage_path": "2081_ready_for_quick_care_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102982",
+    "text_pt": "Como você se machucou?",
+    "text_en": "How did you hurt yourself?",
+    "audio_en_storage_path": "2082_how_did_you_hurt_yourself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102983",
+    "text_pt": "Escorregou na escada — momento ruim.",
+    "text_en": "Slipped on the stairs — bad timing.",
+    "audio_en_storage_path": "2083_slipped_on_the_stairs_bad_timing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102984",
+    "text_pt": "Onde você caiu?",
+    "text_en": "Where did you fall?",
+    "audio_en_storage_path": "2084_where_did_you_fall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102985",
+    "text_pt": "Na cozinha — quase bati no fogão.",
+    "text_en": "In the kitchen — almost hit the stove.",
+    "audio_en_storage_path": "2085_in_the_kitchen_almost_hit_the_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102986",
+    "text_pt": "Às vezes ele usa fita para apoiar o tornozelo.",
+    "text_en": "Sometimes he uses tape to support his ankle.",
+    "audio_en_storage_path": "2086_sometimes_he_uses_tape_to_support_his_ankle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102987",
+    "text_pt": "Outras vezes. apenas enrola bem.",
+    "text_en": "Other times just wraps it tight.",
+    "audio_en_storage_path": "2087_other_times_just_wraps_it_tight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102988",
+    "text_pt": "Onde você deixou a bolsa de gelo?",
+    "text_en": "Where did you leave the cold pack?",
+    "audio_en_storage_path": "2088_where_did_you_leave_the_cold_pack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102989",
+    "text_pt": "No congelador — ainda congelado de antes.",
+    "text_en": "In the freezer — still frozen from earlier.",
+    "audio_en_storage_path": "2089_in_the_freezer_still_frozen_from_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102990",
+    "text_pt": "Quando você irá à clínica novamente?",
+    "text_en": "When will you go to the clinic again?",
+    "audio_en_storage_path": "2090_when_will_you_go_to_the_clinic_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102991",
+    "text_pt": "Se não sarar até a semana que vem.",
+    "text_en": "If it doesn’t heal by next week.",
+    "audio_en_storage_path": "2091_if_it_doesnt_heal_by_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102992",
+    "text_pt": "Por que você limpou o ferimento com tanto cuidado?",
+    "text_en": "Why did you clean the wound so carefully?",
+    "audio_en_storage_path": "2092_why_did_you_clean_the_wound_so_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102993",
+    "text_pt": "Porque era profundo e sujo.",
+    "text_en": "Because it was deep and dirty.",
+    "audio_en_storage_path": "2093_because_it_was_deep_and_dirty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102994",
+    "text_pt": "Ela trata ferimentos imediatamente.",
+    "text_en": "She treats injuries right away.",
+    "audio_en_storage_path": "2094_she_treats_injuries_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102995",
+    "text_pt": "Nunca deixe que pequenos cortes piorem.",
+    "text_en": "Never lets small cuts get worse.",
+    "audio_en_storage_path": "2095_never_lets_small_cuts_get_worse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102996",
+    "text_pt": "Amanhã não vou esquecer de usar luvas novamente.",
+    "text_en": "Tomorrow. I will not forget to wear gloves again.",
+    "audio_en_storage_path": "2096_tomorrow_i_will_not_forget_to_wear_gloves_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102997",
+    "text_pt": "Cortei minha mão da última vez que trabalhei com as mãos vazias.",
+    "text_en": "Cut my hand last time working barehanded.",
+    "audio_en_storage_path": "2097_cut_my_hand_last_time_working_barehanded.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102998",
+    "text_pt": "Cuide de pequenos ferimentos agora!",
+    "text_en": "Take care of small wounds now!",
+    "audio_en_storage_path": "2098_take_care_of_small_wounds_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102999",
+    "text_pt": "Eles podem causar grandes problemas mais tarde.",
+    "text_en": "They can cause big problems later.",
+    "audio_en_storage_path": "2099_they_can_cause_big_problems_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103000",
+    "text_pt": "Ressaca",
+    "text_en": "Hangover",
+    "audio_en_storage_path": "2100_hangover.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103001",
+    "text_pt": "Ele está de ressaca depois da noite passada.",
+    "text_en": "He has a hangover after last night.",
+    "audio_en_storage_path": "2101_he_has_a_hangover_after_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103002",
+    "text_pt": "Dor de cabeça. náusea e olhos cansados.",
+    "text_en": "Headache. nausea. and tired eyes.",
+    "audio_en_storage_path": "2102_headache_nausea_and_tired_eyes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103003",
+    "text_pt": "Ele bebe água e come torrada lentamente.",
+    "text_en": "He drinks water and eats toast slowly.",
+    "audio_en_storage_path": "2103_he_drinks_water_and_eats_toast_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103004",
+    "text_pt": "Às vezes acrescenta chá de gengibre para o estômago.",
+    "text_en": "Sometimes adds ginger tea for the stomach.",
+    "audio_en_storage_path": "2104_sometimes_adds_ginger_tea_for_the_stomach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103005",
+    "text_pt": "Sua pele parece pálida e cansada.",
+    "text_en": "His skin looks pale and tired.",
+    "audio_en_storage_path": "2105_his_skin_looks_pale_and_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103006",
+    "text_pt": "Os olhos estão vermelhos e ele continua bocejando.",
+    "text_en": "Eyes are red and he keeps yawning.",
+    "audio_en_storage_path": "2106_eyes_are_red_and_he_keeps_yawning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103007",
+    "text_pt": "Há garrafas vazias. óculos escuros e aspirinas por perto.",
+    "text_en": "There are empty bottles. sunglasses. and aspirin nearby.",
+    "audio_en_storage_path": "2107_there_are_empty_bottles_sunglasses_and_aspirin_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103008",
+    "text_pt": "E um bilhete que diz “Nunca mais!”",
+    "text_en": "And a note that says “Never again!”",
+    "audio_en_storage_path": "2108_and_a_note_that_says_never_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103009",
+    "text_pt": "Como você se sente hoje?",
+    "text_en": "How do you feel today?",
+    "audio_en_storage_path": "2109_how_do_you_feel_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103010",
+    "text_pt": "Como se eu tivesse corrido uma maratona — sem me mover.",
+    "text_en": "Like I ran a marathon — without moving.",
+    "audio_en_storage_path": "2110_like_i_ran_a_marathon_without_moving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103011",
+    "text_pt": "Onde você guarda seus analgésicos?",
+    "text_en": "Where do you keep your painkillers?",
+    "audio_en_storage_path": "2111_where_do_you_keep_your_painkillers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103012",
+    "text_pt": "No armário do banheiro — fácil de alcançar.",
+    "text_en": "In the bathroom cabinet — easy to reach.",
+    "audio_en_storage_path": "2112_in_the_bathroom_cabinet_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103013",
+    "text_pt": "Às vezes ele culpa a tequila.",
+    "text_en": "Sometimes he blames tequila.",
+    "audio_en_storage_path": "2113_sometimes_he_blames_tequila.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103014",
+    "text_pt": "Outras vezes ele culpa os amigos e a música.",
+    "text_en": "Other times he blames friends and music.",
+    "audio_en_storage_path": "2114_other_times_he_blames_friends_and_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103015",
+    "text_pt": "Onde você deixou seu telefone ontem à noite?",
+    "text_en": "Where did you leave your phone last night?",
+    "audio_en_storage_path": "2115_where_did_you_leave_your_phone_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103016",
+    "text_pt": "No sofá — provavelmente sob as roupas.",
+    "text_en": "On the couch — probably under clothes.",
+    "audio_en_storage_path": "2116_on_the_couch_probably_under_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103017",
+    "text_pt": "Quando você vai se recuperar da festa?",
+    "text_en": "When will you recover from the party?",
+    "audio_en_storage_path": "2117_when_will_you_recover_from_the_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103018",
+    "text_pt": "Talvez hoje à noite — depois de dormir e comer.",
+    "text_en": "Maybe tonight — after sleep and food.",
+    "audio_en_storage_path": "2118_maybe_tonight_after_sleep_and_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103019",
+    "text_pt": "Por que você pulou o café da manhã hoje?",
+    "text_en": "Why did you skip breakfast today?",
+    "audio_en_storage_path": "2119_why_did_you_skip_breakfast_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103020",
+    "text_pt": "Não conseguia comer — tudo cheirava mal.",
+    "text_en": "Couldn't eat — everything smelled bad.",
+    "audio_en_storage_path": "2120_couldnt_eat_everything_smelled_bad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103021",
+    "text_pt": "Ele nunca bebe antes de dias importantes.",
+    "text_en": "He never drinks before important days.",
+    "audio_en_storage_path": "2121_he_never_drinks_before_important_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103022",
+    "text_pt": "Aprende com cada erro.",
+    "text_en": "Learns from every mistake.",
+    "audio_en_storage_path": "2122_learns_from_every_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103023",
+    "text_pt": "Amanhã não vou mais beber sem comer.",
+    "text_en": "Tomorrow. I will not drink without eating again.",
+    "audio_en_storage_path": "2123_tomorrow_i_will_not_drink_without_eating_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103024",
+    "text_pt": "Fiquei pior porque não tinha nada no estômago.",
+    "text_en": "Felt worse because I had nothing in my stomach.",
+    "audio_en_storage_path": "2124_felt_worse_because_i_had_nothing_in_my_stomach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103025",
+    "text_pt": "Beba com inteligência!",
+    "text_en": "Drink smart!",
+    "audio_en_storage_path": "2125_drink_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103026",
+    "text_pt": "Coma sempre antes de beber.",
+    "text_en": "Always eat before drinking.",
+    "audio_en_storage_path": "2126_always_eat_before_drinking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

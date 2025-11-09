@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101813",
+    "text_pt": "🎬 Cinema e Pipoca (Cinema e Petiscos)",
+    "text_en": "🎬 Movie Theater & Snacks",
+    "audio_en_storage_path": "",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101814",
+    "text_pt": "O cinema fica no último andar.",
+    "text_en": "The movie theater is on the top floor.",
+    "audio_en_storage_path": "914_the_movie_theater_is_on_the_top_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101815",
+    "text_pt": "Exibe filmes de ação. comédia e animação.",
+    "text_en": "It shows action. comedy. and animated films.",
+    "audio_en_storage_path": "915_it_shows_action_comedy_and_animated_films.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101816",
+    "text_pt": "Compramos os ingressos online ou no quiosque.",
+    "text_en": "We buy tickets online or at the kiosk.",
+    "audio_en_storage_path": "916_we_buy_tickets_online_or_at_the_kiosk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101817",
+    "text_pt": "Depois pegue bebidas e pipoca antes de entrar.",
+    "text_en": "Then get drinks and popcorn before entering.",
+    "audio_en_storage_path": "917_then_get_drinks_and_popcorn_before_entering.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101818",
+    "text_pt": "O saguão está cheio de pôsteres e luzes.",
+    "text_en": "The lobby is full of posters and lights.",
+    "audio_en_storage_path": "918_the_lobby_is_full_of_posters_and_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101819",
+    "text_pt": "O cheiro de manteiga enche o ar.",
+    "text_en": "The smell of butter fills the air.",
+    "audio_en_storage_path": "919_the_smell_of_butter_fills_the_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101820",
+    "text_pt": "Há barras de chocolate. bebidas e pretzels macios por perto.",
+    "text_en": "There are candy bars. drinks. and soft pretzels nearby.",
+    "audio_en_storage_path": "920_there_are_candy_bars_drinks_and_soft_pretzels_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101821",
+    "text_pt": "E um cardápio com preços na parede.",
+    "text_en": "And a menu with prices on the wall.",
+    "audio_en_storage_path": "921_and_a_menu_with_prices_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101822",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "922_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101823",
+    "text_pt": "O novo filme de aventura — todo mundo fala sobre ele.",
+    "text_en": "The new adventure film — everyone talks about it.",
+    "audio_en_storage_path": "923_the_new_adventure_film_everyone_talks_about_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101824",
+    "text_pt": "Onde você pode sentar sozinho?",
+    "text_en": "Where can you sit alone?",
+    "audio_en_storage_path": "924_where_can_you_sit_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101825",
+    "text_pt": "Na primeira fila — ninguém mais chegou ainda.",
+    "text_en": "On the front row — no one else came yet.",
+    "audio_en_storage_path": "925_on_the_front_row_no_one_else_came_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101826",
+    "text_pt": "Às vezes compartilhamos lanches.",
+    "text_en": "Sometimes we share snacks.",
+    "audio_en_storage_path": "926_sometimes_we_share_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101827",
+    "text_pt": "Outras vezes comemos os nossos.",
+    "text_en": "Other times we eat our own.",
+    "audio_en_storage_path": "927_other_times_we_eat_our_own.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101828",
+    "text_pt": "Onde você deixou seu ingresso?",
+    "text_en": "Where did you leave your ticket?",
+    "audio_en_storage_path": "928_where_did_you_leave_your_ticket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101829",
+    "text_pt": "No seu bolso — quase o perdi.",
+    "text_en": "In your pocket — almost lost it.",
+    "audio_en_storage_path": "929_in_your_pocket_almost_lost_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101830",
+    "text_pt": "Quando começa o próximo filme?",
+    "text_en": "When does the next movie start?",
+    "audio_en_storage_path": "930_when_does_the_next_movie_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101831",
+    "text_pt": "Em 15 minutos — apresse-se!",
+    "text_en": "In 15 minutes — hurry up!",
+    "audio_en_storage_path": "931_in_15_minutes_hurry_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101832",
+    "text_pt": "Por que você chegou cedo hoje?",
+    "text_en": "Why did you arrive early today?",
+    "audio_en_storage_path": "932_why_did_you_arrive_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101833",
+    "text_pt": "Para conseguir bons lugares e evitar filas.",
+    "text_en": "To get good seats and avoid lines.",
+    "audio_en_storage_path": "933_to_get_good_seats_and_avoid_lines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101834",
+    "text_pt": "Eles sempre assistem a um filme nos fins de semana.",
+    "text_en": "They always watch a movie on weekends.",
+    "audio_en_storage_path": "934_they_always_watch_a_movie_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101835",
+    "text_pt": "É a maneira favorita deles de passar o tempo.",
+    "text_en": "It's their favorite way to spend time.",
+    "audio_en_storage_path": "935_its_their_favorite_way_to_spend_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101836",
+    "text_pt": "Amanhã. Não esquecerei de conferir a programação novamente.",
+    "text_en": "Tomorrow. I will not forget to check the schedule again.",
+    "audio_en_storage_path": "936_tomorrow_i_will_not_forget_to_check_the_schedule_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101837",
+    "text_pt": "Perdi a largada da última vez — cheguei atrasado.",
+    "text_en": "Missed the start last time — showed up late.",
+    "audio_en_storage_path": "937_missed_the_start_last_time_showed_up_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101838",
+    "text_pt": "Aproveite o show!",
+    "text_en": "Enjoy the show!",
+    "audio_en_storage_path": "938_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101839",
+    "text_pt": "Sem spoilers. por favor.",
+    "text_en": "No spoilers please.",
+    "audio_en_storage_path": "939_no_spoilers_please.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

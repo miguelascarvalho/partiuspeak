@@ -1,0 +1,632 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100375",
+    "text_pt": "Conjunto de frases – Compras de alimentos",
+    "text_en": "Sentence Set – Shopping for Food",
+    "audio_en_storage_path": "376_sentence_set_shopping_for_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100376",
+    "text_pt": "Este é o supermercado.",
+    "text_en": "This is the grocery store.",
+    "audio_en_storage_path": "377_this_is_the_grocery_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100377",
+    "text_pt": "Viemos aqui para comprar comida e bebida.",
+    "text_en": "We come here to buy food and drinks.",
+    "audio_en_storage_path": "378_we_come_here_to_buy_food_and_drinks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100378",
+    "text_pt": "A loja tem muitos corredores e prateleiras.",
+    "text_en": "The store has many aisles and shelves.",
+    "audio_en_storage_path": "379_the_store_has_many_aisles_and_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100379",
+    "text_pt": "Há frutas, vegetais e lanches.",
+    "text_en": "There are fruits, vegetables, and snacks.",
+    "audio_en_storage_path": "380_there_are_fruits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100380",
+    "text_pt": "Você precisa de uma lista de compras?",
+    "text_en": "Do you need a shopping list?",
+    "audio_en_storage_path": "381_do_you_need_a_shopping_list.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100381",
+    "text_pt": "Sim, eu escrevi uma antes de virmos.",
+    "text_en": "Yes, I wrote one before we came.",
+    "audio_en_storage_path": "382_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100382",
+    "text_pt": "Não, eu lembro do que precisamos.",
+    "text_en": "No, I remember what we need.",
+    "audio_en_storage_path": "383_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100383",
+    "text_pt": "Onde fica a seção de pães?",
+    "text_en": "Where is the bread section?",
+    "audio_en_storage_path": "384_where_is_the_bread_section.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100384",
+    "text_pt": "O pão está perto do balcão da padaria.",
+    "text_en": "The bread is near the bakery counter.",
+    "audio_en_storage_path": "385_the_bread_is_near_the_bakery_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100385",
+    "text_pt": "Quando você irá às compras novamente?",
+    "text_en": "When will you go shopping again?",
+    "audio_en_storage_path": "386_when_will_you_go_shopping_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100386",
+    "text_pt": "Voltarei na semana que vem.",
+    "text_en": "I’ll come back next week.",
+    "audio_en_storage_path": "387_ill_come_back_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100387",
+    "text_pt": "Por que você esqueceu os ovos?",
+    "text_en": "Why did you forget the eggs?",
+    "audio_en_storage_path": "388_why_did_you_forget_the_eggs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100388",
+    "text_pt": "Fiquei distraído com o telefonema.",
+    "text_en": "I was distracted by the phone call.",
+    "audio_en_storage_path": "389_i_was_distracted_by_the_phone_call.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100389",
+    "text_pt": "Ela coloca o leite no carrinho primeiro.",
+    "text_en": "She puts milk in the cart first.",
+    "audio_en_storage_path": "390_she_puts_milk_in_the_cart_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100390",
+    "text_pt": "Desta vez ele não vai esquecer os ovos.",
+    "text_en": "He won’t forget the eggs this time.",
+    "audio_en_storage_path": "391_he_wont_forget_the_eggs_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100391",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "392_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100392",
+    "text_pt": "Voltarei na semana que vem.",
+    "text_en": "I’ll come back next week.",
+    "audio_en_storage_path": "393_ill_come_back_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100393",
+    "text_pt": "Eu voltarei na semana que vem.",
+    "text_en": "I’m gonna come back next week.",
+    "audio_en_storage_path": "394_im_gonna_come_back_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100394",
+    "text_pt": "Desta vez ele não vai esquecer os ovos.",
+    "text_en": "He won’t forget the eggs this time.",
+    "audio_en_storage_path": "395_he_wont_forget_the_eggs_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100395",
+    "text_pt": "Desta vez ele não vai esquecer os ovos.",
+    "text_en": "He ain't forgettin’ the eggs this time.",
+    "audio_en_storage_path": "396_he_aint_forgettin_the_eggs_this_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100396",
+    "text_pt": "Ela coloca o leite no carrinho primeiro.",
+    "text_en": "She puts milk in the cart first.",
+    "audio_en_storage_path": "397_she_puts_milk_in_the_cart_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100397",
+    "text_pt": "Ela joga o leite no carrinho primeiro.",
+    "text_en": "She tosses the milk in the cart first.",
+    "audio_en_storage_path": "398_she_tosses_the_milk_in_the_cart_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100398",
+    "text_pt": "Conjunto de frases – Encontrando itens",
+    "text_en": "Sentence Set – Finding Items",
+    "audio_en_storage_path": "399_sentence_set_finding_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100399",
+    "text_pt": "Posso encontrar maçãs aqui?",
+    "text_en": "Can I find apples here?",
+    "audio_en_storage_path": "400_can_i_find_apples_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100400",
+    "text_pt": "Sim, elas estão na seção de frutas.",
+    "text_en": "Yes, they’re in the fruit section.",
+    "audio_en_storage_path": "401_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100401",
+    "text_pt": "Não, eles podem estar fora de estoque.",
+    "text_en": "No, they might be out of stock.",
+    "audio_en_storage_path": "402_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100402",
+    "text_pt": "Esta marca está em promoção?",
+    "text_en": "Is this brand on sale?",
+    "audio_en_storage_path": "403_is_this_brand_on_sale.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100403",
+    "text_pt": "Sim, é mais barato que o outro.",
+    "text_en": "Yes, it’s cheaper than the other.",
+    "audio_en_storage_path": "404_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100404",
+    "text_pt": "Não, ambos têm o mesmo preço.",
+    "text_en": "No, both have the same price.",
+    "audio_en_storage_path": "405_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100405",
+    "text_pt": "Onde fica o corredor de cereais?",
+    "text_en": "Where is the cereal aisle?",
+    "audio_en_storage_path": "406_where_is_the_cereal_aisle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100406",
+    "text_pt": "Fica perto do suco e do leite.",
+    "text_en": "It’s near the juice and milk.",
+    "audio_en_storage_path": "407_its_near_the_juice_and_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100407",
+    "text_pt": "As bananas estão mais baratas hoje em dia?",
+    "text_en": "Are bananas cheaper today?",
+    "audio_en_storage_path": "408_are_bananas_cheaper_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100408",
+    "text_pt": "Sim, eles custam US$ 0,30 cada.",
+    "text_en": "Yes, they’re $0.30 each.",
+    "audio_en_storage_path": "409_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100409",
+    "text_pt": "Não, eles são os mesmos de sempre.",
+    "text_en": "No, they’re the same as always.",
+    "audio_en_storage_path": "410_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100410",
+    "text_pt": "Por que você escolheu esse iogurte?",
+    "text_en": "Why did you choose this yogurt?",
+    "audio_en_storage_path": "411_why_did_you_choose_this_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100411",
+    "text_pt": "Tem menos açúcar que os outros.",
+    "text_en": "It has less sugar than the others.",
+    "audio_en_storage_path": "412_it_has_less_sugar_than_the_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100412",
+    "text_pt": "Ele verifica o preço antes de comprar.",
+    "text_en": "He checks the price before buying.",
+    "audio_en_storage_path": "413_he_checks_the_price_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100413",
+    "text_pt": "Eles não comprarão alimentos vencidos.",
+    "text_en": "They won’t buy expired food.",
+    "audio_en_storage_path": "414_they_wont_buy_expired_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100414",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "415_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100415",
+    "text_pt": "Tem menos açúcar que os outros.",
+    "text_en": "It has less sugar than the others.",
+    "audio_en_storage_path": "416_it_has_less_sugar_than_the_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100416",
+    "text_pt": "Tem menos açúcar que os outros.",
+    "text_en": "It's got less sugar than the rest.",
+    "audio_en_storage_path": "417_its_got_less_sugar_than_the_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100417",
+    "text_pt": "Eles não comprarão alimentos vencidos.",
+    "text_en": "They won’t buy expired food.",
+    "audio_en_storage_path": "418_they_wont_buy_expired_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100418",
+    "text_pt": "Eles não compram comida vencida.",
+    "text_en": "They ain't buyin’ no expired food.",
+    "audio_en_storage_path": "419_they_aint_buyin_no_expired_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100419",
+    "text_pt": "Ele verifica o preço antes de comprar.",
+    "text_en": "He checks the price before buying.",
+    "audio_en_storage_path": "420_he_checks_the_price_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100420",
+    "text_pt": "Ele verifica o preço antes de comprar.",
+    "text_en": "He checks the price b’fore buyin’.",
+    "audio_en_storage_path": "421_he_checks_the_price_bfore_buyin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100421",
+    "text_pt": "Conjunto de frases – No checkout",
+    "text_en": "Sentence Set – At the Checkout",
+    "audio_en_storage_path": "422_sentence_set_at_the_checkout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100422",
+    "text_pt": "Esta é a área de checkout.",
+    "text_en": "This is the checkout area.",
+    "audio_en_storage_path": "423_this_is_the_checkout_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100423",
+    "text_pt": "Nós o usamos para pagar nossas compras de supermercado.",
+    "text_en": "We use it to pay for our groceries.",
+    "audio_en_storage_path": "424_we_use_it_to_pay_for_our_groceries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100424",
+    "text_pt": "Há também máquinas de autoatendimento.",
+    "text_en": "There are self-checkout machines too.",
+    "audio_en_storage_path": "425_there_are_selfcheckout_machines_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100425",
+    "text_pt": "O caixa escaneia cada item.",
+    "text_en": "The cashier scans each item.",
+    "audio_en_storage_path": "426_the_cashier_scans_each_item.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100426",
+    "text_pt": "Você quer sacolas de papel ou de plástico?",
+    "text_en": "Do you want paper or plastic bags?",
+    "audio_en_storage_path": "427_do_you_want_paper_or_plastic_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100427",
+    "text_pt": "Prefiro os reutilizáveis, obrigado.",
+    "text_en": "I prefer reusable ones, thank you.",
+    "audio_en_storage_path": "428_i_prefer_reusable_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100428",
+    "text_pt": "Sacolas de papel são melhores para itens pesados.",
+    "text_en": "Paper bags are better for heavy items.",
+    "audio_en_storage_path": "429_paper_bags_are_better_for_heavy_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100429",
+    "text_pt": "Onde fica o balcão de atendimento ao cliente?",
+    "text_en": "Where is the customer service desk?",
+    "audio_en_storage_path": "430_where_is_the_customer_service_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100430",
+    "text_pt": "Fica perto da entrada, perto da saída.",
+    "text_en": "It’s near the entrance, by the exit.",
+    "audio_en_storage_path": "431_its_near_the_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100431",
+    "text_pt": "Quando seu turno vai terminar?",
+    "text_en": "When will your shift end?",
+    "audio_en_storage_path": "432_when_will_your_shift_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100432",
+    "text_pt": "Meu turno termina às cinco horas.",
+    "text_en": "My shift ends at five o’clock.",
+    "audio_en_storage_path": "433_my_shift_ends_at_five_oclock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100433",
+    "text_pt": "Por que você devolveu aquele item?",
+    "text_en": "Why did you return that item?",
+    "audio_en_storage_path": "434_why_did_you_return_that_item.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100434",
+    "text_pt": "Estava quebrado quando o abri.",
+    "text_en": "It was broken when I opened it.",
+    "audio_en_storage_path": "435_it_was_broken_when_i_opened_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100435",
+    "text_pt": "Ela paga com dinheiro ou cartão.",
+    "text_en": "She pays with cash or card.",
+    "audio_en_storage_path": "436_she_pays_with_cash_or_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100436",
+    "text_pt": "Ele não fará compras aqui se os preços subirem.",
+    "text_en": "He won’t shop here if prices go up.",
+    "audio_en_storage_path": "437_he_wont_shop_here_if_prices_go_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100437",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "438_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100438",
+    "text_pt": "Meu turno termina às cinco horas.",
+    "text_en": "My shift ends at five o’clock.",
+    "audio_en_storage_path": "439_my_shift_ends_at_five_oclock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100439",
+    "text_pt": "Meu turno termina às cinco.",
+    "text_en": "My shift ends at five.",
+    "audio_en_storage_path": "440_my_shift_ends_at_five.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100440",
+    "text_pt": "Ele não fará compras aqui se os preços subirem.",
+    "text_en": "He won’t shop here if prices go up.",
+    "audio_en_storage_path": "441_he_wont_shop_here_if_prices_go_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100441",
+    "text_pt": "Ele não virá aqui se os preços subirem.",
+    "text_en": "He ain't comin’ here if prices go up.",
+    "audio_en_storage_path": "442_he_aint_comin_here_if_prices_go_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100442",
+    "text_pt": "Ela paga com dinheiro ou cartão.",
+    "text_en": "She pays with cash or card.",
+    "audio_en_storage_path": "443_she_pays_with_cash_or_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100443",
+    "text_pt": "Ela paga em dinheiro ou cartão, depende.",
+    "text_en": "She pays cash or card, depends.",
+    "audio_en_storage_path": "444_she_pays_cash_or_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100444",
+    "text_pt": "Loja de roupas / Loja de departamentos",
+    "text_en": "Clothing Store / Department Store",
+    "audio_en_storage_path": "445_clothing_store_department_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

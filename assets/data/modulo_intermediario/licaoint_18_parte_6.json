@@ -1,0 +1,263 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113021",
+    "text_pt": "Noite de jogos!",
+    "text_en": "Game night!",
+    "audio_en_storage_path": "3021_game_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113022",
+    "text_pt": "Que vença o melhor jogador.",
+    "text_en": "May the best player win.",
+    "audio_en_storage_path": "3022_may_the_best_player_win.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113023",
+    "text_pt": "Torça para o time ser campeão",
+    "text_en": "Cheer for the team to be champion",
+    "audio_en_storage_path": "3023_cheer_for_the_team_to_be_champion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113024",
+    "text_pt": "Todos estão na sala de estar.",
+    "text_en": "Everyone is in the living room.",
+    "audio_en_storage_path": "3024_everyone_is_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113025",
+    "text_pt": "A partida final está prestes a começar.",
+    "text_en": "The final match is about to start.",
+    "audio_en_storage_path": "3025_the_final_match_is_about_to_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113026",
+    "text_pt": "Eles vestem camisas e agitam bandeiras.",
+    "text_en": "They wear jerseys and wave flags.",
+    "audio_en_storage_path": "3026_they_wear_jerseys_and_wave_flags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113027",
+    "text_pt": "Torcendo pela vitória do time.",
+    "text_en": "Cheering for the team to win.",
+    "audio_en_storage_path": "3027_cheering_for_the_team_to_win.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113028",
+    "text_pt": "A tela mostra o campo e os torcedores.",
+    "text_en": "The screen shows the field and fans.",
+    "audio_en_storage_path": "3028_the_screen_shows_the_field_and_fans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113029",
+    "text_pt": "A tensão está alta — está empatado.",
+    "text_en": "Tension is high — it’s tied.",
+    "audio_en_storage_path": "3029_tension_is_high_its_tied.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113030",
+    "text_pt": "Há bebidas, salgadinhos e amuletos da sorte na mesa.",
+    "text_en": "There are drinks. snacks. and lucky charms on the table.",
+    "audio_en_storage_path": "3030_there_are_drinks_snacks_and_lucky_charms_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113031",
+    "text_pt": "E tambores e cornetas para dar sorte.",
+    "text_en": "And drums and horns for luck.",
+    "audio_en_storage_path": "3031_and_drums_and_horns_for_luck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113032",
+    "text_pt": "Para quem você está torcendo hoje?",
+    "text_en": "Who are you rooting for today?",
+    "audio_en_storage_path": "3032_who_are_you_rooting_for_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113033",
+    "text_pt": "Real Madrid — é o jogo final.",
+    "text_en": "Real Madrid — it’s the final game.",
+    "audio_en_storage_path": "3033_real_madrid_its_the_final_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113034",
+    "text_pt": "Onde a partida será disputada?",
+    "text_en": "Where is the match being played?",
+    "audio_en_storage_path": "3034_where_is_the_match_being_played.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113035",
+    "text_pt": "No estádio no centro da cidade — ao vivo.",
+    "text_en": "In the stadium downtown — live.",
+    "audio_en_storage_path": "3035_in_the_stadium_downtown_live.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113036",
+    "text_pt": "Às vezes assistimos a jogos locais.",
+    "text_en": "Sometimes we watch local games.",
+    "audio_en_storage_path": "3036_sometimes_we_watch_local_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113037",
+    "text_pt": "Outras vezes acompanhamos jogos internacionais.",
+    "text_en": "Other times we follow international matches.",
+    "audio_en_storage_path": "3037_other_times_we_follow_international_matches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113038",
+    "text_pt": "Onde você deixou o cachecol do time?",
+    "text_en": "Where did you leave the team scarf?",
+    "audio_en_storage_path": "3038_where_did_you_leave_the_team_scarf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113039",
+    "text_pt": "Na cadeira — ainda cheia de confete.",
+    "text_en": "On the chair — still full of confetti.",
+    "audio_en_storage_path": "3039_on_the_chair_still_full_of_confetti.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113040",
+    "text_pt": "Quando começa o jogo final?",
+    "text_en": "When does the final kick-off?",
+    "audio_en_storage_path": "3040_when_does_the_final_kickoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113041",
+    "text_pt": "Em cinco minutos — todos estão prontos.",
+    "text_en": "In five minutes — everyone is ready.",
+    "audio_en_storage_path": "3041_in_five_minutes_everyone_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113042",
+    "text_pt": "Por que você convidou amigos hoje?",
+    "text_en": "Why did you invite friends over today?",
+    "audio_en_storage_path": "3042_why_did_you_invite_friends_over_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113043",
+    "text_pt": "Porque é o jogo do campeonato.",
+    "text_en": "Because it's the championship game.",
+    "audio_en_storage_path": "3043_because_its_the_championship_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113044",
+    "text_pt": "Nós sempre torcemos juntos na sala de estar.",
+    "text_en": "We always cheer together in the living room.",
+    "audio_en_storage_path": "3044_we_always_cheer_together_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113045",
+    "text_pt": "É mais divertido com pessoas.",
+    "text_en": "It’s more fun with people.",
+    "audio_en_storage_path": "3045_its_more_fun_with_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113046",
+    "text_pt": "Amanhã. Não vou esquecer de limpar de novo.",
+    "text_en": "Tomorrow. I will not forget to clean up again.",
+    "audio_en_storage_path": "3046_tomorrow_i_will_not_forget_to_clean_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113047",
+    "text_pt": "Havia confete e garrafas por todo lugar.",
+    "text_en": "There were confetti and bottles everywhere.",
+    "audio_en_storage_path": "3047_there_were_confetti_and_bottles_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113048",
+    "text_pt": "Boa sorte, equipe!",
+    "text_en": "Good luck. team!",
+    "audio_en_storage_path": "3048_good_luck_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113049",
+    "text_pt": "Vamos ganhar o troféu!",
+    "text_en": "Let’s win the trophy!",
+    "audio_en_storage_path": "3049_lets_win_the_trophy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

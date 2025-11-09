@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103054",
+    "text_pt": "Farmácia",
+    "text_en": "Pharmacy",
+    "audio_en_storage_path": "2154_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103055",
+    "text_pt": "A farmácia fica aberta até às 22h.",
+    "text_en": "The pharmacy is open until 10 PM.",
+    "audio_en_storage_path": "2155_the_pharmacy_is_open_until_10_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103056",
+    "text_pt": "Ótimo para emergências e madrugadas.",
+    "text_en": "Great for emergencies and late nights.",
+    "audio_en_storage_path": "2156_great_for_emergencies_and_late_nights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103057",
+    "text_pt": "Vou lá para comprar remédios e máscaras.",
+    "text_en": "I go there to buy medicine and masks.",
+    "audio_en_storage_path": "2157_i_go_there_to_buy_medicine_and_masks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103058",
+    "text_pt": "Ou apenas para perguntar sobre sintomas.",
+    "text_en": "Or just to ask about symptoms.",
+    "audio_en_storage_path": "2158_or_just_to_ask_about_symptoms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103059",
+    "text_pt": "É pequeno. iluminado e tem muitas prateleiras.",
+    "text_en": "It is small. bright. and has many shelves.",
+    "audio_en_storage_path": "2159_it_is_small_bright_and_has_many_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103060",
+    "text_pt": "Com cremes. xaropes e ferramentas de saúde.",
+    "text_en": "With creams. syrups. and health tools.",
+    "audio_en_storage_path": "2160_with_creams_syrups_and_health_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103061",
+    "text_pt": "Há termômetros. higienizadores e lanches lá dentro.",
+    "text_en": "There are thermometers. sanitizers. and snacks inside.",
+    "audio_en_storage_path": "2161_there_are_thermometers_sanitizers_and_snacks_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103062",
+    "text_pt": "E uma enfermeira atrás do balcão.",
+    "text_en": "And a nurse behind the counter.",
+    "audio_en_storage_path": "2162_and_a_nurse_behind_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103063",
+    "text_pt": "O que você comprou na farmácia?",
+    "text_en": "What did you buy at the pharmacy?",
+    "audio_en_storage_path": "2163_what_did_you_buy_at_the_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103064",
+    "text_pt": "Um termômetro — para verificar a febre.",
+    "text_en": "A thermometer — for checking fever.",
+    "audio_en_storage_path": "2164_a_thermometer_for_checking_fever.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103065",
+    "text_pt": "Onde posso encontrar comprimidos para alergia?",
+    "text_en": "Where can I find allergy tablets?",
+    "audio_en_storage_path": "2165_where_can_i_find_allergy_tablets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103066",
+    "text_pt": "À esquerda — abaixo da seção de vitaminas.",
+    "text_en": "On the left — under the vitamin section.",
+    "audio_en_storage_path": "2166_on_the_left_under_the_vitamin_section.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103067",
+    "text_pt": "Às vezes peço ajuda.",
+    "text_en": "Sometimes I ask for help.",
+    "audio_en_storage_path": "2167_sometimes_i_ask_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103068",
+    "text_pt": "Outras vezes eu simplesmente pego o que conheço.",
+    "text_en": "Other times I just grab what I know.",
+    "audio_en_storage_path": "2168_other_times_i_just_grab_what_i_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103069",
+    "text_pt": "Onde você deixou seu recibo?",
+    "text_en": "Where did you leave your receipt?",
+    "audio_en_storage_path": "2169_where_did_you_leave_your_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103070",
+    "text_pt": "Na sua carteira — entre cartões antigos.",
+    "text_en": "In your wallet — between old cards.",
+    "audio_en_storage_path": "2170_in_your_wallet_between_old_cards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103071",
+    "text_pt": "Quando a loja fechará hoje à noite?",
+    "text_en": "When will the store close tonight?",
+    "audio_en_storage_path": "2171_when_will_the_store_close_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103072",
+    "text_pt": "Às 22h — não se atrase.",
+    "text_en": "At 10 PM — don’t be late.",
+    "audio_en_storage_path": "2172_at_10_pm_dont_be_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103073",
+    "text_pt": "Por que você foi à farmácia hoje?",
+    "text_en": "Why did you go to the pharmacy today?",
+    "audio_en_storage_path": "2173_why_did_you_go_to_the_pharmacy_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103074",
+    "text_pt": "Porque não consegui encontrar nada em casa.",
+    "text_en": "Because I couldn’t find anything at home.",
+    "audio_en_storage_path": "2174_because_i_couldnt_find_anything_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103075",
+    "text_pt": "Ele compra todos os seus remédios aqui.",
+    "text_en": "He buys all his remedies here.",
+    "audio_en_storage_path": "2175_he_buys_all_his_remedies_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103076",
+    "text_pt": "Confia na equipe e nos preços.",
+    "text_en": "Trusts the staff and prices.",
+    "audio_en_storage_path": "2176_trusts_the_staff_and_prices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103077",
+    "text_pt": "Amanhã não esquecerei de comparar preços novamente.",
+    "text_en": "Tomorrow. I will not forget to compare prices again.",
+    "audio_en_storage_path": "2177_tomorrow_i_will_not_forget_to_compare_prices_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103078",
+    "text_pt": "Paguei mais do que o necessário hoje.",
+    "text_en": "Paid more than needed today.",
+    "audio_en_storage_path": "2178_paid_more_than_needed_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103079",
+    "text_pt": "Pergunte se não tiver certeza!",
+    "text_en": "Ask questions if unsure!",
+    "audio_en_storage_path": "2179_ask_questions_if_unsure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103080",
+    "text_pt": "Os farmacêuticos ajudam você a escolher melhor.",
+    "text_en": "Pharmacists help you choose better.",
+    "audio_en_storage_path": "2180_pharmacists_help_you_choose_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

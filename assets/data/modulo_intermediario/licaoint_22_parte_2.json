@@ -1,0 +1,344 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113660",
+    "text_pt": "Na sala de estar — animada demais para me mexer.",
+    "text_en": "In the living room — too excited to move.",
+    "audio_en_storage_path": "3660_in_the_living_room_too_excited_to_move.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113661",
+    "text_pt": "Quando o jogo vai terminar?",
+    "text_en": "When will the game end?",
+    "audio_en_storage_path": "3661_when_will_the_game_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113662",
+    "text_pt": "Provavelmente depois das 21:00 — depende do tempo extra.",
+    "text_en": "Probably after 9:00 PM — depends on extra time.",
+    "audio_en_storage_path": "3662_probably_after_900_pm_depends_on_extra_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113663",
+    "text_pt": "Por que ele cozinhou lanches extras hoje?",
+    "text_en": "Why did he cook extra snacks today?",
+    "audio_en_storage_path": "3663_why_did_he_cook_extra_snacks_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113664",
+    "text_pt": "Porque o jogo pode ser longo.",
+    "text_en": "Because the game might go long.",
+    "audio_en_storage_path": "3664_because_the_game_might_go_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113665",
+    "text_pt": "Ele nunca perde uma grande partida em casa.",
+    "text_en": "He never misses a big match at home.",
+    "audio_en_storage_path": "3665_he_never_misses_a_big_match_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113666",
+    "text_pt": "Ele se sente como se estivesse no estádio.",
+    "text_en": "He feels like he's in the stadium.",
+    "audio_en_storage_path": "3666_he_feels_like_hes_in_the_stadium.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113667",
+    "text_pt": "Amanhã ele não vai esquecer de jogar o lixo fora novamente.",
+    "text_en": "Tomorrow. he will not forget to throw away the trash again.",
+    "audio_en_storage_path": "3667_tomorrow_he_will_not_forget_to_throw_away_the_trash_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113668",
+    "text_pt": "Da última vez, ficou até segunda-feira.",
+    "text_en": "Last time. it stayed until Monday.",
+    "audio_en_storage_path": "3668_last_time_it_stayed_until_monday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113669",
+    "text_pt": "Comemorem alto!",
+    "text_en": "Cheer loud!",
+    "audio_en_storage_path": "3669_cheer_loud.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113670",
+    "text_pt": "Vamos vencer juntos!",
+    "text_en": "Let’s win this one together!",
+    "audio_en_storage_path": "3670_lets_win_this_one_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113671",
+    "text_pt": "Irmãos – Jogando videogame na sala de estar",
+    "text_en": "Brothers – Playing video games in the living room",
+    "audio_en_storage_path": "3671_brothers_playing_video_games_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113672",
+    "text_pt": "Eles estão sentados no chão com controladores.",
+    "text_en": "They are sitting on the floor with controllers.",
+    "audio_en_storage_path": "3672_they_are_sitting_on_the_floor_with_controllers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113673",
+    "text_pt": "O jogo começa e todos se concentram.",
+    "text_en": "The game starts and everyone focuses.",
+    "audio_en_storage_path": "3673_the_game_starts_and_everyone_focuses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113674",
+    "text_pt": "Eles jogam jogos de corrida ou de luta.",
+    "text_en": "They play racing or fighting games.",
+    "audio_en_storage_path": "3674_they_play_racing_or_fighting_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113675",
+    "text_pt": "Às vezes eles riem. Às vezes eles discutem.",
+    "text_en": "Sometimes they laugh. sometimes they argue.",
+    "audio_en_storage_path": "3675_sometimes_they_laugh_sometimes_they_argue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113676",
+    "text_pt": "A tela pisca com cores e sons.",
+    "text_en": "The screen flashes with colors and sounds.",
+    "audio_en_storage_path": "3676_the_screen_flashes_with_colors_and_sounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113677",
+    "text_pt": "As luzes são baixas e o clima é divertido.",
+    "text_en": "Lights are low and mood is fun.",
+    "audio_en_storage_path": "3677_lights_are_low_and_mood_is_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113678",
+    "text_pt": "Há xícaras, lanches e fones de ouvido por perto.",
+    "text_en": "There are cups. snacks. and headphones nearby.",
+    "audio_en_storage_path": "3678_there_are_cups_snacks_and_headphones_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113679",
+    "text_pt": "E um cabo de carregamento para o controle.",
+    "text_en": "And a charging cable for the controller.",
+    "audio_en_storage_path": "3679_and_a_charging_cable_for_the_controller.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113680",
+    "text_pt": "Que jogo você está jogando agora?",
+    "text_en": "What game are you playing now?",
+    "audio_en_storage_path": "3680_what_game_are_you_playing_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113681",
+    "text_pt": "Corrida — Estou ganhando até agora!",
+    "text_en": "Racing — I’m winning so far!",
+    "audio_en_storage_path": "3681_racing_im_winning_so_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113682",
+    "text_pt": "Onde você deixou o segundo controle?",
+    "text_en": "Where did you leave the second controller?",
+    "audio_en_storage_path": "3682_where_did_you_leave_the_second_controller.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113683",
+    "text_pt": "Debaixo do travesseiro — alguém o usou antes.",
+    "text_en": "Under the pillow — someone used it earlier.",
+    "audio_en_storage_path": "3683_under_the_pillow_someone_used_it_earlier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113684",
+    "text_pt": "Às vezes eles jogam jogos esportivos.",
+    "text_en": "Sometimes they play sports games.",
+    "audio_en_storage_path": "3684_sometimes_they_play_sports_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113685",
+    "text_pt": "Outras vezes, eles escolhem níveis de aventura.",
+    "text_en": "Other times they choose adventure levels.",
+    "audio_en_storage_path": "3685_other_times_they_choose_adventure_levels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113686",
+    "text_pt": "Onde estão os irmãos agora?",
+    "text_en": "Where are the brothers now?",
+    "audio_en_storage_path": "3686_where_are_the_brothers_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113687",
+    "text_pt": "No chão — focado no jogo.",
+    "text_en": "On the floor — focused on the game.",
+    "audio_en_storage_path": "3687_on_the_floor_focused_on_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113688",
+    "text_pt": "Quando você vai terminar de jogar?",
+    "text_en": "When will you finish playing?",
+    "audio_en_storage_path": "3688_when_will_you_finish_playing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113689",
+    "text_pt": "Depois desta rodada, trocaremos de turno.",
+    "text_en": "After this round — then we’ll switch turns.",
+    "audio_en_storage_path": "3689_after_this_round_then_well_switch_turns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113690",
+    "text_pt": "Por que você os deixou tocar tanto hoje?",
+    "text_en": "Why did you let them play so long today?",
+    "audio_en_storage_path": "3690_why_did_you_let_them_play_so_long_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113691",
+    "text_pt": "Porque estava chovendo lá fora.",
+    "text_en": "Because it was raining outside.",
+    "audio_en_storage_path": "3691_because_it_was_raining_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113692",
+    "text_pt": "Eles tocam todo fim de semana depois da escola.",
+    "text_en": "They play every weekend after school.",
+    "audio_en_storage_path": "3692_they_play_every_weekend_after_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113693",
+    "text_pt": "É a maneira favorita deles de criar laços.",
+    "text_en": "It's their favorite way to bond.",
+    "audio_en_storage_path": "3693_its_their_favorite_way_to_bond.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113694",
+    "text_pt": "Amanhã. eles não vão esquecer de carregar o controle novamente.",
+    "text_en": "Tomorrow. they will not forget to charge the controller again.",
+    "audio_en_storage_path": "3694_tomorrow_they_will_not_forget_to_charge_the_controller_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113695",
+    "text_pt": "A bateria acabou durante o nível final.",
+    "text_en": "The battery died during the final level.",
+    "audio_en_storage_path": "3695_the_battery_died_during_the_final_level.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113696",
+    "text_pt": "O jogo começou!",
+    "text_en": "Game on!",
+    "audio_en_storage_path": "3696_game_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113697",
+    "text_pt": "Que vença o melhor jogador.",
+    "text_en": "May the best player win.",
+    "audio_en_storage_path": "3697_may_the_best_player_win.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

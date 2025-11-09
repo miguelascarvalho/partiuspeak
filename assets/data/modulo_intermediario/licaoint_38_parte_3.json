@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121169",
+    "text_pt": "Título do grupo – Nuvens. Clima. e Objetos Voadores",
+    "text_en": "Group Title – Clouds. Weather. and Flying Objects",
+    "audio_en_storage_path": "1169_group_title_clouds_weather_and_flying_objects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121170",
+    "text_pt": "Essas nuvens escuras significam que pode chover em breve",
+    "text_en": "Those dark clouds mean it might rain soon",
+    "audio_en_storage_path": "1170_those_dark_clouds_mean_it_might_rain_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121171",
+    "text_pt": "Essas nuvens pesadas dizem que teremos chuva em breve",
+    "text_en": "Those heavy clouds say we’re gettin’ some rain real soon",
+    "audio_en_storage_path": "1171_those_heavy_clouds_say_were_gettin_some_rain_real_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121172",
+    "text_pt": "Espero que a tempestade não venha muito rápido",
+    "text_en": "I hope the storm doesn’t come too fast",
+    "audio_en_storage_path": "1172_i_hope_the_storm_doesnt_come_too_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121173",
+    "text_pt": "Espero que a tempestade não chegue muito rápido",
+    "text_en": "Hope that thunderstorm don’t roll in too quick",
+    "audio_en_storage_path": "1173_hope_that_thunderstorm_dont_roll_in_too_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121174",
+    "text_pt": "Essas nuvens cinzentas cobrem todo o céu",
+    "text_en": "These gray clouds cover the whole sky",
+    "audio_en_storage_path": "1174_these_gray_clouds_cover_the_whole_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121175",
+    "text_pt": "Um cobertor cinza cobre toda a vista lá de cima",
+    "text_en": "Gray blanket covers the whole view up there",
+    "audio_en_storage_path": "1175_gray_blanket_covers_the_whole_view_up_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121176",
+    "text_pt": "Um bando de pássaros passou voando por nós agora mesmo",
+    "text_en": "A flock of birds flew past us just now",
+    "audio_en_storage_path": "1176_a_flock_of_birds_flew_past_us_just_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121177",
+    "text_pt": "Um bando de pássaros acabou de voar — fez muito barulho",
+    "text_en": "Bunch of birds just flew by — made a lot of noise",
+    "audio_en_storage_path": "1177_bunch_of_birds_just_flew_by_made_a_lot_of_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121178",
+    "text_pt": "O balão flutua suavemente com o vento",
+    "text_en": "The balloon floats gently with the wind",
+    "audio_en_storage_path": "1178_the_balloon_floats_gently_with_the_wind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121179",
+    "text_pt": "O balão está flutuando onde quer que a brisa o leve",
+    "text_en": "Balloon’s just floatin’ wherever the breeze takes it",
+    "audio_en_storage_path": "1179_balloons_just_floatin_wherever_the_breeze_takes_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121180",
+    "text_pt": "Aquele helicóptero pousou não muito longe daqui",
+    "text_en": "That helicopter landed not far from here",
+    "audio_en_storage_path": "1180_that_helicopter_landed_not_far_from_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121181",
+    "text_pt": "O helicóptero pousou não muito longe",
+    "text_en": "Chopper touched down not too far away",
+    "audio_en_storage_path": "1181_chopper_touched_down_not_too_far_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121182",
+    "text_pt": "A pipa se move com o vento e fica no alto",
+    "text_en": "The kite moves with the wind and stays up high",
+    "audio_en_storage_path": "1182_the_kite_moves_with_the_wind_and_stays_up_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121183",
+    "text_pt": "A pipa dança com o ar e nunca quer cair",
+    "text_en": "Kite dances with the air and never wants to fall",
+    "audio_en_storage_path": "1183_kite_dances_with_the_air_and_never_wants_to_fall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121184",
+    "text_pt": "Eu vi um relâmpago atrás daquelas montanhas",
+    "text_en": "I saw lightning flash behind those mountains",
+    "audio_en_storage_path": "1184_i_saw_lightning_flash_behind_those_mountains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121185",
+    "text_pt": "Vi um grande relâmpago atrás daquelas colinas",
+    "text_en": "Saw a big flash of lightning behind those hills",
+    "audio_en_storage_path": "1185_saw_a_big_flash_of_lightning_behind_those_hills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121186",
+    "text_pt": "A chuva começou suave, mas rapidamente ficou forte",
+    "text_en": "The rain started softly but got heavier fast",
+    "audio_en_storage_path": "1186_the_rain_started_softly_but_got_heavier_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121187",
+    "text_pt": "Começou a chover e depois virou uma chuva torrencial",
+    "text_en": "Started drizzlin’. then turned into a full-on pour",
+    "audio_en_storage_path": "1187_started_drizzlin_then_turned_into_a_fullon_pour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121188",
+    "text_pt": "As nuvens parecem animais se você usar sua imaginação",
+    "text_en": "The clouds look like animals if you use your imagination",
+    "audio_en_storage_path": "1188_the_clouds_look_like_animals_if_you_use_your_imagination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121189",
+    "text_pt": "Se você apertar os olhos, essas nuvens parecem elefantes ou dragões.",
+    "text_en": "If ya squint. those clouds look like elephants or dragons",
+    "audio_en_storage_path": "1189_if_ya_squint_those_clouds_look_like_elephants_or_dragons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121190",
+    "text_pt": "Você conseguiu ouvir o trovão de dentro da casa?",
+    "text_en": "Could you hear the thunder from inside the house?",
+    "audio_en_storage_path": "1190_could_you_hear_the_thunder_from_inside_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121191",
+    "text_pt": "Você viu aquele trovão enquanto estava lá dentro?",
+    "text_en": "Did ya catch that thunder while you were inside?",
+    "audio_en_storage_path": "1191_did_ya_catch_that_thunder_while_you_were_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121192",
+    "text_pt": "A tempestade passou e agora o céu está limpo novamente",
+    "text_en": "The storm passed and now the sky is clear again",
+    "audio_en_storage_path": "1192_the_storm_passed_and_now_the_sky_is_clear_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121193",
+    "text_pt": "A tempestade passou e agora o céu está azul novamente",
+    "text_en": "Storm moved on and now the sky’s back to blue",
+    "audio_en_storage_path": "1193_storm_moved_on_and_now_the_skys_back_to_blue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121194",
+    "text_pt": "Deixe-me tirar uma foto daquele lindo pôr do sol",
+    "text_en": "Let me take a picture of that beautiful sunset",
+    "audio_en_storage_path": "1194_let_me_take_a_picture_of_that_beautiful_sunset.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121195",
+    "text_pt": "Vou tirar uma foto daquele céu de cores malucas",
+    "text_en": "Gonna snap a photo of that crazy-colored sky",
+    "audio_en_storage_path": "1195_gonna_snap_a_photo_of_that_crazycolored_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121196",
+    "text_pt": "Se você ouvir com atenção, poderá ouvir o vento soprando.",
+    "text_en": "If you listen carefully. you can hear the wind blowing",
+    "audio_en_storage_path": "1196_if_you_listen_carefully_you_can_hear_the_wind_blowing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121197",
+    "text_pt": "Coloque seus ouvidos em alerta — o vento está sussurrando através das árvores",
+    "text_en": "Put your ears on alert — wind’s whisperin’ through the trees",
+    "audio_en_storage_path": "1197_put_your_ears_on_alert_winds_whisperin_through_the_trees.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121198",
+    "text_pt": "Fique seco e continue sorrindo",
+    "text_en": "Stay dry and keep smiling",
+    "audio_en_storage_path": "1198_stay_dry_and_keep_smiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121199",
+    "text_pt": "Mantenha-se aquecido e use aquele sorriso",
+    "text_en": "Keep yourself warm and wear that smile",
+    "audio_en_storage_path": "1199_keep_yourself_warm_and_wear_that_smile.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

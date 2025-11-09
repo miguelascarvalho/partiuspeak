@@ -1,0 +1,290 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120001",
+    "text_pt": "O aeroporto está bem movimentado hoje. Tem uma longa fila no balcão",
+    "text_en": "The airport is pretty busy today. There’s a long line at the counter",
+    "audio_en_storage_path": "001_the_airport_is_pretty_busy_today_theres_a_long_line_at_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120002",
+    "text_pt": "O aeroporto está lotado hoje. As filas estão uma loucura.",
+    "text_en": "The airport’s packed today. Lines are crazy",
+    "audio_en_storage_path": "002_the_airports_packed_today_lines_are_crazy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120003",
+    "text_pt": "Preciso fazer o check-in para meu voo e pegar meu cartão de embarque",
+    "text_en": "I need to check in for my flight and get my boarding pass",
+    "audio_en_storage_path": "003_i_need_to_check_in_for_my_flight_and_get_my_boarding_pass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120004",
+    "text_pt": "Tenho que fazer o check-in rapidinho e pegar o cartão de embarque",
+    "text_en": "I gotta check in real quick and grab that boarding pass",
+    "audio_en_storage_path": "004_i_gotta_check_in_real_quick_and_grab_that_boarding_pass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120005",
+    "text_pt": "Você pode me ajudar a encontrar onde preciso ir?",
+    "text_en": "Can you help me find where I need to go?",
+    "audio_en_storage_path": "005_can_you_help_me_find_where_i_need_to_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120006",
+    "text_pt": "Você poderia me dizer onde eu deveria estar?",
+    "text_en": "Couldja tell me where I’m supposed to be?",
+    "audio_en_storage_path": "006_couldja_tell_me_where_im_supposed_to_be.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120007",
+    "text_pt": "Esta bolsa pode ser muito pesada para levar na bagagem de mão",
+    "text_en": "This bag might be too heavy for carry-on",
+    "audio_en_storage_path": "007_this_bag_might_be_too_heavy_for_carryon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120008",
+    "text_pt": "Acha que esta mala é muito pesada para levar a bordo?",
+    "text_en": "Think this bag’s too heavy to bring on board?",
+    "audio_en_storage_path": "008_think_this_bags_too_heavy_to_bring_on_board.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120009",
+    "text_pt": "Deixe-me imprimir meu bilhete naquela máquina ali",
+    "text_en": "Let me print my ticket at the machine over there",
+    "audio_en_storage_path": "009_let_me_print_my_ticket_at_the_machine_over_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120010",
+    "text_pt": "Deixe-me imprimir meu ingresso naquele quiosque",
+    "text_en": "Lemme just print my ticket at that kiosk",
+    "audio_en_storage_path": "010_lemme_just_print_my_ticket_at_that_kiosk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120011",
+    "text_pt": "Eles disseram que meu assento é do lado esquerdo, perto da janela",
+    "text_en": "They said my seat is on the left side near the window",
+    "audio_en_storage_path": "011_they_said_my_seat_is_on_the_left_side_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120012",
+    "text_pt": "Disseram-me que consegui um assento na janela à esquerda",
+    "text_en": "They told me I got a window seat on the left",
+    "audio_en_storage_path": "012_they_told_me_i_got_a_window_seat_on_the_left.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120013",
+    "text_pt": "Acho que deixei meu telefone cair perto da segurança",
+    "text_en": "I think I dropped my phone near security",
+    "audio_en_storage_path": "013_i_think_i_dropped_my_phone_near_security.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120014",
+    "text_pt": "Juro que deixei meu telefone na segurança",
+    "text_en": "I swear I left my phone back by security",
+    "audio_en_storage_path": "014_i_swear_i_left_my_phone_back_by_security.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120015",
+    "text_pt": "Alguém poderia verificar se minha bagagem chegou a tempo?",
+    "text_en": "Could someone check if my luggage made it on time?",
+    "audio_en_storage_path": "015_could_someone_check_if_my_luggage_made_it_on_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120016",
+    "text_pt": "Minhas malas já passaram?",
+    "text_en": "Did my bags make it through already?",
+    "audio_en_storage_path": "016_did_my_bags_make_it_through_already.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120017",
+    "text_pt": "Onde posso encontrar o Portão 23B novamente?",
+    "text_en": "Where can I find Gate 23B again?",
+    "audio_en_storage_path": "017_where_can_i_find_gate_23b_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120018",
+    "text_pt": "O que você disse — onde fica o Portão 23B?",
+    "text_en": "Whaddya say — where’s Gate 23B at?",
+    "audio_en_storage_path": "018_whaddya_say_wheres_gate_23b_at.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120019",
+    "text_pt": "A tela mostra que nosso voo está atrasado em uma hora",
+    "text_en": "The screen shows our flight is delayed by an hour",
+    "audio_en_storage_path": "019_the_screen_shows_our_flight_is_delayed_by_an_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120020",
+    "text_pt": "Parece que ficaremos presos aqui por mais uma hora",
+    "text_en": "Looks like we’re stuck here for another hour",
+    "audio_en_storage_path": "020_looks_like_were_stuck_here_for_another_hour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120021",
+    "text_pt": "Houve muita turbulência durante a decolagem",
+    "text_en": "There was a lot of turbulence during takeoff",
+    "audio_en_storage_path": "021_there_was_a_lot_of_turbulence_during_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120022",
+    "text_pt": "O avião tremia muito logo após a decolagem",
+    "text_en": "Plane was shaking hard right after takeoff",
+    "audio_en_storage_path": "022_plane_was_shaking_hard_right_after_takeoff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120023",
+    "text_pt": "A comissária de bordo me pediu para apertar o cinto de segurança",
+    "text_en": "The flight attendant asked me to fasten my seatbelt",
+    "audio_en_storage_path": "023_the_flight_attendant_asked_me_to_fasten_my_seatbelt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120024",
+    "text_pt": "Ela me deu um tapinha e disse para eu apertar o cinto",
+    "text_en": "She tapped me and said to buckle up",
+    "audio_en_storage_path": "024_she_tapped_me_and_said_to_buckle_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120025",
+    "text_pt": "Eu pedi o frango, mas me deram peixe por engano",
+    "text_en": "I ordered the chicken but they gave me fish by mistake",
+    "audio_en_storage_path": "025_i_ordered_the_chicken_but_they_gave_me_fish_by_mistake.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120026",
+    "text_pt": "Eu pedi frango, mas eles trouxeram peixe por acidente.",
+    "text_en": "I asked for chicken. but they brought fish by accident",
+    "audio_en_storage_path": "026_i_asked_for_chicken_but_they_brought_fish_by_accident.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120027",
+    "text_pt": "Se precisar de alguma coisa, basta tocar no botão acima",
+    "text_en": "If you need anything. just tap the button above",
+    "audio_en_storage_path": "027_if_you_need_anything_just_tap_the_button_above.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120028",
+    "text_pt": "Se precisar de alguma coisa, aperte o botão de chamada lá em cima",
+    "text_en": "If ya need somethin’. hit that call button up top",
+    "audio_en_storage_path": "028_if_ya_need_somethin_hit_that_call_button_up_top.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120029",
+    "text_pt": "Obrigado por me ajudar com as direções. Tenha uma ótima viagem.",
+    "text_en": "Thanks for helping me with directions. Have a great trip",
+    "audio_en_storage_path": "029_thanks_for_helping_me_with_directions_have_a_great_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120030",
+    "text_pt": "Agradeço a ajuda. Boa viagem!",
+    "text_en": "Appreciate the help. Safe travels!",
+    "audio_en_storage_path": "030_appreciate_the_help_safe_travels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120031",
+    "text_pt": "Os cartões de embarque devem ser escaneados antes de entrar na área do portão",
+    "text_en": "Boarding passes must be scanned before entering the gate area",
+    "audio_en_storage_path": "031_boarding_passes_must_be_scanned_before_entering_the_gate_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120032",
+    "text_pt": "Você tem que escanear seu passe antes de entrar",
+    "text_en": "You gotta scan your pass before walkin’ in",
+    "audio_en_storage_path": "032_you_gotta_scan_your_pass_before_walkin_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

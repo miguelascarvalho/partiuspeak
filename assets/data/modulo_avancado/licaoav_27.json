@@ -1,0 +1,425 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132763",
+    "text_pt": "A região Nordeste do Brasil é conhecida por suas belas praias, rica cultura e povo acolhedor.",
+    "text_en": "The Northeast Region of Brazil is known for its beautiful beaches. rich culture. and warm people.",
+    "audio_en_storage_path": "141_the_northeast_region_of_brazil_is_known_for_its_beautiful_beaches_rich_culture_and_warm_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132764",
+    "text_pt": "Inclui nove estados: Maranhão. Piauí. Ceará. RioGrande do Norte. Paraíba. Pernambucano. Alagoas. Sergipe. e Bahia.",
+    "text_en": "It includes nine states: Maranhão. Piauí. Ceará. Rio Grande do Norte. Paraíba. Pernambuco. Alagoas. Sergipe. and Bahia.",
+    "audio_en_storage_path": "142_it_includes_nine_states_maranhao_piaui_ceara_rio_grande_do_norte_paraiba_pernambuco_alagoas_sergipe_and_bahia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132765",
+    "text_pt": "Esta região possui algumas das praias mais famosas do Brasil. como Jericoacoara. Praia da Pipa. e Porto de Galinhas.",
+    "text_en": "This region has some of the most famous beaches in Brazil. like Jericoacoara. Praia da Pipa. and Porto de Galinhas.",
+    "audio_en_storage_path": "143_this_region_has_some_of_the_most_famous_beaches_in_brazil_like_jericoacoara_praia_da_pipa_and_porto_de_galinhas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132766",
+    "text_pt": "O litoral é longo e variado, oferecendo mar calmo, dunas, coqueiros e piscinas naturais.",
+    "text_en": "The coastline is long and varied. offering calm seas. dunes. coconut trees. and natural pools.",
+    "audio_en_storage_path": "144_the_coastline_is_long_and_varied_offering_calm_seas_dunes_coconut_trees_and_natural_pools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132767",
+    "text_pt": "Fortaleza, Recife, Salvador e Natal são algumas das principais capitais da região.",
+    "text_en": "Fortaleza. Recife. Salvador. and Natal are some of the main capital cities of the region.",
+    "audio_en_storage_path": "145_fortaleza_recife_salvador_and_natal_are_some_of_the_main_capital_cities_of_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132768",
+    "text_pt": "Salvador é a maior cidade do Nordeste e a primeira capital do Brasil.",
+    "text_en": "Salvador is the largest city in the Northeast and the first capital of Brazil.",
+    "audio_en_storage_path": "146_salvador_is_the_largest_city_in_the_northeast_and_the_first_capital_of_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132769",
+    "text_pt": "A região tem um clima tropical com altas temperaturas durante todo o ano.",
+    "text_en": "The region has a tropical climate with high temperatures throughout the year.",
+    "audio_en_storage_path": "147_the_region_has_a_tropical_climate_with_high_temperatures_throughout_the_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132770",
+    "text_pt": "O Carnaval em Salvador é uma das maiores festas de rua do mundo, com grandes blocos musicais e milhões de pessoas.",
+    "text_en": "Carnival in Salvador is one of the biggest street parties in the world. with large music blocks and millions of people.",
+    "audio_en_storage_path": "148_carnival_in_salvador_is_one_of_the_biggest_street_parties_in_the_world_with_large_music_blocks_and_millions_of_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132771",
+    "text_pt": "Forró é um estilo de dança e música tradicional que se originou no Nordeste e é amado em todo o Brasil.",
+    "text_en": "Forró is a traditional dance and music style that originated in the Northeast and is loved across Brazil.",
+    "audio_en_storage_path": "149_forro_is_a_traditional_dance_and_music_style_that_originated_in_the_northeast_and_is_loved_across_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132772",
+    "text_pt": "A culinária local conta com pratos como o acarajé. baião de dois. e tapioca.",
+    "text_en": "The local cuisine features dishes such as acarajé. baião de dois. and tapioca.",
+    "audio_en_storage_path": "150_the_local_cuisine_features_dishes_such_as_acaraje_baiao_de_dois_and_tapioca.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132773",
+    "text_pt": "Tapioca é um alimento popular feito de farinha de mandioca e usado em recheios doces ou salgados.",
+    "text_en": "Tapioca is a popular food made from cassava flour and used in sweet or savory fillings.",
+    "audio_en_storage_path": "151_tapioca_is_a_popular_food_made_from_cassava_flour_and_used_in_sweet_or_savory_fillings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132774",
+    "text_pt": "O Nordeste é rico em história, arquitetura colonial e tradições afro-brasileiras.",
+    "text_en": "The Northeast is rich in history. colonial architecture. and Afro-Brazilian traditions.",
+    "audio_en_storage_path": "152_the_northeast_is_rich_in_history_colonial_architecture_and_afrobrazilian_traditions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132775",
+    "text_pt": "Olinda, em Pernambuco, é uma cidade histórica conhecida por seus coloridos edifícios coloniais e celebrações de Carnaval.",
+    "text_en": "Olinda. in Pernambuco. is a historic city known for its colorful colonial buildings and Carnival celebrations.",
+    "audio_en_storage_path": "153_olinda_in_pernambuco_is_a_historic_city_known_for_its_colorful_colonial_buildings_and_carnival_celebrations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132777",
+    "text_pt": "A região conta com diversos Patrimônios Mundiais da UNESCO, incluindo os centros de Salvador e Olinda.",
+    "text_en": "The region has several UNESCO World Heritage Sites. including the centers of Salvador and Olinda.",
+    "audio_en_storage_path": "155_the_region_has_several_unesco_world_heritage_sites_including_the_centers_of_salvador_and_olinda.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132778",
+    "text_pt": "Festivais como a Festa Junina são amplamente celebrados, com danças, roupas e comidas típicas.",
+    "text_en": "Festivals like Festa Junina are widely celebrated. with typical dances. clothes. and food.",
+    "audio_en_storage_path": "156_festivals_like_festa_junina_are_widely_celebrated_with_typical_dances_clothes_and_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132779",
+    "text_pt": "Festa de São João em Campina Grande. Paraíba. é um dos maiores do Brasil.",
+    "text_en": "The São João Festival in Campina Grande. Paraíba. is one of the largest in Brazil.",
+    "audio_en_storage_path": "157_the_sao_joao_festival_in_campina_grande_paraiba_is_one_of_the_largest_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132780",
+    "text_pt": "Os atrativos naturais incluem os Lençóis Maranhenses. Chapada Diamantina. e o Delta do Parnaíba.",
+    "text_en": "Natural attractions include the Lençóis Maranhenses. the Chapada Diamantina. and the Delta do Parnaíba.",
+    "audio_en_storage_path": "158_natural_attractions_include_the_lencois_maranhenses_the_chapada_diamantina_and_the_delta_do_parnaiba.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132781",
+    "text_pt": "Os Lençóis Maranhenses são um parque nacional com dunas de areia branca e lagoas de água doce.",
+    "text_en": "Lençóis Maranhenses is a national park with white sand dunes and freshwater lagoons.",
+    "audio_en_storage_path": "159_lencois_maranhenses_is_a_national_park_with_white_sand_dunes_and_freshwater_lagoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132782",
+    "text_pt": "A Chapada Diamantina, na Bahia, é um paraíso para caminhantes e amantes da natureza, com cachoeiras e montanhas.",
+    "text_en": "Chapada Diamantina. in Bahia. is a paradise for hikers and nature lovers. with waterfalls and mountains.",
+    "audio_en_storage_path": "160_chapada_diamantina_in_bahia_is_a_paradise_for_hikers_and_nature_lovers_with_waterfalls_and_mountains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132783",
+    "text_pt": "O Nordeste tem uma forte identidade cultural, com literatura, música e folclore profundamente enraizados na vida cotidiana do povo.",
+    "text_en": "The Northeast has a strong cultural identity. with literature. music. and folklore deeply rooted in the people's daily life.",
+    "audio_en_storage_path": "161_the_northeast_has_a_strong_cultural_identity_with_literature_music_and_folklore_deeply_rooted_in_the_peoples_daily_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132784",
+    "text_pt": "A literatura de cordel é uma forma tradicional de poesia e contação de histórias encontrada em feiras e mercados.",
+    "text_en": "The cordel literature is a traditional form of poetry and storytelling found in fairs and markets.",
+    "audio_en_storage_path": "162_the_cordel_literature_is_a_traditional_form_of_poetry_and_storytelling_found_in_fairs_and_markets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132785",
+    "text_pt": "Bumba Meu Boi. Caboclinho. e o Maracatu são exemplos de apresentações folclóricas tradicionais da região.",
+    "text_en": "Bumba Meu Boi. Caboclinho. and Maracatu are examples of traditional folkloric performances from the region.",
+    "audio_en_storage_path": "163_bumba_meu_boi_caboclinho_and_maracatu_are_examples_of_traditional_folkloric_performances_from_the_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132786",
+    "text_pt": "O povo do Nordeste é conhecido por sua hospitalidade, simpatia e resiliência.",
+    "text_en": "The people of the Northeast are known for their hospitality. friendliness. and resilience.",
+    "audio_en_storage_path": "164_the_people_of_the_northeast_are_known_for_their_hospitality_friendliness_and_resilience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132787",
+    "text_pt": "A região enfrenta desafios como secas e desigualdade econômica, especialmente na área semiárida conhecida como Sertão.",
+    "text_en": "The region faces challenges like droughts and economic inequality. especially in the semi-arid area known as Sertão.",
+    "audio_en_storage_path": "165_the_region_faces_challenges_like_droughts_and_economic_inequality_especially_in_the_semiarid_area_known_as_sertao.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132788",
+    "text_pt": "Apesar disso, o Nordeste é cheio de vida, cores, música e alegria.",
+    "text_en": "Despite this. the Northeast is full of life. colors. music. and joy.",
+    "audio_en_storage_path": "166_despite_this_the_northeast_is_full_of_life_colors_music_and_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132789",
+    "text_pt": "Gêneros musicais como frevo. maracatu. coco. e o axé vêm desta região.",
+    "text_en": "Music genres like frevo. maracatu. coco. and axé come from this region.",
+    "audio_en_storage_path": "167_music_genres_like_frevo_maracatu_coco_and_axe_come_from_this_region.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132790",
+    "text_pt": "A música axé se tornou conhecida internacionalmente graças ao Carnaval de Salvador.",
+    "text_en": "Axé music became internationally known thanks to the Carnaval of Salvador.",
+    "audio_en_storage_path": "168_axe_music_became_internationally_known_thanks_to_the_carnaval_of_salvador.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132791",
+    "text_pt": "O Nordeste abriga importantes festas religiosas, como a Lavagem do Bonfim, na Bahia.",
+    "text_en": "The Northeast is home to important religious festivals. such as the Lavagem do Bonfim in Bahia.",
+    "audio_en_storage_path": "169_the_northeast_is_home_to_important_religious_festivals_such_as_the_lavagem_do_bonfim_in_bahia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132792",
+    "text_pt": "Artesanatos feitos de coco, argila e folhas de palmeira são comuns em feiras locais.",
+    "text_en": "Handicrafts made from coconut. clay. and palm leaves are common in local fairs.",
+    "audio_en_storage_path": "170_handicrafts_made_from_coconut_clay_and_palm_leaves_are_common_in_local_fairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132793",
+    "text_pt": "A região vem ganhando atenção pelo seu crescente setor de tecnologia, especialmente em Recife e Fortaleza.",
+    "text_en": "The region has been gaining attention for its growing technology sector. especially in Recife and Fortaleza.",
+    "audio_en_storage_path": "171_the_region_has_been_gaining_attention_for_its_growing_technology_sector_especially_in_recife_and_fortaleza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132794",
+    "text_pt": "O sol brilha quase todos os dias, tornando-se um destino perfeito para amantes da praia e surfistas.",
+    "text_en": "The sun shines almost every day. making it a perfect destination for beach lovers and surfers.",
+    "audio_en_storage_path": "172_the_sun_shines_almost_every_day_making_it_a_perfect_destination_for_beach_lovers_and_surfers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132795",
+    "text_pt": "A região conta com muitos resorts com tudo incluído, principalmente no litoral da Bahia e do Rio Grande do Norte.",
+    "text_en": "The region has many all-inclusive resorts. especially along the coast of Bahia and Rio Grande do Norte.",
+    "audio_en_storage_path": "173_the_region_has_many_allinclusive_resorts_especially_along_the_coast_of_bahia_and_rio_grande_do_norte.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132796",
+    "text_pt": "A Praia do Futuro, em Fortaleza, é famosa por sua vibrante cultura praiana.",
+    "text_en": "Praia do Futuro. in Fortaleza. is famous for its vibrant beach culture.",
+    "audio_en_storage_path": "174_praia_do_futuro_in_fortaleza_is_famous_for_its_vibrant_beach_culture.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132797",
+    "text_pt": "Natal é conhecida por ter o título de “Capital do Natal” e por suas belas dunas e lagoas.",
+    "text_en": "Natal is known for having the “Christmas Capital” title and beautiful dunes and lagoons.",
+    "audio_en_storage_path": "175_natal_is_known_for_having_the_christmas_capital_title_and_beautiful_dunes_and_lagoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132798",
+    "text_pt": "O Nordeste desempenha um papel fundamental na história do Brasil, sendo uma das primeiras regiões colonizadas pelos portugueses.",
+    "text_en": "The Northeast plays a key role in Brazilian history. being one of the first regions colonized by the Portuguese.",
+    "audio_en_storage_path": "176_the_northeast_plays_a_key_role_in_brazilian_history_being_one_of_the_first_regions_colonized_by_the_portuguese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132799",
+    "text_pt": "Capoeira, uma arte marcial afro-brasileira, tem raízes profundas no Nordeste, especialmente na Bahia.",
+    "text_en": "Capoeira. an Afro-Brazilian martial art. has deep roots in the Northeast. especially in Bahia.",
+    "audio_en_storage_path": "177_capoeira_an_afrobrazilian_martial_art_has_deep_roots_in_the_northeast_especially_in_bahia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132800",
+    "text_pt": "A região exporta produtos agrícolas como cana-de-açúcar, castanha de caju e frutas.",
+    "text_en": "The region exports agricultural products like sugarcane. cashew nuts. and fruits.",
+    "audio_en_storage_path": "178_the_region_exports_agricultural_products_like_sugarcane_cashew_nuts_and_fruits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132801",
+    "text_pt": "A pesca e o turismo também são importantes fontes de renda para as comunidades costeiras.",
+    "text_en": "Fisheries and tourism are also important sources of income for coastal communities.",
+    "audio_en_storage_path": "179_fisheries_and_tourism_are_also_important_sources_of_income_for_coastal_communities.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132802",
+    "text_pt": "O Nordeste é uma terra de contrastes, onde a modernidade encontra a tradição.",
+    "text_en": "The Northeast is a land of contrasts. where modernity meets tradition.",
+    "audio_en_storage_path": "180_the_northeast_is_a_land_of_contrasts_where_modernity_meets_tradition.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132803",
+    "text_pt": "Seu povo tem uma forte ligação com a fé, a família e a comunidade.",
+    "text_en": "Its people have a strong connection with faith. family. and community.",
+    "audio_en_storage_path": "181_its_people_have_a_strong_connection_with_faith_family_and_community.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132804",
+    "text_pt": "A beleza natural do Nordeste inspira artistas, poetas e viajantes.",
+    "text_en": "The natural beauty of the Northeast inspires artists. poets. and travelers.",
+    "audio_en_storage_path": "182_the_natural_beauty_of_the_northeast_inspires_artists_poets_and_travelers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132805",
+    "text_pt": "A mistura de culturas indígena, africana e europeia torna a região única.",
+    "text_en": "The mix of indigenous. African. and European cultures makes the region unique.",
+    "audio_en_storage_path": "183_the_mix_of_indigenous_african_and_european_cultures_makes_the_region_unique.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132806",
+    "text_pt": "Visitar o Nordeste é descobrir um lugar cheio de alma. ritmo. e cor.",
+    "text_en": "Visiting the Northeast means discovering a place full of soul. rhythm. and color.",
+    "audio_en_storage_path": "184_visiting_the_northeast_means_discovering_a_place_full_of_soul_rhythm_and_color.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132807",
+    "text_pt": "O Nordeste do Brasil é uma celebração da vida, da cultura e de paisagens deslumbrantes.",
+    "text_en": "The Northeast of Brazil is a celebration of life. culture. and stunning landscapes.",
+    "audio_en_storage_path": "185_the_northeast_of_brazil_is_a_celebration_of_life_culture_and_stunning_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132808",
+    "text_pt": "Explorar esta região é se apaixonar pela cordialidade de seu povo e pela riqueza de sua herança.",
+    "text_en": "Exploring this region is falling in love with the warmth of its people and the richness of its heritage.",
+    "audio_en_storage_path": "186_exploring_this_region_is_falling_in_love_with_the_warmth_of_its_people_and_the_richness_of_its_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132809",
+    "text_pt": "A região amazônica é uma das áreas mais importantes e singulares do Brasil.",
+    "text_en": "The Amazon region is one of the most important and unique areas in Brazil.",
+    "audio_en_storage_path": "187_the_amazon_region_is_one_of_the_most_important_and_unique_areas_in_brazil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase132810",
+    "text_pt": "Inclui a maior floresta tropical do mundo, conhecida como Floresta Amazônica.",
+    "text_en": "It includes the largest rainforest in the world. known as the Amazon Rainforest.",
+    "audio_en_storage_path": "188_it_includes_the_largest_rainforest_in_the_world_known_as_the_amazon_rainforest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

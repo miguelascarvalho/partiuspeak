@@ -1,0 +1,479 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101570",
+    "text_pt": "🎬 Cinema e Pipoca (Cinema e Pipoca)",
+    "text_en": "🎬 Movie Theater & Popcorn",
+    "audio_en_filename": "",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101571",
+    "text_pt": "O cinema fica no último andar.",
+    "text_en": "The movie theater is on the top floor.",
+    "audio_en_storage_path": "671_the_movie_theater_is_on_the_top_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101572",
+    "text_pt": "Ele mostra filmes de ação. romance e animação.",
+    "text_en": "It shows action. romance. and animated films.",
+    "audio_en_storage_path": "672_it_shows_action_romance_and_animated_films.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101573",
+    "text_pt": "Compramos ingressos online ou no balcão.",
+    "text_en": "We buy tickets online or at the counter.",
+    "audio_en_storage_path": "673_we_buy_tickets_online_or_at_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101574",
+    "text_pt": "Então pegue um lanche antes de entrar.",
+    "text_en": "Then get snacks before entering.",
+    "audio_en_storage_path": "674_then_get_snacks_before_entering.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101575",
+    "text_pt": "O saguão cheira a pipoca com manteiga.",
+    "text_en": "The lobby smells like buttered popcorn.",
+    "audio_en_storage_path": "675_the_lobby_smells_like_buttered_popcorn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101576",
+    "text_pt": "Assentos vermelhos. Tela grande. Sala escura.",
+    "text_en": "Red seats. big screen. dark room.",
+    "audio_en_storage_path": "676_red_seats_big_screen_dark_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101577",
+    "text_pt": "Há ingressos. bebidas e bares de doces nas proximidades.",
+    "text_en": "There are tickets. drinks. and candy bars nearby.",
+    "audio_en_storage_path": "677_there_are_tickets_drinks_and_candy_bars_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101579",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "679_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101580",
+    "text_pt": "O do super-herói — todo mundo quer ver.",
+    "text_en": "The superhero one — everyone wants to see it.",
+    "audio_en_storage_path": "680_the_superhero_one_everyone_wants_to_see_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101581",
+    "text_pt": "Onde fica a máquina de bilhetes?",
+    "text_en": "Where is the ticket machine?",
+    "audio_en_storage_path": "681_where_is_the_ticket_machine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101582",
+    "text_pt": "Perto da entrada — pressione imprimir após pagar.",
+    "text_en": "Near the entrance — press print after paying.",
+    "audio_en_storage_path": "682_near_the_entrance_press_print_after_paying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101583",
+    "text_pt": "Às vezes comemos pipoca.",
+    "text_en": "Sometimes we eat popcorn.",
+    "audio_en_storage_path": "683_sometimes_we_eat_popcorn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101584",
+    "text_pt": "Outras vezes. trazemos nossos próprios lanches.",
+    "text_en": "Other times we bring our own snacks.",
+    "audio_en_storage_path": "684_other_times_we_bring_our_own_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101585",
+    "text_pt": "Onde você deixou sua bebida?",
+    "text_en": "Where did you leave your drink?",
+    "audio_en_storage_path": "685_where_did_you_leave_your_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101586",
+    "text_pt": "No chão — quase derrubei.",
+    "text_en": "On the floor — almost spilled it.",
+    "audio_en_storage_path": "686_on_the_floor_almost_spilled_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101587",
+    "text_pt": "Quando o filme começa?",
+    "text_en": "When does the movie start?",
+    "audio_en_storage_path": "687_when_does_the_movie_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101588",
+    "text_pt": "Em 10 minutos — apresse-se!",
+    "text_en": "In 10 minutes — hurry up!",
+    "audio_en_storage_path": "688_in_10_minutes_hurry_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101589",
+    "text_pt": "Por que você chegou cedo hoje?",
+    "text_en": "Why did you arrive early today?",
+    "audio_en_storage_path": "689_why_did_you_arrive_early_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101590",
+    "text_pt": "Porque é um filme popular — lotação esgotada esperada.",
+    "text_en": "Because it’s a popular film — sellout expected.",
+    "audio_en_storage_path": "690_because_its_a_popular_film_sellout_expected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101591",
+    "text_pt": "Eles sempre assistem alguma coisa nos fins de semana.",
+    "text_en": "They always watch something on weekends.",
+    "audio_en_storage_path": "691_they_always_watch_something_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101592",
+    "text_pt": "Cinema é sua atividade favorita.",
+    "text_en": "Cinema is their favorite activity.",
+    "audio_en_storage_path": "692_cinema_is_their_favorite_activity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101593",
+    "text_pt": "Amanhã. Não esquecerei de pegar os ingressos novamente.",
+    "text_en": "Tomorrow. I will not forget to pick up the tickets again.",
+    "audio_en_storage_path": "693_tomorrow_i_will_not_forget_to_pick_up_the_tickets_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101594",
+    "text_pt": "Da última vez os deixei em casa — não entramos.",
+    "text_en": "Left them at home last time — no entry.",
+    "audio_en_storage_path": "694_left_them_at_home_last_time_no_entry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101595",
+    "text_pt": "Aproveite o show!",
+    "text_en": "Enjoy the show!",
+    "audio_en_storage_path": "695_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101596",
+    "text_pt": "Sem spoilers. por favor.",
+    "text_en": "No spoilers please.",
+    "audio_en_storage_path": "696_no_spoilers_please.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101597",
+    "text_pt": "🍔 Alimentação e Lanchonete (Praça de Alimentação/Snack Bar)",
+    "text_en": "🍔 Food Court / Snack Bar",
+    "audio_en_storage_path": "697_food_court_snack_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101598",
+    "text_pt": "A praça de alimentação fica no centro do shopping.",
+    "text_en": "The food court is in the center of the mall.",
+    "audio_en_storage_path": "698_the_food_court_is_in_the_center_of_the_mall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101599",
+    "text_pt": "Muitos restaurantes e lugares para comer.",
+    "text_en": "Many restaurants and places to eat.",
+    "audio_en_storage_path": "699_many_restaurants_and_places_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101600",
+    "text_pt": "Eu compro hambúrgueres. sushi ou pizza aqui.",
+    "text_en": "I buy burgers. sushi. or pizza here.",
+    "audio_en_storage_path": "700_i_buy_burgers_sushi_or_pizza_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101601",
+    "text_pt": "Às vezes eu trago comida para casa.",
+    "text_en": "Sometimes I bring food home.",
+    "audio_en_storage_path": "701_sometimes_i_bring_food_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101602",
+    "text_pt": "As mesas estão limpas e cobertas de plástico.",
+    "text_en": "The tables are clean and plastic-covered.",
+    "audio_en_storage_path": "702_the_tables_are_clean_and_plasticcovered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101603",
+    "text_pt": "Há lixeiras e bebedouros por perto.",
+    "text_en": "There are trash bins and water fountains nearby.",
+    "audio_en_storage_path": "703_there_are_trash_bins_and_water_fountains_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101604",
+    "text_pt": "Há bandejas. guardanapos e condimentos no balcão.",
+    "text_en": "There are trays. napkins. and condiments on the counter.",
+    "audio_en_storage_path": "704_there_are_trays_napkins_and_condiments_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101605",
+    "text_pt": "E cardápios com preços e fotos.",
+    "text_en": "And menus with prices and pictures.",
+    "audio_en_storage_path": "705_and_menus_with_prices_and_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101606",
+    "text_pt": "O que você comeu hoje?",
+    "text_en": "What did you eat today?",
+    "audio_en_storage_path": "706_what_did_you_eat_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101607",
+    "text_pt": "Frango frito e batatas fritas — combinação clássica.",
+    "text_en": "Fried chicken and fries — classic combo.",
+    "audio_en_storage_path": "707_fried_chicken_and_fries_classic_combo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101608",
+    "text_pt": "Onde fica o restaurante vegetariano?",
+    "text_en": "Where is the vegetarian restaurant?",
+    "audio_en_storage_path": "708_where_is_the_vegetarian_restaurant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101609",
+    "text_pt": "No lado esquerdo — menu verde e smoothies.",
+    "text_en": "On the left side — green menu and smoothies.",
+    "audio_en_storage_path": "709_on_the_left_side_green_menu_and_smoothies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101610",
+    "text_pt": "Às vezes eu como rápido.",
+    "text_en": "Sometimes I eat fast.",
+    "audio_en_storage_path": "710_sometimes_i_eat_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101611",
+    "text_pt": "Outras vezes fico e converso com amigos.",
+    "text_en": "Other times I stay and talk with friends.",
+    "audio_en_storage_path": "711_other_times_i_stay_and_talk_with_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101612",
+    "text_pt": "Onde você deixou sua colher?",
+    "text_en": "Where did you leave your spoon?",
+    "audio_en_storage_path": "712_where_did_you_leave_your_spoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101613",
+    "text_pt": "No copo — esqueci de jogar fora.",
+    "text_en": "In the cup — forgot to throw it away.",
+    "audio_en_storage_path": "713_in_the_cup_forgot_to_throw_it_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101614",
+    "text_pt": "Quando você comerá aqui novamente?",
+    "text_en": "When will you eat here again?",
+    "audio_en_storage_path": "714_when_will_you_eat_here_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101615",
+    "text_pt": "Hoje à noite — depois que o filme terminar.",
+    "text_en": "Tonight — after the movie ends.",
+    "audio_en_storage_path": "715_tonight_after_the_movie_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101616",
+    "text_pt": "Por que você pediu molho extra hoje?",
+    "text_en": "Why did you order extra sauce today?",
+    "audio_en_storage_path": "716_why_did_you_order_extra_sauce_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101617",
+    "text_pt": "Porque a comida era seca e precisava de sabor.",
+    "text_en": "Because the food was dry and needed flavor.",
+    "audio_en_storage_path": "717_because_the_food_was_dry_and_needed_flavor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101618",
+    "text_pt": "Ele sempre come na praça de alimentação.",
+    "text_en": "He always eats in the food court.",
+    "audio_en_storage_path": "718_he_always_eats_in_the_food_court.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101619",
+    "text_pt": "Gosta de experimentar comidas diferentes a cada visita.",
+    "text_en": "Likes trying different foods each visit.",
+    "audio_en_storage_path": "719_likes_trying_different_foods_each_visit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101620",
+    "text_pt": "Amanhã. Não vou esquecer de levar lenços umedecidos novamente.",
+    "text_en": "Tomorrow. I will not forget to carry wipes again.",
+    "audio_en_storage_path": "720_tomorrow_i_will_not_forget_to_carry_wipes_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101621",
+    "text_pt": "Minhas mãos ficaram sujas da última vez.",
+    "text_en": "My hands got messy last time.",
+    "audio_en_storage_path": "721_my_hands_got_messy_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101622",
+    "text_pt": "Desfrute de sua refeição!",
+    "text_en": "Enjoy your meal!",
+    "audio_en_storage_path": "722_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101623",
+    "text_pt": "Espero que você encontre algo delicioso.",
+    "text_en": "Hope you find something delicious.",
+    "audio_en_storage_path": "723_hope_you_find_something_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

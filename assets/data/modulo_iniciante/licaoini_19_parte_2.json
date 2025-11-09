@@ -1,0 +1,218 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100678",
+    "text_pt": "Conjunto de frases – Em uma livraria",
+    "text_en": "Sentence Set – In a Bookstore",
+    "audio_en_storage_path": "679_sentence_set_in_a_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100679",
+    "text_pt": "Esta é minha livraria favorita.",
+    "text_en": "This is my favorite bookstore.",
+    "audio_en_storage_path": "680_this_is_my_favorite_bookstore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100680",
+    "text_pt": "Venho aqui para comprar romances e histórias em quadrinhos.",
+    "text_en": "I come here to buy novels and comics.",
+    "audio_en_storage_path": "681_i_come_here_to_buy_novels_and_comics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100681",
+    "text_pt": "O proprietário recomenda bons títulos.",
+    "text_en": "The owner recommends good titles.",
+    "audio_en_storage_path": "682_the_owner_recommends_good_titles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100682",
+    "text_pt": "Há pequenas cadeiras para ler lá dentro.",
+    "text_en": "There are small chairs to read inside.",
+    "audio_en_storage_path": "683_there_are_small_chairs_to_read_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100683",
+    "text_pt": "Posso ler isso antes de comprar?",
+    "text_en": "Can I read this before buying?",
+    "audio_en_storage_path": "684_can_i_read_this_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100684",
+    "text_pt": "Sim, vá com calma.",
+    "text_en": "Yes, take your time.",
+    "audio_en_storage_path": "685_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100685",
+    "text_pt": "Não, você deve comprá-lo primeiro.",
+    "text_en": "No, you must buy it first.",
+    "audio_en_storage_path": "686_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100686",
+    "text_pt": "Onde fica a seção de poesia?",
+    "text_en": "Where is the poetry section?",
+    "audio_en_storage_path": "687_where_is_the_poetry_section.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100687",
+    "text_pt": "Fica no segundo andar, perto dos livros de arte.",
+    "text_en": "It’s on the second floor, near art books.",
+    "audio_en_storage_path": "688_its_on_the_second_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100688",
+    "text_pt": "Quando o autor visitará novamente?",
+    "text_en": "When will the author visit again?",
+    "audio_en_storage_path": "689_when_will_the_author_visit_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100689",
+    "text_pt": "Ele voltará no próximo verão.",
+    "text_en": "He’ll come back next summer.",
+    "audio_en_storage_path": "690_hell_come_back_next_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100690",
+    "text_pt": "Por que você escolheu este livro?",
+    "text_en": "Why did you choose this book?",
+    "audio_en_storage_path": "691_why_did_you_choose_this_book.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100691",
+    "text_pt": "A capa parece interessante e divertida.",
+    "text_en": "The cover looks interesting and fun.",
+    "audio_en_storage_path": "692_the_cover_looks_interesting_and_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100692",
+    "text_pt": "Ela escolhe os livros pelo título.",
+    "text_en": "She picks books by the title.",
+    "audio_en_storage_path": "693_she_picks_books_by_the_title.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100693",
+    "text_pt": "Ele não lerá aquele livro novamente.",
+    "text_en": "He won’t read that book again.",
+    "audio_en_storage_path": "694_he_wont_read_that_book_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100694",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "695_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100695",
+    "text_pt": "Ele voltará no próximo verão.",
+    "text_en": "He’ll come back next summer.",
+    "audio_en_storage_path": "696_hell_come_back_next_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100696",
+    "text_pt": "Ele vai voltar no próximo verão.",
+    "text_en": "He’s comin’ back next summer.",
+    "audio_en_storage_path": "697_hes_comin_back_next_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100697",
+    "text_pt": "Ele não lerá aquele livro novamente.",
+    "text_en": "He won’t read that book again.",
+    "audio_en_storage_path": "698_he_wont_read_that_book_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100698",
+    "text_pt": "Ele não vai ler aquele livro de novo.",
+    "text_en": "He ain't readin’ that book again.",
+    "audio_en_storage_path": "699_he_aint_readin_that_book_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100699",
+    "text_pt": "Ela escolhe os livros pelo título.",
+    "text_en": "She picks books by the title.",
+    "audio_en_storage_path": "700_she_picks_books_by_the_title.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100700",
+    "text_pt": "Ela pega os livros pelo título.",
+    "text_en": "She grabs books by the title.",
+    "audio_en_storage_path": "701_she_grabs_books_by_the_title.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100701",
+    "text_pt": "Ônibus / Metrô / Trem",
+    "text_en": "Bus / Subway / Train",
+    "audio_en_storage_path": "702_bus_subway_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

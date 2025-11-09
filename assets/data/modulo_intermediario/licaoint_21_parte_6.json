@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113563",
+    "text_pt": "Tia e Sobrinha – Assistir novelas",
+    "text_en": "Aunt and Niece – Watching soap operas",
+    "audio_en_storage_path": "3563_aunt_and_niece_watching_soap_operas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113564",
+    "text_pt": "Ela senta-se com a sobrinha no sofá.",
+    "text_en": "She sits with her niece on the couch.",
+    "audio_en_storage_path": "3564_she_sits_with_her_niece_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113565",
+    "text_pt": "Assistindo uma novela e tomando chá.",
+    "text_en": "Watching a soap opera and drinking tea.",
+    "audio_en_storage_path": "3565_watching_a_soap_opera_and_drinking_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113566",
+    "text_pt": "Eles falam sobre os personagens e reviravoltas na trama.",
+    "text_en": "They talk about the characters and plot twists.",
+    "audio_en_storage_path": "3566_they_talk_about_the_characters_and_plot_twists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113567",
+    "text_pt": "Eles conhecem todos os atores pelo nome.",
+    "text_en": "They know all the actors by name.",
+    "audio_en_storage_path": "3567_they_know_all_the_actors_by_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113568",
+    "text_pt": "O quarto está silencioso e a TV está ligada.",
+    "text_en": "The room is quiet and the TV is on.",
+    "audio_en_storage_path": "3568_the_room_is_quiet_and_the_tv_is_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113569",
+    "text_pt": "Eles sussurram quando alguém chora.",
+    "text_en": "They whisper when someone cries.",
+    "audio_en_storage_path": "3569_they_whisper_when_someone_cries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113570",
+    "text_pt": "Há xícaras de chá, lenços de papel e um caderno por perto.",
+    "text_en": "There are teacups. tissues. and a notebook nearby.",
+    "audio_en_storage_path": "3570_there_are_teacups_tissues_and_a_notebook_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113571",
+    "text_pt": "Para notas e reações.",
+    "text_en": "For notes and reactions.",
+    "audio_en_storage_path": "3571_for_notes_and_reactions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113572",
+    "text_pt": "Que série você está assistindo com ela?",
+    "text_en": "What show are you watching with her?",
+    "audio_en_storage_path": "3572_what_show_are_you_watching_with_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113573",
+    "text_pt": "Uma telenovela latina — cheia de drama.",
+    "text_en": "A Latin telenovela — full of drama.",
+    "audio_en_storage_path": "3573_a_latin_telenovela_full_of_drama.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113574",
+    "text_pt": "Onde ela deixou sua xícara?",
+    "text_en": "Where did she leave her cup?",
+    "audio_en_storage_path": "3574_where_did_she_leave_her_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113575",
+    "text_pt": "Na mesa lateral — ao lado do saco de doces.",
+    "text_en": "On the side table — next to the candy bag.",
+    "audio_en_storage_path": "3575_on_the_side_table_next_to_the_candy_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113576",
+    "text_pt": "Às vezes eles assistem episódios antigos.",
+    "text_en": "Sometimes they watch old episodes.",
+    "audio_en_storage_path": "3576_sometimes_they_watch_old_episodes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113577",
+    "text_pt": "Outras vezes eles esperam por novos.",
+    "text_en": "Other times they wait for new ones.",
+    "audio_en_storage_path": "3577_other_times_they_wait_for_new_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113578",
+    "text_pt": "Onde estão as meninas agora?",
+    "text_en": "Where are the girls now?",
+    "audio_en_storage_path": "3578_where_are_the_girls_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113579",
+    "text_pt": "No sofá — chorando por causa da história.",
+    "text_en": "On the couch — crying over the story.",
+    "audio_en_storage_path": "3579_on_the_couch_crying_over_the_story.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113580",
+    "text_pt": "Quando será lançado o próximo episódio?",
+    "text_en": "When will the next episode come out?",
+    "audio_en_storage_path": "3580_when_will_the_next_episode_come_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113581",
+    "text_pt": "Amanhã — ela já sabe o que acontece.",
+    "text_en": "Tomorrow — she already knows what happens.",
+    "audio_en_storage_path": "3581_tomorrow_she_already_knows_what_happens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113582",
+    "text_pt": "Por que ela convidou a sobrinha hoje?",
+    "text_en": "Why did she invite her niece today?",
+    "audio_en_storage_path": "3582_why_did_she_invite_her_niece_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113583",
+    "text_pt": "Porque ambos amam o show.",
+    "text_en": "Because they both love the show.",
+    "audio_en_storage_path": "3583_because_they_both_love_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113584",
+    "text_pt": "Eles assistem ao mesmo programa todas as tardes.",
+    "text_en": "They watch the same show every afternoon.",
+    "audio_en_storage_path": "3584_they_watch_the_same_show_every_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113585",
+    "text_pt": "É o prazer culposo que eles compartilham.",
+    "text_en": "It's their shared guilty pleasure.",
+    "audio_en_storage_path": "3585_its_their_shared_guilty_pleasure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113586",
+    "text_pt": "Amanhã ela não vai esquecer de gravar o show novamente.",
+    "text_en": "Tomorrow. she will not forget to record the show again.",
+    "audio_en_storage_path": "3586_tomorrow_she_will_not_forget_to_record_the_show_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113587",
+    "text_pt": "Ela perdeu o episódio de ontem.",
+    "text_en": "She missed yesterday’s episode.",
+    "audio_en_storage_path": "3587_she_missed_yesterdays_episode.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113589",
+    "text_pt": "Ela está prestes a confessar seu amor.",
+    "text_en": "She's about to confess her love.",
+    "audio_en_storage_path": "3589_shes_about_to_confess_her_love.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

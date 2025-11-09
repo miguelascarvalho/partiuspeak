@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115372",
+    "text_pt": "Caixa / Atendente",
+    "text_en": "Cashier / Attendant",
+    "audio_en_storage_path": "5372_cashier_attendant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115373",
+    "text_pt": "O caixa fica dentro da loja de conveniência.",
+    "text_en": "The cashier is inside the convenience store.",
+    "audio_en_storage_path": "5373_the_cashier_is_inside_the_convenience_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115374",
+    "text_pt": "Ele ajuda os clientes com gasolina e lanches.",
+    "text_en": "He helps customers with gas and snacks.",
+    "audio_en_storage_path": "5374_he_helps_customers_with_gas_and_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115375",
+    "text_pt": "Eu pago combustível e compro bebidas aqui.",
+    "text_en": "I pay for fuel and buy drinks here.",
+    "audio_en_storage_path": "5375_i_pay_for_fuel_and_buy_drinks_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115376",
+    "text_pt": "Ele também vende ar para pneus e limpador de para-brisas.",
+    "text_en": "He also sells air for tires and windshield cleaner.",
+    "audio_en_storage_path": "5376_he_also_sells_air_for_tires_and_windshield_cleaner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115377",
+    "text_pt": "O balcão é branco e limpo.",
+    "text_en": "The counter is white and clean.",
+    "audio_en_storage_path": "5377_the_counter_is_white_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115378",
+    "text_pt": "Há barras de chocolate e salgadinhos em exposição.",
+    "text_en": "There are candy bars and chips on display.",
+    "audio_en_storage_path": "5378_there_are_candy_bars_and_chips_on_display.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115379",
+    "text_pt": "Há recibos, pense bem, e um pote de gorjetas por perto.",
+    "text_en": "There are receipts. think. and a tip jar nearby.",
+    "audio_en_storage_path": "5379_there_are_receipts_think_and_a_tip_jar_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115380",
+    "text_pt": "E uma pequena TV passando notícias.",
+    "text_en": "And a small TV playing news.",
+    "audio_en_storage_path": "5380_and_a_small_tv_playing_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115381",
+    "text_pt": "O que o atendente vende?",
+    "text_en": "What does the attendant sell?",
+    "audio_en_storage_path": "5381_what_does_the_attendant_sell.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115382",
+    "text_pt": "Gás, água, refrigerante e gelo.",
+    "text_en": "Gas. water. soda. and ice.",
+    "audio_en_storage_path": "5382_gas_water_soda_and_ice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115383",
+    "text_pt": "Onde fica a área de descanso?",
+    "text_en": "Where is the rest area?",
+    "audio_en_storage_path": "5383_where_is_the_rest_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115384",
+    "text_pt": "Atrás do prédio — limpo e silencioso.",
+    "text_en": "Behind the building — clean and quiet.",
+    "audio_en_storage_path": "5384_behind_the_building_clean_and_quiet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115385",
+    "text_pt": "Às vezes ele enche o tanque para mim.",
+    "text_en": "Sometimes he fills the tank for me.",
+    "audio_en_storage_path": "5385_sometimes_he_fills_the_tank_for_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115386",
+    "text_pt": "Outras vezes eu mesmo faço isso.",
+    "text_en": "Other times I do it myself.",
+    "audio_en_storage_path": "5386_other_times_i_do_it_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115387",
+    "text_pt": "Onde você deixou seu troco?",
+    "text_en": "Where did you leave your change?",
+    "audio_en_storage_path": "5387_where_did_you_leave_your_change.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115388",
+    "text_pt": "No balcão — provavelmente embaixo de um recibo.",
+    "text_en": "On the counter — probably under a receipt.",
+    "audio_en_storage_path": "5388_on_the_counter_probably_under_a_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115389",
+    "text_pt": "Quando o novo trabalhador começará?",
+    "text_en": "When will the new worker start?",
+    "audio_en_storage_path": "5389_when_will_the_new_worker_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115390",
+    "text_pt": "Na próxima semana, ela estará treinando agora.",
+    "text_en": "Next week — she’s training now.",
+    "audio_en_storage_path": "5390_next_week_shes_training_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115391",
+    "text_pt": "Por que você pediu um recibo hoje?",
+    "text_en": "Why did you ask for a receipt today?",
+    "audio_en_storage_path": "5391_why_did_you_ask_for_a_receipt_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115392",
+    "text_pt": "Porque preciso declarar as despesas mais tarde.",
+    "text_en": "Because I need to report expenses later.",
+    "audio_en_storage_path": "5392_because_i_need_to_report_expenses_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115393",
+    "text_pt": "Ela trabalha todas as manhãs na estação.",
+    "text_en": "She works every morning at the station.",
+    "audio_en_storage_path": "5393_she_works_every_morning_at_the_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115394",
+    "text_pt": "Sempre sorridente e prestativo.",
+    "text_en": "Always smiling and helpful.",
+    "audio_en_storage_path": "5394_always_smiling_and_helpful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115395",
+    "text_pt": "Amanhã. Não esquecerei de agradecer novamente.",
+    "text_en": "Tomorrow. I will not forget to say thank you again.",
+    "audio_en_storage_path": "5395_tomorrow_i_will_not_forget_to_say_thank_you_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115396",
+    "text_pt": "Esqueci da última vez — ela foi muito gentil.",
+    "text_en": "Forgot last time — she was very kind.",
+    "audio_en_storage_path": "5396_forgot_last_time_she_was_very_kind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115397",
+    "text_pt": "Ser bem educado!",
+    "text_en": "Be polite!",
+    "audio_en_storage_path": "5397_be_polite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

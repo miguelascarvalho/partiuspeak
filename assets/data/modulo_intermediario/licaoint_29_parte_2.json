@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115048",
+    "text_pt": "Entrada de veículos / Calçada",
+    "text_en": "Driveway / Sidewalk",
+    "audio_en_storage_path": "5048_driveway_sidewalk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115049",
+    "text_pt": "A entrada leva à garagem.",
+    "text_en": "The driveway leads to the garage.",
+    "audio_en_storage_path": "5049_the_driveway_leads_to_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115050",
+    "text_pt": "É onde estacionamos e descarregamos.",
+    "text_en": "It's where we park and unload.",
+    "audio_en_storage_path": "5050_its_where_we_park_and_unload.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115051",
+    "text_pt": "Nós limpamos e às vezes repintamos as linhas.",
+    "text_en": "We clean it and sometimes repaint lines.",
+    "audio_en_storage_path": "5051_we_clean_it_and_sometimes_repaint_lines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115052",
+    "text_pt": "Ou consertar rachaduras e pedras.",
+    "text_en": "Or fix cracks and stones.",
+    "audio_en_storage_path": "5052_or_fix_cracks_and_stones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115053",
+    "text_pt": "É cinza com pequenos furos e marcas de pneus.",
+    "text_en": "It is gray with small holes and tire marks.",
+    "audio_en_storage_path": "5053_it_is_gray_with_small_holes_and_tire_marks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115054",
+    "text_pt": "Ainda plano e largo o suficiente para dois carros.",
+    "text_en": "Still flat and wide enough for two cars.",
+    "audio_en_storage_path": "5054_still_flat_and_wide_enough_for_two_cars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115055",
+    "text_pt": "Há vassouras, tinta e ferramentas de limpeza por perto.",
+    "text_en": "There are brooms. paint. and cleaning tools nearby.",
+    "audio_en_storage_path": "5055_there_are_brooms_paint_and_cleaning_tools_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115056",
+    "text_pt": "E uma mangueira para lavar.",
+    "text_en": "And a hose for washing.",
+    "audio_en_storage_path": "5056_and_a_hose_for_washing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115057",
+    "text_pt": "O que há de errado com a calçada?",
+    "text_en": "What’s wrong with the sidewalk?",
+    "audio_en_storage_path": "5057_whats_wrong_with_the_sidewalk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115058",
+    "text_pt": "Rachaduras — podem fazer alguém tropeçar.",
+    "text_en": "Cracks — might trip someone.",
+    "audio_en_storage_path": "5058_cracks_might_trip_someone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115059",
+    "text_pt": "Onde você deixou a bandeja de tinta?",
+    "text_en": "Where did you leave the paint tray?",
+    "audio_en_storage_path": "5059_where_did_you_leave_the_paint_tray.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115060",
+    "text_pt": "Perto da garagem — ao lado da escada.",
+    "text_en": "Near the garage — next to the stairs.",
+    "audio_en_storage_path": "5060_near_the_garage_next_to_the_stairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115061",
+    "text_pt": "Às vezes, fazemos lavagem a jato.",
+    "text_en": "Sometimes we power-wash it.",
+    "audio_en_storage_path": "5061_sometimes_we_powerwash_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115062",
+    "text_pt": "Outras vezes, apenas varra e limpe.",
+    "text_en": "Other times just sweep and clear.",
+    "audio_en_storage_path": "5062_other_times_just_sweep_and_clear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115063",
+    "text_pt": "Onde o carro parou hoje?",
+    "text_en": "Where did the car stop today?",
+    "audio_en_storage_path": "5063_where_did_the_car_stop_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115064",
+    "text_pt": "Na entrada da garagem — perto da caixa de correio.",
+    "text_en": "On the driveway — near the mailbox.",
+    "audio_en_storage_path": "5064_on_the_driveway_near_the_mailbox.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115065",
+    "text_pt": "Quando você vai consertar as rachaduras novamente?",
+    "text_en": "When will you fix the cracks again?",
+    "audio_en_storage_path": "5065_when_will_you_fix_the_cracks_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115066",
+    "text_pt": "Depois que a chuva parar — precisa de solo seco.",
+    "text_en": "After the rain stops — need dry ground.",
+    "audio_en_storage_path": "5066_after_the_rain_stops_need_dry_ground.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115067",
+    "text_pt": "Por que você limpou a entrada da garagem hoje?",
+    "text_en": "Why did you clean the driveway today?",
+    "audio_en_storage_path": "5067_why_did_you_clean_the_driveway_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115068",
+    "text_pt": "Porque em breve teremos visitas.",
+    "text_en": "Because we're having visitors soon.",
+    "audio_en_storage_path": "5068_because_were_having_visitors_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115069",
+    "text_pt": "Ele recolhe o lixo da calçada.",
+    "text_en": "He picks up trash from the sidewalk.",
+    "audio_en_storage_path": "5069_he_picks_up_trash_from_the_sidewalk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115070",
+    "text_pt": "Mantém a rua limpa.",
+    "text_en": "Keeps the street clean.",
+    "audio_en_storage_path": "5070_keeps_the_street_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115071",
+    "text_pt": "Amanhã. Não vou esquecer de cobrir as rachaduras novamente.",
+    "text_en": "Tomorrow. I will not forget to cover the cracks again.",
+    "audio_en_storage_path": "5071_tomorrow_i_will_not_forget_to_cover_the_cracks_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115072",
+    "text_pt": "A chuva piorou a situação da última vez.",
+    "text_en": "Rain made them worse last time.",
+    "audio_en_storage_path": "5072_rain_made_them_worse_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115073",
+    "text_pt": "Mantenha seu caminho livre!",
+    "text_en": "Keep your path clear!",
+    "audio_en_storage_path": "5073_keep_your_path_clear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115074",
+    "text_pt": "A segurança começa na entrada.",
+    "text_en": "Safety starts at the entrance.",
+    "audio_en_storage_path": "5074_safety_starts_at_the_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110917",
+    "text_pt": "Metrô / Trem",
+    "text_en": "Subway / Train",
+    "audio_en_storage_path": "917_subway_train.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110918",
+    "text_pt": "O trem é subterrâneo na cidade.",
+    "text_en": "The train is underground in the city.",
+    "audio_en_storage_path": "918_the_train_is_underground_in_the_city.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110919",
+    "text_pt": "Ele se move rápido e para em muitas estações.",
+    "text_en": "It moves fast and stops at many stations.",
+    "audio_en_storage_path": "919_it_moves_fast_and_stops_at_many_stations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110920",
+    "text_pt": "As pessoas o usam para ir ao trabalho e à escola.",
+    "text_en": "People use it to go to work and school.",
+    "audio_en_storage_path": "920_people_use_it_to_go_to_work_and_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110921",
+    "text_pt": "Alguns dormem. Outros leem ou mandam mensagens.",
+    "text_en": "Some sleep. others read or text.",
+    "audio_en_storage_path": "921_some_sleep_others_read_or_text.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110922",
+    "text_pt": "É longo, vermelho e tem muitas portas.",
+    "text_en": "It's long. red. and has many doors.",
+    "audio_en_storage_path": "922_its_long_red_and_has_many_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110923",
+    "text_pt": "No interior, há assentos e maçanetas.",
+    "text_en": "Inside. there are seats and handles.",
+    "audio_en_storage_path": "923_inside_there_are_seats_and_handles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110924",
+    "text_pt": "Há mochilas, guarda-chuvas e celulares dentro.",
+    "text_en": "There are backpacks. Umbrellas. and phones inside.",
+    "audio_en_storage_path": "924_there_are_backpacks_umbrellas_and_phones_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110925",
+    "text_pt": "E às vezes flores ou lanches.",
+    "text_en": "And sometimes flowers or snacks.",
+    "audio_en_storage_path": "925_and_sometimes_flowers_or_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110926",
+    "text_pt": "A que horas sai o metrô?",
+    "text_en": "What time does the subway leave?",
+    "audio_en_storage_path": "926_what_time_does_the_subway_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110927",
+    "text_pt": "Em cinco minutos — olhe para a tela.",
+    "text_en": "In five minutes — look at the screen.",
+    "audio_en_storage_path": "927_in_five_minutes_look_at_the_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110928",
+    "text_pt": "Ele sai da Estação Central.",
+    "text_en": "It leaves from Central Station.",
+    "audio_en_storage_path": "928_it_leaves_from_central_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110929",
+    "text_pt": "E vai para Northside a cada 10 minutos.",
+    "text_en": "And goes to Northside every 10 minutes.",
+    "audio_en_storage_path": "929_and_goes_to_northside_every_10_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110930",
+    "text_pt": "Às vezes atrasa por causa de atrasos.",
+    "text_en": "Sometimes it's late because of delays.",
+    "audio_en_storage_path": "930_sometimes_its_late_because_of_delays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110931",
+    "text_pt": "Ou quando alguém aperta o botão de emergência.",
+    "text_en": "Or when someone presses the emergency button.",
+    "audio_en_storage_path": "931_or_when_someone_presses_the_emergency_button.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110932",
+    "text_pt": "Para onde o trem vai hoje?",
+    "text_en": "Where does the train go today?",
+    "audio_en_storage_path": "932_where_does_the_train_go_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110933",
+    "text_pt": "Para o centro da cidade e depois para o aeroporto.",
+    "text_en": "To downtown and then to the airport.",
+    "audio_en_storage_path": "933_to_downtown_and_then_to_the_airport.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110934",
+    "text_pt": "Quando você pegará o trem novamente?",
+    "text_en": "When will you take the train again?",
+    "audio_en_storage_path": "934_when_will_you_take_the_train_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110935",
+    "text_pt": "Provavelmente na próxima segunda-feira de manhã.",
+    "text_en": "Probably next Monday morning.",
+    "audio_en_storage_path": "935_probably_next_monday_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110936",
+    "text_pt": "Por que você perdeu o trem ontem?",
+    "text_en": "Why did you miss the train yesterday?",
+    "audio_en_storage_path": "936_why_did_you_miss_the_train_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110937",
+    "text_pt": "Porque perdi a noção do tempo.",
+    "text_en": "Because I lost track of time.",
+    "audio_en_storage_path": "937_because_i_lost_track_of_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110938",
+    "text_pt": "Pegamos o trem todos os dias da semana.",
+    "text_en": "We take the train every weekday.",
+    "audio_en_storage_path": "938_we_take_the_train_every_weekday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110939",
+    "text_pt": "Economiza tempo e dinheiro.",
+    "text_en": "It saves money and time.",
+    "audio_en_storage_path": "939_it_saves_money_and_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110940",
+    "text_pt": "Amanhã não esqueceremos nossos ingressos.",
+    "text_en": "Tomorrow. we will not forget our tickets.",
+    "audio_en_storage_path": "940_tomorrow_we_will_not_forget_our_tickets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110941",
+    "text_pt": "Nós os guardaremos em nossas carteiras.",
+    "text_en": "We will keep them in our wallets.",
+    "audio_en_storage_path": "941_we_will_keep_them_in_our_wallets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110942",
+    "text_pt": "Fique seguro e aproveite seu passeio!",
+    "text_en": "Be safe and enjoy your ride!",
+    "audio_en_storage_path": "942_be_safe_and_enjoy_your_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110943",
+    "text_pt": "Tenha um ótimo dia!",
+    "text_en": "Have a great day!",
+    "audio_en_storage_path": "943_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,218 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100000",
+    "text_pt": "A geladeira fica na cozinha.",
+    "text_en": "The fridge is in the kitchen.",
+    "audio_en_storage_path": "001_the_fridge_is_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100001",
+    "text_pt": "Nós o usamos para manter a comida fria.",
+    "text_en": "We use it to keep food cold.",
+    "audio_en_storage_path": "002_we_use_it_to_keep_food_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100002",
+    "text_pt": "É grande e branco, com duas portas.",
+    "text_en": "It is big and white with two doors.",
+    "audio_en_storage_path": "003_it_is_big_and_white_with_two_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100003",
+    "text_pt": "Há leite, queijo, ovos e suco dentro.",
+    "text_en": "There is milk, cheese, eggs, and juice inside.",
+    "audio_en_storage_path": "004_there_is_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100004",
+    "text_pt": "O que tem na geladeira?",
+    "text_en": "What is in the fridge?",
+    "audio_en_storage_path": "005_what_is_in_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100005",
+    "text_pt": "Há leite e suco de fruta.",
+    "text_en": "There is milk and fruit juice.",
+    "audio_en_storage_path": "006_there_is_milk_and_fruit_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100006",
+    "text_pt": "Há também ovos e manteiga.",
+    "text_en": "There are also eggs and butter.",
+    "audio_en_storage_path": "007_there_are_also_eggs_and_butter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100007",
+    "text_pt": "Onde está o suco?",
+    "text_en": "Where is the juice?",
+    "audio_en_storage_path": "008_where_is_the_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100008",
+    "text_pt": "O suco está na geladeira.",
+    "text_en": "The juice is in the fridge.",
+    "audio_en_storage_path": "009_the_juice_is_in_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100009",
+    "text_pt": "Quando você receberá mais ovos?",
+    "text_en": "When will you get more eggs?",
+    "audio_en_storage_path": "010_when_will_you_get_more_eggs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100010",
+    "text_pt": "Comprarei ovos amanhã.",
+    "text_en": "I’ll buy eggs tomorrow.",
+    "audio_en_storage_path": "011_ill_buy_eggs_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100011",
+    "text_pt": "Por que você abriu a geladeira?",
+    "text_en": "Why did you open the fridge?",
+    "audio_en_storage_path": "012_why_did_you_open_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100012",
+    "text_pt": "Eu estava com sede e queria água.",
+    "text_en": "I was thirsty and wanted water.",
+    "audio_en_storage_path": "013_i_was_thirsty_and_wanted_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100013",
+    "text_pt": "Pego um copo na prateleira.",
+    "text_en": "I take a glass from the shelf.",
+    "audio_en_storage_path": "014_i_take_a_glass_from_the_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100014",
+    "text_pt": "Não vou deixar a porta aberta por muito tempo.",
+    "text_en": "I won’t leave the door open long.",
+    "audio_en_storage_path": "015_i_wont_leave_the_door_open_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100015",
+    "text_pt": "Feche a porta, por favor.",
+    "text_en": "Close the door, please.",
+    "audio_en_storage_path": "016_close_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100016",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "017_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100017",
+    "text_pt": "Pego um copo na prateleira.",
+    "text_en": "I take a glass from the shelf.",
+    "audio_en_storage_path": "018_i_take_a_glass_from_the_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100018",
+    "text_pt": "Pego um copo bem rápido.",
+    "text_en": "I grab a glass real quick.",
+    "audio_en_storage_path": "019_i_grab_a_glass_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100019",
+    "text_pt": "Muito rápido = muito rápido",
+    "text_en": "Real quick = muito rápido",
+    "audio_en_storage_path": "020_real_quick_muito_rapido.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100020",
+    "text_pt": "Não vou deixar a porta aberta por muito tempo.",
+    "text_en": "I won’t leave the door open long.",
+    "audio_en_storage_path": "021_i_wont_leave_the_door_open_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100021",
+    "text_pt": "Não vou deixar a porta aberta por muito tempo.",
+    "text_en": "I ain’t leavin’ the door open long.",
+    "audio_en_storage_path": "022_i_aint_leavin_the_door_open_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100022",
+    "text_pt": "Feche a porta, por favor.",
+    "text_en": "Close the door, please.",
+    "audio_en_storage_path": "023_close_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100023",
+    "text_pt": "Deixe-me fechar isso bem rápido.",
+    "text_en": "Lemme close this real fast.",
+    "audio_en_storage_path": "024_lemme_close_this_real_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

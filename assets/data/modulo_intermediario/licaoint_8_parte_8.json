@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111160",
+    "text_pt": "Balsa / Barco",
+    "text_en": "Ferry / Boat",
+    "audio_en_storage_path": "1160_ferry_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111161",
+    "text_pt": "A balsa está no cais principal agora.",
+    "text_en": "The ferry is at the main dock right now.",
+    "audio_en_storage_path": "1161_the_ferry_is_at_the_main_dock_right_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111162",
+    "text_pt": "Os passageiros estão embarcando lentamente.",
+    "text_en": "Passengers are boarding slowly.",
+    "audio_en_storage_path": "1162_passengers_are_boarding_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111163",
+    "text_pt": "As pessoas o usam para visitar ilhas ou assistir ao pôr do sol.",
+    "text_en": "People use it to visit islands or watch sunsets.",
+    "audio_en_storage_path": "1163_people_use_it_to_visit_islands_or_watch_sunsets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111164",
+    "text_pt": "Alguns até trazem bicicletas ou pequenos animais de estimação.",
+    "text_en": "Some even bring bikes or small pets.",
+    "audio_en_storage_path": "1164_some_even_bring_bikes_or_small_pets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111165",
+    "text_pt": "É branco com listras azuis e tem dois andares.",
+    "text_en": "It is white with blue stripes and two floors.",
+    "audio_en_storage_path": "1165_it_is_white_with_blue_stripes_and_two_floors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111166",
+    "text_pt": "Uma para carros. outra para passageiros.",
+    "text_en": "One for cars. another for passengers.",
+    "audio_en_storage_path": "1166_one_for_cars_another_for_passengers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111167",
+    "text_pt": "Há lanches, bebidas e toalhas frias a bordo.",
+    "text_en": "There are snacks. drinks. and cold towels onboard.",
+    "audio_en_storage_path": "1167_there_are_snacks_drinks_and_cold_towels_onboard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111168",
+    "text_pt": "E coletes salva-vidas para todos.",
+    "text_en": "And life jackets for everyone.",
+    "audio_en_storage_path": "1168_and_life_jackets_for_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111169",
+    "text_pt": "Quantas pessoas cabem no barco?",
+    "text_en": "How many people fit on the boat?",
+    "audio_en_storage_path": "1169_how_many_people_fit_on_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111170",
+    "text_pt": "Cerca de 200 — mais 20 carros.",
+    "text_en": "Around 200 — plus 20 cars.",
+    "audio_en_storage_path": "1170_around_200_plus_20_cars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111171",
+    "text_pt": "Alguns barcos têm banheiros e pequenas lojas.",
+    "text_en": "Some boats have bathrooms and small shops.",
+    "audio_en_storage_path": "1171_some_boats_have_bathrooms_and_small_shops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111172",
+    "text_pt": "Outros têm apenas decks abertos.",
+    "text_en": "Others only have open decks.",
+    "audio_en_storage_path": "1172_others_only_have_open_decks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111173",
+    "text_pt": "Se o mar estiver calmo, você pode subir as escadas.",
+    "text_en": "If the sea is calm. you can go upstairs.",
+    "audio_en_storage_path": "1173_if_the_sea_is_calm_you_can_go_upstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111174",
+    "text_pt": "Mas se estiver ventando, você deve ficar lá embaixo.",
+    "text_en": "But if it’s windy. you must stay downstairs.",
+    "audio_en_storage_path": "1174_but_if_its_windy_you_must_stay_downstairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111175",
+    "text_pt": "Para onde vai a balsa esta manhã?",
+    "text_en": "Where does the ferry go this morning?",
+    "audio_en_storage_path": "1175_where_does_the_ferry_go_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111176",
+    "text_pt": "Para Sunny Island — famosa por suas praias.",
+    "text_en": "To Sunny Island — famous for its beaches.",
+    "audio_en_storage_path": "1176_to_sunny_island_famous_for_its_beaches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111177",
+    "text_pt": "Quando o próximo barco partirá amanhã?",
+    "text_en": "When will the next boat leave tomorrow?",
+    "audio_en_storage_path": "1177_when_will_the_next_boat_leave_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111178",
+    "text_pt": "Ao nascer do sol — chegue cedo.",
+    "text_en": "At sunrise — be there early.",
+    "audio_en_storage_path": "1178_at_sunrise_be_there_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111179",
+    "text_pt": "Por que você trouxe um chapéu e protetor solar?",
+    "text_en": "Why did you bring a hat and sunscreen?",
+    "audio_en_storage_path": "1179_why_did_you_bring_a_hat_and_sunscreen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111180",
+    "text_pt": "Porque o sol é muito forte sobre a água.",
+    "text_en": "Because the sun is very strong over the water.",
+    "audio_en_storage_path": "1180_because_the_sun_is_very_strong_over_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111181",
+    "text_pt": "Adoramos observar golfinhos do barco.",
+    "text_en": "We love watching dolphins from the boat.",
+    "audio_en_storage_path": "1181_we_love_watching_dolphins_from_the_boat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111182",
+    "text_pt": "Às vezes eles nadam ao nosso lado.",
+    "text_en": "Sometimes they swim alongside us.",
+    "audio_en_storage_path": "1182_sometimes_they_swim_alongside_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111183",
+    "text_pt": "Da próxima vez, eles não vão esquecer a câmera.",
+    "text_en": "Next time. they will not forget their camera.",
+    "audio_en_storage_path": "1183_next_time_they_will_not_forget_their_camera.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111184",
+    "text_pt": "Eles querem tirar mais fotos.",
+    "text_en": "They want to take more pictures.",
+    "audio_en_storage_path": "1184_they_want_to_take_more_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111185",
+    "text_pt": "Aproveite sua jornada!",
+    "text_en": "Enjoy your journey!",
+    "audio_en_storage_path": "1185_enjoy_your_journey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111186",
+    "text_pt": "O oceano está lindo hoje.",
+    "text_en": "The ocean is beautiful today.",
+    "audio_en_storage_path": "1186_the_ocean_is_beautiful_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

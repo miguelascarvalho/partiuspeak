@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111727",
+    "text_pt": "Pedindo o jantar",
+    "text_en": "Ordering Dinner",
+    "audio_en_storage_path": "1727_ordering_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111728",
+    "text_pt": "Ligo para o restaurante ou uso um aplicativo.",
+    "text_en": "I call the restaurant or use an app.",
+    "audio_en_storage_path": "1728_i_call_the_restaurant_or_use_an_app.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111729",
+    "text_pt": "É fácil e rápido fazer pedidos on-line.",
+    "text_en": "It's easy and fast to order online.",
+    "audio_en_storage_path": "1729_its_easy_and_fast_to_order_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111730",
+    "text_pt": "Eu escolho o que quero e confirmo o pedido.",
+    "text_en": "I choose what I want and confirm the order.",
+    "audio_en_storage_path": "1730_i_choose_what_i_want_and_confirm_the_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111731",
+    "text_pt": "Então espero a entrega.",
+    "text_en": "Then I wait for the delivery.",
+    "audio_en_storage_path": "1731_then_i_wait_for_the_delivery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111732",
+    "text_pt": "A comida vem em um saco de papel ou caixa.",
+    "text_en": "The food comes in a paper bag or box.",
+    "audio_en_storage_path": "1732_the_food_comes_in_a_paper_bag_or_box.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111733",
+    "text_pt": "Ainda tem um cheiro quente e fresco.",
+    "text_en": "It still smells warm and fresh.",
+    "audio_en_storage_path": "1733_it_still_smells_warm_and_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111734",
+    "text_pt": "Verifico se está tudo correto.",
+    "text_en": "I check if everything is correct.",
+    "audio_en_storage_path": "1734_i_check_if_everything_is_correct.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111735",
+    "text_pt": "Sem erros — tudo lá e delicioso.",
+    "text_en": "No mistakes — all there and delicious.",
+    "audio_en_storage_path": "1735_no_mistakes_all_there_and_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111736",
+    "text_pt": "O que você pediu para o jantar?",
+    "text_en": "What did you order for dinner?",
+    "audio_en_storage_path": "1736_what_did_you_order_for_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111737",
+    "text_pt": "Arroz frito e frango — meus favoritos.",
+    "text_en": "Fried rice and chicken — my favorite.",
+    "audio_en_storage_path": "1737_fried_rice_and_chicken_my_favorite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111738",
+    "text_pt": "De onde você tirou isso?",
+    "text_en": "Where did you get it from?",
+    "audio_en_storage_path": "1738_where_did_you_get_it_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111739",
+    "text_pt": "Do restaurante asiático no fim da rua.",
+    "text_en": "From the Asian place down the street.",
+    "audio_en_storage_path": "1739_from_the_asian_place_down_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111740",
+    "text_pt": "Às vezes eu cozinho. Às vezes eu peço.",
+    "text_en": "Sometimes I cook. sometimes I order.",
+    "audio_en_storage_path": "1740_sometimes_i_cook_sometimes_i_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111741",
+    "text_pt": "Depende de quão cansado eu esteja.",
+    "text_en": "It depends on how tired I am.",
+    "audio_en_storage_path": "1741_it_depends_on_how_tired_i_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111742",
+    "text_pt": "Onde está o recibo?",
+    "text_en": "Where is the receipt?",
+    "audio_en_storage_path": "1742_where_is_the_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111743",
+    "text_pt": "Dentro do saco — em cima da comida.",
+    "text_en": "Inside the bag — on top of the food.",
+    "audio_en_storage_path": "1743_inside_the_bag_on_top_of_the_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111744",
+    "text_pt": "Quando a comida vai chegar?",
+    "text_en": "When will the food arrive?",
+    "audio_en_storage_path": "1744_when_will_the_food_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111745",
+    "text_pt": "Em cerca de 25 minutos — rastreando agora.",
+    "text_en": "In about 25 minutes — tracking it now.",
+    "audio_en_storage_path": "1745_in_about_25_minutes_tracking_it_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111746",
+    "text_pt": "Por que você pediu em vez de cozinhar?",
+    "text_en": "Why did you order instead of cooking?",
+    "audio_en_storage_path": "1746_why_did_you_order_instead_of_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111747",
+    "text_pt": "Porque eu não tinha vontade de fazer nada.",
+    "text_en": "Because I didn't feel like doing anything.",
+    "audio_en_storage_path": "1747_because_i_didnt_feel_like_doing_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111748",
+    "text_pt": "Costumo pedir jantar durante a semana.",
+    "text_en": "I often order dinner during the week.",
+    "audio_en_storage_path": "1748_i_often_order_dinner_during_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111749",
+    "text_pt": "Economiza tempo e esforço.",
+    "text_en": "It saves time and effort.",
+    "audio_en_storage_path": "1749_it_saves_time_and_effort.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111750",
+    "text_pt": "Amanhã. Não vou esquecer de dar gorjeta ao motorista.",
+    "text_en": "Tomorrow. I will not forget to tip the driver.",
+    "audio_en_storage_path": "1750_tomorrow_i_will_not_forget_to_tip_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111751",
+    "text_pt": "Vou adicioná-lo ao aplicativo antes de confirmar.",
+    "text_en": "I’ll add it in the app before confirming.",
+    "audio_en_storage_path": "1751_ill_add_it_in_the_app_before_confirming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111752",
+    "text_pt": "Desfrute de sua refeição!",
+    "text_en": "Enjoy your meal!",
+    "audio_en_storage_path": "1752_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111753",
+    "text_pt": "Espero que fique ótimo!",
+    "text_en": "Hope it tastes great!",
+    "audio_en_storage_path": "1753_hope_it_tastes_great.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102542",
+    "text_pt": "🎬 Cinema e Pipoca (Cinema e Petiscos)",
+    "text_en": "🎬 Movie Theater & Snacks",
+    "audio_en_storage_path": "",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102543",
+    "text_pt": "O cinema fica no último andar.",
+    "text_en": "The cinema is on the top floor.",
+    "audio_en_storage_path": "1643_the_cinema_is_on_the_top_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102544",
+    "text_pt": "Você verá cartazes e máquinas de lanches do lado de fora.",
+    "text_en": "You’ll see posters and snack machines outside.",
+    "audio_en_storage_path": "1644_youll_see_posters_and_snack_machines_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102545",
+    "text_pt": "Compramos ingressos e bebidas antes de entrar.",
+    "text_en": "We buy tickets and drinks before going in.",
+    "audio_en_storage_path": "1645_we_buy_tickets_and_drinks_before_going_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102546",
+    "text_pt": "A pipoca faz parte da experiência do cinema.",
+    "text_en": "Popcorn is part of the movie experience.",
+    "audio_en_storage_path": "1646_popcorn_is_part_of_the_movie_experience.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102547",
+    "text_pt": "O saguão tem cadeiras vermelhas e luzes amarelas.",
+    "text_en": "The lobby has red chairs and yellow lights.",
+    "audio_en_storage_path": "1647_the_lobby_has_red_chairs_and_yellow_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102548",
+    "text_pt": "Os alto-falantes reproduzem prévias e músicas.",
+    "text_en": "Speakers play previews and music.",
+    "audio_en_storage_path": "1648_speakers_play_previews_and_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102549",
+    "text_pt": "Que filme você vai assistir hoje à noite?",
+    "text_en": "What movie are you watching tonight?",
+    "audio_en_storage_path": "1649_what_movie_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102550",
+    "text_pt": "O de terror — ouvi dizer que é assustador e bom.",
+    "text_en": "The horror one — heard it’s scary and good.",
+    "audio_en_storage_path": "1650_the_horror_one_heard_its_scary_and_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102551",
+    "text_pt": "Quanto custa o combo?",
+    "text_en": "How much is the combo?",
+    "audio_en_storage_path": "1651_how_much_is_the_combo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102552",
+    "text_pt": "US$ 18 — pipoca. bebida e doces.",
+    "text_en": "$18 — popcorn. drink. and candy.",
+    "audio_en_storage_path": "1652_18_popcorn_drink_and_candy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102553",
+    "text_pt": "Qual é o melhor assento?",
+    "text_en": "Where is the best seat?",
+    "audio_en_storage_path": "1653_where_is_the_best_seat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102554",
+    "text_pt": "Fileira do meio — visão e som perfeitos.",
+    "text_en": "Middle row — perfect view and sound.",
+    "audio_en_storage_path": "1654_middle_row_perfect_view_and_sound.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102555",
+    "text_pt": "Não comi nada durante o filme.",
+    "text_en": "I didn’t eat anything during the film.",
+    "audio_en_storage_path": "1655_i_didnt_eat_anything_during_the_film.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102556",
+    "text_pt": "Trouxe água e pulei os lanches.",
+    "text_en": "Brought water and skipped snacks.",
+    "audio_en_storage_path": "1656_brought_water_and_skipped_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102557",
+    "text_pt": "Quando começa o último filme?",
+    "text_en": "When does the last movie start?",
+    "audio_en_storage_path": "1657_when_does_the_last_movie_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102558",
+    "text_pt": "Às 22h — não é para quem dorme cedo.",
+    "text_en": "At 10 PM — not for early sleepers.",
+    "audio_en_storage_path": "1658_at_10_pm_not_for_early_sleepers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102559",
+    "text_pt": "Por que você chegou atrasado hoje?",
+    "text_en": "Why did you arrive late today?",
+    "audio_en_storage_path": "1659_why_did_you_arrive_late_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102560",
+    "text_pt": "Esqueci de verificar as horas — me distraí.",
+    "text_en": "Forgot to check the time — got distracted.",
+    "audio_en_storage_path": "1660_forgot_to_check_the_time_got_distracted.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102561",
+    "text_pt": "Ele sempre compra pipoca extra com manteiga.",
+    "text_en": "He always buys extra buttered popcorn.",
+    "audio_en_storage_path": "1661_he_always_buys_extra_buttered_popcorn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102562",
+    "text_pt": "Adora o sabor — mesmo que seja bagunçado.",
+    "text_en": "Loves the taste — even if it's messy.",
+    "audio_en_storage_path": "1662_loves_the_taste_even_if_its_messy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102563",
+    "text_pt": "Amanhã. Não vou esquecer de desligar o modo flash novamente.",
+    "text_en": "Tomorrow. I will not forget to turn off flash mode again.",
+    "audio_en_storage_path": "1663_tomorrow_i_will_not_forget_to_turn_off_flash_mode_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102564",
+    "text_pt": "Estraguei a foto do ingresso da última vez.",
+    "text_en": "Ruined the ticket photo last time.",
+    "audio_en_storage_path": "1664_ruined_the_ticket_photo_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102565",
+    "text_pt": "Luzes apagadas. Volume alto!",
+    "text_en": "Lights out. volume up!",
+    "audio_en_storage_path": "1665_lights_out_volume_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102566",
+    "text_pt": "Relaxe e aproveite o show.",
+    "text_en": "Sit back and enjoy the show.",
+    "audio_en_storage_path": "1666_sit_back_and_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102567",
+    "text_pt": "A noite do cinema é a melhor noite!",
+    "text_en": "Movie night is the best night!",
+    "audio_en_storage_path": "1667_movie_night_is_the_best_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102568",
+    "text_pt": "Divirta-se assistindo.",
+    "text_en": "Have a great time watching.",
+    "audio_en_storage_path": "1668_have_a_great_time_watching.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

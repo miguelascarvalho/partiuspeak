@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102326",
+    "text_pt": "🍔 Alimentação e Lanchonete (Praça de Alimentação/Snack Bar)",
+    "text_en": "🍔 Food Court / Snack Bar",
+    "audio_en_storage_path": "1426_food_court_snack_bar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102327",
+    "text_pt": "A praça de alimentação fica no segundo andar.",
+    "text_en": "The food court is on the second floor.",
+    "audio_en_storage_path": "1427_the_food_court_is_on_the_second_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102328",
+    "text_pt": "Muitas mesas e cheiros enchem o ar.",
+    "text_en": "Many tables and smells fill the air.",
+    "audio_en_storage_path": "1428_many_tables_and_smells_fill_the_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102329",
+    "text_pt": "Eu compro hambúrgueres. sushi ou smoothies aqui.",
+    "text_en": "I buy burgers. sushi. or smoothies here.",
+    "audio_en_storage_path": "1429_i_buy_burgers_sushi_or_smoothies_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102330",
+    "text_pt": "Às vezes levo para casa batatas fritas ou sopa.",
+    "text_en": "Sometimes I take home fries or soup.",
+    "audio_en_storage_path": "1430_sometimes_i_take_home_fries_or_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102331",
+    "text_pt": "O menu mostra preços e fotos.",
+    "text_en": "The menu shows prices and photos.",
+    "audio_en_storage_path": "1431_the_menu_shows_prices_and_photos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102332",
+    "text_pt": "Números vermelhos significam “Oferta especial!”",
+    "text_en": "Red numbers mean “Special Deal!”",
+    "audio_en_storage_path": "1432_red_numbers_mean_special_deal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102333",
+    "text_pt": "O que você comeu hoje?",
+    "text_en": "What did you eat today?",
+    "audio_en_storage_path": "1433_what_did_you_eat_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102334",
+    "text_pt": "Frango e arroz — não picante. apenas doce.",
+    "text_en": "Chicken and rice — not spicy. just sweet.",
+    "audio_en_storage_path": "1434_chicken_and_rice_not_spicy_just_sweet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102335",
+    "text_pt": "Quanto custa esse suco?",
+    "text_en": "How much is this juice?",
+    "audio_en_storage_path": "1435_how_much_is_this_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102336",
+    "text_pt": "US$ 4 — mais barato que refrigerante.",
+    "text_en": "$4 — cheaper than soda.",
+    "audio_en_storage_path": "1436_4_cheaper_than_soda.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102337",
+    "text_pt": "Onde está a opção vegana?",
+    "text_en": "Where is the vegan option?",
+    "audio_en_storage_path": "1437_where_is_the_vegan_option.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102338",
+    "text_pt": "No final — ao lado do lugar de macarrão.",
+    "text_en": "At the end — next to the noodle place.",
+    "audio_en_storage_path": "1438_at_the_end_next_to_the_noodle_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102339",
+    "text_pt": "Não pedi nada pesado.",
+    "text_en": "I didn't order anything heavy.",
+    "audio_en_storage_path": "1439_i_didnt_order_anything_heavy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102340",
+    "text_pt": "Apenas uma salada — leve e fresca.",
+    "text_en": "Just a salad — light and fresh.",
+    "audio_en_storage_path": "1440_just_a_salad_light_and_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102341",
+    "text_pt": "Quando a barraca de sobremesas abrirá novamente?",
+    "text_en": "When will the dessert stand open again?",
+    "audio_en_storage_path": "1441_when_will_the_dessert_stand_open_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102342",
+    "text_pt": "Depois do almoço — eles vendem cupcakes e biscoitos.",
+    "text_en": "After lunch — they sell cupcakes and cookies.",
+    "audio_en_storage_path": "1442_after_lunch_they_sell_cupcakes_and_cookies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102343",
+    "text_pt": "Por que você pulou a sobremesa hoje?",
+    "text_en": "Why did you skip dessert today?",
+    "audio_en_storage_path": "1443_why_did_you_skip_dessert_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102344",
+    "text_pt": "Porque eu queria economizar dinheiro.",
+    "text_en": "Because I wanted to save money.",
+    "audio_en_storage_path": "1444_because_i_wanted_to_save_money.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102345",
+    "text_pt": "Ela come aqui sempre que nos visita.",
+    "text_en": "She eats here every time she visits.",
+    "audio_en_storage_path": "1445_she_eats_here_every_time_she_visits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102346",
+    "text_pt": "Gosta do serviço rápido e das mesas limpas.",
+    "text_en": "Likes the fast service and clean tables.",
+    "audio_en_storage_path": "1446_likes_the_fast_service_and_clean_tables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102347",
+    "text_pt": "Amanhã. Não esquecerei de trazer minha própria xícara novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my own cup again.",
+    "audio_en_storage_path": "1447_tomorrow_i_will_not_forget_to_bring_my_own_cup_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102348",
+    "text_pt": "Usei plástico da última vez — não é ecológico.",
+    "text_en": "Used plastic last time — not eco-friendly.",
+    "audio_en_storage_path": "1448_used_plastic_last_time_not_ecofriendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102349",
+    "text_pt": "A comida une as pessoas!",
+    "text_en": "Food brings people together!",
+    "audio_en_storage_path": "1449_food_brings_people_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102350",
+    "text_pt": "Coma bem e sorria sempre.",
+    "text_en": "Eat well and smile often.",
+    "audio_en_storage_path": "1450_eat_well_and_smile_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102351",
+    "text_pt": "Experimente algo novo!",
+    "text_en": "Try something new!",
+    "audio_en_storage_path": "1451_try_something_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102352",
+    "text_pt": "Você pode descobrir um favorito.",
+    "text_en": "You might discover a favorite.",
+    "audio_en_storage_path": "1452_you_might_discover_a_favorite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

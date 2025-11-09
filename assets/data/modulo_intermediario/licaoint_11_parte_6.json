@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111754",
+    "text_pt": "Café da manhã – Ela",
+    "text_en": "Breakfast – She",
+    "audio_en_storage_path": "1754_breakfast_she.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111755",
+    "text_pt": "Ela acorda e sente cheiro de café.",
+    "text_en": "She wakes up and smells coffee.",
+    "audio_en_storage_path": "1755_she_wakes_up_and_smells_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111756",
+    "text_pt": "A cozinha está quentinha e cheira a torrada.",
+    "text_en": "The kitchen is warm and smells like toast.",
+    "audio_en_storage_path": "1756_the_kitchen_is_warm_and_smells_like_toast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111757",
+    "text_pt": "Ela come cereal ou ovos pela manhã.",
+    "text_en": "She eats cereal or eggs in the morning.",
+    "audio_en_storage_path": "1757_she_eats_cereal_or_eggs_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111758",
+    "text_pt": "Às vezes ela come panquecas com calda.",
+    "text_en": "Sometimes she has pancakes with syrup.",
+    "audio_en_storage_path": "1758_sometimes_she_has_pancakes_with_syrup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111759",
+    "text_pt": "Seu prato tem frutas, pão e manteiga.",
+    "text_en": "Her plate has fruit. bread. and butter.",
+    "audio_en_storage_path": "1759_her_plate_has_fruit_bread_and_butter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111760",
+    "text_pt": "Há também um copo de suco de laranja.",
+    "text_en": "There’s also a cup of orange juice.",
+    "audio_en_storage_path": "1760_theres_also_a_cup_of_orange_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111761",
+    "text_pt": "Ela se senta à mesa e lê o telefone.",
+    "text_en": "She sits at the table and reads her phone.",
+    "audio_en_storage_path": "1761_she_sits_at_the_table_and_reads_her_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111762",
+    "text_pt": "Ou ela assiste ao noticiário enquanto come.",
+    "text_en": "Or she watches the news while eating.",
+    "audio_en_storage_path": "1762_or_she_watches_the_news_while_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111763",
+    "text_pt": "A que horas ela costuma tomar café da manhã?",
+    "text_en": "What time does she usually eat breakfast?",
+    "audio_en_storage_path": "1763_what_time_does_she_usually_eat_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111764",
+    "text_pt": "Por volta das 7:00 — depois de escovar os dentes.",
+    "text_en": "Around 7:00 — after brushing her teeth.",
+    "audio_en_storage_path": "1764_around_700_after_brushing_her_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111765",
+    "text_pt": "Onde ela guarda o cereal?",
+    "text_en": "Where does she keep her cereal?",
+    "audio_en_storage_path": "1765_where_does_she_keep_her_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111766",
+    "text_pt": "Na despensa — ao lado dos lanches.",
+    "text_en": "In the pantry — next to the snacks.",
+    "audio_en_storage_path": "1766_in_the_pantry_next_to_the_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111767",
+    "text_pt": "Algumas manhãs ela come rápido. desaparece lentamente.",
+    "text_en": "Some mornings she eats quickly. disappear slowly.",
+    "audio_en_storage_path": "1767_some_mornings_she_eats_quickly_disappear_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111768",
+    "text_pt": "Depende de quão cedo ela precisa sair.",
+    "text_en": "It depends on how early she needs to leave.",
+    "audio_en_storage_path": "1768_it_depends_on_how_early_she_needs_to_leave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111769",
+    "text_pt": "Onde ela deixou a colher?",
+    "text_en": "Where did she leave her spoon?",
+    "audio_en_storage_path": "1769_where_did_she_leave_her_spoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111770",
+    "text_pt": "Na tigela — ainda cheia de iogurte.",
+    "text_en": "In the bowl — still full of yogurt.",
+    "audio_en_storage_path": "1770_in_the_bowl_still_full_of_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111771",
+    "text_pt": "Quando ela vai comer amanhã?",
+    "text_en": "When will she eat tomorrow?",
+    "audio_en_storage_path": "1771_when_will_she_eat_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111772",
+    "text_pt": "Depois de acordar — talvez por volta das 7h15.",
+    "text_en": "After waking up — maybe around 7:15.",
+    "audio_en_storage_path": "1772_after_waking_up_maybe_around_715.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111773",
+    "text_pt": "Por que ela fez panquecas hoje?",
+    "text_en": "Why did she make pancakes today?",
+    "audio_en_storage_path": "1773_why_did_she_make_pancakes_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111774",
+    "text_pt": "Porque estava chovendo e ela tinha tempo.",
+    "text_en": "Because it was raining and she had time.",
+    "audio_en_storage_path": "1774_because_it_was_raining_and_she_had_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111775",
+    "text_pt": "Ela sempre começa o dia comendo alguma coisa.",
+    "text_en": "She always starts her day with something to eat.",
+    "audio_en_storage_path": "1775_she_always_starts_her_day_with_something_to_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111776",
+    "text_pt": "Isso lhe dá energia para o dia todo.",
+    "text_en": "It gives her energy for the day.",
+    "audio_en_storage_path": "1776_it_gives_her_energy_for_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111777",
+    "text_pt": "Amanhã ela não vai esquecer as chaves novamente.",
+    "text_en": "Tomorrow. she will not forget her keys again.",
+    "audio_en_storage_path": "1777_tomorrow_she_will_not_forget_her_keys_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111778",
+    "text_pt": "Ela os colocará ao lado do prato do café da manhã.",
+    "text_en": "She’ll put them next to her breakfast plate.",
+    "audio_en_storage_path": "1778_shell_put_them_next_to_her_breakfast_plate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111779",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "1779_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111780",
+    "text_pt": "Espero que você aproveite sua refeição.",
+    "text_en": "Hope you enjoy your meal.",
+    "audio_en_storage_path": "1780_hope_you_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

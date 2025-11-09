@@ -1,0 +1,1397 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121107",
+    "text_pt": "Título do grupo – Vistas do céu e do dia",
+    "text_en": "Group Title – Sky and Daytime Views",
+    "audio_en_storage_path": "1107_group_title_sky_and_daytime_views.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121108",
+    "text_pt": "O céu está claro hoje e o sol está brilhando forte",
+    "text_en": "The sky is clear today and the sun is shining bright",
+    "audio_en_storage_path": "1108_the_sky_is_clear_today_and_the_sun_is_shining_bright.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121109",
+    "text_pt": "O céu está aberto hoje e o sol está com força total",
+    "text_en": "Sky’s wide open today and the sun’s goin’ full power",
+    "audio_en_storage_path": "1109_skys_wide_open_today_and_the_suns_goin_full_power.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121110",
+    "text_pt": "Vejo algumas nuvens brancas flutuando lentamente acima de nós",
+    "text_en": "I see a few white clouds floating slowly above us",
+    "audio_en_storage_path": "1110_i_see_a_few_white_clouds_floating_slowly_above_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121111",
+    "text_pt": "Poucas nuvens suaves flutuando lá em cima como se não tivessem para onde ir",
+    "text_en": "Few soft clouds driftin’ up there like they got nowhere to be",
+    "audio_en_storage_path": "1111_few_soft_clouds_driftin_up_there_like_they_got_nowhere_to_be.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121112",
+    "text_pt": "Aquele avião está voando alto em direção ao oeste",
+    "text_en": "That airplane is flying high toward the west",
+    "audio_en_storage_path": "1112_that_airplane_is_flying_high_toward_the_west.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121113",
+    "text_pt": "Aquele avião está indo para o oeste bem alto no céu",
+    "text_en": "That plane’s headin’ west real high in the sky",
+    "audio_en_storage_path": "1113_that_planes_headin_west_real_high_in_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121114",
+    "text_pt": "O sol está quente na minha pele agora",
+    "text_en": "The sun feels warm on my skin right now",
+    "audio_en_storage_path": "1114_the_sun_feels_warm_on_my_skin_right_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121115",
+    "text_pt": "O sol está agradável e quente em meus braços",
+    "text_en": "Sun’s feelin’ nice and hot on my arms",
+    "audio_en_storage_path": "1115_suns_feelin_nice_and_hot_on_my_arms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121116",
+    "text_pt": "Há pássaros voando em círculos acima das árvores",
+    "text_en": "There are birds flying in circles above the trees",
+    "audio_en_storage_path": "1116_there_are_birds_flying_in_circles_above_the_trees.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121117",
+    "text_pt": "Pássaros voando em círculos sobre aquelas árvores altas",
+    "text_en": "Birds flyin’ round and round up over those tall trees",
+    "audio_en_storage_path": "1117_birds_flyin_round_and_round_up_over_those_tall_trees.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121118",
+    "text_pt": "Eu posso ver um arco-íris depois que a chuva parou",
+    "text_en": "I can see a rainbow after the rain stopped",
+    "audio_en_storage_path": "1118_i_can_see_a_rainbow_after_the_rain_stopped.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121119",
+    "text_pt": "A chuva acabou e um arco colorido está aparecendo",
+    "text_en": "Rain just ended and there’s a colorful arc showin’ up",
+    "audio_en_storage_path": "1119_rain_just_ended_and_theres_a_colorful_arc_showin_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121120",
+    "text_pt": "Este é um dia perfeito para empinar uma pipa",
+    "text_en": "This is a perfect day for flying a kite",
+    "audio_en_storage_path": "1120_this_is_a_perfect_day_for_flying_a_kite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121121",
+    "text_pt": "Este clima é perfeito para levantar aquela pipa",
+    "text_en": "This weather’s just right for gettin’ that kite up",
+    "audio_en_storage_path": "1121_this_weathers_just_right_for_gettin_that_kite_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121122",
+    "text_pt": "O céu azul faz tudo parecer tranquilo",
+    "text_en": "The blue sky makes everything look peaceful",
+    "audio_en_storage_path": "1122_the_blue_sky_makes_everything_look_peaceful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121123",
+    "text_pt": "O céu azul lá fora faz tudo parecer calmo",
+    "text_en": "Blue sky out there makes everything feel calm",
+    "audio_en_storage_path": "1123_blue_sky_out_there_makes_everything_feel_calm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121124",
+    "text_pt": "Veja como essa nuvem está se movendo rápido",
+    "text_en": "Look at how fast that cloud is moving",
+    "audio_en_storage_path": "1124_look_at_how_fast_that_cloud_is_moving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121125",
+    "text_pt": "Veja a rapidez com que essa grande nuvem se move",
+    "text_en": "Check how quick that big cloud’s movin’",
+    "audio_en_storage_path": "1125_check_how_quick_that_big_clouds_movin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121126",
+    "text_pt": "Deixe-me deitar e observar o céu por um tempo",
+    "text_en": "Let me lie down and watch the sky for a while",
+    "audio_en_storage_path": "1126_let_me_lie_down_and_watch_the_sky_for_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121127",
+    "text_pt": "Deixe-me ficar aqui e olhar para o céu por um momento",
+    "text_en": "Let me crash here and stare at the sky for a bit",
+    "audio_en_storage_path": "1127_let_me_crash_here_and_stare_at_the_sky_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121128",
+    "text_pt": "Você poderia me dizer onde o sol se põe esta noite?",
+    "text_en": "Could you tell me where the sun sets tonight?",
+    "audio_en_storage_path": "1128_could_you_tell_me_where_the_sun_sets_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121129",
+    "text_pt": "Você poderia me mostrar onde o sol se põe esta noite?",
+    "text_en": "Couldja point me to where the sun drops tonight?",
+    "audio_en_storage_path": "1129_couldja_point_me_to_where_the_sun_drops_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121130",
+    "text_pt": "Aquele balão subiu tanto que não consigo mais vê-lo",
+    "text_en": "That balloon went so high I can’t see it anymore",
+    "audio_en_storage_path": "1130_that_balloon_went_so_high_i_cant_see_it_anymore.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121131",
+    "text_pt": "Aquele balão flutuou tão alto que perdi a noção dele",
+    "text_en": "That balloon floated so far up I lost track of it",
+    "audio_en_storage_path": "1131_that_balloon_floated_so_far_up_i_lost_track_of_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121132",
+    "text_pt": "Eu amo como a luz do sol reflete na água",
+    "text_en": "I love how the sunlight reflects on the water",
+    "audio_en_storage_path": "1132_i_love_how_the_sunlight_reflects_on_the_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121133",
+    "text_pt": "Adoro como o sol reflete no lago daquele jeito",
+    "text_en": "Love how the sun bounces off the lake like that",
+    "audio_en_storage_path": "1133_love_how_the_sun_bounces_off_the_lake_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121134",
+    "text_pt": "O helicóptero passou voando mais cedo esta manhã",
+    "text_en": "The helicopter flew by earlier this morning",
+    "audio_en_storage_path": "1134_the_helicopter_flew_by_earlier_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121135",
+    "text_pt": "O helicóptero passou por aqui cedo esta manhã",
+    "text_en": "Chopper passed through early this mornin’",
+    "audio_en_storage_path": "1135_chopper_passed_through_early_this_mornin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121136",
+    "text_pt": "Cuide-se e aproveite a beleza ao seu redor",
+    "text_en": "Take care and enjoy the beauty around you",
+    "audio_en_storage_path": "1136_take_care_and_enjoy_the_beauty_around_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121137",
+    "text_pt": "Aproveite seu tempo e fique de olho no céu",
+    "text_en": "Enjoy your time and keep an eye on the sky",
+    "audio_en_storage_path": "1137_enjoy_your_time_and_keep_an_eye_on_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121138",
+    "text_pt": "Título do grupo – Noite e Estrelas",
+    "text_en": "Group Title – Night and Stars",
+    "audio_en_storage_path": "1138_group_title_night_and_stars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121139",
+    "text_pt": "A lua está cheia e está linda esta noite",
+    "text_en": "The moon is full and looks amazing tonight",
+    "audio_en_storage_path": "1139_the_moon_is_full_and_looks_amazing_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121140",
+    "text_pt": "A lua está toda iluminada esta noite - parece enorme e legal",
+    "text_en": "Moon’s all lit up tonight — looks huge and cool",
+    "audio_en_storage_path": "1140_moons_all_lit_up_tonight_looks_huge_and_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121141",
+    "text_pt": "Eu vejo muitas estrelas brilhando no céu escuro",
+    "text_en": "I see many stars shining in the dark sky",
+    "audio_en_storage_path": "1141_i_see_many_stars_shining_in_the_dark_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121142",
+    "text_pt": "O céu está cheio de pequenas luzes brilhando por todo lado",
+    "text_en": "Sky’s full of tiny lights sparklin’ all over",
+    "audio_en_storage_path": "1142_skys_full_of_tiny_lights_sparklin_all_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121143",
+    "text_pt": "Às vezes você pode ver estrelas cadentes se esperar o tempo suficiente",
+    "text_en": "Sometimes you can see shooting stars if you wait long enough",
+    "audio_en_storage_path": "1143_sometimes_you_can_see_shooting_stars_if_you_wait_long_enough.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121144",
+    "text_pt": "Se você ficar sentado, às vezes você vê aquelas listras no céu",
+    "text_en": "If ya sit tight. sometimes you catch those streaks in the sky",
+    "audio_en_storage_path": "1144_if_ya_sit_tight_sometimes_you_catch_those_streaks_in_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121145",
+    "text_pt": "As estrelas me lembram de algo mágico",
+    "text_en": "The stars remind me of something magical",
+    "audio_en_storage_path": "1145_the_stars_remind_me_of_something_magical.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121146",
+    "text_pt": "Essas estrelas me fazem pensar que algo mágico está acontecendo",
+    "text_en": "Those stars make me think somethin’ magical’s goin’ on",
+    "audio_en_storage_path": "1146_those_stars_make_me_think_somethin_magicals_goin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121147",
+    "text_pt": "Está quieto lá fora e a noite parece pacífica",
+    "text_en": "It’s quiet outside and the night feels peaceful",
+    "audio_en_storage_path": "1147_its_quiet_outside_and_the_night_feels_peaceful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121148",
+    "text_pt": "O silêncio do mundo inteiro — a super calma da noite",
+    "text_en": "Whole world’s silent — night’s super calm",
+    "audio_en_storage_path": "1148_whole_worlds_silent_nights_super_calm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121149",
+    "text_pt": "Eu queria que tivéssemos mais noites como essa",
+    "text_en": "I wish we had more nights like this one",
+    "audio_en_storage_path": "1149_i_wish_we_had_more_nights_like_this_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121150",
+    "text_pt": "Espero que tenhamos mais noites como esta — claras e frescas",
+    "text_en": "Hope we get more nights like this — clear and cool",
+    "audio_en_storage_path": "1150_hope_we_get_more_nights_like_this_clear_and_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121151",
+    "text_pt": "Você acredita em desejos quando vê uma estrela?",
+    "text_en": "Do you believe in wishes when you see a star?",
+    "audio_en_storage_path": "1151_do_you_believe_in_wishes_when_you_see_a_star.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121152",
+    "text_pt": "Você realmente faz um pedido quando vê um?",
+    "text_en": "You actually make a wish when you spot one?",
+    "audio_en_storage_path": "1152_you_actually_make_a_wish_when_you_spot_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121153",
+    "text_pt": "O luar me ajuda a enxergar mesmo à noite",
+    "text_en": "The moonlight helps me see even at night",
+    "audio_en_storage_path": "1153_the_moonlight_helps_me_see_even_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121154",
+    "text_pt": "A lua está brilhando forte o suficiente para iluminar meu caminho",
+    "text_en": "Moon’s glowin’ strong enough to light my way",
+    "audio_en_storage_path": "1154_moons_glowin_strong_enough_to_light_my_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121155",
+    "text_pt": "Eu vi a Via Láctea pela primeira vez no verão passado",
+    "text_en": "I saw the Milky Way for the first time last summer",
+    "audio_en_storage_path": "1155_i_saw_the_milky_way_for_the_first_time_last_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121156",
+    "text_pt": "Primeira vez que vi aquela faixa de galáxias no céu",
+    "text_en": "First time I ever saw that galaxy band across the sky",
+    "audio_en_storage_path": "1156_first_time_i_ever_saw_that_galaxy_band_across_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121157",
+    "text_pt": "Algumas noites o céu fica completamente coberto de nuvens",
+    "text_en": "Some nights the sky is completely covered with clouds",
+    "audio_en_storage_path": "1157_some_nights_the_sky_is_completely_covered_with_clouds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121158",
+    "text_pt": "Algumas noites você não consegue ver nada — as nuvens bloqueiam tudo",
+    "text_en": "Some nights you can’t see nothin’ — clouds block everything",
+    "audio_en_storage_path": "1158_some_nights_you_cant_see_nothin_clouds_block_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121159",
+    "text_pt": "Se você olhar atentamente, poderá reconhecer constelações",
+    "text_en": "If you look closely. you can recognize constellations",
+    "audio_en_storage_path": "1159_if_you_look_closely_you_can_recognize_constellations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121160",
+    "text_pt": "Olhe bem de perto e você começará a ver aquelas formas de estrelas",
+    "text_en": "Look close enough and you start seein’ those star shapes",
+    "audio_en_storage_path": "1160_look_close_enough_and_you_start_seein_those_star_shapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121161",
+    "text_pt": "O céu muda de cor antes do sol desaparecer",
+    "text_en": "The sky changes colors before the sun disappears",
+    "audio_en_storage_path": "1161_the_sky_changes_colors_before_the_sun_disappears.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121162",
+    "text_pt": "O céu passa por sombras pouco antes do sol se pôr",
+    "text_en": "Sky goes through shades just before the sun drops",
+    "audio_en_storage_path": "1162_sky_goes_through_shades_just_before_the_sun_drops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121163",
+    "text_pt": "Esta noite parece uma noite de histórias e memórias",
+    "text_en": "Tonight feels like a night for stories and memories",
+    "audio_en_storage_path": "1163_tonight_feels_like_a_night_for_stories_and_memories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121164",
+    "text_pt": "Parece uma daquelas noites para conversar, rir e lembrar",
+    "text_en": "Feels like one of those nights to talk. laugh. and remember",
+    "audio_en_storage_path": "1164_feels_like_one_of_those_nights_to_talk_laugh_and_remember.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121165",
+    "text_pt": "Não se esqueça de olhar para cima de vez em quando",
+    "text_en": "Don’t forget to look up once in a while",
+    "audio_en_storage_path": "1165_dont_forget_to_look_up_once_in_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121166",
+    "text_pt": "De vez em quando, reserve um segundo para olhar o céu",
+    "text_en": "Take a sec to check the sky every now and then",
+    "audio_en_storage_path": "1166_take_a_sec_to_check_the_sky_every_now_and_then.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121167",
+    "text_pt": "Boa noite e bons sonhos",
+    "text_en": "Good night and sweet dreams",
+    "audio_en_storage_path": "1167_good_night_and_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121168",
+    "text_pt": "Durma bem e sonhe alto esta noite",
+    "text_en": "Sleep well and dream big tonight",
+    "audio_en_storage_path": "1168_sleep_well_and_dream_big_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121169",
+    "text_pt": "Título do grupo – Nuvens. Clima. e Objetos Voadores",
+    "text_en": "Group Title – Clouds. Weather. and Flying Objects",
+    "audio_en_storage_path": "1169_group_title_clouds_weather_and_flying_objects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121170",
+    "text_pt": "Essas nuvens escuras significam que pode chover em breve",
+    "text_en": "Those dark clouds mean it might rain soon",
+    "audio_en_storage_path": "1170_those_dark_clouds_mean_it_might_rain_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121171",
+    "text_pt": "Essas nuvens pesadas dizem que teremos chuva em breve",
+    "text_en": "Those heavy clouds say we’re gettin’ some rain real soon",
+    "audio_en_storage_path": "1171_those_heavy_clouds_say_were_gettin_some_rain_real_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121172",
+    "text_pt": "Espero que a tempestade não venha muito rápido",
+    "text_en": "I hope the storm doesn’t come too fast",
+    "audio_en_storage_path": "1172_i_hope_the_storm_doesnt_come_too_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121173",
+    "text_pt": "Espero que a tempestade não chegue muito rápido",
+    "text_en": "Hope that thunderstorm don’t roll in too quick",
+    "audio_en_storage_path": "1173_hope_that_thunderstorm_dont_roll_in_too_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121174",
+    "text_pt": "Essas nuvens cinzentas cobrem todo o céu",
+    "text_en": "These gray clouds cover the whole sky",
+    "audio_en_storage_path": "1174_these_gray_clouds_cover_the_whole_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121175",
+    "text_pt": "Um cobertor cinza cobre toda a vista lá de cima",
+    "text_en": "Gray blanket covers the whole view up there",
+    "audio_en_storage_path": "1175_gray_blanket_covers_the_whole_view_up_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121176",
+    "text_pt": "Um bando de pássaros passou voando por nós agora mesmo",
+    "text_en": "A flock of birds flew past us just now",
+    "audio_en_storage_path": "1176_a_flock_of_birds_flew_past_us_just_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121177",
+    "text_pt": "Um bando de pássaros acabou de voar — fez muito barulho",
+    "text_en": "Bunch of birds just flew by — made a lot of noise",
+    "audio_en_storage_path": "1177_bunch_of_birds_just_flew_by_made_a_lot_of_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121178",
+    "text_pt": "O balão flutua suavemente com o vento",
+    "text_en": "The balloon floats gently with the wind",
+    "audio_en_storage_path": "1178_the_balloon_floats_gently_with_the_wind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121179",
+    "text_pt": "O balão está flutuando onde quer que a brisa o leve",
+    "text_en": "Balloon’s just floatin’ wherever the breeze takes it",
+    "audio_en_storage_path": "1179_balloons_just_floatin_wherever_the_breeze_takes_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121180",
+    "text_pt": "Aquele helicóptero pousou não muito longe daqui",
+    "text_en": "That helicopter landed not far from here",
+    "audio_en_storage_path": "1180_that_helicopter_landed_not_far_from_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121181",
+    "text_pt": "O helicóptero pousou não muito longe",
+    "text_en": "Chopper touched down not too far away",
+    "audio_en_storage_path": "1181_chopper_touched_down_not_too_far_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121182",
+    "text_pt": "A pipa se move com o vento e fica no alto",
+    "text_en": "The kite moves with the wind and stays up high",
+    "audio_en_storage_path": "1182_the_kite_moves_with_the_wind_and_stays_up_high.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121183",
+    "text_pt": "A pipa dança com o ar e nunca quer cair",
+    "text_en": "Kite dances with the air and never wants to fall",
+    "audio_en_storage_path": "1183_kite_dances_with_the_air_and_never_wants_to_fall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121184",
+    "text_pt": "Eu vi um relâmpago atrás daquelas montanhas",
+    "text_en": "I saw lightning flash behind those mountains",
+    "audio_en_storage_path": "1184_i_saw_lightning_flash_behind_those_mountains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121185",
+    "text_pt": "Vi um grande relâmpago atrás daquelas colinas",
+    "text_en": "Saw a big flash of lightning behind those hills",
+    "audio_en_storage_path": "1185_saw_a_big_flash_of_lightning_behind_those_hills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121186",
+    "text_pt": "A chuva começou suave, mas rapidamente ficou forte",
+    "text_en": "The rain started softly but got heavier fast",
+    "audio_en_storage_path": "1186_the_rain_started_softly_but_got_heavier_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121187",
+    "text_pt": "Começou a chover e depois virou uma chuva torrencial",
+    "text_en": "Started drizzlin’. then turned into a full-on pour",
+    "audio_en_storage_path": "1187_started_drizzlin_then_turned_into_a_fullon_pour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121188",
+    "text_pt": "As nuvens parecem animais se você usar sua imaginação",
+    "text_en": "The clouds look like animals if you use your imagination",
+    "audio_en_storage_path": "1188_the_clouds_look_like_animals_if_you_use_your_imagination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121189",
+    "text_pt": "Se você apertar os olhos, essas nuvens parecem elefantes ou dragões.",
+    "text_en": "If ya squint. those clouds look like elephants or dragons",
+    "audio_en_storage_path": "1189_if_ya_squint_those_clouds_look_like_elephants_or_dragons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121190",
+    "text_pt": "Você conseguiu ouvir o trovão de dentro da casa?",
+    "text_en": "Could you hear the thunder from inside the house?",
+    "audio_en_storage_path": "1190_could_you_hear_the_thunder_from_inside_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121191",
+    "text_pt": "Você viu aquele trovão enquanto estava lá dentro?",
+    "text_en": "Did ya catch that thunder while you were inside?",
+    "audio_en_storage_path": "1191_did_ya_catch_that_thunder_while_you_were_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121192",
+    "text_pt": "A tempestade passou e agora o céu está limpo novamente",
+    "text_en": "The storm passed and now the sky is clear again",
+    "audio_en_storage_path": "1192_the_storm_passed_and_now_the_sky_is_clear_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121193",
+    "text_pt": "A tempestade passou e agora o céu está azul novamente",
+    "text_en": "Storm moved on and now the sky’s back to blue",
+    "audio_en_storage_path": "1193_storm_moved_on_and_now_the_skys_back_to_blue.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121194",
+    "text_pt": "Deixe-me tirar uma foto daquele lindo pôr do sol",
+    "text_en": "Let me take a picture of that beautiful sunset",
+    "audio_en_storage_path": "1194_let_me_take_a_picture_of_that_beautiful_sunset.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121195",
+    "text_pt": "Vou tirar uma foto daquele céu de cores malucas",
+    "text_en": "Gonna snap a photo of that crazy-colored sky",
+    "audio_en_storage_path": "1195_gonna_snap_a_photo_of_that_crazycolored_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121196",
+    "text_pt": "Se você ouvir com atenção, poderá ouvir o vento soprando.",
+    "text_en": "If you listen carefully. you can hear the wind blowing",
+    "audio_en_storage_path": "1196_if_you_listen_carefully_you_can_hear_the_wind_blowing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121197",
+    "text_pt": "Coloque seus ouvidos em alerta — o vento está sussurrando através das árvores",
+    "text_en": "Put your ears on alert — wind’s whisperin’ through the trees",
+    "audio_en_storage_path": "1197_put_your_ears_on_alert_winds_whisperin_through_the_trees.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121198",
+    "text_pt": "Fique seco e continue sorrindo",
+    "text_en": "Stay dry and keep smiling",
+    "audio_en_storage_path": "1198_stay_dry_and_keep_smiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121199",
+    "text_pt": "Mantenha-se aquecido e use aquele sorriso",
+    "text_en": "Keep yourself warm and wear that smile",
+    "audio_en_storage_path": "1199_keep_yourself_warm_and_wear_that_smile.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121200",
+    "text_pt": "Título do grupo – Conversando sobre o céu e a natureza",
+    "text_en": "Group Title – Talking About the Sky and Nature",
+    "audio_en_storage_path": "1200_group_title_talking_about_the_sky_and_nature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121201",
+    "text_pt": "O que faz o céu ficar vermelho ao pôr do sol?",
+    "text_en": "What makes the sky turn red at sunset?",
+    "audio_en_storage_path": "1201_what_makes_the_sky_turn_red_at_sunset.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121202",
+    "text_pt": "O que você acha que faz o céu ficar todo vermelho à noite?",
+    "text_en": "Whaddya think makes the sky go all red at night?",
+    "audio_en_storage_path": "1202_whaddya_think_makes_the_sky_go_all_red_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121203",
+    "text_pt": "Por que as nuvens mudam de forma com tanta frequência?",
+    "text_en": "Why do clouds change shape so often?",
+    "audio_en_storage_path": "1203_why_do_clouds_change_shape_so_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121204",
+    "text_pt": "Por que as nuvens mudam de aparência o tempo todo?",
+    "text_en": "Why do clouds keep changin’ their look all the time?",
+    "audio_en_storage_path": "1204_why_do_clouds_keep_changin_their_look_all_the_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121205",
+    "text_pt": "Quão alto os aviões podem voar?",
+    "text_en": "How high can airplanes fly?",
+    "audio_en_storage_path": "1205_how_high_can_airplanes_fly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121206",
+    "text_pt": "Quão alto os aviões voam?",
+    "text_en": "How far up do planes go when they’re flyin’?",
+    "audio_en_storage_path": "1206_how_far_up_do_planes_go_when_theyre_flyin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121207",
+    "text_pt": "Às vezes você consegue ver a lua durante o dia?",
+    "text_en": "Can you see the moon during the day sometimes?",
+    "audio_en_storage_path": "1207_can_you_see_the_moon_during_the_day_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121208",
+    "text_pt": "Você já viu a lua quando o sol ainda estava alto?",
+    "text_en": "You ever spot the moon when the sun’s still up?",
+    "audio_en_storage_path": "1208_you_ever_spot_the_moon_when_the_suns_still_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121209",
+    "text_pt": "O que causa raios durante uma tempestade?",
+    "text_en": "What causes lightning during a storm?",
+    "audio_en_storage_path": "1209_what_causes_lightning_during_a_storm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121210",
+    "text_pt": "O que faz esses raios acontecerem?",
+    "text_en": "What makes those lightning strikes happen?",
+    "audio_en_storage_path": "1210_what_makes_those_lightning_strikes_happen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121211",
+    "text_pt": "Por que as estrelas brilham no céu?",
+    "text_en": "Why do stars twinkle in the sky?",
+    "audio_en_storage_path": "1211_why_do_stars_twinkle_in_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121212",
+    "text_pt": "Por que as estrelas dançam e piscam desse jeito?",
+    "text_en": "Why do stars kinda dance and flicker like that?",
+    "audio_en_storage_path": "1212_why_do_stars_kinda_dance_and_flicker_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121213",
+    "text_pt": "Como um balão se mantém no ar?",
+    "text_en": "How does a balloon stay in the air?",
+    "audio_en_storage_path": "1213_how_does_a_balloon_stay_in_the_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121214",
+    "text_pt": "Como os balões flutuam desse jeito sem cair?",
+    "text_en": "How do balloons float like that without fallin’?",
+    "audio_en_storage_path": "1214_how_do_balloons_float_like_that_without_fallin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121215",
+    "text_pt": "O que acontece quando duas nuvens colidem?",
+    "text_en": "What happens when two clouds collide?",
+    "audio_en_storage_path": "1215_what_happens_when_two_clouds_collide.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121216",
+    "text_pt": "O que acontece quando as nuvens colidem umas com as outras?",
+    "text_en": "What goes down when clouds bump into each other?",
+    "audio_en_storage_path": "1216_what_goes_down_when_clouds_bump_into_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121217",
+    "text_pt": "Para onde os pássaros vão quando chove?",
+    "text_en": "Where do birds go when it rains?",
+    "audio_en_storage_path": "1217_where_do_birds_go_when_it_rains.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121218",
+    "text_pt": "Onde os pássaros se escondem quando começa a chover?",
+    "text_en": "Where do birds hide when it starts to pour?",
+    "audio_en_storage_path": "1218_where_do_birds_hide_when_it_starts_to_pour.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121219",
+    "text_pt": "Como os pilotos sabem para onde estão indo?",
+    "text_en": "How do pilots know where they’re going?",
+    "audio_en_storage_path": "1219_how_do_pilots_know_where_theyre_going.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121220",
+    "text_pt": "Como os pilotos conseguem pilotar essa coisa sem se perder?",
+    "text_en": "How do pilots steer that thing without gettin’ lost?",
+    "audio_en_storage_path": "1220_how_do_pilots_steer_that_thing_without_gettin_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121221",
+    "text_pt": "Por que as pipas voam melhor em dias ventosos?",
+    "text_en": "Why do kites fly better on windy days?",
+    "audio_en_storage_path": "1221_why_do_kites_fly_better_on_windy_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121222",
+    "text_pt": "Por que as pipas funcionam melhor quando o vento sopra forte?",
+    "text_en": "Why do kites work best when the wind’s blowin’ hard?",
+    "audio_en_storage_path": "1222_why_do_kites_work_best_when_the_winds_blowin_hard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121223",
+    "text_pt": "O que faz um arco-íris aparecer depois da chuva?",
+    "text_en": "What makes a rainbow appear after the rain?",
+    "audio_en_storage_path": "1223_what_makes_a_rainbow_appear_after_the_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121224",
+    "text_pt": "O que você acha que faz esse arco de cores aparecer depois da chuva?",
+    "text_en": "Whatcha think makes that color arc pop up after rain?",
+    "audio_en_storage_path": "1224_whatcha_think_makes_that_color_arc_pop_up_after_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121225",
+    "text_pt": "Os helicópteros podem voar tão alto quanto os aviões?",
+    "text_en": "Can helicopters fly as high as airplanes?",
+    "audio_en_storage_path": "1225_can_helicopters_fly_as_high_as_airplanes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121226",
+    "text_pt": "Os helicópteros conseguem voar tão alto quanto aviões comuns?",
+    "text_en": "Can choppers go as high as regular planes?",
+    "audio_en_storage_path": "1226_can_choppers_go_as_high_as_regular_planes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121227",
+    "text_pt": "Quanto tempo um pássaro pode ficar no ar sem pousar?",
+    "text_en": "How long can a bird stay in the air without landing?",
+    "audio_en_storage_path": "1227_how_long_can_a_bird_stay_in_the_air_without_landing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121228",
+    "text_pt": "Quanto tempo um pássaro consegue voar sem parar?",
+    "text_en": "How long can a bird stay flyin’ without takin’ a break?",
+    "audio_en_storage_path": "1228_how_long_can_a_bird_stay_flyin_without_takin_a_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121229",
+    "text_pt": "Obrigado por observar o céu comigo",
+    "text_en": "Thanks for watching the sky with me",
+    "audio_en_storage_path": "1229_thanks_for_watching_the_sky_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121230",
+    "text_pt": "Agradeço a companhia — obrigado por cuidar de mim",
+    "text_en": "Appreciate the company — thanks for lookin’ up with me",
+    "audio_en_storage_path": "1230_appreciate_the_company_thanks_for_lookin_up_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121261",
+    "text_pt": "Tempo e o Céu",
+    "text_en": "Weather and the Sky",
+    "audio_en_storage_path": "1261_weather_and_the_sky.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121262",
+    "text_pt": "O céu está nublado hoje, mas não está chovendo",
+    "text_en": "The sky is cloudy today but it’s not raining",
+    "audio_en_storage_path": "1262_the_sky_is_cloudy_today_but_its_not_raining.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121263",
+    "text_pt": "O céu está todo cinza hoje, mas nenhuma gota está caindo ainda",
+    "text_en": "Sky’s all gray today but no drops fallin’ yet",
+    "audio_en_storage_path": "1263_skys_all_gray_today_but_no_drops_fallin_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121264",
+    "text_pt": "Esta jaqueta me ajuda a ficar aquecido quando está frio",
+    "text_en": "This jacket helps me stay warm when it’s cold",
+    "audio_en_storage_path": "1264_this_jacket_helps_me_stay_warm_when_its_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121265",
+    "text_pt": "Este casaco me impede de congelar quando está frio",
+    "text_en": "This coat keeps me from freezin’ when it’s chilly",
+    "audio_en_storage_path": "1265_this_coat_keeps_me_from_freezin_when_its_chilly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121266",
+    "text_pt": "Parece que uma tempestade está chegando",
+    "text_en": "It looks like a storm is coming soon",
+    "audio_en_storage_path": "1266_it_looks_like_a_storm_is_coming_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121267",
+    "text_pt": "A tempestade está a caminho — as nuvens estão ficando pesadas",
+    "text_en": "Storm’s on its way — clouds are gettin’ heavy",
+    "audio_en_storage_path": "1267_storms_on_its_way_clouds_are_gettin_heavy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121268",
+    "text_pt": "Há nuvens escuras à distância",
+    "text_en": "There are dark clouds in the distance",
+    "audio_en_storage_path": "1268_there_are_dark_clouds_in_the_distance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121269",
+    "text_pt": "Escuros distantes — não parecem muito amigáveis",
+    "text_en": "Dark ones far away — don’t look too friendly",
+    "audio_en_storage_path": "1269_dark_ones_far_away_dont_look_too_friendly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121270",
+    "text_pt": "A que horas a chuva vai começar?",
+    "text_en": "What time will the rain start?",
+    "audio_en_storage_path": "1270_what_time_will_the_rain_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121271",
+    "text_pt": "O que você acha — quando a chuva vai nos atingir?",
+    "text_en": "Whaddya think — when’s the rain gonna hit us?",
+    "audio_en_storage_path": "1271_whaddya_think_whens_the_rain_gonna_hit_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121272",
+    "text_pt": "Espero que não chova durante o piquenique",
+    "text_en": "I hope it doesn’t rain during the picnic",
+    "audio_en_storage_path": "1272_i_hope_it_doesnt_rain_during_the_picnic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121273",
+    "text_pt": "Espero que isso dure até o nosso piquenique acabar",
+    "text_en": "Hope it holds off ‘til our picnic’s over",
+    "audio_en_storage_path": "1273_hope_it_holds_off_til_our_picnics_over.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121274",
+    "text_pt": "Talvez devêssemos trazer um guarda-chuva para o caso de",
+    "text_en": "Maybe we should bring an umbrella just in case",
+    "audio_en_storage_path": "1274_maybe_we_should_bring_an_umbrella_just_in_case.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121275",
+    "text_pt": "Talvez pegue um guarda-chuva só para ficar seguro",
+    "text_en": "Maybe grab an umbrella just to be safe",
+    "audio_en_storage_path": "1275_maybe_grab_an_umbrella_just_to_be_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121276",
+    "text_pt": "Você pode sentir o vento soprando do leste",
+    "text_en": "You can feel the wind blowing from the east",
+    "audio_en_storage_path": "1276_you_can_feel_the_wind_blowing_from_the_east.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121277",
+    "text_pt": "O vento sopra do leste — posso senti-lo no meu rosto",
+    "text_en": "Wind’s pushin’ in from the east — can feel it on my face",
+    "audio_en_storage_path": "1277_winds_pushin_in_from_the_east_can_feel_it_on_my_face.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121278",
+    "text_pt": "O sol sai todas as manhãs por aqui",
+    "text_en": "The sun comes out every morning around here",
+    "audio_en_storage_path": "1278_the_sun_comes_out_every_morning_around_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121279",
+    "text_pt": "O sol nasce cedo todos os dias se o céu estiver limpo",
+    "text_en": "Sun shows up early every day if skies are clear",
+    "audio_en_storage_path": "1279_sun_shows_up_early_every_day_if_skies_are_clear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121280",
+    "text_pt": "Se você me perguntar, o verão começa na semana que vem",
+    "text_en": "If you ask me. summer starts next week",
+    "audio_en_storage_path": "1280_if_you_ask_me_summer_starts_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121281",
+    "text_pt": "Pelo que ouvi, o verão começa na próxima semana.",
+    "text_en": "From what I heard. summer kicks off next week",
+    "audio_en_storage_path": "1281_from_what_i_heard_summer_kicks_off_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121282",
+    "text_pt": "Eles disseram que esse clima era inesperado",
+    "text_en": "They said this weather was unexpected",
+    "audio_en_storage_path": "1282_they_said_this_weather_was_unexpected.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121283",
+    "text_pt": "Não esperava tanta chuva — pegou todo mundo desprevenido",
+    "text_en": "Didn’t expect this much rain — caught everyone off guard",
+    "audio_en_storage_path": "1283_didnt_expect_this_much_rain_caught_everyone_off_guard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121284",
+    "text_pt": "Deixe-me verificar o aplicativo de previsão do tempo rapidamente",
+    "text_en": "Let me check the weather app real quick",
+    "audio_en_storage_path": "1284_let_me_check_the_weather_app_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121285",
+    "text_pt": "Deixe-me abrir o aplicativo do tempo por um segundo",
+    "text_en": "Lemme pull up the weather app for a sec",
+    "audio_en_storage_path": "1285_lemme_pull_up_the_weather_app_for_a_sec.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121286",
+    "text_pt": "Hoje está mais frio que ontem",
+    "text_en": "Today feels colder than yesterday",
+    "audio_en_storage_path": "1286_today_feels_colder_than_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121287",
+    "text_pt": "Está muito mais frio hoje do que ontem",
+    "text_en": "Feels way chillier today than it did yesterday",
+    "audio_en_storage_path": "1287_feels_way_chillier_today_than_it_did_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121288",
+    "text_pt": "Não se esqueça do seu cachecol se sair",
+    "text_en": "Don’t forget your scarf if you go outside",
+    "audio_en_storage_path": "1288_dont_forget_your_scarf_if_you_go_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121289",
+    "text_pt": "Não saia sem aquele cachecol — está congelando",
+    "text_en": "Don’t step out without that scarf — it’s freezing",
+    "audio_en_storage_path": "1289_dont_step_out_without_that_scarf_its_freezing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121290",
+    "text_pt": "Tome cuidado e mantenha-se seco",
+    "text_en": "Take care and keep dry",
+    "audio_en_storage_path": "1290_take_care_and_keep_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121291",
+    "text_pt": "Mantenha-se aquecido e aproveite o dia",
+    "text_en": "Stay warm and enjoy the day",
+    "audio_en_storage_path": "1291_stay_warm_and_enjoy_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

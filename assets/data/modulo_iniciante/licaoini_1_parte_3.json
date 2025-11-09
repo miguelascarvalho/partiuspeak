@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103660",
+    "text_pt": "Você pode me ensinar inglês?",
+    "text_en": "Can you teach me English?",
+    "audio_en_storage_path": "2760_can_you_teach_me_english.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103661",
+    "text_pt": "Olá! Tenho uma pergunta.",
+    "text_en": "Hello! I have a question.",
+    "audio_en_storage_path": "2761_hello_i_have_a_question.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103662",
+    "text_pt": "Vá em frente. tentarei ajudar.",
+    "text_en": "Go ahead — I’ll try to help.",
+    "audio_en_storage_path": "2762_go_ahead_ill_try_to_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103663",
+    "text_pt": "Você poderia me ensinar algumas palavras em inglês?",
+    "text_en": "Could you teach me some English words?",
+    "audio_en_storage_path": "2763_could_you_teach_me_some_english_words.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103664",
+    "text_pt": "Claro! O que você quer aprender?",
+    "text_en": "Sure! What do you want to learn?",
+    "audio_en_storage_path": "2764_sure_what_do_you_want_to_learn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103665",
+    "text_pt": "Conversação básica — saudações e perguntas.",
+    "text_en": "Basic conversation — greetings and questions.",
+    "audio_en_storage_path": "2765_basic_conversation_greetings_and_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103666",
+    "text_pt": "Calma! Vou anotar para você.",
+    "text_en": "Easy! I'll write them down for you.",
+    "audio_en_storage_path": "2766_easy_ill_write_them_down_for_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103667",
+    "text_pt": "E amanhã eu posso te ensinar português!",
+    "text_en": "And tomorrow. I can teach you Portuguese!",
+    "audio_en_storage_path": "2767_and_tomorrow_i_can_teach_you_portuguese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103668",
+    "text_pt": "Combinado! Intercâmbio de idiomas — parece perfeito.",
+    "text_en": "Deal! Language exchange — sounds perfect.",
+    "audio_en_storage_path": "2768_deal_language_exchange_sounds_perfect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103669",
+    "text_pt": "Ensina inglês. aprenda português",
+    "text_en": "Teach English. learn Portuguese",
+    "audio_en_storage_path": "2769_teach_english_learn_portuguese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103670",
+    "text_pt": "Olá! Vi você falando inglês antes — posso perguntar uma coisa?",
+    "text_en": "Hi! I saw you speak English earlier — can I ask something?",
+    "audio_en_storage_path": "2770_hi_i_saw_you_speak_english_earlier_can_i_ask_something.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103671",
+    "text_pt": "Claro! O que você está pensando?",
+    "text_en": "Of course! What's on your mind?",
+    "audio_en_storage_path": "2771_of_course_whats_on_your_mind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103672",
+    "text_pt": "Quero praticar inglês.",
+    "text_en": "I want to practice speaking English.",
+    "audio_en_storage_path": "2772_i_want_to_practice_speaking_english.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103673",
+    "text_pt": "Eu posso ajudar! E vou praticar português com você.",
+    "text_en": "I can help! And I’ll practice Portuguese with you.",
+    "audio_en_storage_path": "2773_i_can_help_and_ill_practice_portuguese_with_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103674",
+    "text_pt": "Que ótima ideia! Quando podemos começar?",
+    "text_en": "That's a great idea! When can we start?",
+    "audio_en_storage_path": "2774_thats_a_great_idea_when_can_we_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103675",
+    "text_pt": "Hoje à noite! Apareça depois do jantar.",
+    "text_en": "Tonight! Eat over after dinner.",
+    "audio_en_storage_path": "2775_tonight_eat_over_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103676",
+    "text_pt": "Eu trarei café e lanches.",
+    "text_en": "I’ll bring coffee and snacks.",
+    "audio_en_storage_path": "2776_ill_bring_coffee_and_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103677",
+    "text_pt": "Perfeito — até breve!",
+    "text_en": "Perfect — see you soon!",
+    "audio_en_storage_path": "2777_perfect_see_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103678",
+    "text_pt": "Gosta de fazer o quê?",
+    "text_en": "What do you like to do?",
+    "audio_en_storage_path": "2778_what_do_you_like_to_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103679",
+    "text_pt": "Ei! O que você gosta de fazer no seu tempo livre?",
+    "text_en": "Hey! What do you like doing in your free time?",
+    "audio_en_storage_path": "2779_hey_what_do_you_like_doing_in_your_free_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103680",
+    "text_pt": "Principalmente lendo e indo à academia.",
+    "text_en": "Mostly reading and going to the gym.",
+    "audio_en_storage_path": "2780_mostly_reading_and_going_to_the_gym.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103681",
+    "text_pt": "Eu também — e adoro assistir filmes.",
+    "text_en": "Me too — and I love watching movies.",
+    "audio_en_storage_path": "2781_me_too_and_i_love_watching_movies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103682",
+    "text_pt": "Sério? Que tipo?",
+    "text_en": "Really? What kind?",
+    "audio_en_storage_path": "2782_really_what_kind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103683",
+    "text_pt": "Ação e comédias — nada muito sério.",
+    "text_en": "Action and comedies — nothing too serious.",
+    "audio_en_storage_path": "2783_action_and_comedies_nothing_too_serious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103684",
+    "text_pt": "Gosto de dramas — mas às vezes entro neles.",
+    "text_en": "I’m into dramas — but sometimes I join.",
+    "audio_en_storage_path": "2784_im_into_dramas_but_sometimes_i_join.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103685",
+    "text_pt": "Ótimo! Quem sabe na próxima noite de filme juntos.",
+    "text_en": "Great! Maybe next movie night together.",
+    "audio_en_storage_path": "2785_great_maybe_next_movie_night_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103686",
+    "text_pt": "Adorei a ideia — conte comigo.",
+    "text_en": "Love that idea — count me in.",
+    "audio_en_storage_path": "2786_love_that_idea_count_me_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

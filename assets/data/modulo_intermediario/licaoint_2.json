@@ -1,0 +1,1163 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110141",
+    "text_pt": "Terça-feira – Dia de Foco",
+    "text_en": "Tuesday – Focus Day",
+    "audio_en_storage_path": "141_tuesday_focus_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110142",
+    "text_pt": "Foco: Trabalho concentrado. Reuniões. Produtividade.",
+    "text_en": "Focus: Concentrated work. Meetings. Productivity",
+    "audio_en_storage_path": "142_focus_concentrated_work_meetings_productivity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110143",
+    "text_pt": "Acordo às 6:30 novamente.",
+    "text_en": "I wake up at 6:30 again.",
+    "audio_en_storage_path": "143_i_wake_up_at_630_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110144",
+    "text_pt": "Faz parte da minha rotina diária.",
+    "text_en": "It's part of my daily routine.",
+    "audio_en_storage_path": "144_its_part_of_my_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110145",
+    "text_pt": "Eu faço café e como cereal.",
+    "text_en": "I make coffee and eat cereal.",
+    "audio_en_storage_path": "145_i_make_coffee_and_eat_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110146",
+    "text_pt": "Rápido, mas saudável.",
+    "text_en": "Quick but healthy.",
+    "audio_en_storage_path": "146_quick_but_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110147",
+    "text_pt": "Chego ao trabalho às 7:45.",
+    "text_en": "I arrive at work at 7:45.",
+    "audio_en_storage_path": "147_i_arrive_at_work_at_745.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110148",
+    "text_pt": "Começo a verificar minha agenda.",
+    "text_en": "I start checking my schedule.",
+    "audio_en_storage_path": "148_i_start_checking_my_schedule.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110149",
+    "text_pt": "Temos uma reunião de equipe às 9:00.",
+    "text_en": "We have a team meeting at 9:00.",
+    "audio_en_storage_path": "149_we_have_a_team_meeting_at_900.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110150",
+    "text_pt": "Compartilho atualizações sobre meus projetos.",
+    "text_en": "I share updates about my projects.",
+    "audio_en_storage_path": "150_i_share_updates_about_my_projects.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110151",
+    "text_pt": "Depois da reunião, escrevo relatórios.",
+    "text_en": "After the meeting. I write reports.",
+    "audio_en_storage_path": "151_after_the_meeting_i_write_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110152",
+    "text_pt": "Eu também envio alguns e-mails.",
+    "text_en": "I also send some emails.",
+    "audio_en_storage_path": "152_i_also_send_some_emails.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110153",
+    "text_pt": "Na hora do almoço, como com colegas de trabalho.",
+    "text_en": "At lunchtime. I eat with coworkers.",
+    "audio_en_storage_path": "153_at_lunchtime_i_eat_with_coworkers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110154",
+    "text_pt": "Falamos sobre trabalho e vida.",
+    "text_en": "We talk about work and life.",
+    "audio_en_storage_path": "154_we_talk_about_work_and_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110155",
+    "text_pt": "Quem é seu gerente?",
+    "text_en": "Who is your manager?",
+    "audio_en_storage_path": "155_who_is_your_manager.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110156",
+    "text_pt": "O nome dela é Sarah. Ela é simpática.",
+    "text_en": "Her name is Sarah. She is nice.",
+    "audio_en_storage_path": "156_her_name_is_sarah_she_is_nice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110157",
+    "text_pt": "Onde fica seu escritório?",
+    "text_en": "Where is your office?",
+    "audio_en_storage_path": "157_where_is_your_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110158",
+    "text_pt": "Fica no terceiro andar.",
+    "text_en": "It's on the third floor.",
+    "audio_en_storage_path": "158_its_on_the_third_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110159",
+    "text_pt": "Quando você geralmente se sente cansado?",
+    "text_en": "When do you usually feel tired?",
+    "audio_en_storage_path": "159_when_do_you_usually_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110160",
+    "text_pt": "Por volta das 15:00.",
+    "text_en": "Around 3:00 PM.",
+    "audio_en_storage_path": "160_around_300_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110161",
+    "text_pt": "Eu uso meu computador o dia todo.",
+    "text_en": "I use my computer all day.",
+    "audio_en_storage_path": "161_i_use_my_computer_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110162",
+    "text_pt": "Isso me ajuda a organizar meu trabalho.",
+    "text_en": "It helps me organize my work.",
+    "audio_en_storage_path": "162_it_helps_me_organize_my_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110163",
+    "text_pt": "Amanhã. Não chegarei atrasado para a reunião.",
+    "text_en": "Tomorrow. I will not be late for the meeting.",
+    "audio_en_storage_path": "163_tomorrow_i_will_not_be_late_for_the_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110164",
+    "text_pt": "Chegarei cedo.",
+    "text_en": "I will arrive early.",
+    "audio_en_storage_path": "164_i_will_arrive_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110165",
+    "text_pt": "Ótimo trabalho de foco hoje!",
+    "text_en": "Great job focusing today!",
+    "audio_en_storage_path": "165_great_job_focusing_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110166",
+    "text_pt": "Continue firme e forte esta semana!",
+    "text_en": "Keep going strong this week!",
+    "audio_en_storage_path": "166_keep_going_strong_this_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110167",
+    "text_pt": "Terça-feira – Meu Irmão",
+    "text_en": "Tuesday – My Brother",
+    "audio_en_storage_path": "167_tuesday_my_brother.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110168",
+    "text_pt": "Foco: As ações do meu irmão na vida cotidiana",
+    "text_en": "Focus: My brother's actions in everyday life",
+    "audio_en_storage_path": "168_focus_my_brothers_actions_in_everyday_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110169",
+    "text_pt": "Ele acorda tarde nos fins de semana.",
+    "text_en": "He wakes up late on weekends.",
+    "audio_en_storage_path": "169_he_wakes_up_late_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110170",
+    "text_pt": "Mas durante a semana ele acorda às 7:00.",
+    "text_en": "But on weekdays. he gets up at 7:00.",
+    "audio_en_storage_path": "170_but_on_weekdays_he_gets_up_at_700.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110171",
+    "text_pt": "Ele come cereal ou ovos no café da manhã.",
+    "text_en": "He eats cereal or eggs for breakfast.",
+    "audio_en_storage_path": "171_he_eats_cereal_or_eggs_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110172",
+    "text_pt": "Depois ele pega o ônibus para a escola.",
+    "text_en": "Then he takes the bus to school.",
+    "audio_en_storage_path": "172_then_he_takes_the_bus_to_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110173",
+    "text_pt": "Ele estuda matemática e ciências.",
+    "text_en": "He studies math and science.",
+    "audio_en_storage_path": "173_he_studies_math_and_science.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110174",
+    "text_pt": "Ele também pratica esportes depois das aulas.",
+    "text_en": "He also plays sports after class.",
+    "audio_en_storage_path": "174_he_also_plays_sports_after_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110175",
+    "text_pt": "Depois da escola, ele encontra amigos.",
+    "text_en": "After school. he meets friends.",
+    "audio_en_storage_path": "175_after_school_he_meets_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110176",
+    "text_pt": "Eles jogam ou andam de bicicleta.",
+    "text_en": "They play games or ride bikes.",
+    "audio_en_storage_path": "176_they_play_games_or_ride_bikes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110177",
+    "text_pt": "À noite, ele assiste TV.",
+    "text_en": "In the evening. he watches TV.",
+    "audio_en_storage_path": "177_in_the_evening_he_watches_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110178",
+    "text_pt": "Ou ele ouve música em seu quarto.",
+    "text_en": "Or he listens to music in his room.",
+    "audio_en_storage_path": "178_or_he_listens_to_music_in_his_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110179",
+    "text_pt": "Às vezes ele me ajuda com a lição de casa.",
+    "text_en": "He sometimes helps me with homework.",
+    "audio_en_storage_path": "179_he_sometimes_helps_me_with_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110180",
+    "text_pt": "Ele também sabe muito sobre computadores.",
+    "text_en": "He knows a lot about computers too.",
+    "audio_en_storage_path": "180_he_knows_a_lot_about_computers_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110181",
+    "text_pt": "Quem é seu irmão?",
+    "text_en": "Who is your brother?",
+    "audio_en_storage_path": "181_who_is_your_brother.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110182",
+    "text_pt": "Ele é o menino mais velho da nossa família.",
+    "text_en": "He is the oldest boy in our family.",
+    "audio_en_storage_path": "182_he_is_the_oldest_boy_in_our_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110183",
+    "text_pt": "Aonde ele vai toda manhã?",
+    "text_en": "Where does he go every morning?",
+    "audio_en_storage_path": "183_where_does_he_go_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110184",
+    "text_pt": "Ele estuda em uma escola perto da nossa casa.",
+    "text_en": "He goes to high school near our house.",
+    "audio_en_storage_path": "184_he_goes_to_high_school_near_our_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110185",
+    "text_pt": "Quando ele se sente cansado?",
+    "text_en": "When does he feel tired?",
+    "audio_en_storage_path": "185_when_does_he_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110186",
+    "text_pt": "Geralmente por volta das 21:00.",
+    "text_en": "Usually around 9:00 PM.",
+    "audio_en_storage_path": "186_usually_around_900_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110187",
+    "text_pt": "Ele estuda muito todos os dias.",
+    "text_en": "He studies hard every day.",
+    "audio_en_storage_path": "187_he_studies_hard_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110188",
+    "text_pt": "Ele quer ser professor quando crescer.",
+    "text_en": "He wants to be a teacher when he grows up.",
+    "audio_en_storage_path": "188_he_wants_to_be_a_teacher_when_he_grows_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110189",
+    "text_pt": "Na próxima semana, ele não vai mais esquecer seus livros.",
+    "text_en": "Next week. he will not forget his books again.",
+    "audio_en_storage_path": "189_next_week_he_will_not_forget_his_books_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110190",
+    "text_pt": "Ele os guardará na mochila.",
+    "text_en": "He will keep them in his backpack.",
+    "audio_en_storage_path": "190_he_will_keep_them_in_his_backpack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110191",
+    "text_pt": "Bom trabalho hoje, irmão!",
+    "text_en": "Good job today. brother!",
+    "audio_en_storage_path": "191_good_job_today_brother.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110192",
+    "text_pt": "Continue sendo incrível!",
+    "text_en": "Keep being awesome!",
+    "audio_en_storage_path": "192_keep_being_awesome.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110193",
+    "text_pt": "Terça-feira – Minha irmã",
+    "text_en": "Tuesday – My Sister",
+    "audio_en_storage_path": "193_tuesday_my_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110194",
+    "text_pt": "Foco: A rotina da minha irmã durante a semana",
+    "text_en": "Focus: My sister's routine during the week",
+    "audio_en_storage_path": "194_focus_my_sisters_routine_during_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110195",
+    "text_pt": "Ela acorda tarde nos fins de semana.",
+    "text_en": "She wakes up late on weekends.",
+    "audio_en_storage_path": "195_she_wakes_up_late_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110196",
+    "text_pt": "Mas durante a semana ela acorda às 6:30.",
+    "text_en": "But on weekdays. she gets up at 6:30.",
+    "audio_en_storage_path": "196_but_on_weekdays_she_gets_up_at_630.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110197",
+    "text_pt": "Ela come torradas e bebe suco.",
+    "text_en": "She eats toast and drinks juice.",
+    "audio_en_storage_path": "197_she_eats_toast_and_drinks_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110198",
+    "text_pt": "Então ela veste seu uniforme escolar.",
+    "text_en": "Then she puts on her school uniform.",
+    "audio_en_storage_path": "198_then_she_puts_on_her_school_uniform.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110199",
+    "text_pt": "Ela estuda inglês e arte.",
+    "text_en": "She studies English and art.",
+    "audio_en_storage_path": "199_she_studies_english_and_art.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110200",
+    "text_pt": "Ela também desenha e canta na aula.",
+    "text_en": "She also draws and sings in class.",
+    "audio_en_storage_path": "200_she_also_draws_and_sings_in_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110201",
+    "text_pt": "Depois da escola, ela encontra amigos.",
+    "text_en": "After school. she meets friends.",
+    "audio_en_storage_path": "201_after_school_she_meets_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110202",
+    "text_pt": "Eles caminham juntos para casa e conversam.",
+    "text_en": "They walk home together and talk.",
+    "audio_en_storage_path": "202_they_walk_home_together_and_talk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110203",
+    "text_pt": "À noite, ela assiste a shows.",
+    "text_en": "In the evening. she watches shows.",
+    "audio_en_storage_path": "203_in_the_evening_she_watches_shows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110204",
+    "text_pt": "Ou ela manda mensagem para sua melhor amiga.",
+    "text_en": "Or she texts her best friend.",
+    "audio_en_storage_path": "204_or_she_texts_her_best_friend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110205",
+    "text_pt": "Às vezes ela me ajuda com a lição de casa.",
+    "text_en": "She sometimes helps me with homework.",
+    "audio_en_storage_path": "205_she_sometimes_helps_me_with_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110206",
+    "text_pt": "Ela é boa em escrever e ler.",
+    "text_en": "She's good at writing and reading.",
+    "audio_en_storage_path": "206_shes_good_at_writing_and_reading.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110207",
+    "text_pt": "Quem é sua irmã?",
+    "text_en": "Who is your sister?",
+    "audio_en_storage_path": "207_who_is_your_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110208",
+    "text_pt": "Ela é a menina mais nova da nossa família.",
+    "text_en": "She is the youngest girl in our family.",
+    "audio_en_storage_path": "208_she_is_the_youngest_girl_in_our_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110209",
+    "text_pt": "Aonde ela vai toda manhã?",
+    "text_en": "Where does she go every morning?",
+    "audio_en_storage_path": "209_where_does_she_go_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110210",
+    "text_pt": "Ela estuda em uma escola de ensino fundamental perto da nossa casa.",
+    "text_en": "She goes to middle school near our house.",
+    "audio_en_storage_path": "210_she_goes_to_middle_school_near_our_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110211",
+    "text_pt": "Quando ela se sente cansada?",
+    "text_en": "When does she feel tired?",
+    "audio_en_storage_path": "211_when_does_she_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110212",
+    "text_pt": "Geralmente por volta das 20:00.",
+    "text_en": "Usually around 8:00 PM.",
+    "audio_en_storage_path": "212_usually_around_800_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110213",
+    "text_pt": "Ela estuda muito todos os dias.",
+    "text_en": "She studies hard every day.",
+    "audio_en_storage_path": "213_she_studies_hard_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110214",
+    "text_pt": "Ela quer ser escritora quando crescer.",
+    "text_en": "She wants to be a writer when she grows up.",
+    "audio_en_storage_path": "214_she_wants_to_be_a_writer_when_she_grows_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110215",
+    "text_pt": "Na próxima semana, ela não vai esquecer seus livros novamente.",
+    "text_en": "Next week. she will not forget her books again.",
+    "audio_en_storage_path": "215_next_week_she_will_not_forget_her_books_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110216",
+    "text_pt": "Ela os guardará na mochila.",
+    "text_en": "She will keep them in her backpack.",
+    "audio_en_storage_path": "216_she_will_keep_them_in_her_backpack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110217",
+    "text_pt": "Bom trabalho hoje, irmã!",
+    "text_en": "Good job today. sister!",
+    "audio_en_storage_path": "217_good_job_today_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110218",
+    "text_pt": "Continue sendo incrível!",
+    "text_en": "Keep being amazing!",
+    "audio_en_storage_path": "218_keep_being_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110219",
+    "text_pt": "Terça-feira – Minha irmã",
+    "text_en": "Tuesday – My Sister",
+    "audio_en_storage_path": "219_tuesday_my_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110220",
+    "text_pt": "Foco: A rotina da minha irmã durante a semana",
+    "text_en": "Focus: My sister's routine during the week",
+    "audio_en_storage_path": "220_focus_my_sisters_routine_during_the_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110221",
+    "text_pt": "Ela acorda tarde nos fins de semana.",
+    "text_en": "She wakes up late on weekends.",
+    "audio_en_storage_path": "221_she_wakes_up_late_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110222",
+    "text_pt": "Mas durante a semana ela acorda às 6:30.",
+    "text_en": "But on weekdays. she gets up at 6:30.",
+    "audio_en_storage_path": "222_but_on_weekdays_she_gets_up_at_630.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110223",
+    "text_pt": "Ela come torradas e bebe suco.",
+    "text_en": "She eats toast and drinks juice.",
+    "audio_en_storage_path": "223_she_eats_toast_and_drinks_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110224",
+    "text_pt": "Então ela veste seu uniforme escolar.",
+    "text_en": "Then she puts on her school uniform.",
+    "audio_en_storage_path": "224_then_she_puts_on_her_school_uniform.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110225",
+    "text_pt": "Ela estuda inglês e arte.",
+    "text_en": "She studies English and art.",
+    "audio_en_storage_path": "225_she_studies_english_and_art.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110226",
+    "text_pt": "Ela também desenha e canta na aula.",
+    "text_en": "She also draws and sings in class.",
+    "audio_en_storage_path": "226_she_also_draws_and_sings_in_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110227",
+    "text_pt": "Depois da escola, ela encontra amigos.",
+    "text_en": "After school. she meets friends.",
+    "audio_en_storage_path": "227_after_school_she_meets_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110228",
+    "text_pt": "Eles caminham juntos para casa e conversam.",
+    "text_en": "They walk home together and talk.",
+    "audio_en_storage_path": "228_they_walk_home_together_and_talk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110229",
+    "text_pt": "À noite, ela assiste a shows.",
+    "text_en": "In the evening. she watches shows.",
+    "audio_en_storage_path": "229_in_the_evening_she_watches_shows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110230",
+    "text_pt": "Ou ela manda mensagem para sua melhor amiga.",
+    "text_en": "Or she texts her best friend.",
+    "audio_en_storage_path": "230_or_she_texts_her_best_friend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110231",
+    "text_pt": "Às vezes ela me ajuda com a lição de casa.",
+    "text_en": "She sometimes helps me with homework.",
+    "audio_en_storage_path": "231_she_sometimes_helps_me_with_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110232",
+    "text_pt": "Ela é boa em escrever e ler.",
+    "text_en": "She's good at writing and reading.",
+    "audio_en_storage_path": "232_shes_good_at_writing_and_reading.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110233",
+    "text_pt": "Quem é sua irmã?",
+    "text_en": "Who is your sister?",
+    "audio_en_storage_path": "233_who_is_your_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110234",
+    "text_pt": "Ela é a menina mais nova da nossa família.",
+    "text_en": "She is the youngest girl in our family.",
+    "audio_en_storage_path": "234_she_is_the_youngest_girl_in_our_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110235",
+    "text_pt": "Aonde ela vai toda manhã?",
+    "text_en": "Where does she go every morning?",
+    "audio_en_storage_path": "235_where_does_she_go_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110236",
+    "text_pt": "Ela estuda em uma escola de ensino fundamental perto da nossa casa.",
+    "text_en": "She goes to middle school near our house.",
+    "audio_en_storage_path": "236_she_goes_to_middle_school_near_our_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110237",
+    "text_pt": "Quando ela se sente cansada?",
+    "text_en": "When does she feel tired?",
+    "audio_en_storage_path": "237_when_does_she_feel_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110238",
+    "text_pt": "Geralmente por volta das 20:00.",
+    "text_en": "Usually around 8:00 PM.",
+    "audio_en_storage_path": "238_usually_around_800_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110239",
+    "text_pt": "Ela estuda muito todos os dias.",
+    "text_en": "She studies hard every day.",
+    "audio_en_storage_path": "239_she_studies_hard_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110240",
+    "text_pt": "Ela quer ser escritora quando crescer.",
+    "text_en": "She wants to be a writer when she grows up.",
+    "audio_en_storage_path": "240_she_wants_to_be_a_writer_when_she_grows_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110241",
+    "text_pt": "Na próxima semana, ela não vai esquecer seus livros novamente.",
+    "text_en": "Next week. she will not forget her books again.",
+    "audio_en_storage_path": "241_next_week_she_will_not_forget_her_books_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110242",
+    "text_pt": "Ela os guardará na mochila.",
+    "text_en": "She will keep them in her backpack.",
+    "audio_en_storage_path": "242_she_will_keep_them_in_her_backpack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110243",
+    "text_pt": "Bom trabalho hoje, irmã!",
+    "text_en": "Good job today. sister!",
+    "audio_en_storage_path": "243_good_job_today_sister.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110244",
+    "text_pt": "Continue sendo incrível!",
+    "text_en": "Keep being amazing!",
+    "audio_en_storage_path": "244_keep_being_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110245",
+    "text_pt": "Terça-feira – Eles (Amigos)",
+    "text_en": "Tuesday – Them (Friends)",
+    "audio_en_storage_path": "245_tuesday_them_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110247",
+    "text_pt": "Eles acordam cedo de manhã.",
+    "text_en": "They wake up early in the morning.",
+    "audio_en_storage_path": "247_they_wake_up_early_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110248",
+    "text_pt": "Alguns têm empregos ou aulas para frequentar.",
+    "text_en": "Some have jobs or classes to attend.",
+    "audio_en_storage_path": "248_some_have_jobs_or_classes_to_attend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110249",
+    "text_pt": "Eles tomam café da manhã e se vestem rapidamente.",
+    "text_en": "They eat breakfast and get dressed quickly.",
+    "audio_en_storage_path": "249_they_eat_breakfast_and_get_dressed_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110250",
+    "text_pt": "Eles saem de casa por volta das 7h30.",
+    "text_en": "Then they leave home around 7:30.",
+    "audio_en_storage_path": "250_then_they_leave_home_around_730.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110251",
+    "text_pt": "Eles estudam na mesma escola.",
+    "text_en": "They study at the same school.",
+    "audio_en_storage_path": "251_they_study_at_the_same_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110252",
+    "text_pt": "E eles sentam juntos na maioria das aulas.",
+    "text_en": "And they sit together in most classes.",
+    "audio_en_storage_path": "252_and_they_sit_together_in_most_classes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110253",
+    "text_pt": "Depois do almoço, eles praticam esportes ao ar livre.",
+    "text_en": "After lunch. they play sports outside.",
+    "audio_en_storage_path": "253_after_lunch_they_play_sports_outside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110254",
+    "text_pt": "Eles gostam de correr, pular e jogar bola.",
+    "text_en": "They enjoy running. jumping. and playing ball.",
+    "audio_en_storage_path": "254_they_enjoy_running_jumping_and_playing_ball.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110255",
+    "text_pt": "À tarde, eles ouvem música.",
+    "text_en": "In the afternoon. they listen to music.",
+    "audio_en_storage_path": "255_in_the_afternoon_they_listen_to_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110256",
+    "text_pt": "Ou eles ficam perto do parque.",
+    "text_en": "Or they hang out near the park.",
+    "audio_en_storage_path": "256_or_they_hang_out_near_the_park.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110257",
+    "text_pt": "Às vezes eles ajudam um ao outro com a lição de casa.",
+    "text_en": "Sometimes they help each other with homework.",
+    "audio_en_storage_path": "257_sometimes_they_help_each_other_with_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110258",
+    "text_pt": "Eles explicam coisas e estudam juntos.",
+    "text_en": "They explain things and study together.",
+    "audio_en_storage_path": "258_they_explain_things_and_study_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110259",
+    "text_pt": "Quem são eles?",
+    "text_en": "Who are they?",
+    "audio_en_storage_path": "259_who_are_they.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110260",
+    "text_pt": "Eles são meus amigos da escola.",
+    "text_en": "They are my friends from school.",
+    "audio_en_storage_path": "260_they_are_my_friends_from_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110261",
+    "text_pt": "Para onde eles vão depois da aula?",
+    "text_en": "Where do they go after class?",
+    "audio_en_storage_path": "261_where_do_they_go_after_class.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110262",
+    "text_pt": "Alguns vão para casa. Outros se encontram em algum lugar divertido.",
+    "text_en": "Some go home. others meet somewhere fun.",
+    "audio_en_storage_path": "262_some_go_home_others_meet_somewhere_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110263",
+    "text_pt": "Quando eles relaxam?",
+    "text_en": "When do they relax?",
+    "audio_en_storage_path": "263_when_do_they_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110264",
+    "text_pt": "Somente em fins de semana ou feriados.",
+    "text_en": "Only on weekends or holidays.",
+    "audio_en_storage_path": "264_only_on_weekends_or_holidays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110265",
+    "text_pt": "Eles sempre apoiam um ao outro.",
+    "text_en": "They always support each other.",
+    "audio_en_storage_path": "265_they_always_support_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110266",
+    "text_pt": "É isso que os torna bons amigos.",
+    "text_en": "That's what makes them good friends.",
+    "audio_en_storage_path": "266_thats_what_makes_them_good_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110267",
+    "text_pt": "Amanhã. eles não perderão o teste.",
+    "text_en": "Tomorrow. they will not miss the test.",
+    "audio_en_storage_path": "267_tomorrow_they_will_not_miss_the_test.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110268",
+    "text_pt": "Eles estudarão bastante esta noite.",
+    "text_en": "They will study hard tonight.",
+    "audio_en_storage_path": "268_they_will_study_hard_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110269",
+    "text_pt": "Boa sorte, rapazes!",
+    "text_en": "Good luck guys!",
+    "audio_en_storage_path": "269_good_luck_guys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110270",
+    "text_pt": "Espero que você tenha um ótimo dia!",
+    "text_en": "Hope you have a great day!",
+    "audio_en_storage_path": "270_hope_you_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

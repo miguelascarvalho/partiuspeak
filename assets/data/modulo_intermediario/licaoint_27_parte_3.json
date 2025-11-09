@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114697",
+    "text_pt": "Mangueira / Mangueira de jardim",
+    "text_en": "Hose / Garden Hose",
+    "audio_en_storage_path": "4697_hose_garden_hose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114698",
+    "text_pt": "A mangueira do jardim está enrolada na garagem.",
+    "text_en": "The garden hose is coiled in the garage.",
+    "audio_en_storage_path": "4698_the_garden_hose_is_coiled_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114699",
+    "text_pt": "Conectado à torneira externa.",
+    "text_en": "Connected to the outdoor faucet.",
+    "audio_en_storage_path": "4699_connected_to_the_outdoor_faucet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114700",
+    "text_pt": "Eu o uso para lavar o carro ou regar o jardim.",
+    "text_en": "I use it to wash the car or water the garden.",
+    "audio_en_storage_path": "4700_i_use_it_to_wash_the_car_or_water_the_garden.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114701",
+    "text_pt": "Às vezes, para limpar a calçada.",
+    "text_en": "Sometimes to clean the sidewalk.",
+    "audio_en_storage_path": "4701_sometimes_to_clean_the_sidewalk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114702",
+    "text_pt": "É preto com um bico de plástico.",
+    "text_en": "It is black with a plastic nozzle.",
+    "audio_en_storage_path": "4702_it_is_black_with_a_plastic_nozzle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114703",
+    "text_pt": "Tem alguns problemas, mas ainda funciona.",
+    "text_en": "Has a few kinks but still works.",
+    "audio_en_storage_path": "4703_has_a_few_kinks_but_still_works.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114704",
+    "text_pt": "Há baldes, sabão e escovas por perto.",
+    "text_en": "There are buckets. soap. and brushes nearby.",
+    "audio_en_storage_path": "4704_there_are_buckets_soap_and_brushes_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114705",
+    "text_pt": "Pronto para o dia da limpeza.",
+    "text_en": "Ready for cleaning day.",
+    "audio_en_storage_path": "4705_ready_for_cleaning_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114706",
+    "text_pt": "Para que você usa a mangueira?",
+    "text_en": "What do you use the hose for?",
+    "audio_en_storage_path": "4706_what_do_you_use_the_hose_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114707",
+    "text_pt": "Regando o jardim e lavando bicicletas.",
+    "text_en": "Watering the garden and washing bikes.",
+    "audio_en_storage_path": "4707_watering_the_garden_and_washing_bikes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114708",
+    "text_pt": "Onde você guarda a mangueira quando não está em uso?",
+    "text_en": "Where do you keep the hose when not in use?",
+    "audio_en_storage_path": "4708_where_do_you_keep_the_hose_when_not_in_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114709",
+    "text_pt": "Enrolado perfeitamente no anzol.",
+    "text_en": "Coiled neatly on the hook.",
+    "audio_en_storage_path": "4709_coiled_neatly_on_the_hook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114710",
+    "text_pt": "Às vezes eu uso para me refrescar no verão.",
+    "text_en": "Sometimes I use it to cool off in summer.",
+    "audio_en_storage_path": "4710_sometimes_i_use_it_to_cool_off_in_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114711",
+    "text_pt": "Outras vezes apenas para limpar pedras.",
+    "text_en": "Other times just to clean stones.",
+    "audio_en_storage_path": "4711_other_times_just_to_clean_stones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114712",
+    "text_pt": "Onde você deixou o bico?",
+    "text_en": "Where did you leave the nozzle?",
+    "audio_en_storage_path": "4712_where_did_you_leave_the_nozzle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114713",
+    "text_pt": "No chão — talvez debaixo do carro.",
+    "text_en": "On the ground — maybe under the car.",
+    "audio_en_storage_path": "4713_on_the_ground_maybe_under_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114714",
+    "text_pt": "Quando você vai usá-lo novamente?",
+    "text_en": "When will you use it again?",
+    "audio_en_storage_path": "4714_when_will_you_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114715",
+    "text_pt": "Amanhã — depois do almoço.",
+    "text_en": "Tomorrow — after lunch.",
+    "audio_en_storage_path": "4715_tomorrow_after_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114716",
+    "text_pt": "Por que você deixou isso lá fora hoje?",
+    "text_en": "Why did you leave it outside today?",
+    "audio_en_storage_path": "4716_why_did_you_leave_it_outside_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114717",
+    "text_pt": "Esqueci de enrolá-lo depois de lavar.",
+    "text_en": "Forgot to coil it up after washing.",
+    "audio_en_storage_path": "4717_forgot_to_coil_it_up_after_washing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114718",
+    "text_pt": "Ele usa a mangueira todo sábado.",
+    "text_en": "He uses the hose every Saturday.",
+    "audio_en_storage_path": "4718_he_uses_the_hose_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114719",
+    "text_pt": "Mantém o jardim vivo e limpo.",
+    "text_en": "Keeps the garden alive and clean.",
+    "audio_en_storage_path": "4719_keeps_the_garden_alive_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114720",
+    "text_pt": "Amanhã. Não vou esquecer de drenar a água novamente.",
+    "text_en": "Tomorrow. I will not forget to drain the water again.",
+    "audio_en_storage_path": "4720_tomorrow_i_will_not_forget_to_drain_the_water_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114721",
+    "text_pt": "Congelado e rachado no inverno passado.",
+    "text_en": "Frozen and cracked last winter.",
+    "audio_en_storage_path": "4721_frozen_and_cracked_last_winter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114722",
+    "text_pt": "Limpeza e água — tudo em uma ferramenta.",
+    "text_en": "Clean and water — all in one tool.",
+    "audio_en_storage_path": "4722_clean_and_water_all_in_one_tool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114723",
+    "text_pt": "Obrigado, mangueira!",
+    "text_en": "Thanks. hose!",
+    "audio_en_storage_path": "4723_thanks_hose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

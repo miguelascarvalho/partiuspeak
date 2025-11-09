@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110678",
+    "text_pt": "Domingo – Meu Filho",
+    "text_en": "Sunday – My Son",
+    "audio_en_storage_path": "678_sunday_my_son.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110679",
+    "text_pt": "Foco: A rotina de domingo do meu filho",
+    "text_en": "Focus: My son's Sunday routine",
+    "audio_en_storage_path": "679_focus_my_sons_sunday_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110680",
+    "text_pt": "Ele acorda às 9:00 da manhã.",
+    "text_en": "He wakes up at 9:00 AM.",
+    "audio_en_storage_path": "680_he_wakes_up_at_900_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110681",
+    "text_pt": "Sem pressa, é domingo, dia de descanso.",
+    "text_en": "No rush — it’s Sunday. a day to rest.",
+    "audio_en_storage_path": "681_no_rush_its_sunday_a_day_to_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110682",
+    "text_pt": "Ele come panquecas e bebe leite.",
+    "text_en": "He eats pancakes and drinks milk.",
+    "audio_en_storage_path": "682_he_eats_pancakes_and_drinks_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110683",
+    "text_pt": "Seu café da manhã favorito nos fins de semana.",
+    "text_en": "His favorite breakfast on weekends.",
+    "audio_en_storage_path": "683_his_favorite_breakfast_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110684",
+    "text_pt": "Ele brinca com brinquedos ou desenha figuras.",
+    "text_en": "He plays with toys or draws pictures.",
+    "audio_en_storage_path": "684_he_plays_with_toys_or_draws_pictures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110685",
+    "text_pt": "Às vezes lemos livros juntos.",
+    "text_en": "Sometimes we read books together.",
+    "audio_en_storage_path": "685_sometimes_we_read_books_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110686",
+    "text_pt": "Nós vamos ao parque à tarde.",
+    "text_en": "We go to the park in the afternoon.",
+    "audio_en_storage_path": "686_we_go_to_the_park_in_the_afternoon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110687",
+    "text_pt": "Ele corre, pula e brinca com outras crianças.",
+    "text_en": "He runs. jumps. and plays with other kids.",
+    "audio_en_storage_path": "687_he_runs_jumps_and_plays_with_other_kids.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110688",
+    "text_pt": "Mais tarde, voltamos para casa e assistimos desenhos animados.",
+    "text_en": "Later. we come back home and watch cartoons.",
+    "audio_en_storage_path": "688_later_we_come_back_home_and_watch_cartoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110689",
+    "text_pt": "Ele ri e dança durante seus shows favoritos.",
+    "text_en": "He laughs and dances during his favorite shows.",
+    "audio_en_storage_path": "689_he_laughs_and_dances_during_his_favorite_shows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110690",
+    "text_pt": "À noite, ele toma banho e escova os dentes.",
+    "text_en": "At night. he takes a bath and brushes his teeth.",
+    "audio_en_storage_path": "690_at_night_he_takes_a_bath_and_brushes_his_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110691",
+    "text_pt": "Então ele me abraça antes de dormir.",
+    "text_en": "Then he hugs me before bedtime.",
+    "audio_en_storage_path": "691_then_he_hugs_me_before_bedtime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110692",
+    "text_pt": "O que seu filho gosta de fazer aos domingos?",
+    "text_en": "What does your son like to do on Sundays?",
+    "audio_en_storage_path": "692_what_does_your_son_like_to_do_on_sundays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110693",
+    "text_pt": "Ele adora ir ao parque e assistir desenhos animados.",
+    "text_en": "He loves going to the park and watching cartoons.",
+    "audio_en_storage_path": "693_he_loves_going_to_the_park_and_watching_cartoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110694",
+    "text_pt": "Onde está seu filho agora?",
+    "text_en": "Where is your son now?",
+    "audio_en_storage_path": "694_where_is_your_son_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110695",
+    "text_pt": "Ele está dormindo pacificamente em sua cama.",
+    "text_en": "He is sleeping peacefully in his bed.",
+    "audio_en_storage_path": "695_he_is_sleeping_peacefully_in_his_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110696",
+    "text_pt": "Por que ele dorme cedo aos domingos?",
+    "text_en": "Why does he sleep early on Sundays?",
+    "audio_en_storage_path": "696_why_does_he_sleep_early_on_sundays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110697",
+    "text_pt": "Porque ele brincava muito durante o dia.",
+    "text_en": "Because he played a lot during the day.",
+    "audio_en_storage_path": "697_because_he_played_a_lot_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110698",
+    "text_pt": "Ele gosta de passar tempo com a família.",
+    "text_en": "He enjoys spending time with the family.",
+    "audio_en_storage_path": "698_he_enjoys_spending_time_with_the_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110699",
+    "text_pt": "Principalmente nos dias de folga.",
+    "text_en": "Especially on days off.",
+    "audio_en_storage_path": "699_especially_on_days_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110700",
+    "text_pt": "Amanhã ele não vai esquecer sua mochila escolar.",
+    "text_en": "Tomorrow. he will not forget his school bag.",
+    "audio_en_storage_path": "700_tomorrow_he_will_not_forget_his_school_bag.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110701",
+    "text_pt": "Ele vai arrumar tudo antes de ir dormir.",
+    "text_en": "He will pack it before going to bed.",
+    "audio_en_storage_path": "701_he_will_pack_it_before_going_to_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110702",
+    "text_pt": "Boa noite, pequenino!",
+    "text_en": "Goodnight. little one!",
+    "audio_en_storage_path": "702_goodnight_little_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110703",
+    "text_pt": "Bons sonhos e até amanhã!",
+    "text_en": "Sweet dreams and see you tomorrow!",
+    "audio_en_storage_path": "703_sweet_dreams_and_see_you_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

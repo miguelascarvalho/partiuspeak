@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112915",
+    "text_pt": "Amigos das crianças – Crianças na sala de estar",
+    "text_en": "Children's friends – Children in the living room",
+    "audio_en_storage_path": "2915_childrens_friends_children_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112916",
+    "text_pt": "As crianças correm para a sala de estar com brinquedos.",
+    "text_en": "Kids run into the living room with toys.",
+    "audio_en_storage_path": "2916_kids_run_into_the_living_room_with_toys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112917",
+    "text_pt": "Eles jogam bolsas e sapatos em todos os lugares.",
+    "text_en": "They drop bags and shoes everywhere.",
+    "audio_en_storage_path": "2917_they_drop_bags_and_shoes_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112918",
+    "text_pt": "Eles jogam videogames ou jogos de tabuleiro.",
+    "text_en": "They play video games or board games.",
+    "audio_en_storage_path": "2918_they_play_video_games_or_board_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112919",
+    "text_pt": "Às vezes eles constroem fortes com cobertores.",
+    "text_en": "Sometimes they build forts with blankets.",
+    "audio_en_storage_path": "2919_sometimes_they_build_forts_with_blankets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112920",
+    "text_pt": "O quarto parece bagunçado, mas cheio de alegria.",
+    "text_en": "The room looks messy but full of joy.",
+    "audio_en_storage_path": "2920_the_room_looks_messy_but_full_of_joy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112921",
+    "text_pt": "Brinquedos, livros e caixas de suco estão espalhados.",
+    "text_en": "Toys. books. and juice boxes are scattered.",
+    "audio_en_storage_path": "2921_toys_books_and_juice_boxes_are_scattered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112922",
+    "text_pt": "Há controles, quebra-cabeças e bonecos de ação por aí.",
+    "text_en": "There are controllers. puzzles. and action figures around.",
+    "audio_en_storage_path": "2922_there_are_controllers_puzzles_and_action_figures_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112923",
+    "text_pt": "E uma pilha de meias e chapéus.",
+    "text_en": "And a pile of socks and hats.",
+    "audio_en_storage_path": "2923_and_a_pile_of_socks_and_hats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112924",
+    "text_pt": "De quem são os filhos que estão aqui hoje?",
+    "text_en": "Whose kids are here today?",
+    "audio_en_storage_path": "2924_whose_kids_are_here_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112925",
+    "text_pt": "Os amigos do meu filho estão brincando juntos.",
+    "text_en": "My son’s friends — they’re playing together.",
+    "audio_en_storage_path": "2925_my_sons_friends_theyre_playing_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112926",
+    "text_pt": "Onde estão as crianças agora?",
+    "text_en": "Where are the children now?",
+    "audio_en_storage_path": "2926_where_are_the_children_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112927",
+    "text_pt": "Na sala de estar — rindo e pulando.",
+    "text_en": "In the living room — laughing and jumping.",
+    "audio_en_storage_path": "2927_in_the_living_room_laughing_and_jumping.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112928",
+    "text_pt": "Às vezes eles assistem desenhos animados.",
+    "text_en": "Sometimes they watch cartoons.",
+    "audio_en_storage_path": "2928_sometimes_they_watch_cartoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112929",
+    "text_pt": "Outras vezes eles apenas conversam e brincam.",
+    "text_en": "Other times they just talk and play.",
+    "audio_en_storage_path": "2929_other_times_they_just_talk_and_play.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112930",
+    "text_pt": "Onde eles deixaram o controle?",
+    "text_en": "Where did they leave the controller?",
+    "audio_en_storage_path": "2930_where_did_they_leave_the_controller.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112931",
+    "text_pt": "Atrás do sofá — de novo.",
+    "text_en": "Behind the couch — again.",
+    "audio_en_storage_path": "2931_behind_the_couch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112932",
+    "text_pt": "Quando eles irão para casa?",
+    "text_en": "When will they go home?",
+    "audio_en_storage_path": "2932_when_will_they_go_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112933",
+    "text_pt": "Provavelmente depois do jantar — depende dos pais.",
+    "text_en": "Probably after dinner — depends on their parents.",
+    "audio_en_storage_path": "2933_probably_after_dinner_depends_on_their_parents.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112934",
+    "text_pt": "Por que você deixou eles trazerem lanches?",
+    "text_en": "Why did you let them bring snacks?",
+    "audio_en_storage_path": "2934_why_did_you_let_them_bring_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112935",
+    "text_pt": "Porque eu sabia que eles ficariam com fome.",
+    "text_en": "Because I knew they’d get hungry.",
+    "audio_en_storage_path": "2935_because_i_knew_theyd_get_hungry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112936",
+    "text_pt": "As crianças adoram brincar na sala de estar.",
+    "text_en": "Kids love playing in the living room.",
+    "audio_en_storage_path": "2936_kids_love_playing_in_the_living_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112937",
+    "text_pt": "É o lugar favorito deles.",
+    "text_en": "It’s their favorite spot.",
+    "audio_en_storage_path": "2937_its_their_favorite_spot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112938",
+    "text_pt": "Amanhã. Não vou esquecer de organizar o quarto novamente.",
+    "text_en": "Tomorrow. I will not forget to organize the room again.",
+    "audio_en_storage_path": "2938_tomorrow_i_will_not_forget_to_organize_the_room_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112939",
+    "text_pt": "Levei uma hora para limpar.",
+    "text_en": "It took me an hour to clean up.",
+    "audio_en_storage_path": "2939_it_took_me_an_hour_to_clean_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112940",
+    "text_pt": "Divirta-se!",
+    "text_en": "Have fun!",
+    "audio_en_storage_path": "2940_have_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112941",
+    "text_pt": "Mas tente manter as coisas organizadas.",
+    "text_en": "But try to keep things tidy.",
+    "audio_en_storage_path": "2941_but_try_to_keep_things_tidy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112834",
+    "text_pt": "Notícias – Leia ou assista notícias",
+    "text_en": "News – Read or watch news",
+    "audio_en_storage_path": "2834_news_read_or_watch_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112835",
+    "text_pt": "Ele lê as notícias no celular.",
+    "text_en": "He reads the news on his phone.",
+    "audio_en_storage_path": "2835_he_reads_the_news_on_his_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112836",
+    "text_pt": "Ou ele assiste na TV da sala.",
+    "text_en": "Or he watches it on the living room TV.",
+    "audio_en_storage_path": "2836_or_he_watches_it_on_the_living_room_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112837",
+    "text_pt": "Ele verifica política, esportes e atualizações mundiais.",
+    "text_en": "He checks politics. sports. and world updates.",
+    "audio_en_storage_path": "2837_he_checks_politics_sports_and_world_updates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112838",
+    "text_pt": "Ele gosta de se manter informado.",
+    "text_en": "He likes to stay informed.",
+    "audio_en_storage_path": "2838_he_likes_to_stay_informed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112839",
+    "text_pt": "A tela mostra manchetes e reportagens ao vivo.",
+    "text_en": "The screen shows headlines and live reports.",
+    "audio_en_storage_path": "2839_the_screen_shows_headlines_and_live_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112840",
+    "text_pt": "Ele toma notas e pensa profundamente.",
+    "text_en": "He takes notes and thinks deeply.",
+    "audio_en_storage_path": "2840_he_takes_notes_and_thinks_deeply.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112841",
+    "text_pt": "Há um caderno, um café e copos por perto.",
+    "text_en": "There is a notebook. coffee. and glasses nearby.",
+    "audio_en_storage_path": "2841_there_is_a_notebook_coffee_and_glasses_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112842",
+    "text_pt": "Pronto para as notícias da manhã.",
+    "text_en": "Ready for morning news.",
+    "audio_en_storage_path": "2842_ready_for_morning_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112843",
+    "text_pt": "Que tipo de notícias você prefere?",
+    "text_en": "What kind of news do you prefer?",
+    "audio_en_storage_path": "2843_what_kind_of_news_do_you_prefer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112844",
+    "text_pt": "Notícias do mundo — Quero saber o que está acontecendo.",
+    "text_en": "World news — I want to know what’s happening.",
+    "audio_en_storage_path": "2844_world_news_i_want_to_know_whats_happening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112845",
+    "text_pt": "De onde você assiste ao noticiário?",
+    "text_en": "Where do you watch the news from?",
+    "audio_en_storage_path": "2845_where_do_you_watch_the_news_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112846",
+    "text_pt": "Na TV — mas às vezes no YouTube também.",
+    "text_en": "On TV — but sometimes on YouTube too.",
+    "audio_en_storage_path": "2846_on_tv_but_sometimes_on_youtube_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112847",
+    "text_pt": "Às vezes ele assiste ao noticiário local.",
+    "text_en": "Sometimes he watches local news.",
+    "audio_en_storage_path": "2847_sometimes_he_watches_local_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112848",
+    "text_pt": "Outras vezes ele escolhe canais internacionais.",
+    "text_en": "Other times he chooses international channels.",
+    "audio_en_storage_path": "2848_other_times_he_chooses_international_channels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112849",
+    "text_pt": "Onde ele deixou os óculos?",
+    "text_en": "Where did he leave his glasses?",
+    "audio_en_storage_path": "2849_where_did_he_leave_his_glasses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112850",
+    "text_pt": "Em cima da mesa — ao lado da caneca.",
+    "text_en": "On the table — next to the mug.",
+    "audio_en_storage_path": "2850_on_the_table_next_to_the_mug.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112851",
+    "text_pt": "Quando você costuma conferir as notícias?",
+    "text_en": "When do you usually check the news?",
+    "audio_en_storage_path": "2851_when_do_you_usually_check_the_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112852",
+    "text_pt": "De manhã e antes de dormir.",
+    "text_en": "In the morning and before bedtime.",
+    "audio_en_storage_path": "2852_in_the_morning_and_before_bedtime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112853",
+    "text_pt": "Por que você ligou a televisão hoje?",
+    "text_en": "Why did you turn on the news today?",
+    "audio_en_storage_path": "2853_why_did_you_turn_on_the_news_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112854",
+    "text_pt": "Porque havia notícias de última hora.",
+    "text_en": "Because there was breaking news.",
+    "audio_en_storage_path": "2854_because_there_was_breaking_news.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112855",
+    "text_pt": "Ele lê as notícias todas as manhãs.",
+    "text_en": "He reads the news every morning.",
+    "audio_en_storage_path": "2855_he_reads_the_news_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112856",
+    "text_pt": "Isso o ajuda a entender o mundo.",
+    "text_en": "It helps him understand the world.",
+    "audio_en_storage_path": "2856_it_helps_him_understand_the_world.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112857",
+    "text_pt": "Amanhã, ele não vai esquecer de ler as manchetes novamente.",
+    "text_en": "Tomorrow. he will not forget to read the headlines again.",
+    "audio_en_storage_path": "2857_tomorrow_he_will_not_forget_to_read_the_headlines_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112858",
+    "text_pt": "Ele não quer perder nada importante.",
+    "text_en": "He doesn't want to miss anything important.",
+    "audio_en_storage_path": "2858_he_doesnt_want_to_miss_anything_important.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112859",
+    "text_pt": "Fique atualizado!",
+    "text_en": "Stay updated!",
+    "audio_en_storage_path": "2859_stay_updated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112860",
+    "text_pt": "Conhecimento é poder.",
+    "text_en": "Knowledge is power.",
+    "audio_en_storage_path": "2860_knowledge_is_power.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110836",
+    "text_pt": "Táxi / Uber",
+    "text_en": "Taxi / Uber",
+    "audio_en_storage_path": "836_taxi_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110837",
+    "text_pt": "Ele chama um táxi quando está com pressa.",
+    "text_en": "He calls a taxi when he's in a hurry.",
+    "audio_en_storage_path": "837_he_calls_a_taxi_when_hes_in_a_hurry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110838",
+    "text_pt": "Ele usa um aplicativo no telefone.",
+    "text_en": "He uses an app on his phone.",
+    "audio_en_storage_path": "838_he_uses_an_app_on_his_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110839",
+    "text_pt": "O Uber chega em cinco minutos.",
+    "text_en": "The Uber arrives in five minutes.",
+    "audio_en_storage_path": "839_the_uber_arrives_in_five_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110840",
+    "text_pt": "O motorista é simpático e conhece o caminho.",
+    "text_en": "The driver is friendly and knows the way.",
+    "audio_en_storage_path": "840_the_driver_is_friendly_and_knows_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110841",
+    "text_pt": "Ela viaja sozinha no banco de trás.",
+    "text_en": "She travels alone in the back seat.",
+    "audio_en_storage_path": "841_she_travels_alone_in_the_back_seat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110842",
+    "text_pt": "Ela manda mensagens para os amigos enquanto se muda.",
+    "text_en": "She texts friends while moving.",
+    "audio_en_storage_path": "842_she_texts_friends_while_moving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110843",
+    "text_pt": "Usamos o Uber para ir ao centro da cidade.",
+    "text_en": "We use Uber to go downtown.",
+    "audio_en_storage_path": "843_we_use_uber_to_go_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110844",
+    "text_pt": "É mais rápido do que esperar o ônibus.",
+    "text_en": "It's faster than waiting for the bus.",
+    "audio_en_storage_path": "844_its_faster_than_waiting_for_the_bus.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110845",
+    "text_pt": "Eles pagam com o aplicativo depois da viagem.",
+    "text_en": "They pay with the app after the ride.",
+    "audio_en_storage_path": "845_they_pay_with_the_app_after_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110846",
+    "text_pt": "Não é necessário levar dinheiro.",
+    "text_en": "No need to carry cash.",
+    "audio_en_storage_path": "846_no_need_to_carry_cash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110847",
+    "text_pt": "O táxi tem janelas escuras e ar frio.",
+    "text_en": "The taxi has dark windows and cold air.",
+    "audio_en_storage_path": "847_the_taxi_has_dark_windows_and_cold_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110848",
+    "text_pt": "Parece um espaço privado.",
+    "text_en": "It feels like a private space.",
+    "audio_en_storage_path": "848_it_feels_like_a_private_space.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110849",
+    "text_pt": "Quem dirige o Uber?",
+    "text_en": "Who drives the Uber?",
+    "audio_en_storage_path": "849_who_drives_the_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110850",
+    "text_pt": "Um homem ou uma mulher que trabalha em período integral.",
+    "text_en": "A man or woman who works full time.",
+    "audio_en_storage_path": "850_a_man_or_woman_who_works_full_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110851",
+    "text_pt": "De onde você pode chamar um táxi?",
+    "text_en": "Where can you call a taxi from?",
+    "audio_en_storage_path": "851_where_can_you_call_a_taxi_from.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110852",
+    "text_pt": "De qualquer lugar com internet e GPS.",
+    "text_en": "From anywhere with internet and GPS.",
+    "audio_en_storage_path": "852_from_anywhere_with_internet_and_gps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110853",
+    "text_pt": "Quando você prefere um táxi?",
+    "text_en": "When do you prefer a taxi?",
+    "audio_en_storage_path": "853_when_do_you_prefer_a_taxi.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110854",
+    "text_pt": "À noite ou ao carregar coisas pesadas.",
+    "text_en": "At night or when carrying heavy things.",
+    "audio_en_storage_path": "854_at_night_or_when_carrying_heavy_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110855",
+    "text_pt": "Por que ela deu gorjeta ao motorista?",
+    "text_en": "Why did she tip the driver?",
+    "audio_en_storage_path": "855_why_did_she_tip_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110856",
+    "text_pt": "Porque ele foi educado e ajudou com as malas.",
+    "text_en": "Because he was polite and helped with bags.",
+    "audio_en_storage_path": "856_because_he_was_polite_and_helped_with_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110857",
+    "text_pt": "Usamos o Uber quando estamos cansados.",
+    "text_en": "We use Uber when we're tired.",
+    "audio_en_storage_path": "857_we_use_uber_when_were_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110858",
+    "text_pt": "Traz conforto e economiza tempo.",
+    "text_en": "It brings comfort and saves time.",
+    "audio_en_storage_path": "858_it_brings_comfort_and_saves_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110859",
+    "text_pt": "Amanhã. eles não vão esquecer de avaliar o passeio.",
+    "text_en": "Tomorrow. they will not forget to rate the ride.",
+    "audio_en_storage_path": "859_tomorrow_they_will_not_forget_to_rate_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110860",
+    "text_pt": "Eles darão cinco estrelas se for bom.",
+    "text_en": "They'll give five stars if it was good.",
+    "audio_en_storage_path": "860_theyll_give_five_stars_if_it_was_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110861",
+    "text_pt": "Obrigado pela carona!",
+    "text_en": "Thank you for the ride!",
+    "audio_en_storage_path": "861_thank_you_for_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110862",
+    "text_pt": "Tenha um ótimo dia!",
+    "text_en": "Have a great day!",
+    "audio_en_storage_path": "862_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

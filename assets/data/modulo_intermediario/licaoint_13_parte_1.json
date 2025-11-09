@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111997",
+    "text_pt": "Chá",
+    "text_en": "Tea",
+    "audio_en_storage_path": "1997_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111998",
+    "text_pt": "O chá está fervendo na xícara.",
+    "text_en": "The tea is steeping in the cup.",
+    "audio_en_storage_path": "1998_the_tea_is_steeping_in_the_cup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111999",
+    "text_pt": "Tem cheiro de menta e mel.",
+    "text_en": "It smells like mint and honey.",
+    "audio_en_storage_path": "1999_it_smells_like_mint_and_honey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112000",
+    "text_pt": "Eu bebo chá quando estou cansado ou com frio.",
+    "text_en": "I drink tea when I'm tired or cold.",
+    "audio_en_storage_path": "2000_i_drink_tea_when_im_tired_or_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112001",
+    "text_pt": "Ela me relaxa e aquece minhas mãos.",
+    "text_en": "It relaxes me and warms my hands.",
+    "audio_en_storage_path": "2001_it_relaxes_me_and_warms_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112002",
+    "text_pt": "A xícara é rosa com flores.",
+    "text_en": "The cup is pink with flowers on it.",
+    "audio_en_storage_path": "2002_the_cup_is_pink_with_flowers_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112003",
+    "text_pt": "O vapor sobe lentamente no ar.",
+    "text_en": "The steam rises slowly into the air.",
+    "audio_en_storage_path": "2003_the_steam_rises_slowly_into_the_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112004",
+    "text_pt": "Adicionei uma rodela de limão e uma colher de mel.",
+    "text_en": "I added a slice of lemon and a spoon of honey.",
+    "audio_en_storage_path": "2004_i_added_a_slice_of_lemon_and_a_spoon_of_honey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112005",
+    "text_pt": "Minha avó me ensinou a fazer.",
+    "text_en": "My grandma taught me how to make it.",
+    "audio_en_storage_path": "2005_my_grandma_taught_me_how_to_make_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112006",
+    "text_pt": "Que tipo de chá você mais gosta?",
+    "text_en": "What kind of tea do you like best?",
+    "audio_en_storage_path": "2006_what_kind_of_tea_do_you_like_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112007",
+    "text_pt": "Chá verde — é leve e saudável.",
+    "text_en": "Green tea — it’s light and healthy.",
+    "audio_en_storage_path": "2007_green_tea_its_light_and_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112008",
+    "text_pt": "Onde você guarda seus sachês de chá?",
+    "text_en": "Where do you keep your teabags?",
+    "audio_en_storage_path": "2008_where_do_you_keep_your_teabags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112009",
+    "text_pt": "Em um pequeno pote na prateleira.",
+    "text_en": "In a small jar on the shelf.",
+    "audio_en_storage_path": "2009_in_a_small_jar_on_the_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112010",
+    "text_pt": "Às vezes eu bebo quente. às vezes frio.",
+    "text_en": "Sometimes I drink it hot. sometimes cold.",
+    "audio_en_storage_path": "2010_sometimes_i_drink_it_hot_sometimes_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112011",
+    "text_pt": "Depende do clima e da hora do dia.",
+    "text_en": "It depends on the weather and time of day.",
+    "audio_en_storage_path": "2011_it_depends_on_the_weather_and_time_of_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112012",
+    "text_pt": "Onde você deixou sua xícara de chá?",
+    "text_en": "Where did you leave your teacup?",
+    "audio_en_storage_path": "2012_where_did_you_leave_your_teacup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112013",
+    "text_pt": "No parapeito da janela — ao lado das plantas.",
+    "text_en": "On the windowsill — next to the plants.",
+    "audio_en_storage_path": "2013_on_the_windowsill_next_to_the_plants.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112014",
+    "text_pt": "Quando você costuma tomar chá?",
+    "text_en": "When do you usually drink tea?",
+    "audio_en_storage_path": "2014_when_do_you_usually_drink_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112015",
+    "text_pt": "À tarde — durante o intervalo.",
+    "text_en": "In the afternoon — during break time.",
+    "audio_en_storage_path": "2015_in_the_afternoon_during_break_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112016",
+    "text_pt": "Por que você escolheu chá em vez de café?",
+    "text_en": "Why did you choose tea instead of coffee?",
+    "audio_en_storage_path": "2016_why_did_you_choose_tea_instead_of_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112017",
+    "text_pt": "Porque eu queria algo mais leve hoje.",
+    "text_en": "Because I wanted something lighter today.",
+    "audio_en_storage_path": "2017_because_i_wanted_something_lighter_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112018",
+    "text_pt": "Gosto de uma xícara de chá quente à noite.",
+    "text_en": "I enjoy a warm cup of tea in the evening.",
+    "audio_en_storage_path": "2018_i_enjoy_a_warm_cup_of_tea_in_the_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112019",
+    "text_pt": "Isso me ajuda a relaxar antes de dormir.",
+    "text_en": "It helps me relax before bed.",
+    "audio_en_storage_path": "2019_it_helps_me_relax_before_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112020",
+    "text_pt": "Amanhã. Não vou esquecer de limpar minha xícara novamente.",
+    "text_en": "Tomorrow. I will not forget to clean my cup again.",
+    "audio_en_storage_path": "2020_tomorrow_i_will_not_forget_to_clean_my_cup_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112021",
+    "text_pt": "Vou lavá-lo logo depois de beber.",
+    "text_en": "I’ll wash it right after drinking.",
+    "audio_en_storage_path": "2021_ill_wash_it_right_after_drinking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112022",
+    "text_pt": "Tomar cuidado!",
+    "text_en": "Take care!",
+    "audio_en_storage_path": "2022_take_care.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112023",
+    "text_pt": "O chá é uma ótima maneira de desacelerar.",
+    "text_en": "Tea is a great way to slow down.",
+    "audio_en_storage_path": "2023_tea_is_a_great_way_to_slow_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,560 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121664",
+    "text_pt": "O Campo de Futebol e Equipamentos",
+    "text_en": "The Soccer Field and Equipment",
+    "audio_en_storage_path": "1664_the_soccer_field_and_equipment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121665",
+    "text_pt": "O campo de futebol é grande e tem gols nas duas pontas",
+    "text_en": "The soccer field is big and has goals on both ends",
+    "audio_en_storage_path": "1665_the_soccer_field_is_big_and_has_goals_on_both_ends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121666",
+    "text_pt": "O campo é enorme com redes dos dois lados",
+    "text_en": "Field’s huge with nets on both sides",
+    "audio_en_storage_path": "1666_fields_huge_with_nets_on_both_sides.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121667",
+    "text_pt": "Os jogadores usam uniformes e calçados especiais para jogar",
+    "text_en": "Players wear uniforms and special shoes to play",
+    "audio_en_storage_path": "1667_players_wear_uniforms_and_special_shoes_to_play.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121668",
+    "text_pt": "Todos estão com kits e chuteiras para correr rápido",
+    "text_en": "Everyone’s in kits and cleats to run fast",
+    "audio_en_storage_path": "1668_everyones_in_kits_and_cleats_to_run_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121669",
+    "text_pt": "A bola é redonda e se move rápido quando você a chuta",
+    "text_en": "The ball is round and moves fast when you kick it",
+    "audio_en_storage_path": "1669_the_ball_is_round_and_moves_fast_when_you_kick_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121670",
+    "text_pt": "A bola é redonda e voa rápido quando você a acerta",
+    "text_en": "Ball’s round and flies quick when ya strike it",
+    "audio_en_storage_path": "1670_balls_round_and_flies_quick_when_ya_strike_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121671",
+    "text_pt": "Existem linhas ao redor do campo e um círculo central",
+    "text_en": "There are lines around the field and a center circle",
+    "audio_en_storage_path": "1671_there_are_lines_around_the_field_and_a_center_circle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121672",
+    "text_pt": "Tem linhas por todo lado e um círculo bem no meio",
+    "text_en": "Got lines all over and a circle right in the middle",
+    "audio_en_storage_path": "1672_got_lines_all_over_and_a_circle_right_in_the_middle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121673",
+    "text_pt": "Você tem chuteiras para jogar hoje?",
+    "text_en": "Do you have cleats to play today?",
+    "audio_en_storage_path": "1673_do_you_have_cleats_to_play_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121674",
+    "text_pt": "Já preparou suas chuteiras para o jogo de hoje?",
+    "text_en": "Got your cleats ready for today’s game?",
+    "audio_en_storage_path": "1674_got_your_cleats_ready_for_todays_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121675",
+    "text_pt": "Peguei emprestado os sapatos do meu irmão porque os meus estavam sujos",
+    "text_en": "I borrowed my brother’s shoes because mine were dirty",
+    "audio_en_storage_path": "1675_i_borrowed_my_brothers_shoes_because_mine_were_dirty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121676",
+    "text_pt": "Peguei emprestado os tênis do meu irmão porque os meus estavam todos enlameados",
+    "text_en": "Borrowed my bro’s kicks ‘cause mine were all muddy",
+    "audio_en_storage_path": "1676_borrowed_my_bros_kicks_cause_mine_were_all_muddy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121677",
+    "text_pt": "Você também pode usar tênis se não estiver muito escorregadio",
+    "text_en": "You can also wear sneakers if it's not too slippery",
+    "audio_en_storage_path": "1677_you_can_also_wear_sneakers_if_its_not_too_slippery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121678",
+    "text_pt": "Tênis funcionam bem se o chão não estiver muito molhado",
+    "text_en": "Sneakers work fine if the ground ain’t too wet",
+    "audio_en_storage_path": "1678_sneakers_work_fine_if_the_ground_aint_too_wet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121679",
+    "text_pt": "Onde o jogo está acontecendo?",
+    "text_en": "Where is the game happening?",
+    "audio_en_storage_path": "1679_where_is_the_game_happening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121680",
+    "text_pt": "O que você disse — onde vamos tocar hoje?",
+    "text_en": "Whaddya say — where we playin’ today?",
+    "audio_en_storage_path": "1680_whaddya_say_where_we_playin_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121681",
+    "text_pt": "Quando a partida começará?",
+    "text_en": "When will the match start?",
+    "audio_en_storage_path": "1681_when_will_the_match_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121682",
+    "text_pt": "Quando o jogo vai começar?",
+    "text_en": "When’s the game gonna kick off?",
+    "audio_en_storage_path": "1682_whens_the_game_gonna_kick_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121683",
+    "text_pt": "Por que você esqueceu suas meias?",
+    "text_en": "Why did you forget your socks?",
+    "audio_en_storage_path": "1683_why_did_you_forget_your_socks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121684",
+    "text_pt": "O que fez você deixar suas meias para trás — manhã ruim?",
+    "text_en": "What made ya leave your socks behind — bad morning?",
+    "audio_en_storage_path": "1684_what_made_ya_leave_your_socks_behind_bad_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121685",
+    "text_pt": "Ele sempre traz água extra para todos",
+    "text_en": "He always brings extra water for everyone",
+    "audio_en_storage_path": "1685_he_always_brings_extra_water_for_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121686",
+    "text_pt": "Sempre tenho garrafas extras para toda a equipe",
+    "text_en": "Always got extra bottles for the whole team",
+    "audio_en_storage_path": "1686_always_got_extra_bottles_for_the_whole_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121687",
+    "text_pt": "Não vou jogar sem caneleiras",
+    "text_en": "I won’t play without shin guards",
+    "audio_en_storage_path": "1687_i_wont_play_without_shin_guards.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121688",
+    "text_pt": "Não vou sair por aí sem canelas - de jeito nenhum",
+    "text_en": "Ain’t steppin’ out there without shins — no way",
+    "audio_en_storage_path": "1688_aint_steppin_out_there_without_shins_no_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121689",
+    "text_pt": "Bom trabalho aquecendo antes do jogo",
+    "text_en": "Good job warming up before the game",
+    "audio_en_storage_path": "1689_good_job_warming_up_before_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121690",
+    "text_pt": "Bom aquecimento antes de começar",
+    "text_en": "Nice warm-up before things started",
+    "audio_en_storage_path": "1690_nice_warmup_before_things_started.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121691",
+    "text_pt": "Tome cuidado e fique seguro em campo",
+    "text_en": "Take care and stay safe on the field",
+    "audio_en_storage_path": "1691_take_care_and_stay_safe_on_the_field.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121692",
+    "text_pt": "Cuidado com o passo e jogue com inteligência",
+    "text_en": "Watch your step and play smart",
+    "audio_en_storage_path": "1692_watch_your_step_and_play_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121693",
+    "text_pt": "Divirta-se e aproveite a partida",
+    "text_en": "Have fun and enjoy the match",
+    "audio_en_storage_path": "1693_have_fun_and_enjoy_the_match.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121694",
+    "text_pt": "Dê um chute na bunda e aproveite o jogo",
+    "text_en": "Kick some butt and enjoy the game",
+    "audio_en_storage_path": "1694_kick_some_butt_and_enjoy_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121695",
+    "text_pt": "Jogando o jogo",
+    "text_en": "Playing the Game",
+    "audio_en_storage_path": "1695_playing_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121696",
+    "text_pt": "Jogamos com os pés e tentamos fazer gols",
+    "text_en": "We play with our feet and try to score goals",
+    "audio_en_storage_path": "1696_we_play_with_our_feet_and_try_to_score_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121697",
+    "text_pt": "Usamos os pés e atiramos na rede",
+    "text_en": "We use our feet and shoot for the net",
+    "audio_en_storage_path": "1697_we_use_our_feet_and_shoot_for_the_net.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121698",
+    "text_pt": "O goleiro tenta impedir a entrada da bola",
+    "text_en": "The goalkeeper tries to stop the ball from entering",
+    "audio_en_storage_path": "1698_the_goalkeeper_tries_to_stop_the_ball_from_entering.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121699",
+    "text_pt": "O goleiro pula tentando bloquear todos os chutes",
+    "text_en": "Keeper jumps around tryin’ to block every shot",
+    "audio_en_storage_path": "1699_keeper_jumps_around_tryin_to_block_every_shot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121700",
+    "text_pt": "Os jogadores correm muito e passam a bola para os companheiros de equipe",
+    "text_en": "Players run a lot and pass the ball to teammates",
+    "audio_en_storage_path": "1700_players_run_a_lot_and_pass_the_ball_to_teammates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121701",
+    "text_pt": "Todos correm muito e passam para sua equipe",
+    "text_en": "Everyone runs hard and passes to their crew",
+    "audio_en_storage_path": "1701_everyone_runs_hard_and_passes_to_their_crew.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121702",
+    "text_pt": "O árbitro assiste ao jogo e toma decisões",
+    "text_en": "The referee watches the game and makes decisions",
+    "audio_en_storage_path": "1702_the_referee_watches_the_game_and_makes_decisions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121703",
+    "text_pt": "O árbitro observa tudo e dá as ordens",
+    "text_en": "Ref watches everything and calls the shots",
+    "audio_en_storage_path": "1703_ref_watches_everything_and_calls_the_shots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121704",
+    "text_pt": "Posso entrar no jogo?",
+    "text_en": "Can I join the game?",
+    "audio_en_storage_path": "1704_can_i_join_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121705",
+    "text_pt": "Posso entrar e jogar também?",
+    "text_en": "Can I jump in and play too?",
+    "audio_en_storage_path": "1705_can_i_jump_in_and_play_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121706",
+    "text_pt": "Sim, venha aqui e faça parte da equipe",
+    "text_en": "Yes. come here and be part of the team",
+    "audio_en_storage_path": "1706_yes_come_here_and_be_part_of_the_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121707",
+    "text_pt": "Sim, entre aqui e nos ajude a vencer",
+    "text_en": "Yeah. get in here and help us win",
+    "audio_en_storage_path": "1707_yeah_get_in_here_and_help_us_win.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121708",
+    "text_pt": "Ou você pode assistir e aprender primeiro se quiser",
+    "text_en": "Or you can watch and learn first if you want",
+    "audio_en_storage_path": "1708_or_you_can_watch_and_learn_first_if_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121709",
+    "text_pt": "Ou simplesmente sente-se e aprenda os movimentos, se preferir",
+    "text_en": "Or just sit back and learn the moves if ya prefer",
+    "audio_en_storage_path": "1709_or_just_sit_back_and_learn_the_moves_if_ya_prefer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121710",
+    "text_pt": "Onde devo ficar durante o jogo?",
+    "text_en": "Where should I stand during the game?",
+    "audio_en_storage_path": "1710_where_should_i_stand_during_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121711",
+    "text_pt": "Onde eu fico enquanto o jogo está acontecendo?",
+    "text_en": "Where do I hang out while the game’s goin’ on?",
+    "audio_en_storage_path": "1711_where_do_i_hang_out_while_the_games_goin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121712",
+    "text_pt": "Quando começaremos a jogar novamente depois do intervalo?",
+    "text_en": "When will we start playing again after the break?",
+    "audio_en_storage_path": "1712_when_will_we_start_playing_again_after_the_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121713",
+    "text_pt": "Quando recomeçamos depois do intervalo?",
+    "text_en": "When we restart after the halftime break?",
+    "audio_en_storage_path": "1713_when_we_restart_after_the_halftime_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121714",
+    "text_pt": "Por que pararam o jogo?",
+    "text_en": "Why did they stop the game?",
+    "audio_en_storage_path": "1714_why_did_they_stop_the_game.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121715",
+    "text_pt": "O que os fez interromper a ação — alguém se machucou?",
+    "text_en": "What made ‘em pause the action — someone hurt?",
+    "audio_en_storage_path": "1715_what_made_em_pause_the_action_someone_hurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121716",
+    "text_pt": "Ele marcou um gol e deixou seu time feliz",
+    "text_en": "He scored a goal and made his team happy",
+    "audio_en_storage_path": "1716_he_scored_a_goal_and_made_his_team_happy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121717",
+    "text_pt": "O cara entrou na rede e fez todo mundo gritar alto",
+    "text_en": "Dude hit the net and made everyone cheer loud",
+    "audio_en_storage_path": "1717_dude_hit_the_net_and_made_everyone_cheer_loud.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121718",
+    "text_pt": "Não vou tocar na bola com as mãos",
+    "text_en": "I won’t touch the ball with my hands",
+    "audio_en_storage_path": "1718_i_wont_touch_the_ball_with_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121719",
+    "text_pt": "Mãos fora da bola — apenas pés permitidos",
+    "text_en": "Hands off the ball — only feet allowed",
+    "audio_en_storage_path": "1719_hands_off_the_ball_only_feet_allowed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121720",
+    "text_pt": "Ótima jogada — continue assim",
+    "text_en": "Great move — keep going like that",
+    "audio_en_storage_path": "1720_great_move_keep_going_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121721",
+    "text_pt": "Boa jogada — continue assim",
+    "text_en": "Nice play — keep it up",
+    "audio_en_storage_path": "1721_nice_play_keep_it_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121722",
+    "text_pt": "Mantenha o foco e ouça o treinador",
+    "text_en": "Stay focused and listen to the coach",
+    "audio_en_storage_path": "1722_stay_focused_and_listen_to_the_coach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121723",
+    "text_pt": "Mantenha a cabeça no jogo e siga as instruções",
+    "text_en": "Keep your head in the game and follow instructions",
+    "audio_en_storage_path": "1723_keep_your_head_in_the_game_and_follow_instructions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121724",
+    "text_pt": "Vejo você no próximo treino",
+    "text_en": "See you at the next practice",
+    "audio_en_storage_path": "1724_see_you_at_the_next_practice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121725",
+    "text_pt": "Te vejo no próximo treino",
+    "text_en": "Catch ya at the next training session",
+    "audio_en_storage_path": "1725_catch_ya_at_the_next_training_session.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

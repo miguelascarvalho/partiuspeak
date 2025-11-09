@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114454",
+    "text_pt": "Carro",
+    "text_en": "Car",
+    "audio_en_storage_path": "4454_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114455",
+    "text_pt": "O carro está na garagem esta noite.",
+    "text_en": "The car is in the garage tonight.",
+    "audio_en_storage_path": "4455_the_car_is_in_the_garage_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114456",
+    "text_pt": "Está tranquilo e pronto para amanhã.",
+    "text_en": "It's quiet and ready for tomorrow.",
+    "audio_en_storage_path": "4456_its_quiet_and_ready_for_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114457",
+    "text_pt": "Eu o uso para ir trabalhar e cometer erros.",
+    "text_en": "I use it to go to work and make mistakes.",
+    "audio_en_storage_path": "4457_i_use_it_to_go_to_work_and_make_mistakes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114458",
+    "text_pt": "Às vezes dirijo só por diversão ou por música.",
+    "text_en": "Sometimes I drive just for fun or music.",
+    "audio_en_storage_path": "4458_sometimes_i_drive_just_for_fun_or_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114459",
+    "text_pt": "É preto, com janelas limpas e pneus novos.",
+    "text_en": "It is black with clean windows and new tires.",
+    "audio_en_storage_path": "4459_it_is_black_with_clean_windows_and_new_tires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114460",
+    "text_pt": "O motor faz um som suave ao dar a partida.",
+    "text_en": "The engine makes a soft sound when starting.",
+    "audio_en_storage_path": "4460_the_engine_makes_a_soft_sound_when_starting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114461",
+    "text_pt": "Há tapetes, um guarda-chuva e um carregador de telefone dentro.",
+    "text_en": "There are floor mats. an umbrella. and a phone charger inside.",
+    "audio_en_storage_path": "4461_there_are_floor_mats_an_umbrella_and_a_phone_charger_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114462",
+    "text_pt": "E mais uma multa de estacionamento no painel.",
+    "text_en": "And a parking ticket on the dashboard again.",
+    "audio_en_storage_path": "4462_and_a_parking_ticket_on_the_dashboard_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114463",
+    "text_pt": "Que tipo de carro você tem?",
+    "text_en": "What kind of car do you have?",
+    "audio_en_storage_path": "4463_what_kind_of_car_do_you_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114464",
+    "text_pt": "Um SUV pequeno — bom para viagens em família.",
+    "text_en": "A small SUV — good for family trips.",
+    "audio_en_storage_path": "4464_a_small_suv_good_for_family_trips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114465",
+    "text_pt": "Onde você guarda as ferramentas do seu carro?",
+    "text_en": "Where do you keep your car tools?",
+    "audio_en_storage_path": "4465_where_do_you_keep_your_car_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114466",
+    "text_pt": "No porta-malas — com o pneu reserva.",
+    "text_en": "In the trunk — with the spare tire.",
+    "audio_en_storage_path": "4466_in_the_trunk_with_the_spare_tire.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114467",
+    "text_pt": "Às vezes dirijo rápido nas rodovias.",
+    "text_en": "Sometimes I drive fast on highways.",
+    "audio_en_storage_path": "4467_sometimes_i_drive_fast_on_highways.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114468",
+    "text_pt": "Outras vezes dirijo devagar em trânsito intenso.",
+    "text_en": "Other times I drive slow in heavy traffic.",
+    "audio_en_storage_path": "4468_other_times_i_drive_slow_in_heavy_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114469",
+    "text_pt": "Onde você deixou as chaves do carro?",
+    "text_en": "Where did you leave the car keys?",
+    "audio_en_storage_path": "4469_where_did_you_leave_the_car_keys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114470",
+    "text_pt": "No balcão da cozinha — provavelmente perto do meu telefone.",
+    "text_en": "On the kitchen counter — probably near my phone.",
+    "audio_en_storage_path": "4470_on_the_kitchen_counter_probably_near_my_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114471",
+    "text_pt": "Quando você vai dirigir novamente?",
+    "text_en": "When will you drive again?",
+    "audio_en_storage_path": "4471_when_will_you_drive_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114472",
+    "text_pt": "Amanhã de manhã — depois do café da manhã.",
+    "text_en": "Tomorrow morning — after breakfast.",
+    "audio_en_storage_path": "4472_tomorrow_morning_after_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114473",
+    "text_pt": "Por que você encheu o tanque hoje?",
+    "text_en": "Why did you fill the tank today?",
+    "audio_en_storage_path": "4473_why_did_you_fill_the_tank_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114474",
+    "text_pt": "Porque vamos sair neste fim de semana.",
+    "text_en": "Because we're going out this weekend.",
+    "audio_en_storage_path": "4474_because_were_going_out_this_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114475",
+    "text_pt": "Eu sempre verifico o óleo antes de viagens longas.",
+    "text_en": "I always check the oil before long trips.",
+    "audio_en_storage_path": "4475_i_always_check_the_oil_before_long_trips.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114476",
+    "text_pt": "Mantém o carro funcionando perfeitamente.",
+    "text_en": "Keeps the car running smoothly.",
+    "audio_en_storage_path": "4476_keeps_the_car_running_smoothly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114477",
+    "text_pt": "Amanhã. Não vou esquecer de apagar as luzes novamente.",
+    "text_en": "Tomorrow. I will not forget to turn off the lights again.",
+    "audio_en_storage_path": "4477_tomorrow_i_will_not_forget_to_turn_off_the_lights_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114478",
+    "text_pt": "Deixei-os ligados ontem à noite — acabou com a bateria.",
+    "text_en": "Left them on last night — drained the battery.",
+    "audio_en_storage_path": "4478_left_them_on_last_night_drained_the_battery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114479",
+    "text_pt": "Dirija com segurança!",
+    "text_en": "Drive safely!",
+    "audio_en_storage_path": "4479_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114480",
+    "text_pt": "Mantenha as duas mãos no volante.",
+    "text_en": "Keep both hands on the wheel.",
+    "audio_en_storage_path": "4480_keep_both_hands_on_the_wheel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

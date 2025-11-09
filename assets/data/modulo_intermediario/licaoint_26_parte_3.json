@@ -1,0 +1,389 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120319",
+    "text_pt": "O bar fica aberto até tarde — perfeito para relaxar e conhecer pessoas",
+    "text_en": "Bar’s open late — perfect for unwindin’ and meetin’ folks",
+    "audio_en_storage_path": "319_bars_open_late_perfect_for_unwindin_and_meetin_folks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120320",
+    "text_pt": "Você pode usar a sauna e a área de spa após as 16h",
+    "text_en": "You can use the sauna and the spa area after 4 PM",
+    "audio_en_storage_path": "320_you_can_use_the_sauna_and_the_spa_area_after_4_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120321",
+    "text_pt": "Sauna e spa abertos após as 16h — ótima maneira de relaxar",
+    "text_en": "Sauna and spa open after 4 — great way to relax",
+    "audio_en_storage_path": "321_sauna_and_spa_open_after_4_great_way_to_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120322",
+    "text_pt": "Se você perder sua chave, eles lhe darão outra.",
+    "text_en": "If you lose your key. they’ll give you another one",
+    "audio_en_storage_path": "322_if_you_lose_your_key_theyll_give_you_another_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120323",
+    "text_pt": "Perdeu a chave? Não se preocupe — a Front te dá uma nova",
+    "text_en": "Lose your key? No worries — front gives you a new one",
+    "audio_en_storage_path": "323_lose_your_key_no_worries_front_gives_you_a_new_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120324",
+    "text_pt": "Há uma loja de presentes com lembranças e lanches",
+    "text_en": "There’s a gift shop with souvenirs and snacks",
+    "audio_en_storage_path": "324_theres_a_gift_shop_with_souvenirs_and_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120325",
+    "text_pt": "Pequena loja vende presentes, cartões postais e petiscos",
+    "text_en": "Small shop sells gifts. postcards. and munchies",
+    "audio_en_storage_path": "325_small_shop_sells_gifts_postcards_and_munchies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120326",
+    "text_pt": "O estacionamento está disponível, mas custa mais por dia.",
+    "text_en": "Parking is available but costs extra per day",
+    "audio_en_storage_path": "326_parking_is_available_but_costs_extra_per_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120327",
+    "text_pt": "Tem estacionamento, mas é cobrada uma taxa extra todos os dias.",
+    "text_en": "Got parking. but it’s an extra fee every day",
+    "audio_en_storage_path": "327_got_parking_but_its_an_extra_fee_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120328",
+    "text_pt": "Você pode carregar as coisas no seu quarto e pagar depois",
+    "text_en": "You can charge things to your room and pay later",
+    "audio_en_storage_path": "328_you_can_charge_things_to_your_room_and_pay_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120329",
+    "text_pt": "Coloque as despesas na sua conta e pague no caixa",
+    "text_en": "Put expenses on your bill and pay at checkout",
+    "audio_en_storage_path": "329_put_expenses_on_your_bill_and_pay_at_checkout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120330",
+    "text_pt": "Obrigado por ficar conosco. Tenha uma ótima viagem.",
+    "text_en": "Thanks for staying with us. Have a great trip",
+    "audio_en_storage_path": "330_thanks_for_staying_with_us_have_a_great_trip.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120331",
+    "text_pt": "Obrigado por nos escolher. Boa viagem e volte sempre.",
+    "text_en": "Thanks for choosing us. Safe travels and come back soon",
+    "audio_en_storage_path": "331_thanks_for_choosing_us_safe_travels_and_come_back_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120332",
+    "text_pt": "Saindo do Hotel – Check-Out e Momentos Finais",
+    "text_en": "Leaving the Hotel – Check-Out and Final Moments",
+    "audio_en_storage_path": "332_leaving_the_hotel_checkout_and_final_moments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120333",
+    "text_pt": "É hora de fazer o check-out e devolver o cartão-chave",
+    "text_en": "It’s time to check out and return the key card",
+    "audio_en_storage_path": "333_its_time_to_check_out_and_return_the_key_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120334",
+    "text_pt": "Hora de fazer o check-out — traga o cartão-chave de volta",
+    "text_en": "Time to check out — bring the key card back",
+    "audio_en_storage_path": "334_time_to_check_out_bring_the_key_card_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120335",
+    "text_pt": "Preciso devolver a chave do quarto e confirmar minha conta",
+    "text_en": "I need to return the room key and confirm my bill",
+    "audio_en_storage_path": "335_i_need_to_return_the_room_key_and_confirm_my_bill.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120336",
+    "text_pt": "Tenho que devolver a chave e verificar a conta final",
+    "text_en": "Gotta hand back the key and check the final bill",
+    "audio_en_storage_path": "336_gotta_hand_back_the_key_and_check_the_final_bill.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120337",
+    "text_pt": "Deixei alguma coisa na gaveta ou debaixo da cama?",
+    "text_en": "Did I leave anything behind in the drawer or under the bed?",
+    "audio_en_storage_path": "337_did_i_leave_anything_behind_in_the_drawer_or_under_the_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120338",
+    "text_pt": "Acha que deixei algo na gaveta ou debaixo do colchão?",
+    "text_en": "Think I left somethin’ in the drawer or under the mattress?",
+    "audio_en_storage_path": "338_think_i_left_somethin_in_the_drawer_or_under_the_mattress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120339",
+    "text_pt": "Todas as cobranças parecem corretas. Estou pronto para ir",
+    "text_en": "All charges look correct. I’m ready to go",
+    "audio_en_storage_path": "339_all_charges_look_correct_im_ready_to_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120340",
+    "text_pt": "Tudo parece bem — sem erros na conta",
+    "text_en": "Everything looks good — no mistakes on the bill",
+    "audio_en_storage_path": "340_everything_looks_good_no_mistakes_on_the_bill.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120341",
+    "text_pt": "Posso deixar minhas malas aqui enquanto espero o táxi?",
+    "text_en": "Can I leave my bags here while I wait for the taxi?",
+    "audio_en_storage_path": "341_can_i_leave_my_bags_here_while_i_wait_for_the_taxi.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120342",
+    "text_pt": "Posso deixar minhas malas aqui até meu transporte chegar?",
+    "text_en": "Can I leave my suitcases here ‘til my ride shows up?",
+    "audio_en_storage_path": "342_can_i_leave_my_suitcases_here_til_my_ride_shows_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120343",
+    "text_pt": "A equipe me ajudou a carregar minha bagagem até o carro",
+    "text_en": "The staff helped me carry my luggage to the car",
+    "audio_en_storage_path": "343_the_staff_helped_me_carry_my_luggage_to_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120344",
+    "text_pt": "Eles até carregaram minhas malas para o carro — um toque legal",
+    "text_en": "They even carried my bags to the car — nice touch",
+    "audio_en_storage_path": "344_they_even_carried_my_bags_to_the_car_nice_touch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120345",
+    "text_pt": "Gostei da minha estadia e recomendo este hotel",
+    "text_en": "I enjoyed my stay and will recommend this hotel",
+    "audio_en_storage_path": "345_i_enjoyed_my_stay_and_will_recommend_this_hotel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120346",
+    "text_pt": "Adorei meu tempo aqui — recomendo totalmente este lugar",
+    "text_en": "Loved my time here — would totally recommend this place",
+    "audio_en_storage_path": "346_loved_my_time_here_would_totally_recommend_this_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120347",
+    "text_pt": "Gostaria de receber atualizações sobre estadias futuras?",
+    "text_en": "Would you like to receive updates about future stays?",
+    "audio_en_storage_path": "347_would_you_like_to_receive_updates_about_future_stays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120348",
+    "text_pt": "Quer receber e-mails sobre quando voltar aqui novamente?",
+    "text_en": "Wanna get emails about coming back here again?",
+    "audio_en_storage_path": "348_wanna_get_emails_about_coming_back_here_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120349",
+    "text_pt": "Obrigado pelo excelente serviço e hospitalidade",
+    "text_en": "Thank you for the excellent service and hospitality",
+    "audio_en_storage_path": "349_thank_you_for_the_excellent_service_and_hospitality.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120350",
+    "text_pt": "Aprecie o ótimo serviço e a recepção calorosa",
+    "text_en": "Appreciate the great service and warm welcome",
+    "audio_en_storage_path": "350_appreciate_the_great_service_and_warm_welcome.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120351",
+    "text_pt": "Tenha uma viagem segura e aproveite o resto da sua jornada",
+    "text_en": "Have a safe trip and enjoy the rest of your journey",
+    "audio_en_storage_path": "351_have_a_safe_trip_and_enjoy_the_rest_of_your_journey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120352",
+    "text_pt": "Boa viagem e aproveite o resto da sua aventura",
+    "text_en": "Safe travels and enjoy the rest of your adventure",
+    "audio_en_storage_path": "352_safe_travels_and_enjoy_the_rest_of_your_adventure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120353",
+    "text_pt": "Tive uma experiência maravilhosa. Obrigado novamente.",
+    "text_en": "I had a wonderful experience. Thank you again",
+    "audio_en_storage_path": "353_i_had_a_wonderful_experience_thank_you_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120354",
+    "text_pt": "A melhor estadia de todas — obrigado por torná-la especial",
+    "text_en": "Best stay ever — thanks for making it special",
+    "audio_en_storage_path": "354_best_stay_ever_thanks_for_making_it_special.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120355",
+    "text_pt": "Por favor, deixe um comentário online se tiver tempo",
+    "text_en": "Please leave a review online if you have time",
+    "audio_en_storage_path": "355_please_leave_a_review_online_if_you_have_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120356",
+    "text_pt": "Se você tiver um minuto, deixe um comentário online",
+    "text_en": "If ya got a minute. leave a review online",
+    "audio_en_storage_path": "356_if_ya_got_a_minute_leave_a_review_online.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120357",
+    "text_pt": "Espero vê-lo novamente em breve",
+    "text_en": "Hope to see you again soon",
+    "audio_en_storage_path": "357_hope_to_see_you_again_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120358",
+    "text_pt": "Espero ver seu rosto por aqui novamente",
+    "text_en": "Hope to see your face around here again",
+    "audio_en_storage_path": "358_hope_to_see_your_face_around_here_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120359",
+    "text_pt": "Tome cuidado e tenha um ótimo dia",
+    "text_en": "Take care and have a great day",
+    "audio_en_storage_path": "359_take_care_and_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120360",
+    "text_pt": "Fique seguro e aproveite o seu dia",
+    "text_en": "Stay safe and enjoy your day",
+    "audio_en_storage_path": "360_stay_safe_and_enjoy_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120361",
+    "text_pt": "Adeus e obrigado",
+    "text_en": "Goodbye and thank you",
+    "audio_en_storage_path": "361_goodbye_and_thank_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

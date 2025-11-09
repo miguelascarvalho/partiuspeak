@@ -1,0 +1,1703 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114616",
+    "text_pt": "Manutenção Geral",
+    "text_en": "General Maintenance",
+    "audio_en_storage_path": "4616_general_maintenance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114617",
+    "text_pt": "O material de manutenção geral está na garagem.",
+    "text_en": "General maintenance stuff is in the garage.",
+    "audio_en_storage_path": "4617_general_maintenance_stuff_is_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114618",
+    "text_pt": "Óleo, fios e peças estão por toda parte.",
+    "text_en": "Oil. wires. and parts are everywhere.",
+    "audio_en_storage_path": "4618_oil_wires_and_parts_are_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114619",
+    "text_pt": "Nós o usamos para consertar luzes, canos e máquinas.",
+    "text_en": "We use it to fix lights. pipes. and machines.",
+    "audio_en_storage_path": "4619_we_use_it_to_fix_lights_pipes_and_machines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114620",
+    "text_pt": "Ou organize e classifique itens antigos.",
+    "text_en": "Or organize and sort old items.",
+    "audio_en_storage_path": "4620_or_organize_and_sort_old_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114621",
+    "text_pt": "Há cabos, lâmpadas e parafusos em caixas.",
+    "text_en": "There are cables. light bulbs. and screws in boxes.",
+    "audio_en_storage_path": "4621_there_are_cables_light_bulbs_and_screws_in_boxes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114622",
+    "text_pt": "Tudo classificado e etiquetado.",
+    "text_en": "All sorted and labeled.",
+    "audio_en_storage_path": "4622_all_sorted_and_labeled.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114623",
+    "text_pt": "Há máscaras, luvas e óculos de proteção por perto.",
+    "text_en": "There are masks. gloves. and goggles nearby.",
+    "audio_en_storage_path": "4623_there_are_masks_gloves_and_goggles_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114624",
+    "text_pt": "Para segurança durante reparos.",
+    "text_en": "For safety during repairs.",
+    "audio_en_storage_path": "4624_for_safety_during_repairs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114625",
+    "text_pt": "O que você vai consertar hoje?",
+    "text_en": "What are you fixing today?",
+    "audio_en_storage_path": "4625_what_are_you_fixing_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114626",
+    "text_pt": "A pia do banheiro — está vazando.",
+    "text_en": "The bathroom sink — it leaks.",
+    "audio_en_storage_path": "4626_the_bathroom_sink_it_leaks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114627",
+    "text_pt": "Onde você guarda a escada?",
+    "text_en": "Where do you keep the ladder?",
+    "audio_en_storage_path": "4627_where_do_you_keep_the_ladder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114628",
+    "text_pt": "No canto — alto e metálico.",
+    "text_en": "In the corner — tall and metal.",
+    "audio_en_storage_path": "4628_in_the_corner_tall_and_metal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114629",
+    "text_pt": "Às vezes trocamos as pilhas.",
+    "text_en": "Sometimes we change batteries.",
+    "audio_en_storage_path": "4629_sometimes_we_change_batteries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114630",
+    "text_pt": "Outras vezes consertamos tomadas elétricas.",
+    "text_en": "Other times we fix electrical sockets.",
+    "audio_en_storage_path": "4630_other_times_we_fix_electrical_sockets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114631",
+    "text_pt": "Onde você deixou a lanterna?",
+    "text_en": "Where did you leave the flashlight?",
+    "audio_en_storage_path": "4631_where_did_you_leave_the_flashlight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114632",
+    "text_pt": "No banco — ao lado das ferramentas.",
+    "text_en": "On the bench — next to the tools.",
+    "audio_en_storage_path": "4632_on_the_bench_next_to_the_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114633",
+    "text_pt": "Quando você vai terminar o reparo?",
+    "text_en": "When will you finish the repair?",
+    "audio_en_storage_path": "4633_when_will_you_finish_the_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114634",
+    "text_pt": "Antes do jantar — se nada der errado.",
+    "text_en": "Before dinner — if nothing goes wrong.",
+    "audio_en_storage_path": "4634_before_dinner_if_nothing_goes_wrong.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114635",
+    "text_pt": "Por que você desligou a energia hoje?",
+    "text_en": "Why did you turn off the power today?",
+    "audio_en_storage_path": "4635_why_did_you_turn_off_the_power_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114636",
+    "text_pt": "Para consertar com segurança a tomada da cozinha.",
+    "text_en": "To safely fix the kitchen outlet.",
+    "audio_en_storage_path": "4636_to_safely_fix_the_kitchen_outlet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114637",
+    "text_pt": "Ele verifica a casa mensalmente.",
+    "text_en": "He checks the house monthly.",
+    "audio_en_storage_path": "4637_he_checks_the_house_monthly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114638",
+    "text_pt": "Correções que precisam de atenção.",
+    "text_en": "Fixes that need attention.",
+    "audio_en_storage_path": "4638_fixes_that_need_attention.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114639",
+    "text_pt": "Amanhã. Não esquecerei de fechar a caixa de ferramentas novamente.",
+    "text_en": "Tomorrow. I will not forget to close the toolbox again.",
+    "audio_en_storage_path": "4639_tomorrow_i_will_not_forget_to_close_the_toolbox_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114640",
+    "text_pt": "Deixei aberto da última vez — perdi alguns parafusos.",
+    "text_en": "Left it open last time — lost some screws.",
+    "audio_en_storage_path": "4640_left_it_open_last_time_lost_some_screws.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114641",
+    "text_pt": "Fique seguro!",
+    "text_en": "Stay safe!",
+    "audio_en_storage_path": "4641_stay_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114642",
+    "text_pt": "Sempre verifique duas vezes antes de tocar nos fios.",
+    "text_en": "Always double-check before touching wires.",
+    "audio_en_storage_path": "4642_always_doublecheck_before_touching_wires.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114643",
+    "text_pt": "Portão Automático (Porta de Garagem / Portão)",
+    "text_en": "Automatic Gate (Garage Door / Gate)",
+    "audio_en_storage_path": "4643_automatic_gate_garage_door_gate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114644",
+    "text_pt": "O portão automático está fechado agora.",
+    "text_en": "The automatic gate is closed now.",
+    "audio_en_storage_path": "4644_the_automatic_gate_is_closed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114645",
+    "text_pt": "Ele abre com um controle remoto ou teclado.",
+    "text_en": "It opens with a remote or keypad.",
+    "audio_en_storage_path": "4645_it_opens_with_a_remote_or_keypad.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114646",
+    "text_pt": "Nós o usamos para estacionar o carro ou deixar hóspedes entrarem.",
+    "text_en": "We use it to park the car or let guests in.",
+    "audio_en_storage_path": "4646_we_use_it_to_park_the_car_or_let_guests_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114647",
+    "text_pt": "Às vezes ele fica preso — precisa de óleo.",
+    "text_en": "Sometimes it gets stuck — needs oil.",
+    "audio_en_storage_path": "4647_sometimes_it_gets_stuck_needs_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114648",
+    "text_pt": "É branco e feito de painéis grossos.",
+    "text_en": "It is white and made of thick panels.",
+    "audio_en_storage_path": "4648_it_is_white_and_made_of_thick_panels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114649",
+    "text_pt": "Move-se para cima e para baixo suavemente.",
+    "text_en": "Moves up and down smoothly.",
+    "audio_en_storage_path": "4649_moves_up_and_down_smoothly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114650",
+    "text_pt": "Há fios, botões e sensores por perto.",
+    "text_en": "There are wires. buttons. and sensors nearby.",
+    "audio_en_storage_path": "4650_there_are_wires_buttons_and_sensors_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114651",
+    "text_pt": "Pronto para controle e reparo.",
+    "text_en": "Ready for control and repair.",
+    "audio_en_storage_path": "4651_ready_for_control_and_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114652",
+    "text_pt": "O portão abre com o seu telefone?",
+    "text_en": "Does the gate open with your phone?",
+    "audio_en_storage_path": "4652_does_the_gate_open_with_your_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114653",
+    "text_pt": "Sim — conecta-se por meio de um aplicativo.",
+    "text_en": "Yes — connects through an app.",
+    "audio_en_storage_path": "4653_yes_connects_through_an_app.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114654",
+    "text_pt": "Onde está o controle remoto?",
+    "text_en": "Where is the remote?",
+    "audio_en_storage_path": "4654_where_is_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114655",
+    "text_pt": "No porta-luvas — como sempre.",
+    "text_en": "In the glove compartment — as usual.",
+    "audio_en_storage_path": "4655_in_the_glove_compartment_as_usual.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114656",
+    "text_pt": "Às vezes ele se move lentamente.",
+    "text_en": "Sometimes it moves slowly.",
+    "audio_en_storage_path": "4656_sometimes_it_moves_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114657",
+    "text_pt": "Outras vezes, ele salta rápido.",
+    "text_en": "Other times it jumps up fast.",
+    "audio_en_storage_path": "4657_other_times_it_jumps_up_fast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114658",
+    "text_pt": "Onde você deixou o abridor manual?",
+    "text_en": "Where did you leave the manual opener?",
+    "audio_en_storage_path": "4658_where_did_you_leave_the_manual_opener.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114659",
+    "text_pt": "Embaixo do assento — deve ser mantido à mão.",
+    "text_en": "Under the seat — should be kept handy.",
+    "audio_en_storage_path": "4659_under_the_seat_should_be_kept_handy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114660",
+    "text_pt": "Quando você chamará o técnico novamente?",
+    "text_en": "When will you call the technician again?",
+    "audio_en_storage_path": "4660_when_will_you_call_the_technician_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114661",
+    "text_pt": "Se não abrir amanhã de manhã.",
+    "text_en": "If it doesn't open tomorrow morning.",
+    "audio_en_storage_path": "4661_if_it_doesnt_open_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114662",
+    "text_pt": "Por que você ajustou o portão hoje?",
+    "text_en": "Why did you adjust the gate today?",
+    "audio_en_storage_path": "4662_why_did_you_adjust_the_gate_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114663",
+    "text_pt": "Porque não fechava direito.",
+    "text_en": "Because it wouldn't close properly.",
+    "audio_en_storage_path": "4663_because_it_wouldnt_close_properly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114664",
+    "text_pt": "Ele verifica o portão todas as noites.",
+    "text_en": "He checks the gate every evening.",
+    "audio_en_storage_path": "4664_he_checks_the_gate_every_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114665",
+    "text_pt": "Só para ter certeza de que funciona.",
+    "text_en": "Just to make sure it works.",
+    "audio_en_storage_path": "4665_just_to_make_sure_it_works.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114666",
+    "text_pt": "Amanhã. Não esquecerei de testar os sensores novamente.",
+    "text_en": "Tomorrow. I will not forget to test the sensors again.",
+    "audio_en_storage_path": "4666_tomorrow_i_will_not_forget_to_test_the_sensors_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114667",
+    "text_pt": "Quase bati na parede da última vez.",
+    "text_en": "Almost hit the wall last time.",
+    "audio_en_storage_path": "4667_almost_hit_the_wall_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114668",
+    "text_pt": "Abra com cuidado!",
+    "text_en": "Open carefully!",
+    "audio_en_storage_path": "4668_open_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114669",
+    "text_pt": "Certifique-se de que nada bloqueie o caminho.",
+    "text_en": "Make sure nothing blocks the way.",
+    "audio_en_storage_path": "4669_make_sure_nothing_blocks_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114670",
+    "text_pt": "Luzes de garagem",
+    "text_en": "Garage Lights",
+    "audio_en_storage_path": "4670_garage_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114671",
+    "text_pt": "As luzes da garagem estão no teto.",
+    "text_en": "The garage lights are on the ceiling.",
+    "audio_en_storage_path": "4671_the_garage_lights_are_on_the_ceiling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114672",
+    "text_pt": "Eles nos ajudam a enxergar claramente à noite.",
+    "text_en": "They help us see clearly at night.",
+    "audio_en_storage_path": "4672_they_help_us_see_clearly_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114673",
+    "text_pt": "Nós os usamos quando trabalhamos no carro ou nas motos.",
+    "text_en": "We use them when working on the car or bikes.",
+    "audio_en_storage_path": "4673_we_use_them_when_working_on_the_car_or_bikes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114674",
+    "text_pt": "Ou procurando por algo perdido.",
+    "text_en": "Or searching for something lost.",
+    "audio_en_storage_path": "4674_or_searching_for_something_lost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114675",
+    "text_pt": "Os bulbos são brilhantes e redondos.",
+    "text_en": "The bulbs are bright and round.",
+    "audio_en_storage_path": "4675_the_bulbs_are_bright_and_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114676",
+    "text_pt": "Uma delas pisca — precisa ser substituída.",
+    "text_en": "One flickers — needs replacing.",
+    "audio_en_storage_path": "4676_one_flickers_needs_replacing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114677",
+    "text_pt": "Há interruptores, lâmpadas e clipes de fio abaixo.",
+    "text_en": "There are switches. bulbs. and wire clips below.",
+    "audio_en_storage_path": "4677_there_are_switches_bulbs_and_wire_clips_below.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114678",
+    "text_pt": "Pronto para instalação ou reparo.",
+    "text_en": "Ready for installation or repair.",
+    "audio_en_storage_path": "4678_ready_for_installation_or_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114679",
+    "text_pt": "As luzes estão funcionando?",
+    "text_en": "Are the lights working?",
+    "audio_en_storage_path": "4679_are_the_lights_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114680",
+    "text_pt": "Um está fora — vou substituí-lo em breve.",
+    "text_en": "One is out — I’ll replace it soon.",
+    "audio_en_storage_path": "4680_one_is_out_ill_replace_it_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114681",
+    "text_pt": "Onde você guarda lâmpadas extras?",
+    "text_en": "Where do you keep extra bulbs?",
+    "audio_en_storage_path": "4681_where_do_you_keep_extra_bulbs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114682",
+    "text_pt": "Na gaveta — com pilhas e fusíveis.",
+    "text_en": "In the drawer — with batteries and fuses.",
+    "audio_en_storage_path": "4682_in_the_drawer_with_batteries_and_fuses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114683",
+    "text_pt": "Às vezes adicionamos lâmpadas extras.",
+    "text_en": "Sometimes we add extra lamps.",
+    "audio_en_storage_path": "4683_sometimes_we_add_extra_lamps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114684",
+    "text_pt": "Outras vezes, apenas limpamos as luminárias do teto.",
+    "text_en": "Other times we just clean the ceiling lights.",
+    "audio_en_storage_path": "4684_other_times_we_just_clean_the_ceiling_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114685",
+    "text_pt": "Onde você deixou a escada?",
+    "text_en": "Where did you leave the ladder?",
+    "audio_en_storage_path": "4685_where_did_you_leave_the_ladder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114686",
+    "text_pt": "Perto da parede — fácil de encontrar.",
+    "text_en": "Near the wall — easy to find.",
+    "audio_en_storage_path": "4686_near_the_wall_easy_to_find.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114687",
+    "text_pt": "Quando você vai consertar a luz?",
+    "text_en": "When will you fix the light?",
+    "audio_en_storage_path": "4687_when_will_you_fix_the_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114688",
+    "text_pt": "Hoje à noite — antes que escureça.",
+    "text_en": "Tonight — before it gets dark.",
+    "audio_en_storage_path": "4688_tonight_before_it_gets_dark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114689",
+    "text_pt": "Por que você trocou a lâmpada hoje?",
+    "text_en": "Why did you change the bulb today?",
+    "audio_en_storage_path": "4689_why_did_you_change_the_bulb_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114690",
+    "text_pt": "Porque não consegui encontrar nada no escuro.",
+    "text_en": "Because I couldn't find anything in the dark.",
+    "audio_en_storage_path": "4690_because_i_couldnt_find_anything_in_the_dark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114691",
+    "text_pt": "Ele sempre acende as luzes antes de entrar.",
+    "text_en": "He always turns on the lights before entering.",
+    "audio_en_storage_path": "4691_he_always_turns_on_the_lights_before_entering.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114692",
+    "text_pt": "A segurança vem em primeiro lugar na garagem.",
+    "text_en": "Safety comes first in the garage.",
+    "audio_en_storage_path": "4692_safety_comes_first_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114693",
+    "text_pt": "Amanhã. Não vou esquecer de desligar o interruptor novamente.",
+    "text_en": "Tomorrow. I will not forget to turn off the switch again.",
+    "audio_en_storage_path": "4693_tomorrow_i_will_not_forget_to_turn_off_the_switch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114694",
+    "text_pt": "Deixei ligado a noite toda da última vez.",
+    "text_en": "Left it on all night last time.",
+    "audio_en_storage_path": "4694_left_it_on_all_night_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114695",
+    "text_pt": "Ilumine-se!",
+    "text_en": "Brighten up!",
+    "audio_en_storage_path": "4695_brighten_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114696",
+    "text_pt": "Uma boa iluminação mantém as coisas seguras.",
+    "text_en": "Good lighting keeps things safe.",
+    "audio_en_storage_path": "4696_good_lighting_keeps_things_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114697",
+    "text_pt": "Mangueira / Mangueira de jardim",
+    "text_en": "Hose / Garden Hose",
+    "audio_en_storage_path": "4697_hose_garden_hose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114698",
+    "text_pt": "A mangueira do jardim está enrolada na garagem.",
+    "text_en": "The garden hose is coiled in the garage.",
+    "audio_en_storage_path": "4698_the_garden_hose_is_coiled_in_the_garage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114699",
+    "text_pt": "Conectado à torneira externa.",
+    "text_en": "Connected to the outdoor faucet.",
+    "audio_en_storage_path": "4699_connected_to_the_outdoor_faucet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114700",
+    "text_pt": "Eu o uso para lavar o carro ou regar o jardim.",
+    "text_en": "I use it to wash the car or water the garden.",
+    "audio_en_storage_path": "4700_i_use_it_to_wash_the_car_or_water_the_garden.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114701",
+    "text_pt": "Às vezes, para limpar a calçada.",
+    "text_en": "Sometimes to clean the sidewalk.",
+    "audio_en_storage_path": "4701_sometimes_to_clean_the_sidewalk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114702",
+    "text_pt": "É preto com um bico de plástico.",
+    "text_en": "It is black with a plastic nozzle.",
+    "audio_en_storage_path": "4702_it_is_black_with_a_plastic_nozzle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114703",
+    "text_pt": "Tem alguns problemas, mas ainda funciona.",
+    "text_en": "Has a few kinks but still works.",
+    "audio_en_storage_path": "4703_has_a_few_kinks_but_still_works.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114704",
+    "text_pt": "Há baldes, sabão e escovas por perto.",
+    "text_en": "There are buckets. soap. and brushes nearby.",
+    "audio_en_storage_path": "4704_there_are_buckets_soap_and_brushes_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114705",
+    "text_pt": "Pronto para o dia da limpeza.",
+    "text_en": "Ready for cleaning day.",
+    "audio_en_storage_path": "4705_ready_for_cleaning_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114706",
+    "text_pt": "Para que você usa a mangueira?",
+    "text_en": "What do you use the hose for?",
+    "audio_en_storage_path": "4706_what_do_you_use_the_hose_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114707",
+    "text_pt": "Regando o jardim e lavando bicicletas.",
+    "text_en": "Watering the garden and washing bikes.",
+    "audio_en_storage_path": "4707_watering_the_garden_and_washing_bikes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114708",
+    "text_pt": "Onde você guarda a mangueira quando não está em uso?",
+    "text_en": "Where do you keep the hose when not in use?",
+    "audio_en_storage_path": "4708_where_do_you_keep_the_hose_when_not_in_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114709",
+    "text_pt": "Enrolado perfeitamente no anzol.",
+    "text_en": "Coiled neatly on the hook.",
+    "audio_en_storage_path": "4709_coiled_neatly_on_the_hook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114710",
+    "text_pt": "Às vezes eu uso para me refrescar no verão.",
+    "text_en": "Sometimes I use it to cool off in summer.",
+    "audio_en_storage_path": "4710_sometimes_i_use_it_to_cool_off_in_summer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114711",
+    "text_pt": "Outras vezes apenas para limpar pedras.",
+    "text_en": "Other times just to clean stones.",
+    "audio_en_storage_path": "4711_other_times_just_to_clean_stones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114712",
+    "text_pt": "Onde você deixou o bico?",
+    "text_en": "Where did you leave the nozzle?",
+    "audio_en_storage_path": "4712_where_did_you_leave_the_nozzle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114713",
+    "text_pt": "No chão — talvez debaixo do carro.",
+    "text_en": "On the ground — maybe under the car.",
+    "audio_en_storage_path": "4713_on_the_ground_maybe_under_the_car.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114714",
+    "text_pt": "Quando você vai usá-lo novamente?",
+    "text_en": "When will you use it again?",
+    "audio_en_storage_path": "4714_when_will_you_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114715",
+    "text_pt": "Amanhã — depois do almoço.",
+    "text_en": "Tomorrow — after lunch.",
+    "audio_en_storage_path": "4715_tomorrow_after_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114716",
+    "text_pt": "Por que você deixou isso lá fora hoje?",
+    "text_en": "Why did you leave it outside today?",
+    "audio_en_storage_path": "4716_why_did_you_leave_it_outside_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114717",
+    "text_pt": "Esqueci de enrolá-lo depois de lavar.",
+    "text_en": "Forgot to coil it up after washing.",
+    "audio_en_storage_path": "4717_forgot_to_coil_it_up_after_washing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114718",
+    "text_pt": "Ele usa a mangueira todo sábado.",
+    "text_en": "He uses the hose every Saturday.",
+    "audio_en_storage_path": "4718_he_uses_the_hose_every_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114719",
+    "text_pt": "Mantém o jardim vivo e limpo.",
+    "text_en": "Keeps the garden alive and clean.",
+    "audio_en_storage_path": "4719_keeps_the_garden_alive_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114720",
+    "text_pt": "Amanhã. Não vou esquecer de drenar a água novamente.",
+    "text_en": "Tomorrow. I will not forget to drain the water again.",
+    "audio_en_storage_path": "4720_tomorrow_i_will_not_forget_to_drain_the_water_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114721",
+    "text_pt": "Congelado e rachado no inverno passado.",
+    "text_en": "Frozen and cracked last winter.",
+    "audio_en_storage_path": "4721_frozen_and_cracked_last_winter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114722",
+    "text_pt": "Limpeza e água — tudo em uma ferramenta.",
+    "text_en": "Clean and water — all in one tool.",
+    "audio_en_storage_path": "4722_clean_and_water_all_in_one_tool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114723",
+    "text_pt": "Obrigado, mangueira!",
+    "text_en": "Thanks. hose!",
+    "audio_en_storage_path": "4723_thanks_hose.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114724",
+    "text_pt": "Teto",
+    "text_en": "Roof",
+    "audio_en_storage_path": "4724_roof.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114725",
+    "text_pt": "O telhado fica em cima da casa.",
+    "text_en": "The roof is on top of the house.",
+    "audio_en_storage_path": "4725_the_roof_is_on_top_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114726",
+    "text_pt": "Ela nos protege da chuva e do sol.",
+    "text_en": "It protects us from rain and sun.",
+    "audio_en_storage_path": "4726_it_protects_us_from_rain_and_sun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114727",
+    "text_pt": "Nós o usamos para verificar vazamentos ou danos.",
+    "text_en": "We use it to check for leaks or damage.",
+    "audio_en_storage_path": "4727_we_use_it_to_check_for_leaks_or_damage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114728",
+    "text_pt": "Às vezes limpamos folhas e galhos.",
+    "text_en": "Sometimes we clean leaves and branches.",
+    "audio_en_storage_path": "4728_sometimes_we_clean_leaves_and_branches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114729",
+    "text_pt": "É inclinado e feito de telhas vermelhas.",
+    "text_en": "It is sloped and made of red tiles.",
+    "audio_en_storage_path": "4729_it_is_sloped_and_made_of_red_tiles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114730",
+    "text_pt": "Há pequenas rachaduras perto da borda.",
+    "text_en": "There are small cracks near the edge.",
+    "audio_en_storage_path": "4730_there_are_small_cracks_near_the_edge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114731",
+    "text_pt": "Há calhas, antenas e painéis solares por perto.",
+    "text_en": "There are gutters. antennas. and solar panels nearby.",
+    "audio_en_storage_path": "4731_there_are_gutters_antennas_and_solar_panels_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114732",
+    "text_pt": "E às vezes os pássaros pousam lá.",
+    "text_en": "And birds sometimes land there.",
+    "audio_en_storage_path": "4732_and_birds_sometimes_land_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114733",
+    "text_pt": "Qual é a cor do seu telhado?",
+    "text_en": "What color is your roof?",
+    "audio_en_storage_path": "4733_what_color_is_your_roof.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114734",
+    "text_pt": "Marrom escuro — parece forte e clássico.",
+    "text_en": "Dark brown — looks strong and classic.",
+    "audio_en_storage_path": "4734_dark_brown_looks_strong_and_classic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114735",
+    "text_pt": "Onde você vai para consertar um vazamento?",
+    "text_en": "Where do you go to fix a leak?",
+    "audio_en_storage_path": "4735_where_do_you_go_to_fix_a_leak.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114736",
+    "text_pt": "No telhado — com uma escada e ferramentas.",
+    "text_en": "On the roof — with a ladder and tools.",
+    "audio_en_storage_path": "4736_on_the_roof_with_a_ladder_and_tools.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114737",
+    "text_pt": "Às vezes andamos sobre ele com cuidado.",
+    "text_en": "Sometimes we walk on it carefully.",
+    "audio_en_storage_path": "4737_sometimes_we_walk_on_it_carefully.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114738",
+    "text_pt": "Outras vezes, apenas olhamos de baixo.",
+    "text_en": "Other times we just look from below.",
+    "audio_en_storage_path": "4738_other_times_we_just_look_from_below.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114739",
+    "text_pt": "Onde você deixou o martelo?",
+    "text_en": "Where did you leave the hammer?",
+    "audio_en_storage_path": "4739_where_did_you_leave_the_hammer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114740",
+    "text_pt": "Na bolsa de ferramentas — pronto para o trabalho.",
+    "text_en": "In the tool bag — ready for work.",
+    "audio_en_storage_path": "4740_in_the_tool_bag_ready_for_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114741",
+    "text_pt": "Quando vocês vão consertar o telhado novamente?",
+    "text_en": "When will you repair the roof again?",
+    "audio_en_storage_path": "4741_when_will_you_repair_the_roof_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114742",
+    "text_pt": "Depois da temporada de tempestades — quando está seco.",
+    "text_en": "After the storm season — when it’s dry.",
+    "audio_en_storage_path": "4742_after_the_storm_season_when_its_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114743",
+    "text_pt": "Por que você escalou hoje?",
+    "text_en": "Why did you climb today?",
+    "audio_en_storage_path": "4743_why_did_you_climb_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114744",
+    "text_pt": "Porque entrou água durante a chuva da noite passada.",
+    "text_en": "Because water came in during last night’s rain.",
+    "audio_en_storage_path": "4744_because_water_came_in_during_last_nights_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114745",
+    "text_pt": "Ele verifica o telhado todo ano.",
+    "text_en": "He checks the roof every year.",
+    "audio_en_storage_path": "4745_he_checks_the_roof_every_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114746",
+    "text_pt": "Só para ficar seguro e seco.",
+    "text_en": "Just to be safe and dry.",
+    "audio_en_storage_path": "4746_just_to_be_safe_and_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114747",
+    "text_pt": "Amanhã. Não esquecerei de fechar a escotilha novamente.",
+    "text_en": "Tomorrow. I will not forget to close the hatch again.",
+    "audio_en_storage_path": "4747_tomorrow_i_will_not_forget_to_close_the_hatch_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114748",
+    "text_pt": "Deixei aberto da última vez — quase caí.",
+    "text_en": "Left it open last time — almost fell through.",
+    "audio_en_storage_path": "4748_left_it_open_last_time_almost_fell_through.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114749",
+    "text_pt": "Fique seguro aí em cima!",
+    "text_en": "Stay safe up there!",
+    "audio_en_storage_path": "4749_stay_safe_up_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114750",
+    "text_pt": "Não corra riscos sozinho.",
+    "text_en": "Don’t take risks alone.",
+    "audio_en_storage_path": "4750_dont_take_risks_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114751",
+    "text_pt": "Janelas",
+    "text_en": "Windows",
+    "audio_en_storage_path": "4751_windows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114752",
+    "text_pt": "As janelas estão em todos os lados da casa.",
+    "text_en": "The windows are on all sides of the house.",
+    "audio_en_storage_path": "4752_the_windows_are_on_all_sides_of_the_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114753",
+    "text_pt": "Elas deixam a luz entrar e impedem a entrada de ar frio.",
+    "text_en": "They let light in and keep cold air out.",
+    "audio_en_storage_path": "4753_they_let_light_in_and_keep_cold_air_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114754",
+    "text_pt": "Nós os usamos para ver o exterior e tomar ar fresco.",
+    "text_en": "We use them to see outside and get fresh air.",
+    "audio_en_storage_path": "4754_we_use_them_to_see_outside_and_get_fresh_air.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114755",
+    "text_pt": "Às vezes, eles precisam de limpeza ou reparo.",
+    "text_en": "Sometimes they need cleaning or repair.",
+    "audio_en_storage_path": "4755_sometimes_they_need_cleaning_or_repair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114756",
+    "text_pt": "Eles são altos, de vidro e emoldurados em branco.",
+    "text_en": "They are tall. glass. and framed in white.",
+    "audio_en_storage_path": "4756_they_are_tall_glass_and_framed_in_white.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114757",
+    "text_pt": "Alguns têm cortinas, outros persianas.",
+    "text_en": "Some have curtains. other blinds.",
+    "audio_en_storage_path": "4757_some_have_curtains_other_blinds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114758",
+    "text_pt": "Há limpadores de janelas, trapos e escadas por perto.",
+    "text_en": "There are window cleaners. rags. and ladders nearby.",
+    "audio_en_storage_path": "4758_there_are_window_cleaners_rags_and_ladders_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114759",
+    "text_pt": "Pronto para fixação ou polimento.",
+    "text_en": "Ready for fixing or polishing.",
+    "audio_en_storage_path": "4759_ready_for_fixing_or_polishing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114760",
+    "text_pt": "Qual janela está quebrada?",
+    "text_en": "Which window is broken?",
+    "audio_en_storage_path": "4760_which_window_is_broken.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114761",
+    "text_pt": "O da sala de estar precisa de um novo painel.",
+    "text_en": "The one in the living room — needs a new pane.",
+    "audio_en_storage_path": "4761_the_one_in_the_living_room_needs_a_new_pane.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114762",
+    "text_pt": "Onde você armazena as peças extras das janelas?",
+    "text_en": "Where do you store extra window parts?",
+    "audio_en_storage_path": "4762_where_do_you_store_extra_window_parts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114763",
+    "text_pt": "Na garagem — etiquetada e organizada.",
+    "text_en": "In the garage — labeled and organized.",
+    "audio_en_storage_path": "4763_in_the_garage_labeled_and_organized.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114764",
+    "text_pt": "Às vezes substituímos o vidro.",
+    "text_en": "Sometimes we replace the glass.",
+    "audio_en_storage_path": "4764_sometimes_we_replace_the_glass.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114765",
+    "text_pt": "Outras vezes, apenas lubrificamos as dobradiças.",
+    "text_en": "Other times we just oil the hinges.",
+    "audio_en_storage_path": "4765_other_times_we_just_oil_the_hinges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114766",
+    "text_pt": "Onde você deixou a chave de fenda?",
+    "text_en": "Where did you leave the screwdriver?",
+    "audio_en_storage_path": "4766_where_did_you_leave_the_screwdriver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114767",
+    "text_pt": "No parapeito da janela — provavelmente debaixo de um pano.",
+    "text_en": "On the windowsill — probably under a cloth.",
+    "audio_en_storage_path": "4767_on_the_windowsill_probably_under_a_cloth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114768",
+    "text_pt": "Quando você vai limpar as janelas novamente?",
+    "text_en": "When will you clean the windows again?",
+    "audio_en_storage_path": "4768_when_will_you_clean_the_windows_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114769",
+    "text_pt": "Semana que vem — depois que o vento parar.",
+    "text_en": "Next week — after the wind stops.",
+    "audio_en_storage_path": "4769_next_week_after_the_wind_stops.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114770",
+    "text_pt": "Por que você abriu a janela hoje?",
+    "text_en": "Why did you open the window today?",
+    "audio_en_storage_path": "4770_why_did_you_open_the_window_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114771",
+    "text_pt": "Porque a casa parecia abafada e quente.",
+    "text_en": "Because the house felt stuffy and warm.",
+    "audio_en_storage_path": "4771_because_the_house_felt_stuffy_and_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114772",
+    "text_pt": "Ela limpa as janelas todo mês.",
+    "text_en": "She cleans the windows every month.",
+    "audio_en_storage_path": "4772_she_cleans_the_windows_every_month.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114773",
+    "text_pt": "Mantém tudo com aparência nova.",
+    "text_en": "Keeps everything looking fresh.",
+    "audio_en_storage_path": "4773_keeps_everything_looking_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114774",
+    "text_pt": "Amanhã. Não vou esquecer de trancá-lo novamente.",
+    "text_en": "Tomorrow. I will not forget to lock it again.",
+    "audio_en_storage_path": "4774_tomorrow_i_will_not_forget_to_lock_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114775",
+    "text_pt": "Esqueci ontem à noite — alguém deixou aberto.",
+    "text_en": "Forgot last night — someone left it open.",
+    "audio_en_storage_path": "4775_forgot_last_night_someone_left_it_open.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114776",
+    "text_pt": "Janelas limpas fazem a casa brilhar!",
+    "text_en": "Clean windows make the house shine!",
+    "audio_en_storage_path": "4776_clean_windows_make_the_house_shine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114777",
+    "text_pt": "Limpe-os com cuidado — sem deixar marcas.",
+    "text_en": "Wipe them gently — no streaks.",
+    "audio_en_storage_path": "4777_wipe_them_gently_no_streaks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114778",
+    "text_pt": "Paredes",
+    "text_en": "Walls",
+    "audio_en_storage_path": "4778_walls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114779",
+    "text_pt": "As paredes circundam a casa inteira.",
+    "text_en": "The walls surround the entire house.",
+    "audio_en_storage_path": "4779_the_walls_surround_the_entire_house.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114780",
+    "text_pt": "Elas dão estrutura e privacidade.",
+    "text_en": "They give structure and privacy.",
+    "audio_en_storage_path": "4780_they_give_structure_and_privacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114781",
+    "text_pt": "Nós as pintamos ou penduramos quadros nelas.",
+    "text_en": "We paint them or hang pictures on them.",
+    "audio_en_storage_path": "4781_we_paint_them_or_hang_pictures_on_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114782",
+    "text_pt": "Às vezes, remendamos buracos e rachaduras.",
+    "text_en": "Sometimes we patch holes and cracks.",
+    "audio_en_storage_path": "4782_sometimes_we_patch_holes_and_cracks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114783",
+    "text_pt": "Eles são brancos com algumas marcas e arranhões.",
+    "text_en": "They are white with some marks and scratches.",
+    "audio_en_storage_path": "4783_they_are_white_with_some_marks_and_scratches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114784",
+    "text_pt": "Alguns são lisos. Outros são texturizados.",
+    "text_en": "Some are smooth. others are textured.",
+    "audio_en_storage_path": "4784_some_are_smooth_others_are_textured.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114785",
+    "text_pt": "Há pregos, ganchos e molduras penduradas.",
+    "text_en": "There are nails. hooks. and frames hanging.",
+    "audio_en_storage_path": "4785_there_are_nails_hooks_and_frames_hanging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114786",
+    "text_pt": "E fios passando atrás.",
+    "text_en": "And wires running behind.",
+    "audio_en_storage_path": "4786_and_wires_running_behind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114787",
+    "text_pt": "O que há de errado com a parede?",
+    "text_en": "What’s wrong with the wall?",
+    "audio_en_storage_path": "4787_whats_wrong_with_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114788",
+    "text_pt": "A rachadura apareceu depois da chuva forte.",
+    "text_en": "The crack appeared after the heavy rain.",
+    "audio_en_storage_path": "4788_the_crack_appeared_after_the_heavy_rain.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114789",
+    "text_pt": "Onde você encontrou o kit de remendo?",
+    "text_en": "Where did you find the patch kit?",
+    "audio_en_storage_path": "4789_where_did_you_find_the_patch_kit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114790",
+    "text_pt": "Na garagem — embaixo das latas de tinta.",
+    "text_en": "In the garage — under the paint cans.",
+    "audio_en_storage_path": "4790_in_the_garage_under_the_paint_cans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114791",
+    "text_pt": "Às vezes fazemos furos para encontrar prateleiras.",
+    "text_en": "Sometimes we drill for shelves.",
+    "audio_en_storage_path": "4791_sometimes_we_drill_for_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114792",
+    "text_pt": "Outras vezes, apenas tiramos o pó e limpamos.",
+    "text_en": "Other times we just dust and clean.",
+    "audio_en_storage_path": "4792_other_times_we_just_dust_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114793",
+    "text_pt": "Onde está o problema agora?",
+    "text_en": "Where is the problem now?",
+    "audio_en_storage_path": "4793_where_is_the_problem_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114794",
+    "text_pt": "Perto da cozinha — atrás dos armários.",
+    "text_en": "Near the kitchen — behind the cabinets.",
+    "audio_en_storage_path": "4794_near_the_kitchen_behind_the_cabinets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114795",
+    "text_pt": "Quando você vai consertar a parede novamente?",
+    "text_en": "When will you fix the wall again?",
+    "audio_en_storage_path": "4795_when_will_you_fix_the_wall_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114796",
+    "text_pt": "No próximo fim de semana — se eu tiver tempo.",
+    "text_en": "Next weekend — if I have time.",
+    "audio_en_storage_path": "4796_next_weekend_if_i_have_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114797",
+    "text_pt": "Por que você pintou a parede hoje?",
+    "text_en": "Why did you paint the wall today?",
+    "audio_en_storage_path": "4797_why_did_you_paint_the_wall_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114798",
+    "text_pt": "Porque parecia velho e cansado.",
+    "text_en": "Because it looked old and tired.",
+    "audio_en_storage_path": "4798_because_it_looked_old_and_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114799",
+    "text_pt": "Ele verifica as paredes com frequência.",
+    "text_en": "He checks the walls often.",
+    "audio_en_storage_path": "4799_he_checks_the_walls_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114800",
+    "text_pt": "Não quer mofo nem grandes rachaduras.",
+    "text_en": "Doesn’t want mold or big cracks.",
+    "audio_en_storage_path": "4800_doesnt_want_mold_or_big_cracks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114801",
+    "text_pt": "Amanhã. Não vou esquecer de cobrir o chão novamente.",
+    "text_en": "Tomorrow. I will not forget to cover the floor again.",
+    "audio_en_storage_path": "4801_tomorrow_i_will_not_forget_to_cover_the_floor_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114802",
+    "text_pt": "Da última vez, caiu tinta no tapete.",
+    "text_en": "Paint got on the rug last time.",
+    "audio_en_storage_path": "4802_paint_got_on_the_rug_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114803",
+    "text_pt": "Mantenha suas paredes fortes e limpas!",
+    "text_en": "Keep your walls strong and clean!",
+    "audio_en_storage_path": "4803_keep_your_walls_strong_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase114804",
+    "text_pt": "Pequenas correções evitam grandes problemas.",
+    "text_en": "Small fixes prevent big problems.",
+    "audio_en_storage_path": "4804_small_fixes_prevent_big_problems.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

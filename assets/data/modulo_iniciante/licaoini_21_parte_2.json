@@ -1,0 +1,209 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100772",
+    "text_pt": "Conjunto de frases – Comprando de vendedores ambulantes",
+    "text_en": "Sentence Set – Buying from Street Vendors",
+    "audio_en_storage_path": "773_sentence_set_buying_from_street_vendors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100773",
+    "text_pt": "Este vendedor vende cachorros-quentes e batatas fritas.",
+    "text_en": "This vendor sells hot dogs and fries.",
+    "audio_en_storage_path": "774_this_vendor_sells_hot_dogs_and_fries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100774",
+    "text_pt": "Muitas pessoas param para almoçar.",
+    "text_en": "Many people stop by for lunch.",
+    "audio_en_storage_path": "775_many_people_stop_by_for_lunch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100775",
+    "text_pt": "Ele cozinha ao ar livre em seu pequeno caminhão.",
+    "text_en": "He cooks outside in his small truck.",
+    "audio_en_storage_path": "776_he_cooks_outside_in_his_small_truck.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100776",
+    "text_pt": "Há uma pequena mesa para comer perto.",
+    "text_en": "There is a small table to eat nearby.",
+    "audio_en_storage_path": "777_there_is_a_small_table_to_eat_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100777",
+    "text_pt": "Posso ter molho extra?",
+    "text_en": "Can I have extra sauce?",
+    "audio_en_storage_path": "778_can_i_have_extra_sauce.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100778",
+    "text_pt": "Sim, basta dizer “extra” ao fazer o pedido.",
+    "text_en": "Yes, just say “extra” when ordering.",
+    "audio_en_storage_path": "779_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100779",
+    "text_pt": "Não, está incluído no preço.",
+    "text_en": "No, it’s included in the price.",
+    "audio_en_storage_path": "780_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100780",
+    "text_pt": "Onde fica o porta-guardanapos?",
+    "text_en": "Where is the napkin stand?",
+    "audio_en_storage_path": "781_where_is_the_napkin_stand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100781",
+    "text_pt": "Fica ao lado do vendedor de limonada.",
+    "text_en": "It’s next to the lemonade seller.",
+    "audio_en_storage_path": "782_its_next_to_the_lemonade_seller.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100782",
+    "text_pt": "Quando vocês vão repor as batatas fritas?",
+    "text_en": "When will you restock the fries?",
+    "audio_en_storage_path": "783_when_will_you_restock_the_fries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100783",
+    "text_pt": "Vou reabastecê-los em dez minutos.",
+    "text_en": "I’ll restock them in ten minutes.",
+    "audio_en_storage_path": "784_ill_restock_them_in_ten_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100784",
+    "text_pt": "Por que você escolheu esse fornecedor?",
+    "text_en": "Why did you choose this vendor?",
+    "audio_en_storage_path": "785_why_did_you_choose_this_vendor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100785",
+    "text_pt": "O cheiro me deixou com fome.",
+    "text_en": "The smell made me hungry.",
+    "audio_en_storage_path": "786_the_smell_made_me_hungry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100786",
+    "text_pt": "Ela pede molho extra toda vez.",
+    "text_en": "She asks for extra sauce every time.",
+    "audio_en_storage_path": "787_she_asks_for_extra_sauce_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100787",
+    "text_pt": "Ele não comerá comida de rua sozinho.",
+    "text_en": "He won’t eat street food alone.",
+    "audio_en_storage_path": "788_he_wont_eat_street_food_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100789",
+    "text_pt": "Vou reabastecê-los em dez minutos.",
+    "text_en": "I’ll restock them in ten minutes.",
+    "audio_en_storage_path": "790_ill_restock_them_in_ten_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100790",
+    "text_pt": "Vou reabastecer em dez minutos.",
+    "text_en": "Gonna restock in ten mins.",
+    "audio_en_storage_path": "791_gonna_restock_in_ten_mins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100791",
+    "text_pt": "Ele não comerá comida de rua sozinho.",
+    "text_en": "He won’t eat street food alone.",
+    "audio_en_storage_path": "792_he_wont_eat_street_food_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100792",
+    "text_pt": "Ele não come comida de rua sozinho.",
+    "text_en": "He ain't eatin’ street food solo.",
+    "audio_en_storage_path": "793_he_aint_eatin_street_food_solo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100793",
+    "text_pt": "Ela pede molho extra toda vez.",
+    "text_en": "She asks for extra sauce every time.",
+    "audio_en_storage_path": "794_she_asks_for_extra_sauce_every_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100794",
+    "text_pt": "Ela sempre pede molho extra.",
+    "text_en": "She always asks for extra sauce.",
+    "audio_en_storage_path": "795_she_always_asks_for_extra_sauce.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100795",
+    "text_pt": "Farmácia / Correios / Banco",
+    "text_en": "Pharmacy / Post Office / Bank",
+    "audio_en_storage_path": "796_pharmacy_post_office_bank.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

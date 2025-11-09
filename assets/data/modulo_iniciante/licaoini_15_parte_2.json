@@ -1,0 +1,326 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100407",
+    "text_pt": "As bananas estão mais baratas hoje em dia?",
+    "text_en": "Are bananas cheaper today?",
+    "audio_en_storage_path": "408_are_bananas_cheaper_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100408",
+    "text_pt": "Sim, eles custam US$ 0,30 cada.",
+    "text_en": "Yes, they’re $0.30 each.",
+    "audio_en_storage_path": "409_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100409",
+    "text_pt": "Não, eles são os mesmos de sempre.",
+    "text_en": "No, they’re the same as always.",
+    "audio_en_storage_path": "410_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100410",
+    "text_pt": "Por que você escolheu esse iogurte?",
+    "text_en": "Why did you choose this yogurt?",
+    "audio_en_storage_path": "411_why_did_you_choose_this_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100411",
+    "text_pt": "Tem menos açúcar que os outros.",
+    "text_en": "It has less sugar than the others.",
+    "audio_en_storage_path": "412_it_has_less_sugar_than_the_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100412",
+    "text_pt": "Ele verifica o preço antes de comprar.",
+    "text_en": "He checks the price before buying.",
+    "audio_en_storage_path": "413_he_checks_the_price_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100413",
+    "text_pt": "Eles não comprarão alimentos vencidos.",
+    "text_en": "They won’t buy expired food.",
+    "audio_en_storage_path": "414_they_wont_buy_expired_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100415",
+    "text_pt": "Tem menos açúcar que os outros.",
+    "text_en": "It has less sugar than the others.",
+    "audio_en_storage_path": "416_it_has_less_sugar_than_the_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100416",
+    "text_pt": "Tem menos açúcar que os outros.",
+    "text_en": "It's got less sugar than the rest.",
+    "audio_en_storage_path": "417_its_got_less_sugar_than_the_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100417",
+    "text_pt": "Eles não comprarão alimentos vencidos.",
+    "text_en": "They won’t buy expired food.",
+    "audio_en_storage_path": "418_they_wont_buy_expired_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100418",
+    "text_pt": "Eles não compram comida vencida.",
+    "text_en": "They ain't buyin’ no expired food.",
+    "audio_en_storage_path": "419_they_aint_buyin_no_expired_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100419",
+    "text_pt": "Ele verifica o preço antes de comprar.",
+    "text_en": "He checks the price before buying.",
+    "audio_en_storage_path": "420_he_checks_the_price_before_buying.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100420",
+    "text_pt": "Ele verifica o preço antes de comprar.",
+    "text_en": "He checks the price b’fore buyin’.",
+    "audio_en_storage_path": "421_he_checks_the_price_bfore_buyin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100421",
+    "text_pt": "Conjunto de frases – No checkout",
+    "text_en": "Sentence Set – At the Checkout",
+    "audio_en_storage_path": "422_sentence_set_at_the_checkout.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100422",
+    "text_pt": "Esta é a área de checkout.",
+    "text_en": "This is the checkout area.",
+    "audio_en_storage_path": "423_this_is_the_checkout_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100423",
+    "text_pt": "Nós o usamos para pagar nossas compras de supermercado.",
+    "text_en": "We use it to pay for our groceries.",
+    "audio_en_storage_path": "424_we_use_it_to_pay_for_our_groceries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100424",
+    "text_pt": "Há também máquinas de autoatendimento.",
+    "text_en": "There are self-checkout machines too.",
+    "audio_en_storage_path": "425_there_are_selfcheckout_machines_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100425",
+    "text_pt": "O caixa escaneia cada item.",
+    "text_en": "The cashier scans each item.",
+    "audio_en_storage_path": "426_the_cashier_scans_each_item.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100426",
+    "text_pt": "Você quer sacolas de papel ou de plástico?",
+    "text_en": "Do you want paper or plastic bags?",
+    "audio_en_storage_path": "427_do_you_want_paper_or_plastic_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100427",
+    "text_pt": "Prefiro os reutilizáveis, obrigado.",
+    "text_en": "I prefer reusable ones, thank you.",
+    "audio_en_storage_path": "428_i_prefer_reusable_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100428",
+    "text_pt": "Sacolas de papel são melhores para itens pesados.",
+    "text_en": "Paper bags are better for heavy items.",
+    "audio_en_storage_path": "429_paper_bags_are_better_for_heavy_items.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100429",
+    "text_pt": "Onde fica o balcão de atendimento ao cliente?",
+    "text_en": "Where is the customer service desk?",
+    "audio_en_storage_path": "430_where_is_the_customer_service_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100430",
+    "text_pt": "Fica perto da entrada, perto da saída.",
+    "text_en": "It’s near the entrance, by the exit.",
+    "audio_en_storage_path": "431_its_near_the_entrance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100431",
+    "text_pt": "Quando seu turno vai terminar?",
+    "text_en": "When will your shift end?",
+    "audio_en_storage_path": "432_when_will_your_shift_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100432",
+    "text_pt": "Meu turno termina às cinco horas.",
+    "text_en": "My shift ends at five o’clock.",
+    "audio_en_storage_path": "433_my_shift_ends_at_five_oclock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100433",
+    "text_pt": "Por que você devolveu aquele item?",
+    "text_en": "Why did you return that item?",
+    "audio_en_storage_path": "434_why_did_you_return_that_item.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100434",
+    "text_pt": "Estava quebrado quando o abri.",
+    "text_en": "It was broken when I opened it.",
+    "audio_en_storage_path": "435_it_was_broken_when_i_opened_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100435",
+    "text_pt": "Ela paga com dinheiro ou cartão.",
+    "text_en": "She pays with cash or card.",
+    "audio_en_storage_path": "436_she_pays_with_cash_or_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100436",
+    "text_pt": "Ele não fará compras aqui se os preços subirem.",
+    "text_en": "He won’t shop here if prices go up.",
+    "audio_en_storage_path": "437_he_wont_shop_here_if_prices_go_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100437",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "438_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100438",
+    "text_pt": "Meu turno termina às cinco horas.",
+    "text_en": "My shift ends at five o’clock.",
+    "audio_en_storage_path": "439_my_shift_ends_at_five_oclock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100439",
+    "text_pt": "Meu turno termina às cinco.",
+    "text_en": "My shift ends at five.",
+    "audio_en_storage_path": "440_my_shift_ends_at_five.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100440",
+    "text_pt": "Ele não fará compras aqui se os preços subirem.",
+    "text_en": "He won’t shop here if prices go up.",
+    "audio_en_storage_path": "441_he_wont_shop_here_if_prices_go_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100441",
+    "text_pt": "Ele não virá aqui se os preços subirem.",
+    "text_en": "He ain't comin’ here if prices go up.",
+    "audio_en_storage_path": "442_he_aint_comin_here_if_prices_go_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100442",
+    "text_pt": "Ela paga com dinheiro ou cartão.",
+    "text_en": "She pays with cash or card.",
+    "audio_en_storage_path": "443_she_pays_with_cash_or_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100443",
+    "text_pt": "Ela paga em dinheiro ou cartão, depende.",
+    "text_en": "She pays cash or card, depends.",
+    "audio_en_storage_path": "444_she_pays_cash_or_card.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

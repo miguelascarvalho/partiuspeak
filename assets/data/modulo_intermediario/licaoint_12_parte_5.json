@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111970",
+    "text_pt": "Café",
+    "text_en": "Coffee",
+    "audio_en_storage_path": "1970_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111971",
+    "text_pt": "O café está sendo preparado na cozinha.",
+    "text_en": "The coffee is brewing in the kitchen.",
+    "audio_en_storage_path": "1971_the_coffee_is_brewing_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111972",
+    "text_pt": "O cheiro me acorda.",
+    "text_en": "The smell wakes me up.",
+    "audio_en_storage_path": "1972_the_smell_wakes_me_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111973",
+    "text_pt": "Eu tomo café todas as manhãs.",
+    "text_en": "I drink coffee every morning.",
+    "audio_en_storage_path": "1973_i_drink_coffee_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111974",
+    "text_pt": "Isso me dá energia para o dia todo.",
+    "text_en": "It gives me energy for the day.",
+    "audio_en_storage_path": "1974_it_gives_me_energy_for_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111975",
+    "text_pt": "A caneca é branca com alça preta.",
+    "text_en": "The mug is white with a black handle.",
+    "audio_en_storage_path": "1975_the_mug_is_white_with_a_black_handle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111977",
+    "text_pt": "Eu adiciono leite e açúcar antes de beber.",
+    "text_en": "I add milk and sugar before drinking.",
+    "audio_en_storage_path": "1977_i_add_milk_and_sugar_before_drinking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111978",
+    "text_pt": "Algumas pessoas preferem preto.",
+    "text_en": "Some people prefer it black.",
+    "audio_en_storage_path": "1978_some_people_prefer_it_black.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111979",
+    "text_pt": "Como você toma seu café?",
+    "text_en": "How do you take your coffee?",
+    "audio_en_storage_path": "1979_how_do_you_take_your_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111980",
+    "text_pt": "Com creme e um pouco de açúcar.",
+    "text_en": "With cream and one sugar.",
+    "audio_en_storage_path": "1980_with_cream_and_one_sugar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111981",
+    "text_pt": "Onde você guarda seus grãos de café?",
+    "text_en": "Where do you keep your coffee beans?",
+    "audio_en_storage_path": "1981_where_do_you_keep_your_coffee_beans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111982",
+    "text_pt": "No armário — longe do calor.",
+    "text_en": "In the cupboard — away from heat.",
+    "audio_en_storage_path": "1982_in_the_cupboard_away_from_heat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111983",
+    "text_pt": "Às vezes eu faço expresso.",
+    "text_en": "Sometimes I make espresso.",
+    "audio_en_storage_path": "1983_sometimes_i_make_espresso.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111984",
+    "text_pt": "Outras vezes eu só uso instantâneo.",
+    "text_en": "Other times I just use instant.",
+    "audio_en_storage_path": "1984_other_times_i_just_use_instant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111985",
+    "text_pt": "Onde está sua caneca favorita agora?",
+    "text_en": "Where is your favorite mug now?",
+    "audio_en_storage_path": "1985_where_is_your_favorite_mug_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111986",
+    "text_pt": "Na pia — ainda cheia de café velho.",
+    "text_en": "In the sink — still full of old coffee.",
+    "audio_en_storage_path": "1986_in_the_sink_still_full_of_old_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111987",
+    "text_pt": "Quando você costuma tomar café?",
+    "text_en": "When do you usually have coffee?",
+    "audio_en_storage_path": "1987_when_do_you_usually_have_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111988",
+    "text_pt": "Logo depois de acordar — por volta das 7h.",
+    "text_en": "Right after waking up — around 7:00 AM.",
+    "audio_en_storage_path": "1988_right_after_waking_up_around_700_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111989",
+    "text_pt": "Por que você fez mais café hoje?",
+    "text_en": "Why did you make extra coffee today?",
+    "audio_en_storage_path": "1989_why_did_you_make_extra_coffee_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111990",
+    "text_pt": "Porque meu amigo ficou aqui e também precisava de um pouco.",
+    "text_en": "Because my friend stayed over and needed some too.",
+    "audio_en_storage_path": "1990_because_my_friend_stayed_over_and_needed_some_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111991",
+    "text_pt": "Gosto de uma xícara de café quente pela manhã.",
+    "text_en": "I enjoy a warm cup of coffee in the morning.",
+    "audio_en_storage_path": "1991_i_enjoy_a_warm_cup_of_coffee_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111992",
+    "text_pt": "Isso me faz sentir acordado e pronto.",
+    "text_en": "It makes me feel awake and ready.",
+    "audio_en_storage_path": "1992_it_makes_me_feel_awake_and_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111993",
+    "text_pt": "Amanhã. Não vou mais derramar café na minha camisa.",
+    "text_en": "Tomorrow. I will not spill coffee on my shirt again.",
+    "audio_en_storage_path": "1993_tomorrow_i_will_not_spill_coffee_on_my_shirt_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111994",
+    "text_pt": "Serei mais cuidadoso ao caminhar.",
+    "text_en": "I’ll be more careful while walking.",
+    "audio_en_storage_path": "1994_ill_be_more_careful_while_walking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111995",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "1995_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111996",
+    "text_pt": "Aproveite sua xícara de café.",
+    "text_en": "Enjoy your cup of coffee.",
+    "audio_en_storage_path": "1996_enjoy_your_cup_of_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

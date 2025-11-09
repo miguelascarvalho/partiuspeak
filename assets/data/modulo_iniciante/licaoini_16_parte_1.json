@@ -1,0 +1,326 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100444",
+    "text_pt": "Loja de roupas / Loja de departamentos",
+    "text_en": "Clothing Store / Department Store",
+    "audio_en_storage_path": "445_clothing_store_department_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100445",
+    "text_pt": "Comprar roupas",
+    "text_en": "Sentence Set – Buying Clothes",
+    "audio_en_storage_path": "446_sentence_set_buying_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100446",
+    "text_pt": "Esta é uma loja de roupas.",
+    "text_en": "This is a clothing store.",
+    "audio_en_storage_path": "447_this_is_a_clothing_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100447",
+    "text_pt": "Viemos aqui para comprar roupas e sapatos.",
+    "text_en": "We come here to buy clothes and shoes.",
+    "audio_en_storage_path": "448_we_come_here_to_buy_clothes_and_shoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100448",
+    "text_pt": "A loja tem seções masculinas, femininas e infantis.",
+    "text_en": "The store has men’s, women’s, and kids’ sections.",
+    "audio_en_storage_path": "449_the_store_has_mens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100449",
+    "text_pt": "Há camisas, calças e chapéus em exposição.",
+    "text_en": "There are shirts, pants, and hats on display.",
+    "audio_en_storage_path": "450_there_are_shirts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100450",
+    "text_pt": "Posso experimentar esta jaqueta?",
+    "text_en": "Can I try this jacket on?",
+    "audio_en_storage_path": "451_can_i_try_this_jacket_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100451",
+    "text_pt": "Sim, os provadores são ali.",
+    "text_en": "Yes, the fitting rooms are over there.",
+    "audio_en_storage_path": "452_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100452",
+    "text_pt": "Não, este já foi vendido.",
+    "text_en": "No, this one is already sold.",
+    "audio_en_storage_path": "453_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100453",
+    "text_pt": "Onde fica o vestiário?",
+    "text_en": "Where is the dressing room?",
+    "audio_en_storage_path": "454_where_is_the_dressing_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100454",
+    "text_pt": "Fica perto do fundo da loja.",
+    "text_en": "It’s near the back of the store.",
+    "audio_en_storage_path": "455_its_near_the_back_of_the_store.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100455",
+    "text_pt": "Quando a nova coleção chegará?",
+    "text_en": "When will the new collection arrive?",
+    "audio_en_storage_path": "456_when_will_the_new_collection_arrive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100456",
+    "text_pt": "A nova coleção chega no mês que vem.",
+    "text_en": "The new collection comes next month.",
+    "audio_en_storage_path": "457_the_new_collection_comes_next_month.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100457",
+    "text_pt": "Por que você devolveu o jeans?",
+    "text_en": "Why did you return the jeans?",
+    "audio_en_storage_path": "458_why_did_you_return_the_jeans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100458",
+    "text_pt": "Eles eram muito apertados na cintura.",
+    "text_en": "They were too tight around the waist.",
+    "audio_en_storage_path": "459_they_were_too_tight_around_the_waist.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100459",
+    "text_pt": "Ela encontra seu tamanho facilmente.",
+    "text_en": "She finds her size easily.",
+    "audio_en_storage_path": "460_she_finds_her_size_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100460",
+    "text_pt": "Ele não vai usar essa camisa novamente.",
+    "text_en": "He won’t wear that shirt again.",
+    "audio_en_storage_path": "461_he_wont_wear_that_shirt_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100461",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "462_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100462",
+    "text_pt": "A nova coleção chega no mês que vem.",
+    "text_en": "The new collection comes next month.",
+    "audio_en_storage_path": "463_the_new_collection_comes_next_month.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100463",
+    "text_pt": "A nova linha será lançada no mês que vem.",
+    "text_en": "The new line drops next month.",
+    "audio_en_storage_path": "464_the_new_line_drops_next_month.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100464",
+    "text_pt": "Ele não vai usar essa camisa novamente.",
+    "text_en": "He won’t wear that shirt again.",
+    "audio_en_storage_path": "465_he_wont_wear_that_shirt_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100465",
+    "text_pt": "Ele nunca mais vai usar essa camisa.",
+    "text_en": "He ain't wearin’ that shirt ever again.",
+    "audio_en_storage_path": "466_he_aint_wearin_that_shirt_ever_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100466",
+    "text_pt": "Ela encontra seu tamanho facilmente.",
+    "text_en": "She finds her size easily.",
+    "audio_en_storage_path": "467_she_finds_her_size_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100467",
+    "text_pt": "Ela encontra seu tamanho rapidamente.",
+    "text_en": "She finds her size quick.",
+    "audio_en_storage_path": "468_she_finds_her_size_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100468",
+    "text_pt": " Falando sobre roupas",
+    "text_en": " Talking About Clothes",
+    "audio_en_storage_path": "469_sentence_set_talking_about_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100469",
+    "text_pt": "Essa camisa é minha cor favorita.",
+    "text_en": "This shirt is my favorite color.",
+    "audio_en_storage_path": "470_this_shirt_is_my_favorite_color.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100470",
+    "text_pt": "Veste bem e é confortável.",
+    "text_en": "It fits well and feels comfortable.",
+    "audio_en_storage_path": "471_it_fits_well_and_feels_comfortable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100471",
+    "text_pt": "Gosto do design e do tecido.",
+    "text_en": "I like the design and fabric.",
+    "audio_en_storage_path": "472_i_like_the_design_and_fabric.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100472",
+    "text_pt": "Há uma etiqueta com o preço dentro.",
+    "text_en": "There is a tag with the price inside.",
+    "audio_en_storage_path": "473_there_is_a_tag_with_the_price_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100473",
+    "text_pt": "Isso fica bem em mim?",
+    "text_en": "Does this look good on me?",
+    "audio_en_storage_path": "474_does_this_look_good_on_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100474",
+    "text_pt": "Sim, realmente combina com você.",
+    "text_en": "Yes, it really suits you.",
+    "audio_en_storage_path": "475_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100475",
+    "text_pt": "Não, talvez tente outro estilo.",
+    "text_en": "No, maybe try another style.",
+    "audio_en_storage_path": "476_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100476",
+    "text_pt": "Onde fica o balcão de descontos?",
+    "text_en": "Where is the discount rack?",
+    "audio_en_storage_path": "477_where_is_the_discount_rack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100477",
+    "text_pt": "Fica perto da frente, perto da entrada.",
+    "text_en": "It’s near the front, by the entrance.",
+    "audio_en_storage_path": "478_its_near_the_front.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100478",
+    "text_pt": "Quando isso estará à venda?",
+    "text_en": "When will this be on sale?",
+    "audio_en_storage_path": "479_when_will_this_be_on_sale.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100479",
+    "text_pt": "Ele estará à venda na semana que vem.",
+    "text_en": "It goes on sale next week.",
+    "audio_en_storage_path": "480_it_goes_on_sale_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

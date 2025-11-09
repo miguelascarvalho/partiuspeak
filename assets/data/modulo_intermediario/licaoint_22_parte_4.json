@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113725",
+    "text_pt": "Tia e Sobrinha – Assistindo séries juntas",
+    "text_en": "Aunt and Niece – Watching series together",
+    "audio_en_storage_path": "3725_aunt_and_niece_watching_series_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113726",
+    "text_pt": "Ela senta-se com a sobrinha no sofá.",
+    "text_en": "She sits with her niece on the couch.",
+    "audio_en_storage_path": "3726_she_sits_with_her_niece_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113727",
+    "text_pt": "Eles começam outro episódio de sua série favorita.",
+    "text_en": "They start another episode of their favorite series.",
+    "audio_en_storage_path": "3727_they_start_another_episode_of_their_favorite_series.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113728",
+    "text_pt": "Eles comem biscoitos e conversam entre os episódios.",
+    "text_en": "They eat cookies and talk between episodes.",
+    "audio_en_storage_path": "3728_they_eat_cookies_and_talk_between_episodes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113729",
+    "text_pt": "Eles adivinham o que acontece em seguida.",
+    "text_en": "They guess what happens next.",
+    "audio_en_storage_path": "3729_they_guess_what_happens_next.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113730",
+    "text_pt": "A tela mostra personagens e cenas.",
+    "text_en": "The screen shows characters and scenes.",
+    "audio_en_storage_path": "3730_the_screen_shows_characters_and_scenes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113731",
+    "text_pt": "A música faz com que eles se sintam emocionados.",
+    "text_en": "The music makes them feel emotional.",
+    "audio_en_storage_path": "3731_the_music_makes_them_feel_emotional.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113732",
+    "text_pt": "Há canecas, cobertores e um caderno por perto.",
+    "text_en": "There are mugs. blankets. and a notebook nearby.",
+    "audio_en_storage_path": "3732_there_are_mugs_blankets_and_a_notebook_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113733",
+    "text_pt": "Para anotar citações e ideias.",
+    "text_en": "For writing down quotes and ideas.",
+    "audio_en_storage_path": "3733_for_writing_down_quotes_and_ideas.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113734",
+    "text_pt": "Que programa você vai assistir hoje à noite?",
+    "text_en": "What show are you watching tonight?",
+    "audio_en_storage_path": "3734_what_show_are_you_watching_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113735",
+    "text_pt": "Uma série de fantasia — cheia de magia e dragões.",
+    "text_en": "A fantasy series — full of magic and dragons.",
+    "audio_en_storage_path": "3735_a_fantasy_series_full_of_magic_and_dragons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113736",
+    "text_pt": "Onde ela deixou o caderno?",
+    "text_en": "Where did she leave the notebook?",
+    "audio_en_storage_path": "3736_where_did_she_leave_the_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113737",
+    "text_pt": "No apoio de braço — provavelmente debaixo do cobertor.",
+    "text_en": "On the armrest — probably under the blanket.",
+    "audio_en_storage_path": "3737_on_the_armrest_probably_under_the_blanket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113738",
+    "text_pt": "Às vezes eles assistem novamente temporadas antigas.",
+    "text_en": "Sometimes they rewatch old seasons.",
+    "audio_en_storage_path": "3738_sometimes_they_rewatch_old_seasons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113739",
+    "text_pt": "Outras vezes eles esperam por novos.",
+    "text_en": "Other times they wait for new ones.",
+    "audio_en_storage_path": "3739_other_times_they_wait_for_new_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113740",
+    "text_pt": "Onde estão as meninas agora?",
+    "text_en": "Where are the girls now?",
+    "audio_en_storage_path": "3740_where_are_the_girls_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113741",
+    "text_pt": "No sofá — chorando depois de uma cena triste.",
+    "text_en": "On the couch — crying after a sad scene.",
+    "audio_en_storage_path": "3741_on_the_couch_crying_after_a_sad_scene.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113742",
+    "text_pt": "Quando será lançada a próxima temporada?",
+    "text_en": "When will the next season come out?",
+    "audio_en_storage_path": "3742_when_will_the_next_season_come_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113743",
+    "text_pt": "Não por meses — eles terão que esperar.",
+    "text_en": "Not for months — they’ll have to wait.",
+    "audio_en_storage_path": "3743_not_for_months_theyll_have_to_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113744",
+    "text_pt": "Por que ela começou esse show hoje?",
+    "text_en": "Why did she start this show today?",
+    "audio_en_storage_path": "3744_why_did_she_start_this_show_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113745",
+    "text_pt": "Porque o garoto pediu algo mágico.",
+    "text_en": "Because the kid asked for something magical.",
+    "audio_en_storage_path": "3745_because_the_kid_asked_for_something_magical.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113746",
+    "text_pt": "Eles assistem episódios juntos todo domingo.",
+    "text_en": "They watch episodes together every Sunday.",
+    "audio_en_storage_path": "3746_they_watch_episodes_together_every_sunday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113747",
+    "text_pt": "É o momento especial deles.",
+    "text_en": "It’s their special moment.",
+    "audio_en_storage_path": "3747_its_their_special_moment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113748",
+    "text_pt": "Amanhã ela não vai esquecer de sair novamente.",
+    "text_en": "Tomorrow. she will not forget to log out again.",
+    "audio_en_storage_path": "3748_tomorrow_she_will_not_forget_to_log_out_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113749",
+    "text_pt": "Outra pessoa usou a conta da última vez.",
+    "text_en": "Someone else used the account last time.",
+    "audio_en_storage_path": "3749_someone_else_used_the_account_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113750",
+    "text_pt": "Não estrague!",
+    "text_en": "Don’t spoil it!",
+    "audio_en_storage_path": "3750_dont_spoil_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase113751",
+    "text_pt": "Ainda não assisti.",
+    "text_en": "I haven't watched it yet.",
+    "audio_en_storage_path": "3751_i_havent_watched_it_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

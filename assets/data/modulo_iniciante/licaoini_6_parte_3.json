@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101206",
+    "text_pt": "Como chegar ao shopping – A pé",
+    "text_en": "How to get to the mall – On foot",
+    "audio_en_storage_path": "306_how_to_get_to_the_mall_on_foot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101207",
+    "text_pt": "Comece a caminhar a partir da estação de metrô.",
+    "text_en": "Start walking from the subway station.",
+    "audio_en_storage_path": "307_start_walking_from_the_subway_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101208",
+    "text_pt": "Vire à esquerda e passe pela floricultura.",
+    "text_en": "Turn left and walk past the flower shop.",
+    "audio_en_storage_path": "308_turn_left_and_walk_past_the_flower_shop.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101209",
+    "text_pt": "Depois de cinco quarteirões. você passará por uma farmácia à sua direita.",
+    "text_en": "After five blocks. you’ll pass a pharmacy on your right.",
+    "audio_en_storage_path": "309_after_five_blocks_youll_pass_a_pharmacy_on_your_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101210",
+    "text_pt": "Depois continue em frente até chegar à padaria.",
+    "text_en": "Then keep going straight until you reach the bakery.",
+    "audio_en_storage_path": "310_then_keep_going_straight_until_you_reach_the_bakery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101211",
+    "text_pt": "O shopping fica logo depois da padaria.",
+    "text_en": "The mall is just after the bakery.",
+    "audio_en_storage_path": "311_the_mall_is_just_after_the_bakery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101212",
+    "text_pt": "Você pode vê-lo do outro lado da rua — grande e brilhante.",
+    "text_en": "You can see it across the street — big and bright.",
+    "audio_en_storage_path": "312_you_can_see_it_across_the_street_big_and_bright.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101213",
+    "text_pt": "Há faixas de pedestres e semáforos ao longo do caminho.",
+    "text_en": "There are crosswalks and traffic lights along the way.",
+    "audio_en_storage_path": "313_there_are_crosswalks_and_traffic_lights_along_the_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101214",
+    "text_pt": "Caminhe com segurança e siga as placas.",
+    "text_en": "Walk safely and follow the signs.",
+    "audio_en_storage_path": "314_walk_safely_and_follow_the_signs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101215",
+    "text_pt": "Quanto tempo demora para ir andando até lá?",
+    "text_en": "How long does it take to walk there?",
+    "audio_en_storage_path": "315_how_long_does_it_take_to_walk_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101216",
+    "text_pt": "Cerca de 20 minutos — não muito longe.",
+    "text_en": "About 20 minutes — not too far.",
+    "audio_en_storage_path": "316_about_20_minutes_not_too_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101217",
+    "text_pt": "Onde viro à direita?",
+    "text_en": "Where do I turn right?",
+    "audio_en_storage_path": "317_where_do_i_turn_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101218",
+    "text_pt": "Na esquina com os correios verdes.",
+    "text_en": "At the corner with the green post office.",
+    "audio_en_storage_path": "318_at_the_corner_with_the_green_post_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101219",
+    "text_pt": "Às vezes paro para tomar um café.",
+    "text_en": "Sometimes I stop for coffee.",
+    "audio_en_storage_path": "319_sometimes_i_stop_for_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101220",
+    "text_pt": "Outras vezes vou direto.",
+    "text_en": "Other times I just go directly.",
+    "audio_en_storage_path": "320_other_times_i_just_go_directly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101221",
+    "text_pt": "Onde atravesso a rua?",
+    "text_en": "Where do I cross the street?",
+    "audio_en_storage_path": "321_where_do_i_cross_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101222",
+    "text_pt": "No sinal vermelho — perto da barraca de frutas.",
+    "text_en": "At the red light — near the fruit stand.",
+    "audio_en_storage_path": "322_at_the_red_light_near_the_fruit_stand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101223",
+    "text_pt": "Quando chegarei se eu sair agora?",
+    "text_en": "When will I arrive if I leave now?",
+    "audio_en_storage_path": "323_when_will_i_arrive_if_i_leave_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101224",
+    "text_pt": "Em cerca de 15 minutos — depende dos semáforos.",
+    "text_en": "In about 15 minutes — depends on traffic lights.",
+    "audio_en_storage_path": "324_in_about_15_minutes_depends_on_traffic_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101225",
+    "text_pt": "Por que você escolheu caminhar hoje?",
+    "text_en": "Why did you choose to walk today?",
+    "audio_en_storage_path": "325_why_did_you_choose_to_walk_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101226",
+    "text_pt": "Porque o clima estava perfeito.",
+    "text_en": "Because the weather was perfect.",
+    "audio_en_storage_path": "326_because_the_weather_was_perfect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101227",
+    "text_pt": "Ele vai ao shopping todo fim de semana.",
+    "text_en": "He walks to the mall every weekend.",
+    "audio_en_storage_path": "327_he_walks_to_the_mall_every_weekend.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101228",
+    "text_pt": "Sempre segue o mesmo caminho — sabe disso muito bem.",
+    "text_en": "Always takes the same route — knows it well.",
+    "audio_en_storage_path": "328_always_takes_the_same_route_knows_it_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101229",
+    "text_pt": "Amanhã. Não vou esquecer de levar meu guarda-chuva de novo.",
+    "text_en": "Tomorrow. I will not forget to bring my umbrella again.",
+    "audio_en_storage_path": "329_tomorrow_i_will_not_forget_to_bring_my_umbrella_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101230",
+    "text_pt": "Começou a chover da última vez — fiquei encharcado.",
+    "text_en": "It started raining last time — got soaked.",
+    "audio_en_storage_path": "330_it_started_raining_last_time_got_soaked.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101231",
+    "text_pt": "Tome cuidado ao caminhar!",
+    "text_en": "Take care while walking!",
+    "audio_en_storage_path": "331_take_care_while_walking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase101232",
+    "text_pt": "Cuidado com o que faz e fique alerta.",
+    "text_en": "Watch your step and stay alert.",
+    "audio_en_storage_path": "332_watch_your_step_and_stay_alert.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

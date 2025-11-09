@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111511",
+    "text_pt": "Jantar em um restaurante",
+    "text_en": "Dinner at a Restaurant",
+    "audio_en_storage_path": "1511_dinner_at_a_restaurant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111512",
+    "text_pt": "Vamos jantar fora hoje à noite.",
+    "text_en": "We're going out for dinner tonight.",
+    "audio_en_storage_path": "1512_were_going_out_for_dinner_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111513",
+    "text_pt": "O restaurante é bom e não fica muito longe.",
+    "text_en": "The restaurant is nice and not too far.",
+    "audio_en_storage_path": "1513_the_restaurant_is_nice_and_not_too_far.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111514",
+    "text_pt": "Lemos o menu e decidimos o que pedir.",
+    "text_en": "We read the menu and decide what to order.",
+    "audio_en_storage_path": "1514_we_read_the_menu_and_decide_what_to_order.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111515",
+    "text_pt": "Eu escolho pasta. Minha irmã escolhe pizza.",
+    "text_en": "I pick folder. my sister picks pizza.",
+    "audio_en_storage_path": "1515_i_pick_folder_my_sister_picks_pizza.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111516",
+    "text_pt": "O lugar é aconchegante e suavemente iluminado.",
+    "text_en": "The place is cozy and softly lit.",
+    "audio_en_storage_path": "1516_the_place_is_cozy_and_softly_lit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111517",
+    "text_pt": "Há velas nas mesas.",
+    "text_en": "There are candles on the tables.",
+    "audio_en_storage_path": "1517_there_are_candles_on_the_tables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111518",
+    "text_pt": "Nós conversamos, rimos e aproveitamos nossa comida.",
+    "text_en": "We talk. laugh. and enjoy our food.",
+    "audio_en_storage_path": "1518_we_talk_laugh_and_enjoy_our_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111519",
+    "text_pt": "O garçom traz água e verifica como estamos.",
+    "text_en": "The waiter brings water and checks on us.",
+    "audio_en_storage_path": "1519_the_waiter_brings_water_and_checks_on_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111520",
+    "text_pt": "A que tipo de restaurante você foi?",
+    "text_en": "What kind of restaurant did you go to?",
+    "audio_en_storage_path": "1520_what_kind_of_restaurant_did_you_go_to.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111521",
+    "text_pt": "Uma italiana — com pão de alho e vinho.",
+    "text_en": "An Italian one — with garlic bread and wine.",
+    "audio_en_storage_path": "1521_an_italian_one_with_garlic_bread_and_wine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111522",
+    "text_pt": "Qual é seu lugar favorito para comer fora?",
+    "text_en": "Where is your favorite place to eat out?",
+    "audio_en_storage_path": "1522_where_is_your_favorite_place_to_eat_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111523",
+    "text_pt": "Perto do parque — eles têm ótimas sobremesas.",
+    "text_en": "Near the park — they have great desserts.",
+    "audio_en_storage_path": "1523_near_the_park_they_have_great_desserts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111524",
+    "text_pt": "Às vezes comemos de forma requintada. Às vezes, de forma casual.",
+    "text_en": "Sometimes we eat fancy. sometimes casual.",
+    "audio_en_storage_path": "1524_sometimes_we_eat_fancy_sometimes_casual.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111525",
+    "text_pt": "Depende da ocasião.",
+    "text_en": "It depends on the occasion.",
+    "audio_en_storage_path": "1525_it_depends_on_the_occasion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111526",
+    "text_pt": "Onde você deixou seu casaco?",
+    "text_en": "Where did you leave your coat?",
+    "audio_en_storage_path": "1526_where_did_you_leave_your_coat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111527",
+    "text_pt": "Na entrada — perto do posto dos garçons.",
+    "text_en": "At the entrance — near the waiter's station.",
+    "audio_en_storage_path": "1527_at_the_entrance_near_the_waiters_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111528",
+    "text_pt": "Quando você costuma sair para jantar?",
+    "text_en": "When do you usually go out for dinner?",
+    "audio_en_storage_path": "1528_when_do_you_usually_go_out_for_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111529",
+    "text_pt": "Nos fins de semana ou em dias especiais, como aniversários.",
+    "text_en": "On weekends or special days like birthdays.",
+    "audio_en_storage_path": "1529_on_weekends_or_special_days_like_birthdays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111530",
+    "text_pt": "Por que você escolheu esse lugar?",
+    "text_en": "Why did you choose this place?",
+    "audio_en_storage_path": "1530_why_did_you_choose_this_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111531",
+    "text_pt": "Porque tem boas críticas e uma bela vista.",
+    "text_en": "Because it has good reviews and a nice view.",
+    "audio_en_storage_path": "1531_because_it_has_good_reviews_and_a_nice_view.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111532",
+    "text_pt": "Gostamos de sair para jantar de vez em quando.",
+    "text_en": "We enjoy going out for dinner once in a while.",
+    "audio_en_storage_path": "1532_we_enjoy_going_out_for_dinner_once_in_a_while.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111533",
+    "text_pt": "Isso nos faz sentir especiais.",
+    "text_en": "It makes us feel special.",
+    "audio_en_storage_path": "1533_it_makes_us_feel_special.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111534",
+    "text_pt": "Na próxima vez, não esqueceremos de fazer uma reserva.",
+    "text_en": "Next time. we will not forget to make a reservation.",
+    "audio_en_storage_path": "1534_next_time_we_will_not_forget_to_make_a_reservation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111535",
+    "text_pt": "Esperamos 30 minutos da última vez.",
+    "text_en": "We waited 30 minutes last time.",
+    "audio_en_storage_path": "1535_we_waited_30_minutes_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111536",
+    "text_pt": "Obrigado pela noite adorável!",
+    "text_en": "Thank you for the lovely evening!",
+    "audio_en_storage_path": "1536_thank_you_for_the_lovely_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111537",
+    "text_pt": "Vamos fazer isso de novo em breve.",
+    "text_en": "Let’s do it again soon.",
+    "audio_en_storage_path": "1537_lets_do_it_again_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103904",
+    "text_pt": "Gosta de samba?",
+    "text_en": "Do you like samba?",
+    "audio_en_storage_path": "3004_do_you_like_samba.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103905",
+    "text_pt": "Ei! Você gosta de música brasileira?",
+    "text_en": "Hey! Do you like Brazilian music?",
+    "audio_en_storage_path": "3005_hey_do_you_like_brazilian_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103906",
+    "text_pt": "Adoro isso — especialmente samba.",
+    "text_en": "Love it — especially samba.",
+    "audio_en_storage_path": "3006_love_it_especially_samba.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103907",
+    "text_pt": "Se você estiver aqui durante o Carnaval. não perca os desfiles de rua.",
+    "text_en": "If you're here during Carnival. don't miss the street parades.",
+    "audio_en_storage_path": "3007_if_youre_here_during_carnival_dont_miss_the_street_parades.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103908",
+    "text_pt": "Já vi vídeos — tão coloridos e divertidos!",
+    "text_en": "I’ve seen videos — so colorful and fun!",
+    "audio_en_storage_path": "3008_ive_seen_videos_so_colorful_and_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103909",
+    "text_pt": "Sim! Mas experimente também uma casa de samba hoje à noite.",
+    "text_en": "Yes! But also try a samba house tonight.",
+    "audio_en_storage_path": "3009_yes_but_also_try_a_samba_house_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103910",
+    "text_pt": "Onde posso encontrar um?",
+    "text_en": "Where can I find one?",
+    "audio_en_storage_path": "3010_where_can_i_find_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103911",
+    "text_pt": "Na Lapa — música ao vivo até tarde.",
+    "text_en": "In Lapa — live music until late.",
+    "audio_en_storage_path": "3011_in_lapa_live_music_until_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103912",
+    "text_pt": "Perfeito — vamos juntos?",
+    "text_en": "Perfect — let’s go together?",
+    "audio_en_storage_path": "3012_perfect_lets_go_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103913",
+    "text_pt": "Você já foi ao carnaval?",
+    "text_en": "Have you ever been to carnival?",
+    "audio_en_storage_path": "3013_have_you_ever_been_to_carnival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103914",
+    "text_pt": "Olá! Você já foi ao Carnaval antes?",
+    "text_en": "Hi! Did you go to Carnival before?",
+    "audio_en_storage_path": "3014_hi_did_you_go_to_carnival_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103915",
+    "text_pt": "Não. mas quero ir no ano que vem.",
+    "text_en": "No — but I want to come next year.",
+    "audio_en_storage_path": "3015_no_but_i_want_to_come_next_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103916",
+    "text_pt": "Valeu mesmo! Rio ou Salvador — ambos são inesquecíveis.",
+    "text_en": "You should! Rio or Salvador — both are unforgettable.",
+    "audio_en_storage_path": "3016_you_should_rio_or_salvador_both_are_unforgettable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103917",
+    "text_pt": "Ouvi dizer que o Rio tem grandes desfiles — é verdade?",
+    "text_en": "I heard Rio has big parades — is that true?",
+    "audio_en_storage_path": "3017_i_heard_rio_has_big_parades_is_that_true.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103918",
+    "text_pt": "Sim! As escolas de samba passam meses se preparando.",
+    "text_en": "Yes! Samba schools spend months preparing.",
+    "audio_en_storage_path": "3018_yes_samba_schools_spend_months_preparing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103919",
+    "text_pt": "E em Salvador?",
+    "text_en": "And in Salvador?",
+    "audio_en_storage_path": "3019_and_in_salvador.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103920",
+    "text_pt": "Festas de rua — todos dançam com os blocos.",
+    "text_en": "Street parties — everyone dances with the blocks.",
+    "audio_en_storage_path": "3020_street_parties_everyone_dances_with_the_blocks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103921",
+    "text_pt": "Parece o meu tipo de festa — vou ano que vem!",
+    "text_en": "Sounds like my kind of party — I’m coming next year!",
+    "audio_en_storage_path": "3021_sounds_like_my_kind_of_party_im_coming_next_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103922",
+    "text_pt": "Encontrar transporte",
+    "text_en": "Find transportation",
+    "audio_en_storage_path": "3022_find_transportation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103923",
+    "text_pt": "Boa noite! Precisa de ajuda para encontrar um táxi?",
+    "text_en": "Good evening! Need help finding a taxi?",
+    "audio_en_storage_path": "3023_good_evening_need_help_finding_a_taxi.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103924",
+    "text_pt": "Na verdade. eu estava procurando o Uber.",
+    "text_en": "Actually. I was looking for Uber.",
+    "audio_en_storage_path": "3024_actually_i_was_looking_for_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103925",
+    "text_pt": "Existe um aplicativo para isso — basta digitar seu destino.",
+    "text_en": "There’s an app for that — just type your destination.",
+    "audio_en_storage_path": "3025_theres_an_app_for_that_just_type_your_destination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103926",
+    "text_pt": "É seguro aqui à noite?",
+    "text_en": "Is it safe here at night?",
+    "audio_en_storage_path": "3026_is_it_safe_here_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103927",
+    "text_pt": "Na maioria das vezes sim — mas fique nas ruas principais.",
+    "text_en": "Mostly yes — but stick to main streets.",
+    "audio_en_storage_path": "3027_mostly_yes_but_stick_to_main_streets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103928",
+    "text_pt": "Entendi — vou usar o Uber então.",
+    "text_en": "Got it — I’ll use Uber then.",
+    "audio_en_storage_path": "3028_got_it_ill_use_uber_then.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103929",
+    "text_pt": "Além disso. evite caminhar sozinho até tarde — é melhor estar acompanhado.",
+    "text_en": "Also. avoid walking alone late — better with someone.",
+    "audio_en_storage_path": "3029_also_avoid_walking_alone_late_better_with_someone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase103930",
+    "text_pt": "Obrigada! Você é muito prestativo.",
+    "text_en": "Thank you! You're really helpful.",
+    "audio_en_storage_path": "3030_thank_you_youre_really_helpful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110375",
+    "text_pt": "Quarta-feira – Nós (Trabalho em Equipe)",
+    "text_en": "Wednesday – Us (Teamwork)",
+    "audio_en_storage_path": "375_wednesday_us_teamwork.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110376",
+    "text_pt": "Foco: Trabalho coletivo e cooperação",
+    "text_en": "Focus: Collective work and cooperation",
+    "audio_en_storage_path": "376_focus_collective_work_and_cooperation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110377",
+    "text_pt": "Começamos a trabalhar às 8:00 da manhã.",
+    "text_en": "We start working at 8:00 AM.",
+    "audio_en_storage_path": "377_we_start_working_at_800_am.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110378",
+    "text_pt": "Nossa equipe se reúne antes de iniciar as tarefas.",
+    "text_en": "Our team meets before starting tasks.",
+    "audio_en_storage_path": "378_our_team_meets_before_starting_tasks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110379",
+    "text_pt": "Nós organizamos nossos projetos e definimos metas.",
+    "text_en": "We organize our projects and set goals.",
+    "audio_en_storage_path": "379_we_organize_our_projects_and_set_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110380",
+    "text_pt": "Cada pessoa tem um papel a desempenhar.",
+    "text_en": "Each person has a role to play.",
+    "audio_en_storage_path": "380_each_person_has_a_role_to_play.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110381",
+    "text_pt": "Usamos computadores e telefones o dia todo.",
+    "text_en": "We use computers and phones all day.",
+    "audio_en_storage_path": "381_we_use_computers_and_phones_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110382",
+    "text_pt": "Para enviar e-mails e falar com clientes.",
+    "text_en": "To send emails and talk to clients.",
+    "audio_en_storage_path": "382_to_send_emails_and_talk_to_clients.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110383",
+    "text_pt": "No almoço, comemos juntos no refeitório.",
+    "text_en": "At lunch. we eat together in the cafeteria.",
+    "audio_en_storage_path": "383_at_lunch_we_eat_together_in_the_cafeteria.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110384",
+    "text_pt": "Falamos sobre trabalho e vida.",
+    "text_en": "We talk about work and life.",
+    "audio_en_storage_path": "384_we_talk_about_work_and_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110385",
+    "text_pt": "À tarde, finalizamos os relatórios.",
+    "text_en": "In the afternoon. we finish reports.",
+    "audio_en_storage_path": "385_in_the_afternoon_we_finish_reports.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110386",
+    "text_pt": "E verifique se está tudo correto.",
+    "text_en": "And check if everything is correct.",
+    "audio_en_storage_path": "386_and_check_if_everything_is_correct.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110387",
+    "text_pt": "Muitas vezes pedimos ajuda uns aos outros.",
+    "text_en": "We often ask each other for help.",
+    "audio_en_storage_path": "387_we_often_ask_each_other_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110388",
+    "text_pt": "O trabalho em equipe torna as coisas mais fáceis.",
+    "text_en": "Teamwork makes things easier.",
+    "audio_en_storage_path": "388_teamwork_makes_things_easier.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110389",
+    "text_pt": "O que fazemos no trabalho?",
+    "text_en": "What do we do at work?",
+    "audio_en_storage_path": "389_what_do_we_do_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110390",
+    "text_pt": "Nós planejamos. escrevemos. projetamos. e criamos.",
+    "text_en": "We plan. write. design. and create.",
+    "audio_en_storage_path": "390_we_plan_write_design_and_create.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110391",
+    "text_pt": "Onde fica nosso escritório?",
+    "text_en": "Where is our office?",
+    "audio_en_storage_path": "391_where_is_our_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110392",
+    "text_pt": "No segundo andar do prédio.",
+    "text_en": "On the second floor of the building.",
+    "audio_en_storage_path": "392_on_the_second_floor_of_the_building.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110393",
+    "text_pt": "Quando nos sentimos orgulhosos?",
+    "text_en": "When do we feel proud?",
+    "audio_en_storage_path": "393_when_do_we_feel_proud.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110394",
+    "text_pt": "Quando terminamos algo juntos.",
+    "text_en": "When we finish something together.",
+    "audio_en_storage_path": "394_when_we_finish_something_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110395",
+    "text_pt": "Acreditamos em ajudar uns aos outros.",
+    "text_en": "We believe in helping each other.",
+    "audio_en_storage_path": "395_we_believe_in_helping_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110396",
+    "text_pt": "Isso nos torna mais fortes como equipe.",
+    "text_en": "It makes us stronger as a team.",
+    "audio_en_storage_path": "396_it_makes_us_stronger_as_a_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110397",
+    "text_pt": "Amanhã. não esqueceremos a reunião.",
+    "text_en": "Tomorrow. we will not forget the meeting.",
+    "audio_en_storage_path": "397_tomorrow_we_will_not_forget_the_meeting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110398",
+    "text_pt": "Definiremos um lembrete para todos.",
+    "text_en": "We will set a reminder for everyone.",
+    "audio_en_storage_path": "398_we_will_set_a_reminder_for_everyone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110399",
+    "text_pt": "Ótimo trabalho hoje, equipe!",
+    "text_en": "Great job today. team!",
+    "audio_en_storage_path": "399_great_job_today_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110400",
+    "text_pt": "Continue assim — estamos indo muito bem!",
+    "text_en": "Keep it up — we're doing awesome!",
+    "audio_en_storage_path": "400_keep_it_up_were_doing_awesome.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

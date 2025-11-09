@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120828",
+    "text_pt": "Dentro de edifícios e salas",
+    "text_en": "Inside Buildings and Rooms",
+    "audio_en_storage_path": "828_inside_buildings_and_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120829",
+    "text_pt": "A cozinha está limpa e tem tudo o que precisamos",
+    "text_en": "The kitchen is clean and has everything we need",
+    "audio_en_storage_path": "829_the_kitchen_is_clean_and_has_everything_we_need.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120830",
+    "text_pt": "A cozinha está impecável e tem todos os utensílios para cozinhar",
+    "text_en": "Kitchen’s spotless and got all the tools to cook",
+    "audio_en_storage_path": "830_kitchens_spotless_and_got_all_the_tools_to_cook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120831",
+    "text_pt": "Há armários cheios de pratos e xícaras",
+    "text_en": "There are cabinets filled with plates and cups",
+    "audio_en_storage_path": "831_there_are_cabinets_filled_with_plates_and_cups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120832",
+    "text_pt": "Armários cheios de pratos, copos e tigelas",
+    "text_en": "Cupboards stacked with dishes. glasses. and bowls",
+    "audio_en_storage_path": "832_cupboards_stacked_with_dishes_glasses_and_bowls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120833",
+    "text_pt": "A geladeira, o fogão e uma pia estão todos ao longo da parede",
+    "text_en": "A fridge. a stove. and a sink are all along the wall",
+    "audio_en_storage_path": "833_a_fridge_a_stove_and_a_sink_are_all_along_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120834",
+    "text_pt": "Geladeira, forno e pia, todos alinhados como uma equipe",
+    "text_en": "Fridge. oven. and sink all lined up like a team",
+    "audio_en_storage_path": "834_fridge_oven_and_sink_all_lined_up_like_a_team.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120835",
+    "text_pt": "A mesa de jantar fica no meio da sala",
+    "text_en": "The dining table is in the middle of the room",
+    "audio_en_storage_path": "835_the_dining_table_is_in_the_middle_of_the_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120836",
+    "text_pt": "A mesa fica bem no centro — perfeita para refeições",
+    "text_en": "Table sits right in the center — perfect for meals",
+    "audio_en_storage_path": "836_table_sits_right_in_the_center_perfect_for_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120837",
+    "text_pt": "Há fotos penduradas nas paredes",
+    "text_en": "There are pictures hanging on the walls",
+    "audio_en_storage_path": "837_there_are_pictures_hanging_on_the_walls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120838",
+    "text_pt": "As paredes têm fotos e arte penduradas como memórias",
+    "text_en": "Walls got photos and art hangin’ like memories",
+    "audio_en_storage_path": "838_walls_got_photos_and_art_hangin_like_memories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120839",
+    "text_pt": "As janelas deixam entrar a luz do sol durante o dia",
+    "text_en": "Windows let in sunlight during the day",
+    "audio_en_storage_path": "839_windows_let_in_sunlight_during_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120840",
+    "text_pt": "As janelas se abrem e trazem aquela luz dourada do dia",
+    "text_en": "Windows open up and bring in that golden daylight",
+    "audio_en_storage_path": "840_windows_open_up_and_bring_in_that_golden_daylight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120841",
+    "text_pt": "O quarto tem uma cama, um armário e uma escrivaninha.",
+    "text_en": "The bedroom has a bed. a closet. and a desk",
+    "audio_en_storage_path": "841_the_bedroom_has_a_bed_a_closet_and_a_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120842",
+    "text_pt": "O quarto tem espaço para dormir, armazenamento e um lugar para trabalhar",
+    "text_en": "Room’s got sleep space. storage. and a place to work",
+    "audio_en_storage_path": "842_rooms_got_sleep_space_storage_and_a_place_to_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120843",
+    "text_pt": "Cortinas cobrem as janelas e combinam com a cama",
+    "text_en": "Curtains cover the windows and match the bed",
+    "audio_en_storage_path": "843_curtains_cover_the_windows_and_match_the_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120844",
+    "text_pt": "Cortinas combinam com os lençóis — o clima é tranquilo",
+    "text_en": "Curtains match the sheets — whole vibe is peaceful",
+    "audio_en_storage_path": "844_curtains_match_the_sheets_whole_vibe_is_peaceful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120845",
+    "text_pt": "O banheiro tem chuveiro, vaso sanitário e espelho.",
+    "text_en": "The bathroom has a shower. toilet. and mirror",
+    "audio_en_storage_path": "845_the_bathroom_has_a_shower_toilet_and_mirror.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120846",
+    "text_pt": "Tomei um banho, sentei-me e tomei um copo para ver como você está",
+    "text_en": "Got a shower. seat. and a glass to check how ya look",
+    "audio_en_storage_path": "846_got_a_shower_seat_and_a_glass_to_check_how_ya_look.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120847",
+    "text_pt": "Toalhas e sabonetes estão colocados ordenadamente no suporte",
+    "text_en": "Towels and soap are neatly placed on the rack",
+    "audio_en_storage_path": "847_towels_and_soap_are_neatly_placed_on_the_rack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120848",
+    "text_pt": "Toalhas e sabonete dispostos como se alguém se importasse",
+    "text_en": "Towels and soap set up like someone cares",
+    "audio_en_storage_path": "848_towels_and_soap_set_up_like_someone_cares.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120849",
+    "text_pt": "Há uma pequena varanda lá fora com uma vista linda",
+    "text_en": "There’s a small balcony outside with a great view",
+    "audio_en_storage_path": "849_theres_a_small_balcony_outside_with_a_great_view.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120850",
+    "text_pt": "Saia e você encontrará um pequeno deck com uma vista incrível",
+    "text_en": "Step outside and there’s a little deck with a killer sight",
+    "audio_en_storage_path": "850_step_outside_and_theres_a_little_deck_with_a_killer_sight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120851",
+    "text_pt": "A sala de estar tem um sofá, TV e estante.",
+    "text_en": "The living room has a couch. TV. and bookshelf",
+    "audio_en_storage_path": "851_the_living_room_has_a_couch_tv_and_bookshelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120852",
+    "text_pt": "Sofá, tela e livros — perfeitos para relaxar",
+    "text_en": "Couch. screen. and books — perfect for relaxing",
+    "audio_en_storage_path": "852_couch_screen_and_books_perfect_for_relaxing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120853",
+    "text_pt": "As luzes podem ser desligadas com um interruptor ou controle remoto",
+    "text_en": "Lights can be turned off with a switch or remote",
+    "audio_en_storage_path": "853_lights_can_be_turned_off_with_a_switch_or_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120854",
+    "text_pt": "As luzes apagam-se com botões ou à distância",
+    "text_en": "Lights shut off with buttons or from far away",
+    "audio_en_storage_path": "854_lights_shut_off_with_buttons_or_from_far_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120855",
+    "text_pt": "Há prateleiras cheias de livros e decorações",
+    "text_en": "There are shelves filled with books and decorations",
+    "audio_en_storage_path": "855_there_are_shelves_filled_with_books_and_decorations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120856",
+    "text_pt": "Prateleiras cheias de histórias e coisas que significam alguma coisa",
+    "text_en": "Shelves stacked with stories and things that mean somethin’",
+    "audio_en_storage_path": "856_shelves_stacked_with_stories_and_things_that_mean_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120857",
+    "text_pt": "Sinta-se confortável e em casa",
+    "text_en": "Make yourself comfortable and feel at home",
+    "audio_en_storage_path": "857_make_yourself_comfortable_and_feel_at_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120858",
+    "text_pt": "Faça deste lugar seu — acomode-se e aproveite",
+    "text_en": "Make this place yours — settle in and enjoy",
+    "audio_en_storage_path": "858_make_this_place_yours_settle_in_and_enjoy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

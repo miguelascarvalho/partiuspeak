@@ -1,0 +1,254 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100182",
+    "text_pt": "Amanhã vou acordar às sete.",
+    "text_en": "I’ll wake up at seven tomorrow.",
+    "audio_en_storage_path": "183_ill_wake_up_at_seven_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100183",
+    "text_pt": "Vou acordar às sete amanhã.",
+    "text_en": "I’m gonna wake up at seven tomorrow.",
+    "audio_en_storage_path": "184_im_gonna_wake_up_at_seven_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100184",
+    "text_pt": "Ela não perderá seu programa favorito.",
+    "text_en": "She won’t miss her favorite show.",
+    "audio_en_storage_path": "185_she_wont_miss_her_favorite_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100185",
+    "text_pt": "Ela não vai perder seu programa favorito.",
+    "text_en": "She ain’t missin’ her fav show.",
+    "audio_en_storage_path": "186_she_aint_missin_her_fav_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100186",
+    "text_pt": "Hora de ir para a cama agora.",
+    "text_en": "Time to go to bed now.",
+    "audio_en_storage_path": "187_time_to_go_to_bed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100187",
+    "text_pt": "Agora é hora de dormir.",
+    "text_en": "Time fer bed now.",
+    "audio_en_storage_path": "188_time_fer_bed_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100188",
+    "text_pt": "O ursinho de pelúcia está na cama.",
+    "text_en": "The teddy bear is on the bed.",
+    "audio_en_storage_path": "189_the_teddy_bear_is_on_the_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100189",
+    "text_pt": "Nós o usamos para nos sentirmos seguros à noite.",
+    "text_en": "We use it to feel safe at night.",
+    "audio_en_storage_path": "190_we_use_it_to_feel_safe_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100190",
+    "text_pt": "É marrom com olhos e orelhas pretos.",
+    "text_en": "It is brown with black eyes and ears.",
+    "audio_en_storage_path": "191_it_is_brown_with_black_eyes_and_ears.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100191",
+    "text_pt": "Há um pequeno chapéu em sua cabeça.",
+    "text_en": "There is a little hat on its head.",
+    "audio_en_storage_path": "192_there_is_a_little_hat_on_its_head.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100192",
+    "text_pt": "O ursinho de pelúcia é seu?",
+    "text_en": "Is the teddy bear yours?",
+    "audio_en_storage_path": "193_is_the_teddy_bear_yours.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100193",
+    "text_pt": "Sim, eu tenho isso desde pequeno.",
+    "text_en": "Yes, I’ve had it since I was small.",
+    "audio_en_storage_path": "194_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100194",
+    "text_pt": "Não, pertence ao meu irmão.",
+    "text_en": "No, it belongs to my brother.",
+    "audio_en_storage_path": "195_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100195",
+    "text_pt": "Onde está o outro urso?",
+    "text_en": "Where is the other bear?",
+    "audio_en_storage_path": "196_where_is_the_other_bear.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100196",
+    "text_pt": "O outro urso está debaixo do travesseiro.",
+    "text_en": "The other bear is under the pillow.",
+    "audio_en_storage_path": "197_the_other_bear_is_under_the_pillow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100197",
+    "text_pt": "Quando você vai parar de dormir com isso?",
+    "text_en": "When will you stop sleeping with it?",
+    "audio_en_storage_path": "198_when_will_you_stop_sleeping_with_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100198",
+    "text_pt": "Talvez quando eu tiver dez anos.",
+    "text_en": "Maybe when I’m ten years old.",
+    "audio_en_storage_path": "199_maybe_when_im_ten_years_old.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100199",
+    "text_pt": "Por que você leva isso para todo lugar?",
+    "text_en": "Why do you take it everywhere?",
+    "audio_en_storage_path": "200_why_do_you_take_it_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100200",
+    "text_pt": "Isso me faz sentir seguro e feliz.",
+    "text_en": "It makes me feel safe and happy.",
+    "audio_en_storage_path": "201_it_makes_me_feel_safe_and_happy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100201",
+    "text_pt": "Ela dorme com o urso todas as noites.",
+    "text_en": "She sleeps with the bear every night.",
+    "audio_en_storage_path": "202_she_sleeps_with_the_bear_every_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100202",
+    "text_pt": "Ele não vai perdê-lo porque ele o ama.",
+    "text_en": "He won’t lose it because he loves it.",
+    "audio_en_storage_path": "203_he_wont_lose_it_because_he_loves_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100203",
+    "text_pt": "Bons sonhos, te vejo de manhã.",
+    "text_en": "Sweet dreams, see you in the morning.",
+    "audio_en_storage_path": "204_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100205",
+    "text_pt": "Talvez quando eu tiver dez anos.",
+    "text_en": "Maybe when I’m ten years old.",
+    "audio_en_storage_path": "206_maybe_when_im_ten_years_old.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100206",
+    "text_pt": "Talvez quando eu tiver dez anos.",
+    "text_en": "Maybe when I’m ten.",
+    "audio_en_storage_path": "207_maybe_when_im_ten.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100207",
+    "text_pt": "Ele não vai perdê-lo porque ele o ama.",
+    "text_en": "He won’t lose it because he loves it.",
+    "audio_en_storage_path": "208_he_wont_lose_it_because_he_loves_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100208",
+    "text_pt": "Ele não está perdendo isso — ele adora isso.",
+    "text_en": "He ain't losin’ it — he loves it.",
+    "audio_en_storage_path": "209_he_aint_losin_it_he_loves_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100209",
+    "text_pt": "Bons sonhos, te vejo de manhã.",
+    "text_en": "Sweet dreams, see you in the morning.",
+    "audio_en_storage_path": "210_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100210",
+    "text_pt": "Bons sonhos, te vejo amanhã de manhã.",
+    "text_en": "Sweet dreams, catch ya in the mornin’.",
+    "audio_en_storage_path": "211_sweet_dreams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

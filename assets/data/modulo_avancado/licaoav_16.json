@@ -1,0 +1,992 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131424",
+    "text_pt": "Erros e correções: personagens em situações embaraçosas ou tentando consertar seus próprios erros",
+    "text_en": "Mistakes and Corrections: Characters in Embarrassing Situations or Trying to Fix Their Own Errors",
+    "audio_en_storage_path": "1424_mistakes_and_corrections_characters_in_embarrassing_situations_or_trying_to_fix_their_own_errors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131425",
+    "text_pt": "Erros e correções formam o núcleo de muitas narrativas cômicas.",
+    "text_en": "Mistakes and corrections form the core of many comedic narratives.",
+    "audio_en_storage_path": "1425_mistakes_and_corrections_form_the_core_of_many_comedic_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131426",
+    "text_pt": "Os personagens se metem em situações embaraçosas sem ter culpa alguma.",
+    "text_en": "Characters stumble into awkward situations through no fault of their own.",
+    "audio_en_storage_path": "1426_characters_stumble_into_awkward_situations_through_no_fault_of_their_own.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131427",
+    "text_pt": "Erros de cálculo e erros de cálculo desencadeiam uma série de eventos hilários.",
+    "text_en": "Missteps and miscalculations set off chains of hilarious events.",
+    "audio_en_storage_path": "1427_missteps_and_miscalculations_set_off_chains_of_hilarious_events.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131428",
+    "text_pt": "Um pequeno erro pode se transformar em uma cascata de consequências não intencionais.",
+    "text_en": "One small error snowballs into a cascade of unintended consequences.",
+    "audio_en_storage_path": "1428_one_small_error_snowballs_into_a_cascade_of_unintended_consequences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131429",
+    "text_pt": "Momentos embaraçosos testam a capacidade dos personagens de rir de si mesmos.",
+    "text_en": "Embarrassing moments test characters’ ability to laugh at themselves.",
+    "audio_en_storage_path": "1429_embarrassing_moments_test_characters_ability_to_laugh_at_themselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131430",
+    "text_pt": "Rostos vermelhos e risos nervosos tornam-se motivos recorrentes.",
+    "text_en": "Red faces and nervous laughter become recurring motifs.",
+    "audio_en_storage_path": "1430_red_faces_and_nervous_laughter_become_recurring_motifs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131431",
+    "text_pt": "Tentativas de corrigir erros muitas vezes pioram as coisas antes de melhorar.",
+    "text_en": "Attempts to fix mistakes often make things worse before they improve.",
+    "audio_en_storage_path": "1431_attempts_to_fix_mistakes_often_make_things_worse_before_they_improve.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131432",
+    "text_pt": "Esforços bem-intencionados podem ter consequências hilárias e espetaculares.",
+    "text_en": "Well-meaning efforts backfire in spectacularly funny ways.",
+    "audio_en_storage_path": "1432_wellmeaning_efforts_backfire_in_spectacularly_funny_ways.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131433",
+    "text_pt": "Insultos acidentais ofendem amigos, familiares e estranhos.",
+    "text_en": "Accidental insults offend friends. family. and strangers alike.",
+    "audio_en_storage_path": "1433_accidental_insults_offend_friends_family_and_strangers_alike.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131434",
+    "text_pt": "Desculpas e explicações só aumentam a confusão cômica.",
+    "text_en": "Apologies and explanations only deepen the comedic confusion.",
+    "audio_en_storage_path": "1434_apologies_and_explanations_only_deepen_the_comedic_confusion.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131435",
+    "text_pt": "Números errados e identidades equivocadas impulsionam tramas cômicas.",
+    "text_en": "Wrong numbers and mistaken identities drive comedic plots forward.",
+    "audio_en_storage_path": "1435_wrong_numbers_and_mistaken_identities_drive_comedic_plots_forward.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131436",
+    "text_pt": "Personagens fingem ser alguém que não são, levando ao caos.",
+    "text_en": "Characters pretend to be someone they’re not. leading to chaos.",
+    "audio_en_storage_path": "1436_characters_pretend_to_be_someone_theyre_not_leading_to_chaos.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131437",
+    "text_pt": "Aniversários esquecidos e compromissos perdidos criam tensão.",
+    "text_en": "Forgotten anniversaries and missed appointments create tension.",
+    "audio_en_storage_path": "1437_forgotten_anniversaries_and_missed_appointments_create_tension.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131438",
+    "text_pt": "Tentativas de última hora para fazer as pazes resultam em humor pastelão.",
+    "text_en": "Last-minute scrambles to make amends result in slapstick humor.",
+    "audio_en_storage_path": "1438_lastminute_scrambles_to_make_amends_result_in_slapstick_humor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131440",
+    "text_pt": "Canos com vazamentos e móveis quebrados desafiam todas as tentativas de conserto.",
+    "text_en": "Leaky pipes and broken furniture defy all attempts at fixing.",
+    "audio_en_storage_path": "1440_leaky_pipes_and_broken_furniture_defy_all_attempts_at_fixing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131441",
+    "text_pt": "Itens perdidos dão início a buscas frenéticas repletas de desventuras cômicas.",
+    "text_en": "Lost items spark frantic searches filled with comedic misadventures.",
+    "audio_en_storage_path": "1441_lost_items_spark_frantic_searches_filled_with_comedic_misadventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131442",
+    "text_pt": "Chaves, carteiras e telefones desaparecem nos piores momentos possíveis.",
+    "text_en": "Keys. wallets. and phones disappear at the worst possible times.",
+    "audio_en_storage_path": "1442_keys_wallets_and_phones_disappear_at_the_worst_possible_times.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131443",
+    "text_pt": "Confusões no trabalho levam a encontros embaraçosos com chefes.",
+    "text_en": "Mix-ups at work lead to embarrassing encounters with bosses.",
+    "audio_en_storage_path": "1443_mixups_at_work_lead_to_embarrassing_encounters_with_bosses.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131444",
+    "text_pt": "Os prazos se aproximam enquanto os personagens lutam para desfazer seus erros.",
+    "text_en": "Deadlines loom as characters scramble to undo their blunders.",
+    "audio_en_storage_path": "1444_deadlines_loom_as_characters_scramble_to_undo_their_blunders.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131445",
+    "text_pt": "Gafes românticas sabotam relacionamentos potenciais.",
+    "text_en": "Romantic gaffes sabotage potential relationships.",
+    "audio_en_storage_path": "1445_romantic_gaffes_sabotage_potential_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131446",
+    "text_pt": "Palavras mal ditas e gestos desajeitados estragam as primeiras impressões.",
+    "text_en": "Misspoken words and clumsy gestures ruin first impressions.",
+    "audio_en_storage_path": "1446_misspoken_words_and_clumsy_gestures_ruin_first_impressions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131447",
+    "text_pt": "Segredos de família revelados acidentalmente causam alvoroço e risos.",
+    "text_en": "Family secrets accidentally revealed cause uproar and laughter.",
+    "audio_en_storage_path": "1447_family_secrets_accidentally_revealed_cause_uproar_and_laughter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131448",
+    "text_pt": "Os personagens lutam para conter as consequências de seus deslizes.",
+    "text_en": "Characters scramble to contain the fallout from their slip-ups.",
+    "audio_en_storage_path": "1448_characters_scramble_to_contain_the_fallout_from_their_slipups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131449",
+    "text_pt": "Planos de viagem dão errado devido a voos perdidos e reservas duplicadas.",
+    "text_en": "Travel plans go awry due to missed flights and double bookings.",
+    "audio_en_storage_path": "1449_travel_plans_go_awry_due_to_missed_flights_and_double_bookings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131450",
+    "text_pt": "Sonhos de férias se transformam em pesadelos cômicos.",
+    "text_en": "Vacation dreams turn into comedic nightmares.",
+    "audio_en_storage_path": "1450_vacation_dreams_turn_into_comedic_nightmares.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131451",
+    "text_pt": "Desastres culinários forçam os personagens a improvisar refeições.",
+    "text_en": "Cooking disasters force characters to improvise meals.",
+    "audio_en_storage_path": "1451_cooking_disasters_force_characters_to_improvise_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131452",
+    "text_pt": "Jantares queimados e bolos derrubados viram piadas na mesa de jantar.",
+    "text_en": "Burnt dinners and collapsed cakes become dinner table jokes.",
+    "audio_en_storage_path": "1452_burnt_dinners_and_collapsed_cakes_become_dinner_table_jokes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131453",
+    "text_pt": "Mau funcionamento das roupas envergonha personagens em ambientes públicos.",
+    "text_en": "Clothing malfunctions embarrass characters in public settings.",
+    "audio_en_storage_path": "1453_clothing_malfunctions_embarrass_characters_in_public_settings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131454",
+    "text_pt": "Falhas no guarda-roupa vão desde costuras rasgadas até roupas desencontradas.",
+    "text_en": "Wardrobe fails range from torn seams to mismatched outfits.",
+    "audio_en_storage_path": "1454_wardrobe_fails_range_from_torn_seams_to_mismatched_outfits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131455",
+    "text_pt": "Acidentes relacionados a animais de estimação acrescentam caos a vidas já agitadas.",
+    "text_en": "Pet-related mishaps add chaos to already hectic lives.",
+    "audio_en_storage_path": "1455_petrelated_mishaps_add_chaos_to_already_hectic_lives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131456",
+    "text_pt": "Cães fugitivos e vasos derrubados criam dores de cabeça adicionais.",
+    "text_en": "Escaped dogs and knocked-over vases create additional headaches.",
+    "audio_en_storage_path": "1456_escaped_dogs_and_knockedover_vases_create_additional_headaches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131457",
+    "text_pt": "Tentativas de impressionar os outros muitas vezes terminam em humilhação.",
+    "text_en": "Attempts to impress others often end in humiliation.",
+    "audio_en_storage_path": "1457_attempts_to_impress_others_often_end_in_humiliation.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131458",
+    "text_pt": "O excesso de confiança leva a quedas e silêncios constrangedores.",
+    "text_en": "Overconfidence leads to pratfalls and awkward silences.",
+    "audio_en_storage_path": "1458_overconfidence_leads_to_pratfalls_and_awkward_silences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131459",
+    "text_pt": "Erros parentais fornecem bastante material para histórias cômicas.",
+    "text_en": "Parenting errors provide plenty of material for comedic storytelling.",
+    "audio_en_storage_path": "1459_parenting_errors_provide_plenty_of_material_for_comedic_storytelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131460",
+    "text_pt": "Os pais tentam — e falham — disciplinar seus filhos indisciplinados.",
+    "text_en": "Parents try—and fail—to discipline their unruly children.",
+    "audio_en_storage_path": "1460_parents_tryand_failto_discipline_their_unruly_children.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131461",
+    "text_pt": "As brincadeiras e pegadinhas na vizinhança saem do controle.",
+    "text_en": "Neighborhood pranks and practical jokes spiral out of control.",
+    "audio_en_storage_path": "1461_neighborhood_pranks_and_practical_jokes_spiral_out_of_control.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131462",
+    "text_pt": "Provocações bem-humoradas se transformam em guerras cômicas.",
+    "text_en": "Good-natured teasing escalates into full-blown comedic wars.",
+    "audio_en_storage_path": "1462_goodnatured_teasing_escalates_into_fullblown_comedic_wars.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131463",
+    "text_pt": "Falhas tecnológicas transformam tarefas simples em experiências frustrantes.",
+    "text_en": "Tech fails turn simple tasks into frustrating ordeals.",
+    "audio_en_storage_path": "1463_tech_fails_turn_simple_tasks_into_frustrating_ordeals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131464",
+    "text_pt": "As chamadas de vídeo congelam, os e-mails são corrigidos automaticamente de forma hilária e os dispositivos travam.",
+    "text_en": "Video calls freeze. emails auto-correct hilariously. and devices crash.",
+    "audio_en_storage_path": "1464_video_calls_freeze_emails_autocorrect_hilariously_and_devices_crash.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131465",
+    "text_pt": "Problemas com o carro deixam os personagens presos em locais inconvenientes.",
+    "text_en": "Car troubles strand characters in inconvenient locations.",
+    "audio_en_storage_path": "1465_car_troubles_strand_characters_in_inconvenient_locations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131466",
+    "text_pt": "Pneus furados e tanques de gasolina vazios atrasam viagens e provocam risos.",
+    "text_en": "Flat tires and empty gas tanks delay journeys and spark laughter.",
+    "audio_en_storage_path": "1466_flat_tires_and_empty_gas_tanks_delay_journeys_and_spark_laughter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131467",
+    "text_pt": "O planejamento da festa dá terrivelmente errado nessas narrativas.",
+    "text_en": "Party planning goes hilariously wrong in these narratives.",
+    "audio_en_storage_path": "1467_party_planning_goes_hilariously_wrong_in_these_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131468",
+    "text_pt": "Decorações caem, comida queima e convidados chegam sem ser convidados.",
+    "text_en": "Decorations fall. food burns. and guests arrive uninvited.",
+    "audio_en_storage_path": "1468_decorations_fall_food_burns_and_guests_arrive_uninvited.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131469",
+    "text_pt": "Rotinas de exercícios se transformam em desastres cômicos.",
+    "text_en": "Exercise routines devolve into comedic disasters.",
+    "audio_en_storage_path": "1469_exercise_routines_devolve_into_comedic_disasters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131470",
+    "text_pt": "Cair de esteiras e tropeçar durante aulas de ioga provocam risadas.",
+    "text_en": "Falling off treadmills and tripping during yoga classes elicit giggles.",
+    "audio_en_storage_path": "1470_falling_off_treadmills_and_tripping_during_yoga_classes_elicit_giggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131472",
+    "text_pt": "Derramamentos de tinta, pregos entortam e prateleiras desabam com o peso.",
+    "text_en": "Paint spills. nails bend. and shelves collapse under weight.",
+    "audio_en_storage_path": "1472_paint_spills_nails_bend_and_shelves_collapse_under_weight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131473",
+    "text_pt": "Erros sociais envergonham personagens na frente dos colegas.",
+    "text_en": "Social faux pas embarrass characters in front of peers.",
+    "audio_en_storage_path": "1473_social_faux_pas_embarrass_characters_in_front_of_peers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131474",
+    "text_pt": "Dizer a coisa errada na hora errada vira uma piada recorrente.",
+    "text_en": "Saying the wrong thing at the wrong time becomes a running joke.",
+    "audio_en_storage_path": "1474_saying_the_wrong_thing_at_the_wrong_time_becomes_a_running_joke.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131475",
+    "text_pt": "Tentativas de encobrir erros levam a mentiras ainda maiores.",
+    "text_en": "Attempts to cover up mistakes lead to even bigger lies.",
+    "audio_en_storage_path": "1475_attempts_to_cover_up_mistakes_lead_to_even_bigger_lies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131476",
+    "text_pt": "Os personagens se afundam cada vez mais em buracos cômicos.",
+    "text_en": "Characters dig themselves deeper into comedic holes.",
+    "audio_en_storage_path": "1476_characters_dig_themselves_deeper_into_comedic_holes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131477",
+    "text_pt": "Os preparativos do casamento revelam o caos do perfeccionismo.",
+    "text_en": "Wedding preparations showcase the chaos of perfectionism.",
+    "audio_en_storage_path": "1477_wedding_preparations_showcase_the_chaos_of_perfectionism.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131478",
+    "text_pt": "Flores murcham, vestidos rasgam e anéis desaparecem.",
+    "text_en": "Flowers wilt. dresses tear. and rings go missing.",
+    "audio_en_storage_path": "1478_flowers_wilt_dresses_tear_and_rings_go_missing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131479",
+    "text_pt": "Resoluções cômicas restauram a ordem após desventuras caóticas.",
+    "text_en": "Comedic resolutions restore order after chaotic misadventures.",
+    "audio_en_storage_path": "1479_comedic_resolutions_restore_order_after_chaotic_misadventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131480",
+    "text_pt": "Os personagens aprendem a aceitar a imperfeição e rir de si mesmos.",
+    "text_en": "Characters learn to embrace imperfection and laugh at themselves.",
+    "audio_en_storage_path": "1480_characters_learn_to_embrace_imperfection_and_laugh_at_themselves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131481",
+    "text_pt": "Erros e correções nos lembram que ninguém é perfeito.",
+    "text_en": "Mistakes and corrections remind us that nobody is perfect.",
+    "audio_en_storage_path": "1481_mistakes_and_corrections_remind_us_that_nobody_is_perfect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131482",
+    "text_pt": "Rir de nossas falhas nos ajuda a crescer e a nos conectar com os outros.",
+    "text_en": "Laughing at our flaws helps us grow and connect with others.",
+    "audio_en_storage_path": "1482_laughing_at_our_flaws_helps_us_grow_and_connect_with_others.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131483",
+    "text_pt": "Missões Épicas: Protagonistas em Busca de Tesouros, Resgate de Reféns ou Derrota de Inimigos.",
+    "text_en": "Epic Missions: Protagonists on Quests for Treasure. Hostage Rescue. or Defeating Enemies",
+    "audio_en_storage_path": "1483_epic_missions_protagonists_on_quests_for_treasure_hostage_rescue_or_defeating_enemies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131484",
+    "text_pt": "Missões épicas definem o cerne da aventura e da narrativa de ação.",
+    "text_en": "Epic missions define the heart of adventure and action storytelling.",
+    "audio_en_storage_path": "1484_epic_missions_define_the_heart_of_adventure_and_action_storytelling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131485",
+    "text_pt": "Os protagonistas embarcam em jornadas ousadas para atingir objetivos aparentemente impossíveis.",
+    "text_en": "Protagonists embark on daring quests to achieve seemingly impossible goals.",
+    "audio_en_storage_path": "1485_protagonists_embark_on_daring_quests_to_achieve_seemingly_impossible_goals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131486",
+    "text_pt": "Caças ao tesouro levam os personagens a explorar territórios desconhecidos.",
+    "text_en": "Treasure hunts drive characters to explore uncharted territories.",
+    "audio_en_storage_path": "1486_treasure_hunts_drive_characters_to_explore_uncharted_territories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131487",
+    "text_pt": "Ouro, joias e artefatos antigos se tornam símbolos de triunfo e ganância.",
+    "text_en": "Gold. jewels. and ancient artifacts become symbols of triumph and greed.",
+    "audio_en_storage_path": "1487_gold_jewels_and_ancient_artifacts_become_symbols_of_triumph_and_greed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131488",
+    "text_pt": "Resgatar reféns testa a coragem e a engenhosidade dos heróis.",
+    "text_en": "Rescuing hostages tests the courage and resourcefulness of heroes.",
+    "audio_en_storage_path": "1488_rescuing_hostages_tests_the_courage_and_resourcefulness_of_heroes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131489",
+    "text_pt": "Cada decisão traz consequências de vida ou morte tanto para os cativos quanto para os socorristas.",
+    "text_en": "Every decision carries life-or-death consequences for both captives and rescuers.",
+    "audio_en_storage_path": "1489_every_decision_carries_lifeordeath_consequences_for_both_captives_and_rescuers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131490",
+    "text_pt": "Derrotar inimigos poderosos exige estratégia, força e trabalho em equipe.",
+    "text_en": "Defeating powerful enemies requires strategy. strength. and teamwork.",
+    "audio_en_storage_path": "1490_defeating_powerful_enemies_requires_strategy_strength_and_teamwork.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131491",
+    "text_pt": "Os vilões geralmente possuem vantagens esmagadoras que desafiam os protagonistas.",
+    "text_en": "Villains often possess overwhelming advantages that challenge protagonists.",
+    "audio_en_storage_path": "1491_villains_often_possess_overwhelming_advantages_that_challenge_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131492",
+    "text_pt": "Mapas e pistas guiam aventureiros por paisagens traiçoeiras.",
+    "text_en": "Maps and clues guide adventurers through treacherous landscapes.",
+    "audio_en_storage_path": "1492_maps_and_clues_guide_adventurers_through_treacherous_landscapes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131493",
+    "text_pt": "Decifrar enigmas abre caminhos para tesouros ou segredos escondidos.",
+    "text_en": "Deciphering riddles unlocks paths to hidden treasures or secrets.",
+    "audio_en_storage_path": "1493_deciphering_riddles_unlocks_paths_to_hidden_treasures_or_secrets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131494",
+    "text_pt": "Aliados unem forças para superar obstáculos grandes demais para qualquer pessoa.",
+    "text_en": "Allies join forces to overcome obstacles too great for any one person.",
+    "audio_en_storage_path": "1494_allies_join_forces_to_overcome_obstacles_too_great_for_any_one_person.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131495",
+    "text_pt": "Confiança e lealdade são forjadas no calor de lutas compartilhadas.",
+    "text_en": "Trust and loyalty are forged in the heat of shared struggles.",
+    "audio_en_storage_path": "1495_trust_and_loyalty_are_forged_in_the_heat_of_shared_struggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131496",
+    "text_pt": "Traições destroem alianças e complicam missões épicas.",
+    "text_en": "Betrayals shatter alliances and complicate epic missions.",
+    "audio_en_storage_path": "1496_betrayals_shatter_alliances_and_complicate_epic_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131497",
+    "text_pt": "Os personagens devem navegar pelas lealdades mutáveis ​​para permanecer à frente dos adversários.",
+    "text_en": "Characters must navigate shifting loyalties to stay ahead of adversaries.",
+    "audio_en_storage_path": "1497_characters_must_navigate_shifting_loyalties_to_stay_ahead_of_adversaries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131498",
+    "text_pt": "Restrições de tempo aumentam a urgência de concluir objetivos.",
+    "text_en": "Time constraints heighten the urgency of completing objectives.",
+    "audio_en_storage_path": "1498_time_constraints_heighten_the_urgency_of_completing_objectives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131499",
+    "text_pt": "Prazos forçam os personagens a tomar decisões rápidas com informações limitadas.",
+    "text_en": "Deadlines force characters to make quick decisions with limited information.",
+    "audio_en_storage_path": "1499_deadlines_force_characters_to_make_quick_decisions_with_limited_information.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131500",
+    "text_pt": "Armas e ferramentas desempenham papéis cruciais para alcançar o sucesso da missão.",
+    "text_en": "Weapons and tools play crucial roles in achieving mission success.",
+    "audio_en_storage_path": "1500_weapons_and_tools_play_crucial_roles_in_achieving_mission_success.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131501",
+    "text_pt": "Espadas, armas e dispositivos tornam-se extensões da determinação dos heróis.",
+    "text_en": "Swords. guns. and gadgets become extensions of the heroes’ determination.",
+    "audio_en_storage_path": "1501_swords_guns_and_gadgets_become_extensions_of_the_heroes_determination.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131502",
+    "text_pt": "O perigo espreita em cada esquina durante missões épicas.",
+    "text_en": "Danger lurks around every corner during epic missions.",
+    "audio_en_storage_path": "1502_danger_lurks_around_every_corner_during_epic_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131503",
+    "text_pt": "Armadilhas, emboscadas e perigos naturais testam os limites da sobrevivência.",
+    "text_en": "Traps. ambushes. and natural hazards test the limits of survival.",
+    "audio_en_storage_path": "1503_traps_ambushes_and_natural_hazards_test_the_limits_of_survival.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131504",
+    "text_pt": "Profecias antigas muitas vezes guiam os personagens em direção aos seus destinos.",
+    "text_en": "Ancient prophecies often guide characters toward their destinies.",
+    "audio_en_storage_path": "1504_ancient_prophecies_often_guide_characters_toward_their_destinies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131505",
+    "text_pt": "Cumpri-los restaura o equilíbrio em mundos ou sociedades fragmentados.",
+    "text_en": "Fulfilling them restores balance to fractured worlds or societies.",
+    "audio_en_storage_path": "1505_fulfilling_them_restores_balance_to_fractured_worlds_or_societies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131506",
+    "text_pt": "Facções rivais competem pelo controle de prêmios cobiçados.",
+    "text_en": "Rival factions compete for control over coveted prizes.",
+    "audio_en_storage_path": "1506_rival_factions_compete_for_control_over_coveted_prizes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131507",
+    "text_pt": "A vitória garante o domínio; o fracasso significa aniquilação ou ruína.",
+    "text_en": "Victory ensures dominance; failure means annihilation or ruin.",
+    "audio_en_storage_path": "1507_victory_ensures_dominance_failure_means_annihilation_or_ruin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131508",
+    "text_pt": "Dilemas morais surgem quando atingir objetivos exige comprometer valores.",
+    "text_en": "Moral dilemmas arise when achieving goals requires compromising values.",
+    "audio_en_storage_path": "1508_moral_dilemmas_arise_when_achieving_goals_requires_compromising_values.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131509",
+    "text_pt": "Personagens avaliam o custo de sacrificar a ética pelo sucesso.",
+    "text_en": "Characters weigh the cost of sacrificing ethics for success.",
+    "audio_en_storage_path": "1509_characters_weigh_the_cost_of_sacrificing_ethics_for_success.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131510",
+    "text_pt": "Templos escondidos e câmaras secretas guardam tesouros inestimáveis.",
+    "text_en": "Hidden temples and secret chambers guard priceless treasures.",
+    "audio_en_storage_path": "1510_hidden_temples_and_secret_chambers_guard_priceless_treasures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131511",
+    "text_pt": "A exploração revela símbolos e mecanismos enigmáticos que protegem essas riquezas.",
+    "text_en": "Exploration reveals cryptic symbols and mechanisms protecting these riches.",
+    "audio_en_storage_path": "1511_exploration_reveals_cryptic_symbols_and_mechanisms_protecting_these_riches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131512",
+    "text_pt": "O trabalho em equipe aumenta as chances de completar missões épicas.",
+    "text_en": "Teamwork amplifies the chances of completing epic missions.",
+    "audio_en_storage_path": "1512_teamwork_amplifies_the_chances_of_completing_epic_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131513",
+    "text_pt": "Cada membro contribui com habilidades únicas essenciais para superar desafios.",
+    "text_en": "Each member contributes unique skills essential to overcoming challenges.",
+    "audio_en_storage_path": "1513_each_member_contributes_unique_skills_essential_to_overcoming_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131514",
+    "text_pt": "Líderes surgem naturalmente durante aventuras de alto risco.",
+    "text_en": "Leaders emerge naturally during high-stakes adventures.",
+    "audio_en_storage_path": "1514_leaders_emerge_naturally_during_highstakes_adventures.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131515",
+    "text_pt": "Sua visão e determinação inspiram outros a segui-los, apesar dos perigos.",
+    "text_en": "Their vision and resolve inspire others to follow despite dangers.",
+    "audio_en_storage_path": "1515_their_vision_and_resolve_inspire_others_to_follow_despite_dangers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131516",
+    "text_pt": "Os contratempos ensinam aos personagens resiliência e adaptabilidade.",
+    "text_en": "Setbacks teach characters resilience and adaptability.",
+    "audio_en_storage_path": "1516_setbacks_teach_characters_resilience_and_adaptability.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131517",
+    "text_pt": "O fracasso se torna um trampolim para o eventual triunfo.",
+    "text_en": "Failure becomes a stepping stone toward eventual triumph.",
+    "audio_en_storage_path": "1517_failure_becomes_a_stepping_stone_toward_eventual_triumph.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131518",
+    "text_pt": "Missões épicas geralmente abrangem grandes distâncias através de continentes ou galáxias.",
+    "text_en": "Epic missions often span vast distances across continents or galaxies.",
+    "audio_en_storage_path": "1518_epic_missions_often_span_vast_distances_across_continents_or_galaxies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131519",
+    "text_pt": "As jornadas mostram diversas culturas, terrenos e desafios.",
+    "text_en": "Journeys showcase diverse cultures. terrains. and challenges.",
+    "audio_en_storage_path": "1519_journeys_showcase_diverse_cultures_terrains_and_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131520",
+    "text_pt": "Batalhas climáticas colocam heróis contra vilões em confrontos dramáticos.",
+    "text_en": "Climactic battles pit heroes against villains in dramatic showdowns.",
+    "audio_en_storage_path": "1520_climactic_battles_pit_heroes_against_villains_in_dramatic_showdowns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131521",
+    "text_pt": "O destino de reinos, nações ou civilizações inteiras está em jogo.",
+    "text_en": "The fate of kingdoms. nations. or entire civilizations hangs in the balance.",
+    "audio_en_storage_path": "1521_the_fate_of_kingdoms_nations_or_entire_civilizations_hangs_in_the_balance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131522",
+    "text_pt": "Imagens simbólicas reforçam a importância das missões épicas.",
+    "text_en": "Symbolic imagery reinforces the significance of epic missions.",
+    "audio_en_storage_path": "1522_symbolic_imagery_reinforces_the_significance_of_epic_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131523",
+    "text_pt": "A luz representa esperança e justiça, enquanto a escuridão significa opressão e desespero.",
+    "text_en": "Light represents hope and justice. while darkness signifies oppression and despair.",
+    "audio_en_storage_path": "1523_light_represents_hope_and_justice_while_darkness_signifies_oppression_and_despair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131524",
+    "text_pt": "Lendas e mitos inspiram personagens a empreender jornadas perigosas.",
+    "text_en": "Legends and myths inspire characters to undertake perilous quests.",
+    "audio_en_storage_path": "1524_legends_and_myths_inspire_characters_to_undertake_perilous_quests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131525",
+    "text_pt": "Histórias de heróis do passado alimentam sua determinação de vencer.",
+    "text_en": "Stories of past heroes fuel their determination to succeed.",
+    "audio_en_storage_path": "1525_stories_of_past_heroes_fuel_their_determination_to_succeed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131526",
+    "text_pt": "Aliados inesperados aparecem em momentos críticos durante as missões.",
+    "text_en": "Unexpected allies appear at critical moments during missions.",
+    "audio_en_storage_path": "1526_unexpected_allies_appear_at_critical_moments_during_missions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131527",
+    "text_pt": "A ajuda deles vira a maré a favor dos protagonistas atribulados.",
+    "text_en": "Their assistance turns the tide in favor of beleaguered protagonists.",
+    "audio_en_storage_path": "1527_their_assistance_turns_the_tide_in_favor_of_beleaguered_protagonists.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131528",
+    "text_pt": "Os inimigos evoluem para anti-heróis por meio de atos de redenção.",
+    "text_en": "Enemies evolve into anti-heroes through acts of redemption.",
+    "audio_en_storage_path": "1528_enemies_evolve_into_antiheroes_through_acts_of_redemption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131529",
+    "text_pt": "Escolher o caminho da retidão redime até as almas mais irredimíveis.",
+    "text_en": "Choosing the path of righteousness redeems even the most irredeemable souls.",
+    "audio_en_storage_path": "1529_choosing_the_path_of_righteousness_redeems_even_the_most_irredeemable_souls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131530",
+    "text_pt": "Missões épicas celebram o triunfo dos azarões.",
+    "text_en": "Epic missions celebrate the triumph of the underdog.",
+    "audio_en_storage_path": "1530_epic_missions_celebrate_the_triumph_of_the_underdog.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131531",
+    "text_pt": "Contra todas as probabilidades, indivíduos comuns realizam feitos extraordinários.",
+    "text_en": "Against all odds. ordinary individuals achieve extraordinary feats.",
+    "audio_en_storage_path": "1531_against_all_odds_ordinary_individuals_achieve_extraordinary_feats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131532",
+    "text_pt": "A vitória geralmente é agridoce depois de jornadas exaustivas.",
+    "text_en": "Victory is often bittersweet after grueling journeys.",
+    "audio_en_storage_path": "1532_victory_is_often_bittersweet_after_grueling_journeys.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131533",
+    "text_pt": "Os personagens carregam cicatrizes — físicas e emocionais — de suas experiências.",
+    "text_en": "Characters carry scars—physical and emotional—from their experiences.",
+    "audio_en_storage_path": "1533_characters_carry_scarsphysical_and_emotionalfrom_their_experiences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131534",
+    "text_pt": "Missões épicas lembram o público da capacidade da humanidade de ser grandiosa.",
+    "text_en": "Epic missions remind audiences of humanity’s capacity for greatness.",
+    "audio_en_storage_path": "1534_epic_missions_remind_audiences_of_humanitys_capacity_for_greatness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase131535",
+    "text_pt": "Coragem, perseverança e união conquistam até os desafios mais assustadores.",
+    "text_en": "Courage. perseverance. and unity conquer even the most daunting challenges.",
+    "audio_en_storage_path": "1535_courage_perseverance_and_unity_conquer_even_the_most_daunting_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,632 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100235",
+    "text_pt": "A TV está na parede.",
+    "text_en": "The TV is on the wall.",
+    "audio_en_storage_path": "236_the_tv_is_on_the_wall.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100236",
+    "text_pt": "Nós o usamos para assistir filmes e desenhos animados.",
+    "text_en": "We use it to watch movies and cartoons.",
+    "audio_en_storage_path": "237_we_use_it_to_watch_movies_and_cartoons.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100237",
+    "text_pt": "É grande e plano, com tela preta.",
+    "text_en": "It is big and flat with black screen.",
+    "audio_en_storage_path": "238_it_is_big_and_flat_with_black_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100238",
+    "text_pt": "Há controles remotos e alto-falantes abaixo dele.",
+    "text_en": "There are remotes and speakers below it.",
+    "audio_en_storage_path": "239_there_are_remotes_and_speakers_below_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100239",
+    "text_pt": "Posso assistir TV hoje?",
+    "text_en": "Can I watch TV today?",
+    "audio_en_storage_path": "240_can_i_watch_tv_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100240",
+    "text_pt": "Sim, depois que você terminar sua lição de casa.",
+    "text_en": "Yes, after you finish your homework.",
+    "audio_en_storage_path": "241_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100241",
+    "text_pt": "Não, somente nos fins de semana.",
+    "text_en": "No, only on weekends.",
+    "audio_en_storage_path": "242_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100242",
+    "text_pt": "Onde está o controle remoto?",
+    "text_en": "Where is the remote?",
+    "audio_en_storage_path": "243_where_is_the_remote.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100243",
+    "text_pt": "O controle remoto está no sofá.",
+    "text_en": "The remote is on the couch.",
+    "audio_en_storage_path": "244_the_remote_is_on_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100244",
+    "text_pt": "Quando o filme vai começar?",
+    "text_en": "When will the movie start?",
+    "audio_en_storage_path": "245_when_will_the_movie_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100245",
+    "text_pt": "Começará às sete horas.",
+    "text_en": "It’ll start at seven o’clock.",
+    "audio_en_storage_path": "246_itll_start_at_seven_oclock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100246",
+    "text_pt": "Por que você mudou de canal?",
+    "text_en": "Why did you change the channel?",
+    "audio_en_storage_path": "247_why_did_you_change_the_channel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100247",
+    "text_pt": "Eu queria assistir meu programa favorito.",
+    "text_en": "I wanted to watch my favorite show.",
+    "audio_en_storage_path": "248_i_wanted_to_watch_my_favorite_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100248",
+    "text_pt": "Eles assistem TV juntos todas as noites.",
+    "text_en": "They watch TV together every night.",
+    "audio_en_storage_path": "249_they_watch_tv_together_every_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100249",
+    "text_pt": "Não vou assistir o dia todo amanhã.",
+    "text_en": "I won’t watch it all day tomorrow.",
+    "audio_en_storage_path": "250_i_wont_watch_it_all_day_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100250",
+    "text_pt": "Aproveite o show!",
+    "text_en": "Enjoy the show!",
+    "audio_en_storage_path": "251_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100251",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "252_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100252",
+    "text_pt": "Começará às sete horas.",
+    "text_en": "It’ll start at seven o’clock.",
+    "audio_en_storage_path": "253_itll_start_at_seven_oclock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100253",
+    "text_pt": "Começa às sete.",
+    "text_en": "It’s startin’ at seven.",
+    "audio_en_storage_path": "254_its_startin_at_seven.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100254",
+    "text_pt": "Não vou assistir o dia todo amanhã.",
+    "text_en": "I won’t watch it all day tomorrow.",
+    "audio_en_storage_path": "255_i_wont_watch_it_all_day_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100255",
+    "text_pt": "Não vou assistir o dia todo amanhã.",
+    "text_en": "I ain't watchin’ it all day tomorrow.",
+    "audio_en_storage_path": "256_i_aint_watchin_it_all_day_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100256",
+    "text_pt": "Aproveite o show!",
+    "text_en": "Enjoy the show!",
+    "audio_en_storage_path": "257_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100257",
+    "text_pt": "Aproveite o show, mano!",
+    "text_en": "Enjoy the show, bro!",
+    "audio_en_storage_path": "258_enjoy_the_show.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100258",
+    "text_pt": "O sofá fica em frente à TV.",
+    "text_en": "The couch is in front of the TV.",
+    "audio_en_storage_path": "259_the_couch_is_in_front_of_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100259",
+    "text_pt": "Nós o usamos para sentar e relaxar.",
+    "text_en": "We use it to sit and relax.",
+    "audio_en_storage_path": "260_we_use_it_to_sit_and_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100260",
+    "text_pt": "É macio e marrom claro.",
+    "text_en": "It is soft and light brown.",
+    "audio_en_storage_path": "261_it_is_soft_and_light_brown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100261",
+    "text_pt": "Há almofadas e um cobertor sobre ele.",
+    "text_en": "There are cushions and a blanket on it.",
+    "audio_en_storage_path": "262_there_are_cushions_and_a_blanket_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100262",
+    "text_pt": "Posso sentar aqui?",
+    "text_en": "Can I sit here?",
+    "audio_en_storage_path": "263_can_i_sit_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100263",
+    "text_pt": "Sim, venha se juntar a nós.",
+    "text_en": "Yes, come join us.",
+    "audio_en_storage_path": "264_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100264",
+    "text_pt": "Não, guarde isso para o pai.",
+    "text_en": "No, save it for dad.",
+    "audio_en_storage_path": "265_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100265",
+    "text_pt": "Onde estão meus sapatos?",
+    "text_en": "Where are my shoes?",
+    "audio_en_storage_path": "266_where_are_my_shoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100266",
+    "text_pt": "Seus sapatos estão debaixo do sofá.",
+    "text_en": "Your shoes are under the couch.",
+    "audio_en_storage_path": "267_your_shoes_are_under_the_couch.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100267",
+    "text_pt": "Quando assistiremos ao filme?",
+    "text_en": "When will we watch the movie?",
+    "audio_en_storage_path": "268_when_will_we_watch_the_movie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100268",
+    "text_pt": "Assistiremos depois do jantar.",
+    "text_en": "We’ll watch it after dinner.",
+    "audio_en_storage_path": "269_well_watch_it_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100269",
+    "text_pt": "Por que você se deitou aqui?",
+    "text_en": "Why did you lie down here?",
+    "audio_en_storage_path": "270_why_did_you_lie_down_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100270",
+    "text_pt": "Eu estava cansado e precisava de uma pausa.",
+    "text_en": "I was tired and needed a break.",
+    "audio_en_storage_path": "271_i_was_tired_and_needed_a_break.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100271",
+    "text_pt": "Ela senta no sofá e observa.",
+    "text_en": "She sits on the couch and watches.",
+    "audio_en_storage_path": "272_she_sits_on_the_couch_and_watches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100272",
+    "text_pt": "Ele não vai sentar lá se estiver sujo.",
+    "text_en": "He won’t sit there if it’s dirty.",
+    "audio_en_storage_path": "273_he_wont_sit_there_if_its_dirty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100273",
+    "text_pt": "Não se esqueça de limpá-lo mais tarde.",
+    "text_en": "Make sure to clean it later.",
+    "audio_en_storage_path": "274_make_sure_to_clean_it_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100274",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "275_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100275",
+    "text_pt": "Assistiremos depois do jantar.",
+    "text_en": "We’ll watch it after dinner.",
+    "audio_en_storage_path": "276_well_watch_it_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100276",
+    "text_pt": "Vamos assistir depois do jantar.",
+    "text_en": "We’re gonna watch it after dinner.",
+    "audio_en_storage_path": "277_were_gonna_watch_it_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100277",
+    "text_pt": "Ele não vai sentar lá se estiver sujo.",
+    "text_en": "He won’t sit there if it’s dirty.",
+    "audio_en_storage_path": "278_he_wont_sit_there_if_its_dirty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100278",
+    "text_pt": "Ele não vai ficar sentado ali se estiver sujo.",
+    "text_en": "He ain't sittin’ there if it’s dirty.",
+    "audio_en_storage_path": "279_he_aint_sittin_there_if_its_dirty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100279",
+    "text_pt": "Não se esqueça de limpá-lo mais tarde.",
+    "text_en": "Make sure to clean it later.",
+    "audio_en_storage_path": "280_make_sure_to_clean_it_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100280",
+    "text_pt": "Não esqueça de limpar depois, ok?",
+    "text_en": "Make sure to clean it later, okay?",
+    "audio_en_storage_path": "281_make_sure_to_clean_it_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100281",
+    "text_pt": "A mesa fica no meio da sala.",
+    "text_en": "The table is in the middle of the room.",
+    "audio_en_storage_path": "282_the_table_is_in_the_middle_of_the_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100282",
+    "text_pt": "Nós o usamos para comer e jogar.",
+    "text_en": "We use it to eat and play games.",
+    "audio_en_storage_path": "283_we_use_it_to_eat_and_play_games.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100283",
+    "text_pt": "É de madeira e tem formato quadrado.",
+    "text_en": "It is wooden and square-shaped.",
+    "audio_en_storage_path": "284_it_is_wooden_and_squareshaped.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100284",
+    "text_pt": "Há xícaras, pratos e lanches nele.",
+    "text_en": "There are cups, plates, and snacks on it.",
+    "audio_en_storage_path": "285_there_are_cups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100285",
+    "text_pt": "Posso comer aqui?",
+    "text_en": "Can I eat here?",
+    "audio_en_storage_path": "286_can_i_eat_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100286",
+    "text_pt": "Sim, traga seu prato.",
+    "text_en": "Yes, bring your plate over.",
+    "audio_en_storage_path": "287_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100287",
+    "text_pt": "Não, estamos limpando a mesa agora.",
+    "text_en": "No, we’re cleaning the table now.",
+    "audio_en_storage_path": "288_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100288",
+    "text_pt": "Onde estão os guardanapos?",
+    "text_en": "Where are the napkins?",
+    "audio_en_storage_path": "289_where_are_the_napkins.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100289",
+    "text_pt": "Os guardanapos estão na mesa.",
+    "text_en": "The napkins are on the table.",
+    "audio_en_storage_path": "290_the_napkins_are_on_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100290",
+    "text_pt": "Quando você vai pôr a mesa?",
+    "text_en": "When will you set the table?",
+    "audio_en_storage_path": "291_when_will_you_set_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100291",
+    "text_pt": "Vou preparar quando todos chegarem.",
+    "text_en": "I’ll set it when everyone arrives.",
+    "audio_en_storage_path": "292_ill_set_it_when_everyone_arrives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100292",
+    "text_pt": "Por que você moveu a mesa?",
+    "text_en": "Why did you move the table?",
+    "audio_en_storage_path": "293_why_did_you_move_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100293",
+    "text_pt": "Eu queria passar o aspirador embaixo dele.",
+    "text_en": "I wanted to vacuum under it.",
+    "audio_en_storage_path": "294_i_wanted_to_vacuum_under_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100294",
+    "text_pt": "Ele põe a mesa antes do jantar.",
+    "text_en": "He sets the table before dinner.",
+    "audio_en_storage_path": "295_he_sets_the_table_before_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100295",
+    "text_pt": "Eles não comerão sem a mesa.",
+    "text_en": "They won’t eat without the table.",
+    "audio_en_storage_path": "296_they_wont_eat_without_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100296",
+    "text_pt": "Por favor, empurre a cadeira para dentro.",
+    "text_en": "Please push the chair in.",
+    "audio_en_storage_path": "297_please_push_the_chair_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100297",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "298_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100298",
+    "text_pt": "Vou preparar quando todos chegarem.",
+    "text_en": "I’ll set it when everyone arrives.",
+    "audio_en_storage_path": "299_ill_set_it_when_everyone_arrives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100299",
+    "text_pt": "Vou configurá-lo quando todos chegarem aqui.",
+    "text_en": "I’m gonna set it when everyone gets here.",
+    "audio_en_storage_path": "300_im_gonna_set_it_when_everyone_gets_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100300",
+    "text_pt": "Eles não comerão sem a mesa.",
+    "text_en": "They won’t eat without the table.",
+    "audio_en_storage_path": "301_they_wont_eat_without_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100301",
+    "text_pt": "Eles não comem sem a mesa.",
+    "text_en": "They ain’t eatin’ without the table.",
+    "audio_en_storage_path": "302_they_aint_eatin_without_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100302",
+    "text_pt": "Por favor, empurre a cadeira para dentro.",
+    "text_en": "Please push the chair in.",
+    "audio_en_storage_path": "303_please_push_the_chair_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100303",
+    "text_pt": "Empurre a cadeira para dentro, por favor.",
+    "text_en": "Push the chair in, plz.",
+    "audio_en_storage_path": "304_push_the_chair_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100304",
+    "text_pt": "Banheiro",
+    "text_en": "Banheiro",
+    "audio_en_storage_path": "305_banheiro.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

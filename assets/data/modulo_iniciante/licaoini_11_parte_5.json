@@ -1,0 +1,218 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100211",
+    "text_pt": "A escrivaninha fica perto da janela.",
+    "text_en": "The desk is by the window.",
+    "audio_en_storage_path": "212_the_desk_is_by_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100212",
+    "text_pt": "Nós o usamos para estudar e escrever.",
+    "text_en": "We use it to study and write.",
+    "audio_en_storage_path": "213_we_use_it_to_study_and_write.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100213",
+    "text_pt": "É de madeira e tem quatro gavetas.",
+    "text_en": "It is wooden and has four drawers.",
+    "audio_en_storage_path": "214_it_is_wooden_and_has_four_drawers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100214",
+    "text_pt": "Há lápis, papel e um laptop sobre ela.",
+    "text_en": "There are pencils, paper, and a laptop on it.",
+    "audio_en_storage_path": "215_there_are_pencils.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100215",
+    "text_pt": "Posso usar sua mesa?",
+    "text_en": "Can I use your desk?",
+    "audio_en_storage_path": "216_can_i_use_your_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100216",
+    "text_pt": "Sim, só não mova meus livros.",
+    "text_en": "Yes, just don’t move my books.",
+    "audio_en_storage_path": "217_yes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100217",
+    "text_pt": "Não, estou usando agora.",
+    "text_en": "No, I’m using it right now.",
+    "audio_en_storage_path": "218_no.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100218",
+    "text_pt": "Onde está meu caderno?",
+    "text_en": "Where is my notebook?",
+    "audio_en_storage_path": "219_where_is_my_notebook.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100219",
+    "text_pt": "Seu caderno está na gaveta.",
+    "text_en": "Your notebook is in the drawer.",
+    "audio_en_storage_path": "220_your_notebook_is_in_the_drawer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100220",
+    "text_pt": "Quando você vai terminar a lição de casa?",
+    "text_en": "When will you finish homework?",
+    "audio_en_storage_path": "221_when_will_you_finish_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100221",
+    "text_pt": "Vou terminar antes do jantar.",
+    "text_en": "I’ll finish it before dinner.",
+    "audio_en_storage_path": "222_ill_finish_it_before_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100222",
+    "text_pt": "Por que você deixou seu lápis aí?",
+    "text_en": "Why did you leave your pencil there?",
+    "audio_en_storage_path": "223_why_did_you_leave_your_pencil_there.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100223",
+    "text_pt": "Eu estava cansado e esqueci de pegá-lo.",
+    "text_en": "I was tired and forgot to pick it up.",
+    "audio_en_storage_path": "224_i_was_tired_and_forgot_to_pick_it_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100224",
+    "text_pt": "Ele senta-se à mesa e começa a escrever.",
+    "text_en": "He sits at the desk and starts writing.",
+    "audio_en_storage_path": "225_he_sits_at_the_desk_and_starts_writing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100225",
+    "text_pt": "Não vou deixar meu lápis no chão.",
+    "text_en": "I won’t leave my pencil on the floor.",
+    "audio_en_storage_path": "226_i_wont_leave_my_pencil_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100226",
+    "text_pt": "Boa sorte com sua lição de casa!",
+    "text_en": "Good luck with your homework!",
+    "audio_en_storage_path": "227_good_luck_with_your_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100227",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "228_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100228",
+    "text_pt": "Vou terminar antes do jantar.",
+    "text_en": "I’ll finish it before dinner.",
+    "audio_en_storage_path": "229_ill_finish_it_before_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100229",
+    "text_pt": "Vou terminar antes do jantar. (coloquial, usado por alguns jovens)",
+    "text_en": "I’m finna finish it b’fore dinner. (colloquial, usado por alguns jovens)",
+    "audio_en_storage_path": "230_im_finna_finish_it_bfore_dinner_colloquial.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100230",
+    "text_pt": "Não vou deixar meu lápis no chão.",
+    "text_en": "I won’t leave my pencil on the floor.",
+    "audio_en_storage_path": "231_i_wont_leave_my_pencil_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100231",
+    "text_pt": "Não vou deixar meu lápis no chão.",
+    "text_en": "I ain't leavin’ my pencil on the floor.",
+    "audio_en_storage_path": "232_i_aint_leavin_my_pencil_on_the_floor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100232",
+    "text_pt": "Boa sorte com sua lição de casa!",
+    "text_en": "Good luck with your homework!",
+    "audio_en_storage_path": "233_good_luck_with_your_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100233",
+    "text_pt": "Boa sorte com sua lição de casa!",
+    "text_en": "Good luck with yer homework!",
+    "audio_en_storage_path": "234_good_luck_with_yer_homework.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100234",
+    "text_pt": "Na Sala de Estar",
+    "text_en": "Na Sala de Estar",
+    "audio_en_storage_path": "235_na_sala_de_estar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

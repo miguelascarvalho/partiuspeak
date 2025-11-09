@@ -1,0 +1,1703 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102730",
+    "text_pt": "Farmácia",
+    "text_en": "Pharmacy",
+    "audio_en_storage_path": "1830_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102731",
+    "text_pt": "A farmácia fica do outro lado da rua.",
+    "text_en": "The pharmacy is across the street.",
+    "audio_en_storage_path": "1831_the_pharmacy_is_across_the_street.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102732",
+    "text_pt": "Aberto até às 22h — ótimo para emergências.",
+    "text_en": "Open until 10 PM — great for emergencies.",
+    "audio_en_storage_path": "1832_open_until_10_pm_great_for_emergencies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102733",
+    "text_pt": "Vou lá para comprar remédios e pasta de dente.",
+    "text_en": "I go there to buy medicine and toothpaste.",
+    "audio_en_storage_path": "1833_i_go_there_to_buy_medicine_and_toothpaste.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102734",
+    "text_pt": "Ou apenas para fazer perguntas sobre saúde.",
+    "text_en": "Or just to ask health questions.",
+    "audio_en_storage_path": "1834_or_just_to_ask_health_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102735",
+    "text_pt": "É pequeno. limpo e tem muitas prateleiras.",
+    "text_en": "It is small. clean. and has many shelves.",
+    "audio_en_storage_path": "1835_it_is_small_clean_and_has_many_shelves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102736",
+    "text_pt": "Com cremes. xaropes e band-aids.",
+    "text_en": "With creams. syrups. and band-aids.",
+    "audio_en_storage_path": "1836_with_creams_syrups_and_bandaids.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102737",
+    "text_pt": "Há termômetros. máscaras e higienizadores lá dentro.",
+    "text_en": "There are thermometers. masks. and sanitizers inside.",
+    "audio_en_storage_path": "1837_there_are_thermometers_masks_and_sanitizers_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102738",
+    "text_pt": "E uma pequena seção com lanches.",
+    "text_en": "And a small section with snacks.",
+    "audio_en_storage_path": "1838_and_a_small_section_with_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102739",
+    "text_pt": "O que você comprou na farmácia?",
+    "text_en": "What did you buy at the pharmacy?",
+    "audio_en_storage_path": "1839_what_did_you_buy_at_the_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102740",
+    "text_pt": "Remédio para gripe — tosse e dor de garganta.",
+    "text_en": "Medicine for flu — cough and sore throat.",
+    "audio_en_storage_path": "1840_medicine_for_flu_cough_and_sore_throat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102741",
+    "text_pt": "Onde você pode encontrar analgésicos?",
+    "text_en": "Where can you find painkillers?",
+    "audio_en_storage_path": "1841_where_can_you_find_painkillers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102742",
+    "text_pt": "Na segunda prateleira — ao lado dos comprimidos para alergia.",
+    "text_en": "On the second shelf — next to allergy pills.",
+    "audio_en_storage_path": "1842_on_the_second_shelf_next_to_allergy_pills.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102743",
+    "text_pt": "Às vezes peço ajuda ao farmacêutico.",
+    "text_en": "Sometimes I ask the pharmacist for help.",
+    "audio_en_storage_path": "1843_sometimes_i_ask_the_pharmacist_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102744",
+    "text_pt": "Outras vezes eu simplesmente pego e vou embora.",
+    "text_en": "Other times I just grab and go.",
+    "audio_en_storage_path": "1844_other_times_i_just_grab_and_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102745",
+    "text_pt": "Onde você deixou seu recibo?",
+    "text_en": "Where did you leave your receipt?",
+    "audio_en_storage_path": "1845_where_did_you_leave_your_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102746",
+    "text_pt": "Na minha carteira — misturado com outros papéis.",
+    "text_en": "In my wallet — mixed with other papers.",
+    "audio_en_storage_path": "1846_in_my_wallet_mixed_with_other_papers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102747",
+    "text_pt": "Quando a loja fechará hoje à noite?",
+    "text_en": "When will the store close tonight?",
+    "audio_en_storage_path": "1847_when_will_the_store_close_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102748",
+    "text_pt": "Às 22h — não se atrase.",
+    "text_en": "At 10 PM — don’t be late.",
+    "audio_en_storage_path": "1848_at_10_pm_dont_be_late.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102749",
+    "text_pt": "Por que você foi à farmácia hoje?",
+    "text_en": "Why did you go to the pharmacy today?",
+    "audio_en_storage_path": "1849_why_did_you_go_to_the_pharmacy_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102750",
+    "text_pt": "Porque fiquei sem remédio.",
+    "text_en": "Because I ran out of medicine.",
+    "audio_en_storage_path": "1850_because_i_ran_out_of_medicine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102751",
+    "text_pt": "Ele compra tudo o que precisa aqui.",
+    "text_en": "He buys everything he needs here.",
+    "audio_en_storage_path": "1851_he_buys_everything_he_needs_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102752",
+    "text_pt": "Confia na equipe e nos preços.",
+    "text_en": "Trusts the staff and prices.",
+    "audio_en_storage_path": "1852_trusts_the_staff_and_prices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102753",
+    "text_pt": "Amanhã não esquecerei de conferir o preço novamente.",
+    "text_en": "Tomorrow. I will not forget to check the price again.",
+    "audio_en_storage_path": "1853_tomorrow_i_will_not_forget_to_check_the_price_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102754",
+    "text_pt": "Paguei mais do que o esperado hoje.",
+    "text_en": "Paid more than expected today.",
+    "audio_en_storage_path": "1854_paid_more_than_expected_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102755",
+    "text_pt": "Peça ajuda se não tiver certeza!",
+    "text_en": "Ask for help if unsure!",
+    "audio_en_storage_path": "1855_ask_for_help_if_unsure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102756",
+    "text_pt": "Os farmacêuticos sabem o que funciona melhor.",
+    "text_en": "Pharmacists know what works best.",
+    "audio_en_storage_path": "1856_pharmacists_know_what_works_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102757",
+    "text_pt": "Hospital",
+    "text_en": "Hospital",
+    "audio_en_storage_path": "1857_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102758",
+    "text_pt": "O hospital fica no centro da cidade.",
+    "text_en": "The hospital is downtown.",
+    "audio_en_storage_path": "1858_the_hospital_is_downtown.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102759",
+    "text_pt": "Grande edifício com placas e luzes vermelhas.",
+    "text_en": "Big building with red signs and lights.",
+    "audio_en_storage_path": "1859_big_building_with_red_signs_and_lights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102760",
+    "text_pt": "Nós vamos lá para questões sérias e exames.",
+    "text_en": "We go there for serious issues and exams.",
+    "audio_en_storage_path": "1860_we_go_there_for_serious_issues_and_exams.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102761",
+    "text_pt": "Ou quando os remédios caseiros não funcionam.",
+    "text_en": "Or when home remedies don’t work.",
+    "audio_en_storage_path": "1861_or_when_home_remedies_dont_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102762",
+    "text_pt": "É branco. moderno. cheio de gente.",
+    "text_en": "It is white. modern. full of people.",
+    "audio_en_storage_path": "1862_it_is_white_modern_full_of_people.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102763",
+    "text_pt": "Cadeiras de espera fazem fila na porta.",
+    "text_en": "Waiting chairs line up by the door.",
+    "audio_en_storage_path": "1863_waiting_chairs_line_up_by_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102764",
+    "text_pt": "Há camas. telas e linhas intravenosas lá dentro.",
+    "text_en": "There are beds. screens. and IV lines inside.",
+    "audio_en_storage_path": "1864_there_are_beds_screens_and_iv_lines_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102765",
+    "text_pt": "E médicos de uniforme azul.",
+    "text_en": "And doctors in blue uniforms.",
+    "audio_en_storage_path": "1865_and_doctors_in_blue_uniforms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102766",
+    "text_pt": "Por que você foi ao hospital?",
+    "text_en": "Why did you go to the hospital?",
+    "audio_en_storage_path": "1866_why_did_you_go_to_the_hospital.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102767",
+    "text_pt": "Porque eu não conseguia respirar bem.",
+    "text_en": "Because I couldn’t breathe well.",
+    "audio_en_storage_path": "1867_because_i_couldnt_breathe_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102768",
+    "text_pt": "Onde fica o pronto-socorro mais próximo?",
+    "text_en": "Where is the nearest emergency room?",
+    "audio_en_storage_path": "1868_where_is_the_nearest_emergency_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102769",
+    "text_pt": "Dois quarteirões à frente — siga as placas.",
+    "text_en": "Two blocks ahead — follow the signs.",
+    "audio_en_storage_path": "1869_two_blocks_ahead_follow_the_signs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102770",
+    "text_pt": "Às vezes entramos.",
+    "text_en": "Sometimes we walk in.",
+    "audio_en_storage_path": "1870_sometimes_we_walk_in.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102771",
+    "text_pt": "Outras vezes chegamos de ambulância.",
+    "text_en": "Other times we arrive by ambulance.",
+    "audio_en_storage_path": "1871_other_times_we_arrive_by_ambulance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102772",
+    "text_pt": "Onde você deixou seu documento de identidade?",
+    "text_en": "Where did you leave your ID?",
+    "audio_en_storage_path": "1872_where_did_you_leave_your_id.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102773",
+    "text_pt": "Na minha bolsa — pronto para o registro.",
+    "text_en": "In my bag — ready for registration.",
+    "audio_en_storage_path": "1873_in_my_bag_ready_for_registration.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102774",
+    "text_pt": "Quando você verá o médico?",
+    "text_en": "When will you see the doctor?",
+    "audio_en_storage_path": "1874_when_will_you_see_the_doctor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102775",
+    "text_pt": "Em cerca de uma hora — a lista de espera é longa.",
+    "text_en": "In about an hour — waiting list is long.",
+    "audio_en_storage_path": "1875_in_about_an_hour_waiting_list_is_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102776",
+    "text_pt": "Por que você esperou tanto hoje?",
+    "text_en": "Why did you wait so long today?",
+    "audio_en_storage_path": "1876_why_did_you_wait_so_long_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102777",
+    "text_pt": "Porque estava cheio e com poucos funcionários.",
+    "text_en": "Because it was busy and understaffed.",
+    "audio_en_storage_path": "1877_because_it_was_busy_and_understaffed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102778",
+    "text_pt": "Ela vai ao hospital uma vez por ano.",
+    "text_en": "She goes to the hospital once a year.",
+    "audio_en_storage_path": "1878_she_goes_to_the_hospital_once_a_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102779",
+    "text_pt": "Para check-ups e exames de sangue.",
+    "text_en": "For check-ups and blood tests.",
+    "audio_en_storage_path": "1879_for_checkups_and_blood_tests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102780",
+    "text_pt": "Amanhã não esquecerei de trazer meus documentos novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my documents again.",
+    "audio_en_storage_path": "1880_tomorrow_i_will_not_forget_to_bring_my_documents_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102781",
+    "text_pt": "Deixei-os em casa da última vez.",
+    "text_en": "Left them at home last time.",
+    "audio_en_storage_path": "1881_left_them_at_home_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102782",
+    "text_pt": "Fique calmo!",
+    "text_en": "Stay calm!",
+    "audio_en_storage_path": "1882_stay_calm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102783",
+    "text_pt": "A ajuda está chegando — só espere sua vez.",
+    "text_en": "Help is coming — just wait your turn.",
+    "audio_en_storage_path": "1883_help_is_coming_just_wait_your_turn.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102784",
+    "text_pt": "Testes médicos",
+    "text_en": "Medical Tests",
+    "audio_en_storage_path": "1884_medical_tests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102785",
+    "text_pt": "O laboratório fica no porão do hospital.",
+    "text_en": "The lab is in the hospital basement.",
+    "audio_en_storage_path": "1885_the_lab_is_in_the_hospital_basement.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102786",
+    "text_pt": "Foi lá que fiz meu exame de sangue.",
+    "text_en": "That’s where I did my blood test.",
+    "audio_en_storage_path": "1886_thats_where_i_did_my_blood_test.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102787",
+    "text_pt": "Fui lá para fazer exames de sangue e tomografias.",
+    "text_en": "I went there for blood work and scans.",
+    "audio_en_storage_path": "1887_i_went_there_for_blood_work_and_scans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102788",
+    "text_pt": "Ou para verificar os níveis de colesterol e açúcar.",
+    "text_en": "Or to check cholesterol and sugar levels.",
+    "audio_en_storage_path": "1888_or_to_check_cholesterol_and_sugar_levels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102789",
+    "text_pt": "O quarto é claro e cheira a álcool.",
+    "text_en": "The room is bright and smells like alcohol.",
+    "audio_en_storage_path": "1889_the_room_is_bright_and_smells_like_alcohol.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102790",
+    "text_pt": "Cadeiras de metal frio e vestidos de papel.",
+    "text_en": "Cold metal chairs and paper gowns.",
+    "audio_en_storage_path": "1890_cold_metal_chairs_and_paper_gowns.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102791",
+    "text_pt": "Há agulhas. luvas e copos por perto.",
+    "text_en": "There are needles. gloves. and cups nearby.",
+    "audio_en_storage_path": "1891_there_are_needles_gloves_and_cups_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102792",
+    "text_pt": "E formulários com perguntas pessoais.",
+    "text_en": "And forms asking personal questions.",
+    "audio_en_storage_path": "1892_and_forms_asking_personal_questions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102793",
+    "text_pt": "Que tipo de exame você fez?",
+    "text_en": "What kind of exam did you do?",
+    "audio_en_storage_path": "1893_what_kind_of_exam_did_you_do.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102794",
+    "text_pt": "Teste de pressão arterial e glicose.",
+    "text_en": "Blood pressure and glucose test.",
+    "audio_en_storage_path": "1894_blood_pressure_and_glucose_test.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102795",
+    "text_pt": "Onde fica a sala de raio X?",
+    "text_en": "Where is the X-ray room?",
+    "audio_en_storage_path": "1895_where_is_the_xray_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102796",
+    "text_pt": "No final do corredor — depois do laboratório.",
+    "text_en": "Down the hall — past the lab.",
+    "audio_en_storage_path": "1896_down_the_hall_past_the_lab.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102797",
+    "text_pt": "Às vezes faço exames de urina.",
+    "text_en": "Sometimes I do urine tests.",
+    "audio_en_storage_path": "1897_sometimes_i_do_urine_tests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102798",
+    "text_pt": "Outras vezes. apenas exames de sangue ou cardíacos.",
+    "text_en": "Other times just blood or heart check.",
+    "audio_en_storage_path": "1898_other_times_just_blood_or_heart_check.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102799",
+    "text_pt": "Onde você deixou seus resultados?",
+    "text_en": "Where did you leave your results?",
+    "audio_en_storage_path": "1899_where_did_you_leave_your_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102800",
+    "text_pt": "Na minha bolsa — debaixo da garrafa de água.",
+    "text_en": "In my bag — under the water bottle.",
+    "audio_en_storage_path": "1900_in_my_bag_under_the_water_bottle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102801",
+    "text_pt": "Quando você receberá seus resultados?",
+    "text_en": "When will you get your results?",
+    "audio_en_storage_path": "1901_when_will_you_get_your_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102802",
+    "text_pt": "Em dois dias — eles enviarão por e-mail.",
+    "text_en": "In two days — they’ll send it by email.",
+    "audio_en_storage_path": "1902_in_two_days_theyll_send_it_by_email.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102803",
+    "text_pt": "Por que você fez o teste hoje?",
+    "text_en": "Why did you do the test today?",
+    "audio_en_storage_path": "1903_why_did_you_do_the_test_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102804",
+    "text_pt": "Porque eu sentia que algo estava errado.",
+    "text_en": "Because I felt something was off.",
+    "audio_en_storage_path": "1904_because_i_felt_something_was_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102805",
+    "text_pt": "Ele faz testes regularmente.",
+    "text_en": "He does tests regularly.",
+    "audio_en_storage_path": "1905_he_does_tests_regularly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102806",
+    "text_pt": "É melhor prevenir do que remediar.",
+    "text_en": "Better safe than sorry.",
+    "audio_en_storage_path": "1906_better_safe_than_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102807",
+    "text_pt": "Amanhã não vou esquecer de jejuar antes do teste novamente.",
+    "text_en": "Tomorrow. I will not forget to fast before the test again.",
+    "audio_en_storage_path": "1907_tomorrow_i_will_not_forget_to_fast_before_the_test_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102808",
+    "text_pt": "Estragou o teste de açúcar no sangue da última vez.",
+    "text_en": "Ruined the blood sugar test last time.",
+    "audio_en_storage_path": "1908_ruined_the_blood_sugar_test_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102809",
+    "text_pt": "Prepare-se bem!",
+    "text_en": "Prepare well!",
+    "audio_en_storage_path": "1909_prepare_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102810",
+    "text_pt": "O jejum ajuda a obter resultados claros.",
+    "text_en": "Fasting helps get clear results.",
+    "audio_en_storage_path": "1910_fasting_helps_get_clear_results.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102811",
+    "text_pt": "Consulta médica",
+    "text_en": "Doctor's Appointment",
+    "audio_en_storage_path": "1911_doctors_appointment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102812",
+    "text_pt": "O encontro é às 15:00.",
+    "text_en": "The appointment is at 3:00 PM.",
+    "audio_en_storage_path": "1912_the_appointment_is_at_300_pm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102813",
+    "text_pt": "Na clínica perto da farmácia.",
+    "text_en": "In the clinic near the pharmacy.",
+    "audio_en_storage_path": "1913_in_the_clinic_near_the_pharmacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102814",
+    "text_pt": "Vou lá para exames regulares.",
+    "text_en": "I go there for regular check-ups.",
+    "audio_en_storage_path": "1914_i_go_there_for_regular_checkups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102815",
+    "text_pt": "Ou quando não estou me sentindo bem.",
+    "text_en": "Or when I’m feeling unwell.",
+    "audio_en_storage_path": "1915_or_when_im_feeling_unwell.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102816",
+    "text_pt": "O escritório é pequeno. limpo e silencioso.",
+    "text_en": "The office is small. clean. and quiet.",
+    "audio_en_storage_path": "1916_the_office_is_small_clean_and_quiet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102817",
+    "text_pt": "Possui revistas e sala de espera.",
+    "text_en": "Has magazines and a waiting area.",
+    "audio_en_storage_path": "1917_has_magazines_and_a_waiting_area.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102818",
+    "text_pt": "Há gráficos. luvas e um estetoscópio por perto.",
+    "text_en": "There are charts. gloves. and a stethoscope nearby.",
+    "audio_en_storage_path": "1918_there_are_charts_gloves_and_a_stethoscope_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102819",
+    "text_pt": "E um computador mostrando arquivos de pacientes.",
+    "text_en": "And a computer showing patient files.",
+    "audio_en_storage_path": "1919_and_a_computer_showing_patient_files.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102820",
+    "text_pt": "O que o médico disse?",
+    "text_en": "What did the doctor say?",
+    "audio_en_storage_path": "1920_what_did_the_doctor_say.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102821",
+    "text_pt": "Descansar e evitar comidas apimentadas.",
+    "text_en": "To rest and avoid spicy food.",
+    "audio_en_storage_path": "1921_to_rest_and_avoid_spicy_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102822",
+    "text_pt": "Onde fica a clínica?",
+    "text_en": "Where is the clinic located?",
+    "audio_en_storage_path": "1922_where_is_the_clinic_located.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102823",
+    "text_pt": "Ao lado do supermercado — fácil de chegar.",
+    "text_en": "Next to the supermarket — easy to reach.",
+    "audio_en_storage_path": "1923_next_to_the_supermarket_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102824",
+    "text_pt": "Às vezes vou sozinho.",
+    "text_en": "Sometimes I go alone.",
+    "audio_en_storage_path": "1924_sometimes_i_go_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102825",
+    "text_pt": "Outras vezes alguém vem comigo.",
+    "text_en": "Other times someone comes with me.",
+    "audio_en_storage_path": "1925_other_times_someone_comes_with_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102826",
+    "text_pt": "Onde você deixou suas anotações?",
+    "text_en": "Where did you leave your notes?",
+    "audio_en_storage_path": "1926_where_did_you_leave_your_notes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102827",
+    "text_pt": "Na mesa — misturado com receitas.",
+    "text_en": "On the desk — mixed with prescriptions.",
+    "audio_en_storage_path": "1927_on_the_desk_mixed_with_prescriptions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102828",
+    "text_pt": "Quando você agendará outra visita?",
+    "text_en": "When will you schedule another visit?",
+    "audio_en_storage_path": "1928_when_will_you_schedule_another_visit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102829",
+    "text_pt": "Se os sintomas retornarem. ligarei novamente.",
+    "text_en": "If symptoms return — I’ll call again.",
+    "audio_en_storage_path": "1929_if_symptoms_return_ill_call_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102830",
+    "text_pt": "Por que você foi ao médico hoje?",
+    "text_en": "Why did you go to the doctor today?",
+    "audio_en_storage_path": "1930_why_did_you_go_to_the_doctor_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102831",
+    "text_pt": "Porque eu sentia dor no peito e falta de ar.",
+    "text_en": "Because I had chest pain and shortness of breath.",
+    "audio_en_storage_path": "1931_because_i_had_chest_pain_and_shortness_of_breath.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102832",
+    "text_pt": "Ela vai ao médico duas vezes por ano.",
+    "text_en": "She sees her doctor twice a year.",
+    "audio_en_storage_path": "1932_she_sees_her_doctor_twice_a_year.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102833",
+    "text_pt": "Apenas para se manter saudável e atualizado.",
+    "text_en": "Just to stay healthy and updated.",
+    "audio_en_storage_path": "1933_just_to_stay_healthy_and_updated.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102834",
+    "text_pt": "Amanhã não esquecerei de trazer novamente meu cartão do seguro.",
+    "text_en": "Tomorrow. I will not forget to bring my insurance card again.",
+    "audio_en_storage_path": "1934_tomorrow_i_will_not_forget_to_bring_my_insurance_card_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102835",
+    "text_pt": "Deixei em casa da última vez — paguei a mais.",
+    "text_en": "Left it at home last time — paid extra.",
+    "audio_en_storage_path": "1935_left_it_at_home_last_time_paid_extra.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102836",
+    "text_pt": "Ouça seu corpo!",
+    "text_en": "Listen to your body!",
+    "audio_en_storage_path": "1936_listen_to_your_body.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102837",
+    "text_pt": "Não ignore o que ele lhe diz.",
+    "text_en": "Don’t ignore what it tells you.",
+    "audio_en_storage_path": "1937_dont_ignore_what_it_tells_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102838",
+    "text_pt": "Pronto Socorro",
+    "text_en": "Emergency Room",
+    "audio_en_storage_path": "1938_emergency_room.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102839",
+    "text_pt": "O pronto-socorro fica aberto o dia todo.",
+    "text_en": "The ER is open all day.",
+    "audio_en_storage_path": "1939_the_er_is_open_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102840",
+    "text_pt": "Foi para lá que fui depois de cair.",
+    "text_en": "It’s where I went after falling down.",
+    "audio_en_storage_path": "1940_its_where_i_went_after_falling_down.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102841",
+    "text_pt": "Nós o usamos para situações urgentes.",
+    "text_en": "We use it for urgent situations.",
+    "audio_en_storage_path": "1941_we_use_it_for_urgent_situations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102842",
+    "text_pt": "Ou quando não podemos esperar por uma clínica regular.",
+    "text_en": "Or when we can’t wait for a regular clinic.",
+    "audio_en_storage_path": "1942_or_when_we_cant_wait_for_a_regular_clinic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102843",
+    "text_pt": "O lugar é cheio de camas e sons.",
+    "text_en": "The place is full of beds and sounds.",
+    "audio_en_storage_path": "1943_the_place_is_full_of_beds_and_sounds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102844",
+    "text_pt": "As pessoas esperam com dor e preocupação.",
+    "text_en": "People wait with pain and worry.",
+    "audio_en_storage_path": "1944_people_wait_with_pain_and_worry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102845",
+    "text_pt": "Há enfermeiros. monitores e macas por perto.",
+    "text_en": "There are nurses. monitors. and stretchers around.",
+    "audio_en_storage_path": "1945_there_are_nurses_monitors_and_stretchers_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102846",
+    "text_pt": "E telas mostrando os nomes dos pacientes.",
+    "text_en": "And screens showing patient names.",
+    "audio_en_storage_path": "1946_and_screens_showing_patient_names.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102847",
+    "text_pt": "O que trouxe você aqui hoje?",
+    "text_en": "What brought you here today?",
+    "audio_en_storage_path": "1947_what_brought_you_here_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102848",
+    "text_pt": "Dor de estômago severa — mal podia esperar.",
+    "text_en": "Severe stomach pain — couldn’t wait.",
+    "audio_en_storage_path": "1948_severe_stomach_pain_couldnt_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102849",
+    "text_pt": "Aonde você vai em emergências reais?",
+    "text_en": "Where do you go for real emergencies?",
+    "audio_en_storage_path": "1949_where_do_you_go_for_real_emergencies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102850",
+    "text_pt": "Hospital São Lucas — atendimento 24 horas.",
+    "text_en": "São Lucas Hospital — 24-hour service.",
+    "audio_en_storage_path": "1950_sao_lucas_hospital_24hour_service.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102851",
+    "text_pt": "Às vezes chamo uma ambulância.",
+    "text_en": "Sometimes I call an ambulance.",
+    "audio_en_storage_path": "1951_sometimes_i_call_an_ambulance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102852",
+    "text_pt": "Outras vezes eu mesmo dirijo.",
+    "text_en": "Other times I drive myself.",
+    "audio_en_storage_path": "1952_other_times_i_drive_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102853",
+    "text_pt": "Onde você deixou sua jaqueta?",
+    "text_en": "Where did you leave your jacket?",
+    "audio_en_storage_path": "1953_where_did_you_leave_your_jacket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102854",
+    "text_pt": "Na entrada — perto do segurança.",
+    "text_en": "At the entrance — near the security guard.",
+    "audio_en_storage_path": "1954_at_the_entrance_near_the_security_guard.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102855",
+    "text_pt": "Quando chamarão seu nome?",
+    "text_en": "When will they call your name?",
+    "audio_en_storage_path": "1955_when_will_they_call_your_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102856",
+    "text_pt": "Em breve — acabei de ouvir o número 105.",
+    "text_en": "Soon — just heard number 105.",
+    "audio_en_storage_path": "1956_soon_just_heard_number_105.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102857",
+    "text_pt": "Por que você veio aqui em vez de uma clínica?",
+    "text_en": "Why did you come here instead of a clinic?",
+    "audio_en_storage_path": "1957_why_did_you_come_here_instead_of_a_clinic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102858",
+    "text_pt": "Porque a dor era forte demais para esperar.",
+    "text_en": "Because the pain was too strong to wait.",
+    "audio_en_storage_path": "1958_because_the_pain_was_too_strong_to_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102859",
+    "text_pt": "Ele conhece bem a equipe do pronto-socorro.",
+    "text_en": "He knows the ER team well.",
+    "audio_en_storage_path": "1959_he_knows_the_er_team_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102860",
+    "text_pt": "Vem aqui com frequência para crises de asma.",
+    "text_en": "Comes here often for asthma attacks.",
+    "audio_en_storage_path": "1960_comes_here_often_for_asthma_attacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102861",
+    "text_pt": "Amanhã não vou esquecer de trazer meu documento de identidade novamente.",
+    "text_en": "Tomorrow. I will not forget to bring my ID again.",
+    "audio_en_storage_path": "1961_tomorrow_i_will_not_forget_to_bring_my_id_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102862",
+    "text_pt": "Quase não consegui entrar sem ele.",
+    "text_en": "Almost couldn’t enter without it.",
+    "audio_en_storage_path": "1962_almost_couldnt_enter_without_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102863",
+    "text_pt": "Espere pacientemente!",
+    "text_en": "Wait patiently!",
+    "audio_en_storage_path": "1963_wait_patiently.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102864",
+    "text_pt": "Eles vão ligar para você em breve.",
+    "text_en": "They’ll call you soon.",
+    "audio_en_storage_path": "1964_theyll_call_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102865",
+    "text_pt": "Cuidados Domiciliares / Repouso na Cama",
+    "text_en": "Home Care / Bed Rest",
+    "audio_en_storage_path": "1965_home_care_bed_rest.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102866",
+    "text_pt": "Ela está descansando na cama hoje.",
+    "text_en": "She is resting in bed today.",
+    "audio_en_storage_path": "1966_she_is_resting_in_bed_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102867",
+    "text_pt": "Não está se sentindo bem — precisa de tempo para se curar.",
+    "text_en": "Not feeling well — needs time to heal.",
+    "audio_en_storage_path": "1967_not_feeling_well_needs_time_to_heal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102868",
+    "text_pt": "Ela bebe água e dorme.",
+    "text_en": "She drinks water and sleeps.",
+    "audio_en_storage_path": "1968_she_drinks_water_and_sleeps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102869",
+    "text_pt": "Às vezes lê ou assiste a programas.",
+    "text_en": "Sometimes reads or watches shows.",
+    "audio_en_storage_path": "1969_sometimes_reads_or_watches_shows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102870",
+    "text_pt": "O cobertor dela é macio e o quarto está escuro.",
+    "text_en": "Her blanket is soft and the room is dark.",
+    "audio_en_storage_path": "1970_her_blanket_is_soft_and_the_room_is_dark.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102871",
+    "text_pt": "As luzes são baixas para ajudá-la a relaxar.",
+    "text_en": "Lights are low to help her relax.",
+    "audio_en_storage_path": "1971_lights_are_low_to_help_her_relax.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102872",
+    "text_pt": "Há lenços de papel. remédios e sucos por perto.",
+    "text_en": "There are tissues. medicine. and juice nearby.",
+    "audio_en_storage_path": "1972_there_are_tissues_medicine_and_juice_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102873",
+    "text_pt": "E um travesseiro atrás das costas.",
+    "text_en": "And a pillow behind her back.",
+    "audio_en_storage_path": "1973_and_a_pillow_behind_her_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102874",
+    "text_pt": "O que há de errado com ela?",
+    "text_en": "What’s wrong with her?",
+    "audio_en_storage_path": "1974_whats_wrong_with_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102875",
+    "text_pt": "Febre e tosse — pode ser gripe.",
+    "text_en": "Fever and cough — might be flu.",
+    "audio_en_storage_path": "1975_fever_and_cough_might_be_flu.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102876",
+    "text_pt": "Onde ela está agora?",
+    "text_en": "Where is she now?",
+    "audio_en_storage_path": "1976_where_is_she_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102877",
+    "text_pt": "Em seu quarto — deitada e coberta.",
+    "text_en": "In her room — lying down and covered.",
+    "audio_en_storage_path": "1977_in_her_room_lying_down_and_covered.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102878",
+    "text_pt": "Às vezes ela anda devagar.",
+    "text_en": "Sometimes she walks around slowly.",
+    "audio_en_storage_path": "1978_sometimes_she_walks_around_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102879",
+    "text_pt": "Outras vezes ela fica na cama o dia todo.",
+    "text_en": "Other times she stays in bed all day.",
+    "audio_en_storage_path": "1979_other_times_she_stays_in_bed_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102880",
+    "text_pt": "Onde ela deixou o telefone?",
+    "text_en": "Where did she leave her phone?",
+    "audio_en_storage_path": "1980_where_did_she_leave_her_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102881",
+    "text_pt": "No criado-mudo — ao lado do abajur.",
+    "text_en": "On the nightstand — next to the lamp.",
+    "audio_en_storage_path": "1981_on_the_nightstand_next_to_the_lamp.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102882",
+    "text_pt": "Quando ela vai se levantar novamente?",
+    "text_en": "When will she get up again?",
+    "audio_en_storage_path": "1982_when_will_she_get_up_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102883",
+    "text_pt": "Depois do almoço — se ela começar a se sentir melhor.",
+    "text_en": "After lunch — if she starts feeling better.",
+    "audio_en_storage_path": "1983_after_lunch_if_she_starts_feeling_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102884",
+    "text_pt": "Por que ela faltou ao trabalho hoje?",
+    "text_en": "Why did she skip work today?",
+    "audio_en_storage_path": "1984_why_did_she_skip_work_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102885",
+    "text_pt": "Porque ela não conseguia parar de tossir.",
+    "text_en": "Because she couldn’t stop coughing.",
+    "audio_en_storage_path": "1985_because_she_couldnt_stop_coughing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102886",
+    "text_pt": "Ele descansa quando não se sente bem.",
+    "text_en": "He rests when he doesn’t feel good.",
+    "audio_en_storage_path": "1986_he_rests_when_he_doesnt_feel_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102887",
+    "text_pt": "Nunca insiste quando está realmente doente.",
+    "text_en": "Never pushes through when really sick.",
+    "audio_en_storage_path": "1987_never_pushes_through_when_really_sick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102888",
+    "text_pt": "Amanhã não vou me esquecer de comer direito novamente.",
+    "text_en": "Tomorrow. I will not forget to eat properly again.",
+    "audio_en_storage_path": "1988_tomorrow_i_will_not_forget_to_eat_properly_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102889",
+    "text_pt": "Fiquei pior porque pulei o jantar.",
+    "text_en": "Felt worse because I skipped dinner.",
+    "audio_en_storage_path": "1989_felt_worse_because_i_skipped_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102890",
+    "text_pt": "Fique bom logo!",
+    "text_en": "Get well soon!",
+    "audio_en_storage_path": "1990_get_well_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102891",
+    "text_pt": "Espero que você se sinta melhor em alguns dias.",
+    "text_en": "Hope you feel better in a few days.",
+    "audio_en_storage_path": "1991_hope_you_feel_better_in_a_few_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102892",
+    "text_pt": "Enfermeira",
+    "text_en": "Nurse",
+    "audio_en_storage_path": "1992_nurse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102893",
+    "text_pt": "A enfermeira trabalha na clínica.",
+    "text_en": "The nurse works at the clinic.",
+    "audio_en_storage_path": "1993_the_nurse_works_at_the_clinic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102894",
+    "text_pt": "Ela examina pacientes e aplica injeções.",
+    "text_en": "She checks patients and gives injections.",
+    "audio_en_storage_path": "1994_she_checks_patients_and_gives_injections.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102895",
+    "text_pt": "Ela usa uniforme e fala calmamente.",
+    "text_en": "She wears a uniform and speaks calmly.",
+    "audio_en_storage_path": "1995_she_wears_a_uniform_and_speaks_calmly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102896",
+    "text_pt": "Sempre sorrindo. mesmo quando ocupado.",
+    "text_en": "Always smiling even when busy.",
+    "audio_en_storage_path": "1996_always_smiling_even_when_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102897",
+    "text_pt": "Seu cabelo está preso para trás e ela usa luvas.",
+    "text_en": "Her hair is tied back and she wears gloves.",
+    "audio_en_storage_path": "1997_her_hair_is_tied_back_and_she_wears_gloves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102898",
+    "text_pt": "Sempre organizado e gentil.",
+    "text_en": "Always organized and gentle.",
+    "audio_en_storage_path": "1998_always_organized_and_gentle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102899",
+    "text_pt": "Há gráficos. termômetros e bandagens por perto.",
+    "text_en": "There are charts. thermometers. and bandages nearby.",
+    "audio_en_storage_path": "1999_there_are_charts_thermometers_and_bandages_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102900",
+    "text_pt": "E uma bandeja com desinfetante e lenços umedecidos.",
+    "text_en": "And a tray with disinfectant and wipes.",
+    "audio_en_storage_path": "2000_and_a_tray_with_disinfectant_and_wipes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102901",
+    "text_pt": "Quem te deu a injeção?",
+    "text_en": "Who gave you the shot?",
+    "audio_en_storage_path": "2001_who_gave_you_the_shot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102902",
+    "text_pt": "A enfermeira de óculos — muito gentil.",
+    "text_en": "The nurse with glasses — very kind.",
+    "audio_en_storage_path": "2002_the_nurse_with_glasses_very_kind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102903",
+    "text_pt": "Onde eles guardam as vacinas?",
+    "text_en": "Where do they keep the vaccines?",
+    "audio_en_storage_path": "2003_where_do_they_keep_the_vaccines.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102904",
+    "text_pt": "Na geladeira — claramente etiquetada.",
+    "text_en": "In the fridge — labeled clearly.",
+    "audio_en_storage_path": "2004_in_the_fridge_labeled_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102905",
+    "text_pt": "Às vezes ela dá injeções.",
+    "text_en": "Sometimes she gives shots.",
+    "audio_en_storage_path": "2005_sometimes_she_gives_shots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102906",
+    "text_pt": "Outras vezes ela apenas verifica a temperatura.",
+    "text_en": "Other times she just checks temperature.",
+    "audio_en_storage_path": "2006_other_times_she_just_checks_temperature.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102907",
+    "text_pt": "Onde você deixou sua máscara?",
+    "text_en": "Where did you leave your mask?",
+    "audio_en_storage_path": "2007_where_did_you_leave_your_mask.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102908",
+    "text_pt": "Na cadeira — perto da mesa.",
+    "text_en": "On the chair — near the table.",
+    "audio_en_storage_path": "2008_on_the_chair_near_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102909",
+    "text_pt": "Quando ela vai terminar seu turno?",
+    "text_en": "When will she finish her shift?",
+    "audio_en_storage_path": "2009_when_will_she_finish_her_shift.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102910",
+    "text_pt": "Às 18h — então ela vai para casa.",
+    "text_en": "At 6 PM — then she goes home.",
+    "audio_en_storage_path": "2010_at_6_pm_then_she_goes_home.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102911",
+    "text_pt": "Por que você pediu ajuda a ela?",
+    "text_en": "Why did you ask her for help?",
+    "audio_en_storage_path": "2011_why_did_you_ask_her_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102912",
+    "text_pt": "Porque eu não conseguia entender o formulário.",
+    "text_en": "Because I couldn’t understand the form.",
+    "audio_en_storage_path": "2012_because_i_couldnt_understand_the_form.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102913",
+    "text_pt": "A enfermeira sempre explica as coisas claramente.",
+    "text_en": "The nurse always explains things clearly.",
+    "audio_en_storage_path": "2013_the_nurse_always_explains_things_clearly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102914",
+    "text_pt": "Garante que todos entendam.",
+    "text_en": "Makes sure everyone understands.",
+    "audio_en_storage_path": "2014_makes_sure_everyone_understands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102915",
+    "text_pt": "Amanhã não esquecerei de fazer perguntas novamente.",
+    "text_en": "Tomorrow. I will not forget to ask questions again.",
+    "audio_en_storage_path": "2015_tomorrow_i_will_not_forget_to_ask_questions_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102916",
+    "text_pt": "Saí da clínica confuso da última vez.",
+    "text_en": "Left the clinic confused last time.",
+    "audio_en_storage_path": "2016_left_the_clinic_confused_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102917",
+    "text_pt": "Obrigada. enfermeira!",
+    "text_en": "Thank you. nurse!",
+    "audio_en_storage_path": "2017_thank_you_nurse.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102918",
+    "text_pt": "Vocês nos fazem sentir seguros e cuidados.",
+    "text_en": "You make us feel safe and cared for.",
+    "audio_en_storage_path": "2018_you_make_us_feel_safe_and_cared_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

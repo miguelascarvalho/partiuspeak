@@ -1,0 +1,2405 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112187",
+    "text_pt": "A pia fica na cozinha.",
+    "text_en": "The sink is in the kitchen.",
+    "audio_en_storage_path": "2187_the_sink_is_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112188",
+    "text_pt": "É onde lavo a louça e as mãos.",
+    "text_en": "It’s where I wash dishes and hands.",
+    "audio_en_storage_path": "2188_its_where_i_wash_dishes_and_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112189",
+    "text_pt": "Eu o uso para enxaguar vegetais e frutas.",
+    "text_en": "I use it to rinse vegetables and fruits.",
+    "audio_en_storage_path": "2189_i_use_it_to_rinse_vegetables_and_fruits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112190",
+    "text_pt": "Ou encher potes com água.",
+    "text_en": "Or to fill pots with water.",
+    "audio_en_storage_path": "2190_or_to_fill_pots_with_water.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112191",
+    "text_pt": "É feito de aço inoxidável e tem uma torneira.",
+    "text_en": "It is made of stainless steel and has a faucet.",
+    "audio_en_storage_path": "2191_it_is_made_of_stainless_steel_and_has_a_faucet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112192",
+    "text_pt": "Há uma esponja e sabão por perto.",
+    "text_en": "There’s a sponge and soap nearby.",
+    "audio_en_storage_path": "2192_theres_a_sponge_and_soap_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112193",
+    "text_pt": "Há pratos e xícaras sujos lá dentro.",
+    "text_en": "There are dirty plates and cups inside.",
+    "audio_en_storage_path": "2193_there_are_dirty_plates_and_cups_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112194",
+    "text_pt": "E uma tábua de corte com pedaços de cebola.",
+    "text_en": "And a cutting board with onion pieces.",
+    "audio_en_storage_path": "2194_and_a_cutting_board_with_onion_pieces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112195",
+    "text_pt": "Para que você usa a pia?",
+    "text_en": "What do you use the sink for?",
+    "audio_en_storage_path": "2195_what_do_you_use_the_sink_for.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112196",
+    "text_pt": "Para limpar, lavar e preparar alimentos.",
+    "text_en": "For cleaning. washing. and preparing food.",
+    "audio_en_storage_path": "2196_for_cleaning_washing_and_preparing_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112197",
+    "text_pt": "Onde você guarda seu pano de prato?",
+    "text_en": "Where do you keep your dish towel?",
+    "audio_en_storage_path": "2197_where_do_you_keep_your_dish_towel.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112198",
+    "text_pt": "Na alça — pendurado para secar.",
+    "text_en": "On the handle — hanging to dry.",
+    "audio_en_storage_path": "2198_on_the_handle_hanging_to_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112199",
+    "text_pt": "Às vezes lavo tudo imediatamente.",
+    "text_en": "Sometimes I wash everything right away.",
+    "audio_en_storage_path": "2199_sometimes_i_wash_everything_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112200",
+    "text_pt": "Outras vezes espero até mais tarde.",
+    "text_en": "Other times I wait until later.",
+    "audio_en_storage_path": "2200_other_times_i_wait_until_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112201",
+    "text_pt": "Onde você deixou a esponja?",
+    "text_en": "Where did you leave the sponge?",
+    "audio_en_storage_path": "2201_where_did_you_leave_the_sponge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112202",
+    "text_pt": "Perto do sabonete — na borda da pia.",
+    "text_en": "Near the soap — by the edge of the sink.",
+    "audio_en_storage_path": "2202_near_the_soap_by_the_edge_of_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112203",
+    "text_pt": "Quando você vai limpar a pia?",
+    "text_en": "When will you clean the sink?",
+    "audio_en_storage_path": "2203_when_will_you_clean_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112204",
+    "text_pt": "Depois do jantar — quando todos os pratos estiverem lavados.",
+    "text_en": "After dinner — when all dishes are done.",
+    "audio_en_storage_path": "2204_after_dinner_when_all_dishes_are_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112205",
+    "text_pt": "Por que você deixou a louça na pia?",
+    "text_en": "Why did you leave dishes in the sink?",
+    "audio_en_storage_path": "2205_why_did_you_leave_dishes_in_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112206",
+    "text_pt": "Porque eu estava cansado e esqueci.",
+    "text_en": "Because I was tired and forgot.",
+    "audio_en_storage_path": "2206_because_i_was_tired_and_forgot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112207",
+    "text_pt": "Eu uso a pia muitas vezes ao dia.",
+    "text_en": "I use the sink many times a day.",
+    "audio_en_storage_path": "2207_i_use_the_sink_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112208",
+    "text_pt": "É um dos lugares mais utilizados na cozinha.",
+    "text_en": "It’s one of the most used places in the kitchen.",
+    "audio_en_storage_path": "2208_its_one_of_the_most_used_places_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112209",
+    "text_pt": "Amanhã. Não vou esquecer de limpar a pia de novo.",
+    "text_en": "Tomorrow. I will not forget to clean the sink again.",
+    "audio_en_storage_path": "2209_tomorrow_i_will_not_forget_to_clean_the_sink_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112210",
+    "text_pt": "Vou secá-lo depois de terminar.",
+    "text_en": "I’ll wipe it dry after finishing.",
+    "audio_en_storage_path": "2210_ill_wipe_it_dry_after_finishing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112211",
+    "text_pt": "Limpar!",
+    "text_en": "Clean up!",
+    "audio_en_storage_path": "2211_clean_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112212",
+    "text_pt": "Uma pia organizada deixa a cozinha mais agradável.",
+    "text_en": "A tidy sink makes the kitchen feel better.",
+    "audio_en_storage_path": "2212_a_tidy_sink_makes_the_kitchen_feel_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112213",
+    "text_pt": "Sanduicheira",
+    "text_en": "Sandwich Maker",
+    "audio_en_storage_path": "2213_sandwich_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112214",
+    "text_pt": "A torradeira está no balcão.",
+    "text_en": "The toaster is on the counter.",
+    "audio_en_storage_path": "2214_the_toaster_is_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112215",
+    "text_pt": "Deixa o pão quente e crocante.",
+    "text_en": "It makes bread warm and crispy.",
+    "audio_en_storage_path": "2215_it_makes_bread_warm_and_crispy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112216",
+    "text_pt": "Eu o uso para fazer torradas, bagels ou sanduíches grelhados.",
+    "text_en": "I use it to make toast. bagels. or grilled sandwiches.",
+    "audio_en_storage_path": "2216_i_use_it_to_make_toast_bagels_or_grilled_sandwiches.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112217",
+    "text_pt": "Funciona com botões e calor.",
+    "text_en": "It works with buttons and heat.",
+    "audio_en_storage_path": "2217_it_works_with_buttons_and_heat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112218",
+    "text_pt": "É pequeno, prateado e tem dois compartimentos.",
+    "text_en": "It is small. silver. and has two slots.",
+    "audio_en_storage_path": "2218_it_is_small_silver_and_has_two_slots.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112219",
+    "text_pt": "Tem cheiro de manteiga e pão.",
+    "text_en": "It smells like butter and bread.",
+    "audio_en_storage_path": "2219_it_smells_like_butter_and_bread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112220",
+    "text_pt": "Tem pão, queijo e presunto dentro.",
+    "text_en": "There is bread. cheese. and ham inside.",
+    "audio_en_storage_path": "2220_there_is_bread_cheese_and_ham_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112221",
+    "text_pt": "Pronto para um lanche rápido.",
+    "text_en": "Ready for a quick snack.",
+    "audio_en_storage_path": "2221_ready_for_a_quick_snack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112222",
+    "text_pt": "O que você faz na torradeira?",
+    "text_en": "What do you do in the toaster?",
+    "audio_en_storage_path": "2222_what_do_you_do_in_the_toaster.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112223",
+    "text_pt": "Torrada, ovos e queijo grelhado.",
+    "text_en": "Toast. eggs. and grilled cheese.",
+    "audio_en_storage_path": "2223_toast_eggs_and_grilled_cheese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112224",
+    "text_pt": "Onde você guarda o pão extra?",
+    "text_en": "Where do you keep extra bread?",
+    "audio_en_storage_path": "2224_where_do_you_keep_extra_bread.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112225",
+    "text_pt": "Na caixa de pão — perto da torradeira.",
+    "text_en": "In the bread box — near the toaster.",
+    "audio_en_storage_path": "2225_in_the_bread_box_near_the_toaster.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112226",
+    "text_pt": "Às vezes eu uso uma vez por dia.",
+    "text_en": "Sometimes I use it once a day.",
+    "audio_en_storage_path": "2226_sometimes_i_use_it_once_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112227",
+    "text_pt": "Outras vezes, apenas nos fins de semana.",
+    "text_en": "Other times only on weekends.",
+    "audio_en_storage_path": "2227_other_times_only_on_weekends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112228",
+    "text_pt": "Onde está o sanduicheiro agora?",
+    "text_en": "Where is the sandwich maker now?",
+    "audio_en_storage_path": "2228_where_is_the_sandwich_maker_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112229",
+    "text_pt": "Conectado — pronto para usar.",
+    "text_en": "Plugged in — ready to use.",
+    "audio_en_storage_path": "2229_plugged_in_ready_to_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112230",
+    "text_pt": "Quando você usará a torradeira novamente?",
+    "text_en": "When will you use the toaster again?",
+    "audio_en_storage_path": "2230_when_will_you_use_the_toaster_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112231",
+    "text_pt": "Amanhã de manhã — no café da manhã.",
+    "text_en": "Tomorrow morning — for breakfast.",
+    "audio_en_storage_path": "2231_tomorrow_morning_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112232",
+    "text_pt": "Por que você desligou a torradeira?",
+    "text_en": "Why did you unplug the toaster?",
+    "audio_en_storage_path": "2232_why_did_you_unplug_the_toaster.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112233",
+    "text_pt": "Porque estava sujo e precisava de limpeza.",
+    "text_en": "Because it was dirty and needed cleaning.",
+    "audio_en_storage_path": "2233_because_it_was_dirty_and_needed_cleaning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112234",
+    "text_pt": "Eu faço torradas quase todas as manhãs.",
+    "text_en": "I make toast almost every morning.",
+    "audio_en_storage_path": "2234_i_make_toast_almost_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112235",
+    "text_pt": "É fácil e fica uma delícia.",
+    "text_en": "It’s easy and tastes great.",
+    "audio_en_storage_path": "2235_its_easy_and_tastes_great.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112236",
+    "text_pt": "Amanhã. Não vou esquecer de desligá-lo novamente.",
+    "text_en": "Tomorrow. I will not forget to unplug it again.",
+    "audio_en_storage_path": "2236_tomorrow_i_will_not_forget_to_unplug_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112237",
+    "text_pt": "Vou desligá-lo depois de usar.",
+    "text_en": "I’ll turn it off after using.",
+    "audio_en_storage_path": "2237_ill_turn_it_off_after_using.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112238",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "2238_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112239",
+    "text_pt": "Hora de torradas e café.",
+    "text_en": "Time for toast and coffee.",
+    "audio_en_storage_path": "2239_time_for_toast_and_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112240",
+    "text_pt": "Liquidificador",
+    "text_en": "Blender",
+    "audio_en_storage_path": "2240_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112241",
+    "text_pt": "O liquidificador está no balcão.",
+    "text_en": "The blender is on the counter.",
+    "audio_en_storage_path": "2241_the_blender_is_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112242",
+    "text_pt": "Mistura smoothies e sopas.",
+    "text_en": "It mixes smoothies and soups.",
+    "audio_en_storage_path": "2242_it_mixes_smoothies_and_soups.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112243",
+    "text_pt": "Eu o uso para bater frutas, vegetais e gelo.",
+    "text_en": "I use it to blend fruits. vegetables. and ice.",
+    "audio_en_storage_path": "2243_i_use_it_to_blend_fruits_vegetables_and_ice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112244",
+    "text_pt": "Deixa tudo macio e suave.",
+    "text_en": "It makes everything soft and smooth.",
+    "audio_en_storage_path": "2244_it_makes_everything_soft_and_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112245",
+    "text_pt": "É branco, tem um frasco de vidro e tampa vermelha.",
+    "text_en": "It is white with a glass jar and red lid.",
+    "audio_en_storage_path": "2245_it_is_white_with_a_glass_jar_and_red_lid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112246",
+    "text_pt": "É alto, mas muito útil.",
+    "text_en": "It’s loud but very useful.",
+    "audio_en_storage_path": "2246_its_loud_but_very_useful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112247",
+    "text_pt": "Há fatias de banana, leite e iogurte dentro.",
+    "text_en": "There are banana slices. milk. and yogurt inside.",
+    "audio_en_storage_path": "2247_there_are_banana_slices_milk_and_yogurt_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112248",
+    "text_pt": "Pronto para misturar em um smoothie.",
+    "text_en": "Ready to mix into a smoothie.",
+    "audio_en_storage_path": "2248_ready_to_mix_into_a_smoothie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112249",
+    "text_pt": "O que você faz no liquidificador?",
+    "text_en": "What do you do in the blender?",
+    "audio_en_storage_path": "2249_what_do_you_do_in_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112250",
+    "text_pt": "Smoothies, molhos e comida para bebês.",
+    "text_en": "Smoothies. sauces. and baby food.",
+    "audio_en_storage_path": "2250_smoothies_sauces_and_baby_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112251",
+    "text_pt": "Onde você guarda a tampa do liquidificador?",
+    "text_en": "Where do you keep the blender lid?",
+    "audio_en_storage_path": "2251_where_do_you_keep_the_blender_lid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112252",
+    "text_pt": "Em cima — sempre com o pote.",
+    "text_en": "On top — always with the jar.",
+    "audio_en_storage_path": "2252_on_top_always_with_the_jar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112253",
+    "text_pt": "Às vezes eu uso como sobremesa.",
+    "text_en": "Sometimes I use it for dessert.",
+    "audio_en_storage_path": "2253_sometimes_i_use_it_for_dessert.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112254",
+    "text_pt": "Outras vezes, apenas para o café da manhã.",
+    "text_en": "Other times just for breakfast.",
+    "audio_en_storage_path": "2254_other_times_just_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112255",
+    "text_pt": "Onde você deixou o liquidificador?",
+    "text_en": "Where did you leave the blender?",
+    "audio_en_storage_path": "2255_where_did_you_leave_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112256",
+    "text_pt": "No balcão — vazio e limpo.",
+    "text_en": "On the counter — empty and clean.",
+    "audio_en_storage_path": "2256_on_the_counter_empty_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112257",
+    "text_pt": "Quando você usará o liquidificador novamente?",
+    "text_en": "When will you use the blender again?",
+    "audio_en_storage_path": "2257_when_will_you_use_the_blender_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112258",
+    "text_pt": "Amanhã — para um smoothie verde.",
+    "text_en": "Tomorrow — for a green smoothie.",
+    "audio_en_storage_path": "2258_tomorrow_for_a_green_smoothie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112259",
+    "text_pt": "Por que você lavou o liquidificador hoje?",
+    "text_en": "Why did you wash the blender today?",
+    "audio_en_storage_path": "2259_why_did_you_wash_the_blender_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112260",
+    "text_pt": "Porque estava cheio de smoothie velho.",
+    "text_en": "Because it was full of old smoothie.",
+    "audio_en_storage_path": "2260_because_it_was_full_of_old_smoothie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112261",
+    "text_pt": "Eu uso o liquidificador pelo menos duas vezes por semana.",
+    "text_en": "I use the blender at least twice a week.",
+    "audio_en_storage_path": "2261_i_use_the_blender_at_least_twice_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112262",
+    "text_pt": "Isso me ajuda a comer de forma saudável.",
+    "text_en": "It helps me eat healthy.",
+    "audio_en_storage_path": "2262_it_helps_me_eat_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112263",
+    "text_pt": "Amanhã. Não esquecerei de fechar a tampa novamente.",
+    "text_en": "Tomorrow. I will not forget to close the lid again.",
+    "audio_en_storage_path": "2263_tomorrow_i_will_not_forget_to_close_the_lid_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112264",
+    "text_pt": "Da última vez, derramou para todo lado.",
+    "text_en": "Last time. it spilled everywhere.",
+    "audio_en_storage_path": "2264_last_time_it_spilled_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112265",
+    "text_pt": "Misture bem!",
+    "text_en": "Blend well!",
+    "audio_en_storage_path": "2265_blend_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112266",
+    "text_pt": "Faça algo saboroso hoje.",
+    "text_en": "Make something tasty today.",
+    "audio_en_storage_path": "2266_make_something_tasty_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112267",
+    "text_pt": "Cafeteira",
+    "text_en": "Coffee Maker",
+    "audio_en_storage_path": "2267_coffee_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112268",
+    "text_pt": "A máquina de café está no balcão.",
+    "text_en": "The coffee machine is on the counter.",
+    "audio_en_storage_path": "2268_the_coffee_machine_is_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112269",
+    "text_pt": "Faz café pela manhã.",
+    "text_en": "It makes coffee in the morning.",
+    "audio_en_storage_path": "2269_it_makes_coffee_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112270",
+    "text_pt": "Eu o uso para preparar café para mim ou para convidados.",
+    "text_en": "I use it to brew coffee for myself or guests.",
+    "audio_en_storage_path": "2270_i_use_it_to_brew_coffee_for_myself_or_guests.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112271",
+    "text_pt": "Alguns gostam dele forte. Outros, leve.",
+    "text_en": "Some like it strong. others light.",
+    "audio_en_storage_path": "2271_some_like_it_strong_others_light.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112272",
+    "text_pt": "É preto, tem um pote de vidro e um relógio digital.",
+    "text_en": "It is black with a glass pot and digital clock.",
+    "audio_en_storage_path": "2272_it_is_black_with_a_glass_pot_and_digital_clock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112273",
+    "text_pt": "Faz barulho ao preparar o café.",
+    "text_en": "It makes noise when brewing.",
+    "audio_en_storage_path": "2273_it_makes_noise_when_brewing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112274",
+    "text_pt": "Há pó de café no filtro.",
+    "text_en": "There is coffee powder in the filter.",
+    "audio_en_storage_path": "2274_there_is_coffee_powder_in_the_filter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112275",
+    "text_pt": "E água atrás.",
+    "text_en": "And water in the back.",
+    "audio_en_storage_path": "2275_and_water_in_the_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112276",
+    "text_pt": "Quanto café você faz de uma vez?",
+    "text_en": "How much coffee do you make at once?",
+    "audio_en_storage_path": "2276_how_much_coffee_do_you_make_at_once.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112277",
+    "text_pt": "Geralmente é suficiente para duas canecas.",
+    "text_en": "Usually enough for two mugs.",
+    "audio_en_storage_path": "2277_usually_enough_for_two_mugs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112278",
+    "text_pt": "Onde você guarda os filtros?",
+    "text_en": "Where do you keep the filters?",
+    "audio_en_storage_path": "2278_where_do_you_keep_the_filters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112279",
+    "text_pt": "Na gaveta — embaixo da cafeteira.",
+    "text_en": "In the drawer — under the coffee maker.",
+    "audio_en_storage_path": "2279_in_the_drawer_under_the_coffee_maker.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112280",
+    "text_pt": "Às vezes eu uso manualmente.",
+    "text_en": "Sometimes I use it manually.",
+    "audio_en_storage_path": "2280_sometimes_i_use_it_manually.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112281",
+    "text_pt": "Outras vezes, coloco um cronômetro.",
+    "text_en": "Other times I set a timer.",
+    "audio_en_storage_path": "2281_other_times_i_set_a_timer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112282",
+    "text_pt": "Onde está a cafeteira agora?",
+    "text_en": "Where is the coffee pot now?",
+    "audio_en_storage_path": "2282_where_is_the_coffee_pot_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112283",
+    "text_pt": "Na máquina — ainda quente.",
+    "text_en": "On the machine — still warm.",
+    "audio_en_storage_path": "2283_on_the_machine_still_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112284",
+    "text_pt": "Quando você fará café novamente?",
+    "text_en": "When will you make coffee again?",
+    "audio_en_storage_path": "2284_when_will_you_make_coffee_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112285",
+    "text_pt": "Amanhã cedo — como sempre.",
+    "text_en": "Early tomorrow — as usual.",
+    "audio_en_storage_path": "2285_early_tomorrow_as_usual.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112286",
+    "text_pt": "Por que você limpou a cafeteira hoje?",
+    "text_en": "Why did you clean the coffee maker today?",
+    "audio_en_storage_path": "2286_why_did_you_clean_the_coffee_maker_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112287",
+    "text_pt": "Porque parecia sujo e cheirava a velho.",
+    "text_en": "Because it looked dirty and smelled old.",
+    "audio_en_storage_path": "2287_because_it_looked_dirty_and_smelled_old.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112288",
+    "text_pt": "Eu faço café todas as manhãs.",
+    "text_en": "I make coffee every morning.",
+    "audio_en_storage_path": "2288_i_make_coffee_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112289",
+    "text_pt": "Ela me acorda e começa o meu dia.",
+    "text_en": "It wakes me up and starts my day.",
+    "audio_en_storage_path": "2289_it_wakes_me_up_and_starts_my_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112290",
+    "text_pt": "Amanhã. Não vou esquecer de adicionar água novamente.",
+    "text_en": "Tomorrow. I will not forget to add water again.",
+    "audio_en_storage_path": "2290_tomorrow_i_will_not_forget_to_add_water_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112291",
+    "text_pt": "Ontem tentei ligá-lo sem água.",
+    "text_en": "I tried turning it on without water yesterday.",
+    "audio_en_storage_path": "2291_i_tried_turning_it_on_without_water_yesterday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112292",
+    "text_pt": "Hora do preparo!",
+    "text_en": "Brew time!",
+    "audio_en_storage_path": "2292_brew_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112293",
+    "text_pt": "O café está pronto — aproveite enquanto está quente.",
+    "text_en": "Coffee is ready — enjoy it while it’s hot.",
+    "audio_en_storage_path": "2293_coffee_is_ready_enjoy_it_while_its_hot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112294",
+    "text_pt": "Fritadeira a ar",
+    "text_en": "Air Fryer",
+    "audio_en_storage_path": "2294_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112295",
+    "text_pt": "A fritadeira a ar fica na prateleira da cozinha.",
+    "text_en": "The air fryer is on the kitchen shelf.",
+    "audio_en_storage_path": "2295_the_air_fryer_is_on_the_kitchen_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112296",
+    "text_pt": "Cozinha alimentos com pouco óleo.",
+    "text_en": "It cooks food with little oil.",
+    "audio_en_storage_path": "2296_it_cooks_food_with_little_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112297",
+    "text_pt": "Eu uso para fazer batatas fritas, frango e vegetais.",
+    "text_en": "I use it to make fries. chicken. and vegetables.",
+    "audio_en_storage_path": "2297_i_use_it_to_make_fries_chicken_and_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112298",
+    "text_pt": "Isso os torna crocantes e deliciosos.",
+    "text_en": "It makes them crispy and delicious.",
+    "audio_en_storage_path": "2298_it_makes_them_crispy_and_delicious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112299",
+    "text_pt": "É branco com uma cesta e tela digital.",
+    "text_en": "It is white with a basket and digital screen.",
+    "audio_en_storage_path": "2299_it_is_white_with_a_basket_and_digital_screen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112300",
+    "text_pt": "Esquenta rápido e tem um cheiro bom.",
+    "text_en": "It heats up fast and smells good.",
+    "audio_en_storage_path": "2300_it_heats_up_fast_and_smells_good.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112301",
+    "text_pt": "Há batatas fritas congeladas e temperos dentro.",
+    "text_en": "There are frozen fries and seasoning inside.",
+    "audio_en_storage_path": "2301_there_are_frozen_fries_and_seasoning_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112302",
+    "text_pt": "Pronto para cozinhar em 15 minutos.",
+    "text_en": "Ready to cook in 15 minutes.",
+    "audio_en_storage_path": "2302_ready_to_cook_in_15_minutes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112303",
+    "text_pt": "O que você cozinha na air fryer?",
+    "text_en": "What do you cook in the air fryer?",
+    "audio_en_storage_path": "2303_what_do_you_cook_in_the_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112304",
+    "text_pt": "Nuggets de frango, batata-doce frita e palitos de peixe.",
+    "text_en": "Chicken nuggets. sweet potato fries. and fish sticks.",
+    "audio_en_storage_path": "2304_chicken_nuggets_sweet_potato_fries_and_fish_sticks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112305",
+    "text_pt": "Onde você guarda quando não está em uso?",
+    "text_en": "Where do you keep it when not in use?",
+    "audio_en_storage_path": "2305_where_do_you_keep_it_when_not_in_use.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112306",
+    "text_pt": "Na prateleira — ao lado do micro-ondas.",
+    "text_en": "On the shelf — next to the microwave.",
+    "audio_en_storage_path": "2306_on_the_shelf_next_to_the_microwave.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112307",
+    "text_pt": "Às vezes eu uso para lanches.",
+    "text_en": "Sometimes I use it for snacks.",
+    "audio_en_storage_path": "2307_sometimes_i_use_it_for_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112308",
+    "text_pt": "Outros horários para refeições completas.",
+    "text_en": "Other times for full meals.",
+    "audio_en_storage_path": "2308_other_times_for_full_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112309",
+    "text_pt": "Onde você colocou a fritadeira a ar?",
+    "text_en": "Where did you put the air fryer?",
+    "audio_en_storage_path": "2309_where_did_you_put_the_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112310",
+    "text_pt": "No balcão — fácil de alcançar.",
+    "text_en": "On the counter — easy to reach.",
+    "audio_en_storage_path": "2310_on_the_counter_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112311",
+    "text_pt": "Quando você vai usá-lo novamente?",
+    "text_en": "When will you use it again?",
+    "audio_en_storage_path": "2311_when_will_you_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112312",
+    "text_pt": "Hoje à noite — para um jantar rápido e saudável.",
+    "text_en": "Tonight — for a quick and healthy dinner.",
+    "audio_en_storage_path": "2312_tonight_for_a_quick_and_healthy_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112313",
+    "text_pt": "Por que você escolheu a fritadeira a ar hoje?",
+    "text_en": "Why did you choose the air fryer today?",
+    "audio_en_storage_path": "2313_why_did_you_choose_the_air_fryer_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112314",
+    "text_pt": "Porque eu queria algo crocante sem óleo.",
+    "text_en": "Because I wanted something crunchy without oil.",
+    "audio_en_storage_path": "2314_because_i_wanted_something_crunchy_without_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112315",
+    "text_pt": "Eu uso a air fryer pelo menos três vezes por semana.",
+    "text_en": "I use the air fryer at least three times a week.",
+    "audio_en_storage_path": "2315_i_use_the_air_fryer_at_least_three_times_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112316",
+    "text_pt": "É mais rápido do que assar.",
+    "text_en": "It’s faster than baking.",
+    "audio_en_storage_path": "2316_its_faster_than_baking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112317",
+    "text_pt": "Amanhã. Não vou esquecer de limpar a cesta novamente.",
+    "text_en": "Tomorrow. I will not forget to clean the basket again.",
+    "audio_en_storage_path": "2317_tomorrow_i_will_not_forget_to_clean_the_basket_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112318",
+    "text_pt": "Deixei-o sujo ontem à noite.",
+    "text_en": "I left it dirty last night.",
+    "audio_en_storage_path": "2318_i_left_it_dirty_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112319",
+    "text_pt": "Desfrute de sua refeição!",
+    "text_en": "Enjoy your meal!",
+    "audio_en_storage_path": "2319_enjoy_your_meal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112320",
+    "text_pt": "Crocante e delicioso — não precisa de óleo.",
+    "text_en": "Crispy and delicious — no oil needed.",
+    "audio_en_storage_path": "2320_crispy_and_delicious_no_oil_needed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112321",
+    "text_pt": "Mãe – Fogão",
+    "text_en": "Mom – Stove",
+    "audio_en_storage_path": "2321_mom_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112322",
+    "text_pt": "Ela está na cozinha cozinhando.",
+    "text_en": "She is in the kitchen cooking.",
+    "audio_en_storage_path": "2322_she_is_in_the_kitchen_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112323",
+    "text_pt": "Minha mãe faz sopa e arroz todo domingo.",
+    "text_en": "My mom makes soup and rice every Sunday.",
+    "audio_en_storage_path": "2323_my_mom_makes_soup_and_rice_every_sunday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112324",
+    "text_pt": "Ela usa o fogão para ferver água ou fritar ovos.",
+    "text_en": "She uses the stove to boil water or fry eggs.",
+    "audio_en_storage_path": "2324_she_uses_the_stove_to_boil_water_or_fry_eggs.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112325",
+    "text_pt": "Às vezes ela salteia legumes para o jantar.",
+    "text_en": "Sometimes she sautés vegetables for dinner.",
+    "audio_en_storage_path": "2325_sometimes_she_sautes_vegetables_for_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112326",
+    "text_pt": "O avental dela é azul com flores brancas.",
+    "text_en": "Her apron is blue with white flowers.",
+    "audio_en_storage_path": "2326_her_apron_is_blue_with_white_flowers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112327",
+    "text_pt": "Seu cabelo está preso para trás e ela ouve música.",
+    "text_en": "Her hair is tied back and she listens to music.",
+    "audio_en_storage_path": "2327_her_hair_is_tied_back_and_she_listens_to_music.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112328",
+    "text_pt": "Há potes, panelas e temperos no balcão.",
+    "text_en": "There are pots. pans. and spices on the counter.",
+    "audio_en_storage_path": "2328_there_are_pots_pans_and_spices_on_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112329",
+    "text_pt": "E uma colher de pau na mão.",
+    "text_en": "And a wooden spoon in her hand.",
+    "audio_en_storage_path": "2329_and_a_wooden_spoon_in_her_hand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112330",
+    "text_pt": "O que sua mãe cozinha melhor?",
+    "text_en": "What does your mom cook best?",
+    "audio_en_storage_path": "2330_what_does_your_mom_cook_best.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112331",
+    "text_pt": "Ensopado de frango — é o meu favorito.",
+    "text_en": "Chicken stew — it’s my favorite.",
+    "audio_en_storage_path": "2331_chicken_stew_its_my_favorite.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112332",
+    "text_pt": "Onde ela guarda suas panelas?",
+    "text_en": "Where does she keep her pans?",
+    "audio_en_storage_path": "2332_where_does_she_keep_her_pans.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112333",
+    "text_pt": "Debaixo do fogão — no armário.",
+    "text_en": "Under the stove — in the cabinet.",
+    "audio_en_storage_path": "2333_under_the_stove_in_the_cabinet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112334",
+    "text_pt": "Às vezes ela cozinha rápido. às vezes devagar.",
+    "text_en": "Sometimes she cooks fast. sometimes slow.",
+    "audio_en_storage_path": "2334_sometimes_she_cooks_fast_sometimes_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112335",
+    "text_pt": "Depende de quantas pessoas virão.",
+    "text_en": "It depends on how many people are coming.",
+    "audio_en_storage_path": "2335_it_depends_on_how_many_people_are_coming.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112336",
+    "text_pt": "Onde ela está agora?",
+    "text_en": "Where is she now?",
+    "audio_en_storage_path": "2336_where_is_she_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112337",
+    "text_pt": "Na cozinha — preparando o jantar.",
+    "text_en": "In the kitchen — making dinner.",
+    "audio_en_storage_path": "2337_in_the_kitchen_making_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112338",
+    "text_pt": "Quando ela vai terminar de cozinhar?",
+    "text_en": "When will she finish cooking?",
+    "audio_en_storage_path": "2338_when_will_she_finish_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112339",
+    "text_pt": "Em cerca de 30 minutos — talvez antes.",
+    "text_en": "In about 30 minutes — maybe sooner.",
+    "audio_en_storage_path": "2339_in_about_30_minutes_maybe_sooner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112340",
+    "text_pt": "Por que ela desligou o fogão mais cedo?",
+    "text_en": "Why did she turn off the stove early?",
+    "audio_en_storage_path": "2340_why_did_she_turn_off_the_stove_early.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112341",
+    "text_pt": "Porque o jantar já estava pronto.",
+    "text_en": "Because dinner was already ready.",
+    "audio_en_storage_path": "2341_because_dinner_was_already_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112342",
+    "text_pt": "Ela cozinha algo novo todos os dias.",
+    "text_en": "She cooks something new every day.",
+    "audio_en_storage_path": "2342_she_cooks_something_new_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112343",
+    "text_pt": "Adoro experimentar o que ela faz.",
+    "text_en": "I love trying what she makes.",
+    "audio_en_storage_path": "2343_i_love_trying_what_she_makes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112344",
+    "text_pt": "Amanhã ela não vai esquecer de desligar o fogão novamente.",
+    "text_en": "Tomorrow. she will not forget to turn off the stove again.",
+    "audio_en_storage_path": "2344_tomorrow_she_will_not_forget_to_turn_off_the_stove_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112345",
+    "text_pt": "Ela vai conferir duas vezes antes de sair da cozinha.",
+    "text_en": "She’ll double-check before leaving the kitchen.",
+    "audio_en_storage_path": "2345_shell_doublecheck_before_leaving_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112346",
+    "text_pt": "Tenha cuidado, mãe!",
+    "text_en": "Be careful. Mom!",
+    "audio_en_storage_path": "2346_be_careful_mom.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112347",
+    "text_pt": "A panela está quente — use luvas.",
+    "text_en": "The pot is hot — use gloves.",
+    "audio_en_storage_path": "2347_the_pot_is_hot_use_gloves.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112348",
+    "text_pt": "Filha – Geladeira",
+    "text_en": "Daughter – Refrigerator",
+    "audio_en_storage_path": "2348_daughter_refrigerator.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112349",
+    "text_pt": "Ela abre a geladeira em busca de salgadinhos.",
+    "text_en": "She opens the fridge looking for snacks.",
+    "audio_en_storage_path": "2349_she_opens_the_fridge_looking_for_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112350",
+    "text_pt": "Seus olhos procuram suco e queijo.",
+    "text_en": "Her eyes look for juice and cheese.",
+    "audio_en_storage_path": "2350_her_eyes_look_for_juice_and_cheese.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112351",
+    "text_pt": "Ela bebe leite direto da caixa.",
+    "text_en": "She drinks milk straight from the carton.",
+    "audio_en_storage_path": "2351_she_drinks_milk_straight_from_the_carton.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112352",
+    "text_pt": "Ou come fruta em pé.",
+    "text_en": "Or eats fruit while standing.",
+    "audio_en_storage_path": "2352_or_eats_fruit_while_standing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112353",
+    "text_pt": "O pijama dela é rosa e as meias não combinam.",
+    "text_en": "Her pajamas are pink and her socks mismatched.",
+    "audio_en_storage_path": "2353_her_pajamas_are_pink_and_her_socks_mismatched.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112354",
+    "text_pt": "Ela esqueceu de fechar a porta novamente.",
+    "text_en": "She forgot to close the door again.",
+    "audio_en_storage_path": "2354_she_forgot_to_close_the_door_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112355",
+    "text_pt": "Tem sobras, frutas e iogurte lá dentro.",
+    "text_en": "There are leftovers. fruits. and yogurt inside.",
+    "audio_en_storage_path": "2355_there_are_leftovers_fruits_and_yogurt_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112356",
+    "text_pt": "E uma garrafa de refrigerante ao lado.",
+    "text_en": "And a bottle of soda on the side.",
+    "audio_en_storage_path": "2356_and_a_bottle_of_soda_on_the_side.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112357",
+    "text_pt": "O que ela costuma comer à noite?",
+    "text_en": "What does she usually eat at night?",
+    "audio_en_storage_path": "2357_what_does_she_usually_eat_at_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112358",
+    "text_pt": "Um pequeno sanduíche ou fatias de maçã.",
+    "text_en": "A small sandwich or apple slices.",
+    "audio_en_storage_path": "2358_a_small_sandwich_or_apple_slices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112359",
+    "text_pt": "Onde ela coloca a lancheira depois da escola?",
+    "text_en": "Where does she put her lunchbox after school?",
+    "audio_en_storage_path": "2359_where_does_she_put_her_lunchbox_after_school.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112360",
+    "text_pt": "Na geladeira — até amanhã.",
+    "text_en": "In the fridge — until tomorrow.",
+    "audio_en_storage_path": "2360_in_the_fridge_until_tomorrow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112361",
+    "text_pt": "Às vezes ela deixa a porta aberta por muito tempo.",
+    "text_en": "Sometimes she leaves the door open too long.",
+    "audio_en_storage_path": "2361_sometimes_she_leaves_the_door_open_too_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112362",
+    "text_pt": "Outras vezes ela fecha imediatamente.",
+    "text_en": "Other times she closes it right away.",
+    "audio_en_storage_path": "2362_other_times_she_closes_it_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112363",
+    "text_pt": "Onde ela deixou o suco?",
+    "text_en": "Where did she leave her juice?",
+    "audio_en_storage_path": "2363_where_did_she_leave_her_juice.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112364",
+    "text_pt": "Na geladeira — na segunda prateleira.",
+    "text_en": "In the fridge — on the second shelf.",
+    "audio_en_storage_path": "2364_in_the_fridge_on_the_second_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112365",
+    "text_pt": "Quando ela vai verificar a geladeira novamente?",
+    "text_en": "When will she check the fridge again?",
+    "audio_en_storage_path": "2365_when_will_she_check_the_fridge_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112366",
+    "text_pt": "Depois do dever de casa, ela vai querer um lanche.",
+    "text_en": "After homework — she’ll want a snack.",
+    "audio_en_storage_path": "2366_after_homework_shell_want_a_snack.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112367",
+    "text_pt": "Por que ela limpou a geladeira hoje?",
+    "text_en": "Why did she clean the fridge today?",
+    "audio_en_storage_path": "2367_why_did_she_clean_the_fridge_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112368",
+    "text_pt": "Porque cheirava mal e tinha comida velha.",
+    "text_en": "Because it smelled bad and had old food.",
+    "audio_en_storage_path": "2368_because_it_smelled_bad_and_had_old_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112369",
+    "text_pt": "Ela verifica a geladeira muitas vezes ao dia.",
+    "text_en": "She checks the fridge many times a day.",
+    "audio_en_storage_path": "2369_she_checks_the_fridge_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112370",
+    "text_pt": "Só para ver o que ela consegue comer.",
+    "text_en": "Just to see what she can eat.",
+    "audio_en_storage_path": "2370_just_to_see_what_she_can_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112371",
+    "text_pt": "Amanhã ela não vai esquecer de fechar a geladeira novamente.",
+    "text_en": "Tomorrow. she will not forget to close the fridge again.",
+    "audio_en_storage_path": "2371_tomorrow_she_will_not_forget_to_close_the_fridge_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112372",
+    "text_pt": "Vou lembrá-la antes que ela esqueça.",
+    "text_en": "I’ll remind her before she forgets.",
+    "audio_en_storage_path": "2372_ill_remind_her_before_she_forgets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112373",
+    "text_pt": "Feche a porta!",
+    "text_en": "Close the door!",
+    "audio_en_storage_path": "2373_close_the_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112374",
+    "text_pt": "Vamos economizar energia e manter as coisas frias.",
+    "text_en": "Let's save energy and keep things cold.",
+    "audio_en_storage_path": "2374_lets_save_energy_and_keep_things_cold.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112375",
+    "text_pt": "Irmãs – Pia",
+    "text_en": "Sisters – Pia",
+    "audio_en_storage_path": "2375_sisters_pia.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112376",
+    "text_pt": "Eles estão na cozinha lavando pratos juntos.",
+    "text_en": "They are in the kitchen washing dishes together.",
+    "audio_en_storage_path": "2376_they_are_in_the_kitchen_washing_dishes_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112377",
+    "text_pt": "Um lava. O outro seca.",
+    "text_en": "One washes. the other dries.",
+    "audio_en_storage_path": "2377_one_washes_the_other_dries.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112378",
+    "text_pt": "Eles enxáguam vegetais e descascam batatas.",
+    "text_en": "They rinse vegetables and peel potatoes.",
+    "audio_en_storage_path": "2378_they_rinse_vegetables_and_peel_potatoes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112379",
+    "text_pt": "Às vezes eles cantam enquanto trabalham.",
+    "text_en": "Sometimes they sing while working.",
+    "audio_en_storage_path": "2379_sometimes_they_sing_while_working.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112380",
+    "text_pt": "Suas mãos estão molhadas e a pia está cheia de bolhas.",
+    "text_en": "Their hands are wet and the sink is full of bubbles.",
+    "audio_en_storage_path": "2380_their_hands_are_wet_and_the_sink_is_full_of_bubbles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112381",
+    "text_pt": "Há sabão, esponja e uma toalha por perto.",
+    "text_en": "There's soap. the sponge. and a towel nearby.",
+    "audio_en_storage_path": "2381_theres_soap_the_sponge_and_a_towel_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112382",
+    "text_pt": "Há pratos, copos e garfos sujos na pia.",
+    "text_en": "There are dirty plates. glasses. and forks in the sink.",
+    "audio_en_storage_path": "2382_there_are_dirty_plates_glasses_and_forks_in_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112383",
+    "text_pt": "E uma tábua de corte com pedaços de cebola.",
+    "text_en": "And a cutting board with onion pieces.",
+    "audio_en_storage_path": "2383_and_a_cutting_board_with_onion_pieces.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112384",
+    "text_pt": "Quem limpa a pia primeiro?",
+    "text_en": "Who cleans the sink first?",
+    "audio_en_storage_path": "2384_who_cleans_the_sink_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112385",
+    "text_pt": "O mais velho — mas ambos ajudam.",
+    "text_en": "The older one — but both help.",
+    "audio_en_storage_path": "2385_the_older_one_but_both_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112386",
+    "text_pt": "Onde eles guardam os panos de prato?",
+    "text_en": "Where do they keep their dish towels?",
+    "audio_en_storage_path": "2386_where_do_they_keep_their_dish_towels.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112387",
+    "text_pt": "Na alça — pendurado para secar.",
+    "text_en": "On the handle — hanging to dry.",
+    "audio_en_storage_path": "2387_on_the_handle_hanging_to_dry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112388",
+    "text_pt": "Às vezes eles lavam tudo imediatamente.",
+    "text_en": "Sometimes they wash everything right away.",
+    "audio_en_storage_path": "2388_sometimes_they_wash_everything_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112389",
+    "text_pt": "Outras vezes eles esperam até mais tarde.",
+    "text_en": "Other times they wait until later.",
+    "audio_en_storage_path": "2389_other_times_they_wait_until_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112390",
+    "text_pt": "Onde eles deixaram a esponja?",
+    "text_en": "Where did they leave the sponge?",
+    "audio_en_storage_path": "2390_where_did_they_leave_the_sponge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112391",
+    "text_pt": "Perto do sabonete — perto da borda da pia.",
+    "text_en": "By the soap — near the edge of the sink.",
+    "audio_en_storage_path": "2391_by_the_soap_near_the_edge_of_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112392",
+    "text_pt": "Quando eles vão limpar a pia novamente?",
+    "text_en": "When will they clean the sink again?",
+    "audio_en_storage_path": "2392_when_will_they_clean_the_sink_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112393",
+    "text_pt": "Depois do jantar — quando todos os pratos estiverem lavados.",
+    "text_en": "After dinner — when all dishes are done.",
+    "audio_en_storage_path": "2393_after_dinner_when_all_dishes_are_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112394",
+    "text_pt": "Por que eles deixaram a louça na pia?",
+    "text_en": "Why did they leave dishes in the sink?",
+    "audio_en_storage_path": "2394_why_did_they_leave_dishes_in_the_sink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112395",
+    "text_pt": "Porque estavam cansados ​​e esqueceram.",
+    "text_en": "Because they were tired and forgot.",
+    "audio_en_storage_path": "2395_because_they_were_tired_and_forgot.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112396",
+    "text_pt": "Eles usam a pia muitas vezes ao dia.",
+    "text_en": "They use the sink many times a day.",
+    "audio_en_storage_path": "2396_they_use_the_sink_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112397",
+    "text_pt": "É um dos lugares mais utilizados na cozinha.",
+    "text_en": "It’s one of the most used places in the kitchen.",
+    "audio_en_storage_path": "2397_its_one_of_the_most_used_places_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112398",
+    "text_pt": "Amanhã eles não vão esquecer de limpar a pia novamente.",
+    "text_en": "Tomorrow. they will not forget to clean the sink again.",
+    "audio_en_storage_path": "2398_tomorrow_they_will_not_forget_to_clean_the_sink_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112399",
+    "text_pt": "Eles vão secá-lo depois de terminar.",
+    "text_en": "They’ll wipe it dry after finishing.",
+    "audio_en_storage_path": "2399_theyll_wipe_it_dry_after_finishing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112400",
+    "text_pt": "O trabalho em equipe faz o sonho funcionar!",
+    "text_en": "Teamwork makes the dream work!",
+    "audio_en_storage_path": "2400_teamwork_makes_the_dream_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112401",
+    "text_pt": "Ótimo trabalho limpando tudo juntos.",
+    "text_en": "Great job cleaning up together.",
+    "audio_en_storage_path": "2401_great_job_cleaning_up_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112402",
+    "text_pt": "Tia – Air Fryer",
+    "text_en": "Aunt – Air Fryer",
+    "audio_en_storage_path": "2402_aunt_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112403",
+    "text_pt": "Ela está usando a fritadeira a ar na cozinha.",
+    "text_en": "She is using the air fryer in the kitchen.",
+    "audio_en_storage_path": "2403_she_is_using_the_air_fryer_in_the_kitchen.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112404",
+    "text_pt": "Tem cheiro de asas de frango crocantes.",
+    "text_en": "It smells like crispy chicken wings.",
+    "audio_en_storage_path": "2404_it_smells_like_crispy_chicken_wings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112405",
+    "text_pt": "Ela faz batatas fritas, peixes e vegetais nele.",
+    "text_en": "She makes fries. fish. and vegetables in it.",
+    "audio_en_storage_path": "2405_she_makes_fries_fish_and_vegetables_in_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112406",
+    "text_pt": "É mais rápido que o forno.",
+    "text_en": "It’s faster than the oven.",
+    "audio_en_storage_path": "2406_its_faster_than_the_oven.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112407",
+    "text_pt": "Sua blusa é amarela e seu cabelo está preso.",
+    "text_en": "Her shirt is yellow and her hair is tied up.",
+    "audio_en_storage_path": "2407_her_shirt_is_yellow_and_her_hair_is_tied_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112408",
+    "text_pt": "A máquina emite um sinal sonoro quando a comida está pronta.",
+    "text_en": "The machine beeps when food is ready.",
+    "audio_en_storage_path": "2408_the_machine_beeps_when_food_is_ready.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112409",
+    "text_pt": "Há temperos, óleo e batatas por perto.",
+    "text_en": "There are seasoning. oil. and potatoes nearby.",
+    "audio_en_storage_path": "2409_there_are_seasoning_oil_and_potatoes_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112410",
+    "text_pt": "Pronto para outra rodada.",
+    "text_en": "Ready for another round.",
+    "audio_en_storage_path": "2410_ready_for_another_round.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112411",
+    "text_pt": "O que sua tia cozinha na air fryer?",
+    "text_en": "What does your aunt cook in the air fryer?",
+    "audio_en_storage_path": "2411_what_does_your_aunt_cook_in_the_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112412",
+    "text_pt": "Pão de alho e palitos de mussarela.",
+    "text_en": "Garlic bread and mozzarella sticks.",
+    "audio_en_storage_path": "2412_garlic_bread_and_mozzarella_sticks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112413",
+    "text_pt": "Onde ela guarda isso?",
+    "text_en": "Where does she keep it?",
+    "audio_en_storage_path": "2413_where_does_she_keep_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112414",
+    "text_pt": "No balcão — fácil de alcançar.",
+    "text_en": "On the counter — easy to reach.",
+    "audio_en_storage_path": "2414_on_the_counter_easy_to_reach.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112415",
+    "text_pt": "Às vezes ela o usa para lanches.",
+    "text_en": "Sometimes she uses it for snacks.",
+    "audio_en_storage_path": "2415_sometimes_she_uses_it_for_snacks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112416",
+    "text_pt": "Outros horários para refeições completas.",
+    "text_en": "Other times for full meals.",
+    "audio_en_storage_path": "2416_other_times_for_full_meals.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112417",
+    "text_pt": "Onde ela colocou a cesta?",
+    "text_en": "Where did she put the basket?",
+    "audio_en_storage_path": "2417_where_did_she_put_the_basket.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112418",
+    "text_pt": "Na pia — precisa ser lavado.",
+    "text_en": "In the sink — needs to be washed.",
+    "audio_en_storage_path": "2418_in_the_sink_needs_to_be_washed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112419",
+    "text_pt": "Quando ela vai usá-lo novamente?",
+    "text_en": "When will she use it again?",
+    "audio_en_storage_path": "2419_when_will_she_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112420",
+    "text_pt": "Hoje à noite — para aperitivos antes do jantar.",
+    "text_en": "Tonight — for appetizers before dinner.",
+    "audio_en_storage_path": "2420_tonight_for_appetizers_before_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112421",
+    "text_pt": "Por que ela escolheu a fritadeira a ar hoje?",
+    "text_en": "Why did she choose the air fryer today?",
+    "audio_en_storage_path": "2421_why_did_she_choose_the_air_fryer_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112422",
+    "text_pt": "Porque ela queria algo saudável e rápido.",
+    "text_en": "Because she wanted something healthy and quick.",
+    "audio_en_storage_path": "2422_because_she_wanted_something_healthy_and_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112423",
+    "text_pt": "Ela adora cozinhar na air fryer.",
+    "text_en": "She loves cooking with the air fryer.",
+    "audio_en_storage_path": "2423_she_loves_cooking_with_the_air_fryer.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112424",
+    "text_pt": "Economiza tempo e óleo.",
+    "text_en": "It saves time and oil.",
+    "audio_en_storage_path": "2424_it_saves_time_and_oil.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112425",
+    "text_pt": "Amanhã ela não vai esquecer de limpar novamente.",
+    "text_en": "Tomorrow. she will not forget to clean it again.",
+    "audio_en_storage_path": "2425_tomorrow_she_will_not_forget_to_clean_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112426",
+    "text_pt": "Ela vai lavá-lo antes de guardá-lo.",
+    "text_en": "She’ll wash it before putting it away.",
+    "audio_en_storage_path": "2426_shell_wash_it_before_putting_it_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112427",
+    "text_pt": "Cheira muito bem!",
+    "text_en": "Smells amazing!",
+    "audio_en_storage_path": "2427_smells_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112428",
+    "text_pt": "Mal posso esperar para experimentar!",
+    "text_en": "Can’t wait to try it!",
+    "audio_en_storage_path": "2428_cant_wait_to_try_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112430",
+    "text_pt": "Eles estão na cozinha fazendo smoothies.",
+    "text_en": "They are in the kitchen making smoothies.",
+    "audio_en_storage_path": "2430_they_are_in_the_kitchen_making_smoothies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112431",
+    "text_pt": "O liquidificador faz um barulho alto.",
+    "text_en": "The blender makes a loud noise.",
+    "audio_en_storage_path": "2431_the_blender_makes_a_loud_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112432",
+    "text_pt": "Eles misturam bananas, morangos e iogurte.",
+    "text_en": "They mix bananas. strawberries. and yogurt.",
+    "audio_en_storage_path": "2432_they_mix_bananas_strawberries_and_yogurt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112433",
+    "text_pt": "Transforma-se numa bebida doce e roxa.",
+    "text_en": "It turns into a sweet purple drink.",
+    "audio_en_storage_path": "2433_it_turns_into_a_sweet_purple_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112434",
+    "text_pt": "O liquidificador é branco com tampa verde.",
+    "text_en": "The blender is white with a green lid.",
+    "audio_en_storage_path": "2434_the_blender_is_white_with_a_green_lid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112435",
+    "text_pt": "Ela gira rápido e mistura tudo.",
+    "text_en": "It spins fast and blends everything.",
+    "audio_en_storage_path": "2435_it_spins_fast_and_blends_everything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112436",
+    "text_pt": "Há frutas congeladas, mel e gelo dentro.",
+    "text_en": "There are frozen fruits. honey. and ice inside.",
+    "audio_en_storage_path": "2436_there_are_frozen_fruits_honey_and_ice_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112437",
+    "text_pt": "Pronto para um reforço matinal.",
+    "text_en": "Ready for a morning boost.",
+    "audio_en_storage_path": "2437_ready_for_a_morning_boost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112438",
+    "text_pt": "O que eles fazem no liquidificador?",
+    "text_en": "What do they do in the blender?",
+    "audio_en_storage_path": "2438_what_do_they_do_in_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112439",
+    "text_pt": "Smoothies, molhos e comida para bebês.",
+    "text_en": "Smoothies. sauces. and baby food.",
+    "audio_en_storage_path": "2439_smoothies_sauces_and_baby_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112440",
+    "text_pt": "Onde eles guardam a tampa do liquidificador?",
+    "text_en": "Where do they keep the blender lid?",
+    "audio_en_storage_path": "2440_where_do_they_keep_the_blender_lid.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112441",
+    "text_pt": "Em cima — sempre com o pote.",
+    "text_en": "On top — always with the jar.",
+    "audio_en_storage_path": "2441_on_top_always_with_the_jar.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112442",
+    "text_pt": "Às vezes eles acrescentam espinafre ou aveia.",
+    "text_en": "Sometimes they add spinach or oats.",
+    "audio_en_storage_path": "2442_sometimes_they_add_spinach_or_oats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112443",
+    "text_pt": "Outras vezes, apenas frutas e leite.",
+    "text_en": "Other times just fruit and milk.",
+    "audio_en_storage_path": "2443_other_times_just_fruit_and_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112444",
+    "text_pt": "Onde eles deixaram o liquidificador?",
+    "text_en": "Where did they leave the blender?",
+    "audio_en_storage_path": "2444_where_did_they_leave_the_blender.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112445",
+    "text_pt": "No balcão — vazio e limpo.",
+    "text_en": "On the counter — empty and clean.",
+    "audio_en_storage_path": "2445_on_the_counter_empty_and_clean.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112446",
+    "text_pt": "Quando eles usarão isso novamente?",
+    "text_en": "When will they use it again?",
+    "audio_en_storage_path": "2446_when_will_they_use_it_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112447",
+    "text_pt": "Amanhã — para smoothies de café da manhã.",
+    "text_en": "Tomorrow — for breakfast smoothies.",
+    "audio_en_storage_path": "2447_tomorrow_for_breakfast_smoothies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112448",
+    "text_pt": "Por que lavaram o liquidificador hoje?",
+    "text_en": "Why did they wash the blender today?",
+    "audio_en_storage_path": "2448_why_did_they_wash_the_blender_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112449",
+    "text_pt": "Porque estava cheio de smoothie velho.",
+    "text_en": "Because it was full of old smoothie.",
+    "audio_en_storage_path": "2449_because_it_was_full_of_old_smoothie.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112450",
+    "text_pt": "Eles usam o liquidificador pelo menos duas vezes por semana.",
+    "text_en": "They use the blender at least twice a week.",
+    "audio_en_storage_path": "2450_they_use_the_blender_at_least_twice_a_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112451",
+    "text_pt": "Ajuda-os a comer de forma saudável.",
+    "text_en": "It helps them eat healthy.",
+    "audio_en_storage_path": "2451_it_helps_them_eat_healthy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112452",
+    "text_pt": "Amanhã eles não vão esquecer de fechar a tampa novamente.",
+    "text_en": "Tomorrow. they will not forget to close the lid again.",
+    "audio_en_storage_path": "2452_tomorrow_they_will_not_forget_to_close_the_lid_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112453",
+    "text_pt": "Da última vez, derramou para todo lado.",
+    "text_en": "Last time. it spilled everywhere.",
+    "audio_en_storage_path": "2453_last_time_it_spilled_everywhere.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112454",
+    "text_pt": "Misture bem!",
+    "text_en": "Blend well!",
+    "audio_en_storage_path": "2454_blend_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

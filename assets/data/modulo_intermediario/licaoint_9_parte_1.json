@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111187",
+    "text_pt": "Café da manhã",
+    "text_en": "Breakfast",
+    "audio_en_storage_path": "1187_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111188",
+    "text_pt": "Eu acordo e sinto cheiro de café.",
+    "text_en": "I wake up and smell coffee.",
+    "audio_en_storage_path": "1188_i_wake_up_and_smell_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111189",
+    "text_pt": "A cozinha está quentinha e cheira a torrada.",
+    "text_en": "The kitchen is warm and smells like toast.",
+    "audio_en_storage_path": "1189_the_kitchen_is_warm_and_smells_like_toast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111190",
+    "text_pt": "Eu como cereal ou ovos pela manhã.",
+    "text_en": "I eat cereal or eggs in the morning.",
+    "audio_en_storage_path": "1190_i_eat_cereal_or_eggs_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111191",
+    "text_pt": "Às vezes como panquecas com calda.",
+    "text_en": "Sometimes I have pancakes with syrup.",
+    "audio_en_storage_path": "1191_sometimes_i_have_pancakes_with_syrup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111192",
+    "text_pt": "É cedo e a mesa está cheia de comida.",
+    "text_en": "It's early. and the table is full of food.",
+    "audio_en_storage_path": "1192_its_early_and_the_table_is_full_of_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111193",
+    "text_pt": "Há frutas, pão e leite.",
+    "text_en": "There are fruits. bread. and milk.",
+    "audio_en_storage_path": "1193_there_are_fruits_bread_and_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111194",
+    "text_pt": "Eu bebo suco de laranja ou chá.",
+    "text_en": "I drink orange juice or tea.",
+    "audio_en_storage_path": "1194_i_drink_orange_juice_or_tea.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111195",
+    "text_pt": "Meu irmão prefere chocolate quente.",
+    "text_en": "My brother prefers hot chocolate.",
+    "audio_en_storage_path": "1195_my_brother_prefers_hot_chocolate.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111196",
+    "text_pt": "O que você costuma comer no café da manhã?",
+    "text_en": "What do you usually eat for breakfast?",
+    "audio_en_storage_path": "1196_what_do_you_usually_eat_for_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111197",
+    "text_pt": "Gosto de iogurte com granola e banana.",
+    "text_en": "I like yogurt with granola and banana.",
+    "audio_en_storage_path": "1197_i_like_yogurt_with_granola_and_banana.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111198",
+    "text_pt": "Onde você come de manhã?",
+    "text_en": "Where do you eat in the morning?",
+    "audio_en_storage_path": "1198_where_do_you_eat_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111199",
+    "text_pt": "Na mesa da cozinha, perto da janela.",
+    "text_en": "At the kitchen table. near the window.",
+    "audio_en_storage_path": "1199_at_the_kitchen_table_near_the_window.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111200",
+    "text_pt": "Às vezes como rápido. Às vezes como devagar.",
+    "text_en": "Sometimes I eat fast. sometimes slow.",
+    "audio_en_storage_path": "1200_sometimes_i_eat_fast_sometimes_slow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111201",
+    "text_pt": "Depende de quão tarde eu acordei.",
+    "text_en": "It depends on how late I woke up.",
+    "audio_en_storage_path": "1201_it_depends_on_how_late_i_woke_up.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111202",
+    "text_pt": "Onde está seu prato agora?",
+    "text_en": "Where is your plate now?",
+    "audio_en_storage_path": "1202_where_is_your_plate_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111203",
+    "text_pt": "Na pia — acabei de comer.",
+    "text_en": "In the sink — I just finished eating.",
+    "audio_en_storage_path": "1203_in_the_sink_i_just_finished_eating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111204",
+    "text_pt": "Quando você vai comer amanhã de manhã?",
+    "text_en": "When will you eat tomorrow morning?",
+    "audio_en_storage_path": "1204_when_will_you_eat_tomorrow_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111205",
+    "text_pt": "Por volta das 7h30 — depois de escovar os dentes.",
+    "text_en": "Around 7:30 — after brushing my teeth.",
+    "audio_en_storage_path": "1205_around_730_after_brushing_my_teeth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111206",
+    "text_pt": "Por que você pulou o café da manhã hoje?",
+    "text_en": "Why did you skip breakfast today?",
+    "audio_en_storage_path": "1206_why_did_you_skip_breakfast_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111207",
+    "text_pt": "Porque eu estava com pressa.",
+    "text_en": "Because I was in a hurry.",
+    "audio_en_storage_path": "1207_because_i_was_in_a_hurry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111208",
+    "text_pt": "Eu sempre como alguma coisa pela manhã.",
+    "text_en": "I always eat something in the morning.",
+    "audio_en_storage_path": "1208_i_always_eat_something_in_the_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111209",
+    "text_pt": "Isso me ajuda a começar bem o dia.",
+    "text_en": "It helps me start the day well.",
+    "audio_en_storage_path": "1209_it_helps_me_start_the_day_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111210",
+    "text_pt": "Amanhã. Não vou esquecer meu café da manhã novamente.",
+    "text_en": "Tomorrow. I will not forget my breakfast again.",
+    "audio_en_storage_path": "1210_tomorrow_i_will_not_forget_my_breakfast_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111211",
+    "text_pt": "Vou prepará-lo na noite anterior.",
+    "text_en": "I’ll prepare it the night before.",
+    "audio_en_storage_path": "1211_ill_prepare_it_the_night_before.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111212",
+    "text_pt": "Bom dia!",
+    "text_en": "Good morning!",
+    "audio_en_storage_path": "1212_good_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111213",
+    "text_pt": "Aproveite seu café da manhã!",
+    "text_en": "Enjoy your breakfast!",
+    "audio_en_storage_path": "1213_enjoy_your_breakfast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

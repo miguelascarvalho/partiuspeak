@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120487",
+    "text_pt": "Alugar um carro – Primeiros passos",
+    "text_en": "Renting a Car – First Steps",
+    "audio_en_storage_path": "487_renting_a_car_first_steps.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120488",
+    "text_pt": "Preciso alugar um carro para os próximos dias",
+    "text_en": "I need to rent a car for the next few days",
+    "audio_en_storage_path": "488_i_need_to_rent_a_car_for_the_next_few_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120489",
+    "text_pt": "Preciso alugar um carro pelos próximos dias",
+    "text_en": "I gotta rent a car for the next couple days",
+    "audio_en_storage_path": "489_i_gotta_rent_a_car_for_the_next_couple_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120490",
+    "text_pt": "Você tem algum carro pequeno disponível hoje?",
+    "text_en": "Do you have any small cars available today?",
+    "audio_en_storage_path": "490_do_you_have_any_small_cars_available_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120491",
+    "text_pt": "Ainda há algum carro compacto para hoje?",
+    "text_en": "Any compact cars left for today?",
+    "audio_en_storage_path": "491_any_compact_cars_left_for_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120492",
+    "text_pt": "Deixe-me mostrar minha carteira de motorista e preencher este formulário",
+    "text_en": "Let me show my license and fill out this form",
+    "audio_en_storage_path": "492_let_me_show_my_license_and_fill_out_this_form.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120493",
+    "text_pt": "Deixe-me mostrar minha carteira de motorista e assinar este papel rapidinho",
+    "text_en": "Lemme flash my license and sign this paper real quick",
+    "audio_en_storage_path": "493_lemme_flash_my_license_and_sign_this_paper_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120494",
+    "text_pt": "Eles perguntaram se eu queria seguro extra ou não",
+    "text_en": "They asked if I want extra insurance or not",
+    "audio_en_storage_path": "494_they_asked_if_i_want_extra_insurance_or_not.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120495",
+    "text_pt": "Eles queriam saber se eu queria mais cobertura",
+    "text_en": "They wanted to know if I wanted more coverage",
+    "audio_en_storage_path": "495_they_wanted_to_know_if_i_wanted_more_coverage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120496",
+    "text_pt": "Esta é a primeira vez que alugo um carro sozinho",
+    "text_en": "This is my first time renting a car by myself",
+    "audio_en_storage_path": "496_this_is_my_first_time_renting_a_car_by_myself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120497",
+    "text_pt": "Primeira vez alugando um carro sozinho — estou meio nervoso",
+    "text_en": "First time rentin’ a car on my own — kinda nervous",
+    "audio_en_storage_path": "497_first_time_rentin_a_car_on_my_own_kinda_nervous.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120498",
+    "text_pt": "O preço inclui milhas ilimitadas e seguro básico",
+    "text_en": "The price includes unlimited miles and basic insurance",
+    "audio_en_storage_path": "498_the_price_includes_unlimited_miles_and_basic_insurance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120499",
+    "text_pt": "O preço cobre todas as milhas e alguma proteção básica",
+    "text_en": "Price tag covers all the miles and some basic protection",
+    "audio_en_storage_path": "499_price_tag_covers_all_the_miles_and_some_basic_protection.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120500",
+    "text_pt": "Onde posso encontrar o carro quando terminar aqui?",
+    "text_en": "Where can I find the car once I’m done here?",
+    "audio_en_storage_path": "500_where_can_i_find_the_car_once_im_done_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120501",
+    "text_pt": "O que você disse — onde encontro o carro depois disso?",
+    "text_en": "Whaddya say — where do I find the car after this?",
+    "audio_en_storage_path": "501_whaddya_say_where_do_i_find_the_car_after_this.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120502",
+    "text_pt": "Posso retirar agora ou preciso esperar?",
+    "text_en": "Can I pick it up now or do I need to wait?",
+    "audio_en_storage_path": "502_can_i_pick_it_up_now_or_do_i_need_to_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120503",
+    "text_pt": "Posso pegar agora mesmo ou devo relaxar um pouco?",
+    "text_en": "Can I grab it right now or should I chill for a bit?",
+    "audio_en_storage_path": "503_can_i_grab_it_right_now_or_should_i_chill_for_a_bit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120504",
+    "text_pt": "Eles disseram que eu poderia escolher entre automático ou manual",
+    "text_en": "They said I could choose between automatic or manual",
+    "audio_en_storage_path": "504_they_said_i_could_choose_between_automatic_or_manual.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120505",
+    "text_pt": "Eles me deixam ir no automático ou no câmbio manual — qual é melhor para você?",
+    "text_en": "They let me go auto or stick shift — which one’s better for ya?",
+    "audio_en_storage_path": "505_they_let_me_go_auto_or_stick_shift_which_ones_better_for_ya.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120506",
+    "text_pt": "Certifique-se de verificar o nível do gás antes de dirigir",
+    "text_en": "Make sure to check the gas level before driving off",
+    "audio_en_storage_path": "506_make_sure_to_check_the_gas_level_before_driving_off.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120507",
+    "text_pt": "Verifique novamente a quantidade de gás antes de sair",
+    "text_en": "Double-check how much gas there is before rollin’ out",
+    "audio_en_storage_path": "507_doublecheck_how_much_gas_there_is_before_rollin_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120508",
+    "text_pt": "Há alguns arranhões no para-choque dianteiro",
+    "text_en": "There are a few scratches on the front bumper",
+    "audio_en_storage_path": "508_there_are_a_few_scratches_on_the_front_bumper.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120509",
+    "text_pt": "O para-choque dianteiro já tem algumas marcas",
+    "text_en": "Front bumper got a couple of marks already",
+    "audio_en_storage_path": "509_front_bumper_got_a_couple_of_marks_already.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120510",
+    "text_pt": "Deixe-me tirar uma foto do carro antes de sair",
+    "text_en": "Let me take a picture of the car before leaving",
+    "audio_en_storage_path": "510_let_me_take_a_picture_of_the_car_before_leaving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120511",
+    "text_pt": "Vou tirar uma foto para sabermos como ficou desde o começo",
+    "text_en": "Gonna snap a pic so we know how it looked from the start",
+    "audio_en_storage_path": "511_gonna_snap_a_pic_so_we_know_how_it_looked_from_the_start.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120512",
+    "text_pt": "Se você tiver alguma dúvida, é só me perguntar.",
+    "text_en": "If you have any questions. just ask me",
+    "audio_en_storage_path": "512_if_you_have_any_questions_just_ask_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120513",
+    "text_pt": "Se você tiver alguma dúvida, atire — eu te ajudo",
+    "text_en": "If ya got any doubts. just shoot — I’ll help ya out",
+    "audio_en_storage_path": "513_if_ya_got_any_doubts_just_shoot_ill_help_ya_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120514",
+    "text_pt": "Tenha uma ótima viagem e dirija com segurança",
+    "text_en": "Have a great trip and drive safely",
+    "audio_en_storage_path": "514_have_a_great_trip_and_drive_safely.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120515",
+    "text_pt": "Aproveite seu passeio e mantenha-o suave na estrada",
+    "text_en": "Enjoy your ride and keep it smooth on the road",
+    "audio_en_storage_path": "515_enjoy_your_ride_and_keep_it_smooth_on_the_road.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120516",
+    "text_pt": "Obrigado por escolher nosso serviço. Tenha um bom dia.",
+    "text_en": "Thanks for choosing our service. Have a good day",
+    "audio_en_storage_path": "516_thanks_for_choosing_our_service_have_a_good_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120517",
+    "text_pt": "Obrigado pela visita. Boa viagem e até breve.",
+    "text_en": "Thanks for stopping by. Safe travels and see ya soon",
+    "audio_en_storage_path": "517_thanks_for_stopping_by_safe_travels_and_see_ya_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

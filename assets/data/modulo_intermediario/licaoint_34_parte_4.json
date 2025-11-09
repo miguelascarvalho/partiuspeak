@@ -1,0 +1,290 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120703",
+    "text_pt": "Saia e faça novos amigos",
+    "text_en": "Get out there and make some new friends",
+    "audio_en_storage_path": "703_get_out_there_and_make_some_new_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120704",
+    "text_pt": "Conhecendo alguém melhor",
+    "text_en": "Getting to Know Someone Better",
+    "audio_en_storage_path": "704_getting_to_know_someone_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120705",
+    "text_pt": "O que ela faz para viver?",
+    "text_en": "What does she do for a living?",
+    "audio_en_storage_path": "705_what_does_she_do_for_a_living.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120706",
+    "text_pt": "Qual é a profissão dela? O que você sabe sobre a área de atuação dela?",
+    "text_en": "What’s her job? Whaddya know ‘bout her line of work?",
+    "audio_en_storage_path": "706_whats_her_job_whaddya_know_bout_her_line_of_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120707",
+    "text_pt": "De onde ele veio originalmente?",
+    "text_en": "Where does he come from originally?",
+    "audio_en_storage_path": "707_where_does_he_come_from_originally.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120708",
+    "text_pt": "De onde ele é? Tipo... da cidade natal?",
+    "text_en": "Where’s he from? Like. hometown kinda thing?",
+    "audio_en_storage_path": "708_wheres_he_from_like_hometown_kinda_thing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120709",
+    "text_pt": "Quantos anos ela tem? Você sabe?",
+    "text_en": "How old is she? Do you know?",
+    "audio_en_storage_path": "709_how_old_is_she_do_you_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120710",
+    "text_pt": "Quantos anos ela tem? Você sabe?",
+    "text_en": "How old’s she? You happen to know?",
+    "audio_en_storage_path": "710_how_olds_she_you_happen_to_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120711",
+    "text_pt": "Por que ele é sempre tão sério?",
+    "text_en": "Why is he always so serious?",
+    "audio_en_storage_path": "711_why_is_he_always_so_serious.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120712",
+    "text_pt": "Por que ele está sempre olhando tão fundo? Imagino o que se passa na cabeça dele",
+    "text_en": "Why’s he always lookin’ so deep? Wonder what’s on his mind",
+    "audio_en_storage_path": "712_whys_he_always_lookin_so_deep_wonder_whats_on_his_mind.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120713",
+    "text_pt": "Quando você a conheceu?",
+    "text_en": "When did you first meet her?",
+    "audio_en_storage_path": "713_when_did_you_first_meet_her.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120714",
+    "text_pt": "Quando vocês dois se cruzaram pela primeira vez?",
+    "text_en": "When’d ya two first cross paths?",
+    "audio_en_storage_path": "714_whend_ya_two_first_cross_paths.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120715",
+    "text_pt": "Eles moram aqui ou em algum outro lugar?",
+    "text_en": "Do they live around here or somewhere else?",
+    "audio_en_storage_path": "715_do_they_live_around_here_or_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120716",
+    "text_pt": "Eles moram perto ou mais longe?",
+    "text_en": "They live nearby or further out?",
+    "audio_en_storage_path": "716_they_live_nearby_or_further_out.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120717",
+    "text_pt": "Ela é casada ou solteira?",
+    "text_en": "Is she married or single?",
+    "audio_en_storage_path": "717_is_she_married_or_single.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120718",
+    "text_pt": "Ela está comprometida ou livre para se misturar?",
+    "text_en": "Is she taken or free to mingle?",
+    "audio_en_storage_path": "718_is_she_taken_or_free_to_mingle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120719",
+    "text_pt": "Ele tem irmãos ou irmãs?",
+    "text_en": "Does he have any brothers or sisters?",
+    "audio_en_storage_path": "719_does_he_have_any_brothers_or_sisters.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120720",
+    "text_pt": "Tem irmãos? Família assim?",
+    "text_en": "Got any siblings? Family like that?",
+    "audio_en_storage_path": "720_got_any_siblings_family_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120721",
+    "text_pt": "Que tipo de música ela gosta?",
+    "text_en": "What kind of music does she like?",
+    "audio_en_storage_path": "721_what_kind_of_music_does_she_like.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120722",
+    "text_pt": "Que tipo de música ela curte? Tem alguma favorita?",
+    "text_en": "What kind of tunes she into? Any favorites?",
+    "audio_en_storage_path": "722_what_kind_of_tunes_she_into_any_favorites.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120723",
+    "text_pt": "Quais são os hobbies dele?",
+    "text_en": "What hobbies does he have?",
+    "audio_en_storage_path": "723_what_hobbies_does_he_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120724",
+    "text_pt": "O que ele faz fora do trabalho? Hobbies ou algo assim?",
+    "text_en": "What’s he into outside of work? Hobbies or somethin’?",
+    "audio_en_storage_path": "724_whats_he_into_outside_of_work_hobbies_or_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120725",
+    "text_pt": "Há quanto tempo eles se conhecem?",
+    "text_en": "How long have they known each other?",
+    "audio_en_storage_path": "725_how_long_have_they_known_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120726",
+    "text_pt": "Por quanto tempo elas ficaram apertadas desse jeito?",
+    "text_en": "How long they been tight like that?",
+    "audio_en_storage_path": "726_how_long_they_been_tight_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120727",
+    "text_pt": "Ela é extrovertida ou mais quieta?",
+    "text_en": "Is she outgoing or more of a quiet person?",
+    "audio_en_storage_path": "727_is_she_outgoing_or_more_of_a_quiet_person.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120728",
+    "text_pt": "Ela é uma daquelas pessoas sociáveis ​​ou mais discreta?",
+    "text_en": "She’s one of those social butterflies or more low-key?",
+    "audio_en_storage_path": "728_shes_one_of_those_social_butterflies_or_more_lowkey.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120729",
+    "text_pt": "O que fez com que eles se tornassem amigos?",
+    "text_en": "What made them become friends?",
+    "audio_en_storage_path": "729_what_made_them_become_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120730",
+    "text_pt": "O que os uniu como amigos?",
+    "text_en": "What brought ‘em together as friends?",
+    "audio_en_storage_path": "730_what_brought_em_together_as_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120731",
+    "text_pt": "Você os vê com frequência?",
+    "text_en": "Do you see them often?",
+    "audio_en_storage_path": "731_do_you_see_them_often.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120732",
+    "text_pt": "Você os encontra com frequência ultimamente?",
+    "text_en": "You bump into ‘em often these days?",
+    "audio_en_storage_path": "732_you_bump_into_em_often_these_days.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120733",
+    "text_pt": "Obrigado por compartilhar. Tenha um ótimo dia.",
+    "text_en": "Thanks for sharing. Have a great day",
+    "audio_en_storage_path": "733_thanks_for_sharing_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120734",
+    "text_pt": "Aproveite o bate-papo — aproveite o seu dia",
+    "text_en": "Appreciate the chat — enjoy your day",
+    "audio_en_storage_path": "734_appreciate_the_chat_enjoy_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,317 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100480",
+    "text_pt": "Por que você gosta desse vestido?",
+    "text_en": "Why do you like that dress?",
+    "audio_en_storage_path": "481_why_do_you_like_that_dress.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100481",
+    "text_pt": "Isso me faz sentir confiante e estilosa.",
+    "text_en": "It makes me feel confident and stylish.",
+    "audio_en_storage_path": "482_it_makes_me_feel_confident_and_stylish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100482",
+    "text_pt": "Às vezes ele compra roupas online.",
+    "text_en": "He buys clothes online sometimes.",
+    "audio_en_storage_path": "483_he_buys_clothes_online_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100483",
+    "text_pt": "Ela não vai gastar muito hoje.",
+    "text_en": "She won’t spend too much today.",
+    "audio_en_storage_path": "484_she_wont_spend_too_much_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100484",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "485_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100485",
+    "text_pt": "Ele estará à venda na semana que vem.",
+    "text_en": "It goes on sale next week.",
+    "audio_en_storage_path": "486_it_goes_on_sale_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100486",
+    "text_pt": "Estará à venda na semana que vem.",
+    "text_en": "It’s goin’ on sale next week.",
+    "audio_en_storage_path": "487_its_goin_on_sale_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100487",
+    "text_pt": "Ela não vai gastar muito hoje.",
+    "text_en": "She won’t spend too much today.",
+    "audio_en_storage_path": "488_she_wont_spend_too_much_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100488",
+    "text_pt": "Ela não vai gastar hoje.",
+    "text_en": "She ain't splurgin’ today.",
+    "audio_en_storage_path": "489_she_aint_splurgin_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100489",
+    "text_pt": "Às vezes ele compra roupas online.",
+    "text_en": "He buys clothes online sometimes.",
+    "audio_en_storage_path": "490_he_buys_clothes_online_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100490",
+    "text_pt": "Às vezes ele faz compras online.",
+    "text_en": "He shops online sometimes.",
+    "audio_en_storage_path": "491_he_shops_online_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100491",
+    "text_pt": "Conjunto de frases – Pedindo ajuda",
+    "text_en": "Sentence Set – Asking for Help",
+    "audio_en_storage_path": "492_sentence_set_asking_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100492",
+    "text_pt": "Com licença, você pode me ajudar?",
+    "text_en": "Excuse me, can you help me?",
+    "audio_en_storage_path": "493_excuse_me.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100493",
+    "text_pt": "Claro, o que você está procurando?",
+    "text_en": "Sure, what are you looking for?",
+    "audio_en_storage_path": "494_sure.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100494",
+    "text_pt": "Preciso de ajuda para encontrar meu tamanho.",
+    "text_en": "I need help finding my size.",
+    "audio_en_storage_path": "495_i_need_help_finding_my_size.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100495",
+    "text_pt": "Há uma placa indicando os provadores.",
+    "text_en": "There is a sign pointing to the fitting rooms.",
+    "audio_en_storage_path": "496_there_is_a_sign_pointing_to_the_fitting_rooms.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100496",
+    "text_pt": "Você tem isso em médio?",
+    "text_en": "Do you have this in medium?",
+    "audio_en_storage_path": "497_do_you_have_this_in_medium.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100497",
+    "text_pt": "Deixe-me verificar os fundos para você.",
+    "text_en": "Let me check the backroom for you.",
+    "audio_en_storage_path": "498_let_me_check_the_backroom_for_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100498",
+    "text_pt": "Desculpe, somente o tamanho grande está disponível.",
+    "text_en": "Sorry, only large is available.",
+    "audio_en_storage_path": "499_sorry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100499",
+    "text_pt": "Onde a política de devolução é publicada?",
+    "text_en": "Where is the return policy posted?",
+    "audio_en_storage_path": "500_where_is_the_return_policy_posted.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100500",
+    "text_pt": "Você pode ler no caixa.",
+    "text_en": "You can read it by the register.",
+    "audio_en_storage_path": "501_you_can_read_it_by_the_register.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100501",
+    "text_pt": "Quando termina a venda?",
+    "text_en": "When does the sale end?",
+    "audio_en_storage_path": "502_when_does_the_sale_end.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100502",
+    "text_pt": "A venda termina amanhã à noite.",
+    "text_en": "The sale ends tomorrow evening.",
+    "audio_en_storage_path": "503_the_sale_ends_tomorrow_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100503",
+    "text_pt": "Por que você prefere essa marca?",
+    "text_en": "Why do you prefer this brand?",
+    "audio_en_storage_path": "504_why_do_you_prefer_this_brand.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100504",
+    "text_pt": "É acessível e dura muito.",
+    "text_en": "It’s affordable and lasts long.",
+    "audio_en_storage_path": "505_its_affordable_and_lasts_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100505",
+    "text_pt": "Ele pede ajuda ao balconista.",
+    "text_en": "He asks the clerk for help.",
+    "audio_en_storage_path": "506_he_asks_the_clerk_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100506",
+    "text_pt": "Ela não retornará sem um recibo.",
+    "text_en": "She won’t return without a receipt.",
+    "audio_en_storage_path": "507_she_wont_return_without_a_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100507",
+    "text_pt": "Versão informal:",
+    "text_en": "Informal version:",
+    "audio_en_storage_path": "508_informal_version.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100508",
+    "text_pt": "A venda termina amanhã à noite.",
+    "text_en": "The sale ends tomorrow evening.",
+    "audio_en_storage_path": "509_the_sale_ends_tomorrow_evening.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100509",
+    "text_pt": "A venda termina amanhã à noite.",
+    "text_en": "Sale ends tomorrow night.",
+    "audio_en_storage_path": "510_sale_ends_tomorrow_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100510",
+    "text_pt": "Ela não retornará sem um recibo.",
+    "text_en": "She won’t return without a receipt.",
+    "audio_en_storage_path": "511_she_wont_return_without_a_receipt.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100511",
+    "text_pt": "Ela não vai devolver de jeito nenhum.",
+    "text_en": "She ain't returnin’ it no way.",
+    "audio_en_storage_path": "512_she_aint_returnin_it_no_way.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100512",
+    "text_pt": "Ele pede ajuda ao balconista.",
+    "text_en": "He asks the clerk for help.",
+    "audio_en_storage_path": "513_he_asks_the_clerk_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100513",
+    "text_pt": "Ele pede ajuda ao balconista.",
+    "text_en": "He hits up the clerk for help.",
+    "audio_en_storage_path": "514_he_hits_up_the_clerk_for_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase100514",
+    "text_pt": "Café / Restaurante",
+    "text_en": "Café / Restaurant",
+    "audio_en_storage_path": "515_cafe_restaurant.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

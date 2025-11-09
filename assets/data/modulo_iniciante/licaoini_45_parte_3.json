@@ -1,0 +1,236 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102676",
+    "text_pt": "Ressaca",
+    "text_en": "Hangover",
+    "audio_en_storage_path": "1776_hangover.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102677",
+    "text_pt": "Ela está de ressaca esta manhã.",
+    "text_en": "She has a hangover this morning.",
+    "audio_en_storage_path": "1777_she_has_a_hangover_this_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102678",
+    "text_pt": "Dor de cabeça. náusea e olhos cansados.",
+    "text_en": "Headache. nausea. and tired eyes.",
+    "audio_en_storage_path": "1778_headache_nausea_and_tired_eyes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102679",
+    "text_pt": "Ela bebe água e come torradas.",
+    "text_en": "She drinks water and eats toast.",
+    "audio_en_storage_path": "1779_she_drinks_water_and_eats_toast.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102680",
+    "text_pt": "Às vezes ela também toma analgésicos.",
+    "text_en": "Sometimes she takes painkillers too.",
+    "audio_en_storage_path": "1780_sometimes_she_takes_painkillers_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102681",
+    "text_pt": "Seu rosto parece pálido e cansado.",
+    "text_en": "Her face looks pale and tired.",
+    "audio_en_storage_path": "1781_her_face_looks_pale_and_tired.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102682",
+    "text_pt": "O cabelo está bagunçado. os olhos estão fechados.",
+    "text_en": "Hair is messy. eyes are closed.",
+    "audio_en_storage_path": "1782_hair_is_messy_eyes_are_closed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102683",
+    "text_pt": "Há garrafas vazias. óculos escuros e lenços de papel por perto.",
+    "text_en": "There are empty bottles. sunglasses. and tissues nearby.",
+    "audio_en_storage_path": "1783_there_are_empty_bottles_sunglasses_and_tissues_nearby.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102685",
+    "text_pt": "Como você se sente hoje?",
+    "text_en": "How do you feel today?",
+    "audio_en_storage_path": "1785_how_do_you_feel_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102686",
+    "text_pt": "Como se eu tivesse bebido demais ontem à noite.",
+    "text_en": "Like I drank too much last night.",
+    "audio_en_storage_path": "1786_like_i_drank_too_much_last_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102687",
+    "text_pt": "Onde você guarda seus remédios?",
+    "text_en": "Where do you keep your medicine?",
+    "audio_en_storage_path": "1787_where_do_you_keep_your_medicine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102688",
+    "text_pt": "Na cozinha — ao lado do café.",
+    "text_en": "In the kitchen — next to coffee.",
+    "audio_en_storage_path": "1788_in_the_kitchen_next_to_coffee.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102689",
+    "text_pt": "Às vezes ela culpa a tequila.",
+    "text_en": "Sometimes she blames tequila.",
+    "audio_en_storage_path": "1789_sometimes_she_blames_tequila.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102690",
+    "text_pt": "Outras vezes ela culpa os amigos.",
+    "text_en": "Other times she blames friends.",
+    "audio_en_storage_path": "1790_other_times_she_blames_friends.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102691",
+    "text_pt": "Onde você deixou seu telefone?",
+    "text_en": "Where did you leave your phone?",
+    "audio_en_storage_path": "1791_where_did_you_leave_your_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102692",
+    "text_pt": "No sofá — provavelmente sob as roupas.",
+    "text_en": "On the couch — probably under clothes.",
+    "audio_en_storage_path": "1792_on_the_couch_probably_under_clothes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102693",
+    "text_pt": "Quando você vai se recuperar da festa?",
+    "text_en": "When will you recover from the party?",
+    "audio_en_storage_path": "1793_when_will_you_recover_from_the_party.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102694",
+    "text_pt": "Em algumas horas — depois do café da manhã e do cochilo.",
+    "text_en": "In a few hours — after breakfast and nap.",
+    "audio_en_storage_path": "1794_in_a_few_hours_after_breakfast_and_nap.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102695",
+    "text_pt": "Por que você acordou tarde hoje?",
+    "text_en": "Why did you wake up late today?",
+    "audio_en_storage_path": "1795_why_did_you_wake_up_late_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102696",
+    "text_pt": "Porque fiquei acordado até as 3 da manhã comemorando.",
+    "text_en": "Because I stayed up until 3 AM celebrating.",
+    "audio_en_storage_path": "1796_because_i_stayed_up_until_3_am_celebrating.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102697",
+    "text_pt": "Ele nunca bebe durante a semana.",
+    "text_en": "He never drinks on weekdays.",
+    "audio_en_storage_path": "1797_he_never_drinks_on_weekdays.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102698",
+    "text_pt": "Guarda apenas para fins de semana.",
+    "text_en": "Saves it for weekends only.",
+    "audio_en_storage_path": "1798_saves_it_for_weekends_only.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102699",
+    "text_pt": "Amanhã não beberei tão rápido novamente.",
+    "text_en": "Tomorrow. I will not drink so fast again.",
+    "audio_en_storage_path": "1799_tomorrow_i_will_not_drink_so_fast_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102700",
+    "text_pt": "Não comi o suficiente antes de beber.",
+    "text_en": "Didn't eat enough before drinking.",
+    "audio_en_storage_path": "1800_didnt_eat_enough_before_drinking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102701",
+    "text_pt": "Beba com inteligência!",
+    "text_en": "Drink smart!",
+    "audio_en_storage_path": "1801_drink_smart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase102702",
+    "text_pt": "Coma lanches e beba água entre as bebidas.",
+    "text_en": "Have snacks and water between drinks.",
+    "audio_en_storage_path": "1802_have_snacks_and_water_between_drinks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121385",
+    "text_pt": "Título do Grupo – Trabalho e Rotina Diária",
+    "text_en": "Group Title – Work and Daily Routine",
+    "audio_en_storage_path": "1385_group_title_work_and_daily_routine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121386",
+    "text_pt": "As pessoas trabalham para ganhar dinheiro e sustentar suas famílias",
+    "text_en": "People work to earn money and support their families",
+    "audio_en_storage_path": "1386_people_work_to_earn_money_and_support_their_families.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121387",
+    "text_pt": "As pessoas vão trabalhar para ganhar dinheiro e ajudar sua equipe",
+    "text_en": "Folks go to work to make cash and help their crew",
+    "audio_en_storage_path": "1387_folks_go_to_work_to_make_cash_and_help_their_crew.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121388",
+    "text_pt": "Eu começo meu trabalho às nove todas as manhãs",
+    "text_en": "I start my job at nine every morning",
+    "audio_en_storage_path": "1388_i_start_my_job_at_nine_every_morning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121389",
+    "text_pt": "Eu chego pontualmente às nove todas as manhãs",
+    "text_en": "I clock in at nine sharp every mornin’",
+    "audio_en_storage_path": "1389_i_clock_in_at_nine_sharp_every_mornin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121390",
+    "text_pt": "Há mesas, cadeiras, computadores e telefones ao redor",
+    "text_en": "There are desks. chairs. computers. and phones around",
+    "audio_en_storage_path": "1390_there_are_desks_chairs_computers_and_phones_around.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121391",
+    "text_pt": "Tem mesas, assentos, telas e telefones por todo lugar",
+    "text_en": "Got tables. seats. screens. and phones all over the place",
+    "audio_en_storage_path": "1391_got_tables_seats_screens_and_phones_all_over_the_place.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121392",
+    "text_pt": "Alguns trabalhadores usam laptops enquanto outros usam monitores grandes",
+    "text_en": "Some workers use laptops while others use big monitors",
+    "audio_en_storage_path": "1392_some_workers_use_laptops_while_others_use_big_monitors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121393",
+    "text_pt": "Algumas pessoas em laptops, outras em telas enormes",
+    "text_en": "Some folks on laptops. others on those huge screens",
+    "audio_en_storage_path": "1393_some_folks_on_laptops_others_on_those_huge_screens.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121394",
+    "text_pt": "Você gosta do seu trabalho ou está procurando algo novo?",
+    "text_en": "Do you enjoy your job or are you looking for something new?",
+    "audio_en_storage_path": "1394_do_you_enjoy_your_job_or_are_you_looking_for_something_new.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121395",
+    "text_pt": "Você gosta do que faz ou está procurando outra coisa?",
+    "text_en": "You like what you do or lookin’ for somethin’ else?",
+    "audio_en_storage_path": "1395_you_like_what_you_do_or_lookin_for_somethin_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121396",
+    "text_pt": "Estou aprendendo coisas novas e melhorando a cada dia",
+    "text_en": "I’m learning new things and getting better every day",
+    "audio_en_storage_path": "1396_im_learning_new_things_and_getting_better_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121397",
+    "text_pt": "Aprendendo coisas novas e melhorando durante o dia",
+    "text_en": "Pickin’ up new stuff and gettin’ better by the day",
+    "audio_en_storage_path": "1397_pickin_up_new_stuff_and_gettin_better_by_the_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121398",
+    "text_pt": "Algumas pessoas trabalham em casa. Outras vão para um escritório.",
+    "text_en": "Some people work from home. others go to an office",
+    "audio_en_storage_path": "1398_some_people_work_from_home_others_go_to_an_office.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121399",
+    "text_pt": "Alguns trabalham na cama. Outros precisam ir até uma mesa.",
+    "text_en": "Some work from bed. others gotta commute to a desk",
+    "audio_en_storage_path": "1399_some_work_from_bed_others_gotta_commute_to_a_desk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121400",
+    "text_pt": "Onde fica seu local de trabalho?",
+    "text_en": "Where is your workplace located?",
+    "audio_en_storage_path": "1400_where_is_your_workplace_located.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121401",
+    "text_pt": "Onde fica seu trabalho — no centro da cidade ou em outro lugar?",
+    "text_en": "Where’s your job based — downtown or somewhere else?",
+    "audio_en_storage_path": "1401_wheres_your_job_based_downtown_or_somewhere_else.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121402",
+    "text_pt": "Quando você terminará seu projeto?",
+    "text_en": "When will you finish your project?",
+    "audio_en_storage_path": "1402_when_will_you_finish_your_project.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121403",
+    "text_pt": "Quando você acha que isso vai ficar pronto?",
+    "text_en": "When ya think that thing’ll be done?",
+    "audio_en_storage_path": "1403_when_ya_think_that_thingll_be_done.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121404",
+    "text_pt": "Por que você escolheu essa carreira?",
+    "text_en": "Why did you choose this career path?",
+    "audio_en_storage_path": "1404_why_did_you_choose_this_career_path.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121405",
+    "text_pt": "O que fez você escolher essa linha de trabalho?",
+    "text_en": "What made you pick this line of work?",
+    "audio_en_storage_path": "1405_what_made_you_pick_this_line_of_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121406",
+    "text_pt": "Sinto-me cansado depois de um longo dia de trabalho",
+    "text_en": "I feel tired after a long day at work",
+    "audio_en_storage_path": "1406_i_feel_tired_after_a_long_day_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121407",
+    "text_pt": "Dia longo de trabalho e já estou exausto",
+    "text_en": "Long day at work and I’m beat already",
+    "audio_en_storage_path": "1407_long_day_at_work_and_im_beat_already.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121408",
+    "text_pt": "Não vou tirar folga na semana que vem",
+    "text_en": "I won’t take any days off next week",
+    "audio_en_storage_path": "1408_i_wont_take_any_days_off_next_week.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121409",
+    "text_pt": "Não vou tirar folga na semana que vem — vou ficar ocupado",
+    "text_en": "Not takin’ time off next week — gonna stay busy",
+    "audio_en_storage_path": "1409_not_takin_time_off_next_week_gonna_stay_busy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121410",
+    "text_pt": "Obrigado por fazer o seu melhor todos os dias",
+    "text_en": "Thanks for doing your best every day",
+    "audio_en_storage_path": "1410_thanks_for_doing_your_best_every_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121411",
+    "text_pt": "Agradeço por você ter aparecido e dado tudo de si",
+    "text_en": "Appreciate you showin’ up and giving it your all",
+    "audio_en_storage_path": "1411_appreciate_you_showin_up_and_giving_it_your_all.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121412",
+    "text_pt": "Tenha um ótimo dia de trabalho",
+    "text_en": "Have a great day at work",
+    "audio_en_storage_path": "1412_have_a_great_day_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121413",
+    "text_pt": "Espero que seu dia corra bem no trabalho",
+    "text_en": "Hope your day goes smooth at work",
+    "audio_en_storage_path": "1413_hope_your_day_goes_smooth_at_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121414",
+    "text_pt": "Boa sorte com suas tarefas hoje",
+    "text_en": "Good luck with your tasks today",
+    "audio_en_storage_path": "1414_good_luck_with_your_tasks_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121415",
+    "text_pt": "Acabe com eles com o que quer que você esteja fazendo",
+    "text_en": "Knock ‘em dead with whatever you’re workin’ on",
+    "audio_en_storage_path": "1415_knock_em_dead_with_whatever_youre_workin_on.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

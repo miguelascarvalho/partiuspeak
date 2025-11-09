@@ -1,0 +1,272 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120456",
+    "text_pt": "Trabalhando com serviços de remessa e entrega",
+    "text_en": "Working with Shipping Services and Delivery",
+    "audio_en_storage_path": "456_working_with_shipping_services_and_delivery.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120457",
+    "text_pt": "Oferecemos opções de entrega no mesmo dia e no dia seguinte",
+    "text_en": "We offer same-day and next-day delivery options",
+    "audio_en_storage_path": "457_we_offer_sameday_and_nextday_delivery_options.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120458",
+    "text_pt": "Temos entregas no mesmo dia e no dia seguinte prontas para serem enviadas",
+    "text_en": "We got same-day and next-day shipping ready to go",
+    "audio_en_storage_path": "458_we_got_sameday_and_nextday_shipping_ready_to_go.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120459",
+    "text_pt": "Nossos motoristas entregam pacotes de segunda a sábado",
+    "text_en": "Our drivers deliver packages Monday through Saturday",
+    "audio_en_storage_path": "459_our_drivers_deliver_packages_monday_through_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120460",
+    "text_pt": "Nossa equipe entrega caixas de segunda a sábado",
+    "text_en": "Our crew drops boxes from Monday to Saturday",
+    "audio_en_storage_path": "460_our_crew_drops_boxes_from_monday_to_saturday.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120461",
+    "text_pt": "Você pode escolher entre entrega em domicílio ou pontos de retirada",
+    "text_en": "You can choose between home delivery or pickup points",
+    "audio_en_storage_path": "461_you_can_choose_between_home_delivery_or_pickup_points.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120462",
+    "text_pt": "Escolha entre deixar para entregar ou retirar você mesmo",
+    "text_en": "Choose between having it dropped off or pick it up yourself",
+    "audio_en_storage_path": "462_choose_between_having_it_dropped_off_or_pick_it_up_yourself.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120463",
+    "text_pt": "Todos os pacotes são escaneados e rastreados automaticamente",
+    "text_en": "All packages are scanned and tracked automatically",
+    "audio_en_storage_path": "463_all_packages_are_scanned_and_tracked_automatically.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120464",
+    "text_pt": "Cada caixa é escaneada e acompanhada do início ao fim",
+    "text_en": "Every box gets scanned and followed from start to finish",
+    "audio_en_storage_path": "464_every_box_gets_scanned_and_followed_from_start_to_finish.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120465",
+    "text_pt": "Garantimos a entrega dentro do prazo estimado",
+    "text_en": "We guarantee delivery within the estimated time",
+    "audio_en_storage_path": "465_we_guarantee_delivery_within_the_estimated_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120466",
+    "text_pt": "Prometemos que chegará quando dissermos que chegará",
+    "text_en": "We promise it’ll arrive when we say it will",
+    "audio_en_storage_path": "466_we_promise_itll_arrive_when_we_say_it_will.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120467",
+    "text_pt": "Se não tiver ninguém em casa, podemos deixar com um vizinho.",
+    "text_en": "If no one is home. we can leave it with a neighbor",
+    "audio_en_storage_path": "467_if_no_one_is_home_we_can_leave_it_with_a_neighbor.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120468",
+    "text_pt": "Se não tiver ninguém por perto, deixaremos com alguém próximo.",
+    "text_en": "If nobody’s around. we’ll leave it with someone close",
+    "audio_en_storage_path": "468_if_nobodys_around_well_leave_it_with_someone_close.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120469",
+    "text_pt": "Às vezes, atrasos acontecem devido ao clima ou ao trânsito",
+    "text_en": "Sometimes delays happen due to weather or traffic",
+    "audio_en_storage_path": "469_sometimes_delays_happen_due_to_weather_or_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120470",
+    "text_pt": "Às vezes as coisas atrasam por causa de tempestades ou estradas pesadas",
+    "text_en": "Sometimes things run late ‘cause of storms or heavy roads",
+    "audio_en_storage_path": "470_sometimes_things_run_late_cause_of_storms_or_heavy_roads.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120471",
+    "text_pt": "Você pode alterar o endereço de entrega antes do envio",
+    "text_en": "You can change the delivery address before it ships",
+    "audio_en_storage_path": "471_you_can_change_the_delivery_address_before_it_ships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120472",
+    "text_pt": "Mude para onde está indo, desde que ainda não tenha partido",
+    "text_en": "Change where it’s going as long as it hasn’t left yet",
+    "audio_en_storage_path": "472_change_where_its_going_as_long_as_it_hasnt_left_yet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120473",
+    "text_pt": "Também oferecemos serviços de transporte internacional",
+    "text_en": "We also provide international shipping services",
+    "audio_en_storage_path": "473_we_also_provide_international_shipping_services.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120474",
+    "text_pt": "Também enviamos para todo o mundo — não apenas para entregas locais",
+    "text_en": "We ship worldwide too — not just local",
+    "audio_en_storage_path": "474_we_ship_worldwide_too_not_just_local.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120475",
+    "text_pt": "Se você é um cliente regular, você ganha benefícios especiais",
+    "text_en": "If you’re a regular customer. you get special benefits",
+    "audio_en_storage_path": "475_if_youre_a_regular_customer_you_get_special_benefits.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120476",
+    "text_pt": "Se você compra conosco com frequência, você ganha vantagens legais",
+    "text_en": "If you shop with us often. you get cool perks",
+    "audio_en_storage_path": "476_if_you_shop_with_us_often_you_get_cool_perks.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120477",
+    "text_pt": "Basta nos avisar se precisar de ajuda com alguma coisa",
+    "text_en": "Just let us know if you need help with anything",
+    "audio_en_storage_path": "477_just_let_us_know_if_you_need_help_with_anything.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120478",
+    "text_pt": "Não hesite em entrar em contato se precisar de ajuda",
+    "text_en": "Don’t hesitate to reach out if you need help",
+    "audio_en_storage_path": "478_dont_hesitate_to_reach_out_if_you_need_help.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120479",
+    "text_pt": "Sua satisfação é nossa maior prioridade",
+    "text_en": "Your satisfaction is our top priority",
+    "audio_en_storage_path": "479_your_satisfaction_is_our_top_priority.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120480",
+    "text_pt": "Sua felicidade é o que mais importa para nós",
+    "text_en": "Your happiness means the most to us",
+    "audio_en_storage_path": "480_your_happiness_means_the_most_to_us.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120481",
+    "text_pt": "Obrigado por confiar em nosso serviço de entrega",
+    "text_en": "Thank you for trusting our delivery service",
+    "audio_en_storage_path": "481_thank_you_for_trusting_our_delivery_service.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120482",
+    "text_pt": "Obrigado por contar conosco para fazer isso direito",
+    "text_en": "Thanks for counting on us to get it done right",
+    "audio_en_storage_path": "482_thanks_for_counting_on_us_to_get_it_done_right.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120483",
+    "text_pt": "Tome cuidado e tenha um ótimo dia",
+    "text_en": "Take care and have a great day",
+    "audio_en_storage_path": "483_take_care_and_have_a_great_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120484",
+    "text_pt": "Fique seguro e aproveite o seu dia",
+    "text_en": "Stay safe and enjoy your day",
+    "audio_en_storage_path": "484_stay_safe_and_enjoy_your_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase120485",
+    "text_pt": "Adeus e até breve",
+    "text_en": "Goodbye and see you soon",
+    "audio_en_storage_path": "485_goodbye_and_see_you_soon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

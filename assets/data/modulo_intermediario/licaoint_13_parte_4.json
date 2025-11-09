@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112078",
+    "text_pt": "Leite",
+    "text_en": "Milk",
+    "audio_en_storage_path": "2078_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112079",
+    "text_pt": "O leite está na geladeira.",
+    "text_en": "The milk is in the fridge.",
+    "audio_en_storage_path": "2079_the_milk_is_in_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112080",
+    "text_pt": "É frio e branco — perfeito para cereais.",
+    "text_en": "It’s cold and white — perfect for cereal.",
+    "audio_en_storage_path": "2080_its_cold_and_white_perfect_for_cereal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112081",
+    "text_pt": "Eu bebo leite depois das refeições ou antes de dormir.",
+    "text_en": "I drink milk after meals or before bedtime.",
+    "audio_en_storage_path": "2081_i_drink_milk_after_meals_or_before_bedtime.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112082",
+    "text_pt": "Ajuda-me a desenvolver ossos fortes.",
+    "text_en": "It helps me grow strong bones.",
+    "audio_en_storage_path": "2082_it_helps_me_grow_strong_bones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112083",
+    "text_pt": "A caixa é azul e tem a imagem de uma vaca.",
+    "text_en": "The carton is blue and has a picture of a cow.",
+    "audio_en_storage_path": "2083_the_carton_is_blue_and_has_a_picture_of_a_cow.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112084",
+    "text_pt": "Está meio cheio — já bebi um pouco.",
+    "text_en": "It’s half full — I drank some already.",
+    "audio_en_storage_path": "2084_its_half_full_i_drank_some_already.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112085",
+    "text_pt": "Coloco num copo e bebo devagar.",
+    "text_en": "I pour it into a glass and drink it slowly.",
+    "audio_en_storage_path": "2085_i_pour_it_into_a_glass_and_drink_it_slowly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112086",
+    "text_pt": "Às vezes adiciono chocolate em pó.",
+    "text_en": "Sometimes I add chocolate powder.",
+    "audio_en_storage_path": "2086_sometimes_i_add_chocolate_powder.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112087",
+    "text_pt": "Você prefere leite de vaca ou leite vegetal?",
+    "text_en": "Do you prefer cow’s milk or plant-based milk?",
+    "audio_en_storage_path": "2087_do_you_prefer_cows_milk_or_plantbased_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112088",
+    "text_pt": "Gosto de leite de amêndoa — é suave e com sabor de nozes.",
+    "text_en": "I like almond milk — it’s smooth and nutty.",
+    "audio_en_storage_path": "2088_i_like_almond_milk_its_smooth_and_nutty.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112089",
+    "text_pt": "Onde você guarda seu leite?",
+    "text_en": "Where do you keep your milk?",
+    "audio_en_storage_path": "2089_where_do_you_keep_your_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112090",
+    "text_pt": "Na geladeira — na prateleira da porta.",
+    "text_en": "In the fridge — on the door shelf.",
+    "audio_en_storage_path": "2090_in_the_fridge_on_the_door_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112091",
+    "text_pt": "Às vezes bebo frio. às vezes morno.",
+    "text_en": "Sometimes I drink it cold. sometimes warm.",
+    "audio_en_storage_path": "2091_sometimes_i_drink_it_cold_sometimes_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112092",
+    "text_pt": "Leite morno me ajuda a dormir melhor.",
+    "text_en": "Warm milk helps me sleep better.",
+    "audio_en_storage_path": "2092_warm_milk_helps_me_sleep_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112093",
+    "text_pt": "Onde você deixou a caixa de leite?",
+    "text_en": "Where did you leave the milk carton?",
+    "audio_en_storage_path": "2093_where_did_you_leave_the_milk_carton.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112094",
+    "text_pt": "Em cima da mesa — perto da caixa de cereal.",
+    "text_en": "On the table — near the cereal box.",
+    "audio_en_storage_path": "2094_on_the_table_near_the_cereal_box.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112095",
+    "text_pt": "Quando você costuma beber leite?",
+    "text_en": "When do you usually drink milk?",
+    "audio_en_storage_path": "2095_when_do_you_usually_drink_milk.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112096",
+    "text_pt": "De manhã ou antes de dormir.",
+    "text_en": "In the morning or before going to bed.",
+    "audio_en_storage_path": "2096_in_the_morning_or_before_going_to_bed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112097",
+    "text_pt": "Por que você escolheu leite hoje?",
+    "text_en": "Why did you choose milk today?",
+    "audio_en_storage_path": "2097_why_did_you_choose_milk_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112098",
+    "text_pt": "Porque eu queria algo saudável e satisfatório.",
+    "text_en": "Because I wanted something healthy and filling.",
+    "audio_en_storage_path": "2098_because_i_wanted_something_healthy_and_filling.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112099",
+    "text_pt": "Eu sempre bebo leite com biscoitos.",
+    "text_en": "I always drink milk with cookies.",
+    "audio_en_storage_path": "2099_i_always_drink_milk_with_cookies.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112100",
+    "text_pt": "É minha combinação de lanche favorita.",
+    "text_en": "It’s my favorite snack combo.",
+    "audio_en_storage_path": "2100_its_my_favorite_snack_combo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112101",
+    "text_pt": "Amanhã. Não vou deixar o leite fora de novo.",
+    "text_en": "Tomorrow. I will not leave the milk out again.",
+    "audio_en_storage_path": "2101_tomorrow_i_will_not_leave_the_milk_out_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112102",
+    "text_pt": "Pode estragar se esquentar muito.",
+    "text_en": "It might spoil if it gets too warm.",
+    "audio_en_storage_path": "2102_it_might_spoil_if_it_gets_too_warm.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112103",
+    "text_pt": "Saúde!",
+    "text_en": "Cheers!",
+    "audio_en_storage_path": "2103_cheers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112104",
+    "text_pt": "O leite torna tudo melhor.",
+    "text_en": "Milk makes everything better.",
+    "audio_en_storage_path": "2104_milk_makes_everything_better.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

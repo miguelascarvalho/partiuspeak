@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110944",
+    "text_pt": "Táxi / Uber",
+    "text_en": "Taxi / Uber",
+    "audio_en_storage_path": "944_taxi_uber.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110945",
+    "text_pt": "O táxi está na porta da minha casa agora.",
+    "text_en": "The taxi is outside my house now.",
+    "audio_en_storage_path": "945_the_taxi_is_outside_my_house_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110946",
+    "text_pt": "O motorista acabou de enviar uma mensagem dizendo que está aqui.",
+    "text_en": "The driver just sent a message saying he's here.",
+    "audio_en_storage_path": "946_the_driver_just_sent_a_message_saying_hes_here.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110947",
+    "text_pt": "Eu o uso quando estou cansado ou com pressa.",
+    "text_en": "I use it when I'm tired or in a hurry.",
+    "audio_en_storage_path": "947_i_use_it_when_im_tired_or_in_a_hurry.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110948",
+    "text_pt": "Ou quando preciso carregar coisas pesadas.",
+    "text_en": "Or when I need to carry heavy things.",
+    "audio_en_storage_path": "948_or_when_i_need_to_carry_heavy_things.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110949",
+    "text_pt": "É preto com luzes brancas e janelas limpas.",
+    "text_en": "It is black with white lights and clean windows.",
+    "audio_en_storage_path": "949_it_is_black_with_white_lights_and_clean_windows.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110950",
+    "text_pt": "O carro cheira a purificador de ar.",
+    "text_en": "The car smells like air freshener.",
+    "audio_en_storage_path": "950_the_car_smells_like_air_freshener.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110951",
+    "text_pt": "Há garrafas de água, lenços de papel e carregadores de telefone.",
+    "text_en": "There are water bottles. tissues. and phone chargers.",
+    "audio_en_storage_path": "951_there_are_water_bottles_tissues_and_phone_chargers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110952",
+    "text_pt": "E uma pequena placa com o nome do motorista.",
+    "text_en": "And a small sign with the driver’s name.",
+    "audio_en_storage_path": "952_and_a_small_sign_with_the_drivers_name.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110953",
+    "text_pt": "Quanto custa o Uber?",
+    "text_en": "How much does Uber cost?",
+    "audio_en_storage_path": "953_how_much_does_uber_cost.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110954",
+    "text_pt": "Cerca de US$ 15 até a estação.",
+    "text_en": "Around $15 to the station.",
+    "audio_en_storage_path": "954_around_15_to_the_station.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110955",
+    "text_pt": "O preço muda dependendo do tráfego.",
+    "text_en": "The price changes depending on traffic.",
+    "audio_en_storage_path": "955_the_price_changes_depending_on_traffic.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110956",
+    "text_pt": "Durante os horários de pico, custa mais.",
+    "text_en": "During busy hours. it costs more.",
+    "audio_en_storage_path": "956_during_busy_hours_it_costs_more.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110957",
+    "text_pt": "Alguns motoristas falam muito. Outros são quietos.",
+    "text_en": "Some drivers talk a lot. others are quiet.",
+    "audio_en_storage_path": "957_some_drivers_talk_a_lot_others_are_quiet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110958",
+    "text_pt": "Mas todos eles são gentis e profissionais.",
+    "text_en": "But all of them are kind and professional.",
+    "audio_en_storage_path": "958_but_all_of_them_are_kind_and_professional.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110959",
+    "text_pt": "Onde você pode encontrar um táxi facilmente?",
+    "text_en": "Where can you find a taxi easily?",
+    "audio_en_storage_path": "959_where_can_you_find_a_taxi_easily.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110960",
+    "text_pt": "Perto de hotéis, aeroportos e ruas grandes.",
+    "text_en": "Near hotels. airports. and big streets.",
+    "audio_en_storage_path": "960_near_hotels_airports_and_big_streets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110961",
+    "text_pt": "Quando você vai chamar um Uber novamente?",
+    "text_en": "When will you call an Uber again?",
+    "audio_en_storage_path": "961_when_will_you_call_an_uber_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110962",
+    "text_pt": "Talvez hoje à noite depois do jantar.",
+    "text_en": "Maybe tonight after dinner.",
+    "audio_en_storage_path": "962_maybe_tonight_after_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110963",
+    "text_pt": "Por que você deu gorjeta ao motorista?",
+    "text_en": "Why did you tip the driver?",
+    "audio_en_storage_path": "963_why_did_you_tip_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110964",
+    "text_pt": "Porque ele me ajudou com minhas malas.",
+    "text_en": "Because he helped me with my bags.",
+    "audio_en_storage_path": "964_because_he_helped_me_with_my_bags.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110965",
+    "text_pt": "Ela usa o Uber quando viaja sozinha.",
+    "text_en": "She uses Uber when she travels alone.",
+    "audio_en_storage_path": "965_she_uses_uber_when_she_travels_alone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110966",
+    "text_pt": "Isso faz com que ela se sinta segura.",
+    "text_en": "It makes her feel safe.",
+    "audio_en_storage_path": "966_it_makes_her_feel_safe.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110967",
+    "text_pt": "Na próxima semana, eles não esquecerão de avaliar o motorista.",
+    "text_en": "Next week. they will not forget to rate the driver.",
+    "audio_en_storage_path": "967_next_week_they_will_not_forget_to_rate_the_driver.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110968",
+    "text_pt": "Eles deixarão uma boa avaliação se tudo correr bem.",
+    "text_en": "They’ll leave a good review if everything went well.",
+    "audio_en_storage_path": "968_theyll_leave_a_good_review_if_everything_went_well.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110969",
+    "text_pt": "Obrigado pela carona!",
+    "text_en": "Thank you for the ride!",
+    "audio_en_storage_path": "969_thank_you_for_the_ride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase110970",
+    "text_pt": "Espero que você tenha um ótimo dia pela frente!",
+    "text_en": "Hope you have a great day ahead!",
+    "audio_en_storage_path": "970_hope_you_have_a_great_day_ahead.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

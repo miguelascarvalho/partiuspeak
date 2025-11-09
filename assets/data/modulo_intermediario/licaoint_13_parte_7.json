@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112159",
+    "text_pt": "Frigorífico",
+    "text_en": "Refrigerator",
+    "audio_en_storage_path": "2159_refrigerator.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112160",
+    "text_pt": "A geladeira fica perto do balcão.",
+    "text_en": "The fridge is near the counter.",
+    "audio_en_storage_path": "2160_the_fridge_is_near_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112161",
+    "text_pt": "Mantém os alimentos frios e frescos.",
+    "text_en": "It keeps food cold and fresh.",
+    "audio_en_storage_path": "2161_it_keeps_food_cold_and_fresh.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112162",
+    "text_pt": "Eu o uso para armazenar leite, suco, frutas e sobras.",
+    "text_en": "I use it to store milk. juice. fruits. and leftovers.",
+    "audio_en_storage_path": "2162_i_use_it_to_store_milk_juice_fruits_and_leftovers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112163",
+    "text_pt": "Ele também congela cubos de gelo e carne.",
+    "text_en": "It also freezes ice cubes and meat.",
+    "audio_en_storage_path": "2163_it_also_freezes_ice_cubes_and_meat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112164",
+    "text_pt": "É alto, branco e tem duas portas.",
+    "text_en": "It's tall. white. and has two doors.",
+    "audio_en_storage_path": "2164_its_tall_white_and_has_two_doors.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112165",
+    "text_pt": "Dentro, há prateleiras e gavetas.",
+    "text_en": "Inside. there are shelves and drawers.",
+    "audio_en_storage_path": "2165_inside_there_are_shelves_and_drawers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112166",
+    "text_pt": "Tem ovos, queijo e iogurte dentro.",
+    "text_en": "There are eggs. cheese. and yogurt inside.",
+    "audio_en_storage_path": "2166_there_are_eggs_cheese_and_yogurt_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112167",
+    "text_pt": "E uma garrafa de refrigerante ao lado.",
+    "text_en": "And a bottle of soda on the side.",
+    "audio_en_storage_path": "2167_and_a_bottle_of_soda_on_the_side.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112168",
+    "text_pt": "O que você guarda na geladeira?",
+    "text_en": "What do you keep in the fridge?",
+    "audio_en_storage_path": "2168_what_do_you_keep_in_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112169",
+    "text_pt": "Principalmente bebidas, lanches e vegetais.",
+    "text_en": "Mostly drinks. snacks. and vegetables.",
+    "audio_en_storage_path": "2169_mostly_drinks_snacks_and_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112170",
+    "text_pt": "Onde você coloca as frutas depois das compras?",
+    "text_en": "Where do you put fruit after shopping?",
+    "audio_en_storage_path": "2170_where_do_you_put_fruit_after_shopping.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112171",
+    "text_pt": "Coloque na geladeira e leve à mesa.",
+    "text_en": "Add in the fridge. add it to the table.",
+    "audio_en_storage_path": "2171_add_in_the_fridge_add_it_to_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112172",
+    "text_pt": "Às vezes deixo a porta aberta por muito tempo.",
+    "text_en": "Sometimes I leave the door open too long.",
+    "audio_en_storage_path": "2172_sometimes_i_leave_the_door_open_too_long.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112173",
+    "text_pt": "Outras vezes fecho-o imediatamente.",
+    "text_en": "Other times I close it right away.",
+    "audio_en_storage_path": "2173_other_times_i_close_it_right_away.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112174",
+    "text_pt": "Onde está o leite agora?",
+    "text_en": "Where is the milk now?",
+    "audio_en_storage_path": "2174_where_is_the_milk_now.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112175",
+    "text_pt": "Na geladeira — na segunda prateleira.",
+    "text_en": "In the fridge — on the second shelf.",
+    "audio_en_storage_path": "2175_in_the_fridge_on_the_second_shelf.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112176",
+    "text_pt": "Quando você vai abrir a geladeira novamente?",
+    "text_en": "When will you open the fridge again?",
+    "audio_en_storage_path": "2176_when_will_you_open_the_fridge_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112177",
+    "text_pt": "Depois do almoço — para tomar uma bebida.",
+    "text_en": "After lunch — to get a drink.",
+    "audio_en_storage_path": "2177_after_lunch_to_get_a_drink.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112178",
+    "text_pt": "Por que você limpou a geladeira hoje?",
+    "text_en": "Why did you clean the fridge today?",
+    "audio_en_storage_path": "2178_why_did_you_clean_the_fridge_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112179",
+    "text_pt": "Porque cheirava mal e tinha comida velha.",
+    "text_en": "Because it smelled bad and had old food.",
+    "audio_en_storage_path": "2179_because_it_smelled_bad_and_had_old_food.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112180",
+    "text_pt": "Eu verifico a geladeira muitas vezes ao dia.",
+    "text_en": "I check the fridge many times a day.",
+    "audio_en_storage_path": "2180_i_check_the_fridge_many_times_a_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112181",
+    "text_pt": "Só para ver o que consigo comer.",
+    "text_en": "Just to see what I can eat.",
+    "audio_en_storage_path": "2181_just_to_see_what_i_can_eat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112182",
+    "text_pt": "Amanhã. Não vou mais deixar a porta da geladeira aberta.",
+    "text_en": "Tomorrow. I will not leave the fridge door open again.",
+    "audio_en_storage_path": "2182_tomorrow_i_will_not_leave_the_fridge_door_open_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112183",
+    "text_pt": "Vou lembrar de fechá-lo rapidamente.",
+    "text_en": "I’ll remember to close it quickly.",
+    "audio_en_storage_path": "2183_ill_remember_to_close_it_quickly.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112184",
+    "text_pt": "Mantenha a calma!",
+    "text_en": "Keep it cool!",
+    "audio_en_storage_path": "2184_keep_it_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase112185",
+    "text_pt": "Não desperdice energia — feche a geladeira.",
+    "text_en": "Don’t waste energy — close the fridge.",
+    "audio_en_storage_path": "2185_dont_waste_energy_close_the_fridge.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

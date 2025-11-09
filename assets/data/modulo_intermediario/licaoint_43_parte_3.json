@@ -1,0 +1,281 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122005",
+    "text_pt": "Curtidas, comentários e seguidores",
+    "text_en": "Likes. Comments. and Followers",
+    "audio_en_storage_path": "2005_likes_comments_and_followers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122006",
+    "text_pt": "Curtidas ajudam a mostrar às pessoas que você gosta das postagens delas",
+    "text_en": "Likes help show people you enjoy their posts",
+    "audio_en_storage_path": "2006_likes_help_show_people_you_enjoy_their_posts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122007",
+    "text_pt": "Bater corações mostra que você gosta do que eles compartilham",
+    "text_en": "Tappin’ hearts shows you like what they share",
+    "audio_en_storage_path": "2007_tappin_hearts_shows_you_like_what_they_share.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122008",
+    "text_pt": "Os comentários permitem que as pessoas falem sobre o que veem",
+    "text_en": "Comments let people talk about what they see",
+    "audio_en_storage_path": "2008_comments_let_people_talk_about_what_they_see.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122009",
+    "text_pt": "Digitar coisas permite que as pessoas conversem sobre a postagem",
+    "text_en": "Typin’ stuff lets folks chat about the post",
+    "audio_en_storage_path": "2009_typin_stuff_lets_folks_chat_about_the_post.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122010",
+    "text_pt": "Mais seguidores significam que mais pessoas veem seu conteúdo",
+    "text_en": "More followers mean more people see your content",
+    "audio_en_storage_path": "2010_more_followers_mean_more_people_see_your_content.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122011",
+    "text_pt": "Mais fãs = mais olhos em seus uploads",
+    "text_en": "More fans = more eyes on your uploads",
+    "audio_en_storage_path": "2011_more_fans_more_eyes_on_your_uploads.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122012",
+    "text_pt": "Você pode desativar as notificações se quiser",
+    "text_en": "You can turn off notifications if you want",
+    "audio_en_storage_path": "2012_you_can_turn_off_notifications_if_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122013",
+    "text_pt": "Desligue o zumbido se precisar de uma pausa do barulho",
+    "text_en": "Turn off buzz if ya need a break from the noise",
+    "audio_en_storage_path": "2013_turn_off_buzz_if_ya_need_a_break_from_the_noise.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122014",
+    "text_pt": "Posso ver quem curtiu minha foto?",
+    "text_en": "Can I see who liked my photo?",
+    "audio_en_storage_path": "2014_can_i_see_who_liked_my_photo.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122015",
+    "text_pt": "Posso verificar quem tocou no coração?",
+    "text_en": "Can I check who tapped the heart?",
+    "audio_en_storage_path": "2015_can_i_check_who_tapped_the_heart.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122016",
+    "text_pt": "Sim, basta clicar no ícone de coração",
+    "text_en": "Yes. just click on the heart icon",
+    "audio_en_storage_path": "2016_yes_just_click_on_the_heart_icon.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122017",
+    "text_pt": "Sim, toque no ponto vermelho e veja quem demonstrou amor",
+    "text_en": "Yep. tap the red dot and see who showed love",
+    "audio_en_storage_path": "2017_yep_tap_the_red_dot_and_see_who_showed_love.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122018",
+    "text_pt": "Ou esconda se não quiser que todos saibam",
+    "text_en": "Or hide it if you don’t want everyone to know",
+    "audio_en_storage_path": "2018_or_hide_it_if_you_dont_want_everyone_to_know.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122019",
+    "text_pt": "Ou esconda os likes se você não se importa com quem viu",
+    "text_en": "Or hide likes if ya don’t care who saw it",
+    "audio_en_storage_path": "2019_or_hide_likes_if_ya_dont_care_who_saw_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122020",
+    "text_pt": "Onde posso ver minha postagem mais popular?",
+    "text_en": "Where can I see my most popular post?",
+    "audio_en_storage_path": "2020_where_can_i_see_my_most_popular_post.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122021",
+    "text_pt": "Onde está minha publicação principal — no meu perfil ou nas estatísticas?",
+    "text_en": "Where’s my top post — on my profile or stats?",
+    "audio_en_storage_path": "2021_wheres_my_top_post_on_my_profile_or_stats.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122022",
+    "text_pt": "Quando você responderá a essa mensagem?",
+    "text_en": "When will you reply to that message?",
+    "audio_en_storage_path": "2022_when_will_you_reply_to_that_message.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122023",
+    "text_pt": "Quando você responde àquela mensagem direta — hoje ou mais tarde?",
+    "text_en": "When ya respond to that DM — today or later?",
+    "audio_en_storage_path": "2023_when_ya_respond_to_that_dm_today_or_later.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122024",
+    "text_pt": "Por que você desativou os comentários naquele post?",
+    "text_en": "Why did you turn off comments on that post?",
+    "audio_en_storage_path": "2024_why_did_you_turn_off_comments_on_that_post.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122025",
+    "text_pt": "O que fez você bloquear comentários — muitos trolls?",
+    "text_en": "What made ya lock comments — too many trolls?",
+    "audio_en_storage_path": "2025_what_made_ya_lock_comments_too_many_trolls.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122026",
+    "text_pt": "Ele não se importa com curtidas — apenas com postagens por diversão",
+    "text_en": "He doesn’t care about likes — just posts for fun",
+    "audio_en_storage_path": "2026_he_doesnt_care_about_likes_just_posts_for_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122027",
+    "text_pt": "Cara, não persiga curtidas — apenas compartilhamentos por diversão",
+    "text_en": "Dude don’t chase likes — just shares for fun",
+    "audio_en_storage_path": "2027_dude_dont_chase_likes_just_shares_for_fun.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122028",
+    "text_pt": "Não vou verificar meu telefone a noite toda",
+    "text_en": "I won’t check my phone all night",
+    "audio_en_storage_path": "2028_i_wont_check_my_phone_all_night.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122029",
+    "text_pt": "Não vou verificar meu feed a noite toda - vou desconectar",
+    "text_en": "Ain’t checkin’ my feed all night — gonna disconnect",
+    "audio_en_storage_path": "2029_aint_checkin_my_feed_all_night_gonna_disconnect.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122030",
+    "text_pt": "Bom trabalho mantendo-o positivo",
+    "text_en": "Good job keeping it positive",
+    "audio_en_storage_path": "2030_good_job_keeping_it_positive.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122031",
+    "text_pt": "Mantenha as vibrações elevadas — sem negatividade",
+    "text_en": "Keep those vibes high — no negativity",
+    "audio_en_storage_path": "2031_keep_those_vibes_high_no_negativity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122032",
+    "text_pt": "Faça pausas e relaxe às vezes",
+    "text_en": "Take breaks and relax sometimes",
+    "audio_en_storage_path": "2032_take_breaks_and_relax_sometimes.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122033",
+    "text_pt": "Não fique grudado na tela o dia todo",
+    "text_en": "Don’t be glued to the screen all day",
+    "audio_en_storage_path": "2033_dont_be_glued_to_the_screen_all_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122034",
+    "text_pt": "Vejo você online — tenha um bom dia",
+    "text_en": "See you online — have a good day",
+    "audio_en_storage_path": "2034_see_you_online_have_a_good_day.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122035",
+    "text_pt": "Te vejo online — espero que seu dia seja tranquilo",
+    "text_en": "Catch ya online — hope your day’s smooth",
+    "audio_en_storage_path": "2035_catch_ya_online_hope_your_days_smooth.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

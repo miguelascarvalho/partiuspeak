@@ -1,0 +1,299 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121972",
+    "text_pt": "Vejo você online — poste algo legal",
+    "text_en": "See you online — post something cool",
+    "audio_en_storage_path": "1972_see_you_online_post_something_cool.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121973",
+    "text_pt": "Te pego online — deixe algo cair, fogo",
+    "text_en": "Catch ya online — drop somethin’ fire",
+    "audio_en_storage_path": "1973_catch_ya_online_drop_somethin_fire.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121974",
+    "text_pt": "Publicação e compartilhamento de conteúdo",
+    "text_en": "Posting and Sharing Content",
+    "audio_en_storage_path": "1974_posting_and_sharing_content.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121975",
+    "text_pt": "Você pode enviar fotos e escrever algo abaixo delas",
+    "text_en": "You can upload pictures and write something below them",
+    "audio_en_storage_path": "1975_you_can_upload_pictures_and_write_something_below_them.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121976",
+    "text_pt": "Carregue fotos e adicione uma legenda abaixo de cada uma delas",
+    "text_en": "Upload shots and add a caption under each one",
+    "audio_en_storage_path": "1976_upload_shots_and_add_a_caption_under_each_one.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121977",
+    "text_pt": "Algumas pessoas fazem vídeos. Outras apenas curtem e comentam.",
+    "text_en": "Some people make videos. others just like and comment",
+    "audio_en_storage_path": "1977_some_people_make_videos_others_just_like_and_comment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121978",
+    "text_pt": "Alguns rolos de filme. Outros batem corações e digitam coisas",
+    "text_en": "Some film reels. others tap hearts and type stuff",
+    "audio_en_storage_path": "1978_some_film_reels_others_tap_hearts_and_type_stuff.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121979",
+    "text_pt": "O aplicativo permite que você edite fotos antes de postar",
+    "text_en": "The app lets you edit photos before posting",
+    "audio_en_storage_path": "1979_the_app_lets_you_edit_photos_before_posting.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121980",
+    "text_pt": "Obtenha filtros e ferramentas para corrigir fotos antes de compartilhar",
+    "text_en": "Got filters and tools to fix pics before sharing",
+    "audio_en_storage_path": "1980_got_filters_and_tools_to_fix_pics_before_sharing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121981",
+    "text_pt": "Você pode marcar amigos para que eles vejam a postagem também",
+    "text_en": "You can tag friends so they see the post too",
+    "audio_en_storage_path": "1981_you_can_tag_friends_so_they_see_the_post_too.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121982",
+    "text_pt": "Marque seu esquadrão para que eles capturem o momento",
+    "text_en": "Tag your squad so they catch the moment",
+    "audio_en_storage_path": "1982_tag_your_squad_so_they_catch_the_moment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121983",
+    "text_pt": "Posso compartilhar isso com meus seguidores?",
+    "text_en": "Can I share this with my followers?",
+    "audio_en_storage_path": "1983_can_i_share_this_with_my_followers.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121984",
+    "text_pt": "Posso postar isso no meu feed?",
+    "text_en": "Can I post this on my feed?",
+    "audio_en_storage_path": "1984_can_i_post_this_on_my_feed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121985",
+    "text_pt": "Sim, basta pressionar o botão de compartilhamento",
+    "text_en": "Yes. just press the share button",
+    "audio_en_storage_path": "1985_yes_just_press_the_share_button.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121986",
+    "text_pt": "Sim, aperte o botão de upload bem rápido",
+    "text_en": "Yeah. hit that upload button real quick",
+    "audio_en_storage_path": "1986_yeah_hit_that_upload_button_real_quick.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121987",
+    "text_pt": "Ou espere até amanhã se quiser",
+    "text_en": "Or wait until tomorrow if you want",
+    "audio_en_storage_path": "1987_or_wait_until_tomorrow_if_you_want.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121988",
+    "text_pt": "Ou espere até amanhã — sem pressa",
+    "text_en": "Or hold off ‘til tomorrow — no rush",
+    "audio_en_storage_path": "1988_or_hold_off_til_tomorrow_no_rush.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121989",
+    "text_pt": "Onde devo colocar isso — na minha história ou feed?",
+    "text_en": "Where should I put this — on my story or feed?",
+    "audio_en_storage_path": "1989_where_should_i_put_this_on_my_story_or_feed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121990",
+    "text_pt": "Onde você está postando isso — história ou página principal?",
+    "text_en": "Where ya postin’ this — story or main page?",
+    "audio_en_storage_path": "1990_where_ya_postin_this_story_or_main_page.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121991",
+    "text_pt": "Quando vocês vão entrar ao vivo novamente?",
+    "text_en": "When will you go live again?",
+    "audio_en_storage_path": "1991_when_will_you_go_live_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121992",
+    "text_pt": "Quando você estiver ao vivo novamente - talvez hoje à noite?",
+    "text_en": "When ya jumpin’ on live again — maybe tonight?",
+    "audio_en_storage_path": "1992_when_ya_jumpin_on_live_again_maybe_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121993",
+    "text_pt": "Por que você removeu esse vídeo?",
+    "text_en": "Why did you remove that video?",
+    "audio_en_storage_path": "1993_why_did_you_remove_that_video.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121994",
+    "text_pt": "O que você fez com isso? Tinha muitas visualizações?",
+    "text_en": "What made ya take that down — got too many views?",
+    "audio_en_storage_path": "1994_what_made_ya_take_that_down_got_too_many_views.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121995",
+    "text_pt": "Ela posta uma vez por dia e se mantém consistente",
+    "text_en": "She posts once a day and stays consistent",
+    "audio_en_storage_path": "1995_she_posts_once_a_day_and_stays_consistent.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121996",
+    "text_pt": "Ela publica conteúdo diariamente — sempre dentro do cronograma",
+    "text_en": "She drops content daily — always on schedule",
+    "audio_en_storage_path": "1996_she_drops_content_daily_always_on_schedule.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121997",
+    "text_pt": "Não postarei nada sem antes verificar",
+    "text_en": "I won’t post anything without checking it first",
+    "audio_en_storage_path": "1997_i_wont_post_anything_without_checking_it_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121998",
+    "text_pt": "Vou verificar duas vezes antes de postar alguma coisa",
+    "text_en": "Gonna double-check before I post somethin’",
+    "audio_en_storage_path": "1998_gonna_doublecheck_before_i_post_somethin.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase121999",
+    "text_pt": "Boa postagem — continue assim",
+    "text_en": "Nice post — keep going like that",
+    "audio_en_storage_path": "1999_nice_post_keep_going_like_that.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122000",
+    "text_pt": "Upload sólido — continue trazendo esse bom conteúdo",
+    "text_en": "Solid upload — keep bringin’ that good content",
+    "audio_en_storage_path": "2000_solid_upload_keep_bringin_that_good_content.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122001",
+    "text_pt": "Não se esqueça de responder aos comentários",
+    "text_en": "Don’t forget to reply to comments",
+    "audio_en_storage_path": "2001_dont_forget_to_reply_to_comments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122002",
+    "text_pt": "Acompanhe as respostas nos comentários",
+    "text_en": "Keep up with the replies in the comments",
+    "audio_en_storage_path": "2002_keep_up_with_the_replies_in_the_comments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122003",
+    "text_pt": "Vejo você no próximo post — seja realista",
+    "text_en": "See you in the next post — keep it real",
+    "audio_en_storage_path": "2003_see_you_in_the_next_post_keep_it_real.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase122004",
+    "text_pt": "Até a próxima — seja genuíno",
+    "text_en": "Catch ya on the next one — stay genuine",
+    "audio_en_storage_path": "2004_catch_ya_on_the_next_one_stay_genuine.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

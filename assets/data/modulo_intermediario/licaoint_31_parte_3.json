@@ -1,0 +1,245 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115291",
+    "text_pt": "Porta do banheiro / Porta do banheiro",
+    "text_en": "Bathroom Door / Restroom Door",
+    "audio_en_storage_path": "5291_bathroom_door_restroom_door.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115292",
+    "text_pt": "A porta do banheiro fica nos fundos.",
+    "text_en": "The restroom door is in the back.",
+    "audio_en_storage_path": "5292_the_restroom_door_is_in_the_back.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115293",
+    "text_pt": "Você deve pedir a chave no balcão.",
+    "text_en": "You must ask for the key at the counter.",
+    "audio_en_storage_path": "5293_you_must_ask_for_the_key_at_the_counter.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115294",
+    "text_pt": "Bato e espero se há alguém lá dentro.",
+    "text_en": "I knock and wait if someone is inside.",
+    "audio_en_storage_path": "5294_i_knock_and_wait_if_someone_is_inside.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115295",
+    "text_pt": "Ou uso o outro — se disponível.",
+    "text_en": "Or I use the other one — if available.",
+    "audio_en_storage_path": "5295_or_i_use_the_other_one_if_available.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115296",
+    "text_pt": "A porta é azul clara e tem uma fechadura.",
+    "text_en": "The door is light blue with a lock.",
+    "audio_en_storage_path": "5296_the_door_is_light_blue_with_a_lock.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115297",
+    "text_pt": "Diz “Ocupado” quando fechado.",
+    "text_en": "Says “Occupied” when closed.",
+    "audio_en_storage_path": "5297_says_occupied_when_closed.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115298",
+    "text_pt": "Há uma placa dizendo “Peça a chave”.",
+    "text_en": "There’s a sign saying “Ask for key” on it.",
+    "audio_en_storage_path": "5298_theres_a_sign_saying_ask_for_key_on_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115299",
+    "text_pt": "E um pequeno espelho para verificar o cabelo.",
+    "text_en": "And a small mirror to check hair.",
+    "audio_en_storage_path": "5299_and_a_small_mirror_to_check_hair.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115300",
+    "text_pt": "O banheiro está aberto?",
+    "text_en": "Is the restroom open?",
+    "audio_en_storage_path": "5300_is_the_restroom_open.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115301",
+    "text_pt": "Sim, basta bater e esperar.",
+    "text_en": "Yes — just knock and wait.",
+    "audio_en_storage_path": "5301_yes_just_knock_and_wait.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115302",
+    "text_pt": "Onde a chave é guardada?",
+    "text_en": "Where is the key kept?",
+    "audio_en_storage_path": "5302_where_is_the_key_kept.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115303",
+    "text_pt": "No caixa — mostre um documento de identidade, se solicitado.",
+    "text_en": "At the cashier — show ID if asked.",
+    "audio_en_storage_path": "5303_at_the_cashier_show_id_if_asked.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115304",
+    "text_pt": "Às vezes eu apenas lavo minhas mãos.",
+    "text_en": "Sometimes I just wash my hands.",
+    "audio_en_storage_path": "5304_sometimes_i_just_wash_my_hands.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115305",
+    "text_pt": "Outras vezes eu uso o banheiro.",
+    "text_en": "Other times I use the toilet.",
+    "audio_en_storage_path": "5305_other_times_i_use_the_toilet.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115306",
+    "text_pt": "Onde você deixou seu telefone?",
+    "text_en": "Where did you leave your phone?",
+    "audio_en_storage_path": "5306_where_did_you_leave_your_phone.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115307",
+    "text_pt": "Na pia — quase deixei cair.",
+    "text_en": "On the sink — almost dropped it.",
+    "audio_en_storage_path": "5307_on_the_sink_almost_dropped_it.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115308",
+    "text_pt": "Quando eles vão consertar a maçaneta?",
+    "text_en": "When will they fix the handle?",
+    "audio_en_storage_path": "5308_when_will_they_fix_the_handle.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115309",
+    "text_pt": "Hoje — já foi chamada a manutenção.",
+    "text_en": "Today — already called maintenance.",
+    "audio_en_storage_path": "5309_today_already_called_maintenance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115310",
+    "text_pt": "Por que você pediu a chave hoje?",
+    "text_en": "Why did you ask for the key today?",
+    "audio_en_storage_path": "5310_why_did_you_ask_for_the_key_today.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115311",
+    "text_pt": "Precisava usar o banheiro antes de dirigir.",
+    "text_en": "Needed to use the restroom before driving.",
+    "audio_en_storage_path": "5311_needed_to_use_the_restroom_before_driving.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115312",
+    "text_pt": "Ele sempre pede a chave primeiro.",
+    "text_en": "He always asks for the key first.",
+    "audio_en_storage_path": "5312_he_always_asks_for_the_key_first.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115313",
+    "text_pt": "Nunca tente entrar sem permissão.",
+    "text_en": "Never try to enter without permission.",
+    "audio_en_storage_path": "5313_never_try_to_enter_without_permission.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115314",
+    "text_pt": "Amanhã. Não esquecerei de devolver a chave novamente.",
+    "text_en": "Tomorrow. I will not forget to return the key again.",
+    "audio_en_storage_path": "5314_tomorrow_i_will_not_forget_to_return_the_key_again.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115315",
+    "text_pt": "Deixei no meu bolso da última vez.",
+    "text_en": "Left it in my pocket last time.",
+    "audio_en_storage_path": "5315_left_it_in_my_pocket_last_time.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115316",
+    "text_pt": "Por favor, tranque a porta atrás de você!",
+    "text_en": "Please lock the door behind you!",
+    "audio_en_storage_path": "5316_please_lock_the_door_behind_you.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase115317",
+    "text_pt": "Respeite a privacidade e a limpeza.",
+    "text_en": "Respect privacy and cleanliness.",
+    "audio_en_storage_path": "5317_respect_privacy_and_cleanliness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

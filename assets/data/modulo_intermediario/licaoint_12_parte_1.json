@@ -1,0 +1,191 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111862",
+    "text_pt": "Jantar – Eles",
+    "text_en": "Dinner – They",
+    "audio_en_storage_path": "1862_dinner_they.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111863",
+    "text_pt": "Eles chegam em casa e sentem o cheiro do jantar cozinhando.",
+    "text_en": "They come home and smell dinner cooking.",
+    "audio_en_storage_path": "1863_they_come_home_and_smell_dinner_cooking.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111864",
+    "text_pt": "Hoje à noite, tem frango e macarrão no fogão.",
+    "text_en": "Tonight. there’s chicken and pasta on the stove.",
+    "audio_en_storage_path": "1864_tonight_theres_chicken_and_pasta_on_the_stove.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111865",
+    "text_pt": "Eles sentam-se juntos à mesa de jantar.",
+    "text_en": "They sit at the dining table together.",
+    "audio_en_storage_path": "1865_they_sit_at_the_dining_table_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111866",
+    "text_pt": "Ou comem em frente à TV.",
+    "text_en": "Or they eat in front of the TV.",
+    "audio_en_storage_path": "1866_or_they_eat_in_front_of_the_tv.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111867",
+    "text_pt": "Seus pratos são cheios e coloridos.",
+    "text_en": "Their plates are full and colorful.",
+    "audio_en_storage_path": "1867_their_plates_are_full_and_colorful.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111868",
+    "text_pt": "Tem arroz, feijão e vegetais.",
+    "text_en": "There's rice. beans. and vegetables.",
+    "audio_en_storage_path": "1868_theres_rice_beans_and_vegetables.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111869",
+    "text_pt": "Eles usam garfos e facas para cortar a carne.",
+    "text_en": "They use forks and knives to cut the meat.",
+    "audio_en_storage_path": "1869_they_use_forks_and_knives_to_cut_the_meat.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111870",
+    "text_pt": "E colheres para a sopa.",
+    "text_en": "And spoons for the soup.",
+    "audio_en_storage_path": "1870_and_spoons_for_the_soup.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111871",
+    "text_pt": "O que eles comeram no jantar hoje à noite?",
+    "text_en": "What did they have for dinner tonight?",
+    "audio_en_storage_path": "1871_what_did_they_have_for_dinner_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111872",
+    "text_pt": "Legumes salteados e tofu — estilo vegano.",
+    "text_en": "Stir-fried vegetables and tofu — vegan style.",
+    "audio_en_storage_path": "1872_stirfried_vegetables_and_tofu_vegan_style.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111873",
+    "text_pt": "Onde eles jantam na maioria das noites?",
+    "text_en": "Where do they eat dinner most nights?",
+    "audio_en_storage_path": "1873_where_do_they_eat_dinner_most_nights.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111874",
+    "text_pt": "Em casa — com a família ou colegas de quarto.",
+    "text_en": "At home — with family or roommates.",
+    "audio_en_storage_path": "1874_at_home_with_family_or_roommates.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111875",
+    "text_pt": "Às vezes eles cozinham. às vezes outra pessoa cozinha.",
+    "text_en": "Sometimes they cook. sometimes someone else does.",
+    "audio_en_storage_path": "1875_sometimes_they_cook_sometimes_someone_else_does.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111876",
+    "text_pt": "Mas eles sempre ajudam a pôr a mesa.",
+    "text_en": "But they always help set the table.",
+    "audio_en_storage_path": "1876_but_they_always_help_set_the_table.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111877",
+    "text_pt": "Onde está o cardápio do jantar hoje à noite?",
+    "text_en": "Where is the dinner menu tonight?",
+    "audio_en_storage_path": "1877_where_is_the_dinner_menu_tonight.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111878",
+    "text_pt": "Na geladeira — escrito com ímãs.",
+    "text_en": "On the fridge — written with magnets.",
+    "audio_en_storage_path": "1878_on_the_fridge_written_with_magnets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111879",
+    "text_pt": "Quando eles costumam jantar?",
+    "text_en": "When do they usually eat dinner?",
+    "audio_en_storage_path": "1879_when_do_they_usually_eat_dinner.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111880",
+    "text_pt": "Por volta das 18h30 — depois do dever de casa ou do trabalho.",
+    "text_en": "Around 6:30 PM — after homework or work.",
+    "audio_en_storage_path": "1880_around_630_pm_after_homework_or_work.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111881",
+    "text_pt": "Por que eles pediram mais?",
+    "text_en": "Why did they ask for seconds?",
+    "audio_en_storage_path": "1881_why_did_they_ask_for_seconds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase111882",
+    "text_pt": "Porque tudo tinha um sabor incrível.",
+    "text_en": "Because everything tasted amazing.",
+    "audio_en_storage_path": "1882_because_everything_tasted_amazing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]

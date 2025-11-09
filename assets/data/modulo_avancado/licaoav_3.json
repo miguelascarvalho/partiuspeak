@@ -1,0 +1,785 @@
+[
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130213",
+    "text_pt": "Família: Conflitos. Reconciliação. Laços de Sangue. e Adoção.",
+    "text_en": "Family: Conflicts. Reconciliation. Blood Ties. and Adoption",
+    "audio_en_storage_path": "213_family_conflicts_reconciliation_blood_ties_and_adoption.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130214",
+    "text_pt": "A família é a base da conexão humana e do apoio emocional.",
+    "text_en": "Family is the foundation of human connection and emotional support.",
+    "audio_en_storage_path": "214_family_is_the_foundation_of_human_connection_and_emotional_support.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130215",
+    "text_pt": "Muitas vezes é visto como uma fonte de amor, orientação e pertencimento.",
+    "text_en": "It is often seen as a source of love. guidance. and belonging.",
+    "audio_en_storage_path": "215_it_is_often_seen_as_a_source_of_love_guidance_and_belonging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130216",
+    "text_pt": "Entretanto, os relacionamentos familiares nem sempre são livres de desafios.",
+    "text_en": "However. family relationships are not always free of challenges.",
+    "audio_en_storage_path": "216_however_family_relationships_are_not_always_free_of_challenges.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130217",
+    "text_pt": "Conflitos dentro das famílias podem surgir de mal-entendidos ou diferenças.",
+    "text_en": "Conflicts within families can arise from misunderstandings or differences.",
+    "audio_en_storage_path": "217_conflicts_within_families_can_arise_from_misunderstandings_or_differences.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130218",
+    "text_pt": "Diferenças geracionais muitas vezes levam a conflitos entre pais e filhos.",
+    "text_en": "Generational gaps often lead to clashes between parents and children.",
+    "audio_en_storage_path": "218_generational_gaps_often_lead_to_clashes_between_parents_and_children.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130219",
+    "text_pt": "Cada geração tem seus próprios valores, crenças e modos de vida.",
+    "text_en": "Each generation has its own values. beliefs. and ways of life.",
+    "audio_en_storage_path": "219_each_generation_has_its_own_values_beliefs_and_ways_of_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130220",
+    "text_pt": "Rivalidades entre irmãos são um tema comum em histórias de família.",
+    "text_en": "Sibling rivalries are a common theme in family stories.",
+    "audio_en_storage_path": "220_sibling_rivalries_are_a_common_theme_in_family_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130221",
+    "text_pt": "A competição por atenção ou aprovação pode prejudicar os relacionamentos entre irmãos.",
+    "text_en": "Competition for attention or approval can strain sibling relationships.",
+    "audio_en_storage_path": "221_competition_for_attention_or_approval_can_strain_sibling_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130222",
+    "text_pt": "As expectativas dos pais podem criar tensão e sentimentos de inadequação.",
+    "text_en": "Parental expectations can create tension and feelings of inadequacy.",
+    "audio_en_storage_path": "222_parental_expectations_can_create_tension_and_feelings_of_inadequacy.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130223",
+    "text_pt": "As crianças podem ter dificuldades para atender aos padrões estabelecidos pelos pais.",
+    "text_en": "Children may struggle to meet the standards set by their parents.",
+    "audio_en_storage_path": "223_children_may_struggle_to_meet_the_standards_set_by_their_parents.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130224",
+    "text_pt": "Segredos de família muitas vezes estão no centro de narrativas dramáticas.",
+    "text_en": "Family secrets are often at the heart of dramatic narratives.",
+    "audio_en_storage_path": "224_family_secrets_are_often_at_the_heart_of_dramatic_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130225",
+    "text_pt": "Verdades ocultas podem abalar os alicerces até mesmo das famílias mais próximas.",
+    "text_en": "Hidden truths can shake the foundation of even the closest families.",
+    "audio_en_storage_path": "225_hidden_truths_can_shake_the_foundation_of_even_the_closest_families.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130226",
+    "text_pt": "A reconciliação é um momento poderoso nas histórias de família.",
+    "text_en": "Reconciliation is a powerful moment in family stories.",
+    "audio_en_storage_path": "226_reconciliation_is_a_powerful_moment_in_family_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130227",
+    "text_pt": "Ela mostra como o perdão pode curar velhas feridas e reconstruir a confiança.",
+    "text_en": "It shows how forgiveness can heal old wounds and rebuild trust.",
+    "audio_en_storage_path": "227_it_shows_how_forgiveness_can_heal_old_wounds_and_rebuild_trust.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130228",
+    "text_pt": "A adoção acrescenta outra camada de complexidade à dinâmica familiar.",
+    "text_en": "Adoption adds another layer of complexity to family dynamics.",
+    "audio_en_storage_path": "228_adoption_adds_another_layer_of_complexity_to_family_dynamics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130229",
+    "text_pt": "Ela desafia noções tradicionais de laços sanguíneos e pertencimento.",
+    "text_en": "It challenges traditional notions of blood ties and belonging.",
+    "audio_en_storage_path": "229_it_challenges_traditional_notions_of_blood_ties_and_belonging.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130230",
+    "text_pt": "Crianças adotadas muitas vezes enfrentam questões de identidade e aceitação.",
+    "text_en": "Adopted children often grapple with questions of identity and acceptance.",
+    "audio_en_storage_path": "230_adopted_children_often_grapple_with_questions_of_identity_and_acceptance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130231",
+    "text_pt": "Eles buscam entender de onde vêm e quem realmente são.",
+    "text_en": "They seek to understand where they come from and who they truly are.",
+    "audio_en_storage_path": "231_they_seek_to_understand_where_they_come_from_and_who_they_truly_are.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130232",
+    "text_pt": "Famílias adotivas são outro aspecto importante das narrativas familiares.",
+    "text_en": "Foster families are another important aspect of family narratives.",
+    "audio_en_storage_path": "232_foster_families_are_another_important_aspect_of_family_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130233",
+    "text_pt": "Eles destacam a resiliência e a adaptabilidade dos relacionamentos humanos.",
+    "text_en": "They highlight the resilience and adaptability of human relationships.",
+    "audio_en_storage_path": "233_they_highlight_the_resilience_and_adaptability_of_human_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130234",
+    "text_pt": "Famílias misturadas enfrentam desafios únicos para encontrar harmonia.",
+    "text_en": "Blended families face unique challenges in finding harmony.",
+    "audio_en_storage_path": "234_blended_families_face_unique_challenges_in_finding_harmony.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130235",
+    "text_pt": "Padrastos e meio-irmãos precisam navegar por territórios desconhecidos.",
+    "text_en": "Step-parents and step-siblings must navigate unfamiliar territory.",
+    "audio_en_storage_path": "235_stepparents_and_stepsiblings_must_navigate_unfamiliar_territory.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130236",
+    "text_pt": "Diferenças culturais podem enriquecer os relacionamentos familiares ou criar atritos.",
+    "text_en": "Cultural differences can enrich family relationships or create friction.",
+    "audio_en_storage_path": "236_cultural_differences_can_enrich_family_relationships_or_create_friction.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130237",
+    "text_pt": "Aprender a aceitar a diversidade fortalece os laços familiares.",
+    "text_en": "Learning to embrace diversity strengthens family bonds.",
+    "audio_en_storage_path": "237_learning_to_embrace_diversity_strengthens_family_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130238",
+    "text_pt": "Histórias de família geralmente exploram o tema do amor incondicional.",
+    "text_en": "Family stories often explore the theme of unconditional love.",
+    "audio_en_storage_path": "238_family_stories_often_explore_the_theme_of_unconditional_love.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130239",
+    "text_pt": "Apesar das falhas e erros, os membros da família se apoiam mutuamente.",
+    "text_en": "Despite flaws and mistakes. family members stand by each other.",
+    "audio_en_storage_path": "239_despite_flaws_and_mistakes_family_members_stand_by_each_other.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130240",
+    "text_pt": "Os pais muitas vezes fazem sacrifícios pelo bem-estar dos filhos.",
+    "text_en": "Parents often make sacrifices for the well-being of their children.",
+    "audio_en_storage_path": "240_parents_often_make_sacrifices_for_the_wellbeing_of_their_children.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130241",
+    "text_pt": "Sua abnegação reflete a profundidade de seu amor e comprometimento.",
+    "text_en": "Their selflessness reflects the depth of their love and commitment.",
+    "audio_en_storage_path": "241_their_selflessness_reflects_the_depth_of_their_love_and_commitment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130242",
+    "text_pt": "As crianças, por sua vez, aprendem a apreciar e honrar os esforços dos pais.",
+    "text_en": "Children. in turn. learn to appreciate and honor their parents’ efforts.",
+    "audio_en_storage_path": "242_children_in_turn_learn_to_appreciate_and_honor_their_parents_efforts.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130243",
+    "text_pt": "A gratidão se torna a base de relacionamentos familiares fortes.",
+    "text_en": "Gratitude becomes a cornerstone of strong family relationships.",
+    "audio_en_storage_path": "243_gratitude_becomes_a_cornerstone_of_strong_family_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130244",
+    "text_pt": "As tradições familiares desempenham um papel fundamental na criação de memórias compartilhadas.",
+    "text_en": "Family traditions play a key role in creating shared memories.",
+    "audio_en_storage_path": "244_family_traditions_play_a_key_role_in_creating_shared_memories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130245",
+    "text_pt": "Celebrações e rituais aproximam os membros da família.",
+    "text_en": "Celebrations and rituals bring family members closer together.",
+    "audio_en_storage_path": "245_celebrations_and_rituals_bring_family_members_closer_together.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130246",
+    "text_pt": "Os feriados são frequentemente retratados como momentos de alegria e tensão.",
+    "text_en": "Holidays are often depicted as moments of both joy and tension.",
+    "audio_en_storage_path": "246_holidays_are_often_depicted_as_moments_of_both_joy_and_tension.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130247",
+    "text_pt": "Eles destacam as complexidades das reuniões e dinâmicas familiares.",
+    "text_en": "They highlight the complexities of family gatherings and dynamics.",
+    "audio_en_storage_path": "247_they_highlight_the_complexities_of_family_gatherings_and_dynamics.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130248",
+    "text_pt": "Às vezes, os conflitos familiares têm origem em dificuldades financeiras.",
+    "text_en": "Family conflicts are sometimes rooted in financial struggles.",
+    "audio_en_storage_path": "248_family_conflicts_are_sometimes_rooted_in_financial_struggles.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130249",
+    "text_pt": "Problemas financeiros podem prejudicar relacionamentos e gerar ressentimento.",
+    "text_en": "Money issues can strain relationships and create resentment.",
+    "audio_en_storage_path": "249_money_issues_can_strain_relationships_and_create_resentment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130250",
+    "text_pt": "O divórcio é outro tópico difícil explorado em histórias de família.",
+    "text_en": "Divorce is another difficult topic explored in family stories.",
+    "audio_en_storage_path": "250_divorce_is_another_difficult_topic_explored_in_family_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130251",
+    "text_pt": "Ela força os personagens a redefinir seus papéis e relacionamentos.",
+    "text_en": "It forces characters to redefine their roles and relationships.",
+    "audio_en_storage_path": "251_it_forces_characters_to_redefine_their_roles_and_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130252",
+    "text_pt": "Famílias monoparentais enfrentam desafios únicos na criação dos filhos.",
+    "text_en": "Single-parent families face unique challenges in raising children.",
+    "audio_en_storage_path": "252_singleparent_families_face_unique_challenges_in_raising_children.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130253",
+    "text_pt": "Eles precisam equilibrar trabalho, criação dos filhos e realização pessoal.",
+    "text_en": "They must balance work. parenting. and personal fulfillment.",
+    "audio_en_storage_path": "253_they_must_balance_work_parenting_and_personal_fulfillment.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130254",
+    "text_pt": "Famílias extensas, incluindo avós e primos, acrescentam profundidade às histórias.",
+    "text_en": "Extended families. including grandparents and cousins. add depth to stories.",
+    "audio_en_storage_path": "254_extended_families_including_grandparents_and_cousins_add_depth_to_stories.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130255",
+    "text_pt": "Eles fornecem sabedoria, apoio e um senso de continuidade.",
+    "text_en": "They provide wisdom. support. and a sense of continuity.",
+    "audio_en_storage_path": "255_they_provide_wisdom_support_and_a_sense_of_continuity.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130256",
+    "text_pt": "Os avós muitas vezes servem como pontes entre o passado e o presente.",
+    "text_en": "Grandparents often serve as bridges between past and present.",
+    "audio_en_storage_path": "256_grandparents_often_serve_as_bridges_between_past_and_present.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130257",
+    "text_pt": "Suas histórias e experiências moldam a visão de mundo da geração mais jovem.",
+    "text_en": "Their stories and experiences shape the younger generation’s worldview.",
+    "audio_en_storage_path": "257_their_stories_and_experiences_shape_the_younger_generations_worldview.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130258",
+    "text_pt": "Histórias de família muitas vezes retratam a dor da separação ou da perda.",
+    "text_en": "Family stories often depict the pain of separation or loss.",
+    "audio_en_storage_path": "258_family_stories_often_depict_the_pain_of_separation_or_loss.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130259",
+    "text_pt": "A morte de um ente querido deixa um impacto duradouro na unidade familiar.",
+    "text_en": "The death of a loved one leaves a lasting impact on the family unit.",
+    "audio_en_storage_path": "259_the_death_of_a_loved_one_leaves_a_lasting_impact_on_the_family_unit.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130260",
+    "text_pt": "Viver o luto em conjunto ajuda os familiares a processar suas emoções.",
+    "text_en": "Grieving together helps family members process their emotions.",
+    "audio_en_storage_path": "260_grieving_together_helps_family_members_process_their_emotions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130261",
+    "text_pt": "Também fortalece o vínculo por meio da tristeza e da cura compartilhadas.",
+    "text_en": "It also strengthens their bond through shared sorrow and healing.",
+    "audio_en_storage_path": "261_it_also_strengthens_their_bond_through_shared_sorrow_and_healing.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130262",
+    "text_pt": "Reconectar-se com familiares afastados é um tema recorrente.",
+    "text_en": "Reconnecting with estranged family members is a recurring theme.",
+    "audio_en_storage_path": "262_reconnecting_with_estranged_family_members_is_a_recurring_theme.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130263",
+    "text_pt": "Personagens superam o orgulho e a raiva para reconstruir relacionamentos perdidos.",
+    "text_en": "Characters overcome pride and anger to rebuild lost relationships.",
+    "audio_en_storage_path": "263_characters_overcome_pride_and_anger_to_rebuild_lost_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130264",
+    "text_pt": "Reuniões familiares geralmente são repletas de emoções conflitantes.",
+    "text_en": "Family reunions are often filled with mixed emotions.",
+    "audio_en_storage_path": "264_family_reunions_are_often_filled_with_mixed_emotions.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130265",
+    "text_pt": "Alegria e nostalgia coexistem com tensões e arrependimentos não resolvidos.",
+    "text_en": "Joy and nostalgia coexist with unresolved tensions and regrets.",
+    "audio_en_storage_path": "265_joy_and_nostalgia_coexist_with_unresolved_tensions_and_regrets.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130266",
+    "text_pt": "Histórias de família geralmente enfatizam a importância da comunicação.",
+    "text_en": "Family stories often emphasize the importance of communication.",
+    "audio_en_storage_path": "266_family_stories_often_emphasize_the_importance_of_communication.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130267",
+    "text_pt": "O diálogo aberto e honesto ajuda a resolver conflitos e mal-entendidos.",
+    "text_en": "Open and honest dialogue helps resolve conflicts and misunderstandings.",
+    "audio_en_storage_path": "267_open_and_honest_dialogue_helps_resolve_conflicts_and_misunderstandings.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130268",
+    "text_pt": "O perdão é um tema central em muitas narrativas familiares.",
+    "text_en": "Forgiveness is a central theme in many family narratives.",
+    "audio_en_storage_path": "268_forgiveness_is_a_central_theme_in_many_family_narratives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130269",
+    "text_pt": "Deixar de lado as mágoas do passado permite que as famílias sigam em frente.",
+    "text_en": "Letting go of past grievances allows families to move forward.",
+    "audio_en_storage_path": "269_letting_go_of_past_grievances_allows_families_to_move_forward.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130270",
+    "text_pt": "Filmes de família geralmente celebram a ideia de família escolhida.",
+    "text_en": "Family films often celebrate the idea of chosen family.",
+    "audio_en_storage_path": "270_family_films_often_celebrate_the_idea_of_chosen_family.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130271",
+    "text_pt": "Amigos e mentores podem preencher o vazio deixado por parentes ausentes.",
+    "text_en": "Friends and mentors can fill the void left by absent relatives.",
+    "audio_en_storage_path": "271_friends_and_mentors_can_fill_the_void_left_by_absent_relatives.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130272",
+    "text_pt": "Histórias de adoção destacam a beleza de criar novos laços.",
+    "text_en": "Adoption stories highlight the beauty of creating new bonds.",
+    "audio_en_storage_path": "272_adoption_stories_highlight_the_beauty_of_creating_new_bonds.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130273",
+    "text_pt": "Amor e cuidado transcendem conexões biológicas e laços de sangue.",
+    "text_en": "Love and care transcend biological connections and blood ties.",
+    "audio_en_storage_path": "273_love_and_care_transcend_biological_connections_and_blood_ties.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130274",
+    "text_pt": "Histórias de família geralmente exploram o tema de legado e herança.",
+    "text_en": "Family stories often explore the theme of legacy and inheritance.",
+    "audio_en_storage_path": "274_family_stories_often_explore_the_theme_of_legacy_and_inheritance.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130275",
+    "text_pt": "Personagens refletem sobre o que deixam para as gerações futuras.",
+    "text_en": "Characters reflect on what they leave behind for future generations.",
+    "audio_en_storage_path": "275_characters_reflect_on_what_they_leave_behind_for_future_generations.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130276",
+    "text_pt": "O amor parental é frequentemente retratado como incondicional e duradouro.",
+    "text_en": "Parental love is often portrayed as unconditional and enduring.",
+    "audio_en_storage_path": "276_parental_love_is_often_portrayed_as_unconditional_and_enduring.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130277",
+    "text_pt": "Mesmo quando as crianças se desviam, os pais continuam a oferecer apoio.",
+    "text_en": "Even when children stray. parents continue to offer support.",
+    "audio_en_storage_path": "277_even_when_children_stray_parents_continue_to_offer_support.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130278",
+    "text_pt": "As crianças, por sua vez, aprendem a valorizar os sacrifícios dos pais.",
+    "text_en": "Children. in turn. learn to appreciate their parents’ sacrifices.",
+    "audio_en_storage_path": "278_children_in_turn_learn_to_appreciate_their_parents_sacrifices.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130279",
+    "text_pt": "A maturidade traz uma compreensão mais profunda do amor e do esforço familiar.",
+    "text_en": "Maturity brings a deeper understanding of familial love and effort.",
+    "audio_en_storage_path": "279_maturity_brings_a_deeper_understanding_of_familial_love_and_effort.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130280",
+    "text_pt": "Histórias de família muitas vezes retratam os desafios de equilibrar a independência.",
+    "text_en": "Family stories often depict the challenges of balancing independence.",
+    "audio_en_storage_path": "280_family_stories_often_depict_the_challenges_of_balancing_independence.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130281",
+    "text_pt": "Os jovens adultos buscam a liberdade, mas ainda anseiam pela aprovação dos pais.",
+    "text_en": "Young adults seek freedom while still craving parental approval.",
+    "audio_en_storage_path": "281_young_adults_seek_freedom_while_still_craving_parental_approval.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130282",
+    "text_pt": "Às vezes, os conflitos familiares são resolvidos por meio de atos de gentileza.",
+    "text_en": "Family conflicts are sometimes resolved through acts of kindness.",
+    "audio_en_storage_path": "282_family_conflicts_are_sometimes_resolved_through_acts_of_kindness.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130283",
+    "text_pt": "Pequenos gestos podem consertar relacionamentos rompidos e restaurar a harmonia.",
+    "text_en": "Small gestures can mend broken relationships and restore harmony.",
+    "audio_en_storage_path": "283_small_gestures_can_mend_broken_relationships_and_restore_harmony.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130284",
+    "text_pt": "Histórias de família geralmente destacam a importância da tradição e da herança.",
+    "text_en": "Family stories often highlight the importance of tradition and heritage.",
+    "audio_en_storage_path": "284_family_stories_often_highlight_the_importance_of_tradition_and_heritage.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130285",
+    "text_pt": "Preservar as raízes culturais fortalece a identidade e o orgulho da família.",
+    "text_en": "Preserving cultural roots strengthens family identity and pride.",
+    "audio_en_storage_path": "285_preserving_cultural_roots_strengthens_family_identity_and_pride.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130286",
+    "text_pt": "Filmes de família geralmente usam o humor para amenizar momentos sérios.",
+    "text_en": "Family films often use humor to lighten serious moments.",
+    "audio_en_storage_path": "286_family_films_often_use_humor_to_lighten_serious_moments.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130287",
+    "text_pt": "Interações engraçadas nos lembram do calor e da alegria na vida familiar.",
+    "text_en": "Funny interactions remind us of the warmth and joy in family life.",
+    "audio_en_storage_path": "287_funny_interactions_remind_us_of_the_warmth_and_joy_in_family_life.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130288",
+    "text_pt": "Objetos simbólicos, como relíquias de família ou fotografias, possuem um significado profundo.",
+    "text_en": "Symbolic objects. like heirlooms or photographs. hold deep meaning.",
+    "audio_en_storage_path": "288_symbolic_objects_like_heirlooms_or_photographs_hold_deep_meaning.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130289",
+    "text_pt": "Eles representam a história e as memórias compartilhadas pelos membros da família.",
+    "text_en": "They represent the history and memories shared by family members.",
+    "audio_en_storage_path": "289_they_represent_the_history_and_memories_shared_by_family_members.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130290",
+    "text_pt": "Histórias de família geralmente exploram o tema de lealdade versus traição.",
+    "text_en": "Family stories often explore the theme of loyalty versus betrayal.",
+    "audio_en_storage_path": "290_family_stories_often_explore_the_theme_of_loyalty_versus_betrayal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130291",
+    "text_pt": "Os personagens devem escolher entre permanecer fiéis ou ceder ao conflito.",
+    "text_en": "Characters must choose between staying true or giving in to conflict.",
+    "audio_en_storage_path": "291_characters_must_choose_between_staying_true_or_giving_in_to_conflict.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130292",
+    "text_pt": "Os laços familiares são testados, mas no final se mostram inquebráveis.",
+    "text_en": "Family bonds are tested but ultimately prove unbreakable.",
+    "audio_en_storage_path": "292_family_bonds_are_tested_but_ultimately_prove_unbreakable.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130293",
+    "text_pt": "Não importa os desafios, a família continua sendo uma fonte de força.",
+    "text_en": "No matter the challenges. family remains a source of strength.",
+    "audio_en_storage_path": "293_no_matter_the_challenges_family_remains_a_source_of_strength.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130294",
+    "text_pt": "Histórias de família geralmente terminam com uma sensação de esperança e renovação.",
+    "text_en": "Family stories often end with a sense of hope and renewal.",
+    "audio_en_storage_path": "294_family_stories_often_end_with_a_sense_of_hope_and_renewal.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130295",
+    "text_pt": "Reconciliação e compreensão abrem caminho para um futuro mais brilhante.",
+    "text_en": "Reconciliation and understanding pave the way for a brighter future.",
+    "audio_en_storage_path": "295_reconciliation_and_understanding_pave_the_way_for_a_brighter_future.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130296",
+    "text_pt": "Família é um tema universal que ressoa através de culturas e fronteiras.",
+    "text_en": "Family is a universal theme that resonates across cultures and borders.",
+    "audio_en_storage_path": "296_family_is_a_universal_theme_that_resonates_across_cultures_and_borders.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130297",
+    "text_pt": "Todos entendem as alegrias e as lutas dos relacionamentos familiares.",
+    "text_en": "Everyone understands the joys and struggles of family relationships.",
+    "audio_en_storage_path": "297_everyone_understands_the_joys_and_struggles_of_family_relationships.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130298",
+    "text_pt": "Filmes de família inspiram os espectadores a valorizar seus próprios entes queridos.",
+    "text_en": "Family films inspire viewers to cherish their own loved ones.",
+    "audio_en_storage_path": "298_family_films_inspire_viewers_to_cherish_their_own_loved_ones.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  },
+  {
+    "tipo": "button",
+    "phrase_id": "Frase130299",
+    "text_pt": "Eles nos lembram de nutrir e valorizar os laços que temos.",
+    "text_en": "They remind us to nurture and appreciate the bonds we have.",
+    "audio_en_storage_path": "299_they_remind_us_to_nurture_and_appreciate_the_bonds_we_have.mp3",
+    "corPadrao": "#3F51B5",
+    "corToque": "#4E5378"
+  }
+]
